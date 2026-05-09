@@ -1,0 +1,39 @@
+# Map upstream source sector strings → normalized labels.
+#
+# We deliberately use generic, descriptive names (not GICS / not ICB) to
+# avoid licensing complications. Add new mappings here when an unmapped
+# value shows up in the build log.
+
+# FinanceDatabase sectors (from equities.csv, "sector" column).
+finance_database:
+  sectors:
+    "Basic Materials":          "Materials"
+    "Communication Services":   "Communications"
+    "Consumer Cyclical":        "Consumer Discretionary"
+    "Consumer Defensive":       "Consumer Staples"
+    "Energy":                   "Energy"
+    "Financial Services":       "Financials"
+    "Healthcare":               "Healthcare"
+    "Industrials":              "Industrials"
+    "Real Estate":              "Real Estate"
+    "Technology":               "Technology"
+    "Utilities":                "Utilities"
+
+  # Industry group mapping is mostly identity; override when upstream
+  # uses an oddly-spelled or branded label.
+  industry_groups: {}
+
+# SEC EDGAR N-PORT filings don't include sector; we look it up via the
+# stock dataset using the holding's ISIN/CUSIP. So no SEC mapping
+# needed here.
+
+# Issuer CSVs — populate as scrapers are added.
+issuer:
+  iShares:
+    sectors: {}
+  Vanguard:
+    sectors: {}
+  SSGA:
+    sectors: {}
+  Invesco:
+    sectors: {}

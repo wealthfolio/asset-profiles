@@ -1,0 +1,71 @@
+# Yahoo-style exchange suffix → ISO 10383 MIC code.
+# Bare symbol (no suffix) is assumed US-primary; we default to XNYS but
+# the build pass will override based on the source's listed exchange
+# when known.
+#
+# This is a mirror of the Wealthfolio client mapping; keep them in sync.
+
+"":      XNYS    # default for US-listed (will be refined per row)
+".N":    XNYS    # NYSE
+".OQ":   XNAS    # Nasdaq
+".US":   XNAS
+
+# North America
+".TO":   XTSE    # Toronto
+".V":    XTSX    # TSX Venture
+".CN":   XCNQ    # Canadian Securities Exchange
+".NE":   NEOE    # NEO Exchange
+".MX":   XMEX    # Mexico
+
+# UK / Europe
+".L":    XLON    # London
+".AS":   XAMS    # Amsterdam (Euronext)
+".PA":   XPAR    # Paris (Euronext)
+".BR":   XBRU    # Brussels (Euronext)
+".LS":   XLIS    # Lisbon (Euronext)
+".MI":   XMIL    # Milan (Borsa Italiana)
+".MC":   XMAD    # Madrid (BME)
+".DE":   XETR    # Xetra (Germany primary)
+".F":    XFRA    # Frankfurt
+".SG":   XSTU    # Stuttgart
+".VI":   XWBO    # Vienna
+".SW":   XSWX    # SIX Swiss
+".OL":   XOSL    # Oslo
+".ST":   XSTO    # Stockholm
+".HE":   XHEL    # Helsinki
+".CO":   XCSE    # Copenhagen
+".IS":   XIST    # Istanbul
+".WA":   XWAR    # Warsaw
+".PR":   XPRA    # Prague
+".AT":   XATH    # Athens
+".IR":   XDUB    # Dublin
+
+# Asia / Pacific
+".HK":   XHKG    # Hong Kong
+".T":    XTKS    # Tokyo
+".KS":   XKRX    # Korea (KOSPI)
+".KQ":   XKOS    # KOSDAQ
+".SS":   XSHG    # Shanghai
+".SZ":   XSHE    # Shenzhen
+".TW":   XTAI    # Taiwan
+".SI":   XSES    # Singapore
+".KL":   XKLS    # Kuala Lumpur
+".BK":   XBKK    # Bangkok
+".JK":   XIDX    # Jakarta
+".NS":   XNSE    # NSE India
+".BO":   XBOM    # BSE India
+".AX":   XASX    # ASX Australia
+".NZ":   XNZE    # NZ Stock Exchange
+
+# Middle East / Africa
+".SR":   XSAU    # Saudi Tadawul
+".QA":   DSMD    # Qatar
+".AD":   XADS    # Abu Dhabi
+".DU":   DIFX    # Dubai
+".CA":   XCAI    # Cairo
+".JO":   XJSE    # Johannesburg
+
+# South America
+".SA":   BVMF    # B3 Brazil
+".SN":   XSGO    # Santiago
+".BA":   XBUE    # Buenos Aires
