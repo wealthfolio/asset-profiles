@@ -33,6 +33,7 @@ jobs:
         uses: astral-sh/setup-uv@v3
         with:
           enable-cache: true
+          cache-dependency-glob: 'scripts/requirements.txt'
 
       - name: Install dependencies
         run: uv pip install --system -r scripts/requirements.txt
