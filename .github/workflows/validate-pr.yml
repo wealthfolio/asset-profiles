@@ -1,0 +1,31 @@
+name: Validate PR
+
+on:
+  pull_request:
+    paths:
+      - 'v1/**'
+      - 'schema/**'
+      - 'scripts/**'
+      - 'config/**'
+      - 'manual_overrides/**'
+      - '.github/workflows/validate-pr.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv pip install --system -r scripts/requirements.txt
+
+      - name: Validate v1/
+        run: python scripts/validate.py v1/

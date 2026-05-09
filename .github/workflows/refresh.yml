@@ -1,0 +1,59 @@
+name: Refresh asset profiles
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'   # Sunday 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      no_etfs:
+        description: 'Skip ETF pass (stocks only)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv pip install --system -r scripts/requirements.txt
+
+      - name: Build dataset
+        env:
+          SEC_USER_AGENT: "Wealthfolio asset-profiles bot opensource@wealthfolio.app"
+        run: |
+          if [ "${{ inputs.no_etfs }}" = "true" ]; then
+            python scripts/build.py --no-etfs
+          else
+            python scripts/build.py
+          fi
+
+      - name: Validate
+        run: python scripts/validate.py v1/
+
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profiles"
+          file_pattern: "v1/**"
+          commit_user_name: "asset-profiles-bot"
+          commit_user_email: "opensource@wealthfolio.app"
