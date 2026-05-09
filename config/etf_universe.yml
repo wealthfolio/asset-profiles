@@ -1,0 +1,280 @@
+# ETF universe — funds we track. Edit-via-PR welcomed (see CONTRIBUTING.md).
+#
+# For US-domiciled funds, set `cik` so EDGAR lookup is deterministic.
+# For non-US (UCITS, TSX), omit `cik` and the build falls back to the
+# issuer scraper using the `issuer` hint.
+#
+# `issuer` is one of: iShares, Vanguard, SSGA, Invesco, ARK, ProShares,
+# Schwab, FirstTrust, JPMorgan, GlobalX, WisdomTree.
+
+etfs:
+  # ---- Top US-listed (EDGAR primary) ----------------------------------
+
+  # State Street SPDR
+  - ticker: SPY
+    name: "SPDR S&P 500 ETF Trust"
+    issuer: SSGA
+    cik: "0000884394"
+  - ticker: DIA
+    name: "SPDR Dow Jones Industrial Average ETF Trust"
+    issuer: SSGA
+    cik: "0001029850"
+  - ticker: XLF
+    name: "Financial Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: XLK
+    name: "Technology Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: XLE
+    name: "Energy Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: XLV
+    name: "Health Care Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: XLI
+    name: "Industrial Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: XLY
+    name: "Consumer Discretionary Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: XLP
+    name: "Consumer Staples Select Sector SPDR Fund"
+    issuer: SSGA
+    cik: "0001064642"
+
+  # Vanguard
+  - ticker: VOO
+    name: "Vanguard S&P 500 ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VTI
+    name: "Vanguard Total Stock Market ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VEA
+    name: "Vanguard FTSE Developed Markets ETF"
+    issuer: Vanguard
+    cik: "0001000275"
+  - ticker: VWO
+    name: "Vanguard FTSE Emerging Markets ETF"
+    issuer: Vanguard
+    cik: "0001000275"
+  - ticker: VXUS
+    name: "Vanguard Total International Stock ETF"
+    issuer: Vanguard
+    cik: "0001000275"
+  - ticker: BND
+    name: "Vanguard Total Bond Market ETF"
+    issuer: Vanguard
+    cik: "0000846909"
+  - ticker: VTV
+    name: "Vanguard Value ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VUG
+    name: "Vanguard Growth ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VIG
+    name: "Vanguard Dividend Appreciation ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VYM
+    name: "Vanguard High Dividend Yield ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VNQ
+    name: "Vanguard Real Estate ETF"
+    issuer: Vanguard
+    cik: "0000862084"
+  - ticker: VB
+    name: "Vanguard Small-Cap ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+  - ticker: VO
+    name: "Vanguard Mid-Cap ETF"
+    issuer: Vanguard
+    cik: "0000036405"
+
+  # iShares (BlackRock)
+  - ticker: IVV
+    name: "iShares Core S&P 500 ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: IWM
+    name: "iShares Russell 2000 ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: IWF
+    name: "iShares Russell 1000 Growth ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: IWD
+    name: "iShares Russell 1000 Value ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: IEFA
+    name: "iShares Core MSCI EAFE ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: IEMG
+    name: "iShares Core MSCI Emerging Markets ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: AGG
+    name: "iShares Core U.S. Aggregate Bond ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: TLT
+    name: "iShares 20+ Year Treasury Bond ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: HYG
+    name: "iShares iBoxx $ High Yield Corporate Bond ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: LQD
+    name: "iShares iBoxx $ Investment Grade Corporate Bond ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: EFA
+    name: "iShares MSCI EAFE ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: EEM
+    name: "iShares MSCI Emerging Markets ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: GLD
+    name: "SPDR Gold Shares"
+    issuer: SSGA
+    cik: "0001222333"
+  - ticker: SLV
+    name: "iShares Silver Trust"
+    issuer: iShares
+    cik: "0001330568"
+
+  # Invesco
+  - ticker: QQQ
+    name: "Invesco QQQ Trust"
+    issuer: Invesco
+    cik: "0001067839"
+  - ticker: QQQM
+    name: "Invesco NASDAQ 100 ETF"
+    issuer: Invesco
+    cik: "0000826644"
+  - ticker: RSP
+    name: "Invesco S&P 500 Equal Weight ETF"
+    issuer: Invesco
+    cik: "0001378872"
+
+  # Schwab
+  - ticker: SCHB
+    name: "Schwab U.S. Broad Market ETF"
+    issuer: Schwab
+    cik: "0001454889"
+  - ticker: SCHX
+    name: "Schwab U.S. Large-Cap ETF"
+    issuer: Schwab
+    cik: "0001454889"
+  - ticker: SCHD
+    name: "Schwab U.S. Dividend Equity ETF"
+    issuer: Schwab
+    cik: "0001454889"
+  - ticker: SCHF
+    name: "Schwab International Equity ETF"
+    issuer: Schwab
+    cik: "0001454889"
+
+  # ARK / thematic
+  - ticker: ARKK
+    name: "ARK Innovation ETF"
+    issuer: ARK
+    cik: "0001579982"
+  - ticker: ARKG
+    name: "ARK Genomic Revolution ETF"
+    issuer: ARK
+    cik: "0001579982"
+
+  # ProShares / leveraged-and-popular
+  - ticker: SH
+    name: "ProShares Short S&P500"
+    issuer: ProShares
+    cik: "0001174610"
+  - ticker: SSO
+    name: "ProShares Ultra S&P500"
+    issuer: ProShares
+    cik: "0001174610"
+
+  # Sector / thematic — broader coverage
+  - ticker: SOXX
+    name: "iShares Semiconductor ETF"
+    issuer: iShares
+    cik: "0001100663"
+  - ticker: SMH
+    name: "VanEck Semiconductor ETF"
+    issuer: VanEck
+    cik: "0000868368"
+  - ticker: XBI
+    name: "SPDR S&P Biotech ETF"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: KRE
+    name: "SPDR S&P Regional Banking ETF"
+    issuer: SSGA
+    cik: "0001064642"
+  - ticker: ITB
+    name: "iShares U.S. Home Construction ETF"
+    issuer: iShares
+    cik: "0001100663"
+
+  # ---- Non-US (issuer scraper fallback) -------------------------------
+
+  # UCITS (Ireland-domiciled, traded on LSE/Xetra/etc.)
+  - ticker: CSPX
+    name: "iShares Core S&P 500 UCITS ETF (Acc)"
+    issuer: iShares
+  - ticker: IWDA
+    name: "iShares Core MSCI World UCITS ETF (Acc)"
+    issuer: iShares
+  - ticker: EIMI
+    name: "iShares Core MSCI EM IMI UCITS ETF (Acc)"
+    issuer: iShares
+  - ticker: VWRL
+    name: "Vanguard FTSE All-World UCITS ETF (Dist)"
+    issuer: Vanguard
+  - ticker: VWCE
+    name: "Vanguard FTSE All-World UCITS ETF (Acc)"
+    issuer: Vanguard
+  - ticker: AGGH
+    name: "iShares Core Global Aggregate Bond UCITS ETF"
+    issuer: iShares
+  - ticker: SXR8
+    name: "iShares Core S&P 500 UCITS ETF (Acc) — Xetra"
+    issuer: iShares
+  - ticker: VHYL
+    name: "Vanguard FTSE All-World High Dividend Yield UCITS"
+    issuer: Vanguard
+
+  # Canadian (TSX)
+  - ticker: XIC.TO
+    name: "iShares Core S&P/TSX Capped Composite Index ETF"
+    issuer: iShares
+  - ticker: VFV.TO
+    name: "Vanguard S&P 500 Index ETF (CAD-hedged)"
+    issuer: Vanguard
+  - ticker: ZSP.TO
+    name: "BMO S&P 500 Index ETF"
+    issuer: BMO
+  - ticker: XEQT.TO
+    name: "iShares Core Equity ETF Portfolio"
+    issuer: iShares
+  - ticker: VEQT.TO
+    name: "Vanguard All-Equity ETF Portfolio"
+    issuer: Vanguard
