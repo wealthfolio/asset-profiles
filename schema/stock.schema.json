@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/wealthfolio/asset-profiles/schema/stock.schema.json",
+  "title": "Stock Profile",
+  "type": "object",
+  "required": ["schema_version", "kind", "primary_symbol", "listings", "name", "provenance"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "kind": { "const": "stock" },
+    "isin": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}[A-Z0-9]{9}[0-9]$"
+    },
+    "primary_symbol": {
+      "type": "string",
+      "minLength": 1
+    },
+    "listings": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["symbol"],
+        "additionalProperties": false,
+        "properties": {
+          "symbol": { "type": "string", "minLength": 1 },
+          "exchange_mic": {
+            "type": "string",
+            "pattern": "^[A-Z0-9]{4}$"
+          },
+          "currency": {
+            "type": "string",
+            "pattern": "^[A-Z]{3}$"
+          }
+        }
+      }
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "sector": { "type": "string" },
+    "industry_group": { "type": "string" },
+    "industry": { "type": "string" },
+    "country": { "type": "string" },
+    "country_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "summary": { "type": "string" },
+    "market_cap_band": {
+      "enum": ["Nano Cap", "Micro Cap", "Small Cap", "Mid Cap", "Large Cap", "Mega Cap"]
+    },
+    "identifiers": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "isin":           { "type": "string", "pattern": "^[A-Z]{2}[A-Z0-9]{9}[0-9]$" },
+        "cusip":          { "type": "string", "pattern": "^[A-Z0-9]{9}$" },
+        "figi":           { "type": "string", "pattern": "^BBG[A-Z0-9]{9}$" },
+        "composite_figi": { "type": "string", "pattern": "^BBG[A-Z0-9]{9}$" }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["source", "fetched_at"],
+      "additionalProperties": false,
+      "properties": {
+        "source":     { "type": "string", "minLength": 1 },
+        "source_url": { "type": "string", "format": "uri" },
+        "fetched_at": { "type": "string", "format": "date-time" },
+        "license":    { "type": "string" }
+      }
+    }
+  }
+}

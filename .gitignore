@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# asset-profiles build artifacts
+.http_cache/
+*.tmp
+.DS_Store
