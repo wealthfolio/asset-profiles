@@ -1,0 +1,63 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WHNGRG6",
+    "figi": "BBG00WHNGRN8",
+    "isin": "SE0009663834"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "SE0009663834",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5JL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5JL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSKZF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5JL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5JL.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "BUSER.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0009663834.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BAMBUSER AB",
+  "primary_symbol": "5JL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Bambuser AB provides a cloud-based platform for live video shopping. Their technology enables brands and retailers to integrate live video directly into their e-commerce experiences, allowing them to interact with customers in real-time and drive sales. Bambuser is headquartered in Stockholm, Sweden.",
+  "website": "http://bambuser.com"
+}

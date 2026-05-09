@@ -1,0 +1,26 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LATGW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LatAmGrowth SPAC Warrants",
+  "primary_symbol": "LATGW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "LatAmGrowth SPAC Warrants represent warrants to purchase Class A ordinary shares of LatAmGrowth SPAC. LatAmGrowth SPAC is a special purpose acquisition company (SPAC). The warrants give the holder the right to purchase shares at a specified price in the future."
+}

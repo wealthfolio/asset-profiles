@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "589584101",
+    "isin": "US5895841014"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US5895841014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MR4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MR4.SG"
+    }
+  ],
+  "name": "MERIDIAN BIO",
+  "primary_symbol": "MR4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Meridian Bioscience, Inc. is a life science company focused on developing and manufacturing diagnostic test kits and related products. The company provides diagnostic solutions for various infectious diseases and gastrointestinal illnesses. Meridian Bioscience is headquartered in Cincinnati, Ohio."
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00WBMPP23",
+    "figi": "BBG00WBMPP87",
+    "isin": "NL0010391108"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Energy",
+  "isin": "NL0010391108",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P7V.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P7V.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NL0010391108.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P7V.F"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "PEN.PR"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PHOTON ENERGY NV  EO-,01",
+  "primary_symbol": "P7V.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "PHOTON ENERGY N.V. is a solar power solutions and services company based in the Netherlands. They develop, build, and operate solar power plants and provide related services.",
+  "website": "http://www.photonenergy.com"
+}

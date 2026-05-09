@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00VJBYVD6",
+    "figi": "BBG00VJBYVK8",
+    "isin": "FR0011049824"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Software & Services",
+  "isin": "FR0011049824",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4ZG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALMDT.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0011049824.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MEDIAN TECHNOLOGIE.EO-,05",
+  "primary_symbol": "4ZG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Median Technologies is a French company specializing in medical image analysis for clinical trials and diagnostics. They develop software and services for image quantification and data management, supporting pharmaceutical and biotechnology companies in drug development. The company is headquartered in Sophia Antipolis, France.",
+  "website": "http://www.mediantechnologies.com"
+}

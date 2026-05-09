@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000S1KP80",
+    "figi": "BBG000S1KRJ4",
+    "isin": "JP3951200009"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "JP3951200009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UTN.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3103.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JP3951200009.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UTN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UTN.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "UNITIKA LTD",
+  "primary_symbol": "UTN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Unitika Ltd. manufactures and sells polymers, advanced materials, and fibers and textiles in Japan and internationally. The company offers polymers, including nylon and polyester films; nylon, polyester, and polyarylate plastic products; polyester, nylon spunbonded, and cotton spunlace nonwoven products; and biodegradable plastic materials. It also provides advanced materials comprising activated carbon fibers, glass fabrics, glass beads, and porous plates, as well as industrial and biomass-based materials. In addition, the company offers fibers and textiles, such as garments, lifestyle materials, and bedding products. Unitika Ltd. was founded in 1889 and is headquartered in Osaka, Japan.",
+  "website": "http://www.unitika.co.jp"
+}

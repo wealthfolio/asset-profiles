@@ -1,0 +1,83 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00LPDRMN4",
+    "figi": "BBG00LPDRMV5",
+    "isin": "NO0003070609"
+  },
+  "industry": "Software",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "NO0003070609",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I8X.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I8X.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDBA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDEX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDXAF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A4F.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0MTP.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I8X.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "IDEX.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "IDEXO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0003070609.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IDEX BIOMETRICS  NK 0,15",
+  "primary_symbol": "I8X.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IDEX Biometrics ASA develops and sells fingerprint authentication solutions, headquartered in Lysaker, Norway. The company provides fingerprint sensors and biometric solutions for use in various applications, including payment cards, access control devices, and other security devices. Its technology aims to provide secure and convenient authentication.",
+  "website": "http://www.idexbiometrics.com"
+}

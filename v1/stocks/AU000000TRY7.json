@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000PT7SH1",
+    "figi": "BBG000PT7WR1",
+    "isin": "AU000000TRY7"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000TRY7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRW.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRYRF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TRW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TRW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TRW.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TRY.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TRY.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TROY RESOURCES LTD.",
+  "primary_symbol": "TRW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "TROY RESOURCES LTD. is an Australian gold exploration and development company. It focuses on projects in Brazil and Australia. The company is headquartered in West Perth, Australia.",
+  "website": "http://www.troyres.com.au"
+}

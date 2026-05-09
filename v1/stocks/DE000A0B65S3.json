@@ -1,0 +1,78 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000QRNGT9",
+    "figi": "BBG000QRNL09",
+    "isin": "DE000A0B65S3"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE000A0B65S3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PA8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PA8.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PA8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAIOF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NF3.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PA8.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PA8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PA8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PA8.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PA8B.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PAION O.N",
+  "primary_symbol": "PA8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PAION AG is a biopharmaceutical company focused on the development and commercialization of innovative drugs for anesthesia and intensive care. Their lead product is Remimazolam, a short-acting intravenous sedative/anesthetic. The company is headquartered in Aachen, Germany.",
+  "website": "http://www.paion.com"
+}

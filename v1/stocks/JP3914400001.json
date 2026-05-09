@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1LLX7",
+    "figi": "BBG000C1LQ93",
+    "isin": "JP3914400001"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "JP3914400001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUR1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUR1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MUR1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MUR1.SG"
+    }
+  ],
+  "name": "MURATA MFG",
+  "primary_symbol": "MUR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Murata Manufacturing Co., Ltd. is a Japanese manufacturer of electronic components, primarily ceramic passive components. The company’s products include capacitors, resistors, inductors, and sensors used in a variety of applications. Murata is headquartered in Kyoto, Japan."
+}

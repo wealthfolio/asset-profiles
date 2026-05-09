@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C1HQ43",
+    "cusip": "50077B207",
+    "figi": "BBG000C1HZZ9",
+    "isin": "US50077B2079"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "US50077B2079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTOS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WF5A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WF5A.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JS0.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WF5A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WF5A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WF5A.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Kratos Defense & Security Solutions, Inc.",
+  "primary_symbol": "KTOS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kratos Defense & Security Solutions, Inc. operates as a government contractor of the U.S. Department of Defense. The company operates through two segments, Kratos Government Solutions and Unmanned Systems. The Kratos Government Solutions segment offers microwave electronic products, space, training and cybersecurity/ warfare, satellite communications, C5ISR/ modular systems, turbine technologies, and defense and rocket support services. The Unmanned Systems segment provides unmanned aerial systems, and unmanned ground and seaborne systems. It serves national security related agencies, the department of defense, intelligence agencies, and classified agencies, as well as international government agencies and domestic and international commercial customers. Kratos Defense & Security Solutions, Inc. was founded in 1994 and is headquartered in San Diego, California.",
+  "website": "http://www.kratosdefense.com"
+}

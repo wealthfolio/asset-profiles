@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BF6471",
+    "figi": "BBG000BF68H1",
+    "isin": "DE0005156004"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Telecommunication Services",
+  "isin": "DE0005156004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGS.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GGS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GGS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GGS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GGS.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GIGASET AG O.N.",
+  "primary_symbol": "GGS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Gigaset AG is a German telecommunications company that manufactures and sells cordless phones, smartphones, and smart home devices. The company operates primarily in Europe and offers products for both residential and business customers. The company is headquartered in Bocholt, Germany.",
+  "website": "http://www.gigaset.com"
+}

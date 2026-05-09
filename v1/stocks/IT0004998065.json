@@ -1,0 +1,38 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG0065XJJ79",
+    "figi": "BBG0065XJJ88",
+    "isin": "IT0004998065"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0004998065",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ANIM.MI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0004998065.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Anima Holding S.p.A.",
+  "primary_symbol": "ANIM.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Anima Holding S.p.A. is a publicly owned investment manager. The firm invests in the public equity markets of Italy. The firm offers various investment schemes and foreign SICAVs, and institutional and private pension funds, mutual funds, open-ended umbrella funds as well as private wealth and institutional asset management services. It employs fundamental analysis to make its investments. It provides asset management services in Italy. Anima Holding S.p.A. is based in Milan, Italy.",
+  "website": "http://www.animaholding.it"
+}

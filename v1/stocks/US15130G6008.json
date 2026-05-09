@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "15130G600",
+    "isin": "US15130G6008"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US15130G6008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C42A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C42A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US15130G6008.SG"
+    }
+  ],
+  "name": "CEMTREX INC.  DL-,01",
+  "primary_symbol": "C42A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cemtrex Inc. is a technology company that provides advanced electronic components and systems. The company is based in the United States."
+}

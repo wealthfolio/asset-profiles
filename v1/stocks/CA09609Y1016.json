@@ -1,0 +1,58 @@
+{
+  "country": "Colombia",
+  "country_code": "CO",
+  "identifiers": {
+    "composite_figi": "BBG00NDZN715",
+    "figi": "BBG00NDZN779",
+    "isin": "CA09609Y1016"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA09609Y1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1OA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1OA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBRRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1OA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1OA.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BBM.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BLUEBERRIES MEDICAL",
+  "primary_symbol": "1OA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BLUEBERRIES MEDICAL is a company focused on medical cannabis. It is involved in the cultivation, processing, and distribution of cannabis products for medical purposes. Specific details about its headquarters location and operations are not readily available.",
+  "website": "http://blueberriesmed.com"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "78472M106",
+    "isin": "US78472M1062"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US78472M1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRAX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US78472M1062.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SRAX, Inc.",
+  "primary_symbol": "SRAX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "SRAX, Inc., a technology company, focused on enhancing communications between public companies and their shareholders and investors in the United States. The company offers Sequire, a Saas platform that allows issuers to track their shareholders' behaviors and trends, then use data-driven insights to engage with shareholders across marketing channels. It also organizes and hosts investor conferences within the micro and small- cap space. The company markets and sells its services through its in-house sales and marketing team. The company was formerly known as Social Reality, Inc. and changed its name to SRAX, Inc. in August 2019. SRAX, Inc. was founded in 2009 and is headquartered in Westlake Village, California.",
+  "website": "http://srax.com"
+}

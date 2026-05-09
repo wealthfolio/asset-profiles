@@ -1,0 +1,53 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000C1GXW8",
+    "figi": "BBG000C1H1P5",
+    "isin": "JP3827200001"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "JP3827200001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FKA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FKA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FKA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FKA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FKA.VI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FURUKAWA ELECTRIC CO.LTD.",
+  "primary_symbol": "FKA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FURUKAWA ELECTRIC CO.LTD. manufactures electric wires, optical fibers, and related products for various industries. The company also produces automotive components and electronic materials. Furukawa Electric is headquartered in Tokyo, Japan.",
+  "website": "http://www.frauenthal.at"
+}

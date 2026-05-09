@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIGL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Vigil Neuroscience Inc. Common Stock",
+  "primary_symbol": "VIGL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Vigil Neuroscience Inc. is a biotechnology company focused on developing treatments for rare and common neurodegenerative diseases by targeting microglia, the brain's resident immune cells. Their lead product candidate is targeting triggering receptor expressed on myeloid cells 2 (TREM2) for Alzheimer's disease. The company is headquartered in Cambridge, Massachusetts."
+}

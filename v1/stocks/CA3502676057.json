@@ -1,0 +1,68 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00T65K7T9",
+    "figi": "BBG00T65K808",
+    "isin": "CA3502676057"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "CA3502676057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4TU0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4TU0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSXLF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4TU0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4TU0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA3502676057.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "FSX.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FOSTERVILLE SOUTH EXP. A",
+  "primary_symbol": "4TU0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Future Corporation provides IT consulting and services primarily in Japan. The company offers its services in digital marketing, IT education, e-commerce, and various other fields. The company was formerly known as Future Architect, Inc. and changed its name to Future Corporation in April 2016. Future Corporation was founded in 1989 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.future.co.jp"
+}

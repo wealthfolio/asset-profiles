@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000CWD8S3",
+    "figi": "BBG000CWDC68",
+    "isin": "CA00258V1004"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA00258V1004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "36N0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "36N0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABXXF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "36N0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "36N0.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "NEOE",
+      "symbol": "ABXX.NE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA00258V1004.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Abaxx Technologies Inc.",
+  "primary_symbol": "36N0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Abaxx Technologies, Inc., a financial software company, develops software tools for commodity traders and finance professionals to communicate, trade, and transact. It provides trading and clearing software, financial messaging and data services, and digital identity and access management software. The company also engages in the development of a regulated commodity futures exchange. The company is headquartered in Toronto, Canada.",
+  "website": "http://www.abaxx.tech"
+}

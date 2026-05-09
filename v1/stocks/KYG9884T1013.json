@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG9884T1013"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG9884T1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1628.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YP9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YP9.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Yuzhou Group Holdings Company Limited",
+  "primary_symbol": "1628.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Yuzhou Group Holdings Company Limited, an investment holding company, engages in the property development activities in the People's Republic of China. It develops, sells, manages, and invests in properties. The company is also involved in the operation of hotels; marketing activities; and trading of construction materials. The company was formerly known as Yuzhou Properties Company Limited and changed its name to Yuzhou Group Holdings Company Limited in June 2020. Yuzhou Group Holdings Company Limited was founded in 1994 and is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://www.yuzhou-group.com"
+}

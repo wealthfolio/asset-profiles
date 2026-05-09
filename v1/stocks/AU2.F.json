@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AU2.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AGRARIUS AG",
+  "primary_symbol": "AU2.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "AGRARIUS AG engages in owning, buying, and leasing arable land primarily in Romania. The company manages approximately 6,500 hectares arable land. It also provides agricultural investment services, including the acquisition and management of arable land for institutional investors. The company was founded in 2007 and is based in Neu-Anspach, Germany.",
+  "website": "http://www.agrarius.de"
+}

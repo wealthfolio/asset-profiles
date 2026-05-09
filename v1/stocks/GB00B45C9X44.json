@@ -1,0 +1,43 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000JR5T37",
+    "figi": "BBG000JR5Y09",
+    "isin": "GB00B45C9X44"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "GB00B45C9X44",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMN1.BE"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CHG.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CMN1.DU"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHEMRING GRP PLC  LS-,01",
+  "primary_symbol": "CMN1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Chularat Hospital Public Company Limited operates clinics and hospitals in Thailand. The company operates through two segments, Hospital Operations and Other Businesses. It also distributes medical instruments and dietary supplement products. As of December 31, 2020, the company operated 13 branches of clinics and hospitals. Chularat Hospital Public Company Limited was founded in 1986 is headquartered in Samut Prakan, Thailand.",
+  "website": "http://www.chularat.com"
+}

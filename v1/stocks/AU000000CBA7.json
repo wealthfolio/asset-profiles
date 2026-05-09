@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C18870",
+    "figi": "BBG000C18F01",
+    "isin": "AU000000CBA7"
+  },
+  "industry_group": "Banks",
+  "isin": "AU000000CBA7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWW.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWW.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CBA.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CWW.DU"
+    }
+  ],
+  "name": "COMMONW.BK AUSTR.",
+  "primary_symbol": "CWW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "COMMONWEALTH BANK OF AUSTRALIA provides a range of financial services, including retail, business, and institutional banking, as well as wealth management and insurance products. The bank operates primarily in Australia and New Zealand, with a smaller presence in other international markets. Commonwealth Bank is headquartered in Sydney, Australia."
+}

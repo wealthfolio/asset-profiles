@@ -1,0 +1,45 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BP92CJ43"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GB00BP92CJ43",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLY.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TLY.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TLY.L"
+    }
+  ],
+  "name": "TATE + LYLE  LS-,25",
+  "primary_symbol": "TLY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Tate & Lyle is a global provider of food and beverage ingredients and solutions. The company operates through two divisions: Food & Beverage Solutions and Primary Products, providing ingredients such as sweeteners, starches, and fibers to enhance taste, texture, and nutrition in food and beverages. Tate & Lyle is headquartered in London, United Kingdom.",
+  "website": "http://www.totallyplc.com"
+}

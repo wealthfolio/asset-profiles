@@ -1,0 +1,29 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "isin": "XS2353177293"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "XS2353177293",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "CO2.NZ"
+    }
+  ],
+  "name": "Carbon Fund",
+  "primary_symbol": "CO2.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Carbon Fund is a commodity fund launched and managed by Salt Investment Funds Limited. The fund invests in the carbon credit markets across the globe. It seeks to invest in the energy sector. The fund primarily invests in carbon credits in emissions trading schemes. Carbon Fund was formed on October 23, 2018 and is domiciled in New Zealand.",
+  "website": "http://www.carbonfund.co.nz"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB0004478896"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "GB0004478896",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HNTIF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0YT.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HTG.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Hunting PLC",
+  "primary_symbol": "HNTIF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Hunting PLC, together with its subsidiaries, manufactures and distributes tools and components for the upstream oil and gas industry worldwide. The company offers perforating guns and hardware, energetics charges, and instrumentation products; and connections, oil country tubular goods, drilling tools, subsea equipment, intervention tools, and electronics. It also provides mud motors and drill pipe products; deep hole drilling and precision machining services; and well intervention services. In addition, the company engages in the oil and gas exploration and production activities. Hunting PLC was founded in 1874 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.huntingplc.com"
+}

@@ -1,0 +1,91 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003261697"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0003261697",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZIHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HDB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HDB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HDB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "AZM.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AZM.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HDB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HDB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HDB.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "HDBN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HDFA.F"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "HDFCBANK.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "HDFCBANK.NS"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Azimut Holding S.p.A.",
+  "primary_symbol": "AZIHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Azimut Holding S.p.A., together with its subsidiaries, distributes, manages, and promotes financial and insurance products. The company offers mutual fund management, life insurance, wealth management, investment portfolio individual management, insurance mediation, financial planning consultancy, and fund and asset management services; invests in the digital sector; and manages Italian, pension, alternative, discretionary, and private equity funds. It operates in Italy, Luxembourg, Ireland, China, Monaco, Switzerland, Singapore, Brazil, Mexico, Taiwan, Chile, Australia, Turkey, the United States, the United Arab Emirates, and Egypt. The company was founded in 1989 and is based in Milan, Italy.",
+  "website": "http://www.azimut.it"
+}

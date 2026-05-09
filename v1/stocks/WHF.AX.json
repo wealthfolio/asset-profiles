@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WHF.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Whitefield Limited",
+  "primary_symbol": "WHF.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Whitefield Limited operates in the securities industry primarily in Australia. The company invests in shares and securities. The company was founded in 1923 and is based in Sydney, Australia.",
+  "website": "http://www.whitefield.com.au"
+}

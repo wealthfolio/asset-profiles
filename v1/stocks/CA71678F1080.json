@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00C81PHQ9",
+    "figi": "BBG00C81PHW2",
+    "isin": "CA71678F1080"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA71678F1080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6P4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTRUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6P4.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "PRQ.TO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PETRUS RES LTD",
+  "primary_symbol": "6P4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Petrus Resources Ltd. is a Canadian oil and gas company engaged in the exploration, development, and production of oil, natural gas, and natural gas liquids in Western Canada. The company's operations are primarily focused in the Alberta Deep Basin area. Petrus Resources is headquartered in Calgary, Alberta, Canada.",
+  "website": "http://www.petrusresources.com"
+}

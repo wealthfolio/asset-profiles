@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00GQ6M668",
+    "figi": "BBG00X2T59M2",
+    "isin": "DE000HAG0005"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "DE000HAG0005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HAG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HAG.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HAG.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HAG.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A5S.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000HAG0005.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "HAG.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HAG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HAG.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HENSOLDT AG INH O.N.",
+  "primary_symbol": "HAG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hensoldt AG is a German sensor solutions provider for defense, security, and aerospace applications. The company develops and manufactures radar systems, electronic warfare systems, and optronics. Hensoldt AG is headquartered in Taufkirchen, Germany.",
+  "website": "http://www.hensoldt.net"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00QJ361Q8",
+    "figi": "BBG00QJ361X0",
+    "isin": "KYG9390W1015"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "KYG9390W1015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VB0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VB0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VBIZF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG9390W1015.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VB0.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VIVA BIOTECH HOLD",
+  "primary_symbol": "VB0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Viva Biotech Holdings provides structure-based drug discovery services to biotechnology and pharmaceutical customers worldwide. The company develops structure based drug discovery, fragment based drug discovery, affinity selection mass spectrometry screening, and membrane protein targeted drug discovery platforms. The company's products include cell lines, crystal structures, GPCR proteins, antibodies, and proteins. It also offers EFS, gene-to-protein and gene-to-structure, viva engine for lead discovery, medicinal chemistry, in vitro pharmacology, and antibody discovery services. Viva Biotech Holdings was founded in 2008 and is headquartered in Shanghai, China.",
+  "website": "http://www.vivabiotech.com.cn"
+}

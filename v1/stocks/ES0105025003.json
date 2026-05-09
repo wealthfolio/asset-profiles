@@ -1,0 +1,83 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006QW1FJ2",
+    "figi": "BBG006QW1FQ4",
+    "isin": "ES0105025003"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Real Estate",
+  "isin": "ES0105025003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEQA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEQA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRLN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRPRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBM.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MEQA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MEQA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MEQA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "MERL.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "MRL.LS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "MRL.MC"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MERLIN PPTYS SOCIMI  EO 1",
+  "primary_symbol": "MEQA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "MERLIN Properties SOCIMI SA is a Spanish real estate investment trust (REIT) focused on the acquisition and management of commercial properties. The company's portfolio includes office buildings, shopping centers, and logistics facilities. MERLIN Properties is headquartered in Madrid, Spain.",
+  "website": "http://marlincapitalsolutions.com"
+}

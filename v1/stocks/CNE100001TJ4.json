@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG007R5WJV2",
+    "figi": "BBG007R5WK21",
+    "isin": "CNE100001TJ4"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "CNE100001TJ4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2B5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BMCLF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1958.HK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2B5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2B5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2B5.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "2B5.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BAIC MOTOR CORP.LTD H YC1",
+  "primary_symbol": "2B5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "BAIC Motor Corporation Limited is a Chinese automobile manufacturer. The company produces a range of passenger vehicles, including sedans, SUVs, and electric vehicles, under various brands. BAIC Motor Corporation is headquartered in Beijing, China.",
+  "website": "http://www.baicmotor.com"
+}

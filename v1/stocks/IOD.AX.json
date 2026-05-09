@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IOD.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IODM Limited",
+  "primary_symbol": "IOD.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IODM Limited provides cloud based software services in Australia. The company develops an automated debtor management solution that provides accounts receivable monitoring and collection management tool through a central cloud based platform for businesses. IODM Limited was founded in 2008 and is based in South Melbourne, Australia.",
+  "website": "http://www.iodm.com.au"
+}

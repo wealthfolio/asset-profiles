@@ -1,0 +1,71 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "isin": "TH0355A10Z12"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "TH0355A10Z12",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEXNY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTTG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTTG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTXLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NVAL.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "PTTEP-R.BK"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "PTTEP.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PTTG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PTTG.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "PTT Exploration and Production Public Company Limited",
+  "primary_symbol": "PEXNY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "PTT Exploration and Production Public Company Limited, together with its subsidiaries, engages in the exploration and production of petroleum in Thailand and internationally. It is also involved in gas pipeline transportation business; investment funding; the provision of petroleum-related technology; and the provision of petroleum products, such as natural gas, crude oil, condensate, naphtha and liquefied petroleum gas. The company was founded in 1985 and is headquartered in Bangkok, Thailand. PTT Exploration and Production Public Company Limited is a subsidiary of PTT Public Company Limited.",
+  "website": "http://www.pttep.com"
+}

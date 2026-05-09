@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA39526A1003"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "CA39526A1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICLTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMT.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GFP.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IMT.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GreenFirst Forest Products Inc.",
+  "primary_symbol": "ICLTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "GreenFirst Forest Products Inc. focuses on investments in the forest products industry in Canada. It owns a sawmill in Kenora. The company was formerly known as Itasca Capital Ltd. and changed its name to GreenFirst Forest Products Inc. in January 2021. GreenFirst Forest Products Inc. is headquartered in Vancouver, Canada.",
+  "website": "http://www.gffp.ca"
+}

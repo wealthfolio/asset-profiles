@@ -1,0 +1,56 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004931058"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Energy",
+  "isin": "IT0004931058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QEP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3OY1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3OY1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3OY1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "MT.MI"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "MTM.JO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MAIRE TECNIMONT SPA MAIRE TECNI",
+  "primary_symbol": "0QEP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Maire Tecnimont S.p.A. is an Italian engineering, procurement, and construction (EPC) contractor focused on the energy, petrochemicals, and infrastructure sectors. The company provides a range of services, including plant design, engineering, procurement, construction, and project management, with a focus on sustainability and energy transition solutions. Maire Tecnimont is headquartered in Milan, Italy.",
+  "website": "http://www.mairetecnimont.com"
+}

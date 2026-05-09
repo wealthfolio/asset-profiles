@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0012596468"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0012596468",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RFM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RFM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RFM.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALSEN.PA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RFM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RFM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RFM.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "RiverNorth Flexible Municipal Income Fund, Inc.",
+  "primary_symbol": "RFM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "RiverNorth Flexible Municipal Income Fund, Inc. is a closed-end management investment company. The fund's investment objective is to seek current income exempt from federal income tax (except that the income may be subject to the federal alternative minimum tax). The fund invests primarily in municipal securities.",
+  "website": "http://www.sensorion.com"
+}

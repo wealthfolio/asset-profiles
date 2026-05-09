@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00MH8HXW9",
+    "figi": "BBG00MH8HY20",
+    "isin": "NO0010815673"
+  },
+  "industry_group": "Utilities",
+  "isin": "NO0010815673",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1ZK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1ZK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1ZK.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "FKRFTO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010815673.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FJORDKRAFT HOLDING ASA",
+  "primary_symbol": "1ZK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Fjordkraft Holding ASA is a Norwegian electricity retailer that provides electricity and energy-related services to residential and business customers. They focus on sustainable energy solutions and offer various digital services for energy management. The company is headquartered in Bergen, Norway."
+}

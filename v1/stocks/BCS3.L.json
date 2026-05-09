@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BCS3.L"
+    }
+  ],
+  "name": "Leverage Shares 3x Barclays ETP",
+  "primary_symbol": "BCS3.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares 3x Barclays ETP is an exchange-traded product (ETP) that aims to provide investors with three times the daily performance of Barclays stock. It uses leverage to amplify the returns (and losses) of the underlying asset. The ETP is designed for short-term trading and may not be suitable for long-term investment."
+}

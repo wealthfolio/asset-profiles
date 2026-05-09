@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GTQY5F0",
+    "cusip": "03782L101",
+    "figi": "BBG00GTQY5M2",
+    "isin": "US03782L1017"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US03782L1017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "910.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "910.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APPN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HGM.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "910.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "910.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "910.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "APPIAN CORP.CL.A DL-,0001",
+  "primary_symbol": "910.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Appian Corporation provides low-code automation platform in the United States and internationally. The company's platform automates the creation of forms, workflows, data structures, reports, and other software elements that are needed to be manually coded. The company also offers professional and customer support services. Its customers financial services, government, life sciences, education, technology, media and telecommunications, consumer, and industrials. The company was incorporated in 1999 and is headquartered in McLean, Virginia.",
+  "website": "http://www.appian.com"
+}

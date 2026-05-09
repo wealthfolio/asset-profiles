@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000RCQSP6",
+    "figi": "BBG000RCQWZ6",
+    "isin": "GB00B02QND93"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "GB00B02QND93",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAN.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PAN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PAN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "PAY.BR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PAY.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "PAY.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PAYPOINT PLC  LS -,0033",
+  "primary_symbol": "PAN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "PayPoint PLC provides payment services in the UK and internationally. They offer services such as bill payments, mobile top-ups, and parcel services through a network of retail locations. PayPoint is headquartered in Welwyn Garden City, UK.",
+  "website": "http://www.paypoint.com"
+}

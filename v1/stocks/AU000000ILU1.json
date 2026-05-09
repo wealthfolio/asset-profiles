@@ -1,0 +1,70 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "isin": "AU000000ILU1"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000ILU1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILZ.HM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ILU.DU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ILU.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ILU.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ILZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ILZ.SG"
+    }
+  ],
+  "name": "ILLUMINA INC.  DL-,01",
+  "primary_symbol": "ILU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Illumina, Inc. is a biotechnology company that develops, manufactures, and markets integrated systems for genetic analysis. Their products and services are used in a wide range of applications, including genomic sequencing, genotyping, and gene expression analysis. Illumina is headquartered in San Diego, California, USA.",
+  "website": "http://www.indluplace.co.za"
+}

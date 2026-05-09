@@ -1,0 +1,73 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000RCKGZ7",
+    "figi": "BBG000RCKKC3",
+    "isin": "JP3206000006"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "JP3206000006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KKC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KKKUF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2371.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2371.T"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2371.TW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JP3206000006.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "KKC.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "KKC.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KKC.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KAKAKU.COM INC.",
+  "primary_symbol": "KKC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kakaku.com, Inc. operates websites that provide information and services related to pricing, product reviews, and online shopping in Japan. The company's main website, Kakaku.com, allows users to compare prices of various products from different online retailers. Kakaku.com, Inc. is headquartered in Tokyo, Japan.",
+  "website": "http://www.kakaku.com"
+}

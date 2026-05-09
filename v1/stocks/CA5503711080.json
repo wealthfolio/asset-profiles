@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "isin": "CA5503711080"
+  },
+  "industry_group": "Materials",
+  "isin": "CA5503711080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUG.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA5503711080.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LUG.F"
+    }
+  ],
+  "name": "LUOYANG GLASS CO. H  YC 1",
+  "primary_symbol": "LUG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Luoyang Glass Co., Ltd. manufactures and sells glass products. The company offers float glass, online coated glass, and other types of glass. Luoyang Glass is based in Luoyang, China."
+}

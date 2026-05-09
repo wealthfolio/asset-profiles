@@ -1,0 +1,59 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000BF5HQ2",
+    "cusip": "16936R105",
+    "figi": "BBG000BF5P66",
+    "isin": "US16936R1059"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "US16936R1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAAS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RYV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RYV.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RYV.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RYV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RYV.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "China Automotive Systems, Inc.",
+  "primary_symbol": "CAAS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "China Automotive Systems, Inc., through its subsidiaries, manufactures and sells automotive systems and components in the People's Republic of China. It produces rack and pinion power steering gears for cars and light duty vehicles; integral power steering gears for heavy-duty vehicles; power steering parts for light duty vehicles; sensor modules; automobile steering systems and columns; and automobile electronic and hydraulic power steering systems and parts. China Automotive Systems, Inc. also markets automotive parts in North America and Brazil, as well as provides after sales services, and research and development support services. The company primarily sells its products to the original equipment manufacturing customers. China Automotive Systems, Inc. was incorporated in 1999 and is headquartered in Jingzhou City, the People's Republic of China.",
+  "website": "http://www.caasauto.com"
+}

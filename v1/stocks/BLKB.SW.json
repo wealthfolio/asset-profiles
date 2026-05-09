@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BLKB.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Basellandschaftliche Kantonalbank",
+  "primary_symbol": "BLKB.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Basellandschaftliche Kantonalbank provides various banking products and services to the private, institutional, business, and public sector customers in Switzerland. It offers savings and deposit products, cash bonds, mortgage-backed loans, securities-backed loans, and loans without collateral. The company also trades in foreign exchange, precious metals, and securities. It operates through 24 branches. The company also operates a mobile bank that serves various municipalities in the canton of Basel-Landschaft. The company was founded in 1864 and is headquartered in Liestal, Switzerland.",
+  "website": "http://www.blkb.ch"
+}

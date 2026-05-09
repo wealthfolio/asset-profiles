@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WM25P36",
+    "figi": "BBG00WM25P81",
+    "isin": "SE0012930105"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "SE0012930105",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "Z6C.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "Z6C.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ZIGN.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ZignSec AB (publ)",
+  "primary_symbol": "Z6C.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ZignSec AB (publ) operates an identity service platform for companies to identify their customers digitally in real-time. The company's platform offers a range of digital verification methods, such as electronic identities, online ID scanning, register checks, PEP and sanction checks, real-time payments, phone number validation, banking API, income analysis, and real-time AML check. It serves the iGaming, funds, brokerage and pension, and e-commerce companies, as well as banks and financial institutions. The company was founded in 2015 and is based in Solna, Sweden.",
+  "website": "http://www.zignsec.com"
+}

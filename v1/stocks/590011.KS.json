@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "590011.KS"
+    }
+  ],
+  "name": "MiraeAsset Inverse S&P500 ETN(H)",
+  "primary_symbol": "590011.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mirae Asset Inverse S&P500 ETN (H) is an Exchange Traded Note that aims to provide the inverse (opposite) return of the S&P 500 index. This means it is designed to increase in value when the S&P 500 decreases, and vice versa; further details on the exact inverse ratio would need further research. The headquarter location would also need further research."
+}

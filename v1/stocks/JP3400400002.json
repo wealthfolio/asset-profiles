@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C2DS96",
+    "figi": "BBG000C2DVT7",
+    "isin": "JP3400400002"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "JP3400400002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QSU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCSKF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9719.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QSU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QSU.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SCSK CORP.",
+  "primary_symbol": "QSU.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SCSK CORP. is an information technology services company. It provides system integration, outsourcing, and consulting services. The company is headquartered in Japan with a listing in Germany.",
+  "website": "http://www.scsk.jp"
+}

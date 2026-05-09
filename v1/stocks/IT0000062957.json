@@ -1,0 +1,56 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "IT0000062957"
+  },
+  "industry": "Software",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0000062957",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HBF.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ME9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ME9.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MBM.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ME9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ME9.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MEDIOBANCA BANCA DI CREDITO FIN",
+  "primary_symbol": "0HBF.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mediobanca Banca di Credito Finanziario S.p.A. is an Italian investment bank. The bank provides financial services to corporations and institutions, including investment banking, asset management, and consumer credit. Mediobanca Banca di Credito Finanziario S.p.A. is headquartered in Milan, Italy.",
+  "website": "http://mobecom.co"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C0QG38",
+    "cusip": "629377508",
+    "figi": "BBG000C0QJ14",
+    "isin": "US6293775085"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "US6293775085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NRA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NRG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "N1RG34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NRA.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NRA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NRA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "NRG.PA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NRG ENERGY INC.  DL-,01",
+  "primary_symbol": "NRA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "NRG ENERGY INC. DL-,01 is an energy company that generates and sells electricity and natural gas. It serves homes and businesses in the United States. The company is headquartered in Princeton, New Jersey.",
+  "website": "http://www.nrg.com"
+}

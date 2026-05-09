@@ -1,0 +1,58 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG000C00638",
+    "figi": "BBG000C00D24",
+    "isin": "DK0010201102"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Capital Goods",
+  "isin": "DK0010201102",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KLH.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0EYJ.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DK0010201102.SW"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "KBHL.CO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KLH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KLH.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KOBENH.LUFTHAV.NAM. DK100",
+  "primary_symbol": "KLH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Københavns Lufthavne A/S, also known as Copenhagen Airports, owns and operates Copenhagen Airport, the largest airport in Scandinavia. The company is responsible for providing infrastructure and services for airlines and passengers. Københavns Lufthavne A/S is headquartered in Copenhagen, Denmark.",
+  "website": "http://www.cph.dk"
+}

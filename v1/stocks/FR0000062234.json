@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000C815G8",
+    "figi": "BBG000C817N6",
+    "isin": "FR0000062234"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0000062234",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "49F.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "49F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ODET.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FINANC.D.L'ODET INH.EO 16",
+  "primary_symbol": "49F.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Financière de l'Odet is an investment holding company controlled by the Bolloré Group, with interests in various sectors including media, communications, electricity storage, and other industrial activities. The company acts as the primary investment vehicle for the Bolloré family. Financière de l'Odet is headquartered in France.",
+  "website": "http://www.financiere-odet.com/fr-fr"
+}

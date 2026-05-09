@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00JWTKZN4",
+    "figi": "BBG00JWTKZW4",
+    "isin": "CA1482391069"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA1482391069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "756.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGLCF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "756.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GLDC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CASSIAR GOLD CORP",
+  "primary_symbol": "756.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Cassiar Gold Corp. is a Canadian exploration stage company focused on mineral exploration and development. The company primarily explores for gold deposits in British Columbia, Canada, aiming to identify and develop economically viable mining projects. The company is headquartered in Vancouver, British Columbia.",
+  "website": "http://www.cassiargold.com"
+}

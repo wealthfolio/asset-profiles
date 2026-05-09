@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA00833F1099"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA00833F1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BC21.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDENF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BC21.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CAGR.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Central African Gold Inc.",
+  "primary_symbol": "BC21.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Central African Gold Inc., a natural resource company, engages in the acquisition, development, and exploration of mineral properties in the Democratic Republic of Congo. The company was formerly known as Bankers Cobalt Corp. and changed its name to Central African Gold Inc. in August 2020. Central African Gold Inc. was incorporated in 2007 and is based in Vancouver, Canada.",
+  "website": "http://www.centralafricangold.com"
+}

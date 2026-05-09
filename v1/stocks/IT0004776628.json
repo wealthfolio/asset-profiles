@@ -1,0 +1,71 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004776628"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0004776628",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RDO.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNCDY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNMDF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ME1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BMED.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "BMED.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ME1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ME1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ME1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BANCA MEDIOLANUM SPA BANCA MEDI",
+  "primary_symbol": "0RDO.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BANCA MEDIOLANUM SPA is an Italian bank focused on providing financial planning and wealth management services. The bank offers a range of products and services, including investment advice, insurance, and banking products, through a network of financial advisors. BANCA MEDIOLANUM SPA is headquartered in Basiglio, Italy.",
+  "website": "http://www.bancamediolanum.it"
+}

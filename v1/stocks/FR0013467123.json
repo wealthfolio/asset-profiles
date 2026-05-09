@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0013467123"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0013467123",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OR9A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OR9A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013467123.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OR9A.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SAFE ORTHOPAEDICS EO 0,10",
+  "primary_symbol": "OR9A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Safe Orthopaedics is a French medical technology company specializing in the design, manufacturing, and marketing of ready-to-use implants and single-use instruments for spinal surgery. The company's goal is to improve surgical procedures and patient outcomes through innovative solutions. Safe Orthopaedics is headquartered in Eragny-sur-Oise, France.",
+  "website": "http://www.safeorthopaedics.com"
+}

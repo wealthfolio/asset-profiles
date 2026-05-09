@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIP"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Arteris Inc. Common Stock",
+  "primary_symbol": "AIP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Arteris Inc. Common Stock is a provider of network-on-chip (NoC) interconnect intellectual property (IP) and system IP for system-on-chip (SoC) designs. Arteris' technology helps semiconductor companies manage the increasing complexity of modern SoCs used in various applications including automotive, artificial intelligence, and mobile. The company is headquartered in Campbell, California."
+}

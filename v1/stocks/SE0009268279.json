@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00FM23YH1",
+    "figi": "BBG00FM23YR0",
+    "isin": "SE0009268279"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "SE0009268279",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SE9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SE9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEYE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SE9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE9.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SEYE.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SMART EYE AB",
+  "primary_symbol": "SE9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SMART EYE AB is a Swedish technology company that develops and markets eye-tracking systems. The company's technology is used in various applications, including automotive, research, and aerospace. SMART EYE AB is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.signatureeyewear.com"
+}

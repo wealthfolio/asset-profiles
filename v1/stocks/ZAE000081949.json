@@ -1,0 +1,70 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "ZAE000081949"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "ZAE000081949",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INL.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IYYA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IYYA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "INL.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "INL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "INL.SG"
+    }
+  ],
+  "name": "INTEL CORP.  DL-,001",
+  "primary_symbol": "INL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Intel Corporation is a multinational technology company that designs, manufactures, and sells integrated digital technology platforms. Their products include microprocessors, chipsets, and other computing components, which are used in various applications, including PCs, servers, and data centers. Intel is headquartered in Santa Clara, California.",
+  "website": "http://www.inlandhomes.co.uk"
+}

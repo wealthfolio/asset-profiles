@@ -1,0 +1,37 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "cusip": "91864C107",
+    "isin": "US91864C1071"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US91864C1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VACC"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "VACC.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Vaccitech plc",
+  "primary_symbol": "VACC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Vaccitech plc is a clinical-stage biopharmaceutical company that engages in the discovery and development of novel T cell immunotherapeutics and vaccines for the treatment and prevention of infectious diseases and cancers. Its therapeutic programs include VTP-300, indicated for the treatment of chronic hepatitis B infection; VTP-200, indicated for the treatment of human papilloma virus infection; VTP-850, indicated for the treatment of prostate cancer; and VTP-600, indicated for the treatment of non-small cell lung cancer. The company's prophylactic programs include VTP-400 for the prevention of herpes zoster or shingles; and VTP-500 for the prevention of Middle East respiratory syndrome. In addition, it is developing AZD1222, a COVID-19 vaccine. Vaccitech plc was formerly known as Vaccitech Rx Limited and changed its name to Vaccitech plc on March 31, 2021. Vaccitech plc was founded in 2016 and is headquartered in Oxford, United Kingdom.",
+  "website": "http://www.vaccitech.co.uk"
+}

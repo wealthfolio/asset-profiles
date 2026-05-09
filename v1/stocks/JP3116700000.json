@@ -1,0 +1,38 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000LKNXF7",
+    "figi": "BBG000LKNZG1",
+    "isin": "JP3116700000"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Materials",
+  "isin": "JP3116700000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A19.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A19.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ASAHI HOLDINGS INC.",
+  "primary_symbol": "A19.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Asahi Holdings, Inc. is a Japanese company engaged in precious metal recycling, environmental preservation, and dental alloy businesses. It provides services such as recovery, refining, and analysis of precious metals from industrial waste and offers dental materials and equipment. The company is headquartered in Tokyo, Japan.",
+  "website": "http://www.asahiholdings.com"
+}

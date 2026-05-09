@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ABHA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Hasen-Immobilien AG",
+  "primary_symbol": "ABHA.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Hasen-Immobilien AG engages in the real estate business. It invests in, manages, rents, and sells residential and commercial properties. The company is based in Augsburg, Germany.",
+  "website": "http://www.hasen-ag.com"
+}

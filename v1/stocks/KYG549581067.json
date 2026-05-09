@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00PGLT3M8",
+    "figi": "BBG00PGLT3S2",
+    "isin": "KYG549581067"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "KYG549581067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3KY.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3692.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3692.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3KY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG549581067.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "HANSOH PHARMAC. HD-,00001",
+  "primary_symbol": "3KY.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Hansoh Pharmaceutical Group Company Limited is a pharmaceutical company in China that is engaged in researching, developing, manufacturing and marketing pharmaceutical products. The company focuses on therapeutic areas including oncology, central nervous system diseases, infectious diseases, diabetes, and gastrointestinal disorders. Hansoh Pharmaceutical is headquartered in Lianyungang, Jiangsu, China.",
+  "website": "http://www.hspharm.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000JSQ7C0",
+    "figi": "BBG000JSQBX8",
+    "isin": "AU000000TAH8"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Consumer Services",
+  "isin": "AU000000TAH8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THL.MU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "TAH.NZ"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "THL.DU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "THL.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "THL.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TABCORP HLDGS LTD",
+  "primary_symbol": "THL.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Tabcorp Holdings Limited is an Australian gambling entertainment company that operates wagering, media, and gaming services. The company provides retail wagering through licensed betting shops and online wagering through its digital platforms. Tabcorp is headquartered in Melbourne, Australia.",
+  "website": "http://www.thirdagehealth.co.nz"
+}

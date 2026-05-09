@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZDKYZD4",
+    "figi": "BBG00ZDKYZK6",
+    "isin": "NO0010809783"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "NO0010809783",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "89K.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010809783.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "OTOVO.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Otovo AS",
+  "primary_symbol": "89K.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Otovo AS develops and supplies solar cells for private and corporate customers in Norway, Sweden, and Italy. It offers Sunstyle solar cell roofs. The company was founded in 2016 and is based in Oslo, Norway.",
+  "website": "http://www.otovo.no"
+}

@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PQ4JV4",
+    "cusip": "05964H105",
+    "figi": "BBG000PQ4NM5",
+    "isin": "US05964H1059"
+  },
+  "industry_group": "Banks",
+  "isin": "US05964H1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSDK.BE"
+    }
+  ],
+  "name": "BCO SANTANDER SP.ADR1",
+  "primary_symbol": "BSDK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BCO SANTANDER SP.ADR1 refers to Banco Santander, a global banking group offering a wide range of financial products and services to individuals, SMEs, and large corporations through its ADR. The bank's services include retail banking, corporate and investment banking, wealth management, and insurance. Banco Santander is headquartered in Spain."
+}

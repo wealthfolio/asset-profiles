@@ -1,0 +1,53 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00NNQ8RW3",
+    "cusip": "35137L204",
+    "figi": "BBG00NNQ8S24",
+    "isin": "US35137L2043"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Media & Entertainment",
+  "isin": "US35137L2043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FO5B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOX.TA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FO5B.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "FOX.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US35137L2043.SG"
+    }
+  ],
+  "name": "FOX CORP. B  DL-,01",
+  "primary_symbol": "FO5B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Fox Corporation is a news, sports, and entertainment company. The company operates through various segments, including Cable Network Programming, Television, and Filmed Entertainment. Fox Corporation is headquartered in New York, New York.",
+  "website": "http://www.foxgroup.co.il"
+}

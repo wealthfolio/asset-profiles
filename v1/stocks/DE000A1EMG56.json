@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BY0K89",
+    "figi": "BBG000BY0NG4",
+    "isin": "DE000A1EMG56"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "DE000A1EMG56",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIG1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIG1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIG1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "WIG1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WIG1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WIG1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WIG1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SPORTTOTAL AG  INH. O.N.",
+  "primary_symbol": "WIG1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "SPORTTOTAL AG is a technology and media company offering services for sports, specializing in the digitalization of sports events. The company provides solutions for live video production, data management, and fan engagement, primarily focused on amateur and professional sports. SPORTTOTAL AG is headquartered in Germany.",
+  "website": "http://www.sporttotal.com"
+}

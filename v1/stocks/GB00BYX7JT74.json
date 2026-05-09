@@ -1,0 +1,38 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LGMJBN7",
+    "figi": "BBG00LGMJBT1",
+    "isin": "GB00BYX7JT74"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "GB00BYX7JT74",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DG2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DG2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DIVERS.ENERGY COMP LS-,01",
+  "primary_symbol": "DG2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Diversified Energy Company PLC is an independent energy company engaged in the production and sale of natural gas and oil. They acquire and operate producing wells, focusing on mature fields in the Appalachian Basin and other regions in the United States. The company is headquartered in Birmingham, Alabama, USA, with a significant presence in the UK.",
+  "website": "http://www.div.energy"
+}

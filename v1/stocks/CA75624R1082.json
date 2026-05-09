@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00QS4H8X1",
+    "figi": "BBG00QS4H932",
+    "isin": "CA75624R1082"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA75624R1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0XD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0XD.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0XD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RECAF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0XD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0XD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA75624R1082.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RECO.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RECONN.ENERGY AFRICA",
+  "primary_symbol": "0XD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Reconnaissance Energy Africa Ltd. is a Canadian oil and gas exploration company. The company is focused on exploring for oil and gas in the Kavango Basin in northeastern Namibia and northwestern Botswana. Reconnaissance Energy Africa Ltd. is headquartered in Vancouver, Canada.",
+  "website": "http://www.reconafrica.com"
+}

@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BXSZW1",
+    "figi": "BBG000BXT2T7",
+    "isin": "DE0006580806"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE0006580806",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUM.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUM.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RS2.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MUM.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MUM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MUM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MUM.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MENSCH UND MASCH.O.N.",
+  "primary_symbol": "MUM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Mensch und Maschine Software SE is a Germany-based company specializing in Computer-Aided Design (CAD), Computer-Aided Manufacturing (CAM), Product Data Management (PDM) and Building Information Modeling (BIM) solutions. It provides software, training, and consulting services to customers in various industries, including manufacturing, engineering, and construction, with headquarters in Wessling, Germany. The company operates through numerous subsidiaries and partnerships worldwide.",
+  "website": "http://www.mum.de"
+}

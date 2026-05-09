@@ -1,0 +1,69 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "composite_figi": "BBG000BR4TH1",
+    "cusip": "910873405",
+    "figi": "BBG000BR4X00",
+    "isin": "US9108734057"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US9108734057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMCB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMCB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMCN"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2303.TW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UMCB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UMCB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UMCB.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "United Microelectronics Corporation",
+  "primary_symbol": "UMC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "United Microelectronics Corporation operates as a semiconductor wafer foundry in Taiwan, Singapore, China, Hong Kong, Japan, the United States, Europe, and internationally. The company operates through Wafer Fabrication and New Business segments. It provides circuit design, mask tooling, wafer fabrication, and assembly and testing services. The company also researches, develops, and manufactures products in the solar energy and LED industries. It serves fabless design companies and integrated device manufacturers. United Microelectronics Corporation was incorporated in 1980 and is headquartered in Hsinchu City, Taiwan.",
+  "website": "http://www.umc.com"
+}

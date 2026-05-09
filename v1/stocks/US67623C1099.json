@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000M1NCN5",
+    "cusip": "67623C109",
+    "figi": "BBG000M1PKG3",
+    "isin": "US67623C1099"
+  },
+  "isin": "US67623C1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOKA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOKA.MU"
+    }
+  ],
+  "name": "OFFICE PPTYS INC. TR. SBI",
+  "primary_symbol": "GOKA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

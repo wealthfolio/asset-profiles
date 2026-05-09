@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008HB60H4",
+    "figi": "BBG008HB60P5",
+    "isin": "CA98400H1029"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA98400H1029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4XB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4XB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XBIT"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4XB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4XB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4XB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "XBiotech Inc.",
+  "primary_symbol": "4XB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "XBiotech Inc., a biopharmaceutical company, discovers, develops, and commercializes True Human monoclonal antibodies for treating various diseases. The company focuses on developing a pipeline of antibody therapies for treating oncology, inflammatory conditions, and infectious diseases. It is also developing interleukin-1 alpha therapies to treat variety of medical conditions, such as cancer, stroke, heart attack, or arthritis; and True Human COVID-19 therapy for treating the COVID-19 mutant virus. In addition, the company provides clinical trial contract research operations to conduct two large, double-blind placebo-controlled Phase II clinical studies. The company was incorporated in 2005 and is headquartered in Austin, Texas.",
+  "website": "http://www.xbiotech.com"
+}

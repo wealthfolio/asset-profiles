@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00Z192RC6",
+    "figi": "BBG00Z192RL6",
+    "isin": "CA60268M1023"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA60268M1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9DF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9DF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSET"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSSTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9DF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA60268M1023.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MSET.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Mindset Pharma Inc.",
+  "primary_symbol": "9DF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mindset Pharma Inc. operates as a neuro-pharmaceutical drug discovery and development platform company. It offers psychedelic compounds for treatment-resistant neurological and psychiatric disorders. The company is headquartered in Toronto, Canada.",
+  "website": "http://www.mindsetpharma.com"
+}

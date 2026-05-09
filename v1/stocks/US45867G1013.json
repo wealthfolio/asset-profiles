@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000HLJ7M4",
+    "cusip": "45867G101",
+    "figi": "BBG000HLJS75",
+    "isin": "US45867G1013"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US45867G1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDCC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDI.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0U3Q.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IDI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IDI.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "InterDigital, Inc.",
+  "primary_symbol": "IDCC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "InterDigital, Inc. designs and develops technologies that enable and enhance wireless communications in the United States and internationally. It provides technology solutions for use in digital cellular and wireless products and networks, including 2G, 3G, 4G, 5G, and IEEE 802-related products and networks. The company develops cellular technologies, such as technologies related to CDMA, TDMA, OFDM/OFDMA, and MIMO for use in 2G, 3G, 4G, and 5G wireless networks, as well as mobile terminal devices; and 3GPP technology portfolio in 5G NR, beyond 5G (B5G), extended reality over wireless, and cellular Internet of Things (IoT) areas, as well as technologies for automobiles, wearables, smart homes, drones, and other connected consumer electronic products. It also provides video coding and transmission technologies; and engages in the research and development of artificial intelligence. The company's patented technologies are used in various products that include cellular phones, tablets, notebook computers, and wireless personal digital assistants; wireless infrastructure equipment, which comprise base stations; components, dongles, and modules for wireless devices; and IoT devices and software platforms. As of December 31, 2020, it had a portfolio of approximately 28,000 patents and patent applications related to wireless communications, video coding, display technology, and other areas. InterDigital, Inc. was incorporated in 1972 and is headquartered in Wilmington, Delaware.",
+  "website": "http://www.interdigital.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000FNBVT0",
+    "figi": "BBG000FNC0M4",
+    "isin": "CA8308166096"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8308166096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SC1P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYHBF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SC1P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SC1P.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SYH.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SKYHARBOUR RESOURCES",
+  "primary_symbol": "SC1P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SKYHARBOUR RESOURCES is a Canada-based company focused on uranium exploration and development in the Athabasca Basin. The company acquires and develops uranium projects and is headquartered in Vancouver, Canada. Their primary focus is on exploration and advancement of their portfolio of projects.",
+  "website": "http://www.skyharbourltd.com"
+}

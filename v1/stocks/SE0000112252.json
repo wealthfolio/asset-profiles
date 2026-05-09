@@ -1,0 +1,63 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG000BZJTG8",
+    "figi": "BBG000BZJYG7",
+    "isin": "SE0000112252"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Materials",
+  "isin": "SE0000112252",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RBG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RBG.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0H0L.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RBG.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RBG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RBG.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "RROS.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ROTTNEROS AB FR.  SK 1",
+  "primary_symbol": "RBG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Rottneros AB produces and sells market pulp. The company is headquartered in Sweden. Rottneros' products are sold globally for various paper and packaging applications.",
+  "website": "http://www.rottneros.com"
+}

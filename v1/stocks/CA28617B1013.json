@@ -1,0 +1,68 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PM1JT9",
+    "figi": "BBG000PM1PN1",
+    "isin": "CA28617B1013"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "CA28617B1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4EV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4EV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFLVF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4EV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4EV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4EV.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "EFL.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ELECTROVAYA",
+  "primary_symbol": "4EV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Electrovaya Inc. is a developer and manufacturer of lithium-ion batteries, battery systems, and battery-related products. They provide energy storage solutions for electric vehicles, energy storage systems, and other applications. The company is headquartered in Mississauga, Ontario, Canada.",
+  "website": "http://electrovaya.com"
+}

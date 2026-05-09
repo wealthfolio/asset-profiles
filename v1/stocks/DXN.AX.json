@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DXN.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DXN Limited",
+  "primary_symbol": "DXN.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DXN Limited engages in the designing, engineering, manufacturing, maintenance, and operation of data centers and related infrastructure in Australia. The company's data centers provide colocation services that offer space, power, cooling, and physical security for clients to house their computer servers, and related storage and networking equipment. It also engineers, constructs, and commissions data center solutions for edge data centers and telecommunications applications. The company was incorporated in 2017 and is based in Welshpool, Australia.",
+  "website": "http://dxn.solutions"
+}

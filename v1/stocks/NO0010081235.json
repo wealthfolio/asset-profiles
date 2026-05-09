@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C331Q5",
+    "isin": "NO0010081235"
+  },
+  "industry_group": "Energy",
+  "isin": "NO0010081235",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0010081235.SW"
+    }
+  ],
+  "name": "NEL ASA",
+  "primary_symbol": "NO0010081235.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "NEL ASA is a global company specializing in hydrogen technology. The company designs and manufactures electrolyzers for hydrogen production and fueling stations for hydrogen vehicles. NEL ASA is headquartered in Oslo, Norway."
+}

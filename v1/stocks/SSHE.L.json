@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SSHE.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Short Shopify ETP",
+  "primary_symbol": "SSHE.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SSHE.L is an exchange-traded product (ETP) offered by Leverage Shares that provides -1x leveraged short exposure to the daily performance of Shopify shares; this means the ETP aims to deliver the inverse of Shopify's daily returns, before fees and expenses; Leverage Shares is a provider of leveraged and inverse ETPs."
+}

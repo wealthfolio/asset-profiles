@@ -1,0 +1,25 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCAG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Scage Future American Depositary Shares",
+  "primary_symbol": "SCAG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BQSZZ3",
+    "figi": "BBG000BQT301",
+    "isin": "DE0005220008"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "DE0005220008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EBK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EBK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EBK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EBK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EBK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EBK.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ENBW ENERGIE BAD.-WUE. ON",
+  "primary_symbol": "EBK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "EnBW Energie Baden-Württemberg AG is one of the largest energy supply companies in Germany, providing electricity, gas, water, and energy-related services. Headquartered in Karlsruhe, Germany, the company operates power plants, distribution networks, and engages in renewable energy projects.",
+  "website": "http://www.enbw.com"
+}

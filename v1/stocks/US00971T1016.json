@@ -1,0 +1,99 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DGZ1J8",
+    "cusip": "00971T101",
+    "figi": "BBG000DGZ4C9",
+    "isin": "US00971T1016"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US00971T1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AK3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AK3.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AK3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AK3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AK3.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKAM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HBQ.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "A1KA34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AK3.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AK3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AK3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AK3.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "AKAM.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AKAM.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "AKAMAI TECH.  DL-,01",
+  "primary_symbol": "AK3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Akamai Technologies, Inc. is a global content delivery network (CDN) and cloud service provider. The company provides a range of services designed to improve the speed, reliability, and security of websites and online content. Akamai is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.akamai.com"
+}

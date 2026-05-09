@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EUR.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "European Lithium Limited",
+  "primary_symbol": "EUR.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "European Lithium Limited engages in the lithium exploration in Austria. It focuses on the development of the Wolfsberg lithium project that includes 22 original and 32 overlapping exploration licenses, and a mining license covering approximately 11 mining areas located in Carinthia. The company is headquartered in West Leederville, Australia.",
+  "website": "http://europeanlithium.com"
+}

@@ -1,0 +1,35 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE000A14KRD3"
+  },
+  "industry_group": "Real Estate",
+  "isin": "DE000A14KRD3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RDE.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DKG.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Deutsche Konsum REIT-AG",
+  "primary_symbol": "0RDE.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Deutsche Konsum REIT-AG, a real estate investment trust, engages in the acquisition, leasing and management, and sale of retail properties in Germany. As of September 30, 2017, the company had a portfolio of 62 retail properties. Deutsche Konsum REIT-AG was founded in 2008 and is headquartered in Potsdam, Germany.",
+  "website": "http://www.deutsche-konsum.de"
+}

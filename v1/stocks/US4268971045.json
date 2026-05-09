@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0088F4719",
+    "cusip": "426897104",
+    "figi": "BBG0088F4773",
+    "isin": "US4268971045"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US4268971045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "336P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "336P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEPA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "336P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "336P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4268971045.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HEPION PHARMACEUT. DL-,01",
+  "primary_symbol": "336P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Hepion Pharmaceuticals, Inc. is a biopharmaceutical company focused on developing targeted therapies for liver disease. The company's lead drug candidate, CRV431, is in clinical development for non-alcoholic steatohepatitis (NASH) and other liver disorders. Hepion Pharmaceuticals is headquartered in Edison, New Jersey.",
+  "website": "http://www.hepionpharma.com"
+}

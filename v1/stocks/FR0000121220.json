@@ -1,0 +1,81 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000121220"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Consumer Services",
+  "isin": "FR0000121220",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0J3F.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDXAY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDXOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJ7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJ7.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJ7.TI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SJ7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SJ7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SJ7.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SW.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "SW.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SODEXO SA SODEXO ORD SHS",
+  "primary_symbol": "0J3F.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Sodexo SA is a French multinational corporation that provides food services and facilities management services. The company serves clients in various sectors, including businesses, healthcare, education, and government. Sodexo SA is headquartered in Issy-les-Moulineaux, France.",
+  "website": "http://www.sodexo.com"
+}

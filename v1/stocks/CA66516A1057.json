@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA66516A1057"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA66516A1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGPHF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NGC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Northern Graphite Corporation",
+  "primary_symbol": "NGPHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Northern Graphite Corporation explores for and develops mineral properties in Canada. Its principal asset is the Bissett Creek graphite project located in southern Canada, which comprises Ontario mining lease number 106693 covering 565 hectares; and Ontario mining lease number 109335 covering 1,938 hectares. The company was formerly known as Industrial Minerals Canada Inc. and changed its name to Northern Graphite Corporation in March 2010. Northern Graphite Corporation was incorporated in 2002 and is headquartered in Ottawa, Canada.",
+  "website": "http://northerngraphite.com"
+}

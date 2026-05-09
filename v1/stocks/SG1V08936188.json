@@ -1,0 +1,48 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "composite_figi": "BBG000RKBPZ9",
+    "figi": "BBG000RKBRV9",
+    "isin": "SG1V08936188"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "SG1V08936188",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CMR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CMR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CMR.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "COSMOSTEEL HLDGS LTD",
+  "primary_symbol": "CMR.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CosmoSteel Holdings Ltd. is a supplier of steel pipes, pipe fittings, flanges, valves and related products to the oil and gas, petrochemical, and other industries. The company serves customers in Southeast Asia, China, and the Middle East. CosmoSteel Holdings is headquartered in Singapore.",
+  "website": "http://www.cosmosteel.com"
+}

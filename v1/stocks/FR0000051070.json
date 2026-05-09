@@ -1,0 +1,68 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000PRMZP3",
+    "figi": "BBG000PRN257",
+    "isin": "FR0000051070"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "FR0000051070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETX.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0F6L.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ETX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ETX.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ETX.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ETX.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MAU.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MAU.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MAUREL ET PROM INH.EO-,77",
+  "primary_symbol": "ETX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Maurel & Prom is an oil and gas exploration and production company. The company focuses on acquiring, developing, and producing oil and gas assets, primarily in Africa. The company is headquartered in Paris, France.",
+  "website": "http://www.maureletprom.fr"
+}

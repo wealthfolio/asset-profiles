@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BWG5Z9",
+    "figi": "BBG000BWG7R4",
+    "isin": "JP3814800003"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "JP3814800003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FUH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FUH.SG"
+    }
+  ],
+  "name": "SUBARU CORP.",
+  "primary_symbol": "FUH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Subaru Corporation is a Japanese automotive manufacturer known for its Subaru brand of automobiles and its involvement in the aerospace industry. The company produces a range of passenger vehicles, including sedans, SUVs, and sports cars, all featuring its signature horizontally opposed \"boxer\" engines and symmetrical all-wheel-drive systems. Subaru's headquarters are located in Tokyo, Japan."
+}

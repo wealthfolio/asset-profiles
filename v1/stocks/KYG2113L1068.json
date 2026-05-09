@@ -1,0 +1,63 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000T5K6H2",
+    "figi": "BBG000T5K931",
+    "isin": "KYG2113L1068"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "KYG2113L1068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C44.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C44.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CARCY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CJRCF"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "1313.TW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C44.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C44.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHIN.RES CEMENT HLD (NEW)",
+  "primary_symbol": "C44.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "China Resources Cement Holdings Limited manufactures and sells cement, clinker, and related products. The company operates primarily in Mainland China.",
+  "website": "http://www.crcement.com"
+}

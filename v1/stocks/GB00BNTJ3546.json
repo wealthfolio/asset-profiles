@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG010BGJR46",
+    "figi": "BBG010BGJR91",
+    "isin": "GB00BNTJ3546"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "GB00BNTJ3546",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6UY.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "ALLFG.AS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BNTJ3546.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Allfunds Group plc",
+  "primary_symbol": "6UY.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Allfunds Group plc provides B2B WealthTech platforms connecting fund houses and distributors. It operates an open-architecture platform that provides a marketplace and digital solutions matching fragmented demand for asset management products from distributors with fragmented supply of products from fund houses. Its ecosystem covers fund distribution value chain and investment cycle, including via Allfunds Connect, a suite of SaaS-enabled digital, data, and analytics tools. Allfunds Group plc was founded in 2000 and is based in London, the United Kingdom.",
+  "website": "http://www.allfunds.com/en"
+}

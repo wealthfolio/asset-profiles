@@ -1,0 +1,53 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BYW7T0",
+    "figi": "BBG000BYWC00",
+    "isin": "CA82028K2002"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Telecommunication Services",
+  "isin": "CA82028K2002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWC.MU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SWC.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SWC.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SWC.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SHAW COMM. N-VTG B",
+  "primary_symbol": "SWC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Shaw Communications Inc. (now Rogers Communications) was a Canadian telecommunications company that provided cable television, internet, telephone, and mobile services. The company has been acquired by Rogers Communications. The headquarter location was Calgary, Alberta, Canada.",
+  "website": "http://www.sherwood.co.th"
+}

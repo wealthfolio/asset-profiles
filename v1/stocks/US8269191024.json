@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BSHD08",
+    "cusip": "826919102",
+    "figi": "BBG000BSHHN4",
+    "isin": "US8269191024"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US8269191024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LA5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LA5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLAB"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LA5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LA5.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SLAB.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SILICON LABS INC.DL-,0001",
+  "primary_symbol": "LA5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SILICON LABS INC.DL-,0001 is a fabless semiconductor company that designs and manufactures silicon, software and system solutions for the Internet of Things (IoT), internet infrastructure, industrial automation, consumer and automotive markets. The company's product portfolio includes microcontrollers, wireless transceivers, sensors, and power management ICs. Silicon Labs is headquartered in Austin, Texas.",
+  "website": "http://www.silabs.com"
+}

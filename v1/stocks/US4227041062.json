@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DP2C46",
+    "cusip": "422704106",
+    "figi": "BBG000DP2GP4",
+    "isin": "US4227041062"
+  },
+  "industry_group": "Materials",
+  "isin": "US4227041062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HCL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HCL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HCL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HCL.SG"
+    }
+  ],
+  "name": "HECLA MNG  DL-,25",
+  "primary_symbol": "HCL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Hecla Mining Company explores for, develops, acquires, and produces precious and base metal deposits, primarily in North America. The company produces silver, gold, lead, and zinc from its mines. Hecla Mining Company is headquartered in Coeur d'Alene, Idaho."
+}

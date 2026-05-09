@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG001WS0N09",
+    "figi": "BBG001WS0N63",
+    "isin": "HK0000083920"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "HK0000083920",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRI.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SRI.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SUN ART RETAIL GROUP",
+  "primary_symbol": "SRI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Sun Art Retail Group Limited operates hypermarkets and supermarkets in China. The company retails food, apparel, household goods, and electronics through its store network. Sun Art Retail Group is based in Shanghai, China.",
+  "website": "http://www.sipa.com.au"
+}

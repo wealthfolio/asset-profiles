@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "89853L104",
+    "isin": "US89853L1044"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US89853L1044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3T2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3T2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3T2.SG"
+    }
+  ],
+  "name": "T2 BIOSYSTEMS  DL-,001",
+  "primary_symbol": "3T2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "T2 Biosystems, Inc. is a diagnostics company focused on developing innovative diagnostic products. The company is focused on developing rapid diagnostic tests for sepsis and other critical conditions. T2 Biosystems is headquartered in Lexington, Massachusetts."
+}

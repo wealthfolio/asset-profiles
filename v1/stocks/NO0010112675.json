@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R3P6R3",
+    "figi": "BBG000R3PC27",
+    "isin": "NO0010112675"
+  },
+  "industry_group": "Materials",
+  "isin": "NO0010112675",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R3Q.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R3Q.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R3Q.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "R3Q.DU"
+    }
+  ],
+  "name": "REC SILICON  NK 1",
+  "primary_symbol": "R3Q.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "REC Silicon ASA is a Norwegian company that produces silicon materials. The company produces polysilicon and silane gas, primarily for the solar and electronics industries. REC Silicon is headquartered in Moses Lake, Washington, USA."
+}

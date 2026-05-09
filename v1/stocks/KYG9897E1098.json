@@ -1,0 +1,36 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG9897E1098"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG9897E1098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1ZZ.F"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "6158.HK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Zhenro Properties Group Limited",
+  "primary_symbol": "1ZZ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Zhenro Properties Group Limited, an investment holding company, engages in the property development, property leasing, and commercial property management business in the People's Republic of China. It develops residential properties; and develops, operates, and manages commercial and mixed-use properties. The company was founded in 1998 and is headquartered in Shanghai, China. Zhenro Properties Group Limited is a subsidiary of RoYue Limited.",
+  "website": "http://www.zhenrodc.com"
+}

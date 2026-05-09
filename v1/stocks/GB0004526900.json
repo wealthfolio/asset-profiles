@@ -1,0 +1,101 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB0004526900"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "GB0004526900",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IGR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLDTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLOBF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0004526900.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "IGR.L"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "IGRL.BO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LLD.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LLD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LLD.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LLD2.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "LLOY.L"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "LYG.BA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LYG.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LYGN.MX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CBRE Clarion Global Real Estate Income Fund",
+  "primary_symbol": "IGR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CBRE Clarion Global Real Estate Income Fund specializes in investments in various property types, including office, retail, diversified, apartments, industrials, hotels, healthcare, and storage. It invests in the public equity markets across the developed markets of North America, Europe, Australia, and Asia. The fund seeks to invest in stocks of companies operating across the real estate sector including REITs. It invests in stocks of companies across diversified market capitalizations. The fund employs fundamental analysis to create its portfolio. It conducts in-house research to make its investments.",
+  "website": "http://www.cbreclarion.com/ourfunds/Global-Real-Estate-Income-Fund/Pages/default.aspx"
+}

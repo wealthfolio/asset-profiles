@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "JP3837800006"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "JP3837800006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HYB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HYB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HYB.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "The New America High Income Fund Inc.",
+  "primary_symbol": "HYB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The New America High Income Fund Inc. is a closed-ended fixed income mutual fund launched and managed by T. Rowe Price Associates, Inc. The fund invests in the fixed income markets of the United States. It seeks to invest in the stocks of companies operating across the diversified sectors. The fund invests in high yield fixed-income securities i.e. junk bonds rated BB or lower by S&P or Ba or lower by Moody. It benchmarks the performance of its portfolio against the Credit Suisse High Yield Index and the Citigroup 10 Year Treasury Index. The New America High Income Fund Inc. was formed on November 19, 1987 and is domiciled in the United States.",
+  "website": "http://www.newamerica-hyb.com/index.html"
+}

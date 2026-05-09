@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TSL2.L"
+    }
+  ],
+  "name": "Leverage Shares 2x Tesla ETC",
+  "primary_symbol": "TSL2.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares 2x Tesla ETC is an exchange-traded commodity (ETC) that provides investors with a leveraged return based on the daily performance of Tesla shares. It is designed for short-term trading and is not intended for long-term investment. ETCs are typically based out of Europe."
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FINAMEXO.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Casa de Bolsa Finamex S.A.B. de C.V.",
+  "primary_symbol": "FINAMEXO.MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Casa de Bolsa Finamex S.A.B. de C.V. operates as a provider of access services to the Mexican markets. The company offers financial services to individual, corporate, or professional investors in the Mexican markets of money, capital, derivatives, and exchange with various direct access products and specialized mixtures. It also provides securities purchase/sale, equity market brokerage, and foreign currency purchase and sale services. The company was founded in 1974 and is based in Guadalajara, Mexico.",
+  "website": "http://www.finamex.com.mx"
+}

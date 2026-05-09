@@ -1,0 +1,119 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BPWXK1",
+    "cusip": "651639106",
+    "figi": "BBG000BPWYG4",
+    "isin": "US6516391066"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US6516391066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NEM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMM.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMM.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMM.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMM.TI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3PXA.F"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "N1EM34.SA"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "NEM.BA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NEM.MX"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "NEM.SN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "NEWM.VI"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NGT.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NMM.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NMM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NMM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NMM.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Newmont Corporation",
+  "primary_symbol": "NEM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Newmont Corporation engages in the production and exploration of gold. It also explores for copper, silver, zinc, and lead. The company has operations and/or assets in the United States, Canada, Mexico, Dominican Republic, Peru, Suriname, Argentina, Chile, Australia, and Ghana. As of December 31, 2020, it had proven and probable gold reserves of 94.2 million ounces and land position of 58,900 square kilometers. The company was founded in 1916 and is headquartered in Denver, Colorado.",
+  "website": "http://www.newmont.com"
+}

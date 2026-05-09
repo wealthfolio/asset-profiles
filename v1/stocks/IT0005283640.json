@@ -1,0 +1,42 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000DTG3Q9",
+    "isin": "IT0005283640"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Materials",
+  "isin": "IT0005283640",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005283640.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PCHP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SERI.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SERI INDUSTRIAL SPA",
+  "primary_symbol": "IT0005283640.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Seri Industrial S.p.A. is an Italian company operating in the plastic processing industry, specializing in the production of plastic compounds and molded plastic products. The company serves various sectors, including automotive, household appliances, and construction. Seri Industrial S.p.A. is headquartered in Piedimonte Matese, Italy.",
+  "website": "http://www.seri-industrial.it"
+}

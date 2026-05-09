@@ -1,0 +1,63 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000PWDYM8",
+    "figi": "BBG000PWF0D0",
+    "isin": "TH0796010013"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "TH0796010013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LQZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LQZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOIPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LQZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LQZ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LQZ1.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TOP.BK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "THAI OIL PCL -FGN-  BA 10",
+  "primary_symbol": "LQZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "THAI OIL PCL -FGN-  BA 10 is a foreign-owned share of Thai Oil Public Company Limited, one of Thailand's largest oil refining companies. Thai Oil operates refineries and petrochemical plants. It is headquartered in Bangkok, Thailand.",
+  "website": "http://www.thaioilgroup.com"
+}

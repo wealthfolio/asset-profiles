@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00BT63FN8",
+    "cusip": "68235C107",
+    "figi": "BBG00BT63FW8",
+    "isin": "US68235C1071"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US68235C1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7OC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KCC.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7OC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7OC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7OC.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ONCOCYTE CORP.",
+  "primary_symbol": "7OC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Oncocyte Corporation is a molecular diagnostics company. They develop and commercialize proprietary tests for the diagnosis and monitoring of cancer. The company is headquartered in Irvine, California.",
+  "website": "http://oncocyte.com"
+}

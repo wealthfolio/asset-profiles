@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Y79XRY5",
+    "isin": "FR0014000P11"
+  },
+  "isin": "FR0014000P11",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0014000P11.SG"
+    }
+  ],
+  "name": "WINFARM SAS",
+  "primary_symbol": "FR0014000P11.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

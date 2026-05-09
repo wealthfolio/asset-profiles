@@ -1,0 +1,42 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00LVCLMX4",
+    "figi": "BBG00LVCLN35",
+    "isin": "SE0007871363"
+  },
+  "industry_group": "Software & Services",
+  "isin": "SE0007871363",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7VS.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RDI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7VS.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VITEC SOFTWARE GROUP AB B",
+  "primary_symbol": "7VS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Vitec Software Group AB is a Swedish software company that develops, markets, and delivers vertical market software for specific industries. They focus on acquiring and developing software companies with established market positions in various niches. The company is headquartered in Uppsala, Sweden.",
+  "website": "http://www.vitecsoftware.com"
+}

@@ -1,0 +1,56 @@
+{
+  "identifiers": {
+    "isin": "DE0008051004"
+  },
+  "industry_group": "Insurance",
+  "isin": "DE0008051004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GJN.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WUW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WUW.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WUW.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WUW.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WUW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WUW.SG"
+    }
+  ],
+  "name": "WUESTENROT & WUERTTEMBERGISCHE",
+  "primary_symbol": "0GJN.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Wüstenrot & Württembergische AG is a German financial services group that provides building society savings, insurance, and banking services. The company operates through its Wüstenrot Bausparkasse and Württembergische Versicherung brands. Wüstenrot & Württembergische is headquartered in Stuttgart, Germany."
+}

@@ -1,0 +1,54 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00Z82J2L1",
+    "cusip": "74969N103",
+    "figi": "BBG00Z82J2S4",
+    "isin": "US74969N1037"
+  },
+  "industry": "Tobacco",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US74969N1037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3CM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3CM.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RLX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3CM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3CM.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "RLX TECH.  SP.ADR/1 CL.A",
+  "primary_symbol": "3CM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "RLX Technology Inc. is a Chinese e-cigarette company that focuses on the research, development, manufacture, distribution, and sale of e-cigarette products. They operate primarily in China. The company's headquarters are in China.",
+  "website": "http://www.relxtech.com"
+}

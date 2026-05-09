@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00H2MNL72",
+    "figi": "BBG00H2MNLF3",
+    "isin": "CA92281P2008"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA92281P2008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5V7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VPTDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5V7.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "VPT.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VENTRIPOINT DIAGNOSTICS",
+  "primary_symbol": "5V7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "VENTRIPOINT DIAGNOSTICS is a diagnostics company that develops and commercializes innovative molecular diagnostic tests. They are focused on improving the diagnosis and management of various diseases. The company's headquarters are located in Belgium.",
+  "website": "http://www.ventripoint.com"
+}

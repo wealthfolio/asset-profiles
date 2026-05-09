@@ -1,0 +1,31 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "isin": "FR0011550680"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "FR0011550680",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESEA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Euroseas Ltd.",
+  "primary_symbol": "ESEA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Euroseas Ltd. provides ocean-going transportation services worldwide. The company owns and operates containerships that transport dry and refrigerated containerized cargoes primarily, including manufactured products and perishables. As of April 15, 2020, its fleet consisted of 19 containerships. The company was founded in 2005 and is based in Maroussi, Greece.",
+  "website": "http://www.euroseas.gr"
+}

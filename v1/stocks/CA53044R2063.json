@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00NXB66B6",
+    "figi": "BBG00NXB66J8",
+    "isin": "CA53044R2063"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "CA53044R2063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LD2A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LD2A.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LD2A.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LD2A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LDDFD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LDDFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA53044R2063.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LD2A.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SCAN.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LIBERTY DEFENSE H",
+  "primary_symbol": "LD2A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "DrawDown Detection Inc. develops, manufactures, and sells gunpowder detection sensor, a handheld device to detect smokeless gunpowder to law enforcement agencies and critical infrastructure providers . DrawDown Detection Inc. was founded in 2018 and is based in North Vancouver, Canada.",
+  "website": "http://drawdowndetection.com"
+}

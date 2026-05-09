@@ -1,0 +1,42 @@
+{
+  "identifiers": {
+    "cusip": "92259F101",
+    "isin": "US92259F1012"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US92259F1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "808.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "808.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "808.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US92259F1012.SG"
+    }
+  ],
+  "name": "VELODYNE LIDAR INC.",
+  "primary_symbol": "808.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Velodyne Lidar Inc. provides real-time 3D vision for autonomous systems. The company designs, manufactures, and sells lidar sensors and software. Velodyne Lidar is headquartered in San Jose, California."
+}

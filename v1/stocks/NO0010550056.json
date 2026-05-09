@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000QB4BL4",
+    "figi": "BBG000QB4FM4",
+    "isin": "NO0010550056"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Energy",
+  "isin": "NO0010550056",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RN2.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010550056.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NORTH.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RN2.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NORTH ENERGY ASA  NK 1",
+  "primary_symbol": "RN2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "North Energy ASA is an investment company focusing on the energy sector. The company invests in oil and gas exploration and production, as well as renewable energy projects. North Energy ASA is headquartered in Stavanger, Norway.",
+  "website": "http://www.northenergy.no"
+}

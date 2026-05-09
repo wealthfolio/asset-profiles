@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00QGPZT89",
+    "cusip": "156727109",
+    "figi": "BBG00QGPZTG0",
+    "isin": "US1567271093"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US1567271093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0S6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0S6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRNC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "0S6.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0S6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0S6.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CRNC.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US1567271093.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Cerence Inc.",
+  "primary_symbol": "0S6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cerence Inc. provides AI-powered assistants and innovations for connected and autonomous vehicles It offers edge software components; cloud-connected components; toolkits; applications; and virtual assistant coexistence and professional services. The company also provides conversational artificial intelligence, including voice recognition, natural language understanding, and artificial intelligence services. Cerence Inc. is headquartered in Burlington, Massachusetts.",
+  "website": "http://www.cerence.com"
+}

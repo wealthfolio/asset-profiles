@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FZ9XV9",
+    "cusip": "92922P106",
+    "figi": "BBG000FZB2Y1",
+    "isin": "US92922P1066"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US92922P1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UWV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UWV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UWV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UWV.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "W+T OFFSHORE INC.DL-00001",
+  "primary_symbol": "UWV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "W&T Offshore, Inc. is an independent oil and natural gas company focused on exploration, development, and acquisition of oil and natural gas properties in the Gulf of Mexico. The company's business model centers around finding and producing oil and gas from offshore fields. W&T Offshore is headquartered in Houston, Texas.",
+  "website": "http://www.wtoffshore.com"
+}

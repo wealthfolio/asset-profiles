@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NSR.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "National Storage REIT",
+  "primary_symbol": "NSR.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "National Storage is the largest self-storage provider in Australia and New Zealand, with 194 centres providing tailored storage solutions to over 70,000 residential and commercial customers. NSR is the first independent, internally managed and fully integrated owner and operator of self-storage centres to be listed on the Australian Securities Exchange (ASX).",
+  "website": "http://www.nationalstorage.com.au"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000JGBY97",
+    "figi": "BBG000JGD3L9",
+    "isin": "CNE100000478"
+  },
+  "industry_group": "Transportation",
+  "isin": "CNE100000478",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHZH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHZH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SHZH.SG"
+    }
+  ],
+  "name": "SHENZHEN EXPRESSWAY H YC1",
+  "primary_symbol": "SHZH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Shenzhen Expressway Company Limited is a company engaged in the investment, construction, operation, and management of toll expressways and roads in the People's Republic of China, primarily in the Guangdong Province. It also develops and manages advertising and other ancillary businesses related to its expressway network. The company's shares are traded on the Hong Kong Stock Exchange."
+}

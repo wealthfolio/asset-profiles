@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG003GV9PW7",
+    "figi": "BBG003GV9Q28",
+    "isin": "JP3718800000"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3718800000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "71N.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "1332.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "71N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "71N.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NIPPON SUISAN",
+  "primary_symbol": "71N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Nippon Suisan Kaisha, Ltd., also known as Nissui, is a Japanese seafood company headquartered in Tokyo. It is involved in fishing, aquaculture, seafood processing, and the production of processed foods. The company also has interests in pharmaceuticals and logistics.",
+  "website": "http://www.nissui.co.jp"
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "751212101",
+    "isin": "IT0005549644"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IT0005549644",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PRL.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Pierrel S.p.A.",
+  "primary_symbol": "PRL.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pierrel S.p.A. provides contract manufacturing services to the life science, biopharma, and pharmaceutical industries worldwide. The company is involved in the development of various types of drugs, such as tube vials, bottles, ampoules, drops, sprays, syrups, gels, creams, ointments, and tablets; and production of active ingredients, including active substances and pharmaceutical formulations, as well as develops and manufactures dental anesthetics under the Orabloc brand name. It also engages in the development, registration, and licensing of new drugs and medical devices. Pierrel S.p.A. is based in Capua, Italy.",
+  "website": "http://www.pierrelgroup.com"
+}

@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003MKSL16",
+    "cusip": "75955J402",
+    "figi": "BBG003MKSLR8",
+    "isin": "US75955J4022"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US75955J4022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RLMD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4E2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US75955J4022.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Relmada Therapeutics, Inc.",
+  "primary_symbol": "RLMD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Relmada Therapeutics, Inc., a clinical-stage biotechnology company, focuses on developing drugs to treat central nervous system (CNS) diseases and other disorders in the United States. Its lead product candidate, d-Methadone, an oral agent, which is in Phase II clinical trial for the treatment of depression, neuropathic pain, and other potential CNS pathological conditions. The company is also developing LevoCap ER, an abuse resistant, sustained release dosage form of the opioid analgesic levorphanol; BuTab, an oral dosage form of the opioid analgesic buprenorphine; and MepiGel, an orphan drug designated topical formulation of the local anesthetic mepivacaine. Relmada Therapeutics, Inc. was founded in 2004 and is headquartered in New York, New York.",
+  "website": "http://www.relmada.com"
+}

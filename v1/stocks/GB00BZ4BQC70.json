@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C36PT6",
+    "figi": "BBG000C36VJ4",
+    "isin": "GB00BZ4BQC70"
+  },
+  "industry_group": "Materials",
+  "isin": "GB00BZ4BQC70",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JMT2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JMT2.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JMT2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JMT2.SG"
+    }
+  ],
+  "name": "JOHNSON MATT. LS 1,101698",
+  "primary_symbol": "JMT2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Johnson Matthey PLC is a British multinational specialty chemicals company. The company is a global leader in sustainable technologies, specializing in catalysts, precious metals, and fine chemicals. Johnson Matthey serves a wide range of industries, including automotive, chemical, and pharmaceutical, and is headquartered in London, UK."
+}

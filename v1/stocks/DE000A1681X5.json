@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BW0JX8",
+    "figi": "BBG000BW0LH1",
+    "isin": "DE000A1681X5"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "DE000A1681X5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNG.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNG.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SNG.DU"
+    }
+  ],
+  "name": "SINGULUS TECHNOL. EO 1",
+  "primary_symbol": "SNG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Singulus Technologies AG is a German mechanical engineering company specializing in thin-film coating technology and surface treatment. Headquartered in Kahl am Main, Germany, the company develops and manufactures machines for the production of solar cells, optical discs, and other coated products. Its business model revolves around selling and servicing its specialized equipment."
+}

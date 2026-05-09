@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00LLCC839",
+    "figi": "BBG00LLCC893",
+    "isin": "CA00149L1058"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA00149L1058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5AT.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "AJN.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AJN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AJN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA00149L1058.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AJN RESOURCES INC. O.N.",
+  "primary_symbol": "5AT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "AJN Resources Inc., an exploration and development company, acquires, explores for, and develops mineral properties. The company holds an option to acquire a 100% interest in the Salt Wells Lithium Project located in Nevada, the United States. AJN Resources Inc. was founded in 2016 and is headquartered in Surrey, Canada.",
+  "website": "http://ajnresources.com"
+}

@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000QPRF75",
+    "figi": "BBG000QPRGV6",
+    "isin": "DE000A12UK08"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Banks",
+  "isin": "DE000A12UK08",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECF.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ECF.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ECF.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ECF.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ECF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ECF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ECF.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MOUNTAIN ALLIANCE NA O.N.",
+  "primary_symbol": "ECF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mountain Alliance AG is a German investment holding company focused on investments in digital business models and innovative technologies. Headquartered in Munich, Germany, the company invests in early-stage and growth-stage companies across various sectors.",
+  "website": "http://www.elanorinvestors.com/ecf/"
+}

@@ -1,0 +1,71 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA89356V1040"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA89356V1040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCNAF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TH8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TH8.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TH8.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TH8.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TCAN.CN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TH8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TH8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TH8.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TransCanna Holdings Inc.",
+  "primary_symbol": "TCNAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TransCanna Holdings Inc., through its subsidiaries, engages in the management of transportation and distribution services to the cannabis industry in the United States. It provides branding, marketing, transportation, and distribution of cannabis related products for state-licensed operators involved in the cultivation, manufacture, and sale of cannabis in California. The company was founded in 2017 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.transcanna.com"
+}

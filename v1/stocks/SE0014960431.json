@@ -1,0 +1,36 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0014960431"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Materials",
+  "isin": "SE0014960431",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A5U.IL"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "RENEW.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RENEWCELL AB RENEWCELL ORD SHS",
+  "primary_symbol": "0A5U.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "RENEWCELL AB RENEWCELL ORD SHS is a Swedish company focused on developing and commercializing a technology to recycle textiles, specifically turning used cotton and other cellulose-based textiles into new raw materials. The company aims to create a sustainable textile industry by reducing waste and reliance on virgin materials and is headquartered in Sundsvall, Sweden.",
+  "website": "http://www.renewcell.com"
+}

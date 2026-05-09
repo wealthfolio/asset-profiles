@@ -1,0 +1,63 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG000BZWF64",
+    "figi": "BBG000BZWHV2",
+    "isin": "CA3060711015"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA3060711015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FAC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FAC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOLGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FAC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FAC.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "FO.V"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "FOG.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FALCON OIL + GAS",
+  "primary_symbol": "FAC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Falcon Oil & Gas Ltd. is an international oil and gas exploration company. The company's primary asset is its shale gas acreage in the Beetaloo Sub-basin in the Northern Territory, Australia. Falcon Oil & Gas is headquartered in Dublin, Ireland.",
+  "website": "http://www.falconoilandgas.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QTVLZ8",
+    "cusip": "447011107",
+    "figi": "BBG000QTVP52",
+    "isin": "US4470111075"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US4470111075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HTR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HTR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HTR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HTR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HTR.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HUNTSMAN CORP.  DL-,01",
+  "primary_symbol": "HTR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Huntsman Corporation is a global manufacturer of differentiated chemical products. The company's products are used in a variety of applications, including adhesives, aerospace, construction, personal care, and textiles. Huntsman Corporation is headquartered in The Woodlands, Texas.",
+  "website": "http://www.huntsman.com"
+}

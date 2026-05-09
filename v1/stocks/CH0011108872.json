@@ -1,0 +1,36 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0011108872"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "CH0011108872",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QQY.IL"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "MOBN.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MOBIMO HOLDING AG MOBIMO HOLDIN",
+  "primary_symbol": "0QQY.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Mobimo Holding AG is a Swiss real estate company that invests in and manages a diversified portfolio of residential and commercial properties in Switzerland. The company focuses on developing attractive locations and creating long-term value for its shareholders. Mobimo Holding is headquartered in Lucerne, Switzerland.",
+  "website": "http://www.mobimo.ch"
+}

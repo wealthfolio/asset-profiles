@@ -1,0 +1,47 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00QK47VT4",
+    "figi": "BBG00QK47W03",
+    "isin": "FR0011814938"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0011814938",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3QK.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3QK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3QK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0011814938.SG"
+    }
+  ],
+  "name": "BOOSTHEAT SAS  EO -,25",
+  "primary_symbol": "3QK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BOOSTHEAT S.A.S. designs, develops, and manufactures energy-efficient and ecological heating solutions. Their main product is a new generation of thermal boilers using a patented thermal compression technology, aiming at reducing energy consumption and CO2 emissions. The company is based in France.",
+  "website": "http://www.boostheat.fr"
+}

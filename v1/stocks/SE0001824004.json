@@ -1,0 +1,61 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0001824004"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "SE0001824004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GENTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U3I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U3I.MU"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "G5EN.ST"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "U3I.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "U3I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "U3I.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "G5 Entertainment AB (publ)",
+  "primary_symbol": "GENTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "G5 Entertainment AB (publ) develops and publishes free-to-play games for smartphones and tablets in Sweden. Its portfolio of games includes Jewels of Rome, Hidden City, Mahjong Journey, Homicide Squad, The Secret Society, and Wordplay. The company distributes games through Apple App Store, Google Play, Microsoft Store, and Amazon Appstore. G5 Entertainment AB (publ) was founded in 2001 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.g5e.com"
+}

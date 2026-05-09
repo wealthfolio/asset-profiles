@@ -1,0 +1,58 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "composite_figi": "BBG000LSYD99",
+    "figi": "BBG000LSYH45",
+    "isin": "MHY1968P1218"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY1968P1218",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DVW1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DVW1.MU"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "DAC.CO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DVW1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DVW1.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Danaos Corporation",
+  "primary_symbol": "DAC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Danaos Corporation, together with its subsidiaries, owns and operates containerships in Australia, Asia, Europe, and the United States. The company offers seaborne transportation services, such as chartering its vessels to liner companies. As of February 28, 2021, it had a fleet of 65 containerships aggregating 403,793 twenty foot equivalent units in capacity. The company was formerly known as Danaos Holdings Limited and changed its name to Danaos Corporation in October 2005. Danaos Corporation was founded in 1972 and is based in Piraeus, Greece.",
+  "website": "http://www.danaos.com"
+}

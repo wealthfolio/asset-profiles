@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XV7SGD7",
+    "cusip": "192010106",
+    "figi": "BBG00XV7SGL8",
+    "isin": "US1920101060"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US1920101060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "32W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "32W.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDAK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "32W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "32W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US1920101060.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CODIAK BIOSCIENCEDL-,0001",
+  "primary_symbol": "32W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Codiak BioSciences, Inc. is a biopharmaceutical company pioneering the development of exosome-based therapeutics for the treatment of a broad range of diseases. The company's engEx Platform is used to engineer exosomes with specific properties for targeted drug delivery. Codiak BioSciences is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.codiakbio.com"
+}

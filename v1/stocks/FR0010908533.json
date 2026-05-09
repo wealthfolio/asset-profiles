@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000WH21S1",
+    "figi": "BBG000WH2361",
+    "isin": "FR0010908533"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0010908533",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QSV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QSV.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "EDEN.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "EDEN.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "QSV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QSV.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EDENRED  EO 2",
+  "primary_symbol": "QSV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Edenred S.A. provides specific-purpose payment solutions for companies, including employee benefits, fleet and mobility, and incentives and rewards. Headquartered in France, their solutions aim to improve employee engagement and efficiency.",
+  "website": "http://myeden.ca"
+}

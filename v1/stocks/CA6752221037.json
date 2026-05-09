@@ -1,0 +1,53 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000RM33J1",
+    "figi": "BBG000RM3560",
+    "isin": "CA6752221037"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Materials",
+  "isin": "CA6752221037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RQQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RQQ.MU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "OGC.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RQQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RQQ.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "OCEANAGOLD CORP.",
+  "primary_symbol": "RQQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "OceanaGold Corporation is a multinational gold producer with operating mines in New Zealand, Australia and the United States. The company focuses on responsible mining practices and maximizing shareholder value. OceanaGold is headquartered in Melbourne, Australia.",
+  "website": "http://www.oceanglass.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000BV7ZM9",
+    "figi": "BBG000BV8330",
+    "isin": "JP3756600007"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "JP3756600007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTO.TA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0R1E.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NTO.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NTO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NTO.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NINTENDO CO. LTD",
+  "primary_symbol": "NTO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "NINTENDO CO. LTD is a Japanese multinational consumer electronics and video game company. Nintendo develops, manufactures, and sells video game consoles and software, including popular franchises like Mario, Zelda, and Pokémon.",
+  "website": "http://www.neto.org.il"
+}

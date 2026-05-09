@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00L54HFX1",
+    "figi": "BBG00L54HG32",
+    "isin": "FR0010722819"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "FR0010722819",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3FS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3FS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3FS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALKAL.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "KALRAY SA  EO10",
+  "primary_symbol": "3FS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kalray S.A. is a French fabless semiconductor company that develops and sells high-performance, low-power processors for embedded systems. The company's products are used in autonomous vehicles, data centers, and other applications. Kalray is headquartered in Montbonnot-Saint-Martin, France.",
+  "website": "http://www.kalrayinc.com"
+}

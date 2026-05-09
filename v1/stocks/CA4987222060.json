@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000QPC8K2",
+    "figi": "BBG000QPCBY0",
+    "isin": "CA4987222060"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA4987222060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "K1SN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KLSVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "K1SN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "K1SN.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "KS.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Klondike Silver Corp.",
+  "primary_symbol": "K1SN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Klondike Silver Corp., a resource exploration stage company, engages in the acquisition and exploration of mineral properties. It primarily explores for silver, lead, and zinc deposits. The company primarily owns a 100% interest in the Slocan Silver camp that covers an area of approximately 116 square kilometers located in South Eastern British Columbia. It also holds interests in mineral claims located in the Horwood Township of the Porcupine mining division, Ontario; and Yukon property. Klondike Silver Corp. was incorporated in 2005 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.klondikesilver.com"
+}

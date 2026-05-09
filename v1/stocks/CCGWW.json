@@ -1,0 +1,25 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCGWW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cheche Group Inc. Warrant",
+  "primary_symbol": "CCGWW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Cheche Group Inc. Warrant gives the holder the right to purchase one Class A ordinary share of Cheche Group Inc. at a specified price. These warrants were issued in connection with a business combination or financing event. The warrants become exercisable subject to certain conditions."
+}

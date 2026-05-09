@@ -1,0 +1,56 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000SVL8"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000SVL8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLVMF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWQ.HM"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SVL.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SWQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SWQ.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Silver Mines Limited",
+  "primary_symbol": "SLVMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Silver Mines Limited primarily engages in the exploration of silver deposits in Australia. It operates through two segments, Mining and Exploration Operations, and Agricultural Operations. The company also explores for polymetallic, copper, gold, lead, zinc, and tin deposits. Its principal property is the Bowdens silver project covering an area of 2,007 square kilometers located in the Central Tablelands Region, New South Wales. The company is also involved in agricultural activities. Silver Mines Limited was incorporated in 2004 and is based in Sydney, Australia.",
+  "website": "http://www.silvermines.com.au"
+}

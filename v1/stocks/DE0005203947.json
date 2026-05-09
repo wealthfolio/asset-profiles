@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000HC2617",
+    "figi": "BBG00BT8SHD4",
+    "isin": "DE0005203947"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE0005203947",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BNN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BNN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BNN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BNN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BRAIN BIOTEC  NA O.N.",
+  "primary_symbol": "BNN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BRAIN Biotech AG is a German industrial biotechnology company that discovers and develops novel biological solutions for nutrition, health and environmental applications. The company operates through its BRAIN Group and offers customized enzyme and microbial strain development services. Its headquarters are located in Zwingenberg, Germany.",
+  "website": "http://www.brain-biotech.de"
+}

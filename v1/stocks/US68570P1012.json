@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "cusip": "68570P101",
+    "isin": "US68570P1012"
+  },
+  "isin": "US68570P1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OT1A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OT1A.MU"
+    }
+  ],
+  "name": "ORCHARD THERAP.SP.ADRS/1",
+  "primary_symbol": "OT1A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

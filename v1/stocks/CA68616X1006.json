@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA68616X1006"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA68616X1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORMNF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ORS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ORS.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "REX.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "REX.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Orex Minerals Inc.",
+  "primary_symbol": "ORMNF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Orex Minerals Inc. acquires and explores for mineral properties in Mexico and Canada. The company explores for gold and silver deposits. It owns interests in the Coneto silver-gold project located in the Mesa Central on the eastern flank of the Sierra Madre Occidental Mountains; Sandra Escobar silver-gold project located to the north of the town of Tepehuanes, Durango; and Jumping Josephine gold project located in the West Kootenay region of Southeastern British Columbia. The company was incorporated in 1996 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.orexminerals.com"
+}

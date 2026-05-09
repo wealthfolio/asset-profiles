@@ -1,0 +1,68 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00GCYV6X2",
+    "figi": "BBG00GCYV724",
+    "isin": "BE0003008019"
+  },
+  "industry": "Banks",
+  "industry_group": "Energy",
+  "isin": "BE0003008019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BKB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BKB.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "BNB.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BNB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BNB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BQUE NATLE BELG. O.N.",
+  "primary_symbol": "BKB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Bayan Resources Tbk PT is an Indonesian coal mining company engaged in the exploration, mining, and processing of coal. The company operates primarily in East Kalimantan, Indonesia. Bayan Resources supplies coal to both domestic and international markets.",
+  "website": "http://www.nbb.be"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000RQGQP0",
+    "figi": "BBG000RQGSL0",
+    "isin": "HK0656038673"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "HK0656038673",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FNI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FNI.SG"
+    }
+  ],
+  "name": "FOSUN INTL LTD",
+  "primary_symbol": "FNI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Fosun International Limited is a global investment company with a focus on health, happiness, and wealth ecosystems. The company operates through various segments, including health, property, steel, tourism and leisure, financial services, and resources. Fosun International is headquartered in Hong Kong."
+}

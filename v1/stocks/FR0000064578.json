@@ -1,0 +1,91 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000064578"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "FR0000064578",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0J6V.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F5D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F5D.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F5D.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSEFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GWD.HM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0SF5.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "COV.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "COVH.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CVO.MI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F5D.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F5D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F5D.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FONCIERE DES REGIONS SA FONCIER",
+  "primary_symbol": "0J6V.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "FONCIERE DES REGIONS SA FONCIER is likely referring to Covivio, a European real estate company. Covivio owns, manages, and develops a portfolio of office, residential, and hotel properties. The company is focused on creating sustainable and attractive urban spaces in major European cities.",
+  "website": "http://www.covivio.eu"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BS4MP5",
+    "cusip": "254067101",
+    "figi": "BBG000BS4P78",
+    "isin": "US2540671011"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US2540671011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DDS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DL7A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DL7A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DL7A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DL7A.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Dillard's, Inc.",
+  "primary_symbol": "DDS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Dillard's, Inc. operates retail department stores in the southeastern, southwestern, and midwestern areas of the United States. Its stores offer merchandise, including fashion apparel for women, men, and children; and accessories, cosmetics, home furnishings, and other consumer goods. As of January 30, 2021, the company operated 282 Dillard's stores, including 32 clearance centers, and an Internet store at dillards.com. It also engages in the general contracting construction activities. The company was founded in 1938 and is based in Little Rock, Arkansas.",
+  "website": "http://www.dillards.com"
+}

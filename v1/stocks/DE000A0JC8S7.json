@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000DWB4H5",
+    "figi": "BBG000DWB7Y9",
+    "isin": "DE000A0JC8S7"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "DE000A0JC8S7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D6H.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D6H.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D6H.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0W19.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "D6H.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "D6H.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D6H.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "D6H.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DATAGROUP SE  INH. O.N.",
+  "primary_symbol": "D6H.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DATAGROUP SE is a German IT service provider that offers a range of services, including IT consulting, infrastructure management, and software development. The company focuses on providing comprehensive IT solutions to medium-sized and large enterprises. DATAGROUP SE is headquartered in Pliezhausen, Germany.",
+  "website": "http://www.datagroup.de"
+}

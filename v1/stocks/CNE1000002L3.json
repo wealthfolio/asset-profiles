@@ -1,0 +1,88 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000DCR883",
+    "figi": "BBG000DCRCF6",
+    "isin": "CNE1000002L3"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "CNE1000002L3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHL.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CILJF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LFC"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CHL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CHL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CHL.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CLF.F"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "LFC.BA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LFCN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CHINA LIFE INS. H  YC 1",
+  "primary_symbol": "CHL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "China Life Insurance Company Limited is a leading life insurance company in China. The company provides a range of life insurance, annuity, and health insurance products to individuals and groups. China Life Insurance is headquartered in Beijing, China.",
+  "website": "http://www.e-chinalife.com"
+}

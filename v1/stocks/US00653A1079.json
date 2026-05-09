@@ -1,0 +1,54 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG009BDQ117",
+    "cusip": "00653A107",
+    "figi": "BBG009BDQ171",
+    "isin": "US00653A1079"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US00653A1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "473A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "473A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADAP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "473A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "473A.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ADAPTH.TH.SP.ADR6 LS-,001",
+  "primary_symbol": "473A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AdaptHealth Corp. provides home medical equipment (HME), medical supplies, and related services to individuals throughout the United States. Their offerings include sleep therapy equipment, mobility products, and oxygen therapy. AdaptHealth Corp. is headquartered in Plymouth Meeting, Pennsylvania.",
+  "website": "http://www.adaptimmune.com"
+}

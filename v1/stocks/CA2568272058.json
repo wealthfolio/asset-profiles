@@ -1,0 +1,66 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA2568272058"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA2568272058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DOLLF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DV"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DVQ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DVQ1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0USB.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "DV.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DVQ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DVQ1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Dolly Varden Silver Corporation",
+  "primary_symbol": "DOLLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Dolly Varden Silver Corporation engages in the acquisition, exploration, and development of mineral properties in Canada. The company explores for gold, silver, lead, zinc, and copper deposits. It holds 100% interests in the Dolly Varden project covering an area of 8,800 hectares; and the Big Bulk property located in Canada. The company was incorporated in 2011 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.dollyvardensilver.com"
+}

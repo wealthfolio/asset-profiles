@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BJWPJ4",
+    "figi": "BBG000BJWRZ2",
+    "isin": "DE000A2GS625"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A2GS625",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRZK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRZK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CRZK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CRZK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CRZK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CRZK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CR CAPITAL AG  INH O.N.",
+  "primary_symbol": "CRZK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CR CAPITAL AG is a German investment company that invests in a diversified portfolio of assets including real estate, private equity, and listed companies. The company focuses on long-term value creation through strategic investments and active management. CR CAPITAL AG is headquartered in Grünwald, Germany.",
+  "website": "http://www.capital-real-estate-ag.de"
+}

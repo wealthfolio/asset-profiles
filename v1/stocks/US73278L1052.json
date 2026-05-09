@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KT3FG9",
+    "cusip": "73278L105",
+    "figi": "BBG000KT4LH4",
+    "isin": "US73278L1052"
+  },
+  "industry_group": "Retailing",
+  "isin": "US73278L1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SP1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SP1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US73278L1052.SG"
+    }
+  ],
+  "name": "POOL CORP.  DL-,001",
+  "primary_symbol": "SP1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Pool Corporation is a wholesale distributor of swimming pool supplies, equipment, and related leisure products. The company operates through a network of sales centers and offers a wide range of products for pool maintenance, repair, and construction. Pool Corporation is headquartered in Covington, Louisiana."
+}

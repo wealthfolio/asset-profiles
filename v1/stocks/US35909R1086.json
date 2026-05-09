@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GCTTK65",
+    "cusip": "35909R108",
+    "figi": "BBG00GCTTKR2",
+    "isin": "US35909R1086"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US35909R1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULCC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Frontier Group Holdings, Inc.",
+  "primary_symbol": "ULCC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Frontier Group Holdings, Inc., a low-fare airline company, provides air transportation for passengers. The company operates an airline that serves approximately 110 airports throughout the United States and international destinations in the Americas. As of December 31, 2020, it had a fleet of 104 Airbus single-aisle aircraft comprising 4 A319ceos, 19 A320ceos, 60 A320neos, and 21 A321ceos. The company offers its services through direct distribution channels, including its website, mobile app, and call center. Frontier Group Holdings, Inc. was incorporated in 2013 and is headquartered in Denver, Colorado.",
+  "website": "http://www.flyfrontier.com"
+}

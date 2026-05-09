@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000T6NSN2",
+    "figi": "BBG000T6NTP8",
+    "isin": "AU000000SYR9"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000SYR9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3S7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3S7.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYAAF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3S7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3S7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3S7.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SYR.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SYRAH RESOURCES LTD",
+  "primary_symbol": "3S7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Syrah Resources Ltd is an Australian industrial minerals and technology company, with its flagship Balama Graphite Operation in Mozambique. The company is involved in mining and processing graphite for use in lithium-ion batteries and other industrial applications. Syrah Resources is headquartered in Melbourne, Australia.",
+  "website": "http://www.syrahresources.com.au"
+}

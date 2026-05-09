@@ -1,0 +1,54 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG000C2CRP1",
+    "cusip": "803069202",
+    "figi": "BBG000C2CTW9",
+    "isin": "US8030692029"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "US8030692029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPIA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPPJY"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "SAP.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SPI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SPIA.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SAPPI LTD ADR/1 RC 1",
+  "primary_symbol": "SPIA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sappi Limited is a global woodfibre company. Sappi produces dissolving pulp, paper pulp, packaging and specialty papers, printing and writing papers, as well as biomaterials. The company is headquartered in Johannesburg, South Africa.",
+  "website": "http://www.sappi.com"
+}

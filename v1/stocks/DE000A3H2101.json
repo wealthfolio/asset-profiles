@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BGH164",
+    "figi": "BBG000BGH565",
+    "isin": "DE000A3H2101"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE000A3H2101",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAQ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAQ1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAQ1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AAQ1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AAQ1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AAQ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A3H2101.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AAP IMPLANTATE AG O.N.",
+  "primary_symbol": "AAQ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AAP Implantate AG is a medical device company specializing in the development, manufacturing, and marketing of innovative trauma and orthopedic implants. The company's products are used in the treatment of fractures, joint replacements, and spinal injuries. AAP Implantate AG is based in Berlin, Germany.",
+  "website": "http://www.aap.de"
+}

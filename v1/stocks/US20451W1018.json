@@ -1,0 +1,39 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00X0VY2N1",
+    "cusip": "20451W101",
+    "figi": "BBG00X0VY368",
+    "isin": "US20451W1018"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US20451W1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMPS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5Y6.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COMPASS Pathways plc",
+  "primary_symbol": "CMPS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "COMPASS Pathways plc operates as a mental health care company in the United Kingdom and the United States. It develops COMP360, a psilocybin formulation that is in Phase IIb clinical trial to treat patients with treatment-resistant depression. The company was formerly known as COMPASS Rx Limited and changed its name to COMPASS Pathways plc in August 2020. COMPASS Pathways plc was incorporated in 2020 and is based in Cheshire, the United Kingdom.",
+  "website": "http://www.compasspathways.com"
+}

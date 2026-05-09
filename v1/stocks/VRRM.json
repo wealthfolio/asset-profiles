@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00G4XQ9Z1",
+    "figi": "BBG00G4XQB95"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VRRM"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Verra Mobility Corporation",
+  "primary_symbol": "VRRM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Verra Mobility Corporation provides smart mobility technology solutions and services in the United States, Canada, and Europe. It operates through two segments, Government Solutions and Commercial Services. The Government Solutions segment offers automated safety solutions, including services and technologies that enable photo enforcement through road safety camera programs, which detects and process traffic violations related to red light, speed, school bus, and city bus lanes. This segment serves municipalities, counties, school districts, and law enforcement agencies. The Commercial Services segment provides automated toll and violations management, and title and registration solutions to rental car companies, fleet management companies, and other large fleet owners. The company was incorporated in 2016 and is headquartered in Mesa, Arizona.",
+  "website": "http://www.verramobility.com"
+}

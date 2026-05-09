@@ -1,0 +1,56 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "LU1900066207"
+  },
+  "industry": "Distributors",
+  "industry_group": "Retailing",
+  "isin": "LU1900066207",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRAM.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRAN.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BRA.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BRA.OL"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "BRAM.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "RIO.MC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Bram Industries Ltd.",
+  "primary_symbol": "BRAM.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Bram Industries Ltd. develops, produces, and markets plastic products worldwide. It offers industrial packaging products for the food industry, including salads, meats, dairies, and others; and disposable dishes and unique household products, such as plastic kitchenware, food, and storage containers. The company was incorporated in 2004 and is based in Sderot, Israel.",
+  "website": "http://www.bram.co.il"
+}

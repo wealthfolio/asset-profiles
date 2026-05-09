@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005440893"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "IT0005440893",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "WIIT.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Wiit S.p.A.",
+  "primary_symbol": "WIIT.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Wiit S.p.A. provides cloud services for various businesses in Italy and internationally. It offers hybrid, hosted private, and public cloud services; cloud services for critical applications; business continuity and disaster recovery services; cyber security services; technology migration programs; digital business transformation services; and services desk and desktop management solutions, as well as infrastructure configuration, management, and control services. The company was founded in 2001 and is headquartered in Milan, Italy. Wiit S.p.A. is a subsidiary of Wiit Fin S.r.l.",
+  "website": "http://www.wiitgroup.com"
+}

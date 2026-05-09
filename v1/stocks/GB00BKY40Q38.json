@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00RCCBY85",
+    "figi": "BBG00RCCBYF7",
+    "isin": "GB00BKY40Q38"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "GB00BKY40Q38",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3WC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3WC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BKY40Q38.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GFRD.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GALLIFORD TRY PLC  LS-,50",
+  "primary_symbol": "3WC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "GALLIFORD TRY PLC is a UK-based construction and housebuilding company. The company operates through three divisions: Building, Infrastructure, and Partnerships & Regeneration, delivering projects across the public, private, and regulated sectors. Its headquarters are located in Uxbridge, United Kingdom.",
+  "website": "http://www.gallifordtry.co.uk"
+}

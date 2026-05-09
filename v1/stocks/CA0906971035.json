@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000J09KN9",
+    "figi": "BBG000J0BQB6",
+    "isin": "CA0906971035"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA0906971035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "39B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIREF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "39B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "39B.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BIR-PA.TO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BIR-PC.TO"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BIR.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BIR.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BIRCHCLIFF ENERGY LTD",
+  "primary_symbol": "39B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Birchcliff Energy Ltd. is a Canadian oil and gas company focused on the exploration, development, and production of natural gas, light oil, and natural gas liquids. The company's operations are primarily located in the Peace River Arch area of Alberta. Birchcliff Energy is headquartered in Calgary, Alberta.",
+  "website": "http://www.birchcliffenergy.com"
+}

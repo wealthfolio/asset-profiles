@@ -1,0 +1,31 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG00HY28P97",
+    "figi": "BBG00HY28PT5"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Garrett Motion Inc.",
+  "primary_symbol": "GTX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Garrett Motion Inc. designs, manufactures, and sells turbocharger and electric-boosting technologies for light and commercial vehicle original equipment manufacturers, and vehicle independent aftermarkets worldwide. The company offers light vehicle gasoline and diesel, and commercial vehicle turbochargers; and automotive software solutions. It also provides Intrusion Detection and Prevention System, an automotive cybersecurity solution; and integrated vehicle health management tools detect intermittent faults and anomalies to provide understanding of the real-time health of a vehicle system. The company offers its products in the aftermarket through distributors. Garrett Motion Inc. was incorporated in 2018 and is headquartered in Rolle, Switzerland.",
+  "website": "http://www.garrettmotion.com"
+}

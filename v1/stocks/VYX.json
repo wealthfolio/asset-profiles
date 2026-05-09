@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VYX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NCR Voyix Corporation",
+  "primary_symbol": "VYX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NCR Voyix Corporation provides technology solutions for the retail, restaurant, and banking industries. Its solutions include point-of-sale systems, self-checkout kiosks, and digital banking platforms. The company is headquartered in Atlanta, Georgia."
+}

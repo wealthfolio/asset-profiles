@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KKKS80",
+    "cusip": "783513203",
+    "figi": "BBG000KKKWB7",
+    "isin": "US7835132033"
+  },
+  "industry_group": "Transportation",
+  "isin": "US7835132033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RY4D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RY4D.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RY4D.DU"
+    }
+  ],
+  "name": "RYANAIR HLDGS ADR NEW/5",
+  "primary_symbol": "RY4D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "RYANAIR HLDGS ADR NEW/5 represents American Depositary Receipts for Ryanair Holdings PLC. Each ADR represents a fraction of an ordinary share of Ryanair. Ryanair is an Irish low-cost airline group with headquarters in Dublin, Ireland."
+}

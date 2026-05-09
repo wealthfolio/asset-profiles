@@ -1,0 +1,76 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA2483561072"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA2483561072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DML.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IUQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IUQ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0URY.L"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "DML.BO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "DML.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DNN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IUQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IUQ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SAYONA MINING LTD",
+  "primary_symbol": "DML.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sayona Mining Ltd is an Australian resource company focused on sourcing the raw materials required to construct lithium-ion batteries for the accelerating electric vehicle and energy storage markets. The company is advancing a portfolio of lithium projects in Quebec, Canada, including its flagship North American Lithium (NAL) project. Sayona Mining is headquartered in Brisbane, Australia.",
+  "website": "http://www.denisonmines.com"
+}

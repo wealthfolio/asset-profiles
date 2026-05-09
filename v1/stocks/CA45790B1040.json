@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000RF7QY4",
+    "figi": "BBG000RF7SJ7",
+    "isin": "CA45790B1040"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Energy",
+  "isin": "CA45790B1040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INGXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3IX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3IX.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "INE-PA.TO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "INE-PC.TO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "INE.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "INNERGEX RENEWABLE ENERGY",
+  "primary_symbol": "3IX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Innergex Renewable Energy is an independent renewable power producer that develops, owns, and operates hydroelectric facilities, wind farms, solar farms, and energy storage facilities. The company, headquartered in Longueuil, Canada, operates in North America, Latin America and Europe. Innergex strives to be a low-carbon energy provider.",
+  "website": "http://www.innergex.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00QPJDHZ3",
+    "figi": "BBG00QPJDJ43",
+    "isin": "KYG9898C1024"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG9898C1024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3ZH.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2772.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3ZH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG9898C1024.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ZHONGLIANG HLDG  HD-,01",
+  "primary_symbol": "3ZH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Zhongliang Holdings Group Company Limited develops real estate properties in the People's Republic of China. It develops, operates, and manages commercial properties under the Zhongliang brand. The company was founded in 1993 and is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://www.zldcgroup.com"
+}

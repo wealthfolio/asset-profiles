@@ -1,0 +1,58 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG000F49VV2",
+    "cusip": "459506101",
+    "figi": "BBG000F49YX4",
+    "isin": "US4595061015"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US4595061015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "IFF.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IFF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "IFF.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IFF.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "INTL FLAVORS/FRAG.DL-,125",
+  "primary_symbol": "IFF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "International Flavors & Fragrances Inc. (IFF) is a global company that creates scents, tastes, and ingredients for various industries. Headquartered in New York City, IFF develops and manufactures flavors and fragrances for food, beverage, personal care, and household products. IFF serves customers worldwide.",
+  "website": "http://www.iffefutura.es"
+}

@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TASK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TaskUs Inc. Class A Common Stock",
+  "primary_symbol": "TASK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TaskUs Inc. is a business process outsourcing company that provides digital customer service and content security services to high-growth technology companies. The company offers services such as customer support, content moderation, and AI operations. TaskUs is headquartered in New Braunfels, Texas."
+}

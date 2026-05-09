@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WM26511",
+    "figi": "BBG00WM26575",
+    "isin": "SE0006261046"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "SE0006261046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B39.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B39.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "HUMBLE.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HUMBLE GROUP AB",
+  "primary_symbol": "B39.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Bayn Group AB (publ) develops and markets sugar reduction solutions for the food and beverage companies in Sweden. The company offers EUREBA, a sweetened fiber; and NAVIA, a steviol glycoside in the form of powders or granules. It also provides services to sensory profile existing products, benchmark competing products, customize sweetened fibers for your application, produce your customized sweetened fibers, comply with regulations and laws, and document product sheets, safety sheets, etc. The company was formerly known as Bayn Europe AB (publ) and changed its name to Bayn Group AB (publ) in August 2020. The company was founded in 2009 and is based in Stockholm, Sweden.",
+  "website": "http://www.humblegroup.se"
+}

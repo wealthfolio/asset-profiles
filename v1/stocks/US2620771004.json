@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PCLYW2",
+    "cusip": "262077100",
+    "figi": "BBG000PCM1Q0",
+    "isin": "US2620771004"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US2620771004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCI2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCI2.MU"
+    }
+  ],
+  "name": "DRIVE SHACK  DL-,01",
+  "primary_symbol": "NCI2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Drive Shack Inc. is an entertainment company focused on developing and operating entertainment venues that combine golf, dining, and social experiences. The company operates Drive Shack and American Golf Corporation locations. It is headquartered in Dallas, Texas."
+}

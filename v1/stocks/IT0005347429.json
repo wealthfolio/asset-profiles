@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005347429"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "IT0005347429",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "DGV.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Digital Value S.p.A.",
+  "primary_symbol": "DGV.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Digital Value S.p.A. provides technology and service solutions to the telecommunications, utilities, energy, defense, transportation, and finance sectors in Italy. It offers services in the areas of data center and hybrid cloud, networking and intelligence networks, infrastructural enterprise software, ICT security and cybersecurity, and digital transformation. The company is headquartered in Milan, Italy.",
+  "website": "http://www.digitalvalue.it"
+}

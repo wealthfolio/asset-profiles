@@ -1,0 +1,37 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "cusip": "85513Q103",
+    "isin": "US85513Q1031"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US85513Q1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "STRR.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US85513Q1031.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Star Royalties Ltd.",
+  "primary_symbol": "STRR.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Star Royalties Ltd. operates as a precious metals focused royalty and streaming company. It also offers financing solutions. The company was incorporated in 2018 and is headquartered in Toronto, Canada.",
+  "website": "http://www.starroyalties.com"
+}

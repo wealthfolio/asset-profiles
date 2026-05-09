@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00BR3NQC3",
+    "cusip": "05351W103",
+    "figi": "BBG00BR3NQL3",
+    "isin": "US05351W1036"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US05351W1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "12A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "12A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "12A.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "AVANGRID INC. DL-,01",
+  "primary_symbol": "12A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Avangrid, Inc. is a diversified energy company with operations in the United States. The company is primarily involved in the generation and distribution of electricity and natural gas, serving customers in the Northeast region of the country. Avangrid is headquartered in Orange, Connecticut.",
+  "website": "http://www.avangrid.com"
+}

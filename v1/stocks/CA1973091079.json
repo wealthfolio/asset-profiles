@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA1973091079"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA1973091079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCHWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA1973091079.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CCHW.CN"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "NEOE",
+      "symbol": "CCHW.NE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Columbia Care Inc.",
+  "primary_symbol": "CCHWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Columbia Care Inc. cultivates, manufactures, and provides cannabis-based health and wellness solutions, and derivative products. The company holds licenses in 19 jurisdictions in the United States and the European Union. It operates cultivation facilities, manufacturing facilities, and retail dispensaries. The company was founded in 2012 and is headquartered in New York, New York.",
+  "website": "http://www.col-care.com"
+}

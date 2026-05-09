@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000H5MY19",
+    "cusip": "14888U101",
+    "figi": "BBG000H5N2L6",
+    "isin": "US14888U1016"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US14888U1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CN2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CN2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPRX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CN2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CN2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CN2.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CATALYST PHARM.INC.DL-001",
+  "primary_symbol": "CN2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Catalyst Pharmaceuticals, Inc. is a biopharmaceutical company focused on developing and commercializing therapies for rare neurological diseases and disorders. Its primary product is Firdapse, a treatment for Lambert-Eaton myasthenic syndrome (LEMS). Catalyst Pharmaceuticals is headquartered in Coral Gables, Florida.",
+  "website": "http://www.catalystpharma.com"
+}

@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005377277"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "IT0005377277",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CBB.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CleanBnB S.p.A.",
+  "primary_symbol": "CBB.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "CleanBnB S.p.A. operates an integrated platform with the online channels of reservations for houses and apartments for holidays. Its platform offers service to property owners who want to rent them for short periods. The company's services include online management of the property profile, management of guest requests, management of rates and collections. The company was founded in 2016 and is based in Milan, Italy.",
+  "website": "http://www.cleanbnb.net"
+}

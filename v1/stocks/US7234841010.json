@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BRDSX5",
+    "cusip": "723484101",
+    "figi": "BBG000BRDVJ4",
+    "isin": "US7234841010"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US7234841010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PNW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PWC.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "P1NW34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PWC.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PWC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PWC.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Pinnacle West Capital Corporation",
+  "primary_symbol": "PNW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Pinnacle West Capital Corporation, through its subsidiary, Arizona Public Service Company, provides retail and wholesale electric services primarily in the state of Arizona. The company engages in the generation, transmission, and distribution of electricity using coal, nuclear, gas, oil, and solar generating facilities. Its transmission facilities include approximately 5,728 pole miles of overhead lines and approximately 74 miles of underground lines; and distribution facilities comprise approximately 11,225 miles of overhead lines and approximately 22,453 miles of underground primary cable, as well as owns and maintains 80 transmission substations and 443 distribution substations. The company also owns or leases approximately 6,321 megawatts of regulated generation capacity. It serves approximately 1.3 million customers. The company was incorporated in 1985 and is headquartered in Phoenix, Arizona.",
+  "website": "http://www.pinnaclewest.com"
+}

@@ -1,0 +1,42 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000MGLKB9",
+    "isin": "NO0003103103"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "NO0003103103",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0003103103.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "QFR.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "QFRO.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Q-FREE ASA",
+  "primary_symbol": "NO0003103103.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Q-Free ASA provides intelligent transportation systems (ITS) solutions worldwide. The company offers solutions for road tolling, traffic management, and parking management. Q-Free ASA is headquartered in Trondheim, Norway.",
+  "website": "http://www.q-free.com"
+}

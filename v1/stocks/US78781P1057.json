@@ -1,0 +1,42 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "cusip": "78781P105",
+    "isin": "US78781P1057"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US78781P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SAIL.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "SAIL.NS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US78781P1057.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Steel Authority of India Limited",
+  "primary_symbol": "SAIL.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Steel Authority of India Limited is a state-owned steel maker in India, manufacturing and selling a broad range of steel products. It is headquartered in New Delhi, India.",
+  "website": "http://sail.co.in"
+}

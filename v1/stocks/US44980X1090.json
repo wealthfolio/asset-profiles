@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GQ3GN0",
+    "cusip": "44980X109",
+    "figi": "BBG000GQ3M20",
+    "isin": "US44980X1090"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US44980X1090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPGP"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0J86.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "I1PG34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IPF.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "IPF.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "IPF.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IPF.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "IPGP.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IPG PHOTONICS  DL-,0001",
+  "primary_symbol": "IPF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IPG Photonics Corporation is a global leader in high-power fiber lasers and amplifiers. The company designs, develops, and manufactures a wide range of fiber lasers for diverse applications including materials processing, medical, and telecommunications. IPG Photonics is headquartered in Oxford, Massachusetts.",
+  "website": "http://www.ipgphotonics.com"
+}

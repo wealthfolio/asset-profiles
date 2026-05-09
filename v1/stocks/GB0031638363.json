@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C08QY2",
+    "figi": "BBG000C08V26",
+    "isin": "GB0031638363"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB0031638363",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IT1.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0031638363.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IT1.DU"
+    }
+  ],
+  "name": "INTERTEK GROUP  LS-,01",
+  "primary_symbol": "IT1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "INTERTEK GROUP LS-,01 provides quality assurance, testing, inspection, and certification services to a wide range of industries worldwide. They help companies ensure the quality and safety of their products, processes, and systems. The company is headquartered in London, UK."
+}

@@ -1,0 +1,22 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DXST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Decent Holding Inc Ordinary Shares",
+  "primary_symbol": "DXST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

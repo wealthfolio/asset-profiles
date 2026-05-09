@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4699.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Uchida Esco Co., Ltd.",
+  "primary_symbol": "4699.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Uchida Esco Co., Ltd. operates as a software development company in Japan. It provides hardware maintenance and office services, as well as integrated network services. The company was founded in 1972 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.esco.co.jp"
+}

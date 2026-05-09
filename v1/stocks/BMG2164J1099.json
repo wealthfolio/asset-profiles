@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG2164J1099"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "BMG2164J1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHNVF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "8083.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YSZ.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "China Youzan Limited",
+  "primary_symbol": "CHNVF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "China Youzan Limited, an investment holding company, provides online and offline e-commerce solutions in the People's Republic of China. It operates through five segments: General Trading, Third Party Payment Services, Onecomm, Merchant Services, and Others. The company trades in watches and other good; sells integrated smart point of sales devices; and offers third party payment and related consultancy services, as well as third party payment management services. It also offers an e-commerce platform with a variety of Software as a Service products and comprehensive services. In addition, it provides information system maintenance and development services; catering services; management services; wholesale and retail Internet information services; and restaurant management and retail solutions. The company was formerly known as China Innovationpay Group Limited and changed its name to China Youzan Limited in May 2018. China Youzan Limited was incorporated in 1999 and is headquartered in Central, Hong Kong.",
+  "website": "http://www.chinayouzan.com"
+}

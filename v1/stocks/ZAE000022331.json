@@ -1,0 +1,51 @@
+{
+  "identifiers": {
+    "isin": "ZAE000022331"
+  },
+  "industry_group": "Software & Services",
+  "isin": "ZAE000022331",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSY1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSY1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSY1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D3H.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DSY1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DSY1.SG"
+    }
+  ],
+  "name": "DASSAULT SYS SE INH.EO0,5",
+  "primary_symbol": "DSY1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Dassault Systèmes SE provides software and services that enable businesses to create 3D models and simulations of their products and processes. The company's solutions are used in a variety of industries, including aerospace, automotive, and manufacturing. Dassault Systèmes is headquartered in Vélizy-Villacoublay, France."
+}

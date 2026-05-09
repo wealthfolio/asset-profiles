@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QKBHL3",
+    "cusip": "82935V208",
+    "figi": "BBG000QKBM41",
+    "isin": "US82935V2088"
+  },
+  "isin": "US82935V2088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4GSN.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US82935V2088.SG"
+    }
+  ],
+  "name": "SINO-GLOBAL SHIP.AMERICA",
+  "primary_symbol": "4GSN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

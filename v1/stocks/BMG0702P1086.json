@@ -1,0 +1,42 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00RDB76C7",
+    "isin": "BMG0702P1086"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "BMG0702P1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BMG0702P1086.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BWE.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BWEO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BW ENERGY LTD",
+  "primary_symbol": "BMG0702P1086.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "BW Energy Ltd is an oil and gas exploration and production company focused on acquiring, developing, and producing reserves. The company has a portfolio of production and development assets. BW Energy Ltd is headquartered in Oslo, Norway.",
+  "website": "http://www.bwenergy.no"
+}

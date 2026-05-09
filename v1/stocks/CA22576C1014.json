@@ -1,0 +1,38 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000Q16PK4",
+    "figi": "BBG000Q16QZ6",
+    "isin": "CA22576C1014"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA22576C1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CPG.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Crescent Point Energy Corp.",
+  "primary_symbol": "CPG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Crescent Point Energy Corp. explores, develops, and produces light and medium crude oil and natural gas reserves in Western Canada and the United States. The company's crude oil and natural gas properties, and related assets are located in the provinces of Saskatchewan, Alberta, British Columbia, and Manitoba; and the states of North Dakota and Montana. Crescent Point Energy Corp. was incorporated in 1994 and is headquartered in Calgary, Canada.",
+  "website": "http://www.crescentpointenergy.com"
+}

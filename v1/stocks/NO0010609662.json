@@ -1,0 +1,41 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0010609662"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "NO0010609662",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0TCZ.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "WSTEP.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "WSTEPO.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Webstep ASA",
+  "primary_symbol": "0TCZ.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Webstep ASA, together with its subsidiaries, provides information technology (IT) consultancy services to public and private businesses in Norway and Sweden. The company offers digitalization, cloud migration and integration, Internet of Things, machine learning, IT security, robotics, and analytics. Its services include tech advisory and management solutions; consulting, digitalization, .Net, Java, open source, front and back end, user experience, integration, mobility, machine learning, business intelligence, big data, data warehousing, virtual robotics, Devops, application service management, and data science services; and cloud computing, integration, sensor technology, product and service development, Beacons, enterprise user experience, web analysis, designing, Amazon Web, Azure, prediction, AI, predictive modelling, hackathon, business analysis, and search engine optimization services. The company serves banking, finance and insurance, public administration, agriculture and food production, IT and telecommunication, commerce, and transportation industries. The company was founded in 2000 and is headquartered in Oslo, Norway.",
+  "website": "http://www.webstep.com"
+}

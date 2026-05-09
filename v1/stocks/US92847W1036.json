@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "92847W103",
+    "isin": "US92847W1036"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US92847W1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VITL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US92847W1036.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Vital Farms, Inc.",
+  "primary_symbol": "VITL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Vital Farms, Inc., an ethical food company, provides pasture-raised products in the United States. It offers shell eggs, butter, hard-boiled eggs, ghee, liquid whole eggs, and egg bite products. The company was founded in 2007 and is headquartered in Austin, Texas.",
+  "website": "http://www.vitalfarms.com"
+}

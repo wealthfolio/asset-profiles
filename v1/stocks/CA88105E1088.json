@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GW27H63",
+    "figi": "BBG00GW27HD5",
+    "isin": "CA88105E1088"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA88105E1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TED.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TED.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRSSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TED.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TED.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TER.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TER.CN"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TerrAscend Corp.",
+  "primary_symbol": "TED.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TerrAscend Corp. cultivates, processes, and sells medical and adult use cannabis in Canada and the United States. It produces and distributes hemp-derived wellness products to retail locations; and manufactures cannabis infused artisan edibles. The company also operates three retail dispensaries under the Apothecarium brand name in California and Pennsylvania. The company was incorporated in 2017 and is based in Mississauga, Canada.",
+  "website": "http://www.terrascend.com"
+}

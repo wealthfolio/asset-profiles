@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00VYKFR12",
+    "cusip": "73730P108",
+    "figi": "BBG00VYKFR67",
+    "isin": "US73730P1084"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US73730P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2RZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSTX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2RZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2RZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US73730P1084.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "POSEIDA THERAP.  DL-,0001",
+  "primary_symbol": "2RZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Poseida Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing cell and gene therapies. The company's technologies include gene editing and gene delivery systems. Poseida Therapeutics is headquartered in San Diego, California.",
+  "website": "http://www.poseida.com"
+}

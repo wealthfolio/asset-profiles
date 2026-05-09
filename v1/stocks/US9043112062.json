@@ -1,0 +1,54 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG00CNKJPT6",
+    "cusip": "904311206",
+    "figi": "BBG00CNKJQ05",
+    "isin": "US9043112062"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US9043112062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U9RA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U9RA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "U9RA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "U9RA.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "UAC.BK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "UNDER ARMOUR C DL-,000333",
+  "primary_symbol": "U9RA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Under Armour, Inc. is a global leader in athletic performance apparel, footwear, and accessories. The company's products are designed to enhance performance and are sold worldwide to athletes and active consumers. Under Armour is headquartered in Baltimore, Maryland.",
+  "website": "http://www.uac.co.th"
+}

@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000RNLYM7",
+    "cusip": "89846A207",
+    "isin": "US89846A2078"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US89846A2078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US89846A2078.SG"
+    }
+  ],
+  "name": "TRXADE HEALTH INC",
+  "primary_symbol": "US89846A2078.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TRXADE HEALTH INC operates a business-to-business online marketplace for buying and selling pharmaceuticals. The company connects independent pharmacies with pharmaceutical suppliers, with headquarters in Tampa, Florida. Trxade Health aims to improve transparency and efficiency in the pharmaceutical supply chain."
+}

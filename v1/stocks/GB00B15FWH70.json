@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000RC6364",
+    "figi": "BBG000RC6505",
+    "isin": "GB00B15FWH70"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "GB00B15FWH70",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DQ6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DQ6.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DQ6.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DQ6.DU"
+    }
+  ],
+  "name": "CINEWORLD GRP PLC LS -,01",
+  "primary_symbol": "DQ6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Cineworld Group plc is a cinema chain operating in the United Kingdom, Ireland, Poland, Israel, Hungary, Czech Republic, Slovakia, Romania, Bulgaria and the United States. The company operates under brands including Cineworld, Regal, Picturehouse and Cinema City. Cineworld Group is headquartered in Brentford, UK."
+}

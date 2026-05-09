@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "AU000000BLD2"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000BLD2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HQK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HQK.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HQK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HQK.SG"
+    }
+  ],
+  "name": "BORAL LTD",
+  "primary_symbol": "HQK.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "BORAL LTD manufactures and supplies building and construction materials. It operates through segments like Boral Australia, Boral North America, and Boral Building Products. The company is headquartered in Sydney, Australia."
+}

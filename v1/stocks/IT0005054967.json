@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG001BDFD65",
+    "isin": "IT0005054967"
+  },
+  "industry": "Media",
+  "industry_group": "Telecommunication Services",
+  "isin": "IT0005054967",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0005054967.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "RWAY.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RAI WAY SPA",
+  "primary_symbol": "IT0005054967.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "RAI WAY SPA is an Italian infrastructure operator for broadcasting and telecommunications services. They manage radio and television transmission networks and provide services to broadcasters and telecommunications operators. The company is headquartered in Rome, Italy.",
+  "website": "http://www.raiway.it"
+}

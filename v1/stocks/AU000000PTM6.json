@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000QVPV06",
+    "figi": "BBG000QVPY82",
+    "isin": "AU000000PTM6"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Banks",
+  "isin": "AU000000PTM6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PIJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PIJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTM.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PIJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PIJ.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PTM.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PTM.DU"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PLATINUM ASSET MANAG.LTD",
+  "primary_symbol": "PIJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PLATINUM ASSET MANAG.LTD is Platinum Asset Management Limited, an Australian investment management firm. The company manages global equities for institutional and retail clients. Platinum Asset Management utilizes a bottom-up, research-driven investment approach to identify undervalued companies with long-term growth potential.",
+  "website": "http://www.platinum.com.au"
+}

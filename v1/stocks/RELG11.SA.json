@@ -1,0 +1,24 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "RELG11.SA"
+    }
+  ],
+  "name": "Fundo De Investimento Imobiliario Rec Logistaca",
+  "primary_symbol": "RELG11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "RELG11.SA is a Brazilian real estate investment fund (FII) managed by Rec Logística, focused on logistics properties. The fund invests in warehouses, distribution centers, and other logistics-related assets, generating income from rentals and distributing it to investors."
+}

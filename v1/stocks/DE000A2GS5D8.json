@@ -1,0 +1,71 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE000A2GS5D8"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE000A2GS5D8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A5J.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMP.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMP.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DMP.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DMP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DMP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DMP.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DERMAPHARM HOLDING SE DERMAPHAR",
+  "primary_symbol": "0A5J.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "DERMAPHARM HOLDING SE DERMAPHAR is a pharmaceutical company that develops, produces, and distributes branded and generic pharmaceutical products, as well as other healthcare products. It focuses on dermatology and other therapeutic areas, offering a range of prescription and over-the-counter products, with headquarters in Grünwald, Germany.",
+  "website": "http://www.dermapharm.de"
+}

@@ -1,0 +1,101 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE0005550636"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE0005550636",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0K5E.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGWPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW3.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRWKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DRW1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DRW3.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DRW3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DRW3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DRW3.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "DRW3.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DRW8.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DRW8.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DRAEGERWERK AG & CO KGAA DRAEGE",
+  "primary_symbol": "0K5E.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Drägerwerk AG & Co. KGaA is a German company specializing in medical and safety technology. They develop, manufacture, and distribute products and systems for respiratory protection, gas detection, and patient monitoring, serving industries such as healthcare, fire services, mining, and chemical industries. The company is headquartered in Lübeck, Germany",
+  "website": "http://www.draeger.com"
+}

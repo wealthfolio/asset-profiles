@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRD/A"
+    }
+  ],
+  "name": "Crawford & Company",
+  "primary_symbol": "CRD/A",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Crawford & Company provides claims management and outsourcing solutions to insurance companies and self-insured entities. The company offers services related to property and casualty claims, workers' compensation, and other insurance lines. Crawford & Company is headquartered in Atlanta, Georgia, USA."
+}

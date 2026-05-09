@@ -1,0 +1,53 @@
+{
+  "country": "Costa Rica",
+  "country_code": "CR",
+  "identifiers": {
+    "composite_figi": "BBG00LJX2KV9",
+    "figi": "BBG00LJX2L01",
+    "isin": "VGG312491084"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "VGG312491084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3E0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESTA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3E0.F"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "ESTA.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VGG312491084.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ESTABLISHMENT LABS HLDGS",
+  "primary_symbol": "3E0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Establishment Labs Holdings Inc. is a medical technology company focused on breast aesthetics and reconstruction. The company designs, develops, manufactures, and markets a portfolio of silicone gel-filled breast implants. Establishment Labs is headquartered in Alajuela, Costa Rica.",
+  "website": "http://www.establishmentlabs.com"
+}

@@ -1,0 +1,78 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000FXRNQ2",
+    "figi": "BBG000FXRT25",
+    "isin": "FR0010478248"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "FR0010478248",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFGA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFGA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PONGF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KUV.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ATA-SDB.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ATA.PA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "ATAP.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IFG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IFGA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IFGA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ATARI S.A.  EO 0,01",
+  "primary_symbol": "IFGA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Atari SA, formerly Infogrames Entertainment, is a French video game holding company headquartered in Paris. The company owns the Atari brand and licenses it for various uses. Atari develops and publishes video games for PC, consoles, and mobile devices.",
+  "website": "http://www.atari.com"
+}

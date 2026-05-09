@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000PMMGZ5",
+    "figi": "BBG000PMMKM0",
+    "isin": "KYG720051047"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG720051047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PW5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PW5.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1238.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PW5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PW5.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "POWERLONG RL EST.H.HD-,01",
+  "primary_symbol": "PW5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Powerlong Real Estate Holdings Limited, an investment holding company, invests in, develops, operates, and manages commercial real estate projects in the People's Republic of China. The company operates through four segments: Property Development, Property Investment, Commercial Operation and Residential Property Management, and Other Property Development Related Businesses. It develops large-scale commercial and residential properties. The company also operates hotels; and provides residential property management services, as well as construction and decoration services. As of December 31, 2020, it developed, owned, and operated 193 property development projects; operated investment properties, primarily shopping malls with a total gross floor area (GFA) of approximately 5,076,029 square meters; had a land bank with a total GFA of 36.5 million square meters; and owned and managed eight international branded hotels and eleven self-owned branded chain hotels. The company was incorporated in 2007 and is based in Shanghai, the People's Republic of China.",
+  "website": "http://www.powerlong.com"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BTGJD0",
+    "cusip": "14817C107",
+    "figi": "BBG000BTGNX9",
+    "isin": "US14817C1071"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US14817C1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PX91.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PX91.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAVA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PX91.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PX91.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PX91.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SAVA.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CASSAVA SCIENCES  DL-,001",
+  "primary_symbol": "PX91.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Cassava Sciences, Inc. is a clinical-stage biotechnology company focused on developing drugs for neurodegenerative diseases, particularly Alzheimer's disease. The company's lead drug candidate is Simufilam, a novel molecule aimed at restoring normal protein function in the brain, with headquarters in Austin, Texas. Cassava Sciences is dedicated to developing innovative treatments for Alzheimer's disease.",
+  "website": "http://www.cassavasciences.com"
+}

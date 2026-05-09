@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SOLNA.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Solnaberg Property AB (publ)",
+  "primary_symbol": "SOLNA.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Solnaberg Property AB (publ) operates as a real estate company in Sweden. It owns the Solna Bladet 3 property with a rentable area of approximately 31,325 square meters. The company is based in Gothenburg, Sweden.",
+  "website": "http://www.solnabergproperty.se"
+}

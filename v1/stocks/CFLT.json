@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CFLT"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Confluent Inc. Class A Common Stock",
+  "primary_symbol": "CFLT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Confluent, Inc. operates a data streaming platform that enables businesses to access, store, and process data in real-time. Its platform is built on Apache Kafka and offers a complete event streaming platform. Confluent is headquartered in Mountain View, California."
+}

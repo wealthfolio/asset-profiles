@@ -1,0 +1,54 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG000BMP6L4",
+    "cusip": "59156R108",
+    "figi": "BBG000BMPB33",
+    "isin": "US59156R1086"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Insurance",
+  "isin": "US59156R1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWZ.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "METN.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MWZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MWZ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "METLIFE INC.  DL-,01",
+  "primary_symbol": "MWZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MetLife, Inc. is a global provider of insurance, annuities, employee benefits and asset management. The company provides services to individual and institutional customers. MetLife is headquartered in New York City.",
+  "website": "http://www.metallzug.ch"
+}

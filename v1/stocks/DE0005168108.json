@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000NDYQS0",
+    "figi": "BBG000NDYTG7",
+    "isin": "DE0005168108"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005168108",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B5A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B5A.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B5A.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B5A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRAGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "B5A.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "B5A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B5A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B5A.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BAUER AG",
+  "primary_symbol": "B5A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Bauer AG is a German construction and machinery manufacturing company. The company provides services, equipment, and products related to ground engineering, foundation construction, and specialist civil engineering. Bauer AG is headquartered in Schrobenhausen, Germany.",
+  "website": "http://www.bauer.de"
+}

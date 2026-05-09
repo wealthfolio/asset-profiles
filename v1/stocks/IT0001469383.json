@@ -1,0 +1,78 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BF1GT5",
+    "figi": "BBG000BF1LJ5",
+    "isin": "IT0001469383"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Automobiles & Components",
+  "isin": "IT0001469383",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KAV.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0001469383.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MDD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MDD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MDD.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "MN.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MN0.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MONDADORI ED.  EO 0,26",
+  "primary_symbol": "MDD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MONDADORI EDITORE S.P.A. is an Italian publishing company involved in books, magazines, and digital media. Headquartered in Segrate, Italy, the company publishes a wide range of titles and operates in various segments of the media industry. It is one of the leading publishers in Italy.",
+  "website": "http://www.manning-napier.com"
+}

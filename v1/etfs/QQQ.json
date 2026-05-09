@@ -1,0 +1,166 @@
+{
+  "as_of_date": "2026-09-30",
+  "asset_class_weights": [
+    {
+      "asset_class": "Equity",
+      "weight": 1.0
+    }
+  ],
+  "aum_usd": 407959194769.79,
+  "category": "Large Cap",
+  "category_group": "Information Technology",
+  "country_weights": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "weight": 0.950637
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "weight": 0.014219
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "weight": 0.014085
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "weight": 0.0108
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "weight": 0.006084
+    },
+    {
+      "country": "Cayman Islands",
+      "country_code": "KY",
+      "weight": 0.004175
+    }
+  ],
+  "holdings_count": 101,
+  "issuer": "Invesco",
+  "kind": "etf",
+  "listings": [
+    {
+      "currency": "USD",
+      "symbol": "QQQ"
+    }
+  ],
+  "name": "Invesco QQQ Trust",
+  "primary_symbol": "QQQ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "public domain",
+    "source": "SEC EDGAR N-PORT",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067839"
+  },
+  "schema_version": "1.0.0",
+  "sector_weights": [
+    {
+      "sector": "Information Technology",
+      "weight": 0.407286
+    },
+    {
+      "sector": "Unknown",
+      "weight": 0.320785
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "weight": 0.128855
+    },
+    {
+      "sector": "Consumer Staples",
+      "weight": 0.045821
+    },
+    {
+      "sector": "Health Care",
+      "weight": 0.043837
+    },
+    {
+      "sector": "Industrials",
+      "weight": 0.023391
+    },
+    {
+      "sector": "Communications",
+      "weight": 0.01537
+    },
+    {
+      "sector": "Utilities",
+      "weight": 0.008232
+    },
+    {
+      "sector": "Energy",
+      "weight": 0.004853
+    },
+    {
+      "sector": "Real Estate",
+      "weight": 0.001571
+    }
+  ],
+  "top_holdings": [
+    {
+      "cusip": "67066G104",
+      "isin": "US67066G1040",
+      "name": "NVIDIA Corp.",
+      "weight": 0.090287
+    },
+    {
+      "cusip": "037833100",
+      "isin": "US0378331005",
+      "name": "Apple Inc.",
+      "weight": 0.08003
+    },
+    {
+      "cusip": "594918104",
+      "isin": "US5949181045",
+      "name": "Microsoft Corp.",
+      "weight": 0.07161
+    },
+    {
+      "cusip": "023135106",
+      "isin": "US0231351067",
+      "name": "Amazon.com, Inc.",
+      "weight": 0.049159
+    },
+    {
+      "cusip": "88160R101",
+      "isin": "US88160R1014",
+      "name": "Tesla, Inc.",
+      "weight": 0.039634
+    },
+    {
+      "cusip": "30303M102",
+      "isin": "US30303M1027",
+      "name": "Meta Platforms, Inc.",
+      "weight": 0.038621
+    },
+    {
+      "cusip": "02079K305",
+      "isin": "US02079K3059",
+      "name": "Alphabet Inc.",
+      "weight": 0.036279
+    },
+    {
+      "cusip": "02079K107",
+      "isin": "US02079K1079",
+      "name": "Alphabet Inc.",
+      "weight": 0.033803
+    },
+    {
+      "cusip": "11135F101",
+      "isin": "US11135F1012",
+      "name": "Broadcom Inc.",
+      "weight": 0.032561
+    },
+    {
+      "cusip": "69608A108",
+      "isin": "US69608A1088",
+      "name": "Palantir Technologies Inc.",
+      "weight": 0.022332
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00YCKR8T9",
+    "figi": "BBG00YCKR908",
+    "isin": "NO0010859648"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "NO0010859648",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9JR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9JR.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HUDL.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010859648.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HUDDLESTOCK FINTECH-,0019",
+  "primary_symbol": "9JR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Huddlestock Fintech AS is a technology company that delivers innovative solutions for the financial services industry, including trading platforms and investment management tools. The company aims to improve efficiency and transparency in financial markets through its technology. Huddlestock Fintech AS is headquartered in Oslo, Norway.",
+  "website": "http://huddlestock.com"
+}

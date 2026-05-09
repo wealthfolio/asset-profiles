@@ -1,0 +1,61 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0011675362"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "FR0011675362",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A02.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N1N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N1N.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "N1N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N1N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "N1N.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "NEOEN.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NEOEN SA NEOEN ORD SHS",
+  "primary_symbol": "0A02.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Neoen SA is a French independent power producer that develops, finances, builds, and operates renewable energy power plants. The company focuses on solar, wind, and energy storage projects, aiming to deliver clean and competitive energy. Neoen is headquartered in Paris, France.",
+  "website": "http://www.neoen.com"
+}

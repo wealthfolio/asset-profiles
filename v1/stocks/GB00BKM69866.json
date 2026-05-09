@@ -1,0 +1,40 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BKM69866"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00BKM69866",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CRCL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BKM69866.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RM4B.F"
+    }
+  ],
+  "name": "Corcel Plc",
+  "primary_symbol": "CRCL.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Corcel Plc engages in the exploration and development of natural resources and battery metals. The company owns a 41% in the Mambare nickel-cobalt project with license EL1390 covering 256 square kilometers near Kokoda in Papua New Guinea; and 50% interest in the Dempster vanadium project comprising 196 mineral claims covering an area of 40.96 square kilometers located in Yukon, as well as holds an option to acquire interest in the WoWo Gap nickel-cobalt project in Papua New Guinea. It is also involved in the power distribution, energy storage, and grid backup and trading activities, as well as develops energy storage and solar projects in the United Kingdom. The company was formerly known as Regency Mines Plc and changed its name to Corcel Plc in August 2020. Corcel Plc was founded in 2004 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.corcelplc.com"
+}

@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000N0SMK2",
+    "cusip": "75025X100",
+    "figi": "BBG000N0SMY7",
+    "isin": "US75025X1000"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "US75025X1000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RLGT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3GT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US75025X1000.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Radiant Logistics, Inc.",
+  "primary_symbol": "RLGT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Radiant Logistics, Inc. provides multi-modal transportation and logistics services primarily in the United States and Canada. The company offers domestic and international air and ocean freight forwarding services; and freight brokerage services, including truckload, less than truckload, and intermodal services. It also provides other value-added supply chain services, including order fulfillment, inventory management, and warehouse and distribution services, as well as customs brokerage services. The company serves consumer goods, food and beverage, manufacturing, and retail customers through a network of company-owned and strategic operating partner locations under the Radiant, Wheels, Airgroup, Adcom, DBA, and Service By Air brands. Radiant Logistics, Inc. was founded in 2001 and is headquartered in Bellevue, Washington.",
+  "website": "http://radiantdelivers.com"
+}

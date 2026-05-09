@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LMG.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Latrobe Magnesium Limited",
+  "primary_symbol": "LMG.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Latrobe Magnesium Limited engages in the extraction and sale of magnesium metal from industrial fly ash in Germany. It holds interests in the Latrobe magnesium project located in the Latrobe Valley in Victoria. The company was incorporated in 1986 and is based in Sydney, Australia.",
+  "website": "http://www.latrobemagnesium.com"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BKBZJ2",
+    "figi": "BBG000BKC295",
+    "isin": "CNE100000221"
+  },
+  "industry_group": "Transportation",
+  "isin": "CNE100000221",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJ1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BJ1.SG"
+    }
+  ],
+  "name": "BEIJING C.INTL AIR.-H-YC1",
+  "primary_symbol": "BJ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Beijing Capital International Airport Co., Ltd. operates and manages Beijing Capital International Airport (BCIA), providing airport services and facilities. The company's services include aircraft landing and takeoff, passenger handling, and cargo handling."
+}

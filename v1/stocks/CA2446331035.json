@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA2446331035"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA2446331035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DFMTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA2446331035.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "DEFN.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Defense Metals Corp.",
+  "primary_symbol": "DFMTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Defense Metals Corp., a junior exploration company, engages in the acquisition and exploration of mineral properties in Canada. It has an option agreement to acquire the Wicheeda rare earth element project covering an area of 1,708 hectares located in British Columbia. The company was formerly known as First Legacy Mining Corp. and changed its name to Defense Metals Corp. in December 2018. The company is headquartered in Vancouver, Canada.",
+  "website": "http://defensemetals.com"
+}

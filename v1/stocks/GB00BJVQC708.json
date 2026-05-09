@@ -1,0 +1,36 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00K7MFFT8",
+    "isin": "GB00BJVQC708"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "GB00BJVQC708",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BJVQC708.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HTWS.L"
+    }
+  ],
+  "name": "HELIOS TOWERS PLC",
+  "primary_symbol": "GB00BJVQC708.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Helios Towers PLC is an independent telecommunications infrastructure company. They own and operate telecommunications towers and related infrastructure. Helios Towers is headquartered in London, UK.",
+  "website": "http://www.heliostowers.com"
+}

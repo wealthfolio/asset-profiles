@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F1L1X8",
+    "cusip": "87157D109",
+    "figi": "BBG000F1L480",
+    "isin": "US87157D1090"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US87157D1090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYNA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SJN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SJN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SJN.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SYNAPTICS INC.  DL 0,001",
+  "primary_symbol": "SJN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Synaptics Incorporated develops and markets human interface solutions for mobile, PC, and IoT devices. The company's products include touchpads, touchscreens, fingerprint sensors, and display drivers. Synaptics is headquartered in San Jose, California.",
+  "website": "http://www.synaptics.com"
+}

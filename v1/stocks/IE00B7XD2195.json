@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YHL3FB1",
+    "figi": "BBG00YHL3FJ3",
+    "isin": "IE00B7XD2195"
+  },
+  "isin": "IE00B7XD2195",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCFH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCFH.MU"
+    }
+  ],
+  "name": "WITR MU.AS.I.SILV.ETP2062",
+  "primary_symbol": "PCFH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

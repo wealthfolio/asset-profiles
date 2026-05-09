@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C2VG01",
+    "figi": "BBG000C2VL91",
+    "isin": "JP3585800000"
+  },
+  "industry_group": "Utilities",
+  "isin": "JP3585800000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPO.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TPO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TPO.SG"
+    }
+  ],
+  "name": "TOKYO ELECTR.POW.CO.HLDGS",
+  "primary_symbol": "TPO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "The Tokyo Electric Power Company Holdings, Incorporated (TEPCO) is a Japanese electric utility holding company. The company generates, transmits, and distributes electricity primarily in the Kantō region of Japan. TEPCO is headquartered in Tokyo, Japan."
+}

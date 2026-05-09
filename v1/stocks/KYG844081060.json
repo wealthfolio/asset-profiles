@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00M4YR0M8",
+    "figi": "BBG00M4YR0T1",
+    "isin": "KYG844081060"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "KYG844081060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T18.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T18.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1252.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T18.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T18.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHI.TIANRUI GR.CEM.HD-,01",
+  "primary_symbol": "T18.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "China Tianrui Group Cement Company Limited, an investment holding company, manufactures, distributes, and sells clinker and cement in the People's Republic of China. The company engages in the excavation of limestone, as well as produces, sells, and distributes cement clinker and cement products. It also exports its products. The company sells its cement products under Tianrui brand. It serves real estate developers, concrete manufacturers, etc. The company was founded in 2000 and is headquartered in Ruzhou, the People's Republic of China. China Tianrui Group Cement Company Limited is a subsidiary of Yu Kuo Company Limited.",
+  "website": "http://www.trcement.com"
+}

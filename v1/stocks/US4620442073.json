@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "462044207",
+    "isin": "US4620442073"
+  },
+  "industry_group": "Energy",
+  "isin": "US4620442073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IO8N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IO8N.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IO8N.SG"
+    }
+  ],
+  "name": "ION GEOPHYSIC. NEW DL-,01",
+  "primary_symbol": "IO8N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "ION Geophysical Corporation provides technology and data solutions to the oil and gas industry. The company offers seismic imaging, data processing, and reservoir services to help exploration and production companies optimize their operations. ION Geophysical Corporation is headquartered in Houston, Texas."
+}

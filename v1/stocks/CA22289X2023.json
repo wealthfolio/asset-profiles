@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA22289X2023"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA22289X2023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGPRF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "COVE.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Cover Technologies Inc.",
+  "primary_symbol": "MGPRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Cover Technologies Inc., a technology, processing, and production company, produces magnesium (Mg) metals, Mg-related compounds, byproducts, and co-products from serpentinite tailings. The company was formerly known as Mag One Products Inc. and changed its name to Cover Technologies Inc. in October 2020. Cover Technologies Inc. was incorporated in 2007 and is headquartered in Vancouver, Canada.",
+  "website": "http://buildcover.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "composite_figi": "BBG000BZCRS6",
+    "figi": "BBG000BZCTP5",
+    "isin": "KYG5427W1309"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Materials",
+  "isin": "KYG5427W1309",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMP.MU"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2314.TW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG5427W1309.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LEE+MAN PAPER MAN.HD-,025",
+  "primary_symbol": "LMP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lee & Man Paper Manufacturing Limited is a paper manufacturing company. The company is based in Hong Kong and manufactures various types of paper products, including containerboard, packaging paper, and pulp. They serve customers globally.",
+  "website": "http://www.mtigroup.com"
+}

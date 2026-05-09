@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BRB647",
+    "figi": "BBG000BRB825",
+    "isin": "DE0007203705"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE0007203705",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHF.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHF.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHF.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0007203705.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SHF.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SHF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SHF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SHF.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SNP SCHNEID.-NEUREIT.O.N.",
+  "primary_symbol": "SHF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SNP Schneider-Neureither & Partner SE provides software and consulting services for business transformation. The company focuses on SAP-based solutions. The company is headquartered in Heidelberg, Germany.",
+  "website": "http://www.snpgroup.com"
+}

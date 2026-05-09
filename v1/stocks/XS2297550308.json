@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "isin": "XS2297550308"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "XS2297550308",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PYPS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "PYPS.PA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPYE.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Short PayPal ETP",
+  "primary_symbol": "PYPS.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares -1x Short PayPal ETP is an exchange-traded product designed to provide the inverse (-1x) of the daily performance of PayPal Holdings Inc. This ETP uses leverage to deliver the opposite of PayPal's daily returns, and is managed by Leverage Shares."
+}

@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000G67LW9",
+    "cusip": "422806109",
+    "figi": "BBG000G67QV9",
+    "isin": "US4228061093"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US4228061093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HC1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HC1.SG"
+    }
+  ],
+  "name": "HEICO CORP.  DL-,01",
+  "primary_symbol": "HC1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HEICO Corporation is a manufacturer of Federal Aviation Administration (FAA) approved replacement parts for jet engines and aircraft components. The company operates through two segments: Flight Support Group and Electronic Technologies Group. HEICO is headquartered in Hollywood, Florida."
+}

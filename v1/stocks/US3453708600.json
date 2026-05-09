@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000K1XFB2",
+    "cusip": "345370860",
+    "figi": "BBG000K1XKW8",
+    "isin": "US3453708600"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Automobiles & Components",
+  "isin": "US3453708600",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMC1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMC1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMC1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FORD"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FMC1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FMC1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FORD MOTOR  DL-,01",
+  "primary_symbol": "FMC1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Ford Motor Company designs, manufactures, markets, and services a range of Ford trucks, cars, sport utility vehicles, electrified vehicles, and Lincoln luxury vehicles worldwide. The company operates through automotive, mobility, and Ford Credit segments. Ford Motor Company is headquartered in Dearborn, Michigan.",
+  "website": "http://www.forwardindustries.com"
+}

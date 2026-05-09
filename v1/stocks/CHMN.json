@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHMN"
+    }
+  ],
+  "name": "Chester Mining Company",
+  "primary_symbol": "CHMN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Chester Mining Company operates as a mineral exploration company. The company acquires and leases properties in mining districts in Idaho. It explores for silver. The company was founded in 1900 and is based in Spokane Valley, Washington.",
+  "website": "http://www.chestermining.com"
+}

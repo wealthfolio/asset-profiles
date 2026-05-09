@@ -1,0 +1,57 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "cusip": "67575Y109",
+    "isin": "US67575Y1091"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US67575Y1091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OVTZ"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USF1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USF1.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "OVT.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "OVT.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "USF1.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Oculus VisionTech, Inc.",
+  "primary_symbol": "OVTZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Oculus VisionTech, Inc., a development-stage technology company, designs and markets digital watermarking services and solutions to business customers in the United States and Canada. Its products include Forget-Me-Yes (FMY), a data privacy software-as-a-service (SaaS) platform that enables secure discovery and delete requests against multiple data sources; Comply Trust SaaS Suite (CTSS), a set of software tools designed to address cloud-native data management and regulatory compliant data governance; and cloud-based document protection system (Cloud-DPS) technology, a SaaS-based document management platform for tamper-proof document authentication and protection. The company was formerly known as USA Video Interactive Corp. and changed its name to Oculus VisionTech, Inc. in January 2012. Oculus VisionTech, Inc. was incorporated in 1986 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.ovtz.com"
+}

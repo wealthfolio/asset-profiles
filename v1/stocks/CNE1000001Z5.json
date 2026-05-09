@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PZ3K33",
+    "figi": "BBG000PZ3LV0",
+    "isin": "CNE1000001Z5"
+  },
+  "industry_group": "Banks",
+  "isin": "CNE1000001Z5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W8V.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W8V.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "W8V.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "W8V.SG"
+    }
+  ],
+  "name": "BANK OF CHINA LTD H  YC 1",
+  "primary_symbol": "W8V.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bank of China Limited provides a range of banking and financial services, including corporate banking, personal banking, and investment banking. The bank operates both domestically and internationally. Bank of China is headquartered in Beijing, China."
+}

@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000DT85B9",
+    "figi": "BBG000DT8850",
+    "isin": "CA34660G1046"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA34660G1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F2T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F2T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOSYF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F2T.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F2T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F2T.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FSY.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "FSY.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Forsys Metals Corp.",
+  "primary_symbol": "F2T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Forsys Metals Corp., an exploration stage company, engages in the acquisition, exploration, and development of mineral properties in Namibia, Africa. The company explores for uranium and gold mineral properties. Its flagship project is Norasa, which includes the Valencia project covering an area of 735.6 hectares; and the Namibplaas project located in the south-west of the town of Usakos in central-west Namibia. The company also holds 51% interest in the Ondundu Gold Project located in Namibia. The company was formerly known as Forsys Technologies Inc. and changed its name to Forsys Metals Corp. in June 2005. Forsys Metals Corp. was incorporated in 1985 and is headquartered in Toronto, Canada.",
+  "website": "http://www.forsysmetals.com"
+}

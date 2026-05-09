@@ -1,0 +1,36 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005421919"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "IT0005421919",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "AGA.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005421919.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Agatos S.p.A.",
+  "primary_symbol": "AGA.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Agatos S.p.A. operates as an engineering, procurement, and construction company. The company designs, implements, and delivers turnkey photovoltaic plants from biomass, waste-to-energy, biogas, hydro, and small wind turbines. It engineers and builds plants on a turnkey basis for energy efficiency and the production of renewable energy for clients, including companies and individuals, as well as provides O&M and asset management services to its clients. The company is based in Milan, Italy.",
+  "website": "http://www.agatos.it"
+}

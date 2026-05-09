@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000RDV3H2",
+    "figi": "BBG000RDV6Q5",
+    "isin": "FR0004053510"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0004053510",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEH.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALGEN.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JEH.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GENOWAY S.A. INH.  EO-,60",
+  "primary_symbol": "JEH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Genoway S.A. is a biotechnology company specializing in genetically modified research models for pharmaceutical and biotechnology companies. The company develops and provides custom-designed models to accelerate drug discovery and development. Its headquarters are located in Lyon, France.",
+  "website": "http://www.genoway.com"
+}

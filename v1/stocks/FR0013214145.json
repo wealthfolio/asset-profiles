@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "FR0013214145"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "FR0013214145",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SFC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SFC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SFC.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SMCP.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Schaffer Corporation Limited",
+  "primary_symbol": "SFC.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Schaffer Corporation Limited, a diversified industrial company, manufactures and sells automotive leather and building materials primarily in Australia, Asia, and Europe. The company's Automotive Leather segment manufactures and supplies leather to automotive manufacturers in the automotive industry. Its Building Materials segment manufactures pre-cast and pre-stressed concrete floors, beams, and wall products primarily for the construction market. The Group Investments segment leases office, factory, and retail properties; and develops and sells property assets. It also owns the North Coogee land, a residential property. The company was incorporated in 1955 and is headquartered in West Perth, Australia.",
+  "website": "http://www.schaffer.com.au"
+}

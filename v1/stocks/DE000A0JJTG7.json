@@ -1,0 +1,66 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "DE000A0JJTG7"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "DE000A0JJTG7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTY.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GRL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GTY.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GTY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GTY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GTY.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Getty Realty Corp.",
+  "primary_symbol": "GTY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Getty Realty Corp. is the leading publicly traded real estate investment trust in the United States specializing in the ownership, leasing and financing of convenience store and gasoline station properties. As of September 30, 2020, the Company owned 896 properties and leased 58 properties from third-party landlords in 35 states across the United States and Washington, D.C.",
+  "website": "http://www.gettyrealty.com"
+}

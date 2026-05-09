@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00NRW0375",
+    "figi": "BBG00NRW03F6",
+    "isin": "GB00BJLP1Y77"
+  },
+  "industry_group": "Utilities",
+  "isin": "GB00BJLP1Y77",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2U4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2U4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2U4.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HICL.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HICL INFRASTRUCT LS-,0001",
+  "primary_symbol": "2U4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "HICL Infrastructure PLC invests in core infrastructure assets, such as roads, hospitals, schools, and utilities. The company focuses on generating long-term, stable returns for its shareholders through public-private partnership projects. HICL Infrastructure is headquartered in London, United Kingdom."
+}

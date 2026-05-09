@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPT6D2",
+    "figi": "BBG000BPT9C7",
+    "isin": "SG1M31001969"
+  },
+  "industry_group": "Banks",
+  "isin": "SG1M31001969",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UOB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UOB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UOB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UOB.SG"
+    }
+  ],
+  "name": "UTD OV. BK  SD 1",
+  "primary_symbol": "UOB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "UNITED OVERSEAS BANK LTD. Regis is a leading bank in Asia with a global network of branches and offices. UOB provides a wide range of financial services including personal banking, business banking, and corporate banking. The bank is headquartered in Singapore."
+}

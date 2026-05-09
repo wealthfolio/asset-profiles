@@ -1,0 +1,74 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00HL2MZN7",
+    "cusip": "78446M109",
+    "figi": "BBG00HL2MZP5",
+    "isin": "US78446M1099"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US78446M1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S92.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S93.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMTGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMTGY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "S92.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S92.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S92.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "S92.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S93.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SMA Solar Technology AG",
+  "primary_symbol": "S92.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SMA Solar Technology AG, together with its subsidiaries, develops, produces, and sells solar and battery inverters, monitoring systems for photovoltaic (PV) systems, medium-voltage technology products, transformers, and chokes worldwide. The company offers string and central solar inverters for various module types, grid-connection and feeding into stand-alone grids, small house systems, and commercial systems; battery inverters for high-voltage batteries, on- and off-grid applications, commercial and industrial storage solutions, storage solutions, and accessories; and preconfigured system components. It also provides DC-DC converters; E-mobility charging solutions; monitoring and control solutions for PV systems; and energy data services, as well as digital solutions to design, operate, and service PV systems and energy systems. The company was formerly known as SMA Technologie AG and changed its name to SMA Solar Technology AG in June 2008. SMA Solar Technology AG was founded in 1981 and is headquartered in Niestetal, Germany.",
+  "website": "http://www.sma.de"
+}

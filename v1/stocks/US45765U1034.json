@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C01W85",
+    "cusip": "45765U103",
+    "figi": "BBG000C01YG2",
+    "isin": "US45765U1034"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US45765U1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IEI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IEI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSIT"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IEI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IEI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IEI.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "IEI.V"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "INSIGHT ENTERPR.  DL-,01",
+  "primary_symbol": "IEI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Insight Enterprises Inc. is a global IT provider headquartered in Tempe, Arizona, offering a range of hardware, software, and cloud solutions. The company provides services including IT consulting, implementation, and managed services to businesses of all sizes. Insight partners with leading technology vendors to deliver solutions.",
+  "website": "http://www.insight.com"
+}

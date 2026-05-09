@@ -1,0 +1,63 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000C0KNK0",
+    "figi": "BBG000C0KQZ7",
+    "isin": "IT0003621783"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "IT0003621783",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LZO1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LZO1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0MS9.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003621783.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LZO1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LZO1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SSL.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SOC. SPORT. LAZIO  EO 0,6",
+  "primary_symbol": "LZO1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "S.S. Lazio S.p.A. is an Italian professional football club based in Rome. The club participates in Serie A, the top tier of the Italian football league system. S.S. Lazio also operates a youth academy and engages in merchandising activities.",
+  "website": "http://www.sslazio.it"
+}

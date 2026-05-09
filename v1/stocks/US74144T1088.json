@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GCQ3P3",
+    "cusip": "74144T108",
+    "figi": "BBG000GCR915",
+    "isin": "US74144T1088"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US74144T1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TR1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TR1.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TROW"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "T1RO34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TR1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TR1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TR1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "TR1.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TR1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "TROW.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "T.ROW.PR.GRP  DL-,20",
+  "primary_symbol": "TR1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "T. Rowe Price Group, Inc. is a global investment management firm that provides a broad range of investment strategies and services to individuals, institutions, and financial intermediaries. The company manages assets across a variety of equity, fixed income, and multi-asset strategies. T. Rowe Price Group is headquartered in Baltimore, Maryland.",
+  "website": "http://www.troweprice.com"
+}

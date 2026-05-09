@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BPCJH8",
+    "figi": "BBG000BPCN70",
+    "isin": "AU000000CCE7"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Energy",
+  "isin": "AU000000CCE7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNM1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWGYF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CCE.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CNM1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNM1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CARNEGIE CLEAN EN.",
+  "primary_symbol": "CNM1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "CARNEGIE CLEAN EN. is likely Carnegie Clean Energy. Carnegie Clean Energy Limited is an Australian wave energy technology developer. The company is focused on developing and commercializing its CETO wave energy technology.",
+  "website": "http://www.carnegiece.com"
+}

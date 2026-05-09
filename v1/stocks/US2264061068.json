@@ -1,0 +1,64 @@
+{
+  "country": "Argentina",
+  "country_code": "AR",
+  "identifiers": {
+    "composite_figi": "BBG000C4BZ07",
+    "cusip": "226406106",
+    "figi": "BBG000C4C1N6",
+    "isin": "US2264061068"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US2264061068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CD8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CD8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRESY"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CD8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CD8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CD8.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "CRES.BA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CRESUD SA COM. IND.ADR/10",
+  "primary_symbol": "CD8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Cresud S.A.C.I.F. y A. is an Argentinian agricultural company involved in the production of crops and livestock. They also engage in real estate development and investments in related sectors. Cresud is headquartered in Buenos Aires, Argentina.",
+  "website": "http://www.cresud.com.ar"
+}

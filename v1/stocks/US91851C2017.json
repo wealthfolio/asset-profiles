@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BTBH21",
+    "cusip": "91851C201",
+    "figi": "BBG000BTBK79",
+    "isin": "US91851C2017"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US91851C2017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EGY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAW.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EGY.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "EGY.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VAW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VAW.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VAALCO Energy, Inc.",
+  "primary_symbol": "EGY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "VAALCO Energy, Inc., an independent energy company, acquires, explores for, develops, and produces crude oil and natural gas. The company holds Etame production sharing contract related to the Etame Marin block located offshore in the Republic of Gabon in West Africa. It also owns interests in an undeveloped block offshore Equatorial Guinea, West Africa. VAALCO Energy, Inc. was incorporated in 1985 and is headquartered in Houston, Texas.",
+  "website": "http://www.vaalco.com"
+}

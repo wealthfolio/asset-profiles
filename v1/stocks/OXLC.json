@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R41XY0",
+    "figi": "BBG0019RL380"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OXLC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Oxford Lane Capital Corp.",
+  "primary_symbol": "OXLC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Oxford Lane Capital Corp. is a close ended fund launched and managed by Oxford Lane Management LLC. It invests in fixed income securities. The fund primarily invests in securitization vehicles which in turn invest in senior secured loans made to companies whose debt is rated below investment grade or is unrated. Oxford Lane Capital Corp was formed on June 9, 2010 and is domiciled in the United States.",
+  "website": "http://www.oxfordlanecapital.com"
+}

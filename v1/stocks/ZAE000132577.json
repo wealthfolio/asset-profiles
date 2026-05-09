@@ -1,0 +1,58 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG000ND2F63",
+    "figi": "BBG000ND3LB3",
+    "isin": "ZAE000132577"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "ZAE000132577",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5VD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VDMCY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VODAF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5VD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5VD.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "VOD.JO"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "VODACOM GROUP LTD.",
+  "primary_symbol": "5VD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Vodacom Group Limited is a South African mobile communications company providing a range of services, including voice, messaging, data, and financial services, to individual and business customers. The company operates in several African countries, including South Africa, Tanzania, and the Democratic Republic of Congo. Vodacom Group is headquartered in Johannesburg, South Africa.",
+  "website": "http://www.vodacom.com"
+}

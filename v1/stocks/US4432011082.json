@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00F5JC4W2",
+    "cusip": "443201108",
+    "figi": "BBG00F5JC522",
+    "isin": "US4432011082"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US4432011082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48Z.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "48Z.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "48Z.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4432011082.SG"
+    }
+  ],
+  "name": "HOWMET AEROSPACE  DL-,01",
+  "primary_symbol": "48Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Howmet Aerospace Inc. is a global provider of advanced engineered solutions for the aerospace, defense, and transportation industries. The company manufactures precision castings, forgings, and fastening systems. Howmet Aerospace is headquartered in Pittsburgh, Pennsylvania."
+}

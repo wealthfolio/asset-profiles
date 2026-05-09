@@ -1,0 +1,38 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001M75SX4",
+    "figi": "BBG005DPF9P5",
+    "isin": "US4525EP1011"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US4525EP1011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMUX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "10VA.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Immunic, Inc.",
+  "primary_symbol": "IMUX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Immunic, Inc., a clinical-stage biopharmaceutical company, develops a pipeline of selective oral immunology therapies for the treatment of chronic inflammatory and autoimmune diseases. Its lead development program is IMU-838, which is in Phase 2 clinical for treatment of relapsing-remitting multiple sclerosis, inflammatory bowel disease, and other chronic inflammatory and autoimmune diseases, as well as to treat coronavirus disease. The company is also developing IMU-935, an inverse agonist of ROR?t; and IMU-856 for the restoration of the intestinal barrier function in patients suffering from diseases, such as inflammatory bowel disease, irritable bowel syndrome with diarrhea, immune checkpoint inhibitor induced colitis, and other intestinal barrier function diseases. Immunic, Inc. is headquartered in New York, New York.",
+  "website": "http://www.immunic-therapeutics.com"
+}

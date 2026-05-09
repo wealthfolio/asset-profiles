@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BS09X9",
+    "figi": "BBG000BS0GR0",
+    "isin": "DE000A0EQ578"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A0EQ578",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H5E.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H5E.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H5E.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H5E.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0W0T.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "H5E.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "H5E.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "H5E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "H5E.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HELMA EIGENHEIMBAU AG",
+  "primary_symbol": "H5E.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HELMA Eigenheimbau AG is a German company that develops and builds residential properties. The company focuses on single-family homes, semi-detached houses, and apartment buildings. HELMA Eigenheimbau is headquartered in Lehrte, Germany.",
+  "website": "http://www.helma.de"
+}

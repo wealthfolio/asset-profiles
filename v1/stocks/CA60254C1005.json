@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA60254C1005"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA60254C1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MISVF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XYD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XYD.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MSV.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MSV.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XYD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XYD.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Minco Silver Corporation",
+  "primary_symbol": "MISVF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Minco Silver Corporation, an exploration stage company, engages in exploring, evaluating, and developing precious metals mineral properties and projects. It holds 100% interests in the Fuwan Silver project, which holds 3 exploration permits covering an area of 125.74 square kilometers; and the Changkeng Gold project located southwest of Guangzhou, China. The company was incorporated in 2004 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.mincosilver.ca"
+}

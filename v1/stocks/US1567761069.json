@@ -1,0 +1,57 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "cusip": "156776106",
+    "isin": "US1567761069"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US1567761069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPWHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRPHY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CFJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CFJA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CFJA.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CWR.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Ceres Power Holdings plc",
+  "primary_symbol": "CPWHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ceres Power Holdings plc, a fuel cell technology and engineering company, engages in the development and commercialization of fuel cell technology in North America, Asia, and Europe. The company offers SteelCell, a perforated sheet of steel with special screen-printed ceramic layers that converts fuel directly into electrical power. Its products are applied in commercial, data center, automotive, and residential markets. Ceres Power Holdings plc has a strategic collaboration with AVL List GmbH to accelerate customer adoption and product development of solid oxide fuel cell (SOFC) technology for transportations, stationary, or other applications; and a collaboration and license agreement with Doosan Fuel Cell Co. Ltd to build a 50MW facility for the mass manufacture under license of Ceres' fuel cell stacks in South Korea. The company was founded in 2001 and is headquartered in Horsham, the United Kingdom.",
+  "website": "http://www.ceres.tech"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JLXJ95",
+    "cusip": "95058W100",
+    "figi": "BBG000JLXN14",
+    "isin": "US95058W1009"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US95058W1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TQK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TQK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WEN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TQK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TQK.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "THE WENDY'S CO. A  DL-,10",
+  "primary_symbol": "TQK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "The Wendy's Company is a fast-food restaurant company operating and franchising Wendy's restaurants worldwide. The company's menu includes hamburgers, chicken sandwiches, french fries, and beverages. The Wendy's Company is headquartered in Dublin, Ohio.",
+  "website": "http://www.wendys.com"
+}

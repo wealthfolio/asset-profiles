@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00W7DYCL6",
+    "figi": "BBG00W7DYCS9",
+    "isin": "GB00BKM0ZJ18"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00BKM0ZJ18",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48W.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "48W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "48W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BKM0ZJ18.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PRE.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PENSANA PLC  LS-,001",
+  "primary_symbol": "48W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Pensana PLC is focused on rare earth oxide production at its Longonjo project in Angola, with plans for a processing hub in the UK. The company aims to establish a sustainable supply chain for magnet metals essential for electric vehicles and wind turbines. Pensana PLC is headquartered in London, UK.",
+  "website": "http://www.pensana.co.uk"
+}

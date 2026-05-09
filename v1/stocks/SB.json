@@ -1,0 +1,31 @@
+{
+  "country": "Monaco",
+  "country_code": "MC",
+  "identifiers": {
+    "composite_figi": "BBG000FYPPB3",
+    "figi": "BBG000FYPR38"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SB"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Safe Bulkers, Inc.",
+  "primary_symbol": "SB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Safe Bulkers, Inc. provides marine drybulk transportation services. It owns and operates drybulk vessels for transporting bulk cargoes primarily coal, grain, and iron ore. As of March 15, 2021, the company had a fleet of 43 drybulk vessels having an average age of 10.3 years; and an aggregate carrying capacity of 3,937,000 deadweight tons. Its fleet consisted of 15 Panamax class vessels, 10 Kamsarmax class vessels, 14 post- Panamax class vessels, and four Capesize class vessels. The company was incorporated in 2007 and is based in Monaco.",
+  "website": "http://www.safebulkers.com"
+}

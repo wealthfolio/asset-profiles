@@ -1,0 +1,76 @@
+{
+  "country": "Iceland",
+  "country_code": "IS",
+  "identifiers": {
+    "isin": "ES0184262212"
+  },
+  "industry": "Insurance",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "ES0184262212",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MKW.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIS.IC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "VIS.AT"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VIS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VIS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "VIS.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "VIS.VI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VISE.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VISCOFAN SA VISCOFAN ORD SHS",
+  "primary_symbol": "0MKW.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Viscofan SA is a global manufacturer of casings for the food industry. It produces and distributes artificial casings for meat products. The company is headquartered in Tajonar, Spain.",
+  "website": "http://www.vis.is"
+}

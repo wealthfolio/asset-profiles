@@ -1,0 +1,37 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0100RQV47",
+    "figi": "BBG0100RQV56",
+    "isin": "CA58404N1096"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA58404N1096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1ZY.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MEDA.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Medaro Mining Corp.",
+  "primary_symbol": "1ZY.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Medaro Mining Corp. engages in the exploration of mineral properties in Canada. It holds an option to acquire interests in the Superb Lake lithium and gold property that consists of eight mining cell claims covering an area of approximately 2,187 hectares in the Thunder Bay mining district of Northwestern Ontario, Canada. The company was incorporated in 2020 and is headquartered in Vancouver, Canada."
+}

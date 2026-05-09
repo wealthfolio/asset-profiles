@@ -1,0 +1,41 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "isin": "GB00B23K0M20"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "GB00B23K0M20",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "CPI.AT"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CPI.BK"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B23K0M20.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CPI Computer Peripherals International",
+  "primary_symbol": "CPI.AT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CPI Computer Peripherals International provides IT products and services in Greece. The company offers printers for business applications; barcode/RF-ID printers and scanners, and hand-held portables; scanners and digitization products; surveillance and security products; projectors and specialized products for the education sector; POS terminals and peripherals for tourism, and food and retail businesses; and interactive systems. It also provides CPI product technical support, digitization and document management, and print management services, as well as install, move, add, and change services for computer equipment; technical support services for third-party manufacturers; and custom, consultation, and infrastructure services. The company was founded in 1990 and is based in Athens, Greece.",
+  "website": "http://www.cpi.gr"
+}

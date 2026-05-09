@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WM247N5",
+    "figi": "BBG00WM247T9",
+    "isin": "SE0010831321"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0010831321",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5J9.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5J9.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "FLUI.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0010831321.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FLUICELL AB",
+  "primary_symbol": "5J9.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fluicell AB (publ) provides single-cell discovery platforms for biomedicine, drug development, and bioprinting applications worldwide. The company offers BioPen PRIME and BioPen FLEX microfluidic systems for maintaining localized solution delivery in single-cell experiments, as well as enabling control of the chemical environment around single intact cells in tissue or cell cultures; and Dynaflow Resolve system, a secondary ion channel screening platform, which allows for recording of various ion channel current in patch-clamp recording configuration. The company was founded in 2012 and is based in Gothenburg, Sweden.",
+  "website": "http://www.fluicell.com"
+}

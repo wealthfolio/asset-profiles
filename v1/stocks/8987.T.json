@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8987.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Japan Excellent, Inc.",
+  "primary_symbol": "8987.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "JEI invests primarily in office buildings located in major metropolitan areas and pursues to create portfolio that produces stable growth of income by acquiring properties with a strict investment criteria and a close monitoring of real estate market trends.",
+  "website": "http://www.excellent-reit.co.jp"
+}

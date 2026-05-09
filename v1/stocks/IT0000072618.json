@@ -1,0 +1,66 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "IT0000072618"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Banks",
+  "isin": "IT0000072618",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HBC.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IES.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IES.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IES.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IES.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IES.TA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IES.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ISP.MI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "INTESA SANPAOLO SPA INTESA SANP",
+  "primary_symbol": "0HBC.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Intesa Sanpaolo S.p.A. is an Italian international banking group. It is Italy's largest bank by assets. Intesa Sanpaolo S.p.A. is headquartered in Turin, Italy.",
+  "website": "http://www.mail.ies.com"
+}

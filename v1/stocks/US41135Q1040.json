@@ -1,0 +1,64 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00KGFV759",
+    "cusip": "41135Q104",
+    "figi": "BBG00KGFV777",
+    "isin": "US41135Q1040"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "US41135Q1040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLAG.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLAGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HPGLY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HLAA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "HLAG.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HLAG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "HLAG.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Hapag-Lloyd Aktiengesellschaft",
+  "primary_symbol": "HLAG.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hapag-Lloyd Aktiengesellschaft, together with its subsidiaries, operates as a liner shipping company worldwide. The company engages in shipping of containers by sea; and the provision of door to door transportation services. Its vessel and container fleets are used for the transportation of general and special cargo, various dangerous goods, and coffee, as well as reefer cargo covering pharmaceuticals. The company also offers bilateral EDI, a directly connected electronic data interchange; operates an e-commerce portal that provides real-time access to transport data, as well as services to manage customer's supply chain data and connect to their carriers through one interface, and mobile app that allows to manage shipping process; and provides e-mail, security information and verified gross mass services. In addition, it provides container transportation services to the United States government organizations. As of December 31, 2020, the company fleet comprised 237 container ships with a total capacity of 1.7 million twenty-foot equivalent unit (TEU); and owned or rented 1,634,911 containers with a capacity of approximately 2,703,943 TEU for shipping cargo. Hapag-Lloyd Aktiengesellschaft was founded in 1847 and is headquartered in Hamburg, Germany.",
+  "website": "http://www.hapag-lloyd.com"
+}

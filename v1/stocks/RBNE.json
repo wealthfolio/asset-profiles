@@ -1,0 +1,25 @@
+{
+  "country": "Cyprus",
+  "country_code": "CY",
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RBNE"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Robin Energy Ltd. Common Stock",
+  "primary_symbol": "RBNE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials"
+}

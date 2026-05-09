@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00YMVJVD9",
+    "figi": "BBG00YMVJVK1",
+    "isin": "FR0014000JX7"
+  },
+  "industry": "Media",
+  "industry_group": "Media & Entertainment",
+  "isin": "FR0014000JX7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "922.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "922.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALCHI.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ALCHIMIE  EO 1,-",
+  "primary_symbol": "922.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Alchimie S.A.S. operates an Over the Top television platform that distributes 55 thematic affinity channels by subscription. It has approximately 60,000 hours of content from 300 partners. The company is based in Aubervilliers, France.",
+  "website": "http://www.alchimie.com"
+}

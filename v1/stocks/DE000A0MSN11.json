@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000RK5893",
+    "figi": "BBG000RK5BP8",
+    "isin": "DE000A0MSN11"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A0MSN11",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M7U.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M7U.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M7U.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "M7U.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M7U.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M7U.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M7U.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NYNOMIC AG  INH O.N.",
+  "primary_symbol": "M7U.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nynomic AG is a German company specializing in the development, manufacture, and distribution of products for permanent non-contact optical measurement technology. They serve various industries including the pharmaceutical, life science, environmental, and agricultural sectors. The company's headquarters are in Wedel, Germany and it operates with a business model focused on providing customized solutions for optical measurement",
+  "website": "http://www.nynomic.com"
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "USE3.AS"
+    }
+  ],
+  "name": "WisdomTree Short USD Long EUR 3x Daily",
+  "primary_symbol": "USE3.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "WisdomTree Short USD Long EUR 3x Daily is an exchange-traded product (ETP) designed to provide a leveraged inverse exposure to the performance of the USD against the EUR. It aims to deliver three times the daily percentage change in the value of the Euro relative to the US Dollar. The ETP uses financial derivatives to achieve its leveraged and inverse investment objective."
+}

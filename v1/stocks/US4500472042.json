@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000K7X282",
+    "cusip": "450047204",
+    "figi": "BBG000K7Z8Q7",
+    "isin": "US4500472042"
+  },
+  "isin": "US4500472042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IRYA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IRYA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IRYA.F"
+    }
+  ],
+  "name": "IRSA INV. Y REPR. ADR 10",
+  "primary_symbol": "IRYA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,68 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG0015GL315",
+    "figi": "BBG0015GL379",
+    "isin": "ES0105630315"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "ES0105630315",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIE.CR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CAD.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CAD.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CIE.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "CIE.MC"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "CIE.SW"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CIEAN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CIE AUTOMOTIVE INH.EO-,25",
+  "primary_symbol": "CAD.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CIE AUTOMOTIVE INH.EO-,25 is a global supplier of automotive components and sub-assemblies, offering a wide range of products including metal, plastic, and composite parts. The company operates through various business units serving major automotive manufacturers worldwide. CIE Automotive is headquartered in Bilbao, Spain, and focuses on innovation, quality, and sustainable growth in the automotive industry.",
+  "website": "http://www.cieautomotive.com"
+}

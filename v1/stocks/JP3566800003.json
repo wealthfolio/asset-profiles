@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000K65JV2",
+    "figi": "BBG000K65P20",
+    "isin": "JP3566800003"
+  },
+  "industry_group": "Transportation",
+  "isin": "JP3566800003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JAP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JAP.SG"
+    }
+  ],
+  "name": "CENTRAL JAP RWY",
+  "primary_symbol": "JAP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Central Japan Railway Company (JR Central) operates the high-speed Tokaido Shinkansen line and conventional railway lines in the Chubu region of Japan. The company provides passenger railway transportation services and related businesses. JR Central is headquartered in Nagoya, Japan."
+}

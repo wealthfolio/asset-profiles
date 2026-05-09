@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000KQ8YW1",
+    "cusip": "64125C109",
+    "figi": "BBG000KQ92H7",
+    "isin": "US64125C1099"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US64125C1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NBIX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K6R.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "N1BI34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NB3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NB3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NB3.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NEUROCRINE BIOSCI. DL-001",
+  "primary_symbol": "NB3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Neurocrine Biosciences, Inc. is a biopharmaceutical company focused on developing and commercializing treatments for neurological, endocrine, and psychiatric disorders. Their key product is Ingrezza, used for tardive dyskinesia, and they have other therapies in development. The company is headquartered in San Diego, California.",
+  "website": "http://www.neurocrine.com"
+}

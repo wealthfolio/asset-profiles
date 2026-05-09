@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000TCL6"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "AU000000TCL6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRAUF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TCL.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "TCL.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TU9.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Transurban Group",
+  "primary_symbol": "TRAUF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Transurban Group develops, operates, manages, and maintains toll road networks. It operates 20 toll roads in Sydney, Melbourne, and Brisbane in Australia; the Greater Washington area of Virginia, the United States; and Montreal, Canada. The company is headquartered in Melbourne, Australia.",
+  "website": "http://www.transurban.com.au"
+}

@@ -1,0 +1,22 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "VASINFRA.BO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Vas Infrastructure Limited",
+  "primary_symbol": "VASINFRA.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

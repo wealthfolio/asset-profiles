@@ -1,0 +1,73 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XDH2DP7",
+    "figi": "BBG00XDH2DX8",
+    "isin": "GB00BMTV7393"
+  },
+  "industry": "Insurance",
+  "industry_group": "Retailing",
+  "isin": "GB00BMTV7393",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HG0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HG0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AF4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BMTV7393.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HG0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HG0.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "THG.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "THG.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "THG PLC  LS-,005",
+  "primary_symbol": "HG0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "THG PLC is a British e-commerce company focusing on beauty and wellness brands. The company owns and operates a portfolio of online retail brands, including Lookfantastic and Myprotein, and also provides technology and logistics services to other brands. It is headquartered in Manchester, UK.",
+  "website": "http://www.hanover.com"
+}

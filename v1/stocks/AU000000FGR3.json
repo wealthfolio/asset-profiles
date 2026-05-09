@@ -1,0 +1,71 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000FGR3"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000FGR3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FGPHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M11.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M11.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M11.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FGR.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M11.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M11.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M11.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "M11.SI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "First Graphene Limited",
+  "primary_symbol": "FGPHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "First Graphene Limited manufactures and sells a range of graphene nanoplatelet products under the PureGRAPH brand name in Australia and the United Kingdom. The company also develops and sells VFD, TTF, and other 2D devices and materials. Its products are used in the composite, elastomer, fire retardancy, concrete, textile, and energy storage applications. The company was formerly known as First Graphite Limited and changed its name to First Graphene Limited in November 2017. First Graphene Limited is headquartered in Henderson, Australia.",
+  "website": "http://www.firstgraphene.net"
+}

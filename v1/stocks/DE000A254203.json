@@ -1,0 +1,46 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE000A254203"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A254203",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPSC.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A254203.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MPSC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MPSC.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MUEHL PROD.+SERV. INH O.N",
+  "primary_symbol": "MPSC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "M√É¬ºhl Product & Service Aktiengesellschaft, through its subsidiaries, supplies construction materials. The company is based in Kranichfeld, Germany. M√É¬ºhl Product & Service Aktiengesellschaft was formerly a subsidiary of M√É¬ºhl24 GmbH. As of June 10, 2016, M√É¬ºhl Product & Service Aktiengesellschaft is in liquidation.",
+  "website": "http://muehl.ag"
+}

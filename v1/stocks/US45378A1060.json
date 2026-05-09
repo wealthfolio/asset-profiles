@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XC94D74",
+    "cusip": "45378A106",
+    "figi": "BBG00XC94DD7",
+    "isin": "US45378A1060"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US45378A1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5O2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IRT"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "INDEPENDENCE RLTY TR.",
+  "primary_symbol": "5O2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Independence Realty Trust, Inc. (NYSE: IRT) is a real estate investment trust that owns and operates multifamily apartment properties across non-gateway U.S. markets, including Atlanta, Louisville, Memphis, and Raleigh. IRT's investment strategy is focused on gaining scale within key amenity rich submarkets that offer good school districts, high-quality retail and major employment centers. IRT aims to provide stockholders attractive risk-adjusted returns through diligent portfolio management, strong operational performance, and a consistent return on capital through distributions and capital appreciation.",
+  "website": "http://www.irtliving.com"
+}

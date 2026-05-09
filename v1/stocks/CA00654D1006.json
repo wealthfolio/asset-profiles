@@ -1,0 +1,33 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00PYPBX06",
+    "figi": "BBG00R9J60N7",
+    "isin": "CA00654D1006"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA00654D1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "XTRX.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Phyto Extractions Inc.",
+  "primary_symbol": "XTRX.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Adastra Labs Holdings Ltd. operates as a cannabis extraction and processing solutions company. It also offers third party analytical testing services, such as white labelling, contract processing, and cannabis testing. The company is based in Langley, Canada.",
+  "website": "http://www.adastralabs.ca"
+}

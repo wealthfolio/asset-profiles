@@ -1,0 +1,68 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000BSXH38",
+    "figi": "BBG000BSXM73",
+    "isin": "AT0000A00Y78"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "AT0000A00Y78",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O2C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O2C.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O2C.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O2C.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "O2C.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "O2C.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "O2C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "O2C.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PETRO WELT TECHNOLOGIE.AG",
+  "primary_symbol": "O2C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Petro Welt Technologies AG provides oilfield services, including drilling, workover, and stimulation services, primarily in Austria and Russia. They focus on enhancing production from existing oil and gas wells through technological solutions and project management. The company is headquartered in Vienna, Austria.",
+  "website": "http://pewete.com"
+}

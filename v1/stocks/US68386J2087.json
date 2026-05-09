@@ -1,0 +1,57 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "68386J208",
+    "isin": "US68386J2087"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68386J2087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CKDXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UKJ2.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "OPT.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UKJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UKJ2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "OPTHEA LIMITED",
+  "primary_symbol": "CKDXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Opthea Limited, a biotechnology company, develops and commercializes therapies primarily for eye disease in Australia. The company's development activities are based on the intellectual property portfolio covering Vascular Endothelial Growth Factors (VEGF) VEGF-C, VEGF-D, and VEGF Receptor-3 for the treatment of diseases associated with blood and lymphatic vessel growth, as well as vascular leakage. Its lead molecule is OPT-302, a soluble form of VEGFR-3 for the treatment of wet age-related macular degeneration and diabetic macular edema. The company was formerly known as Circadian Technologies Limited and changed its name to Opthea Limited in December 2015. Opthea Limited was incorporated in 1984 and is based in South Yarra, Australia.",
+  "website": "http://www.opthea.com"
+}

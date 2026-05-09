@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00W5FDLY2",
+    "figi": "BBG00W5FDM34",
+    "isin": "JP3268950007"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "JP3268950007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "59Z.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "59Z.DU"
+    }
+  ],
+  "name": "MEDIPAL HOLDINGS CORP.",
+  "primary_symbol": "59Z.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MEDIPAL HOLDINGS CORPORATION, headquartered in Tokyo, Japan, is a major pharmaceutical wholesaler. They distribute prescription drugs, ethical pharmaceuticals, diagnostic reagents, and medical devices to hospitals, clinics, and pharmacies. Their business model is focused on efficiently delivering healthcare products and services to support the medical industry."
+}

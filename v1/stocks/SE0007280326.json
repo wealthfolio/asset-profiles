@@ -1,0 +1,38 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00Y1SKX43",
+    "figi": "BBG00Y1SKX52",
+    "isin": "SE0007280326"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0007280326",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6FN.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "KLAR.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Klaria Pharma Holding AB (publ.)",
+  "primary_symbol": "6FN.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Klaria Pharma Holding AB (publ.) operates as a pharmaceutical company in Sweden and internationally. It offers Sumatriptan for the treatment of migraine; and Midazolam for acute epilepsy. The company's clinical phase products include Epinephrine/Adrenaline for the treatment of acute allergic reaction; Naloxone for opioid overdose; and Ketamine for acute pain and depression. It also focuses on the commercialization of cannabis/cannabinoids, including THC and CBD for medical and recreational applications. The company was founded in 2014 and is based in Uppsala, Sweden.",
+  "website": "http://www.klaria.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG00PH83Z43",
+    "figi": "BBG00PH83ZB5",
+    "isin": "NL0013654809"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Transportation",
+  "isin": "NL0013654809",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSF.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FSF.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FSF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FSF.F"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "FSF.NZ"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FASTNED B.V.  EO -,01",
+  "primary_symbol": "FSF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fastned B.V. builds and operates a network of fast-charging stations for electric vehicles across Europe. The company focuses on providing convenient and reliable charging infrastructure to accelerate the adoption of electric mobility. Fastned is headquartered in Amsterdam, Netherlands.",
+  "website": "http://www.fonterra.com/nz/en/Financial/Fonterra+Shareholders+Fund"
+}

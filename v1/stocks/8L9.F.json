@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8L9.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Fonciere Atland",
+  "primary_symbol": "8L9.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Fonciere Atland operates as a real estate investment trust. It invests in offices, retail outlets, warehouses, or light industrial premises. It also provides real estate sale-leaseback services, and construction and turnkey rental development services to business customers. The company is based in Paris, France.",
+  "website": "http://www.fonciere-atland.fr"
+}

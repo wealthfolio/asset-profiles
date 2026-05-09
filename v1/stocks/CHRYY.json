@@ -1,0 +1,27 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHRYY"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Chorus Limited",
+  "primary_symbol": "CHRYY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Chorus Limited provides fixed line communications infrastructure services in New Zealand. It offers phone and broadband services over copper and fiber networks for residential and business customers; and very high-speed digital subscriber line broadband services. The company also provides colocation services. Chorus Limited was founded in 2008 and is based in Wellington, New Zealand.",
+  "website": "http://www.chorus.co.nz"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0004171346"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0004171346",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0CZ7.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9KA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALNXT.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0004171346.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nextedia S.A.",
+  "primary_symbol": "0CZ7.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Nextedia S.A. provides digital marketing services in France. It offers digital interactive and digital transformation services. The company was formerly known as Social Mix Media Group and changed its name to Nextedia S.A. in July 2013. Nextedia S.A. is headquartered in Paris, France.",
+  "website": "http://www.nextedia.com"
+}

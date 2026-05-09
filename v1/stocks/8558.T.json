@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8558.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "The Towa Bank, Ltd.",
+  "primary_symbol": "8558.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Towa Bank, Ltd. provides various banking products and services. The company was founded in 1917 and is based in Maebashi, Japan.",
+  "website": "http://www.towabank.co.jp"
+}

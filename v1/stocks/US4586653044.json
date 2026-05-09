@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GJGPD3",
+    "cusip": "458665304",
+    "figi": "BBG000GJGVY7",
+    "isin": "US4586653044"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US4586653044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IF6N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IF6N.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TILE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IF6N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IF6N.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INTERFACE INC.  DL-,10",
+  "primary_symbol": "IF6N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Interface Inc. is a global flooring company headquartered in Atlanta, Georgia, specializing in modular carpet. The company designs, manufactures and markets modular carpet and resilient flooring. Interface focuses on sustainability and environmental responsibility.",
+  "website": "http://www.interface.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00ZTGZX77",
+    "figi": "BBG00ZTGZX95",
+    "isin": "CA09664U1012"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "CA09664U1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9P6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9P6.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BRMI.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BOAT ROCKER MEDIA INC",
+  "primary_symbol": "9P6.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Boat Rocker Media Inc. is a Canadian entertainment company that develops, produces, and distributes content across various platforms, including television, film, and digital media. The company's business model encompasses creating and owning intellectual property, producing shows for networks and streaming services, and managing a portfolio of entertainment brands. Boat Rocker Media is headquartered in Toronto, Canada.",
+  "website": "http://www.boatrocker.com"
+}

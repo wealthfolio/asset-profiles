@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA05478T2074"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA05478T2074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZURF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A0U2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A0U2.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "AAZ.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Azincourt Energy Corp.",
+  "primary_symbol": "AZURF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Azincourt Energy Corp., an exploration and development company, focuses on the alternative fuels/alternative energy sector in Canada and Peru. It explores for uranium and lithium deposits, as well as other clean energy elements. The company has an option to acquire a 70% interest in the East Preston project located in Saskatchewan; and 100% interest in the ELC project located in Peru. The company was formerly known as Azincourt Uranium Inc. and changed its name to Azincourt Energy Corp. in October 2017. Azincourt Energy Corp. was incorporated in 2011 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.azincourtenergy.com"
+}

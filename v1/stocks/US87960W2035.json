@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "87960W203",
+    "isin": "US87960W2035"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US87960W2035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IGA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IGA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US87960W2035.SG"
+    }
+  ],
+  "name": "TELIGENT INC.  DL-,01",
+  "primary_symbol": "0IGA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TELIGENT INC. DL-,01 is likely referring to Teligent, Inc., a specialty generic pharmaceutical company. They develop, manufacture, and market topical and injectable pharmaceutical products. Teligent focuses on niche generic markets and contract manufacturing services."
+}

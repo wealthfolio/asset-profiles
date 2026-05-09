@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00B6V7CJ6",
+    "cusip": "74967R106",
+    "figi": "BBG00B6V7CX0",
+    "isin": "US74967R1068"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "US74967R1068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RMR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "26R.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "The RMR Group Inc.",
+  "primary_symbol": "RMR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "The RMR Group Inc., through its subsidiary, The RMR Group LLC, provides business and property management services in the United States. It provides management services to its four publicly traded real estate investment trusts (REITs) and three real estate operating companies. As of September 30, 2020, it had approximately 2,100 properties in 47 states under management, which are primarily owned by the Managed Equity REITs. It also provides investment advisory services. The company was formerly known as REIT Management & Research Inc. and changed its name to The RMR Group Inc. in September 2015. The RMR Group Inc. was founded in 1986 and is headquartered in Newton, Massachusetts.",
+  "website": "http://www.rmrgroup.com"
+}

@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000G9LWR9",
+    "figi": "BBG000G9P3Q0",
+    "isin": "CA45250L2049"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA45250L2049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DPD3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DPD3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMEXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA45250L2049.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DPD3.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IME.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "IME.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "IME.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Imagin Medical Inc.",
+  "primary_symbol": "DPD3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Imagin Medical Inc. focuses on the research, development, and commercialization of medical devices in the bio-chemistry industry. It offers i/Blue Imaging System, which is based on advanced optics and light sensors improve surgeons' ability to visualize cancerous cells for more accurate resection. The company's focus is on bladder cancer. Imagin Medical Inc. is headquartered in Vancouver, Canada.",
+  "website": "http://imaginmedical.com"
+}

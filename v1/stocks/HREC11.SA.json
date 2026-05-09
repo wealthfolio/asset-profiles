@@ -1,0 +1,24 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "HREC11.SA"
+    }
+  ],
+  "name": "Hedge Recebiveis Fundo De Investimento Imobiliario",
+  "primary_symbol": "HREC11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "HREC11 is a Brazilian real estate investment fund (FII) focused on investing in real estate receivables (CRIs). The fund aims to provide investors with income and capital appreciation through exposure to a diversified portfolio of CRIs backed by various real estate assets. HREC11 aims to generate consistent returns through strategic allocation to high-quality CRIs in Brazil."
+}

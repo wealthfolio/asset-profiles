@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DK5VM2",
+    "cusip": "857477103",
+    "figi": "BBG000DK6ZQ8",
+    "isin": "US8574771031"
+  },
+  "isin": "US8574771031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZYA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZYA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZYA.SG"
+    }
+  ],
+  "name": "STATE STREET CORP.  DL 1",
+  "primary_symbol": "ZYA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "State Street Corporation is a financial services and bank holding company. The company provides investment servicing, investment management, and investment research and trading services to institutional investors. State Street is headquartered in Boston, Massachusetts."
+}

@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00M550KQ1",
+    "cusip": "366505105",
+    "figi": "BBG00M550KZ1",
+    "isin": "US3665051054"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "US3665051054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G02.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G02.MU"
+    }
+  ],
+  "name": "GARRETT MOTION  DL -,001",
+  "primary_symbol": "G02.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Garrett Motion Inc. designs, manufactures, and sells turbocharger and boosting technologies for light and commercial vehicle original equipment manufacturers and the aftermarket; the company is headquartered in Rolle, Switzerland."
+}

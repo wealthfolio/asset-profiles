@@ -1,0 +1,27 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ENERS.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Enersize Oyj",
+  "primary_symbol": "ENERS.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Enersize Oyj provides online compressed air management software. It offers LEAQS, a leakage management software; Q+ online measurement and monitoring software; and Q+ automated real-time analysis & optimization software. The company provides its solutions for leakage management, measurement, data acquisition, and automated analysis of the compressed air systems operations based on IoT and cloud computing. The company is headquartered in Helsinki, Finland.",
+  "website": "http://www.enersize.com"
+}

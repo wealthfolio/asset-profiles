@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4166.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Cacco Inc.",
+  "primary_symbol": "4166.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cacco Inc. provides data science based SaaS type algorithms and software solutions, and support services to businesses primarily in Japan. The company offers fraud detection, payment consulting, and data science solutions. Its solutions include O-PLUX, a cloud service to detect fraudulent orders on EC sites; and O-MOTION, a cloud service to detect unauthorized access to clients' sites. The company was founded in 2011 and is based in Tokyo, Japan.",
+  "website": "http://cacco.co.jp"
+}

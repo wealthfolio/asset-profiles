@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000DWPC28",
+    "figi": "BBG000DWQKC8",
+    "isin": "DE000A11QW68"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Energy",
+  "isin": "DE000A11QW68",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRPK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRPK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRPK.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QV6.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "HRPK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HRPK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HRPK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HRPK.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "7C SOLARPARKEN AG  O.N.",
+  "primary_symbol": "HRPK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "7C SOLARPARKEN AG O.N. is a German company that invests in and operates photovoltaic plants, focusing on renewable energy generation. They provide clean energy solutions through their solar power assets. The company is headquartered in Bayreuth, Germany.",
+  "website": "http://www.solarparken.com"
+}

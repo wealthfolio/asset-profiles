@@ -1,0 +1,76 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003073266"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "IT0003073266",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0FM1.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P1I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P1I.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PIAGF"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003073266.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "P1I.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P1I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P1I.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PIA.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PIA.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PIAGGIO & C SPA PIAGGIO & C ORD",
+  "primary_symbol": "0FM1.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Piaggio & C. S.p.A. is an Italian motor vehicle manufacturer, best known for its Vespa scooters. The company manufactures a range of two-wheeled motor vehicles, including scooters, motorcycles, and mopeds, as well as commercial vehicles. Piaggio is headquartered in Pontedera, Italy.",
+  "website": "http://www.piaggiogroup.com"
+}

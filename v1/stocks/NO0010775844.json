@@ -1,0 +1,37 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZXVMWD8",
+    "isin": "NO0010775844"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "NO0010775844",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010775844.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "STATT.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STATT TORSK AS",
+  "primary_symbol": "NO0010775844.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "STATT TORSK AS is a Norwegian cod farming company focused on sustainable and responsible aquaculture. They produce and sell high-quality cod through controlled farming environments. The company is headquartered in Norway.",
+  "website": "http://statt.no"
+}

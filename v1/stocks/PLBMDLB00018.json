@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00XS07XM2",
+    "figi": "BBG00XS07XS6",
+    "isin": "PLBMDLB00018"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "PLBMDLB00018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6NQ.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BML.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLBMDLB00018.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BIOMED-LUBLIN WYT.SUR.",
+  "primary_symbol": "6NQ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "BIOMED-LUBLIN WYT.SUR. is a Polish biopharmaceutical company specializing in the production of vaccines, allergens, and other pharmaceutical products. The company's portfolio includes products for immunology, dermatology, and other therapeutic areas. Biomed-Lublin is located in Lublin, Poland.",
+  "website": "http://www.boabmetals.com"
+}

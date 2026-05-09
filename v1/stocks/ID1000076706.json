@@ -1,0 +1,48 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000GB4KL5",
+    "figi": "BBG000GB4PT6",
+    "isin": "ID1000076706"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "ID1000076706",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T2L.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T2L.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T2L.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "TBLA.JK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TUNAS BARU LAMPUNG RP 125",
+  "primary_symbol": "T2L.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "TUNAS BARU LAMPUNG RP 125 is an Indonesian company primarily engaged in the palm oil business. It cultivates oil palm plantations, processes crude palm oil (CPO), and produces derivative products like cooking oil and margarine. The company's operations are based in Lampung, Indonesia.",
+  "website": "http://www.tunasbarulampung.com"
+}

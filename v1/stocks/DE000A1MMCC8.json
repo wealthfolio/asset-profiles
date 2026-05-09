@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BJNVX5",
+    "figi": "BBG000BJNZ93",
+    "isin": "DE000A1MMCC8"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE000A1MMCC8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILM1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILM1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILM1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QB4.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ILM1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ILM1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ILM1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ILM1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MEDIOS AG  O.N.",
+  "primary_symbol": "ILM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Medios AG is a pharmaceutical company based in Germany that specializes in compounding and supplying specialty pharmaceuticals. They focus on providing customized medications for patients with complex medical needs, primarily through partnerships with pharmacies. Medios AG is headquartered in Berlin, Germany.",
+  "website": "http://www.medios.ag"
+}

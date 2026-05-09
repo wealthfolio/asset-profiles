@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00H66HMD1",
+    "cusip": "14070B309",
+    "figi": "BBG00H66HML2",
+    "isin": "US14070B3096"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US14070B3096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4LN2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAPR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4LN2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4LN2.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CAPRICOR THERAP.  DL-,001",
+  "primary_symbol": "4LN2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Capricor Therapeutics, Inc. is a biotechnology company focused on developing cell and gene therapies for rare diseases. The company is developing exosome-based therapeutics and cardiac cell therapies. Capricor Therapeutics is headquartered in San Diego, California.",
+  "website": "http://www.capricor.com"
+}

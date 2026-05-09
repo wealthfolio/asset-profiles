@@ -1,0 +1,39 @@
+{
+  "country": "Russian Federation",
+  "country_code": "RU",
+  "identifiers": {
+    "composite_figi": "BBG00KHGQ0H4",
+    "cusip": "42207L106",
+    "figi": "BBG00KHGQ6Y2",
+    "isin": "US42207L1061"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US42207L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HHR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HHRU.ME"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HeadHunter Group PLC",
+  "primary_symbol": "HHR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HeadHunter Group PLC, together with its subsidiaries, operates an online recruitment platform in Russia, Kazakhstan, Belarus, and internationally. The company offers employers and recruiters paid access to its curriculum vitae database and job postings platform; and job seekers and employers with a range of value-added services. It provides its services for businesses that are looking for job seekers to fill vacancies inside their organizations. The company was formerly known as Zemenik Trading Limited and changed its name to HeadHunter Group PLC in March 2018. HeadHunter Group PLC was founded in 2000 and is headquartered in Moscow, Russia.",
+  "website": "http://hh.ru"
+}

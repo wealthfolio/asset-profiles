@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BM6XQ1",
+    "figi": "BBG000BM7064",
+    "isin": "TH0003010Z12"
+  },
+  "industry_group": "Materials",
+  "isin": "TH0003010Z12",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCM1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TCM1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TCM1.SG"
+    }
+  ],
+  "name": "SIAM CEMENT PCL-FGN- BA 1",
+  "primary_symbol": "TCM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Siam Cement Public Company Limited (SCC) is Thailand's largest cement and building material company. The company's business spans chemicals, packaging, and other industrial sectors, offering a diversified portfolio. Siam Cement is headquartered in Bangkok, Thailand, and operates across Southeast Asia."
+}

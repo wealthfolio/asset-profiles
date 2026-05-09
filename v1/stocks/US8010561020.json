@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BHBTX7",
+    "cusip": "801056102",
+    "figi": "BBG000BHC504",
+    "isin": "US8010561020"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US8010561020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SANM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAYN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAYN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SAYN.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SAYN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SAYN.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Sanmina Corporation",
+  "primary_symbol": "SANM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sanmina Corporation provides integrated manufacturing solutions, components, products and repair, logistics, and after-market services worldwide. It operates in two businesses, Integrated Manufacturing Solutions; and Components, Products and Services. The company offers product design and engineering, including concept development, detailed design, prototyping, validation, preproduction, manufacturing design release, and product industrialization; manufacturing of components, subassemblies, and complete systems; high-level assembly and test services; direct order fulfillment and logistics services; after-market product service and support; and supply chain management services. It also provides interconnect systems, such as printed circuit board fabrication, backplane, cable assemblies, and plastic injection moldings; mechanical systems comprising enclosures and precision machining; memory, enterprise, radio frequency, optical, and microelectronic solutions; defense and aerospace products; and cloud-based manufacturing execution software. The company sells its products and services primarily to original equipment manufacturers that serve the industrial, medical, defense and aerospace, automotive, communications networks, and cloud solutions industries. The company was formerly known as Sanmina-SCI Corporation and changed its name to Sanmina Corporation in November 2012. Sanmina Corporation was founded in 1980 and is headquartered in San Jose, California.",
+  "website": "http://www.sanmina.com"
+}

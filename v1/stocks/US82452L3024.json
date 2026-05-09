@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "82452L302",
+    "isin": "US82452L3024"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US82452L3024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PIXY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "19U1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ShiftPixy, Inc.",
+  "primary_symbol": "PIXY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ShiftPixy, Inc. provides staffing services in the United States. It offers employment administrative services, such as administrative and processing services, payroll processor, human resources consultant, and administrator of workers' compensation coverages and claims. The Company also operates human resources information systems platform to assist in customer acquisition for the onboarding of new clients into the company's closed proprietary operating and processing information system. It primarily serves restaurant and hospitality service industries. The company was founded in 2015 and is headquartered in Miami, Florida.",
+  "website": "http://www.shiftpixy.com"
+}

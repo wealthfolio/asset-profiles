@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00L4CWQ45",
+    "cusip": "654110105",
+    "isin": "US6541101050"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "US6541101050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6541101050.SG"
+    }
+  ],
+  "name": "NIKOLA CORP",
+  "primary_symbol": "US6541101050.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "NIKOLA CORP is a company focused on designing and manufacturing zero-emission vehicles and energy solutions. Headquartered in Phoenix, Arizona, they aim to provide battery-electric and hydrogen fuel-cell electric vehicles, energy storage systems, and hydrogen production/dispensing infrastructure. Their business model focuses on creating a sustainable transportation ecosystem."
+}

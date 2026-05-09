@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SQID.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SQID Technologies Limited",
+  "primary_symbol": "SQID.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SQID Technologies Limited, a payment processor, engages in the processing of credit card payments and direct debits on behalf of Australian e-commerce merchants and related businesses. It provides merchant services and transaction processing to business merchants, e-commerce platforms, charities, and community organizations in Australia. The company was incorporated in 2006 and is based in Melbourne, Australia.",
+  "website": "http://www.sqidpayments.com.au"
+}

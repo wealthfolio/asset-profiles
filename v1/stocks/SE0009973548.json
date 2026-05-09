@@ -1,0 +1,76 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0009973548"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Transportation",
+  "isin": "SE0009973548",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GHX.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLMOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCL.MU"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "CLIME-B.ST"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DCL.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "DCL.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DCL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DCL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0009973548.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CLIMEON AB (PUBL) CLIMEON ORD S",
+  "primary_symbol": "0GHX.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Climeon AB (publ) is a Swedish clean-tech company that has developed a technology that converts low-temperature heat into electricity. The company's Heat Power technology can be used in various industries including geothermal, waste heat recovery, and industrial processes. Climeon is headquartered in Kista, Sweden.",
+  "website": "http://www.climeon.com"
+}

@@ -1,0 +1,101 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "isin": "ZAE000043485"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "ZAE000043485",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AOD1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AOD1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AULGF"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "A1UA34.SA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AGG.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "ANG.BO"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ANG.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ANG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AOD.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AOD1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AOD1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AOD1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AODC.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ALLEGHANY CORP.  DL 1",
+  "primary_symbol": "AGA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Anglogold Ashanti represents ordinary shares of AngloGold Ashanti Limited. AngloGold Ashanti Limited is a global gold mining company. It explores for, mines, and processes gold ore.",
+  "website": "http://www.anglogoldashanti.com"
+}

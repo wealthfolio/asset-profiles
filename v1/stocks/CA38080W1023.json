@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000RCC820",
+    "figi": "BBG000RCCBJ5",
+    "isin": "CA38080W1023"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38080W1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G6A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G6A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GARWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G6A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G6A.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GRG.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GOLDEN ARROW RES.CORP.",
+  "primary_symbol": "G6A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Golden Arrow Resources Corporation, a natural resource company, engages in the identification, acquisition, exploration, development, and advancing of precious and base metal projects in South America. The company explores for gold, silver, zinc, and copper deposits. It has an option agreement to acquire 100% interest in the Flecha de Oro Gold project; Caballos Copper-Gold project located in Rio Negro, Argentina; and Tierra Dorada project located in Paraguay. The company holds a 100% interest in the Rosales Copper project covering an area of 800 hectares located in the Atacama Region, Chile. Golden Arrow Resources Corporation was incorporated in 2015 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.goldenarrowresources.com"
+}

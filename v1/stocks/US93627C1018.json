@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GD1JMV4",
+    "cusip": "93627C101",
+    "figi": "BBG00GD1JMY1",
+    "isin": "US93627C1018"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US93627C1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HCC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WJ4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WJ4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WJ4.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Warrior Met Coal, Inc.",
+  "primary_symbol": "HCC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Warrior Met Coal, Inc. produces and exports non-thermal metallurgical coal for the steel industry. It operates two underground mines located in Alabama. The company sells its metallurgical coal to a customer base of blast furnace steel producers located primarily in Europe, South America, and Asia. It also sells natural gas, which is extracted as a byproduct from coal production. Warrior Met Coal, Inc. was founded in 2015 and is headquartered in Brookwood, Alabama.",
+  "website": "http://warriormetcoal.com"
+}

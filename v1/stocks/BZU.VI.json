@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00HVY3205",
+    "figi": "BBG00HVY3214"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "BZU.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Buzzi Unicem S.p.A.",
+  "primary_symbol": "BZU.VI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Buzzi Unicem S.p.A., together with its subsidiaries, manufactures, distributes, and sells cement, ready-mix concrete, and natural aggregates. It offers construction hydraulic binders for making plasters and masonry works on site. The company has operations in Italy, the United States, Germany, Luxembourg, the Netherlands, Poland, the Czech Republic, Slovakia, Ukraine, Russia, Mexico, and Brazil. Buzzi Unicem S.p.A. was founded in 1907 and is based in Casale Monferrato, Italy.",
+  "website": "http://www.buzziunicem.it"
+}

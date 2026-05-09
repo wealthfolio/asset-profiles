@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BDQ1X1",
+    "figi": "BBG000BDQ4D7",
+    "isin": "DE000A255G02"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A255G02",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H2O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H2O.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H2O.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A255G02.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "H2O.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "H2O.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ENAPTER AG  INH O.N.",
+  "primary_symbol": "H2O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Enapter AG is a German company that manufactures and sells highly efficient AEM (Anion Exchange Membrane) electrolyzers for producing green hydrogen. Their modular systems are used for on-site hydrogen production from renewable energy sources. Enapter AG is headquartered in Saerbeck, Germany.",
+  "website": "http://www.enapterag.de"
+}

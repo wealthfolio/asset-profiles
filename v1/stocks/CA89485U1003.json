@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA89485U1003"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA89485U1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVTQF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "33H2.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TMC.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "TMC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Trench Metals Corp.",
+  "primary_symbol": "NVTQF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Trench Metals Corp. engages in the exploration of mineral properties in Canada. It holds an option to acquire a 100% interest in the Gorilla Lake uranium project located in the Athabasca basin of Northern Saskatchewan. The company was formerly known as Trench Solutions Inc. and changed its name to Trench Metals Corp. in November 2020. Trench Metals Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://trenchmetals.com"
+}

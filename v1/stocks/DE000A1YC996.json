@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00GFRDC70",
+    "figi": "BBG00GFS3W02",
+    "isin": "DE000A1YC996"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "DE000A1YC996",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PU11.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PU11.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PU11.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PU11.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PU11.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "THE SOCIAL CHAIN AG NA ON",
+  "primary_symbol": "PU11.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "The Social Chain AG provides social media marketing services worldwide. The company engages in the development, creation, and scaling of social media brands. It offers consultancy, content production, data and insights, media sales, and influencer marketing services; and social media agency, digital marketing, and talent management services. The company was founded in 2014 and is headquartered in Berlin, Germany.",
+  "website": "http://www.socialchain.de"
+}

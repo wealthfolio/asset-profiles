@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00T66C921",
+    "cusip": "78396V109",
+    "figi": "BBG00T66C985",
+    "isin": "US78396V1098"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US78396V1098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4R8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4R8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WORX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4R8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US78396V1098.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SCWORK CORP.  DL-,01",
+  "primary_symbol": "4R8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SCWorx Corp. provides software solutions for the management of health care providers' foundational business applications in the United States. The company provides services related to repair, normalization, and interoperability of information, as well as big data analytics model that provides Web portal for display, and reporting and analysis of the information contained within the data warehouse. It also offers various software solutions and services, such as virtualized item master file repair, expansion, and automation; electronic medical record management, a module that integrates the advanced data attributes created in the item master to the electronic medical records; charge description master management(CDM), a module, which assists healthcare providers by integrating the CDM data into the workflow of the hospitals purchasing systems; contract management, a module that assists healthcare providers to establish a contract management system and to provide care to patients; request for proposal automation solution; rebate management; ScanWorx, a mobile perioperative closed loop scanning solution; and data integration and warehousing, as well as solutions for integration of acquired businesses, which enable deployment of a virtual item master files. The company sells its solutions and services to hospitals and health systems through its distribution and reseller partnerships. In addition, it provides CageTix, a ticketing platform for mixed martial arts industry. Further, the company focuses on selling rapid test kits for COVID-19; and personal protective equipment. SCWorx Corp. is based in New York, New York.",
+  "website": "http://www.scworx.com"
+}

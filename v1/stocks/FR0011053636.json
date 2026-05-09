@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00M0GDMR3",
+    "figi": "BBG00M0GDMY5",
+    "isin": "FR0011053636"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0011053636",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BC7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BC7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALTBG.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BC7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BC7.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BLOCKCHAIN GRP SA  EO-,04",
+  "primary_symbol": "BC7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Blockchain Group SA is a technology company focused on blockchain solutions. The company develops and implements blockchain applications for various industries.",
+  "website": "http://theblockchain-group.com"
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA38063G2071"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38063G2071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLLZF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GLDL.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Gold Line Resources Ltd.",
+  "primary_symbol": "TLLZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Gold Line Resources Ltd. focuses on acquiring gold projects in Sweden. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.goldlineresources.com"
+}

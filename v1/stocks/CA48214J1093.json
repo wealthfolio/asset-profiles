@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0104LT7C7",
+    "figi": "BBG0104LT7K8",
+    "isin": "CA48214J1093"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Retailing",
+  "isin": "CA48214J1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "68Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "68Z.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA48214J1093.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "JK.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JUST KITCHEN HLDGS CORP.",
+  "primary_symbol": "68Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "JUST KITCHEN HLDGS CORP. is a ghost kitchen operator that provides infrastructure and services to food businesses. The company operates a network of shared commercial kitchens, enabling restaurants and food brands to expand their delivery operations without the expense of opening traditional brick-and-mortar locations. Just Kitchen is headquartered in Taiwan.",
+  "website": "http://investors.justkitchen.com"
+}

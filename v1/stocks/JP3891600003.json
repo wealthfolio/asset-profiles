@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C25SG7",
+    "figi": "BBG000C25VR8",
+    "isin": "JP3891600003"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3891600003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MU1.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MU1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MU1.SG"
+    }
+  ],
+  "name": "MITSUI E+S HLDGS CO. LTD.",
+  "primary_symbol": "MU1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mitsui E+S Holdings Co., Ltd. is a Japanese company involved in the manufacturing of machinery, engines, and steel structures. They operate through various segments including energy solutions, social infrastructure, and marine machinery and systems. The company is headquartered in Tokyo, Japan."
+}

@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005D7PF34",
+    "cusip": "15677J108",
+    "isin": "US15677J1088"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US15677J1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US15677J1088.SG"
+    }
+  ],
+  "name": "CERIDIAN HCM HOLDING INC",
+  "primary_symbol": "US15677J1088.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CERIDIAN HCM HOLDING INC provides human capital management (HCM) software and services. Located in Minneapolis, Minnesota, the company's platform, Dayforce, offers solutions for payroll, benefits, workforce management, and talent management. Ceridian aims to help organizations optimize their workforce and improve employee engagement."
+}

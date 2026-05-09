@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G5I.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Paref SA",
+  "primary_symbol": "G5I.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Paref SA owns and manages business real estate located primarily in the Paris region. The company manages and leases real estate, offices and commercial spaces, and residences. The company also provides real estate agency services. The company was founded in 1997 and is based in Paris, France.",
+  "website": "http://www.paref.com"
+}

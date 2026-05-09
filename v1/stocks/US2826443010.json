@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0073GFG30",
+    "cusip": "282644301",
+    "figi": "BBG0073GFG94",
+    "isin": "US2826443010"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US2826443010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "23E2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "23E2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EKSO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IFR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "23E2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US2826443010.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EKSO BIONICS HLDGS DL-001",
+  "primary_symbol": "23E2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Ekso Bionics Holdings, Inc. designs, develops, and markets exoskeletons that augment human strength and endurance. They offer exoskeletons for industrial and medical applications, assisting individuals with mobility impairments and enhancing worker performance. The company is headquartered in Richmond, California.",
+  "website": "http://www.eksobionics.com"
+}

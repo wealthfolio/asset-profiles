@@ -1,0 +1,67 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "cusip": "631512209",
+    "isin": "US6315122092"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US6315122092",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAPRF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNWN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPSN.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPSNY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NNW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NNWN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NNWN.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "NPN.JO"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Naspers Limited",
+  "primary_symbol": "NAPRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Naspers Limited operates in consumer internet industry worldwide. The company builds various companies that empower people and enrich communities. It holds investments in classifieds, food delivery, payments and fintech, education, health, and ecommerce, as well as ventures, and social and internet platforms. The company also prints, publishes, and distributes newspapers, magazines, and books through digital platforms. Naspers Limited was founded in 1915 and is headquartered in Cape Town, South Africa.",
+  "website": "http://www.naspers.com"
+}

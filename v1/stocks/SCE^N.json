@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCE^N"
+    }
+  ],
+  "name": "SCE Trust VIII 6.95% Trust Preference Securities",
+  "primary_symbol": "SCE^N",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SCE Trust VIII is a trust associated with Southern California Edison (SCE). It issued 6.95% Trust Preference Securities. These securities represent ownership in the trust, which in turn holds debt from SCE."
+}

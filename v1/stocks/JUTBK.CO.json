@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "JUTBK.CO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Jutlander Bank A/S",
+  "primary_symbol": "JUTBK.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Jutlander Bank A/S provides various banking products and services in Denmark. The company offers housing finance, leasing, investment, pension, and insurance products, as well as net and mobile banking services. It also provides cash management and international trade services. The company is based in Aars, Denmark.",
+  "website": "http://www.jutlander.dk"
+}

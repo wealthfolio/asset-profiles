@@ -1,0 +1,53 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG000BQJQG4",
+    "figi": "BBG000BQJT96",
+    "isin": "IE00BLP58571"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "IE00BLP58571",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IR5B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IRCUF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ICGC.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "IR5B.IR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IR5B.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "IRISH CONTINENTAL GRP UTS",
+  "primary_symbol": "IR5B.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Irish Continental Group plc operates as a shipping, transport, and leisure company. It operates in two segments, Ferries, and Container and Terminal. The Ferries segment engages in the provision of passenger and roll on roll off freight shipping, and container lift on lift off freight services on routes between Ireland, the United Kingdom, and Continental Europe. The Container and Terminal segment provides door-to-door and feeder lift on lift off freight services, stevedoring, and other related terminal services in the ports of Dublin and Belfast. The company also provides ship chartering, shipping and forwarding agency, ship leasing, and administration services. Irish Continental Group plc was founded in 1972 and is based in Dublin, Ireland.",
+  "website": "http://www.icg.ie"
+}

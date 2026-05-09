@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SBANKO.OL"
+    }
+  ],
+  "name": "Sbanken ASA",
+  "primary_symbol": "SBANKO.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sbanken ASA is a Norwegian digital bank offering retail banking services. They provide services such as savings accounts, loans, and investment products through an online platform. Sbanken is headquartered in Bergen, Norway."
+}

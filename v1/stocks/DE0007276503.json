@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BLQMV9",
+    "figi": "BBG000BLQQJ4",
+    "isin": "DE0007276503"
+  },
+  "industry_group": "Software & Services",
+  "isin": "DE0007276503",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSN.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0007276503.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "YSN.DU"
+    }
+  ],
+  "name": "SECUNET SECURITY AG O.N.",
+  "primary_symbol": "YSN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Secunet Security AG provides IT security solutions and services. The company specializes in encryption, border security, and e-government applications. The company is headquartered in Essen, Germany."
+}

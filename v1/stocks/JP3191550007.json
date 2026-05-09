@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00WMMF9X4",
+    "figi": "BBG00WMMFB23",
+    "isin": "JP3191550007"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "JP3191550007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OH5.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8705.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OH5.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "OKATO NISSAN SEC. HLDGS",
+  "primary_symbol": "OH5.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Okato Nissan Secs HoldingsInc. engages in commodity futures trading brokerage, financial instruments brokerage, and precious metal sales businesses. It is also involved in the financial product intermediary, insurance agency, and real estate consulting business. The company was founded in 1951 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.okatonissansec-holdings.co.jp"
+}

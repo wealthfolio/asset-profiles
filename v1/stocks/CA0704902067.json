@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG001P1BBL7",
+    "figi": "BBG001P1BBS0",
+    "isin": "CA0704902067"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "CA0704902067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0BT1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BCCEF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0BT1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BAC.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BACTECH ENVIRONMENT.CORP.",
+  "primary_symbol": "0BT1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BacTech Environmental Corporation operates as an environmental technology company. It develops and commercializes BACOX, a proprietary bioleaching technology for the reclamation of mine tailings. The company's technology utilizes bacteria to extract precious and base metals, as well as to treat difficult-to-treat sulphide ores and concentrates. It holds a 100% interest in the Ecuador project. The company was incorporated in 2010 and is headquartered in Toronto, Canada.",
+  "website": "http://www.bactechgreen.com"
+}

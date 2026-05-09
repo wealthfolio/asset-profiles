@@ -1,0 +1,31 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG000DBNN31",
+    "figi": "BBG000DBNNQ6"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "INTRUM.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Intrum AB (publ)",
+  "primary_symbol": "INTRUM.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Intrum AB (publ), together with its subsidiaries, provides credit management and financial services in Europe and internationally. The company offers credit optimization services, including credit monitoring, credit decision, factoring, and credit information services; and debt collection, surveillance, and purchase services. It also provides payment services, such as reminder, payment guarantee, and VAT services; e-commerce services comprising credit management, payment solutions, and collection services; and accounts receivables services that include invoicing, payment booking, monitoring of due dates, reminder, and collection services; and factoring and portfolio investments. The company was formerly known as Intrum Justitia AB (publ). Intrum AB (publ) was founded in 1923 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.intrum.com"
+}

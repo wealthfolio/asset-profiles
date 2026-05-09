@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0037QYTX1",
+    "cusip": "33829M101",
+    "figi": "BBG0037QYV39",
+    "isin": "US33829M1018"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US33829M1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6F1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6F1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FIVE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FIVE.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FIVE.ME"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IPD.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6F1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6F1.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FIVE.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FIVE.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "FIVE BELOW INC.  DL -,01",
+  "primary_symbol": "6F1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Five Below, Inc. is a discount retailer that offers trend-right, high-quality products targeted towards teens and tweens. The company's products are priced at $5 or below and include items such as fashion accessories, sporting goods, and home décor. It is headquartered in Philadelphia, Pennsylvania.",
+  "website": "http://www.fivebelow.com"
+}

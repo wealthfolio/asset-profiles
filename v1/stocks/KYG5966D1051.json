@@ -1,0 +1,58 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00FJV8BP7",
+    "figi": "BBG00FJV8BW9",
+    "isin": "KYG5966D1051"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "KYG5966D1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M5U.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M5U.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEIUF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1357.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M5U.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M5U.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MEITU INC.  DL-,00001",
+  "primary_symbol": "M5U.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Meitu Inc. is a China-based technology company primarily known for its photo editing and social media applications. The company's business model focuses on providing users with tools and platforms for creating and sharing visually appealing content, generating revenue through advertising, in-app purchases, and other value-added services. Meitu is headquartered in Xiamen, China",
+  "website": "http://www.meitu.com"
+}

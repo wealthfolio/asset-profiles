@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SFAST.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Stenhus Fastigheter i Norden AB (publ)",
+  "primary_symbol": "SFAST.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Stenhus Fastigheter i Norden AB (publ), a real estate company, owns and manages public and commercial properties in the Greater Stockholm region of Sweden. The company was incorporated in 2020 and is based in Stockholm, Sweden.",
+  "website": "http://www.stenhusfastigheter.se"
+}

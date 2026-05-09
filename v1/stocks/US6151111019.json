@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005Q29TZ4",
+    "cusip": "615111101",
+    "figi": "BBG00VSYV8C1",
+    "isin": "US6151111019"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "US6151111019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MEG.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MEG.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Montrose Environmental Group, Inc.",
+  "primary_symbol": "MEG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Montrose Environmental Group, Inc. operates as an environmental services company in the United States. The company operates in three segments: Assessment, Permitting and Response; Measurement and Analysis; and Remediation and Reuse. The Assessment, Permitting and Response segment provides scientific advisory and consulting services to support environmental assessments, environmental emergency response and recovery, toxicology consulting and environmental audits and permits for current operations, facility upgrades, new projects, decommissioning projects, and development projects. Its technical advisory and consulting services include regulatory compliance support and planning, environmental, and ecosystem and toxicological assessments and support during responses to environmental disruptions. The Measurement and Analysis segment tests and analyzes air, water, and soil to determine concentrations of contaminants, as well as the toxicological impact of contaminants on flora, fauna, and human health. Its services include source and ambient air testing and monitoring, leak detection, and advanced analytical laboratory services, such as air, storm water, wastewater, and drinking water analysis. The Remediation and Reuse segment provides engineering, design, implementation, and operations and maintenance services primarily to treat contaminated water, remove contaminants from soil, or create biogas from waste. It serves oil and gas, utilities, construction, midstream energy, commodities, petrochemical, and tobacco industries, as well as local, state, provincial, and federal government entities. The company was founded in 2012 and is headquartered in Irvine, California.",
+  "website": "http://www.montrose-env.com"
+}

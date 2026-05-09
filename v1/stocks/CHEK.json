@@ -1,0 +1,27 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHEK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Check-Cap Ltd.",
+  "primary_symbol": "CHEK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Check-Cap Ltd., a clinical stage medical diagnostics company, engages in the development of a capsule-based system that utilizes low-dose X-rays to scan the inner lining of the colon for precancerous polyps, and other structural abnormalities in Israel. Its C-Scan system consists of C-Scan Cap, an X-ray scanning capsule, which is designed to measure, collect, and transmit structural information; C-Scan Track, a disposable system attached to the patient's back via biocompatible adhesive skin patches; and C-Scan View software, a client/server-based application that enables procedure data download from the C-Scan Track, data analysis and report generation. The company was founded in 2004 and is based in Isfiya, Israel.",
+  "website": "http://www.check-cap.com"
+}

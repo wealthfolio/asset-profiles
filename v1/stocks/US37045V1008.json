@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000NDYB67",
+    "cusip": "37045V100",
+    "figi": "BBG0014WFHK6",
+    "isin": "US37045V1008"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US37045V1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GM"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "GM.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "GMCO34.SA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GMN.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "GMOT.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "General Motors Company",
+  "primary_symbol": "GM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "General Motors Company designs, builds, and sells cars, trucks, crossovers, and automobile parts worldwide. The company operates through GM North America, GM International, Cruise, and GM Financial segments. It markets its vehicles primarily under the Buick, Cadillac, Chevrolet, GMC, Holden, Baojun, and Wuling brand names. The company also sells trucks, crossovers, and cars to dealers for consumer retail sales, as well as to fleet customers, including daily rental car companies, commercial fleet customers, leasing companies, and governments. In addition, it offers safety and security services for retail and fleet customers, including automatic crash response, emergency services, roadside assistance, crisis assist, stolen vehicle assistance, and turn-by-turn navigation, as well as connected services comprising mobile applications for owners to remotely control their vehicles and electric vehicle owners to locate charging stations, on-demand vehicle diagnostics, smart driver, marketplace in-vehicle commerce, connected navigation, SiriusXM with 360L, and 4G LTE wireless connectivity. Further, the company provides automotive financing services; and operates an online store. General Motors Company was founded in 1908 and is headquartered in Detroit, Michigan.",
+  "website": "http://www.gm.com"
+}

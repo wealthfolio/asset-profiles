@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG004ZBF617",
+    "cusip": "35138V102",
+    "figi": "BBG004ZBF6C5",
+    "isin": "US35138V1026"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US35138V1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FF0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FF0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FF0.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FOX FACTORY HLDG  DL-,001",
+  "primary_symbol": "FF0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Fox Factory Holding Corp. designs, engineers, manufactures, and markets performance riding products and systems worldwide. The company provides suspension products, including front fork and rear suspension systems, for mountain bikes, motorcycles, and other vehicles. Fox Factory is headquartered in Braselton, Georgia.",
+  "website": "http://www.ridefox.com"
+}

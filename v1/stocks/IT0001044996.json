@@ -1,0 +1,41 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0001044996"
+  },
+  "industry": "Banks",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0001044996",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RTI.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1DB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "DOV.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DOBANK SPA DOBANK ORD SHS",
+  "primary_symbol": "0RTI.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "DOBANK SPA is an Italian servicer of non-performing loans (NPLs). The company manages and recovers debt for banks and other financial institutions. DOBANK SPA is headquartered in Verona, Italy.",
+  "website": "http://www.dovalue.it"
+}

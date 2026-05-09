@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORGN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Origin Materials Inc. Common Stock",
+  "primary_symbol": "ORGN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Origin Materials Inc. is a carbon negative materials company transforming the production of basic chemicals and materials. They use wood residues to create sustainable versions of chemicals used in plastics, textiles, and other products. Origin Materials is headquartered in West Sacramento, California."
+}

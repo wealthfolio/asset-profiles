@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "67073S307",
+    "isin": "US67073S3076"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US67073S3076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NUZE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5UQ.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NuZee, Inc.",
+  "primary_symbol": "NUZE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "NuZee, Inc., a specialty coffee company, engages in the manufacture, packing, and sale of single serve coffee and tea bag-style coffee for coffee roasters, store brands, and coffee brands in North America, Japan, Latin America, and South Korea. The company provides its products under Barista, Twin Peaks, and Pine Ranch brands. It serves retail and grocery customers, office, and hospitality sectors. NuZee, Inc. was founded in 2011 and is headquartered in Plano, Texas.",
+  "website": "http://www.mynuzee.com"
+}

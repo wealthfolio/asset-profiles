@@ -1,0 +1,58 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000Q29LK8",
+    "figi": "BBG000Q29PC8",
+    "isin": "KYG8569A1067"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG8569A1067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCNR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCNR.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1918.HK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SCNR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SCNR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SCNR.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SUNAC CHINA REG.S HD -,01",
+  "primary_symbol": "SCNR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Sunac China Holdings Ltd. is a real estate developer in China. The company focuses on the development and sales of residential and commercial properties. It is headquartered in Tianjin, China.",
+  "website": "http://www.sunac.com.cn"
+}

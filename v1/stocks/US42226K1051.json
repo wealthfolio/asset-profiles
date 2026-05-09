@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PRJCX9",
+    "cusip": "42226K105",
+    "figi": "BBG002ZSJC99",
+    "isin": "US42226K1051"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US42226K1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HR6.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Healthcare Realty Trust Incorporated",
+  "primary_symbol": "HR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Healthcare Realty Trust is a real estate investment trust that integrates owning, managing, financing and developing income-producing real estate properties associated primarily with the delivery of outpatient healthcare services throughout the United States. As of September 30, 2020, the Company owned 211 real estate properties in 24 states totaling 15.5 million square feet and was valued at approximately $5.5 billion. The Company provided leasing and property management services to 11.9 million square feet nationwide.",
+  "website": "http://www.healthcarerealty.com"
+}

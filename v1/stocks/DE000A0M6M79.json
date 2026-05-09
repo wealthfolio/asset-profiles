@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PRWNG9",
+    "isin": "DE000A0M6M79"
+  },
+  "isin": "DE000A0M6M79",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE000A0M6M79.SW"
+    }
+  ],
+  "name": "ASIAN BAMBOO AG-BR",
+  "primary_symbol": "DE000A0M6M79.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

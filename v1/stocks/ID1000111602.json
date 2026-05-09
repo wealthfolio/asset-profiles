@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "ID1000111602"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "ID1000111602",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGAS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGB1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGB1.MU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Petrogress, Inc.",
+  "primary_symbol": "PGAS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Petrogress, Inc., through its subsidiaries, operates as an integrated merchant of petroleum products. The company operates through Upstream, Downstream, and Midstream segments. The Upstream segment in engaged in exploration, and production of crude oil in West Africa. It supplies and trades in light petroleum fuel oil, refined oil products, and other petrochemical products to local refineries in West Africa and Mediterranean countries. Petrogress, Inc. was founded in 2009 is based in Wilmington, Delaware.",
+  "website": "http://www.petrogressinc.com"
+}

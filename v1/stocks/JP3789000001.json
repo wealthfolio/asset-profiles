@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C1VXM2",
+    "figi": "BBG000C1W178",
+    "isin": "JP3789000001"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "JP3789000001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HZS.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7004.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HZS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HZS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JP3789000001.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HITACHI ZOSEN CORP.",
+  "primary_symbol": "HZS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hitachi Zosen Corporation is a Japanese industrial and engineering company that manufactures a range of products, including environmental systems, industrial machinery, infrastructure-related equipment, and precision machinery. The company also engages in shipbuilding and plant construction. Hitachi Zosen is headquartered in Osaka, Japan.",
+  "website": "http://www.hitachizosen.co.jp"
+}

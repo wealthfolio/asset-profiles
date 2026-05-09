@@ -1,0 +1,53 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG007JV6SQ9",
+    "figi": "BBG007JV6SX1",
+    "isin": "CA66979W8429"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Materials",
+  "isin": "CA66979W8429",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NM9A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NM9A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA66979W8429.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NM9A.DU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "NMG.BK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NOUVEAU MONDE GRAPHITE",
+  "primary_symbol": "NM9A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nouveau Monde Graphite Inc. is focused on developing a fully integrated source of green battery anode material in North America. They are working on the Matawinie graphite mine and Bécancour battery material plant. The company is committed to high environmental, social, and governance standards.",
+  "website": "http://www.nationgroup.com"
+}

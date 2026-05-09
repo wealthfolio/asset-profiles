@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DNB9Q4",
+    "cusip": "66405S100",
+    "isin": "US66405S1006"
+  },
+  "industry_group": "Banks",
+  "isin": "US66405S1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US66405S1006.SG"
+    }
+  ],
+  "name": "NORTHEAST BANK",
+  "primary_symbol": "US66405S1006.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "NORTHEAST BANK is a financial institution offering a range of banking products and services to individuals and businesses. Headquartered in Lewiston, Maine, the bank provides deposit accounts, loans, and other financial solutions, with a focus on community banking. The company also operates a nationwide lending division."
+}

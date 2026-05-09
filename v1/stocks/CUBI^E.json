@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CUBI^E"
+    }
+  ],
+  "name": "Customers Bancorp Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series E",
+  "primary_symbol": "CUBI^E",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Customers Bancorp Inc Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series E represents a series of preferred stock issued by Customers Bancorp, a bank holding company. These preferred shares pay a dividend that is initially fixed and then floats at a spread over a benchmark rate. Customers Bancorp is based in Pennsylvania."
+}

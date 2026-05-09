@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001BHNBB5",
+    "cusip": "553530106",
+    "figi": "BBG001BHNBK5",
+    "isin": "US5535301064"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US5535301064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "98M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "98M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSM"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MSC INDUSTR. DIRE.DL-,001",
+  "primary_symbol": "98M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MSC Industrial Direct Co., Inc. is a distributor of metalworking and maintenance, repair, and operations (MRO) products and services to industrial customers throughout North America. The company offers a comprehensive range of cutting tools, measuring instruments, tooling components, metalworking equipment, and MRO supplies. MSC Industrial Direct is headquartered in Melville, New York, and provides its products and services through catalogs, websites, and a direct sales force.",
+  "website": "http://www.mscdirect.com"
+}

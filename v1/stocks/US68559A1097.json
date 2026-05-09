@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GK9KP6",
+    "cusip": "68559A109",
+    "figi": "BBG000GKBQY0",
+    "isin": "US68559A1097"
+  },
+  "industry_group": "Energy",
+  "isin": "US68559A1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIJ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CIJ.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "OIG.L"
+    }
+  ],
+  "name": "ORBITAL ENERGY GRP DL-001",
+  "primary_symbol": "CIJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "ORBITAL ENERGY GRP DL-001 is an energy company focused on developing and commercializing clean energy technologies. The company develops projects in renewable energy. Orbital Energy Group is based in Houston, Texas."
+}

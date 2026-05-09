@@ -1,0 +1,62 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "651191108",
+    "isin": "US6511911082"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US6511911082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCMGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCMGY"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NCM.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NCM.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NMA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NMAA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NMAA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Newcrest Mining Limited",
+  "primary_symbol": "NCMGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Newcrest Mining Limited, together with its subsidiaries, engages in the exploration, mine development, mine operation, and sale of gold and gold/copper concentrates. It is also involved in the exploration of silver deposits. The company primarily owns and operates mines and projects located in Cadia and Telfer, Australia; and Lihir, Papua New Guinea. It also holds 70% interest in the Red Chris mine project located in British Columbia, Canada. Newcrest Mining Limited was founded in 1966 and is headquartered in Melbourne, Australia.",
+  "website": "http://www.newcrest.com"
+}

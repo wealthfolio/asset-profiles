@@ -1,0 +1,68 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BXVJR9",
+    "figi": "BBG000BXVLX7",
+    "isin": "JP3240400006"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3240400006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIKOF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2801.T"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2801.TW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KIK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KIK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KIK.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "KIKKOMAN CORP.",
+  "primary_symbol": "KIK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Kikkoman Corporation is a Japanese food manufacturer best known for its soy sauce. The company produces and sells a variety of food products, including soy sauce, seasonings, sauces, and Asian food products. Kikkoman is headquartered in Tokyo, Japan.",
+  "website": "http://www.kikkoman.com"
+}

@@ -1,0 +1,25 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETOR"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "eToro Group Ltd. Class A Common Shares",
+  "primary_symbol": "ETOR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials"
+}

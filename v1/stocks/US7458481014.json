@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XNQDD47",
+    "cusip": "745848101",
+    "figi": "BBG00XNQDDB9",
+    "isin": "US7458481014"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US7458481014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4NI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4NI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUNG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4NI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US7458481014.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PULMONX CORP.  DL-,001",
+  "primary_symbol": "4NI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pulmonx Corporation is a medical technology company that provides devices for the treatment of severe emphysema. The company's Zephyr Valve is a minimally invasive device used to improve breathing in patients with severe COPD. Pulmonx is headquartered in Redwood City, California.",
+  "website": "http://pulmonx.com"
+}

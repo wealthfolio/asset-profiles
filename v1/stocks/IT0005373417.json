@@ -1,0 +1,38 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00Z842DV0",
+    "figi": "BBG00Z842DW9",
+    "isin": "IT0005373417"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "IT0005373417",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1EP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ELES.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ELES Semiconductor Equipment S.p.A.",
+  "primary_symbol": "1EP.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ELES Semiconductor Equipment S.p.A. designs, manufactures, and sells test equipment, fixtures, solutions, and services for the semiconductor industry in Italy. It serves customers in automotive, defence, aerospace, industrial, IoT, and communication, as well as electronic control unit, electronic module, and system markets. The company was founded in 1988 and is headquartered in Todi, Italy.",
+  "website": "http://www.eles.com"
+}

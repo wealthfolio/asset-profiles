@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGMFF"
+    }
+  ],
+  "name": "iPath Bloomberg Platinum Subindex Total Return(SM) ETN",
+  "primary_symbol": "PGMFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "The iPath Bloomberg Platinum Subindex Total Return ETN was an exchange-traded note designed to track the performance of a subindex representing platinum futures contracts. It provided investors with exposure to the platinum market through a debt instrument. This ETN has been delisted."
+}

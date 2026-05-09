@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000W21BN8",
+    "cusip": "46269C102",
+    "figi": "BBG000W21DC6",
+    "isin": "US46269C1027"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US46269C1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6IC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IRDM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JDO.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6IC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6IC.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IRIDIUM COMCTNS DL-,001",
+  "primary_symbol": "6IC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Iridium Communications Inc. provides mobile voice and data communications services through its satellite network, offering coverage to the entire globe, including areas not served by terrestrial networks, and is headquartered in McLean, Virginia.",
+  "website": "http://www.iridium.com"
+}

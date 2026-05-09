@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001QHWWT4",
+    "cusip": "848577102",
+    "figi": "BBG001QHWX03",
+    "isin": "US8485771021"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US8485771021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S64.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S64.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAVE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "S64.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "S64.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S64.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S64.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SPIRIT AIRLINES  DL-,0001",
+  "primary_symbol": "S64.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Spirit Airlines, Inc. is an ultra-low-cost carrier that provides air transportation for passengers throughout the United States, Latin America, and the Caribbean. The airline focuses on offering unbundled fares and optional services for a budget-conscious customer base. Spirit Airlines is headquartered in Miramar, Florida.",
+  "website": "http://www.spirit.com"
+}

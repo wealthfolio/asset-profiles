@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PJZYM3",
+    "cusip": "448579102",
+    "figi": "BBG000PK12W6",
+    "isin": "US4485791028"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US4485791028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1HTA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1HTA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1HTA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1HTA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "HYATT HOTELS CL. A DL-,01",
+  "primary_symbol": "1HTA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Hyatt Hotels Corporation operates as a global hospitality company, managing, franchising, owning, and developing a portfolio of hotel, resort, and residential properties. Headquartered in Chicago, Illinois, the company offers a variety of brands catering to different market segments. TICKER: Hyatt Hotels Corporation operates globally in the hospitality industry, managing, franchising, owning, and developing a diverse portfolio of hotel, resort, and residential properties.",
+  "website": "http://www.hyatt.com"
+}

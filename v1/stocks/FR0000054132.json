@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000GB78T1",
+    "figi": "BBG000GB7H48",
+    "isin": "FR0000054132"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "FR0000054132",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HBS.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALDEL.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DELFINGEN IND.INH.EO 1,53",
+  "primary_symbol": "HBS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "DELFINGEN Industry SA is a global manufacturer of protection and fluid transfer solutions for the automotive, aerospace, and other industries. The company develops and produces tubing, wiring harnesses, and technical textile solutions. DELFINGEN is headquartered in Anteuil, France.",
+  "website": "http://www.delfingen.com"
+}

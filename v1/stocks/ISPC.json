@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISPC"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "iSpecimen Inc. Common Stock",
+  "primary_symbol": "ISPC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "iSpecimen Inc. provides a marketplace for human biospecimens, connecting researchers with a network of healthcare providers. The company facilitates the sourcing of various biospecimens, such as blood, tissue, and cells, to support medical research and development. iSpecimen is headquartered in Lexington, Massachusetts."
+}

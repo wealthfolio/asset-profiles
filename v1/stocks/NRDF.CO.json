@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "NRDF.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Nordfyns Bank A/S",
+  "primary_symbol": "NRDF.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Nordfyns Bank A/S provides banking and related financial products to individuals, and small and medium-sized businesses in Denmark. The company offers accounts and deposits, loans, and savings products; and debit cards, mobile banking, and currency and travel currency services. It serves customers through a network of eight branches. Nordfyns Bank A/S was founded in 1897 and is headquartered in Odense, Denmark.",
+  "website": "http://www.nordfynsbank.dk"
+}

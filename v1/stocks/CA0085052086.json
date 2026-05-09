@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA0085052086"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA0085052086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGFAF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "AGRA.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PU31.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AgraFlora Organics International Inc.",
+  "primary_symbol": "AGFAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AgraFlora Organics International Inc. operates in the cannabis industry in Canada and the Republic of Colombia. The company was formerly known as PUF Ventures Inc. and changed its name to AgraFlora Organics International Inc. in November 2018. The company was incorporated in 2004 and is headquartered in Vancouver, Canada.",
+  "website": "http://agraflora.com"
+}

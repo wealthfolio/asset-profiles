@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00Z1RRV12",
+    "figi": "BBG00Z1RRV67",
+    "isin": "NO0010829765"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "NO0010829765",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "50R.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ANDF.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010829765.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ANDFJORD SALMON AS  NK 1",
+  "primary_symbol": "50R.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Andfjord Salmon AS engages in land-based salmon farming. The company is focused on sustainable and environmentally friendly salmon production in Norway.",
+  "website": "http://www.andfjordsalmon.com"
+}

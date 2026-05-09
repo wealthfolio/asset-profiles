@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BJRX58",
+    "figi": "BBG000BJS004",
+    "isin": "GRS015003007"
+  },
+  "industry_group": "Banks",
+  "isin": "GRS015003007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACBB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACBB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ACBB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ACBB.SG"
+    }
+  ],
+  "name": "ALPHA SE+HO.  EO -,30",
+  "primary_symbol": "ACBB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Alpha Bank A.E. is a Greek multinational banking and financial services company, providing retail, commercial, investment banking, and asset management services, headquartered in Athens, Greece"
+}

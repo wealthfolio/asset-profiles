@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU0000193666"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU0000193666",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OROCF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0TWH.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3O1.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ORE.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ORL.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Orocobre Limited",
+  "primary_symbol": "OROCF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Orocobre Limited engages in the exploration, development, and production of lithium in Argentina. The company's flagship project is the Olaroz Lithium Facility located in the Jujuy province of northern Argentina. It also operates two open pit mines situated in Tincalayu and Sijes producing minerals, refined products, and boric acid. In addition, the company owns 100% Cauchari Lithium Project. Orocobre Limited was incorporated in 2005 and is based in Brisbane, Australia.",
+  "website": "http://www.orocobre.com"
+}

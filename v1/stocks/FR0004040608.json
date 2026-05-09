@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG005YV6GR1",
+    "figi": "BBG005YV6GZ2",
+    "isin": "FR0004040608"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0004040608",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9BA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9BA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ABCA.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ABC ARBITRAGE POR.EO-,016",
+  "primary_symbol": "9BA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ABC Arbitrage is a portfolio management company specializing in arbitrage strategies across various asset classes. The company is based in Paris, France. They employ sophisticated trading techniques to generate returns from market inefficiencies.",
+  "website": "http://www.abc-arbitrage.com"
+}

@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000ARV3"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000ARV3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARTTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATY.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ARV.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "ARV.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ATY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000ARV3.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Artemis Resources Limited",
+  "primary_symbol": "ARTTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Artemis Resources Limited engages in the exploration and development of mineral properties. The company explores for gold and copper deposits. It holds interests in the Carlow Castle Gold-Copper-Cobalt project located in the West Pilbara region of Western Australia; the Carlow West Gold project situated in the south-east of Karratha, Western Australia; and the Paterson Central project covering an area of approximately 605 square kilometers located in the Yaneena Basin of the Paterson Province, Western Australia. Artemis Resources Limited was incorporated in 2003 and is based in West Perth, Australia.",
+  "website": "http://www.artemisresources.com.au"
+}

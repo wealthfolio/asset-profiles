@@ -1,0 +1,48 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BSSRH7",
+    "figi": "BBG000BSSV97",
+    "isin": "TH0121010019"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "TH0121010019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIFF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIFF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KIFF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KIFF.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KIATNAKIN PH-FOREIGN-BA10",
+  "primary_symbol": "KIFF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Kiatnakin Phatra Bank Public Company Limited (formerly Kiatnakin Bank PCL) is a financial institution in Thailand. The bank offers a range of financial products and services, including commercial and consumer banking, investment banking, and asset management. The bank is headquartered in Bangkok, Thailand.",
+  "website": "http://bank.kkpfg.com"
+}

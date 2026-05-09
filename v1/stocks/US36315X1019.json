@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG008QP65L7",
+    "cusip": "36315X101",
+    "figi": "BBG008QP65T9",
+    "isin": "US36315X1019"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US36315X1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GXEA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GXEA.SG"
+    }
+  ],
+  "name": "GALAPAGOS N.V. ADR 1",
+  "primary_symbol": "GXEA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Galapagos NV is a biotechnology company focused on the discovery and development of novel medicines. They concentrate on developing therapies for diseases with high unmet medical needs, such as inflammatory diseases, fibrosis, and osteoarthritis. Galapagos NV is headquartered in Mechelen, Belgium."
+}

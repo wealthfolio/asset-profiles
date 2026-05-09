@@ -1,0 +1,47 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "cusip": "120613203",
+    "isin": "US1206132037"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US1206132037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BHLL"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BNKR.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BNKR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LMNA.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Bunker Hill Mining Corp.",
+  "primary_symbol": "BHLL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Bunker Hill Mining Corp., an exploration stage company, engages in the acquisition and exploration of mining properties. The company focuses on exploring for zinc, lead, and silver ores. It holds an option agreement to acquire a 100% interest in the Bunker Hill mine, which includes 440 patented mining claims covering an area of approximately 5700 acres located in Idaho. The company was formerly known as Liberty Silver Corp. and changed its name to Bunker Hill Mining Corp. in September 2017. Bunker Hill Mining Corp. was incorporated in 2007 and is headquartered in Toronto, Canada.",
+  "website": "http://www.bunkerhillmining.com"
+}

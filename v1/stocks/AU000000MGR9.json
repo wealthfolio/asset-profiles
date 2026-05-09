@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000MGR9"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "AU000000MGR9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRVGF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MGR.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MJB.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Mirvac Group",
+  "primary_symbol": "MRVGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Mirvac is an Australian property group with a clearly defined purpose to reimagine urban life. By creating beautiful homes, inspiring workplace precincts and thriving shopping centres, we aim to make a positive contribution to our cities and communities. Mirvac was founded in 1972, which means we've been shaping Australia's urban landscape for almost fifty years. Of course, we've evolved a lot over that time √Ç¬ñ growing from a small joint venture to become a thriving ASX-listed property group that leads the way in innovation, sustainability and placemaking. Renowned for the quality of our products, we've created some of Australia's most iconic places and precincts, from thriving masterplanned communities, to landmark offices including our own headquarters at EY Centre, 200 George Street, Sydney. At the heart of every project there exists a deep commitment to our customers and communities.",
+  "website": "http://www.mirvac.com"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "JP3678000005"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "JP3678000005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NBO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NBO.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3105.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NBO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NBO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NBO.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Neuberger Berman New York Municipal Fund, Inc.",
+  "primary_symbol": "NBO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Neuberger Berman New York Municipal Fund, Inc. is a closed-ended fixed income mutual fund launched and managed by Neuberger Berman Management LLC. The fund is co-managed by Neuberger Berman LLC. It invests in the fixed income markets of the United States. The fund primarily invests in tax-exempt municipal bonds with remaining maturities of less than 15 years. It seeks to invest in securities that are rated in the four highest categories by a statistical rating organization. The fund benchmarks the performance of its portfolio against the Barclays 10-Year Municipal Bond Index. It was formerly known as Neuberger Berman California Intermediate Municipal Fund Inc. Neuberger Berman New York Municipal Fund, Inc. was formed on September 24, 2002 and is domiciled in the United States.",
+  "website": "http://www.nb.com/Pages/Public/en-us/Products/new-york-intermediate-municipal-fund.aspx"
+}

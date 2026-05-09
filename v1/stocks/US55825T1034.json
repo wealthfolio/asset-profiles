@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00B8L4MP0",
+    "cusip": "55825T103",
+    "figi": "BBG00B8L4MW2",
+    "isin": "US55825T1034"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Consumer Services",
+  "isin": "US55825T1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MS8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MS8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSGS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MS8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MS8.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MADISON SQUARE GAR.SP. A",
+  "primary_symbol": "MS8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Madison Square Garden Entertainment Corp. is a live entertainment and media company. The company's assets include venues like Madison Square Garden and Radio City Music Hall, sports teams like the New York Knicks and New York Rangers, and entertainment productions. Madison Square Garden Entertainment is headquartered in New York, New York.",
+  "website": "http://www.msgsports.com"
+}

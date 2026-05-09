@@ -1,0 +1,63 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000GJYR58",
+    "figi": "BBG000GJZW56",
+    "isin": "JP3853000002"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "JP3853000002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "01H.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "01H.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRIBF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "01H.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "01H.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "01H.SG"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "6856.T"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HORIBA LTD",
+  "primary_symbol": "01H.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HORIBA LTD is a global company that manufactures and sells precision instruments and equipment for various applications. Their products include automotive test systems, environmental monitoring equipment, medical diagnostic instruments, and semiconductor manufacturing equipment. The company is headquartered in Kyoto, Japan.",
+  "website": "http://www.horiba.com"
+}

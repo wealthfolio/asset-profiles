@@ -1,0 +1,81 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "isin": "PA1436583006"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "PA1436583006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CVC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CVC1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CVC1.HM"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "CCL.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CCL.DU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "CCL.NS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CCL.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CVC1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CVC1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COCA-COLA AMATIL",
+  "primary_symbol": "CCL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "CCL Products (India) Limited is a global manufacturer of instant coffee. The company manufactures and exports instant coffee to various countries. CCL Products is headquartered in Hyderabad, India.",
+  "website": "http://www.cclproducts.com"
+}

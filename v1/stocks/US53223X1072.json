@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C42VL3",
+    "cusip": "53223X107",
+    "figi": "BBG000C42X11",
+    "isin": "US53223X1072"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US53223X1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LSI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LSI.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SOV.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SOV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SOV.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Life Storage, Inc.",
+  "primary_symbol": "LSI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Life Storage, Inc. is a self-administered and self-managed equity REIT that is in the business of acquiring and managing self-storage facilities. Located in Buffalo, New York, the Company operates more than 900 storage facilities in 30 states and in the province of Ontario, Canada. The Company serves both residential and commercial storage customers with storage units rented by month. Life Storage consistently provides responsive service to approximately 500,000 customers, making it a leader in the industry.",
+  "website": "http://www.lifestorage.com"
+}

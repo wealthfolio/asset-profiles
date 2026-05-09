@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000JGMHP4",
+    "figi": "BBG000JGMMK8",
+    "isin": "HK0363006039"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "HK0363006039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGI.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SGI.SG"
+    }
+  ],
+  "name": "SHANGHAI IND. HLDGS",
+  "primary_symbol": "SGI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Shanghai Industrial Holdings Limited is a conglomerate engaged in infrastructure, property, consumer products, and technology businesses. The company has operations primarily in Hong Kong and mainland China. Shanghai Industrial Holdings is headquartered in Hong Kong."
+}

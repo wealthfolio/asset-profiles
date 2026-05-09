@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00BWPWHF5",
+    "cusip": "96145D105",
+    "figi": "BBG00BWPWHM7",
+    "isin": "US96145D1054"
+  },
+  "industry": "Distributors",
+  "industry_group": "Materials",
+  "isin": "US96145D1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WRK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LW9.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "1WR.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1WR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1WR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1WR.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "W1RK34.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "WESTROCK CO.  DL-,01",
+  "primary_symbol": "1WR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "WestRock Company is a paper and packaging company that manufactures and sells paper and packaging solutions to various industries. The company operates mills, converting plants, and recycling facilities, and it is headquartered in Atlanta, Georgia.",
+  "website": "http://www.westrock.com"
+}

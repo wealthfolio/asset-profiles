@@ -1,0 +1,61 @@
+{
+  "country": "Czechia",
+  "country_code": "CZ",
+  "identifiers": {
+    "isin": "CZ0008019106"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "CZ0008019106",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IKH.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KMERF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KONN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KONN.MU"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "KOMB.PR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KONN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KONN.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KOMERCNI BANKA AS KOMERCNI BANK",
+  "primary_symbol": "0IKH.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Komercni banka a.s. is a Czech bank that provides a range of banking and financial services to individuals, businesses, and institutions. The bank operates through a network of branches and online channels. Komercni banka a.s. is headquartered in Prague, Czech Republic.",
+  "website": "http://www.kb.cz"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG001R1QSD1",
+    "figi": "BBG00GTYY4S2",
+    "isin": "DE000A0WMNK9"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "DE000A0WMNK9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAO.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VAO.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VAO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VAO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VAO.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VAPIANO SE  INH. O.N.",
+  "primary_symbol": "VAO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Vapiano SE was a German restaurant chain that offered Italian-inspired cuisine in a fast-casual setting. The company filed for insolvency in 2020. It was headquartered in Bonn, Germany.",
+  "website": "http://de.vapiano.com/de/home/"
+}

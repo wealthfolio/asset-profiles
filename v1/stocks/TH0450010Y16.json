@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LKHWC9",
+    "figi": "BBG000LKHZX9",
+    "isin": "TH0450010Y16"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "TH0450010Y16",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THYG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THYG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "THYG.SG"
+    }
+  ],
+  "name": "THAI UN. GRP PR. -FGN-",
+  "primary_symbol": "THYG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Thai Union Group PCL is a global seafood producer that manufactures and exports a variety of seafood products, including canned tuna, frozen seafood, and pet food. The company owns brands like Chicken of the Sea, John West, and King Oscar. Thai Union Group is headquartered in Bangkok, Thailand."
+}

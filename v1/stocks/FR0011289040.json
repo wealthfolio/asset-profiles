@@ -1,0 +1,47 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG0036YLP94",
+    "isin": "FR0011289040"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0011289040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0011289040.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SQI.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SSXN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SSXN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SQLI SA-REG",
+  "primary_symbol": "FR0011289040.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SQLI SA-REG is a digital experience company that helps businesses design, implement, and manage digital solutions. They offer services in consulting, technology, and marketing to help clients improve their online presence and customer engagement; headquarters are located in Levallois-Perret, France. SQLI aims to empower businesses to thrive in the digital age.",
+  "website": "http://www.sqli.com"
+}

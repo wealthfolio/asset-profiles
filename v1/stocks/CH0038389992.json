@@ -1,0 +1,56 @@
+{
+  "country": "Malaysia",
+  "country_code": "MY",
+  "identifiers": {
+    "isin": "CH0038389992"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Diversified Financials",
+  "isin": "CH0038389992",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBAGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BB.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BBZA.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BBZA.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BION.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BION.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BB Biotech AG",
+  "primary_symbol": "BBAGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BB Biotech AG is an investment company that invests in the biotechnology sector. The company focuses on identifying and investing in innovative drug development companies, and is headquartered in Schaffhausen, Switzerland. BB Biotech AG aims to generate long-term capital appreciation by actively managing its portfolio of biotechnology companies.",
+  "website": "http://www.bionplc.com"
+}

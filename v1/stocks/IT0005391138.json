@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "375558103",
+    "isin": "IT0005391138"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0005391138",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "GIS.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Gismondi 1754 S.p.A.",
+  "primary_symbol": "GIS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Gismondi 1754 S.p.A. produces and sells jewelry. It operates through 4 direct boutiques, 1 franchise store, and 12 corners in the United States, Italy, and Russia. The company is based in Genoa, Italy.",
+  "website": "http://www.gismondi1754.com"
+}

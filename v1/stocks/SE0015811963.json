@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "SE0015811963"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "SE0015811963",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IVSB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IVSB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IVSB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IVSB.SG"
+    }
+  ],
+  "name": "INVESTOR B (FRIA)  SK6,25",
+  "primary_symbol": "IVSB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Investor AB is a Swedish investment company that manages a portfolio of listed and unlisted companies, with a focus on long-term value creation. They are a leading owner of Nordic-based international companies. Investor AB is headquartered in Stockholm, Sweden."
+}

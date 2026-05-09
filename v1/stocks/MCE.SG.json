@@ -1,0 +1,31 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000FHR0P8",
+    "figi": "BBG000FHR3Q1"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MCE.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MEDIQON Group AG",
+  "primary_symbol": "MCE.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "MEDIQON Group AG provides electronic procurement and data standardization services for hospitals and suppliers worldwide. The company offers mc navigator, a database with a classification system for medical and pharmaceutical products; mc connector, which downloads article master data from the mc navigator into materials management system; and mc master data management solution, which imports article data and updates of the price information in materials management system. It also provides Web-based status tool, which visualizes the mc transaction platform; mc communicator, an overarching platform that enables purchasing within hospital purchasing pool; and push service master data updates, as well as data mapping services. The company was formerly known as medical columbus AG. MEDIQON Group AG was founded in 1998 and is headquartered in K√É¬∂nigstein, Germany.",
+  "website": "http://www.mediqon-group.de"
+}

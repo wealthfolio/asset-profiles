@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BFPG28",
+    "figi": "BBG000BFPJC1",
+    "isin": "SG1U68934629"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "SG1U68934629",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KEP1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KEP1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KEP1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KEP1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KEP1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KEP1.SG"
+    }
+  ],
+  "name": "KEPPEL CORP. SUB.  SD-,25",
+  "primary_symbol": "KEP1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Keppel Corporation Limited is a Singaporean conglomerate with businesses in offshore & marine, property, infrastructure, and investment. The company provides solutions for sustainable urbanization, including energy, infrastructure and connectivity. Its headquarters are in Singapore."
+}

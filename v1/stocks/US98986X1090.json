@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG009RRR6X2",
+    "cusip": "98986X109",
+    "figi": "BBG009RRR733",
+    "isin": "US98986X1090"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US98986X1090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6ZY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6ZY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZYNE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0M40.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6ZY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6ZY.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ZYNERBA PHARMACEUTIC.INC.",
+  "primary_symbol": "6ZY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Zynerba Pharmaceuticals, Inc. is a clinical-stage specialty pharmaceutical company focused on developing and commercializing pharmaceutically-produced cannabinoid therapeutics for rare and near-rare neuropsychiatric disorders. The company's lead product candidate is Zygel, a cannabidiol (CBD) formulated as a permeation-enhanced gel for transdermal delivery. Zynerba Pharmaceuticals is headquartered in Devon, Pennsylvania.",
+  "website": "http://zynerba.com"
+}

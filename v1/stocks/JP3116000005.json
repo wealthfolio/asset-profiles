@@ -1,0 +1,63 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C18291",
+    "figi": "BBG000C184Y9",
+    "isin": "JP3116000005"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3116000005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASBRF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2502.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ABW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ABW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ABW.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ASAHI GROUP HOLDINGS LTD.",
+  "primary_symbol": "ABW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Asahi Group Holdings, Ltd. is a Japanese global beverage company that produces and sells a wide range of alcoholic and non-alcoholic beverages, including beer, spirits, wine, and soft drinks. The company's portfolio includes well-known brands such as Asahi Super Dry beer. Asahi Group Holdings is headquartered in Tokyo, Japan.",
+  "website": "http://www.asahigroup-holdings.com"
+}

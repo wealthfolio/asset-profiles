@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "JPMS.AS"
+    }
+  ],
+  "name": "LS -1X JPMORGAN",
+  "primary_symbol": "JPMS.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Product (ETP) that provides -1x (inverse) exposure to the daily performance of JPMorgan Chase & Co stock. It is designed for sophisticated investors seeking to profit from a decline in the stock price of JPMorgan Chase & Co."
+}

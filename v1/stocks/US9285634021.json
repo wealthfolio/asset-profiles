@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GNV649",
+    "cusip": "928563402",
+    "figi": "BBG000GNV9K5",
+    "isin": "US9285634021"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US9285634021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZF1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZF1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VMW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LQO.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BZF1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BZF1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BZF1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BZF1.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "VMW.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "VMWA.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "VMWARE INC.CLASS A DL-,01",
+  "primary_symbol": "BZF1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "VMware, Inc. provides cloud computing and virtualization technology and services. Headquartered in Palo Alto, California, VMware's software is used by businesses to virtualize their IT infrastructure, enabling greater efficiency. VMware was acquired by Broadcom Inc. in 2023.",
+  "website": "http://www.vmware.com"
+}

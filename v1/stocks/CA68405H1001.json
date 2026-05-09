@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA68405H1001"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "CA68405H1001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPTHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPTI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA68405H1001.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "OPTI.BR"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "OPTI.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "OPTI.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "OPTI.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Optimi Health Corp.",
+  "primary_symbol": "OPTHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Optimi Health Corp. develops an integrated functional mushroom brand that focuses on the health and wellness food markets in Canada. It also focuses on the cultivation, extraction, processing, and distribution of strains of fungi products. The company's range of fungi varieties include Lions Mane, Reishi, Chaga, Cordyceps, and Turkey Tail. The company was incorporated in 2020 and is headquartered in Vancouver, Canada.",
+  "website": "http://optimihealth.ca"
+}

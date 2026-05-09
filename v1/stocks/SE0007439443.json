@@ -1,0 +1,68 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00NZKZWP0",
+    "figi": "BBG00NZKZWW2",
+    "isin": "SE0007439443"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "SE0007439443",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DST.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DST.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STRYF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0GBU.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DST.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DST.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DST.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "STORY-B.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STORYTEL AB B  SK 5",
+  "primary_symbol": "DST.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Storytel AB is a digital subscription service for audiobooks and ebooks, offering streaming and offline listening. The company operates in multiple countries and provides content in various languages. Storytel is headquartered in Stockholm, Sweden.",
+  "website": "http://www.storytel.com"
+}

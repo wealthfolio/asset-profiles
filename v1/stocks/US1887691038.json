@@ -1,0 +1,57 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "188769103",
+    "isin": "US1887691038"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US1887691038",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLVLF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLVLY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UR9.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CUV.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UR9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UR9A.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Clinuvel Pharmaceuticals Limited",
+  "primary_symbol": "CLVLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Clinuvel Pharmaceuticals Limited, a biopharmaceutical company, focuses on developing and delivering drugs for the treatment of patients with severe genetic and skin disorders worldwide. Its lead drug candidate is SCENESSE, a photoprotective drug for the prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP). The company's pipeline products include CUV9900, an alpha-melanocyte stimulating hormone analogue; Parvysmelanotide (VLRX001), an addition to the family of melanocortin analogues, which provoke increased and prolonged cellular activity; and PR√É¬âNUMBRA, a liquid injectable formulation of afamelanotide. Clinuvel Pharmaceuticals Limited has a collaboration agreement with HK Winhealth Pharma Group Co. Limited for launching SCENESSE under a named patient program for the treatment of patients with EPP in the People's Republic of China. The company was founded in 1987 and is headquartered in Melbourne, Australia.",
+  "website": "http://www.clinuvel.com"
+}

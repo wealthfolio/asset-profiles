@@ -1,0 +1,36 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "IE000HMSHYJ6"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "IE000HMSHYJ6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ELEC.PA"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ELEC.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Electricite de Strasbourg Societe Anonyme",
+  "primary_symbol": "ELEC.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "√É¬âlectricite de Strasbourg Soci√É¬©t√É¬© Anonyme engages in the supply of electricity and natural gas in France. It also offers electrical engineering and thermal renovation services. The company was founded in 1899 and is based in Strasbourg, France.",
+  "website": "http://www.es.fr"
+}

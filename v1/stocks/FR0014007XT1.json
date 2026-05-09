@@ -1,0 +1,51 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0014007XT1"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0014007XT1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACOSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AYH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALJXR.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AYH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AYH.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Archos S.A.",
+  "primary_symbol": "ACOSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Archos S.A. manufactures and sells consumer electronics worldwide. The company offers tablets, smartphones, connected objects, electrical vehicles, and cryptocurrency hardware wallets, as well as customized products and engineering services. Its products have entertainment/content protection, home automation, navigation, energy monitoring, education, digital signage, automotive, and audio and video guide applications, as well as in the vertical markets, including professional and medical markets. Archos S.A. was founded in 1988 and is headquartered in Igny, France.",
+  "website": "http://www.archos.com"
+}

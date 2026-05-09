@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG008NVGW00",
+    "cusip": "829399104",
+    "isin": "US8293991043"
+  },
+  "isin": "US8293991043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8293991043.SG"
+    }
+  ],
+  "name": "SIO GENE THERAPIES INC",
+  "primary_symbol": "US8293991043.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

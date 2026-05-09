@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C3W272",
+    "figi": "BBG000C3W4P8",
+    "isin": "DE0005479307"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "DE0005479307",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VG8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VG8.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VG8.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VG8.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VG8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VG8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VG8.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VARENGOLD BANK AG",
+  "primary_symbol": "VG8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Varengold Bank AG is a German bank providing financial services with a focus on asset management and financial market brokerage, serving both private and institutional clients. The bank is involved in transaction banking and commercial banking. Varengold Bank AG is headquartered in Hamburg, Germany.",
+  "website": "http://www.vgipartners.com/lics/asian-investments"
+}

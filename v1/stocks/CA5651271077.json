@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00CVVX3M3",
+    "figi": "BBG00CVVX3T6",
+    "isin": "CA5651271077"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA5651271077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M3G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M3G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGM.HM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MGM.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MAPLE GOLD MINES LTD",
+  "primary_symbol": "M3G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Maple Gold Mines Ltd. is a Canadian mineral exploration company focused on advancing its district-scale Douay Gold Project and Joutel Gold Project in Quebec, Canada. The company is focused on expanding its resource base and developing these gold projects. Maple Gold Mines is headquartered in Vancouver, Canada.",
+  "website": "http://www.capmetals.com.au"
+}

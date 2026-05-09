@@ -1,0 +1,71 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "SE0000379190"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Real Estate",
+  "isin": "SE0000379190",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GT1.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAST.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWQXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TEX.BE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "CAST.ST"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TEX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TEX.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "TEX.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TEX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CASTELLUM AB CASTELLUM ORD SHS",
+  "primary_symbol": "0GT1.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Castellum AB is a Swedish real estate company that owns, manages, and develops commercial properties in Sweden and the Nordic region. The company focuses on office, retail, logistics, and industrial properties. Castellum is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.castro.com"
+}

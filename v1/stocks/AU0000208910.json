@@ -1,0 +1,38 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00XP7ZRF0",
+    "figi": "BBG00XP7ZRG9",
+    "isin": "AU0000208910"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Materials",
+  "isin": "AU0000208910",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "30Z.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "IPX.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Hyperion Metals Limited",
+  "primary_symbol": "30Z.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Hyperion Metals Limited (now known as IperionX Limited) is a company focused on developing sustainable critical materials. It emphasizes titanium production using innovative technologies, based in the US.",
+  "website": "http://www.impax.co.uk"
+}

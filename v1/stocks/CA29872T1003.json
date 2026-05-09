@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00M6W7N88",
+    "figi": "BBG00M6W7NG9",
+    "isin": "CA29872T1003"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA29872T1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E06.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E06.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUMNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E06.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E06.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E06A.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EMN.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EMN.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Euro Manganese Inc.",
+  "primary_symbol": "E06.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Euro Manganese Inc. engages in the evaluation, exploration, and development of mineral assets in the Czech Republic. Its principal property is the 100% owned Chvaletice manganese project located to the east of Prague, the Czech Republic, which is involved in the re-processing of a leachable manganese deposit for the production of high-purity electrolytic manganese metal and high-purity manganese sulphate monohydrate, as well as other high-purity manganese products. Euro Manganese Inc. was incorporated in 2014 and is based in Vancouver, Canada.",
+  "website": "http://www.mn25.ca"
+}

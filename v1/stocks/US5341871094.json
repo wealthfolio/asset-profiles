@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000H0GZP8",
+    "cusip": "534187109",
+    "figi": "BBG000H0H4V9",
+    "isin": "US5341871094"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US5341871094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNC"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JV3.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "L1NC34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LCO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LCO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LCO.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LINCOLN NATL",
+  "primary_symbol": "LCO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Lincoln National Corporation is a financial services company that offers a range of insurance and investment products. The company provides life insurance, annuities, retirement plan services, and group benefits. Lincoln National is headquartered in Radnor, Pennsylvania, USA.",
+  "website": "http://www.lfg.com"
+}

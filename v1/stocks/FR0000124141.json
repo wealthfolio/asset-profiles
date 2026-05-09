@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CTH094",
+    "figi": "BBG000CTH343",
+    "isin": "FR0000124141"
+  },
+  "industry_group": "Utilities",
+  "isin": "FR0000124141",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVD.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVD.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVD.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VVD.DU"
+    }
+  ],
+  "name": "VEOLIA ENVIRONNE. EO 5",
+  "primary_symbol": "VVD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Veolia Environnement S.A. provides environmental management services in the areas of water, waste, and energy. The company operates globally, providing solutions to municipalities and industries. Veolia is headquartered in Paris, France."
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LITI.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Litium AB (publ)",
+  "primary_symbol": "LITI.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Litium AB (publ) operates cloud based e-commerce platform for retailers, e-tailers, and B2B businesses. The company was founded in 1998 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.litium.se"
+}

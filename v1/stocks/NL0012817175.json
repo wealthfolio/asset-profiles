@@ -1,0 +1,63 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00KH6QNG7",
+    "figi": "BBG00KH6QNN9",
+    "isin": "NL0012817175"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "NL0012817175",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "703.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "703.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "703.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "703.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "703.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "703.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "ALFEN.AS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALFEN N.V. EO -,10",
+  "primary_symbol": "703.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Alfen N.V. is a European company specializing in energy solutions for the future, providing charging stations for electric vehicles, energy storage systems, and smart grid solutions. The company designs, develops, and sells products, systems, and services related to the integration of renewable energy sources and electric vehicle charging infrastructure. Alfen N.V. is headquartered in Almere, Netherlands.",
+  "website": "http://www.alfen.com"
+}

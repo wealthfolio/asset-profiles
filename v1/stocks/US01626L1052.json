@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XV9DJS7",
+    "cusip": "01626L105",
+    "figi": "BBG00XV9DJY0",
+    "isin": "US01626L1052"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US01626L1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5WK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALGS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALGS.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5WK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US01626L1052.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ALIGOS THERAPEUT.  DL-,01",
+  "primary_symbol": "5WK.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ALIGOS THERAPEUT. DL-,01 is a biotechnology company focused on developing treatments for liver diseases. The company's therapeutic candidates are designed to target specific pathways involved in liver disease progression. ALIGOS THERAPEUT is likely headquartered in the US.",
+  "website": "http://www.aligos.com"
+}

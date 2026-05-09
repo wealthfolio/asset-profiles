@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3042.T"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SecuAvail Inc.",
+  "primary_symbol": "3042.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SecuAvail Inc. provides system security solutions in Japan. The company is involved in the design, construction, operation, monitoring, and log analysis of computer network security systems. Its products include NetStare, a network security operation monitoring system; LogStare integrated log management system; LogStare Collector, a network monitoring and log collection system; NetStare security diagnostic services; and NetStare Suite, a security operation service. SecuAvail Inc. was founded in 2001 and is headquartered in Osaka, Japan.",
+  "website": "http://www.secuavail.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BTZ1B0",
+    "figi": "BBG000BTZ1R3",
+    "isin": "CA87283P1099"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA87283P1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "TNX.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TRG.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Tanzanian Gold Corporation",
+  "primary_symbol": "TRX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tanzanian Gold Corporation engages in the exploration and development of mineral property interests in the United Republic of Tanzania. The company primarily explores for gold deposits. It holds interests in the Buckreef gold project located in north-central Tanzania; the Kigosi project situated within the Kigosi-Miyabi and Ushirombo greenstone belts in northwestern Tanzania; and the Itetemia gold project located to the southwest of Mwanza in Northern Tanzania. The company was formerly known as Tanzanian Royalty Exploration Corporation and changed its name to Tanzanian Gold Corporation in April 2019. Tanzanian Gold Corporation was incorporated in 1990 and is based in Vancouver, Canada.",
+  "website": "http://tangoldcorp.com"
+}

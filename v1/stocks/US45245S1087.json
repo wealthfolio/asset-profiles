@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "45245S108",
+    "isin": "US45245S1087"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US45245S1087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IGW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IWSY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IGW.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IMAGEWARE SYS INC. DL-,01",
+  "primary_symbol": "IGW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ImageWare Systems, Inc. is a software development company that provides biometric identification and authentication solutions. The company offers a multimodal biometric platform that includes facial recognition, fingerprint matching, and other biometric technologies. The company is headquartered in San Diego, California.",
+  "website": "http://www.iwsinc.com"
+}

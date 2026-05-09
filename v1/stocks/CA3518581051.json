@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000RD3CL8",
+    "figi": "BBG000RD3FN9",
+    "isin": "CA3518581051"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA3518581051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3FO.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "FNV.TO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FNVN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Franco-Nevada Corporation",
+  "primary_symbol": "FNV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Franco-Nevada Corporation operates as a gold-focused royalty and stream company in the United States, Latin America, Canada, Australia, Europe, and Africa, and internationally. It operates through two segment, Mining and Energy. The company manages its portfolio with a focus on precious metals, such as gold, silver, and platinum group metals; and energy comprising oil, gas, and natural gas liquids. The company was incorporated in 2007 and is headquartered in Toronto, Canada.",
+  "website": "http://www.franco-nevada.com"
+}

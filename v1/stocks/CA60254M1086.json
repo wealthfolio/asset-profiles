@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA60254M1086"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA60254M1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCURF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MCUR.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Mind Cure Health Inc.",
+  "primary_symbol": "MCURF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mind Cure Health Inc. engages in the development, manufacture, and distribution of a branded line of organic and functional mushroom powders. It also operates Mind Cure Health Center, which offers psychedelic-assisted mental health therapy to patients, as well as training to therapists. The company sells its products through online and retail stores in North America. Mind Cure Health Inc. was incorporated in 2020 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.mindcure.com"
+}

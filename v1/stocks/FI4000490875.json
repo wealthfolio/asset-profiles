@@ -1,0 +1,38 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00ZTK7BK2",
+    "figi": "BBG00ZTK7BL1",
+    "isin": "FI4000490875"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FI4000490875",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7XE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "HEALTH.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Nightingale Health Oyj",
+  "primary_symbol": "7XE.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Nightingale Health Ltd. offers a health data platform that detects disease risks. The company's platform allows individuals to access disease risk information and take actions to prevent diseases. It serves healthcare service providers and direct consumers. The company was founded in 2002 and is based in Helsinki, Finland.",
+  "website": "http://nightingalehealth.com"
+}

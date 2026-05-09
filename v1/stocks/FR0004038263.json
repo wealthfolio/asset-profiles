@@ -1,0 +1,73 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000JSSSS5",
+    "figi": "BBG000JSSX68",
+    "isin": "FR0004038263"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0004038263",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P2W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P2W.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P2W.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P2W.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAOTF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0OPY.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P2W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P2W.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "PARRO.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Parrot S.A.",
+  "primary_symbol": "P2W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Parrot S.A. provides commercial drones, covering equipment, and software and services in France and internationally. It also offers Pix4Dmapper, a drone modelling software; data sensors for precision farming; and mobile, desktop, cloud, SaaS, and business solutions. In addition, the company offers drone-based vine monitoring solutions; and car kit, audio, drone disco, AR drone, swing, mini drones, and connected garden solutions. It serves agriculture; 3D mapping, surveying, and inspection; and defense and security markets. Parrot S.A. was founded in 1994 and is headquartered in Paris, France.",
+  "website": "http://www.parrot.com"
+}

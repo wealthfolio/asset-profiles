@@ -1,0 +1,34 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG0104PNHQ7",
+    "cusip": "94132V105",
+    "figi": "BBG0104PNHV1",
+    "isin": "US94132V1052"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US94132V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WDH"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Waterdrop Inc.",
+  "primary_symbol": "WDH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Waterdrop Inc. operates technology platforms for insurance and healthcare service markets. It operates independent third-party insurance platform for health and life insurance; and medical crowdfunding and mutual aid platforms, as well as provides insurance brokerage services. The company was founded in 2013 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://sdbao.com"
+}

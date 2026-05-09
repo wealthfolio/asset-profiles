@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C39FN1",
+    "figi": "BBG000C39J08",
+    "isin": "GB0004657408"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB0004657408",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZ4.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0004657408.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MTO.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MZ4.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MITIE GRP PLC  LS-,025",
+  "primary_symbol": "MZ4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mitie Group PLC is a facilities management and professional services company based in the United Kingdom. It provides a range of services, including cleaning, security, engineering, and catering to businesses and public sector organizations. Mitie Group PLC is headquartered in London, United Kingdom.",
+  "website": "http://www.mcholdings.com.au"
+}

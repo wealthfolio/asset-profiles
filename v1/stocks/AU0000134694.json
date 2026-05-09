@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00ZSCV8Q5",
+    "figi": "BBG00ZSCV8X7",
+    "isin": "AU0000134694"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU0000134694",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7Y2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7Y2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7Y2.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FRB.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FIREBIRD METALS LTD",
+  "primary_symbol": "7Y2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Firebird Metals Ltd is an Australian exploration company focused on the exploration and development of manganese resources. The company is focused on projects in Western Australia. They conduct exploration activities to identify and develop manganese resources.",
+  "website": "http://www.firebirdmetals.com.au"
+}

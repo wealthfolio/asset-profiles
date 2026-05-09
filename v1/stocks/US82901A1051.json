@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000K3Q5M6",
+    "cusip": "82901A105",
+    "isin": "US82901A1051"
+  },
+  "isin": "US82901A1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US82901A1051.SG"
+    }
+  ],
+  "name": "SIMPLY INC",
+  "primary_symbol": "US82901A1051.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

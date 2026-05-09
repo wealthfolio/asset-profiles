@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000FN2D38",
+    "cusip": "783549108",
+    "figi": "BBG000FN3K13",
+    "isin": "US7835491082"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Transportation",
+  "isin": "US7835491082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RYD.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RYD.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RYD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RYD.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "RYDER SYST.  DL-,50",
+  "primary_symbol": "RYD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "RYDER SYST.  DL-,50 is a supply chain, dedicated transportation, and commercial fleet management solutions company. The company's services include fleet management, supply chain solutions, and dedicated transportation. Ryder System is headquartered in Miami, Florida."
+}

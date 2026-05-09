@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C3VR96",
+    "isin": "FR0000064404"
+  },
+  "isin": "FR0000064404",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000064404.SW"
+    }
+  ],
+  "name": "MEDIA 6",
+  "primary_symbol": "FR0000064404.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

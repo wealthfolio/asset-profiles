@@ -1,0 +1,53 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XRZZGH8",
+    "figi": "BBG00XRZZGP9",
+    "isin": "GB00BD9G2S12"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "GB00BD9G2S12",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1JL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1JL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTES"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1JL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BD9G2S12.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GATES IND.CORP PLC DL-,01",
+  "primary_symbol": "1JL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Gates Industrial Corporation PLC manufactures and sells engineered power transmission and fluid power solutions. The company serves a diverse range of industries, including automotive, agriculture, construction, and industrial manufacturing, providing belts, hoses, and related products. TICKER: Gates Industrial Corporation PLC manufactures and sells engineered power transmission and fluid power solutions, serving industries such as automotive, agriculture, construction, and industrial manufacturing.",
+  "website": "http://www.gates.com"
+}

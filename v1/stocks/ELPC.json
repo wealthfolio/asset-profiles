@@ -1,0 +1,25 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELPC"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Companhia Paranaense de Energia (COPEL)",
+  "primary_symbol": "ELPC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Companhia Paranaense de Energia (COPEL) is a Brazilian power company primarily engaged in the generation, transmission, distribution, and sale of electricity. The company operates hydroelectric, thermal, and wind power plants. COPEL is headquartered in Curitiba, Paraná, Brazil."
+}

@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BRN9R3",
+    "figi": "BBG000BRNDF7",
+    "isin": "FR0000074783"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0000074783",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AJP.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AJP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AJP.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "PRC.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ARTMARKET.COM SA INH.EO 1",
+  "primary_symbol": "AJP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ARTMARKET.COM SA INH.EO 1 operates the artprice.com website. Artprice.com is a global provider of art market information and services. The company provides art market data, indices, auction results, and artist biographies to collectors, art professionals, and institutions.",
+  "website": "http://www.artprice.com"
+}

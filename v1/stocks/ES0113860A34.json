@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000CVRFP7",
+    "figi": "BBG000CVRK30",
+    "isin": "ES0113860A34"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Banks",
+  "isin": "ES0113860A34",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BDSB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BDSB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BDSB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SABE.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BCO DE SABADELL A EO-,125",
+  "primary_symbol": "BDSB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banco de Sabadell, S.A. is a Spanish financial institution offering a range of banking products and services to individuals, businesses, and institutions. These include deposit accounts, loans, mortgages, credit cards, investment products, and insurance. Banco de Sabadell is headquartered in Alicante, Spain.",
+  "website": "http://www.sabeton.fr"
+}

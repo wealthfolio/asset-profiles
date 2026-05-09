@@ -1,0 +1,71 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000DCC9"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "AU000000DCC9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGGXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSL.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DCC.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "DCC.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VSL.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VSL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VSL.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DigitalX Limited",
+  "primary_symbol": "DGGXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DigitalX Limited provides blockchain application development and digital asset management services in Australia. It operates through Blockchain Consulting and Asset Management segments. The Blockchain Consulting segment offers consulting, technical due diligence, and design and development solutions to businesses. The Asset Management segment operates digital assets portfolio under the DigitalX Fund and the DigitalX BTC Fund for high net worth and institutional investors. The company was formerly known as Digital CC Limited and changed its name to DigitalX Limited in December 2015. DigitalX Limited was incorporated in 1988 and is based in West Perth, Australia.",
+  "website": "http://www.digitalx.com"
+}

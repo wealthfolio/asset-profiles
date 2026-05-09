@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BGLFP7",
+    "cusip": "85254J102",
+    "figi": "BBG000BGLH82",
+    "isin": "US85254J1025"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US85254J1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STAG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SW6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SW6.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "STAG.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SW6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SW6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SW6.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "STAG Industrial, Inc.",
+  "primary_symbol": "STAG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "STAG Industrial, Inc. (NYSE: STAG) is a real estate investment trust focused on the acquisition and operation of single-tenant, industrial properties throughout the United States. By targeting this type of property, STAG has developed an investment strategy that helps investors find a powerful balance of income plus growth.",
+  "website": "http://www.stagindustrial.com"
+}

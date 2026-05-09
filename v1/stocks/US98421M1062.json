@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00PVKZL82",
+    "cusip": "98421M106",
+    "figi": "BBG00PVKZLG3",
+    "isin": "US98421M1062"
+  },
+  "industry": "IT Services",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US98421M1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XER2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XER2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XER2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US98421M1062.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "XER2.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XER2.F"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "XROX.BA"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "XRXB34.SA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "XEROX HLDGS CORP.  DL 1",
+  "primary_symbol": "XER2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "XEROX HLDGS CORP. DL 1 is likely referring to Xerox Holdings Corporation, a workplace technology company that provides document management solutions, printing equipment, and related services. The company serves businesses of all sizes, offering a wide range of products and solutions to improve productivity and efficiency. Xerox is headquartered in Norwalk, Connecticut.",
+  "website": "http://www.xerox.com"
+}

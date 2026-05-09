@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00NGSRFK5",
+    "cusip": "86804F202",
+    "figi": "BBG00NGSRFY0",
+    "isin": "US86804F2020"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US86804F2020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8LG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8LG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLGG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8LG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8LG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US86804F2020.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SUPER LEAGUE GAMING -,001",
+  "primary_symbol": "8LG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "SUPER LEAGUE GAMING -,001: Super League Gaming, Inc. creates and operates esports leagues and gaming content for amateur players. They focus on providing competitive gaming experiences and community building opportunities. Super League Gaming is headquartered in Santa Monica, California.",
+  "website": "http://www.superleague.com"
+}

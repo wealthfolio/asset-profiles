@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA4882951060"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA4882951060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KELTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2KE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2KE.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "KEL.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Kelt Exploration Ltd.",
+  "primary_symbol": "KELTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Kelt Exploration Ltd., an oil and gas company, engages in the exploration, development, and production of crude oil and natural gas resources primarily in northwestern Alberta and northeastern British Columbia, Canada. As of December 31, 2019, its proved plus probable reserves were 461.0 million barrels of oil equivalent. The company markets and sells its crude oil, natural gas, and natural gas liquids production primarily to third party marketing companies. Kelt Exploration Ltd. was incorporated in 2012 and is headquartered in Calgary, Canada.",
+  "website": "http://www.keltexploration.com"
+}

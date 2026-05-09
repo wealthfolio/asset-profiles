@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BT83V4",
+    "cusip": "574795100",
+    "figi": "BBG000BT8665",
+    "isin": "US5747951003"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US5747951003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3M4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3M4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MASI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JZ2.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3M4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3M4.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MASI.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MASIMO CORP.  DL-,001",
+  "primary_symbol": "3M4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Masimo Corporation is a global medical technology company that develops, manufactures, and markets noninvasive monitoring technologies. The company's core product is pulse oximetry, used to monitor a patient's oxygen saturation levels. Masimo is headquartered in Irvine, California.",
+  "website": "http://www.masimo.com"
+}

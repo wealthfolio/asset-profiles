@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GT6ML0",
+    "cusip": "596278101",
+    "figi": "BBG000GT6R75",
+    "isin": "US5962781010"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US5962781010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIDD"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K1G.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MBY.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MIDDLEBY CORP.  DL-,01",
+  "primary_symbol": "MBY.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "The Middleby Corporation designs, manufactures, and markets a broad range of equipment used in the commercial foodservice, food processing, and residential kitchen equipment industries. The company's products include cooking, warming, refrigeration, and food preparation equipment. Middleby is headquartered in Elgin, Illinois.",
+  "website": "http://www.middleby.com"
+}

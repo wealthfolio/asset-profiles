@@ -1,0 +1,89 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R7Z112",
+    "cusip": "247361702",
+    "figi": "BBG000R7Z2D7",
+    "isin": "US2473617023"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US2473617023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OYC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OYC.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QZ4.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DAL.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DAL.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "DAL.VI"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "DEAI34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "OYC.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OYC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OYC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OYC.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Delta Air Lines, Inc.",
+  "primary_symbol": "DAL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Delta Air Lines, Inc. provides scheduled air transportation for passengers and cargo in the United States and internationally. The company operates through two segments, Airline and Refinery. Its domestic network centered on core hubs in Atlanta, Minneapolis-St. Paul, Detroit, and Salt Lake City, as well as coastal hub positions in Boston, Los Angeles, New York-LaGuardia, New York-JFK, and Seattle; and international network centered on hubs and market presence in Amsterdam, London-Heathrow, Mexico City, Paris-Charles de Gaulle, and Seoul-Incheon. The company sells its tickets through various distribution channels, including delta.com and the Fly Delta app, reservations, online travel agencies, traditional brick and mortar, and other agencies. It also provides aircraft maintenance, repair, and overhaul services; and vacation packages to third-party consumers, as well as aircraft charters, and management and programs. The company operates through a fleet of approximately 1,100 aircraft. Delta Air Lines, Inc. was founded in 1924 and is based in Atlanta, Georgia.",
+  "website": "http://www.delta.com"
+}

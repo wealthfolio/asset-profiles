@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R4V3P3",
+    "cusip": "869367102",
+    "isin": "US8693671021"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US8693671021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8693671021.SG"
+    }
+  ],
+  "name": "SUTRO BIOPHARMA INC",
+  "primary_symbol": "US8693671021.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SUTRO BIOPHARMA INC is a clinical-stage drug discovery, development and manufacturing company. The company focuses on developing cancer therapies, including antibody-drug conjugates (ADCs), bispecific antibodies, and cytokine derivatives. Sutro BioPharma is headquartered in South San Francisco, California."
+}

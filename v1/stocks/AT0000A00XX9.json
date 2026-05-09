@@ -1,0 +1,63 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000R5CYF4",
+    "figi": "BBG000R5D0K1",
+    "isin": "AT0000A00XX9"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "AT0000A00XX9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P4N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P4N.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PYT"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "P4N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P4N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P4N.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "PYT.VI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "POLYTEC HLDG AG INH. EO 1",
+  "primary_symbol": "P4N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "POLYTEC HOLDING AG is a developer and manufacturer of high-quality plastic, composite and rubber parts for the automotive as well as non-automotive industries. Headquartered in Hörsching, Austria, the company's products include plastic injection molded parts, fiber-reinforced components, and specialty coatings. POLYTEC operates as a full-service provider, covering the entire value chain from product design to series production.",
+  "website": "http://www.polytec-group.com"
+}

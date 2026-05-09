@@ -1,0 +1,19 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "NZX010.NZ"
+    }
+  ],
+  "name": "NZX 20/06/2033 5.40% NZX Limite",
+  "primary_symbol": "NZX010.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,31 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000CRLYX2",
+    "figi": "BBG000CRLZD1"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TMI.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Trend Micro Incorporated",
+  "primary_symbol": "TMI.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Trend Micro Incorporated develops and sells security-related software for computers and the Internet primarily in Japan. The company offers hybrid cloud security solutions, such workload, container image, file storage, application, cloud network, and cloud conformity security solutions; and network security solutions, including intrusion prevention and threat protection solutions. It also provides user protection solutions comprising endpoint security, email and Web security, endpoint and gateway suites, SaaS application security, and endpoint detection and response; and support services. The company was incorporated in 1965 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.trendmicro.com"
+}

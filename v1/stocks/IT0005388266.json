@@ -1,0 +1,61 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005388266"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Energy",
+  "isin": "IT0005388266",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCF.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7S9.DU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SCF.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SCF.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SCF.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SCF.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GAZPROM NEFT ADR5/RL-0016",
+  "primary_symbol": "SCF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Gazprom Neft PJSC is a Russian oil company engaged in the exploration, production, refining, and sale of oil and gas. The company's ADR (American Depositary Receipt) is traded under the ticker SCF.BE. The company is headquartered in Saint Petersburg, Russia.",
+  "website": "http://www.salcef.com"
+}

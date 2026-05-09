@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZVLDBS2",
+    "figi": "BBG0105TMS21",
+    "isin": "NO0010946593"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "NO0010946593",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ARGEO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010946593.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Argeo AS",
+  "primary_symbol": "ARGEO.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Argeo AS provides various services and technical solutions to the surveying and inspection industry. It offers site survey services; anchoring larger surface structures, such as floating wind turbines, offshore farms, and FPSO; pipeline and cable inspection services; hydrographic survey services; and ultra high resolution seismic services. The company was incorporated in 2014 and is based in Hvalstad, Norway.",
+  "website": "http://argeo.no"
+}

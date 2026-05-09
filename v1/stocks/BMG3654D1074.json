@@ -1,0 +1,36 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG3654D1074"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "BMG3654D1074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FHGDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FOU1.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Founder Holdings Limited",
+  "primary_symbol": "FHGDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Founder Holdings Limited, an investment holding company, engages in the software development, system integration, and information products distribution activities in Mainland China, Hong Kong, and internationally. It also engages in the properties holding business. The company is headquartered in Tsuen Wan, Hong Kong.",
+  "website": "http://www.founder.com.hk"
+}

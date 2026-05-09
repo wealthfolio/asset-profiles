@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GFWTZ1",
+    "figi": "BBG000GFX118",
+    "isin": "KYG525681477"
+  },
+  "industry_group": "Software & Services",
+  "isin": "KYG525681477",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDIC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDIC.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDIC.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDIC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KDIC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KDIC.SG"
+    }
+  ],
+  "name": "KINGDEE ITL SOFTW.G.SUBD.",
+  "primary_symbol": "KDIC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kingdee Int. Software Grp Co. R is a Chinese software company providing enterprise resource planning (ERP) and cloud services. The company's products are used by businesses for financial management, supply chain management, and customer relationship management. The company is based in Shenzhen, China."
+}

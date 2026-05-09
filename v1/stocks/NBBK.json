@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NBBK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NB Bancorp Inc. Common Stock",
+  "primary_symbol": "NBBK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "NB Bancorp Inc. operates as the holding company for Newburyport Bank. The bank provides a range of financial services, including commercial and retail banking, wealth management, and insurance. NB Bancorp is based in Newburyport, Massachusetts."
+}

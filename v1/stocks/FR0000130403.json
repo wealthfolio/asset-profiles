@@ -1,0 +1,48 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000BMN0J2",
+    "figi": "BBG000BMN397",
+    "isin": "FR0000130403"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0000130403",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIO.MU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "CDI.NZ"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DIO.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CHRISTIAN DIOR INH.  EO 2",
+  "primary_symbol": "DIO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Christian Dior SE is a French holding company that controls LVMH Moët Hennessy Louis Vuitton, the world's largest luxury goods conglomerate. Through LVMH, Christian Dior is involved in the design, manufacture, and sale of a wide range of luxury products, including fashion, leather goods, perfumes, cosmetics, and wines and spirits. Christian Dior SE is headquartered in Paris, France.",
+  "website": "http://www.cdlinvestments.co.nz"
+}

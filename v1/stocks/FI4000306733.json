@@ -1,0 +1,43 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00MQF71V5",
+    "figi": "BBG00MQF7207",
+    "isin": "FI4000306733"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "FI4000306733",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OM0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OM0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "OMASP.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Oma Saastopankki Oyj",
+  "primary_symbol": "OM0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Oma S√É¬§√É¬§st√É¬∂pankki Oyj, a savings bank, provides banking services to private customers, small and medium-sized enterprises, and agriculture and forestry entrepreneurs in Finland. The company offers accounts; cards mortgage, car, renovation, student, business, and other loans, as well as guarantee facilities; savings and investment products; and asset management, payment, insurance, brokerage, and legal and other advisory services, as well as mobile and online banking services. It operates 32 branches. The company was founded in 2009 and is headquartered in Lappeenranta, Finland.",
+  "website": "http://www.omasp.fi"
+}

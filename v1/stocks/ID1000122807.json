@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPLF86",
+    "figi": "BBG000BPLHK8",
+    "isin": "ID1000122807"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "ID1000122807",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASJA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASJA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ASJA.SG"
+    }
+  ],
+  "name": "PT ASTRA INTL TBK  RP 50",
+  "primary_symbol": "ASJA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "PT Astra International Tbk is an Indonesian conglomerate with diverse business interests, including automotive, financial services, heavy equipment, mining, agribusiness, infrastructure, logistics, and information technology. The company is one of the largest diversified groups in Indonesia. PT Astra International Tbk is headquartered in Jakarta, Indonesia."
+}

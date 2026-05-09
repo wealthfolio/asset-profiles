@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BLKD63",
+    "figi": "BBG000BLKGL9",
+    "isin": "HK0011000095"
+  },
+  "industry_group": "Banks",
+  "isin": "HK0011000095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HSB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HSB.SG"
+    }
+  ],
+  "name": "HANG SENG BK LTD",
+  "primary_symbol": "HSB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hang Seng Bank Limited provides a range of banking and financial services, including retail banking, commercial banking, and global markets services. It operates through a network of branches and offices in Hong Kong and mainland China. Hang Seng Bank is headquartered in Hong Kong."
+}

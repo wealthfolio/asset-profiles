@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GWNMG0",
+    "cusip": "887389104",
+    "figi": "BBG000GWNRX0",
+    "isin": "US8873891043"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "US8873891043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TKH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TKH.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "TKR.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TIMKEN CO.",
+  "primary_symbol": "TKH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "The Timken Company engineers, manufactures, and markets bearings, transmissions, gearboxes, chain, and related products, and offers a spectrum of power systems rebuild and repair services. They serve a diverse range of industries worldwide. Timken is headquartered in North Canton, Ohio.",
+  "website": "http://www.timken.com"
+}

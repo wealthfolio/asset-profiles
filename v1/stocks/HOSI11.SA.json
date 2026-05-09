@@ -1,0 +1,24 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "HOSI11.SA"
+    }
+  ],
+  "name": "Fundo De Investimento Imobiliario Housi",
+  "primary_symbol": "HOSI11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "HOSI11 is a Brazilian real estate investment fund (FII) focused on investing in and developing properties for the Housi platform, a residential rental and property management company. The fund aims to provide investors with income and capital appreciation through exposure to the growing residential rental market in Brazil. HOSI11 invests in a portfolio of properties managed and operated by Housi."
+}

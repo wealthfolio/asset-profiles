@@ -1,0 +1,68 @@
+{
+  "country": "Malaysia",
+  "country_code": "MY",
+  "identifiers": {
+    "composite_figi": "BBG00LVCMMB7",
+    "figi": "BBG00LVCMMJ9",
+    "isin": "SE0001200015"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Capital Goods",
+  "isin": "SE0001200015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICQ.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ICQ.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ICQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ICQ.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "IVSO.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0001200015.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SE0001200015.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INVISIO AB  SK 1",
+  "primary_symbol": "ICQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Invisio AB develops and sells advanced communication systems for professional users. Their products include headsets and control units that enable clear communication in challenging environments. Invisio AB is headquartered in Copenhagen, Denmark.",
+  "website": "http://www.icarasia.com"
+}

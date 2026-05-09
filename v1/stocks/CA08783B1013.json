@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00Q9CM6H0",
+    "figi": "BBG00Q9CM6P1",
+    "isin": "CA08783B1013"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA08783B1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BVNNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7BC.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BEV.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA08783B1013.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BevCanna Enterprises Inc.",
+  "primary_symbol": "7BC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "BevCanna Enterprises Inc. develops and manufactures cannabinoid-infused beverages and consumer products for in-house brands and white label clients. It has a 292-acre outdoor cultivation site in the Okanagan Valley and the rights to a pristine spring water aquifer, as well as a facility with a bottling capacity of up to 210M bottles. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.bevcanna.com"
+}

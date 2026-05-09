@@ -1,0 +1,31 @@
+{
+  "country": "Argentina",
+  "country_code": "AR",
+  "identifiers": {
+    "isin": "IE000KDY10O3"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "IE000KDY10O3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "METR.BA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MetroGAS S.A.",
+  "primary_symbol": "METR.BA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "MetroGAS S.A. distributes natural gas in Argentina. It serves approximately 2,500,000 customers. The company was formerly known as Distribuidora de Gas Metropolitano SA. MetroGAS S.A. was founded in 1992 and is based in Buenos Aires, Argentina.",
+  "website": "http://www.metrogas.com.ar"
+}

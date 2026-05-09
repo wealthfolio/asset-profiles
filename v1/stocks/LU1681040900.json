@@ -1,0 +1,31 @@
+{
+  "country": "Russian Federation",
+  "country_code": "RU",
+  "identifiers": {
+    "isin": "LU1681040900"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "LU1681040900",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFLT.ME"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Public Joint Stock Company Aeroflot - Russian Airlines",
+  "primary_symbol": "AFLT.ME",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Public Joint Stock Company Aeroflot - Russian Airlines, together with its subsidiaries, provides passenger and cargo air transportation services in Russia and internationally. It also offers other aviation services from Moscow Sheremetyevo Airport. In addition, the company provides airline catering, finance, education, and technical maintenance services, as well as operates a hotel. As of December 31, 2019, it operated a fleet of 359 aircraft. The company was founded in 1923 and is headquartered in Moscow, Russia.",
+  "website": "http://www.aeroflot.ru"
+}

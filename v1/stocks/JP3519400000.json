@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C3NYZ1",
+    "figi": "BBG000C3P154",
+    "isin": "JP3519400000"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "JP3519400000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CUP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CUP.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CUP.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CUP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CUP.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CHUGAI PHARMACEUT'L",
+  "primary_symbol": "CUP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Chugai Pharmaceutical Co., Ltd. is a research-based pharmaceutical company with strengths in biotechnology products. The company focuses on prescription pharmaceuticals for oncology, renal disease, and bone and joint diseases. Chugai Pharmaceutical is headquartered in Tokyo, Japan.",
+  "website": "http://www.countplus.com.au"
+}

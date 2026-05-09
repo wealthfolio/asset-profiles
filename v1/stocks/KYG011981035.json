@@ -1,0 +1,58 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000L0XKM0",
+    "figi": "BBG000L0XQM7",
+    "isin": "KYG011981035"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG011981035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGPYF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGPYY"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3383.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A8P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A8P.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AGILE GRP HLDG.LTD.HD-,10",
+  "primary_symbol": "A8P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Agile Group Holdings Limited is a property developer based in China. The company focuses on developing large-scale mixed-use projects, including residential properties, hotels, and commercial properties. Agile Group is headquartered in Guangzhou, China.",
+  "website": "http://www.agile.com.cn"
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "QETH-UN.TO"
+    }
+  ],
+  "name": "The Ether Fund",
+  "primary_symbol": "QETH-UN.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "The Ether Fund is a closed-end investment fund designed to provide investors with exposure to the digital currency Ether. The fund purchases and holds Ether, providing investors with a convenient and regulated way to invest in this cryptocurrency. The fund is based in Canada."
+}

@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00VSYRFZ5",
+    "cusip": "74319F107",
+    "isin": "US74319F1075"
+  },
+  "isin": "US74319F1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US74319F1075.SG"
+    }
+  ],
+  "name": "PROGENITY INC",
+  "primary_symbol": "US74319F1075.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TAVIR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Tavia Acquisition Corp. Right",
+  "primary_symbol": "TAVIR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Tavia Acquisition Corp. Right represents the right to receive a fraction of a share upon completion of a business combination. Rights are often issued as part of a unit offering by a SPAC. The company is based in Singapore."
+}

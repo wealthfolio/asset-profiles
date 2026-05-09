@@ -1,0 +1,31 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000C3WLX1",
+    "figi": "BBG000C3WM23"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1Q6.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Prosafe SE",
+  "primary_symbol": "1Q6.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Prosafe SE, together with its subsidiaries, owns and operates semi-submersible accommodation vessels in Europe, South America, and internationally. The company is also involved in the maintenance and modification of installations on fields for the production, hook-up and commissioning of new fields, tie-backs to existing infrastructure, and decommissioning activities. It owns and operates a fleet of seven semi-submersible accommodation vessels and one tender support vessel. The company primarily serves oil and gas industries. Prosafe SE was founded in 1972 and is headquarter in Stavanger, Norway.",
+  "website": "http://www.prosafe.com"
+}

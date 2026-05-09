@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JC19F5",
+    "cusip": "775711104",
+    "figi": "BBG000JC1D11",
+    "isin": "US7757111049"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US7757111049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RLS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ROL"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "R1OL34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RLS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RLS.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "RLS.ST"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ROLLINS INC.  DL 1",
+  "primary_symbol": "RLS.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Rollins, Inc. provides pest and termite control services to residential and commercial customers. The company operates through its subsidiaries, including Orkin, PCO, and HomeTeam Pest Defense. Rollins aims to protect homes and businesses from pests and provide exceptional customer service.",
+  "website": "http://www.rollins.com"
+}

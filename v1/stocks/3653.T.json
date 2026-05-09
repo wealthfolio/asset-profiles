@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3653.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Morpho, Inc.",
+  "primary_symbol": "3653.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Morpho, Inc. engages in the research, development, and licensing of image processing technologies in Japan. It offers image and motion stabilization; AI inference software; video processing software package; artificial bokeh effect; flash reduction; noise reduction; HDR and DR-corrected image generation; panorama image generation; high-speed video generation; visual SLAM; and motion vector and face detection. The company also provides imaging effect filters library; rectangle object detection and extraction; image classification and super resolution; focus-adjustable image generation; frame interpolator; and posture estimation technologies. Its solutions are embedded in camera phones, digital cameras, and other mobile devices. Morpho, Inc. was founded in 2004 and is based in Tokyo, Japan.",
+  "website": "http://www.morphoinc.com"
+}

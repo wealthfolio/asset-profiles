@@ -1,0 +1,35 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BNYK8G86"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "GB00BNYK8G86",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DARK.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BNYK8G86.SG"
+    }
+  ],
+  "name": "Darktrace plc",
+  "primary_symbol": "DARK.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Darktrace plc operates as an autonomous cyber security artificial intelligence (AI) company in the United Kingdom and internationally. The company offers cyber defense solutions, which autonomously detects, investigates, and responds to advanced cyber-threats, including insider threat, remote working risks, ransomware, data loss, and supply chain vulnerabilities. It provides Enterprise Immune System that discovers unpredictable cyber-threats; Industrial Immune System, which detects novel threats and vulnerabilities; Cyber AI Analyst, an AI investigation technology that automatically triages, interprets, and reports on the full scope of security incidents; Antigena Network, an autonomous response technology; and Antigena Email, which stop the email threats, intervening to protect employees from the full range of threats targeting the inbox. The company offers its solutions to financial services, manufacturing and supply, education, energy and utilities, technology and telecom, retail and ecommerce, legal and HR, healthcare and pharma, media and entertainment, and defense industries, as well as government and nonprofit organizations. Darktrace plc was incorporated in 2013 and is headquartered in Cambridge, United Kingdom.",
+  "website": "http://www.darktrace.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000L0G5W1",
+    "cusip": "89854H102",
+    "figi": "BBG000L0GBK1",
+    "isin": "US89854H1023"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US89854H1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TH1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TH1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTEC"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TH1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TH1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TH1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TTEC HLDGS INC.  DL-,01",
+  "primary_symbol": "TH1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TTEC Holdings, Inc. is a global customer experience technology and services company. They provide digital customer engagement, technology, and consulting solutions to businesses across various industries. The company is headquartered in Englewood, Colorado.",
+  "website": "http://www.ttec.com"
+}

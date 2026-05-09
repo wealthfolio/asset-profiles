@@ -1,0 +1,37 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZZNNX41",
+    "isin": "NO0003058109"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "NO0003058109",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0003058109.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NOHAL.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NORDIC HALIBUT AS",
+  "primary_symbol": "NO0003058109.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Nordic Halibut AS is involved in the production and sale of farmed halibut. The company is based in Norway. Their halibut are sold to restaurants and retailers around the world.",
+  "website": "http://www.nordichalibut.com"
+}

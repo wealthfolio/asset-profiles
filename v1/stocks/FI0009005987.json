@@ -1,0 +1,52 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000N8ZGV8",
+    "figi": "BBG000N8ZKQ5",
+    "isin": "FI0009005987"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Materials",
+  "isin": "FI0009005987",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RPL.DU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "RPL.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RPL.SG"
+    }
+  ],
+  "name": "UPM KYMMENE CORP.",
+  "primary_symbol": "RPL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "UPM-Kymmene Corporation is a Finnish forest industry company that manufactures pulp, paper, and other forest products. The company's products are used in a wide range of applications including packaging, printing, and specialty papers. UPM-Kymmene Corporation is headquartered in Helsinki, Finland.",
+  "website": "http://www.rdireit.com"
+}

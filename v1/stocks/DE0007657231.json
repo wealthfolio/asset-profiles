@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BFNP02",
+    "figi": "BBG000BFNS79",
+    "isin": "DE0007657231"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "DE0007657231",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIB3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIB3.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIB3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIB3.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0OPA.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VIB3.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VIB3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VIB3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VIB3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VILLEROY + BOCH AG VZ",
+  "primary_symbol": "VIB3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "VILLEROY + BOCH AG VZ manufactures and sells ceramic products for bathrooms and kitchens, as well as tableware and lifestyle products. The company operates through two divisions: Bathroom and Wellness, and Tableware. Villeroy & Boch is headquartered in Mettlach, Germany.",
+  "website": "http://www.villeroyboch-group.com"
+}

@@ -1,0 +1,21 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EDUCA18.MX"
+    }
+  ],
+  "name": "Banco INVEX, S.A., IBM, INVEX GF, como Fiduciario del Fideicomiso Irrevocable No. F/3277",
+  "primary_symbol": "EDUCA18.MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00QTDLTM1",
+    "figi": "BBG00QTDLTP8",
+    "isin": "CA36168Q1046"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "CA36168Q1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "36E.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA36168Q1046.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GFL.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "GFL.NZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GFL ENVIRONM.(SUB.VT.SH.)",
+  "primary_symbol": "36E.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "GFL Environmental Inc. provides environmental services in North America. They offer solid waste management, liquid waste management and soil remediation services. The company is headquartered in Vaughan, Ontario, Canada.",
+  "website": "http://www.globalmastersfund.com.au"
+}

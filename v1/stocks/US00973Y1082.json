@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00PNFSCC5",
+    "cusip": "00973Y108",
+    "figi": "BBG00PNFSCK6",
+    "isin": "US00973Y1082"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00973Y1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0K4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKRO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0K4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US00973Y1082.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AKERO THEREP.INC.DL-,0001",
+  "primary_symbol": "0K4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Akero Therapeutics, Inc. is a clinical-stage company focused on developing transformative treatments for patients with non-alcoholic steatohepatitis (NASH) and other serious metabolic diseases. Their lead product candidate, efruxifermin (EFX), is designed to improve liver health by reducing liver fat and inflammation. The company is headquartered in South San Francisco, California",
+  "website": "http://www.akerotx.com"
+}

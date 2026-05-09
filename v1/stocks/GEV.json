@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GEV"
+    }
+  ],
+  "market_cap_band": "Mega Cap",
+  "name": "GE Vernova Inc. Common Stock",
+  "primary_symbol": "GEV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "GE Vernova Inc. is an energy company formed from the spin-off of GE's power, renewable energy, and digital businesses. The company focuses on providing equipment, services, and software for the energy transition, including power generation, grid modernization, and electrification. GE Vernova aims to accelerate the path to more reliable, affordable, and sustainable energy."
+}

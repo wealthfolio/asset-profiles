@@ -1,0 +1,25 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAWW"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Nova Minerals Limited Warrant",
+  "primary_symbol": "NVAWW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nova Minerals Limited Warrant is a derivative security related to Nova Minerals Limited, granting the holder the right, but not the obligation, to purchase shares of the underlying stock at a specified price and date. Nova Minerals is an Australian exploration company. The warrants provide a leveraged way to invest in the potential upside of Nova Minerals' stock."
+}

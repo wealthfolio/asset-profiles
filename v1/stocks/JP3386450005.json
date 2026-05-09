@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QP1DX9",
+    "figi": "BBG000QP1H51",
+    "isin": "JP3386450005"
+  },
+  "industry_group": "Energy",
+  "isin": "JP3386450005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHJ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JHJ.SG"
+    }
+  ],
+  "name": "ENEOS HOLDINGS INC.",
+  "primary_symbol": "JHJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "ENEOS Holdings, Inc. is a Japanese petroleum company involved in the refining and marketing of petroleum products, as well as the development of energy resources. The company operates refineries, service stations, and other facilities related to the energy industry. The company is headquartered in Tokyo, Japan."
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "21833P301",
+    "isin": "US21833P3010"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US21833P3010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3371.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Softcreate Holdings Corp.",
+  "primary_symbol": "3371.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Softcreate Holdings Corp., through its subsidiaries, provides system integration and other IT related services in Japan. The company offers EC solutions by providing value-added services, such as promotions in addition to selling and customizing the EC site construction package; and hosting services at the data center. It also provides system integration services comprising network construction and cloud services for three software products, including X-point, AgileWorks, and L2Blocker; and sells IT equipment, such as personal computers and servers to corporate customers, as well as provides commercial package software. The company was founded in 1983 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.softcreate-holdings.co.jp"
+}

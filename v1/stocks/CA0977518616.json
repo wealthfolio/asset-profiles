@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA0977518616"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "CA0977518616",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBDC"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "BBDC.BA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TRY.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Barings BDC, Inc.",
+  "primary_symbol": "BBDC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Barings BDC, Inc. (NYSE: BBDC) is a publicly traded, externally managed investment company that has elected to be treated as a business development company under the Investment Company Act of 1940. Barings BDC seeks to invest primarily in senior secured loans to private U.S. middle-market companies that operate across a wide range of industries. It specializes in mezzanine, leveraged buyouts, management buyouts, ESOPs, change of control transactions, acquisition financings, growth financing, and recapitalizations in lower middle market, mature, and later stage companies. Barings BDC's investment activities are managed by its investment adviser, Barings LLC, a leading global asset manager based in Charlotte, NC with over $335 billion of AUM firm-wide. For more information, visit www.baringsbdc.com.",
+  "website": "http://www.baringsbdc.com"
+}

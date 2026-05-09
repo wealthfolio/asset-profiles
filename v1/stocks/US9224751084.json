@@ -1,0 +1,77 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "922475108",
+    "isin": "US9224751084"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Software & Services",
+  "isin": "US9224751084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VEE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VEE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VEEV"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LO3.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VEE.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VEE.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VEE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VEE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VEE.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "VEEV.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "VEEVA SYSTEMS A DL-,00001",
+  "primary_symbol": "VEE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Veeva Systems Inc. provides cloud-based software solutions for the life sciences industry. Their products and services include Veeva CRM, Veeva Vault, and Veeva Network, designed to help pharmaceutical and biotechnology companies manage their commercial, medical, and regulatory processes. Veeva Systems is headquartered in Pleasanton, California.",
+  "website": "http://www.veeva.com"
+}

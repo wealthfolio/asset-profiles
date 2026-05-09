@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YHL49W1",
+    "figi": "BBG00YHL4B38",
+    "isin": "IE00BKS8QT65"
+  },
+  "isin": "IE00BKS8QT65",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TY3S.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TY3S.MU"
+    }
+  ],
+  "name": "WITR MU.AS.I.TREAS.Z14/62",
+  "primary_symbol": "TY3S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

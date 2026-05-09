@@ -1,0 +1,71 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "isin": "AT00000FACC2"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "AT00000FACC2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QW9.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "1FC.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1FC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1FC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1FC.SG"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "FACC.PR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FACC.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FACC AG FACC ORD SHS",
+  "primary_symbol": "0QW9.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FACC AG is an Austrian aerospace company that designs, develops, and manufactures lightweight components and systems for the aviation industry. The company's products include cabin interiors, engine nacelles, and structural components for commercial aircraft and business jets. FACC is headquartered in Ried im Innkreis, Austria.",
+  "website": "http://www.facc.com"
+}

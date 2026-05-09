@@ -1,0 +1,68 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG000LHG9Y4",
+    "figi": "BBG000LHHGS4",
+    "isin": "FI0009014377"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FI0009014377",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OFK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OFK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORINF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OFK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OFK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OFK.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "ORNAV.HE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "ORNBV.HE"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ORION CORP. B",
+  "primary_symbol": "OFK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Orion Corporation is a Finnish pharmaceutical company that develops, manufactures, and markets human and veterinary pharmaceuticals and active pharmaceutical ingredients. The company focuses on developing novel therapies and diagnostic tests for various diseases. Orion Corporation is headquartered in Espoo, Finland.",
+  "website": "http://www.orion.fi"
+}

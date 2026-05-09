@@ -1,0 +1,38 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00QLDVMM3",
+    "figi": "BBG00QLDVMN2",
+    "isin": "IT0005340051"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "IT0005340051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3K4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SCK.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Sciuker Frames S.p.A.",
+  "primary_symbol": "3K4.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sciuker Frames S.p.A. designs, manufactures, and sells aluminum wood and structural glass wood windows in Italy. It also offers aluminum shutters. The company is headquartered in Contrada, Italy.",
+  "website": "http://www.sciuker.it"
+}

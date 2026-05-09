@@ -1,0 +1,61 @@
+{
+  "identifiers": {
+    "isin": "DE0008430026"
+  },
+  "industry_group": "Insurance",
+  "isin": "DE0008430026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0KFE.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUV2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUV2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUV2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUV2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUV2.TI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MUV2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MUV2.SG"
+    }
+  ],
+  "name": "MUENCHENER RUECKVERSICHERUNGS G",
+  "primary_symbol": "0KFE.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München (Munich Re) is a leading global reinsurer, providing reinsurance, primary insurance, and insurance-related risk solutions. The company's reinsurance business covers a wide range of risks, including property-casualty, life, and health. Munich Re is headquartered in Munich, Germany"
+}

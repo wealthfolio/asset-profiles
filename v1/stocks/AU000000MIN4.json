@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C3G6C5",
+    "figi": "BBG000C3G966",
+    "isin": "AU000000MIN4"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000MIN4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F5J.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F5J.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F5J.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F5J.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F5J.SG"
+    }
+  ],
+  "name": "MINERAL RES LTD",
+  "primary_symbol": "F5J.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mineral Resources Limited is an Australian mining services and processing company. The company provides services such as contract crushing, screening, and processing of iron ore and lithium, as well as owning and operating its own mines. Mineral Resources is headquartered in Perth, Western Australia."
+}

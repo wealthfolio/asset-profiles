@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QPJM79",
+    "isin": "SE0007075056"
+  },
+  "industry_group": "Energy",
+  "isin": "SE0007075056",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0007075056.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SE0007075056.SW"
+    }
+  ],
+  "name": "EOLUS VIND AB-B SHS",
+  "primary_symbol": "SE0007075056.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "EOLUS VIND AB-B SHS develops, constructs, and operates wind farms. They are involved in all stages of wind power projects, from early development to operation and maintenance. The company is headquartered in Hässleholm, Sweden."
+}

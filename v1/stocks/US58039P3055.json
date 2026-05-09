@@ -1,0 +1,84 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BW6CN8",
+    "cusip": "58039P305",
+    "figi": "BBG000BW6FX0",
+    "isin": "US58039P3055"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US58039P3055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "US8A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "US8A.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JZT.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MUX.MX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MUX.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "MUX.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "US8A.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "US8A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "US8A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "McEwen Mining Inc.",
+  "primary_symbol": "MUX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "McEwen Mining Inc. engages in the exploration, development, production, and sale of gold and silver deposits in the United States, Canada, Mexico, and Argentina. The company also explores for copper deposits. The company primarily owns a 100% interest in the Gold Bar mine in Eureka County, Nevada; the Black Fox gold mine in Ontario, Canada; the El Gallo Project and Fenix silver-gold project in Sinaloa, Mexico; the Los Azules copper deposit in San Juan, Argentina; and a portfolio of exploration properties in Nevada, Canada, Mexico, and Argentina. It also owns a 49% interest in the San Jos√É¬© mine located in Argentina. The company was formerly known as US Gold Corporation and changed its name to McEwen Mining Inc. in January 2012. McEwen Mining Inc. was founded in 1979 and is headquartered in Toronto, Canada.",
+  "website": "http://www.mcewenmining.com"
+}

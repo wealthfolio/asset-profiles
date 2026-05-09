@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0043P5GQ3",
+    "cusip": "09739D100",
+    "figi": "BBG0043P5GX5",
+    "isin": "US09739D1000"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "US09739D1000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BC0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BCC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BC0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BC0.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BCC.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BOISE CASCADE CO. DL -,01",
+  "primary_symbol": "BC0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Boise Cascade Company manufactures wood products and distributes building materials in North America. The company operates in two segments: Wood Products and Building Materials Distribution. It is headquartered in Boise, Idaho.",
+  "website": "http://www.bc.com"
+}

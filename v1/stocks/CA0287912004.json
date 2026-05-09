@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA0287912004"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA0287912004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USGDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA0287912004.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "USGD.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "American Pacific Mining Corp.",
+  "primary_symbol": "USGDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "American Pacific Mining Corp., a gold exploration company, engages in the exploration and development of mineral properties in the Western United States. It primarily explores for gold and silver deposits. The company has an option to acquire 100% interest in the Tuscarora Gold project that consists of 91 claims that cover an area of approximately 1,818 acres within the Tuscarora Mining District in Elko County; and Gooseberry Gold project, which consist of 42 unpatented claims covering an area of approximately 708 acres located in Storey Country, Ramsey Mining District. American Pacific Mining Corp. was incorporated in 2017 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.americanpacific.ca"
+}

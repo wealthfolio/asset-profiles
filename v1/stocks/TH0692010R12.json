@@ -1,0 +1,53 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BJ9FH4",
+    "figi": "BBG000BJ9JZ6",
+    "isin": "TH0692010R12"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "TH0692010R12",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MVX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MVX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MVX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MVX.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TSTH-R.BK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TATA STEEL(TH)-NVDR- BA 1",
+  "primary_symbol": "MVX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tata Steel (Thailand) Public Company Limited, together with its subsidiaries, manufactures, distributes, and trades in steel bars, wire rods, and small section products primarily in Thailand. The company offers reinforcing bars (rebar); low and high carbon wire rods; carbon wire rod for cold heading; wire rod for welding electrode; small section structural steel, consisting of angle and channel steel; carbon steel round bars; and cut and bend rebar. The company also exports its products. The company was formerly known as Millennium Steel Public Company Limited and changed its name to Tata Steel (Thailand) Public Company Limited in December 2006. Tata Steel (Thailand) Public Company Limited is headquartered in Bangkok, Thailand. Tata Steel (Thailand) Public Company Limited is a subsidiary of T S Global Holdings Pte. Ltd.",
+  "website": "http://www.tatasteelthailand.com"
+}

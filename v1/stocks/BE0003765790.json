@@ -1,0 +1,73 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00GCRJDG5",
+    "figi": "BBG00GCRJDN7",
+    "isin": "BE0003765790"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "BE0003765790",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2P1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2P1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JZ8.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2P1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2P1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2P1.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "GREEN.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "GREEN.BR"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "GREEN.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GREENYARD N.V.",
+  "primary_symbol": "2P1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Greenyard N.V. is a global market leader of fresh, frozen, and prepared fruit and vegetables, flowers and plants. The company supplies retailers, food service companies, and the food industry worldwide. Greenyard is headquartered in Sint-Katelijne-Waver, Belgium.",
+  "website": "http://www.greenyard.group"
+}

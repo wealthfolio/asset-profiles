@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C5XT13",
+    "figi": "BBG000C5XXF9",
+    "isin": "DE0007480204"
+  },
+  "industry_group": "Real Estate",
+  "isin": "DE0007480204",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEQ.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEQ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEQ.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0007480204.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DEQ.DU"
+    }
+  ],
+  "name": "DEUTSCHE EUROSHOP NA O.N.",
+  "primary_symbol": "DEQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "DEUTSCHE EUROSHOP NA O.N. is a German real estate investment trust (REIT). They invest in and manage shopping centers across Europe. The company is headquartered in Hamburg, Germany."
+}

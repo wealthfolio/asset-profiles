@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA15234A1030"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA15234A1030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNTRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA15234A1030.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CNTR.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CENTR Brands Corp.",
+  "primary_symbol": "CNTRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CENTR Brands Corp. engages in the development and marketing of beverages infused with hemp-derived extracts and derivatives. The company primarily offers cannabidiol beverages. It offers CENTR, a CBD beverage product. CENTR Brands Corp. was founded in 2012 and is based in Vancouver, Canada.",
+  "website": "http://findyourcentr.com"
+}

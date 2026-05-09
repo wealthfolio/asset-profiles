@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000LG6021",
+    "cusip": "29670G102",
+    "figi": "BBG000LG64Y8",
+    "isin": "US29670G1022"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "US29670G1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A2A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A2A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTRG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "A2A.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "A2A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A2A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "A2A.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US29670G1022.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ESSENTIAL UTILIC.  DL-,50",
+  "primary_symbol": "A2A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "A2A S.p.A. is an Italian multi-utility company that operates in the energy, water, and waste management sectors. The company produces, distributes, and sells electricity and gas and provides services such as waste collection, treatment, and recycling. Headquartered in Brescia, Italy, A2A aims to deliver sustainable and efficient utility services to its customers.",
+  "website": "http://www.essential.co"
+}

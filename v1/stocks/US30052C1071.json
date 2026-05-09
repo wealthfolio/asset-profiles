@@ -1,0 +1,62 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "30052C107",
+    "isin": "US30052C1071"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US30052C1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EOLS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVL.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K16.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EVL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EVL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EVL.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Evolus, Inc.",
+  "primary_symbol": "EOLS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Evolus, Inc., a performance beauty company, provides medical aesthetic products for physicians and their patients in the United States. It offers Jeuveau, a proprietary 900 kilodalton purified botulinum toxin type A formulation for the temporary improvement in the appearance of moderate to severe glabellar lines in adults. The company was founded in 2012 and is headquartered in Newport Beach, California.",
+  "website": "http://www.evolus.com"
+}

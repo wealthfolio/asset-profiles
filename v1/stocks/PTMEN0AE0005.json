@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "PTMEN0AE0005"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "PTMEN0AE0005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0FB0.IL"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EGL.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "EGL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "EGL.LS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M09.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M09.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M09.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MOTA ENGIL SGPS SA MOTA-ENGIL S",
+  "primary_symbol": "0FB0.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mota-Engil SGPS SA is a Portuguese construction and engineering group operating in the areas of infrastructure, environment and services. The company is involved in construction, civil engineering, public works, waste management, and other related activities. Mota-Engil is headquartered in Porto, Portugal.",
+  "website": "http://www.environmental.com.au"
+}

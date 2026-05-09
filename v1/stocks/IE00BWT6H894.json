@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HXMCV3",
+    "figi": "BBG000HXMHW1",
+    "isin": "IE00BWT6H894"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "IE00BWT6H894",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PPB.DU"
+    }
+  ],
+  "name": "FLUTTER ENTMT PLC  EO-,09",
+  "primary_symbol": "PPB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Flutter Entertainment PLC is a global sports-betting and gaming company offering sports betting, gaming, and entertainment products to millions of customers worldwide. Its brands include FanDuel, Sky Betting & Gaming, PokerStars, Paddy Power, and Betfair. The company is headquartered in Dublin, Ireland."
+}

@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00QDB3MQ3",
+    "cusip": "683373104",
+    "figi": "BBG00QDB3N09",
+    "isin": "US6833731044"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US6833731044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HY1N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HY1N.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HY1N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6833731044.SG"
+    }
+  ],
+  "name": "ONTRAK INC.  DL -,0001",
+  "primary_symbol": "HY1N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Ontrak, Inc. is a telehealth company that provides AI-powered, personalized virtual care solutions to health plans and employers. The company's platform aims to improve the health and wellness of its members by providing them with access to behavioral health support, chronic condition management, and care navigation services. Ontrak, Inc. is headquartered in Santa Monica, California, USA."
+}

@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00QXL9W81",
+    "figi": "BBG00QXL9W90",
+    "isin": "FR0013156007"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0013156007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "344.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALKLK.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013156007.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Kerlink SA",
+  "primary_symbol": "344.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kerlink SA provides network infrastructure solutions for the Internet of things (IoT) market to historical and alternative operators, businesses, and utilities worldwide. It offers devices and sensors, comprising of Reference Design Low Power IoT, a package that includes hardware, software, tools, and recommendations for prototyping and producing a final product; Wirnet RF Modules for transmitting data from a remote device to a gateway; and Wanesy Wave that offers real-time information on assets position or people counting information to hospitals, buildings, industrial site managers, and mall operators. The company also provides Wirnet iStation, a LoRaWAN gateway; Wirnet iFemtoCell-evolution for indoor coverage and/or network densification for smart city, smart building, and smart project; Wirgrid Station, a LAN/WAN software bridge designed for automated remote reading applications; Wirgrid Collect 868 for submetering applications; Wanesy Small Private Network, an entry-level and secured management solution for indoor and mixed indoor/outdoor use; and Wanesy Management Center, a solution to deploy, operate, and manage LoRaWAN IoT network. In addition, it offers Wanesy Geolocation solution that helps to locate end-devices without GPS; Wanesy Device Management solution, an application service, which allows users to interact from a central management interface simultaneously with a batch of end-devices primarily for configuration and firmware upgrade; Wanesy Network-as-a-Service that combines key infrastructure, operations, security, and professional services delivered through a one-stop-shop relationship; and professional services, such as network planning, tests, and certifications. Kerlink SA was incorporated in 2004 and is headquartered in Thorigne-Fouillard, France.",
+  "website": "http://www.kerlink.com"
+}

@@ -1,0 +1,71 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003796171"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0003796171",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RC2.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7PI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7PI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7PI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7PI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7PI.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003796171.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PST.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "PST.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "POSTE ITALIANE SPA POSTE ITALIA",
+  "primary_symbol": "0RC2.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "POSTE ITALIANE SPA is an Italian postal service and financial services company. The company provides mail and parcel delivery services, as well as banking, insurance, and payment services. POSTE ITALIANE SPA is headquartered in Rome, Italy.",
+  "website": "http://www.posteitaliane.it"
+}

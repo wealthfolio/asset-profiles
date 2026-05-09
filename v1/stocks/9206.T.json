@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9206.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Star Flyer Inc.",
+  "primary_symbol": "9206.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Star Flyer Inc. provides air transportation services in Japan. The company was founded in 2002 and is headquartered in Kitakyushu, Japan.",
+  "website": "http://www.starflyer.jp"
+}

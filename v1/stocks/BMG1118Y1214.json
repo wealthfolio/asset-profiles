@@ -1,0 +1,48 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000CMRGG5",
+    "figi": "BBG000CMRKC0",
+    "isin": "BMG1118Y1214"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "BMG1118Y1214",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WS7A.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2886.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WS7A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WS7A.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BINHAI INVESTM.CO. HD-,10",
+  "primary_symbol": "WS7A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "BINHAI INVESTM.CO. HD-,10 is likely Binhai Investment Company Limited, an investment company with holdings in various sectors, possibly including infrastructure and energy. It is based in China. The company focuses on developing projects within the Binhai New Area.",
+  "website": "http://www.binhaiinv.com"
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0002178181"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Capital Goods",
+  "isin": "CH0002178181",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A0C.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SRAIL.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Stadler Rail AG",
+  "primary_symbol": "0A0C.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Stadler Rail AG designs, manufactures, and sells trains in Switzerland and internationally. The company operates through two segments, Rolling Stock; and Service and Components. Its Rolling Stock segment manufactures high-speed and intercity trains, suburban and regional transport trains, city transport, locomotives, and tailor made vehicles, as well as passenger coaches, light rails, metros, and trams. The company's Service and Component segment offers modernization and revision, spare parts, vehicle repairs, upgrading and overhauling, and maintenance services, as well as supplies vehicle components, such as car bodies or bogies. Stadler Rail AG was founded in 1942 and is headquartered in Bussnang, Switzerland.",
+  "website": "http://www.stadlerrail.com"
+}

@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000J6KFB7",
+    "cusip": "377320106",
+    "figi": "BBG000J6KLQ8",
+    "isin": "US3773201062"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "US3773201062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GLN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GLT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GLN.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GLATFELTER CORP.  DL-,01",
+  "primary_symbol": "GLN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "GLATFELTER CORP. DL-,01 is a global manufacturer of engineered materials specializing in nonwoven fabrics and specialty papers. The company serves a wide range of industries including hygiene, healthcare, and food packaging. The company is headquartered in Charlotte, North Carolina.",
+  "website": "http://www.glatfelter.com"
+}

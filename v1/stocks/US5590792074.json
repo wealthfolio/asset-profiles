@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00KD8ZLF2",
+    "cusip": "559079207",
+    "isin": "US5590792074"
+  },
+  "isin": "US5590792074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5590792074.SG"
+    }
+  ],
+  "name": "MAGELLAN HEALTH INC",
+  "primary_symbol": "US5590792074.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

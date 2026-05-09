@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0001157020"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "IT0001157020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ERG.MI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ERG S.p.A.",
+  "primary_symbol": "ERG.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "ERG S.p.A., through its subsidiaries, produces energy through renewable sources in Italy, France, Germany, Poland, Bulgaria, and Romania. The company generates electricity through wind, solar, hydroelectric, and thermoelectric power plants, as well as natural gas cogeneration plants. As of December 31, 2020, it had wind farms installed capacity of 1,967 MW; solar plants installed capacity of 141 MW; hydroelectric plants installed capacity of 527 MW; and thermoelectric plants installed capacity of 480 MW. The company was founded in 1938 and is headquartered in Genoa, Italy. ERG S.p.A. is a subsidiary of San Quirico S.p.A.",
+  "website": "http://www.erg.eu"
+}

@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "FR0000131757"
+  },
+  "industry_group": "Materials",
+  "isin": "FR0000131757",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MGV.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ER7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ER7.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ER7.DU"
+    }
+  ],
+  "name": "ERAMET SA ERAMET ORD SHS",
+  "primary_symbol": "0MGV.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Eramet SA is a mining and metallurgical group that produces alloying metals, such as manganese, nickel, and titanium dioxide. The company has operations in several countries and is headquartered in Paris, France."
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000DHNG15",
+    "figi": "BBG000DHNGN1",
+    "isin": "CA55903Q1046"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA55903Q1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MQ8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MQ8.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MAG.AX"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "MAG.ST"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MAG.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MQ8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MQ8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MQ8.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MAG Silver Corp.",
+  "primary_symbol": "MAG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "MAG Silver Corp. engages in the exploration and development of silver mining properties. It also explores for gold, lead, and zinc deposits. It primarily holds 44% interest in the Juanicipio project located in the Fresnillo District, Zacatecas State, Mexico. The company was incorporated in 2003 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.magsilver.com"
+}

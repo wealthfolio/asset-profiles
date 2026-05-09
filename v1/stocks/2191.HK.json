@@ -1,0 +1,25 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2191.HK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SF Real Estate Investment Trust",
+  "primary_symbol": "2191.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "SF Real Estate Investment Trust is a real estate investment trust (REIT) listed in Hong Kong. It invests primarily in logistics properties located in Greater China, generating income from rental revenue. The REIT is managed by SF REIT Asset Management Limited."
+}

@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C13CD9",
+    "cusip": "127387108",
+    "figi": "BBG000C13KQ7",
+    "isin": "US1273871087"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US1273871087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDNS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDS.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HS2.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "C1DN34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CDNS.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CDS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CDS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CDS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CDS.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Cadence Design Systems, Inc.",
+  "primary_symbol": "CDNS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cadence Design Systems, Inc. provides software, hardware, services, and reusable integrated circuit (IC) design blocks worldwide. The company offers functional verification services, including emulation and prototyping hardware. Its functional verification offering consists of JasperGold, a formal verification platform; Xcelium, a parallel logic simulation platform; Palladium, an enterprise emulation platform; and Protium, a prototyping platform for chip verification. The company also provides digital IC design products, including Genus logic synthesis and RTL power solutions, as well as Modus software solution to reduce systems-on-chip design-for-test time; physical implementation tools, including place and route, optimization, and multiple patterning preparation; and signoff products to signoff the design as ready for manufacture by a silicon foundry. In addition, it offers custom IC design and simulation products to create schematic and physical representations of circuits down to the transistor level for analog, mixed-signal, custom digital, memory, and radio frequency designs; and system design and analysis products to develop printed circuit boards and IC packages, as well as to analyze electromagnetic, electro-thermal, and other multi-physics effects. Further, the company provides intellectual property (IP) products consisting of pre-verified and customizable functional blocks to integrate into customer's ICs; and verification IP and memory models to verify the correct interaction with dozens of design IP interface protocols. Additionally, it offers services related to methodology, education, and hosted design solutions, as well as technical support and maintenance services. Cadence Design Systems, Inc. was incorporated in 1988 and is headquartered in San Jose, California.",
+  "website": "http://www.cadence.com"
+}

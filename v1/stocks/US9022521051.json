@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BVWZF9",
+    "cusip": "902252105",
+    "figi": "BBG000BVX1N4",
+    "isin": "US9022521051"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US9022521051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TYL"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "TYL.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TYP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TYP.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Tyler Technologies, Inc.",
+  "primary_symbol": "TYL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Tyler Technologies, Inc. provides integrated information management solutions and services for the public sector in the United States and internationally. The company operates in two segments, Enterprise Software, and Appraisal and Tax. It offers financial management solutions, including modular fund accounting systems for government agencies or not-for-profit entities; utility billing systems for the billing and collection of metered and non-metered services; products to automate city and county functions, such as municipal courts, parking tickets, equipment and project costing, animal and business licenses, permits and inspections, code enforcement, citizen complaint tracking, ambulance billing, fleet maintenance, and cemetery records management; and student information and transportation solutions for K-12 schools. The company also provides a suite of judicial solutions comprising court case management, court and law enforcement, prosecutor, and supervision systems to handle multi-jurisdictional county or statewide implementations, and single county systems; public safety software solutions; systems and software to automate the appraisal and assessment of real and personal property, as well as tax applications for agencies that bill and collect taxes; planning, regulatory, and maintenance software solutions for public sector agencies; software applications to enhance and automate operations involving records and document management; and data and insights solutions. In addition, it offers software as a service arrangements and electronic document filing solutions for courts and law offices; software and hardware installation, data conversion, training, product modification, and maintenance and support services; and property appraisal outsourcing services for taxing jurisdictions. Tyler Technologies, Inc. has a strategic collaboration agreement with Amazon Web Services for cloud hosting services. The company was founded in 1966 and is headquartered in Plano, Texas.",
+  "website": "http://www.tylertech.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA91380M1005"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "CA91380M1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UPIPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8LH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA91380M1005.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "UPI.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Universal PropTech Inc.",
+  "primary_symbol": "UPIPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Universal PropTech Inc., through its subsidiary, VCI Controls Inc., provides building technology solutions and services in Canada. The company develops intelligent building technology, including the integration disparate building systems. It provides real estate managers turnkey HVAC building controls, including design, equipment, installation, ongoing operations, and maintenance services for industrial, commercial, institutional, and multi-residential customers. Universal PropTech Inc. was incorporated in 2008 and is based in Vaughan, Canada.",
+  "website": "http://www.universalproptech.com"
+}

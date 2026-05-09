@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00ZDQ54X0",
+    "figi": "BBG00ZDQ5512",
+    "isin": "XS2284324667"
+  },
+  "industry_group": "Energy",
+  "isin": "XS2284324667",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "WNRG.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WNRG.DU"
+    }
+  ],
+  "name": "WisdomTree Energy Enhanced - EUR Daily Hedged ETC",
+  "primary_symbol": "WNRG.DE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "WisdomTree Energy Enhanced - EUR Daily Hedged ETC is an exchange-traded commodity (ETC) designed to track the performance of an energy index while mitigating currency risk by hedging against fluctuations between the Euro and other currencies. It offers investors exposure to the energy sector with a built-in mechanism to reduce the impact of currency movements. The issuer of the ETC is WisdomTree, with headquarters likely in London."
+}

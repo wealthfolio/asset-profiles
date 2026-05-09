@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0017V03W9",
+    "figi": "BBG0017V0420",
+    "isin": "CA33833X1015"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "CA33833X1015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FPLSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EMB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EMB.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "VNP.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "5N Plus Inc.",
+  "primary_symbol": "EMB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "5N Plus Inc. produces and sells engineered materials and specialty chemicals in Europe, Asia, the Americas, and internationally. It operates in two segments, Electronic Materials and Eco-Friendly Materials. The Electronic Materials segment manufactures and sells refined metals, compounds, and alloys, which are primarily used in a range of electronic applications covering various end-markets consisting of security, aerospace, sensing and imaging, renewable energy, and technical materials; and provides recycling services. Its products are associated with various metals, including cadmium, gallium, germanium, indium, tellurium, and tin. The Eco-Friendly Materials segment principally manufactures and sells refined bismuth and bismuth chemicals, low melting-point and optical alloys, and selenium. Its products are used in the pharmaceutical, animal health, electronics, and industrial applications, as well as in the animal-feed industry. The company also offers semiconductor compounds and wafers; and fine metallic powders. The company is headquartered in Montreal, Canada.",
+  "website": "http://www.5nplus.com"
+}

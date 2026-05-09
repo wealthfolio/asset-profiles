@@ -1,0 +1,54 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LKZHK28",
+    "cusip": "29260V105",
+    "figi": "BBG00LKZHK82",
+    "isin": "US29260V1052"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US29260V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2Y5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2Y5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAVA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2Y5.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DAVAN.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ENDAVA LTD.  SP.ADR/1",
+  "primary_symbol": "2Y5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Endava PLC provides technology services, including digital transformation, agile software development, and automation, to businesses across various industries. The company delivers solutions and helps businesses to build the technology needed. Endava is headquartered in London, United Kingdom.",
+  "website": "http://www.endava.com"
+}

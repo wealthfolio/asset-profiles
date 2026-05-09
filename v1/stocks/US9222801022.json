@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001Y04TN6",
+    "cusip": "922280102",
+    "figi": "BBG005GQSZ05",
+    "isin": "US9222801022"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US9222801022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VRNS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VS2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VS2.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0VOU.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VS2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VS2.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Varonis Systems, Inc.",
+  "primary_symbol": "VRNS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Varonis Systems, Inc. provides software products and services that allow enterprises to manage, analyze, and secure enterprise data in North America, Europe, the Middle East, Africa, and internationally. Its software enables enterprises to protect data stored on premises and in the cloud, including sensitive files and emails; confidential personal data belonging to customers, and patients and employees' data; financial records; strategic and product plans; and other intellectual property. The company offers DatAdvantage that captures, aggregates, normalizes, and analyzes every data access event for users on Windows and UNIX/Linux servers, storage devices, email systems, and Intranet servers; and DatAlert that profiles users and their behaviors related to systems and data, detects and alerts on deviations that indicate compromise, and provides a Web-based dashboard and investigative interface. It also provides Data Classification Engine that identifies and tags data based on criteria set in various metadata dimensions, and provides business and information technology (IT) personnel with actionable intelligence about data; and DataPrivilege, which provides a self-service Web portal that allows users to request access to data necessary for their business functions, and owners to grant access without IT intervention. In addition, the company offers Data Transport Engine, which provides an execution engine that unifies the manipulation of data and metadata, translating business decisions, and instructions into technical commands, such as data migration or archiving; and DatAnswers that offers search functionality for enterprise data. It sells its products and services through a network of distributors and resellers. The company serves IT, security, and business personnel. Varonis Systems, Inc. was incorporated in 2004 and is headquartered in New York, New York.",
+  "website": "http://www.varonis.com"
+}

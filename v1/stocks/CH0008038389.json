@@ -1,0 +1,36 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0008038389"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "CH0008038389",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWPRF"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SPSN.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Swiss Prime Site AG",
+  "primary_symbol": "SWPRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Swiss Prime Site AG, a real estate company, engages in buying and selling, managing, and developing investment properties in Switzerland. The company operates in two segments, Real Estate and Services. The Real Estate segment purchases, sells, leases, and develops properties. The Services segment engages in the real estate related service, assisted living, and retail and asset management business. Swiss Prime Site AG was founded in 1999 and is headquartered in Olten, Switzerland.",
+  "website": "http://sps.swiss"
+}

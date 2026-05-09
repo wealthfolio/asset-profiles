@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00886WZZ9",
+    "isin": "DE000A0LR9G9"
+  },
+  "industry_group": "Software & Services",
+  "isin": "DE000A0LR9G9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A0LR9G9.SG"
+    }
+  ],
+  "name": "EXASOL AG",
+  "primary_symbol": "DE000A0LR9G9.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Exasol AG provides a high-performance, in-memory analytic database designed for speed and scalability, headquartered in Nuremberg, Germany. The company's software enables businesses to analyze large volumes of data in real-time, supporting data-driven decision-making. Exasol caters to companies in various industries, including e-commerce, finance, and telecommunications."
+}

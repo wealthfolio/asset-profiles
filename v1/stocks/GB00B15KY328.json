@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R12HG0",
+    "figi": "BBG000R12J49",
+    "isin": "GB00B15KY328"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GB00B15KY328",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SLVRP.PA"
+    }
+  ],
+  "name": "WisdomTree Silver",
+  "primary_symbol": "SLVRP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "WisdomTree Silver is an open-ended exchange traded commodity (ETC) that aims to track the performance of silver. The ETC is designed to offer investors a simple, cost-efficient way to access the silver market. It is domiciled in Ireland."
+}

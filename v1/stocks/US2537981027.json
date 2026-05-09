@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DX9JZ3",
+    "cusip": "253798102",
+    "figi": "BBG000DX9MT3",
+    "isin": "US2537981027"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US2537981027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGII"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DGI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DGI.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DIGI INTL INC.  DL-,01",
+  "primary_symbol": "DGI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Digi International Inc. provides Internet of Things (IoT) connectivity products and services. They offer embedded systems, networking devices, and software solutions for various industries. Digi International is headquartered in Hopkins, Minnesota.",
+  "website": "http://www.digi.com"
+}

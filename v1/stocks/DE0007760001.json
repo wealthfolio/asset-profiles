@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BCDP46",
+    "figi": "BBG000BCDSQ6",
+    "isin": "DE0007760001"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Utilities",
+  "isin": "DE0007760001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WWG.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0007760001.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WWG.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WWG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WWG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WWG.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GELSENWASSER AG",
+  "primary_symbol": "WWG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "GELSENWASSER AG is a German utility company providing drinking water and wastewater services to municipalities and industrial customers. The company operates and maintains water supply and sewage treatment facilities. GELSENWASSER AG is based in Gelsenkirchen, Germany.",
+  "website": "http://www.wiseway.com.au"
+}

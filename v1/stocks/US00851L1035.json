@@ -1,0 +1,59 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00VVPSRP4",
+    "cusip": "00851L103",
+    "figi": "BBG00VVPSRW6",
+    "isin": "US00851L1035"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US00851L1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AG1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AG1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "API"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9AG1.DU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "API.AX"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "APIN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AGORA INC. SP.ADS/4 CL.A",
+  "primary_symbol": "9AG1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Agora, Inc. is a video, voice, and live interactive streaming platform that powers real-time engagement experiences. The company provides developers with software development kits (SDKs) and application programming interfaces (APIs) to embed real-time communication functionalities into their applications. Agora, Inc. is headquartered in Shanghai, China.",
+  "website": "http://www.agora.io"
+}

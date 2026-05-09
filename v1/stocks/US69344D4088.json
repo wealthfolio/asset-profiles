@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "cusip": "69344D408",
+    "isin": "US69344D4088"
+  },
+  "industry_group": "Banks",
+  "isin": "US69344D4088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PHI.L"
+    }
+  ],
+  "name": "Pacific Horizon Investment Trust",
+  "primary_symbol": "PHI.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Pacific Horizon Investment Trust invests in Asia Pacific excluding Japan, including emerging markets. The trust aims to achieve long-term capital growth. The trust is managed by Baillie Gifford."
+}

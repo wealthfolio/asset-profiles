@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "00444T100",
+    "isin": "US00444T1007"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00444T1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R5X.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R5X.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R5X.SG"
+    }
+  ],
+  "name": "ACELRX PHARMACEUT. DL-,01",
+  "primary_symbol": "R5X.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AcelRx Pharmaceuticals, Inc. is a specialty pharmaceutical company focused on the development and commercialization of innovative therapies for use in medically supervised settings. Their primary focus is on acute pain management. The company is headquartered in Hayward, California."
+}

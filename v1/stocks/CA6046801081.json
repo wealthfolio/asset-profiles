@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000P9CWH0",
+    "figi": "BBG000P9D141",
+    "isin": "CA6046801081"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA6046801081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8R.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRZLF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0V7B.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M8R.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M8R.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MRZ.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "MRZ.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MIRASOL RESOURCES LTD",
+  "primary_symbol": "M8R.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mirasol Resources Ltd. is a Canadian mineral exploration company focused on the discovery of precious metals deposits in Chile and Argentina. Their business model involves identifying, acquiring, and exploring prospective mineral properties, with the goal of forming joint ventures or selling the properties to larger mining companies. The company is headquartered in Vancouver, Canada",
+  "website": "http://www.mirasolresources.com"
+}

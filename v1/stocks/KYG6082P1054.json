@@ -1,0 +1,58 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00Y473D58",
+    "figi": "BBG00Y4744W7",
+    "isin": "KYG6082P1054"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "KYG6082P1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2160.HK"
+    },
+    {
+      "currency": "SAR",
+      "exchange_mic": "XSAU",
+      "symbol": "2160.SR"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2160.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "72X.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "72X.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG6082P1054.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MicroPort CardioFlow Medtech Corporation",
+  "primary_symbol": "2160.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MicroPort CardioFlow Medtech Corporation, a medical device company, focuses on the research, development, and commercialization of transcatheter and surgical solutions for valvular heart diseases in the People's Republic of China. Its products include Vitaflow Aortic Valve System, Alwide Balloon Catheter, and Alpass Introducer Set, which targets aortic, mitral, tricuspid, and surgical valves, as well as procedural accessories. The company was founded in 2010 and is headquartered in Shanghai, China. MicroPort CardioFlow Medtech Corporation is a subsidiary of Shanghai MicroPort Limited.",
+  "website": "http://www.cardioflowmedtech.com"
+}

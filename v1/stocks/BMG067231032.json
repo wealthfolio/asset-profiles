@@ -1,0 +1,61 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "isin": "BMG067231032"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "BMG067231032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QTX.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A07.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVACF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A07.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AGAS.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AGASO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BMG067231032.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Avance Gas Holding Ltd",
+  "primary_symbol": "0QTX.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Avance Gas Holding Ltd, together with its subsidiaries, engages in the transportation of liquefied petroleum gas (LPG) worldwide. The company transports LPG from the Middle East Gulf and the United States Gulf/the United States East Coast to destinations in Europe, South America, India, and Asia. As of December 31, 2019, it operated through a fleet of 14 very large gas carriers. The company was founded in 2007 and is based in Hamilton, Bermuda.",
+  "website": "http://www.avancegas.com"
+}

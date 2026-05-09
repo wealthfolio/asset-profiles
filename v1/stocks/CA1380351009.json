@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0069KTDS2",
+    "figi": "BBG0069KTDZ4",
+    "isin": "CA1380351009"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA1380351009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "11L1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "11L1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "11L1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGC"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "11L1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "11L1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "11L1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WEED.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CANOPY GROWTH",
+  "primary_symbol": "11L1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Canopy Growth Corporation is a cannabis and cannabinoid-based consumer product company. They offer a range of products, including dried flower, oils, edibles, and beverages, for recreational and medical use. The company is headquartered in Smiths Falls, Ontario, Canada.",
+  "website": "http://www.canopygrowth.com"
+}

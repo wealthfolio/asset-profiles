@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005374035"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "IT0005374035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "OS.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Officina Stellare S.p.A.",
+  "primary_symbol": "OS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Officina Stellare S.p.A. designs and produces telescopes, and opto-mechanical and aerospace instrumentation for ground and space based applications worldwide. It serves aerospace, defense, earth observation, astronomy and science research, and laser communication sectors. The company was founded in 2009 and is headquartered in Sarcedo, Italy.",
+  "website": "http://www.officinastellare.com"
+}

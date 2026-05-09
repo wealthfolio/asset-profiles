@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAVE"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Dave Inc. Class A Common Stock",
+  "primary_symbol": "DAVE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Dave Inc. is a fintech company providing banking and financial services, including overdraft protection and budgeting tools. The Dave mobile app aims to help its users avoid overdraft fees, build credit, and manage their finances. Dave Inc. is headquartered in Los Angeles, California."
+}

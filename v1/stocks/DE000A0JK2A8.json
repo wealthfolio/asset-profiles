@@ -1,0 +1,71 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE000A0JK2A8"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A0JK2A8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0W1D.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AR4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AR4.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AR4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AULRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AR4.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AR4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AR4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AR4.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AURELIUS EQUITY OPPORTUNITIES S",
+  "primary_symbol": "0W1D.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "AURELIUS Equity Opportunities SE & Co. KGaA is a Germany-based investment holding company that acquires companies with development potential. They focus on corporate carve-outs, succession issues, and turnaround situations. The company is headquartered in Grünwald, Germany.",
+  "website": "http://www.aureliusinvest.com/en/"
+}

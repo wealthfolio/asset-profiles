@@ -1,0 +1,27 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1917.HK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Doumob",
+  "primary_symbol": "1917.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Doumob, a mobile advertising technology company, operates and maintains an advertising platform for advertisers and media publishers in the People's Republic of China. The company provides online advertising and sales services, as well as interactive and non-interactive advertising services. Doumob was founded in 2013 and is headquartered in Beijing, China.",
+  "website": "http://www.doumob.com"
+}

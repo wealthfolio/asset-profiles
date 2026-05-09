@@ -1,0 +1,26 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "KEKR.AT"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Kekrops S.A.",
+  "primary_symbol": "KEKR.AT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Kekrops S.A. engages in the development, construction, and exploitation of real estate properties with a focus on maisonettes and luxury residences in Greece. The company constructs, sells, and leases buildings and plot of lands. Kekrops S.A. was founded in 1923 and is headquartered in Psychiko, Greece.",
+  "website": "http://www.kekrops.gr"
+}

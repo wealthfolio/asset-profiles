@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00VYK6770",
+    "figi": "BBG00VYK67D3",
+    "isin": "XS2183935274"
+  },
+  "industry_group": "Materials",
+  "isin": "XS2183935274",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8PSE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8PSE.DU"
+    }
+  ],
+  "name": "INVESC.PHYS.MKT.ETC00 XAU",
+  "primary_symbol": "8PSE.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials"
+}

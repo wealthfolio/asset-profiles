@@ -1,0 +1,62 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "cusip": "516557105",
+    "isin": "US5165571051"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US5165571051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNXSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNXSY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXS.TI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LX9B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LXS.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LXS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "LXS.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LANXESS Aktiengesellschaft",
+  "primary_symbol": "LNXSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "LANXESS Aktiengesellschaft, a specialty chemicals company, develops, manufactures, and markets chemical intermediates, additives, specialty chemicals, and plastics worldwide. It operates through four segments: Advanced Intermediates, Specialty Additives, Consumer Protection, and Engineering Materials. The Advanced Intermediates segment provides advanced industrial intermediates, basic and fine chemicals, organometallics, rubber chemicals, and inorganic pigments for the agrochemical, automotive, construction, aromas and flavors, paints and coatings, rubber chemicals, semiconductors and photovoltaic, and color pigments industries. The Specialty Additives segment offers additives, including lubricants, flame retardants, plasticizers, and bromine derivatives for various applications of rubber, plastic, paint, construction, and electrical industries. The Consumer Protection segment provides material protection products; disinfectant, hygiene, and preservative solutions; and precursors and intermediates for the agrochemicals, pharmaceuticals, and specialty chemicals industries. The Engineering Materials segment produces technical plastics, glass fibers, fiber composites, and elastomers on a urethane basis for application in the automotive and electrical/electronics, construction, and medicine industries, as well as sports and leisure sectors. The company was founded in 1863 and is headquartered in Cologne, Germany.",
+  "website": "http://lanxess.com"
+}

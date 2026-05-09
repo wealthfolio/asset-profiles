@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BXHVR8",
+    "figi": "BBG000BXHY65",
+    "isin": "JP3209000003"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "JP3209000003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAC1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CAC1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CAC1.SG"
+    }
+  ],
+  "name": "CASIO COMPUTER",
+  "primary_symbol": "CAC1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CASIO COMPUTER CO., LTD. designs, develops, manufactures, and sells various electronics products worldwide. Its product portfolio includes calculators, watches, electronic dictionaries, label printers, digital cameras, electronic musical instruments, and system equipment. The company is headquartered in Tokyo, Japan."
+}

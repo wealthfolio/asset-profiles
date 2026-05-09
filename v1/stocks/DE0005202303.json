@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000DL11S4",
+    "figi": "BBG000DL1505",
+    "isin": "DE0005202303"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "DE0005202303",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QB7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QB7.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QB7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "QB7.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "QB7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QB7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QB7.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "QUIRIN PRIVATBK  O.N.",
+  "primary_symbol": "QB7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Quirin Privatbank AG provides various banking and financial products and services in Germany. The company offers investment services for private customers; advisory services; and retirement, financial planning, portfolio optimization, assets and funds check, and securities lending services. It also provides corporate finance, institutional customer support and research, and capital market services. Quirin Privatbank AG was founded in 1998 and is based in Berlin, Germany.",
+  "website": "http://www.quirinprivatbank.de"
+}

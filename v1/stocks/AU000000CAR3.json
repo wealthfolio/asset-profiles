@@ -1,0 +1,42 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000VZGSC5",
+    "figi": "BBG000VZGTS6",
+    "isin": "AU000000CAR3"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Software & Services",
+  "isin": "AU000000CAR3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WN6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WN6.HM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CAR.L"
+    }
+  ],
+  "name": "CARSALES.COM",
+  "primary_symbol": "WN6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Carsales.com is an online marketplace for buying and selling new and used cars, motorcycles, and other vehicles. They connect buyers and sellers through their website and mobile app, providing listings, reviews, and other automotive-related services. The company is headquartered in Melbourne, Australia.",
+  "website": "http://www.carclo-plc.com"
+}

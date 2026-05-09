@@ -1,0 +1,49 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG004HS1K41",
+    "cusip": "34960Q109",
+    "figi": "BBG004HS1KB3",
+    "isin": "US34960Q1094"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US34960Q1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNB.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CNB.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNB.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FORTRESS BIOTECH  DL-,001",
+  "primary_symbol": "CNB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fortress Biotech, Inc. is a biopharmaceutical company dedicated to acquiring, developing, and commercializing pharmaceutical and biotechnology products. They focus on acquiring promising development-stage candidates. The company is headquartered in Bay Harbor Islands, Florida.",
+  "website": "http://carnabyresources.com.au"
+}

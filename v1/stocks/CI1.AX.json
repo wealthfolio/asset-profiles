@@ -1,0 +1,27 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CI1.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Credit Intelligence Limited",
+  "primary_symbol": "CI1.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Credit Intelligence Limited provides debt restructuring and personal insolvency management services in Hong Kong, Singapore, and Australia. Its services include bankruptcy administration, and individual voluntary arrangement proposal consultancy and implementation services, as well as credit funding for corporate and individuals. The company is based in Central, Hong Kong.",
+  "website": "http://www.ci1.com.au"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DRE2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Deutsche Real Estate AG",
+  "primary_symbol": "DRE2.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Deutsche Real Estate AG operates as a real estate investment corporation that invests in German real estates, both directly and indirectly. The principal activities of the group include expansion and optimization of its real estate portfolio, and the sale of individual properties. The real estate portfolio of the group includes 68 properties. The group invests primarily in retail, commercial, mixed commercial, and residential market segments. Deutsche Real Estate AG operates as a subsidiary of Summit Properties Limited.",
+  "website": "http://www.drestate.de"
+}

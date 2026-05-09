@@ -1,0 +1,41 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0001137345"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Retailing",
+  "isin": "IT0001137345",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0DHJ.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "AGL.MI"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AUL.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AUTOGRILL SPA AUTOGRILL ORD SHS",
+  "primary_symbol": "0DHJ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "AUTOGRILL SPA AUTOGRILL ORD SHS is a multinational catering company that provides food and beverage services in airports, motorways, and railway stations. It operates restaurants, cafes, and retail outlets, offering a range of dining and shopping experiences to travelers with headquarters in Rozzano, Italy.",
+  "website": "http://www.autogrill.com"
+}

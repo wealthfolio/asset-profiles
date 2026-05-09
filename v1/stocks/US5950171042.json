@@ -1,0 +1,94 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BHCP19",
+    "cusip": "595017104",
+    "figi": "BBG000BHD1P5",
+    "isin": "US5950171042"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US5950171042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCHP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCP.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCP.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCP.TI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K19.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "M1CH34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MCHP.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "MCHP.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MCP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MCP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MCP.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Microchip Technology Incorporated",
+  "primary_symbol": "MCHP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Microchip Technology Incorporated develops, manufactures, and sells semiconductor products for various embedded control applications in the Americas, Europe, and Asia. The company offers general purpose and specialized 8-bit, 16-bit, and 32-bit microcontrollers; 32-bit embedded microprocessors; and microcontrollers for automotive, industrial, aerospace, office communication, and computing applications. It also provides development tools that enable system designers to program microcontroller products for specific applications; field-programmable gate array (FPGA) products; and analog, power, interface, mixed signal, and timing products comprising power management, linear, mixed-signal, high-voltage, thermal management, discrete diodes and metal oxide semiconductor field effect transistors (MOSFETS), radio frequency (RF), drivers, safety, security, timing, USB, Ethernet, wireless, and other interface products. In addition, the company offers memory products consisting of serial electrically erasable programmable read-only memory, serial flash memories, parallel flash memories, serial static random access memories, and serial electrically erasable random access memories for the production of very small footprint devices; and licenses its SuperFlash embedded flash and Smartbits one time programmable NVM technologies to foundries, integrated device manufacturers, and design partners for use in the manufacture of microcontroller products, gate array, RF, analog, and neuromorphic compute products that require embedded non-volatile memory, as well as provides engineering services. Further, it offers wafer foundry and assembly, and test subcontracting manufacturing services; and timing systems products, application specific integrated circuits, aerospace products. Microchip Technology Incorporated was founded in 1989 and is headquartered in Chandler, Arizona.",
+  "website": "http://www.microchip.com"
+}

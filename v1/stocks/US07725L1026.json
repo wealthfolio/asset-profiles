@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00C5XPZN5",
+    "cusip": "07725L102",
+    "figi": "BBG00C5XPZV6",
+    "isin": "US07725L1026"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US07725L1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "49BA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "49BA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "49BA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "49BA.SG"
+    }
+  ],
+  "name": "BEIGENE LTD SP.ADR",
+  "primary_symbol": "49BA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BeiGene, Ltd. is a global, commercial-stage biotechnology company focused on discovering, developing, manufacturing, and commercializing innovative medicines to improve treatment outcomes and access for patients worldwide. The company is developing a broad portfolio of novel oncology therapies. BeiGene is headquartered in Beijing, China."
+}

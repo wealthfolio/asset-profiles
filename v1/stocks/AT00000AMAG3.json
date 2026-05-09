@@ -1,0 +1,63 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG001M8D830",
+    "figi": "BBG001M8D894",
+    "isin": "AT00000AMAG3"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AT00000AMAG3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AM8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AM8.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AM8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AM8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AM8.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "AMAG.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AMAG.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AMAG AUSTRIA METALL INH.",
+  "primary_symbol": "AM8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "AMAG Austria Metall AG is an Austrian aluminum company that produces primary aluminum, rolled products, and cast products. The company offers a wide range of aluminum solutions for various industries, including aerospace, automotive, and packaging. AMAG Austria Metall AG is headquartered in Ranshofen, Austria.",
+  "website": "http://www.amag-al4u.com"
+}

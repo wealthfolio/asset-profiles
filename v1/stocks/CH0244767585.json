@@ -1,0 +1,63 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG007DJM539",
+    "figi": "BBG007DJM575",
+    "isin": "CH0244767585"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "CH0244767585",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UBS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "UBS.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "UBS.VI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "UBSG.SW"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "UBSG34.SA"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "UBSGEE.SW"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "UBSN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "UBS Group AG",
+  "primary_symbol": "UBS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "UBS Group AG, together with its subsidiaries, provides financial advice and solutions to private, institutional, and corporate clients worldwide. It operates through four divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management, and Investment Bank. The Global Wealth Management division offers investment advice and solutions, as well as lending solutions, to ultra high net worth and high net worth clients. This segment also provides wealth planning, investing, philanthropy, corporate and banking services, and family advisory services, as well as mortgage, securities-based, and structured lending solutions. The Personal & Corporate Banking division provides banking products and services, such as deposits, cards, and online and mobile banking, as well as lending, investments, and retirement services. The Asset Management division offers equities, fixed income, hedge funds, real estate and private markets, indexed and alternative beta strategies, asset allocation and currency investment strategies, customized multi-asset solutions, advisory and fiduciary services, and multi-manager hedge fund solutions and advisory services. The Investment Bank division advises clients on strategic business opportunities and helps them raise capital to fund their activities; enables its clients to buy, sell, and finance securities on capital markets and to manage their risks and liquidity; and offers clients differentiated content on major financial markets and securities. This division serves institutional, corporate, and wealth management clients. The company was formerly known as UBS AG and changed its name to UBS Group AG in December 2014. UBS Group AG was founded in 1862 and is headquartered in Zurich, Switzerland.",
+  "website": "http://www.ubs.com"
+}

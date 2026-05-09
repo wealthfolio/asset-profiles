@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QZVRF3",
+    "figi": "BBG000QZVT23",
+    "isin": "GB00B0H2K534"
+  },
+  "industry": "Banks",
+  "industry_group": "Energy",
+  "isin": "GB00B0H2K534",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P2F.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P2F.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PFC"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "P2F.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P2F.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "PFC.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "PFC.NS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PETROFAC LTD  DL-,02",
+  "primary_symbol": "P2F.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Petrofac Limited is an international service provider to the energy industry, offering engineering, procurement, construction, installation, and operations & maintenance services to oil, gas, refining, petrochemical, and renewable energy sectors. Headquartered in Jersey, Channel Islands, the company serves clients globally. Petrofac's business model involves delivering complex and challenging projects across the asset life cycle.",
+  "website": "http://www.fdef.com"
+}

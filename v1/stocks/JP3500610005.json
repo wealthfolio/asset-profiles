@@ -1,0 +1,63 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000D7S0J8",
+    "figi": "BBG000D7T4S9",
+    "isin": "JP3500610005"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "JP3500610005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DW1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DW1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RSNHF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8308.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DW1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DW1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DW1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "RESONA HOLDINGS INC.",
+  "primary_symbol": "DW1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "RESONA HOLDINGS INC. is a Japanese banking group offering a range of financial services including banking, trust, and real estate services. The company operates primarily in the Kinki region of Japan, providing services to both retail and corporate clients. Resona Holdings is headquartered in Tokyo, Japan.",
+  "website": "http://www.resona-gr.co.jp"
+}

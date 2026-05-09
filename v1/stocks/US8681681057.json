@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "868168105",
+    "isin": "US8681681057"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Real Estate",
+  "isin": "US8681681057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPD.AQ"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SPD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SPD.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SECURED PROP DEVEL",
+  "primary_symbol": "SPD.AQ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Secured Property Developments focuses on secured real estate development projects. The company provides various property development services, with a focus on secure and stable investments. The company is likely based in the United Kingdom.",
+  "website": "http://www.supind.com"
+}

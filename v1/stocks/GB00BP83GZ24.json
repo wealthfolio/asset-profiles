@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "GB00BP83GZ24"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "GB00BP83GZ24",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PPS.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "PPS.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PPS.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Praemium Limited",
+  "primary_symbol": "PPS.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Praemium Limited, together with its subsidiaries, provides managed accounts platform, investment management, portfolio administration, and reporting and financial planning software in Australia and internationally. It offers managed accounts platform that provides separately managed accounts, individually managed accounts, virtual managed accounts, managed discretionary accounts, investor directed portfolio services, and unified managed accounts services; and solutions for retirement planning. The company also provides advice solutions comprising practice management, report building and plan generation, remuneration, lead generation, client engagement, wealthcraft services, and related services through the platform; and investments related products. It serves financial advisers, brokers, and accountants. Praemium Limited was founded in 2001 and is based in Melbourne, Australia.",
+  "website": "http://www.praemium.com.au"
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "GB0002634946"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "GB0002634946",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BSP.OL"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0002634946.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Black Sea Property AS",
+  "primary_symbol": "BSP.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Black Sea Property AS focuses on operating holiday resort under the Aheloy Beach Resort name in Bulgaria. The company was founded in 2015 and is based in Oslo, Norway.",
+  "website": "http://www.blackseaproperty.no"
+}

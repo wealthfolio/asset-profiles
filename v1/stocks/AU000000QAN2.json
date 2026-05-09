@@ -1,0 +1,71 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000QAN2"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "AU000000QAN2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QABSY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QAN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QAN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QAN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QUBSF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "QAN.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "QAN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QAN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QAN.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Qantas Airways Limited",
+  "primary_symbol": "QABSY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Qantas Airways Limited provides passenger and freight air transportation services in Australia and internationally. The company also offers air cargo and express freight services; and customer loyalty programs. As of June 30, 2020, it operated a fleet of 314 aircraft under the Qantas and Jetstar brands. The company was founded in 1920 and is headquartered in Mascot, Australia.",
+  "website": "http://www.qantas.com"
+}

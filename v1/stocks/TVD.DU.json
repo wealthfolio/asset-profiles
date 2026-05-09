@@ -1,0 +1,25 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry_group": "Consumer Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TVD.DU"
+    }
+  ],
+  "name": "Travel24.com AG",
+  "primary_symbol": "TVD.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Travel24.com AG operates as an online travel agency. The company offers various travel services, including flight, hotel, and holiday booking services for business and leisure customers. Its portal portfolio includes various tour operators with approximately 550 airlines, as well as approximately 200,000 hotels. Travel24.com AG was founded in 1996 and is based in Leipzig, Germany.",
+  "website": "http://www.travel24.com"
+}

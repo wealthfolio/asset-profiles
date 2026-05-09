@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPT^D"
+    }
+  ],
+  "name": "RPT Realty 7.25%",
+  "primary_symbol": "RPT^D",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "RPT Realty 7.25% represents a preferred stock investment in RPT Realty, a real estate investment trust. Preferred stocks generally offer a fixed dividend payment. RPT Realty is headquartered in New York."
+}

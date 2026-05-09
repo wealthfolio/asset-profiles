@@ -1,0 +1,27 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "VIIA3.SA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VIA",
+  "primary_symbol": "VIIA3.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Via S.A.",
+  "website": "https://www.via.com.br"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Q897462",
+    "cusip": "80405P107",
+    "figi": "BBG00Q8974D4",
+    "isin": "US80405P1075"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US80405P1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1LV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1LV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STSA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1LV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US80405P1075.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SATSUMA PHARMACEUTICALS",
+  "primary_symbol": "1LV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Satsuma Pharmaceuticals, Inc. is a biopharmaceutical company focused on developing STS101 (dihydroergotamine (DHE) nasal powder) for the acute treatment of migraine. It is located in South San Francisco, California. TICKER: Satsuma Pharmaceuticals, Inc. (now defunct) focused on developing STS101, a DHE nasal powder for acute migraine treatment.",
+  "website": "http://www.satsumarx.com"
+}

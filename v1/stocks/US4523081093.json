@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FGT9M2",
+    "cusip": "452308109",
+    "figi": "BBG000FGTDP0",
+    "isin": "US4523081093"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US4523081093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITW"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "I1TW34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ILT.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ILT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ILT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ILT.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "ITW.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ILL. TOOL WKS",
+  "primary_symbol": "ILT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Illinois Tool Works Inc. (ITW) is a diversified manufacturing company that produces a wide range of industrial products and equipment. The company operates through various segments, including automotive, food equipment, test and measurement, and welding. ITW is headquartered in Glenview, Illinois, USA.",
+  "website": "http://www.itw.com"
+}

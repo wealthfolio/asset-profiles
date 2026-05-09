@@ -1,0 +1,51 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0010597883"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NO0010597883",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R6Y.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8NN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8NN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8NN.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NANOV.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NORDIC NANOVECTOR ASA NORDIC NA",
+  "primary_symbol": "0R6Y.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NORDIC NANOVECTOR ASA is a biotechnology company focusing on the development and commercialization of targeted therapeutics for treatment of cancer, with a focus on hematologic malignancies. The company's lead product candidate is Betalutin, a radioimmunotherapeutic drug designed to deliver targeted radiation to cancer cells. Nordic Nanovector is headquartered in Oslo, Norway.",
+  "website": "http://www.nordicnanovector.com"
+}

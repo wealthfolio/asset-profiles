@@ -1,0 +1,26 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SYME.L"
+    }
+  ],
+  "name": "Supply@ME Capital plc",
+  "primary_symbol": "SYME.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Supply@ME Capital plc operates a fintech platform that provides inventory monetization services to manufacturing and trading companies in Europe. The company is based in London, the United Kingdom.",
+  "website": "http://www.supplymecapital.com"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DNYVN3",
+    "cusip": "29076N206",
+    "figi": "BBG000DNYW60",
+    "isin": "US29076N2062"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US29076N2062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMAN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMGA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMGA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "EMAN.L"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "EMAN.PR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EMGA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EMGA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EMGA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "eMagin Corporation",
+  "primary_symbol": "EMAN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "eMagin Corporation engages in the design, develop, manufacture, and market of organic light-emitting diode (OLED) miniature displays on-silicon micro displays, virtual imaging products that utilize OLED micro displays, and related products in the United States and internationally. It offers super video graphics array (SVGA) + OLED micro displays; digital SVGA OLED-XL; super extended graphics array OLED-XL/XLS; video graphics array OLED-XL; and widescreen ultra-extended graphics array OLED-XL. The company also provides design reference kits, which include a micro display and associated electronics to help original equipment manufacturers (OEMs) to evaluate micro display products; near-eye virtual imaging modules that incorporate its OLED-on-silicon micro displays with its lenses and electronic interfaces for integration into OEM products; prism optics, a molded plastic prism lens that permits its AMOLED micro displays to provide realistic images that can be viewed for extended periods with reduced eye-fatigue; and driver boards. Its products are used in military aviation helmets, military weapons sights and targeting systems, night vision and thermal imaging devices, training and simulation, visualization for ocular surgery, mobile ultrasound, and augmented reality applications. eMagin Corporation was founded in 1996 and is headquartered in Hopewell Junction, New York.",
+  "website": "http://emagin.com"
+}

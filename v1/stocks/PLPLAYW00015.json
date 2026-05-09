@@ -1,0 +1,48 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00NTK63K8",
+    "figi": "BBG00NTK63R1",
+    "isin": "PLPLAYW00015"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Software & Services",
+  "isin": "PLPLAYW00015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6P5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6P5.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6P5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6P5.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PLAYWAY S.A.  ZY-,10",
+  "primary_symbol": "6P5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "PlayWay S.A. is a Polish video game developer and publisher focused on creating and releasing simulation and indie games across various platforms, headquartered in Warsaw, Poland.",
+  "website": "http://www.playway.com"
+}

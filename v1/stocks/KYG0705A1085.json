@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00ZVK1715",
+    "figi": "BBG00ZVK1760",
+    "isin": "KYG0705A1085"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "KYG0705A1085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6B5.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "6608.HK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6B5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6B5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG0705A1085.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Bairong Inc.",
+  "primary_symbol": "6B5.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Bairong Inc., a fintech application company, provides full lifecycle management services to financial institutions and offers financial products and services to private and small-micro enterprises in the People's Republic of China. It offers credit risk management, precision marketing, and insurance distribution products. The company is also engaged in micro-loan business, and insurance and reinsurance brokerage business. In addition, it provides development, consulting, and transfer services of software and hardware products, and network technology; data processing and big data services; enterprise credit services; technology development services; and financial information services. Further, the company is engaged in computer system development; and technology development, consulting, and promotion services. It provides its solutions to banks and insurance companies. Bairong Inc. was founded in 2014 and is headquartered in Beijing, China.",
+  "website": "http://www.guiyang.baironginc.com/index.php/index/index.html"
+}

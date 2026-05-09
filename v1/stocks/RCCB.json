@@ -1,0 +1,23 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCCB"
+    }
+  ],
+  "name": "Rochester Community Baseball Inc.",
+  "primary_symbol": "RCCB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Rochester Community Baseball Inc. operates the Rochester Red Wings, a minor league baseball team.",
+  "website": "http://www.milb.com/rochester"
+}

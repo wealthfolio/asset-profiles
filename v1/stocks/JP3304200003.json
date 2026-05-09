@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BYSM76",
+    "figi": "BBG000BYSS73",
+    "isin": "JP3304200003"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3304200003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOM1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KOM1.DU"
+    }
+  ],
+  "name": "KOMATSU LTD",
+  "primary_symbol": "KOM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Komatsu Ltd. is a Japanese multinational corporation that manufactures construction, mining, forestry, and military equipment, as well as industrial machinery. The company's products and services include construction equipment, mining equipment, industrial machinery, and electronics. The company is headquartered in Tokyo, Japan."
+}

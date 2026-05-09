@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LBX148",
+    "cusip": "875465106",
+    "figi": "BBG000LBX4S6",
+    "isin": "US8754651060"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US8754651060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T6O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T6O.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "T6O.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T6O.SG"
+    }
+  ],
+  "name": "TANGER FACT.OUTLET DL-,01",
+  "primary_symbol": "T6O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "TANGER FACT.OUTLET DL-,01 is a real estate investment trust (REIT) specializing in owning, operating, and developing open-air outlet centers in the United States and Canada. The company leases retail space to a diverse mix of brand-name retailers and manufacturers, offering discounted merchandise to consumers. Tanger Factory Outlet Centers is headquartered in Greensboro, North Carolina."
+}

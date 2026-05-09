@@ -1,0 +1,73 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG000BMY910",
+    "figi": "BBG000BMYCY7",
+    "isin": "BMG864081044"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "BMG864081044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "31L.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "31L.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAPLF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "31L.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "31L.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SD3.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SLP.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SLP.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SYLVANIA PLAT. DL 0,01",
+  "primary_symbol": "31L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SYLVANIA PLAT. DL 0,01 is a company involved in platinum mining or exploration. The company focuses on extracting and processing platinum group metals.",
+  "website": "http://www.sylvaniaplatinum.com"
+}

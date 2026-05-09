@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "606776201",
+    "isin": "US6067762012"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US6067762012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIELF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIELY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MEL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MIE1.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MITSN.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.",
+  "primary_symbol": "MIE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. is a balanced closed-ended fund launched by Cohen & Steers, Inc. The fund is managed by Cohen & Steers Capital Management, Inc. It invests in public equity and fixed income markets of the United States. The fund primarily seeks to to invest in master limited partnerships and securities issue by companies engaged in energy sector. It benchmarks the performance of its portfolio against the Alerian MLP Index and a composite benchmark of 90% Alerian MLP Index and 10% BofA Merrill Lynch Fixed-Rate Preferred Securities Index. Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. was formed on December 13, 2012 and is domiciled in the United States.",
+  "website": "http://www.cohenandsteers.com/funds/details/cohen-steers-mlp-income-energy-opportunity-fund"
+}

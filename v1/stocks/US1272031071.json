@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00K25GQQ8",
+    "cusip": "127203107",
+    "figi": "BBG00K25GQX0",
+    "isin": "US1272031071"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "US1272031071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "43C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "43C.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WHD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "43C.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CACTUS INC. CL.A  DL-,01",
+  "primary_symbol": "43C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "CACTUS, INC. is a company that designs, manufactures, and sells equipment and services for the oil and gas industry. The company's products are used for well construction, completion, and intervention activities. Its headquarters are located in Houston, Texas.",
+  "website": "http://www.cactuswhd.com"
+}

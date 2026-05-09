@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000VGRLS3",
+    "cusip": "81642T209",
+    "figi": "BBG000VGRNR0",
+    "isin": "US81642T2096"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US81642T2096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RXK3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RXK3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RXK3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RXK3.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SLS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US81642T2096.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SELLAS LIFE SCIENCES GRP",
+  "primary_symbol": "RXK3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SELLAS LIFE SCIENCES GRP is a late-stage clinical biopharmaceutical company focused on the development of novel cancer immunotherapies for various cancer indications. The company's lead product candidate is galinpepimut-S (GPS), which targets the Wilms' tumor protein 1 (WT1) antigen. SELLAS Life Sciences is based in New York.",
+  "website": "http://www.sellaslifesciences.com"
+}

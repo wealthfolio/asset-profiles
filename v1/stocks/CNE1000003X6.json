@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000H5XSC8",
+    "figi": "BBG000H5XXS0",
+    "isin": "CNE1000003X6"
+  },
+  "industry_group": "Insurance",
+  "isin": "CNE1000003X6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZX.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PZX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PZX.SG"
+    }
+  ],
+  "name": "PING AN INS.C.CHINA H YC1",
+  "primary_symbol": "PZX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Ping An Insurance (Group) Company of China, Ltd. is an investment holding company, which engages in the provision of financial products and services. The company operates through insurance, banking, asset management and technology segments and is headquartered in Shenzhen, China. Its services include life insurance, property insurance, banking, and asset management."
+}

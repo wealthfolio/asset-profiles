@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z74KLC4",
+    "figi": "BBG00Z74KLD3",
+    "isin": "FR0010820274"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "FR0010820274",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6H1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALREW.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Reworld Media Societe Anonyme",
+  "primary_symbol": "6H1.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Reworld Media Soci√É¬©t√É¬© Anonyme engages in digital media business in France and internationally. It offers content production services for brands, such as audio/video and events; advocacy, influence, or performance marketing services; and communication solutions. The company was incorporated in 2014 and is headquartered in Boulogne-Billancourt, France.",
+  "website": "http://www.reworldmedia.com"
+}

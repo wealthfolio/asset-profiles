@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0019SPX24",
+    "isin": "HU0000180211"
+  },
+  "isin": "HU0000180211",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HU0000180211.SG"
+    }
+  ],
+  "name": "ORMESTER ORMESTER VAGYONVEDE",
+  "primary_symbol": "HU0000180211.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

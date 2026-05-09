@@ -1,0 +1,58 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000BDWP89",
+    "figi": "BBG000BDWSF5",
+    "isin": "DE0005658009"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Diversified Financials",
+  "isin": "DE0005658009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIS.MU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "EIS.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EIS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EIS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EIS.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EISEN- U.HUETTENWERKE",
+  "primary_symbol": "EIS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "East India Securities Limited is an Indian financial services company. The company provides investment banking, stock broking, and wealth management services. Its headquarters are located in Kolkata, India.",
+  "website": "http://www.ehw.ag"
+}

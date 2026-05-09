@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "FPAR-D.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FastPartner AB (publ)",
+  "primary_symbol": "FPAR-D.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "FastPartner AB (publ) develops, owns, and manages commercial properties in Sweden. The company was founded in 1987 and is headquartered in Stockholm, Sweden. FastPartner AB (publ) is a subsidiary of Compactor Fastigheter AB.",
+  "website": "http://www.fastpartner.se"
+}

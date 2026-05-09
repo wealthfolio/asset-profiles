@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000V7JCN7",
+    "figi": "BBG000V7JF50",
+    "isin": "AU000000HAS0"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000HAS0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AM.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSRMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5AM.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "HAS.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HASTINGS TECHNOLOGY M.LTD",
+  "primary_symbol": "5AM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Hastings Technology Metals Limited engages in the exploration and development of rare earth deposits in Australia. It primarily holds interest in the Yangibana rare earths project with package covering an area of approximately 650 square kilometers located in the Gascoyne region of Western Australia; and the Brockman heavy rare earths project that comprises 10 prospecting licenses located in the East Kimberley region of Western Australia. The company was formerly known as Hastings Rare Metals Limited and changed its name to Hastings Technology Metals Limited in October 2015. Hastings Technology Metals Limited was incorporated in 2006 and is based in Perth, Australia.",
+  "website": "http://www.hastingstechmetals.com"
+}

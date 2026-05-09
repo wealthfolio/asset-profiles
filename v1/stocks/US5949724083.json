@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CKLT59",
+    "cusip": "594972408",
+    "figi": "BBG000CKMY66",
+    "isin": "US5949724083"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US5949724083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIGA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIGA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSTR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A7O.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MIGA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MIGA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MIGA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MSTR.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "MICROSTRATEG.A NEW DL-001",
+  "primary_symbol": "MIGA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "MICROSTRATEG.A NEW DL-001 is a provider of enterprise analytics software and services. The company's platform enables businesses to analyze data and make data-driven decisions. MicroStrategy is headquartered in Tysons Corner, Virginia.",
+  "website": "http://www.microstrategy.com"
+}

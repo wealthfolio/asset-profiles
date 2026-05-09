@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BP1465",
+    "cusip": "397624107",
+    "figi": "BBG000BP16F0",
+    "isin": "US3976241071"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US3976241071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GR3.BE"
+    }
+  ],
+  "name": "GREIF INC. CL.A",
+  "primary_symbol": "GR3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Greif Inc. is a global leader in industrial packaging products and services. They manufacture steel, plastic, fibre, flexible, and corrugated containers, and provide container reconditioning, blending, and filling services. The company is headquartered in Delaware, USA."
+}

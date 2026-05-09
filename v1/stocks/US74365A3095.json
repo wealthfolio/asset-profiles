@@ -1,0 +1,59 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000RDPWF7",
+    "cusip": "74365A309",
+    "figi": "BBG000RDPYM5",
+    "isin": "US74365A3095"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US74365A3095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PBDA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PBDA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLX.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PBDA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US74365A3095.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PROTALIX BIOTHERAP.DL-,01",
+  "primary_symbol": "PBDA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Protalix BioTherapeutics, Inc. is a biopharmaceutical company focused on the development and commercialization of recombinant therapeutic proteins based on its proprietary ProCellEx protein expression system. They develop treatments for rare genetic disorders and other diseases. The company is headquartered in Carmiel, Israel.",
+  "website": "http://www.protalix.com"
+}

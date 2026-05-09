@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000NVXKJ4",
+    "figi": "BBG000NVXNY1",
+    "isin": "DE0007568578"
+  },
+  "industry": "Machinery",
+  "industry_group": "Energy",
+  "isin": "DE0007568578",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F3C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F3C.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F3C.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "F3C.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F3C.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F3C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F3C.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SFC ENERGY AG",
+  "primary_symbol": "F3C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SFC Energy AG is a German provider of hybrid power solutions. The company develops, manufactures, and sells fuel cell products for stationary and mobile applications, as well as electronic components. SFC Energy AG is headquartered in Brunnthal, Germany.",
+  "website": "http://www.sfc.com"
+}

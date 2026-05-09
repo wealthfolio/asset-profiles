@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB00BF3DT583"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "GB00BF3DT583",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLLWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8ZF.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "POLX.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Polarean Imaging plc",
+  "primary_symbol": "PLLWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Polarean Imaging plc operates as a medical drug-device combination company serving the medical imaging market in the United States and internationally. The company engages in the development and commercialization of gas polarizer devices and ancillary instruments. It develops equipment that enables existing magnetic resonance imaging (MRI) systems to achieve a level of pulmonary functional imaging and specializes in the use of polarized Xenon gas (129Xe) as an imaging agent to visualize ventilation and gas exchange regionally in the smallest airways of the lungs, the tissue barrier between the lung and the bloodstream, and in the pulmonary vasculature; and a novel diagnostic approach. The company also develops and manufactures MRI radiofrequency coils, which are required components for imaging 129Xe in the MRI system. Polarean Imaging plc was incorporated in 2016 and is headquartered in Durham, North Carolina.",
+  "website": "http://www.polarean.com"
+}

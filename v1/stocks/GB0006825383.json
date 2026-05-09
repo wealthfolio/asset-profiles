@@ -1,0 +1,51 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB0006825383"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "GB0006825383",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSNL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "04X.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "59P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "59P.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Parsons Corporation",
+  "primary_symbol": "PSN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Parsons Corporation provides technology based solutions in the defense, intelligence, and critical infrastructure markets in North America, the Middle East, and internationally. It operates through two segments, Federal Solutions and Critical Infrastructure. The company offers cyber security and intelligence services, as well as offensive and defensive cybersecurity platforms, tools, and operations to U.S. Department of Defense and the United States intelligence community; space and geospatial solutions, such as geospatial intelligence, threat analytics, space situational awareness, small satellite launch and integration, satellite ground systems, fight dynamics, and command, and control solutions to the National Geospatial-Intelligence Agency, National Reconnaissance Office, and multiple units within the U.S. Department of Defense. It also provides missile defense and C5ISR solutions, such as integrated air and missile defense, data fusion and analytics, platform system integration, directed energy, joint all-domain operations, and command and control systems to Defense Intelligence Agency and U.S. Department of Defense; technology services for complex energy production systems, aviation, healthcare and bio-surveillance systems, and environmental systems and associated infrastructure, as well as nuclear waste processing and treatment, weapons of mass destruction elimination, program and project management, infectious disease control analytics, and data protection solutions. In addition, the company offers intelligent transportation system management, aviation, rail and transit systems, smart cities software, and critical infrastructure cyber protection to the transportation authorities, rail, and transit entities; engineering services for complex infrastructure; and program management, and environmental solutions to private-sector industrial clients and public utilities. Parsons Corporation was founded in 1944 and is headquartered in Centreville, Virginia.",
+  "website": "http://www.parsons.com"
+}

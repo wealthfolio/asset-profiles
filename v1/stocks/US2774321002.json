@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BQJYS4",
+    "cusip": "277432100",
+    "figi": "BBG000BQK1N9",
+    "isin": "US2774321002"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US2774321002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EAC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EAC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMN"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "E1MN34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EAC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EAC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EAC.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "EMN.JO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EMN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "EASTMAN CHEM. CO.  DL-,01",
+  "primary_symbol": "EAC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Eastman Chemical Company is a global specialty materials company that produces a broad range of chemicals, fibers, and plastics. The company's products are used in various industries, including transportation, building and construction, and consumer products. Eastman Chemical is headquartered in Kingsport, Tennessee.",
+  "website": "http://www.eastman.com"
+}

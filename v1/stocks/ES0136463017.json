@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "ES0136463017"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Utilities",
+  "isin": "ES0136463017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0EIB.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "54F.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADX.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "54F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ADX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "ADX.MC"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AUDAX RENOVABLES SA FERSA ENERG",
+  "primary_symbol": "0EIB.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Audax Renovables SA, formerly FERSA Energías Renovables SA, is a Spanish independent power producer that generates electricity from renewable sources, including wind, solar, and hydro energy. The company is involved in the development, construction, and operation of renewable energy plants. Audax Renovables is headquartered in Barcelona, Spain.",
+  "website": "http://www.adamsfunds.com"
+}

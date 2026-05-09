@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BZHYF0",
+    "figi": "BBG000BZJ1R7",
+    "isin": "GB00B8C3BL03"
+  },
+  "industry_group": "Software & Services",
+  "isin": "GB00B8C3BL03",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGK1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGK1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SGK1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SGK1.SG"
+    }
+  ],
+  "name": "SAGE GRP PLC LS-,01051948",
+  "primary_symbol": "SGK1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "The Sage Group plc is a British multinational enterprise software company based in Newcastle upon Tyne, England. It develops software for managing accounting, human resources, payroll, payments, assets, construction, real estate, and enterprise resource planning. Sage primarily serves small and medium-sized businesses."
+}

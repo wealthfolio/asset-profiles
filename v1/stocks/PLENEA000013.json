@@ -1,0 +1,73 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00L54GK52",
+    "figi": "BBG00L54GKC4",
+    "isin": "PLENEA000013"
+  },
+  "industry": "Insurance",
+  "industry_group": "Utilities",
+  "isin": "PLENEA000013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "58S.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "58S.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "58S.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ENA.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ENA.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ENEA S.A.  ZY 1",
+  "primary_symbol": "58S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Enea S.A. is a Polish energy group that operates in the electricity generation, distribution, and sales sectors. The company's business model includes electricity production from conventional and renewable sources, as well as the distribution and sale of electricity to households and businesses. Enea S.A. is headquartered in Poznan, Poland.",
+  "website": "http://www.ensurance.com.au"
+}

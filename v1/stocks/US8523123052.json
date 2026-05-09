@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GMV5Q9",
+    "cusip": "852312305",
+    "figi": "BBG000GMV865",
+    "isin": "US8523123052"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US8523123052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SR3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SR3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STAA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SR3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SR3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SR3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STAAR SURGICAL CO. DL-,01",
+  "primary_symbol": "SR3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "STAAR Surgical Company designs, develops, manufactures, and markets implantable lenses for the eye. The company's primary product is the Visian ICL (Implantable Collamer Lens) for correcting myopia, hyperopia, and astigmatism. STAAR Surgical is headquartered in Monrovia, California.",
+  "website": "http://www.staar.com"
+}

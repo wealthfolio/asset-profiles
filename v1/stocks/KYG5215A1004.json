@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00WCN3VD9",
+    "figi": "BBG00WCN3VK1",
+    "isin": "KYG5215A1004"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "KYG5215A1004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "50J.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "50J.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "50J.F"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "9997.HK"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "9997.KL"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9997.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG5215A1004.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KANGJI MED.HLDS DL-,00001",
+  "primary_symbol": "50J.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Kangji Medical Holdings Limited is a Chinese company that manufactures and sells minimally invasive surgical instruments and equipment. Their products are used in various surgical procedures and the company is headquartered in China.",
+  "website": "http://www.kangjimedical.com"
+}

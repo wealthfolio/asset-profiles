@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00YM3CRB9",
+    "figi": "BBG00YM3CRC8",
+    "isin": "GB00BCCW4X83"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "GB00BCCW4X83",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4CN.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CNIC.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BCCW4X83.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CentralNic Group Plc",
+  "primary_symbol": "4CN.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CentralNic Group Plc provides domain name services worldwide. It operates through Indirect, Direct, and Monetisation segments. The company's Indirect segment distributes domain names to retailers and resellers through a network of channel partners. Its Direct segment provides ancillary services; monitoring services to protect brands online; and technical and consultancy services to corporate clients, as well as licenses its registry management platform and sells domain names to large corporations. The company's Monetisation segment offers advertising placement and data traffic management services, as well as sells domain names. It also provides social marketing, search engine marketing advertising, and display advertising services. The company was founded in 1996 and is based in London, the United Kingdom.",
+  "website": "http://www.centralnicgroup.com"
+}

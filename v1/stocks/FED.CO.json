@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "FED.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Fast Ejendom Danmark A/S",
+  "primary_symbol": "FED.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Fast Ejendom Denmark is a real estate investment firm specializing in commercial and residential properties. The firm seeks to invest in Denmark with a focus on the Copenhagen metropolitan area, Aarhus and the Triangle Area. Fast Ejendom Denmark is based in Denmark.",
+  "website": "http://www.fastejendom.dk"
+}

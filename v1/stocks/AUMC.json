@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUMC"
+    }
+  ],
+  "name": "AURYN Mining Corporation",
+  "primary_symbol": "AUMC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "AURYN Mining Corporation operates as a mining and exploration company. It owns and operates approximately 10,500 hectares of mining claims comprising the Altos de Lipangue mining district. The company is based in Indianapolis, Indiana.",
+  "website": "http://aurynminingcorp.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG001PLRVV1",
+    "figi": "BBG001PLRW12",
+    "isin": "FR0000079634"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0000079634",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G8C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G8C.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALGEC.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G8C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G8C.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GECI INTL INH.  EO -,001",
+  "primary_symbol": "G8C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "GECI International S.A. provides consulting and engineering company services to industrialists, small and medium enterprises, or start-ups in France and internationally. It also offers specialized services, such as design, engineering, and prototyping in automotive and transport sector; and energy engineering services. The company was founded in 1979 and is based in Paris, France.",
+  "website": "http://www.geci.net"
+}

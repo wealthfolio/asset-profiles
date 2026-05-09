@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000DY3KH4",
+    "figi": "BBG000DY3PJ1",
+    "isin": "NO0003079709"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "NO0003079709",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KP5.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0F0J.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KIT.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KITO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KP5.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KITRON ASA  NK 0,1",
+  "primary_symbol": "KP5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kitron ASA is an electronics manufacturing services (EMS) company. They offer services throughout the entire value chain, from design and development to manufacturing, supply chain management, and aftermarket services. The company is headquartered in Norway.",
+  "website": "http://www.kitron.com"
+}

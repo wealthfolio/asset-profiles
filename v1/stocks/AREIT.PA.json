@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "AREIT.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Altareit SCA",
+  "primary_symbol": "AREIT.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Altareit SCA operates as a real estate development company in France. The company develops residential properties, such as residential units and serviced residences; and mixed-use projects and business properties. Altareit SCA was incorporated in 1955 and is headquartered in Paris, France.",
+  "website": "http://www.altareit.com"
+}

@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "826197501",
+    "isin": "US8261975010"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US8261975010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIEB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIEB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SIEB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SIEB.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "STF.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Siebert Financial Corp.",
+  "primary_symbol": "SIEB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Siebert Financial Corp., through its subsidiaries, engages in the retail discount brokerage and investment advisory businesses. It offers discount brokerage services, including traditional trading through a broker on the telephone or through the Internet to retail clients; securities lending, equity stock plan, and market making services; independent retail execution services; retail customer services; and various value added services, such as access to account information. The company also offers self-directed retirement accounts, as well as lends customers a portion of the market value of marginable securities held in the customer's account. In addition, the company provides data technology platform that offers various services, such as email and messaging, market data systems and third party trading systems, business productivity tools, and customer relationship management systems. Further, it offers a Robo-Advisor platform that provides clients with an automated wealth management solution; and various insurance products, such as fixed annuities, and property and casualty insurance. The company serves customers through 18 branch offices in the United States and internationally. Siebert Financial Corp. was incorporated in 1934 and is headquartered in New York, New York.",
+  "website": "http://www.siebert.com"
+}

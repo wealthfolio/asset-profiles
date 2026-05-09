@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA2964371066"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA2964371066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESKYF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KN7.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ESK.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ESK.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KN7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KN7.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Eskay Mining Corp.",
+  "primary_symbol": "ESKYF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Eskay Mining Corp., a natural resource company, engages in the acquisition and exploration of mineral properties, and precious and base metal deposits in British Columbia, Canada. The company holds an 80% interest in the St. Andrew Goldfield (SIB)-Eskay project located at Eskay Creek; and a 100% interest in Corey mineral claims located in the Skeena Mining division. The company was formerly known as Kenrich-Eskay Mining Corp. and changed its name to Eskay Mining Corp. in November 2009. Eskay Mining Corp. was founded in 1980 and is based in Toronto, Canada.",
+  "website": "http://www.eskaymining.com"
+}

@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MS^I"
+    }
+  ],
+  "name": "Morgan Stanley Depository Shares Representing 1/1000th Preferred Series 1 Fixed to Floating Non (Cum)",
+  "primary_symbol": "MS^I",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Morgan Stanley Depository Shares Representing 1/1000th Preferred Series I Fixed to Floating Non (Cum) are depositary shares that represent a fractional interest in Morgan Stanley's preferred stock. The series I preferred stock initially pays a fixed dividend, which later converts to a floating rate. Dividends are non-cumulative, meaning that unpaid dividends do not accrue."
+}

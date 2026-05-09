@@ -1,0 +1,51 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0003853703"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "BE0003853703",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0LBY.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8E.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M8E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M8E.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "MONT.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MONTEA CVA MONTEA REIT ORD SHS",
+  "primary_symbol": "0LBY.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Montea CVA is a Belgian real estate investment trust (REIT) specializing in logistics real estate. The company invests in, develops, and manages logistics properties in Belgium, the Netherlands, France, and Germany. Montea is headquartered in Aalst, Belgium",
+  "website": "http://www.montea.com"
+}

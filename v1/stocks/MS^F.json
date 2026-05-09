@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MS^F"
+    }
+  ],
+  "name": "Morgan Stanley Dep Shs Rpstg 1/1000th Int Prd Ser F Fxd to Flag",
+  "primary_symbol": "MS^F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Morgan Stanley Dep Shs Rpstg 1/1000th Int Prd Ser F Fxd to Flag represents depositary shares, each representing 1/1000th interest in Morgan Stanley's Fixed-to-Floating Rate Preferred Stock Series F. The preferred stock initially pays a fixed dividend rate, which later converts to a floating rate based on a benchmark. Investors gain access to preferred stock with a changing dividend structure."
+}

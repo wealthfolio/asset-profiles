@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BR0V08",
+    "figi": "BBG000BR0YT1",
+    "isin": "TH0380010Y15"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "TH0380010Y15",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HI11.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HI11.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HI11.SG"
+    }
+  ],
+  "name": "THAICOM PCL-FOREIGN- BA 5",
+  "primary_symbol": "HI11.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Thaicom Public Company Limited is a Thai satellite operator. The company provides satellite communication services, including broadcast and data communication. Thaicom's headquarters are in Bangkok, Thailand."
+}

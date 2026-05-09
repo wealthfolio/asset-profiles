@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000D4LZ87",
+    "cusip": "526057104",
+    "figi": "BBG000D4M341",
+    "isin": "US5260571048"
+  },
+  "industry_group": "Retailing",
+  "isin": "US5260571048",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNN.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LNN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LNN.SG"
+    }
+  ],
+  "name": "LENNAR CORP.A  DL-,10",
+  "primary_symbol": "LNN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Lennar Corporation is a home construction and real estate company, primarily building single-family homes for first-time, move-up, and active adult homebuyers. Headquartered in Miami, Florida, Lennar also provides mortgage financing, title insurance, and closing services. They operate in numerous markets across the United States."
+}

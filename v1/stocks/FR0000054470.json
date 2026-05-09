@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000L1Y087",
+    "figi": "BBG000L1Y4Y0",
+    "isin": "FR0000054470"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Software & Services",
+  "isin": "FR0000054470",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UEN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UEN.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000054470.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "UBI.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "UBIS.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UEN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UEN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "UBISOFT ENTMT IN.EO-,0775",
+  "primary_symbol": "UEN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "UBISOFT ENTMT IN.EO-,0775",
+  "website": "http://www.universalbiosensors.com"
+}

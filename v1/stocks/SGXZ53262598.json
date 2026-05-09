@@ -1,0 +1,35 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XR4MPW4",
+    "figi": "BBG00XR4MQ25",
+    "isin": "SGXZ53262598"
+  },
+  "isin": "SGXZ53262598",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "616A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "616A.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "616A.DU"
+    }
+  ],
+  "name": "DIGINEX LTD",
+  "primary_symbol": "616A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

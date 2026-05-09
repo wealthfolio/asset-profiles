@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BASE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Couchbase Inc. Common Stock",
+  "primary_symbol": "BASE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Couchbase, Inc. provides a modern database for enterprise applications. The company offers Couchbase Server, a NoSQL multi-cloud to edge database. Couchbase is headquartered in Santa Clara, California."
+}

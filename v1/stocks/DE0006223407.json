@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000W57G54",
+    "figi": "BBG00FM8QXC0",
+    "isin": "DE0006223407"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "DE0006223407",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCZ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RL9.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PCZ.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PCZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PCZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PCZ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PROCREDIT HLDG AG NA EO 5",
+  "primary_symbol": "PCZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ProCredit Holding AG & Co. KGaA is the parent company of the ProCredit group, a group of banks mainly operating in developing countries and transition economies. The group provides financial services to small and medium-sized enterprises. The company is headquartered in Frankfurt, Germany.",
+  "website": "http://www.procredit-holding.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0003656676"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Capital Goods",
+  "isin": "BE0003656676",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NHV.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCZ.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RCZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RCZ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RECTICEL NV RECTICEL ORD SHS",
+  "primary_symbol": "0NHV.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Recticel NV is a Belgian industrial group that produces polyurethane-based solutions. It manufactures flexible foams, bedding, insulation, and automotive interiors. The company is headquartered in Brussels, Belgium.",
+  "website": "http://www.recticel.com"
+}

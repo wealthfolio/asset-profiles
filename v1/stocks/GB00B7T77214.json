@@ -1,0 +1,46 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "GB00B7T77214"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "GB00B7T77214",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RBS.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B7T77214.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RBS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "RYS1.DE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "REALIA BUSIN. INH. EO-,24",
+  "primary_symbol": "RBS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Realia Business, S.A., together with its subsidiaries, engages in property, and development and land businesses in Spain and internationally. It leases and manages office buildings and shopping centers; develops and sells real estate properties primarily homes; and provides land management. It has a land portfolio of 5,752,433 gross square meters and 1,619,033 square meters of buildable land. The company was incorporated in 1997 and is headquartered in Madrid, Spain.",
+  "website": "http://www.realia.es"
+}

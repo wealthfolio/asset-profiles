@@ -1,0 +1,27 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "CJN.SI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "British and Malayan Holdings Limited",
+  "primary_symbol": "CJN.SI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "British and Malayan Holdings Limited provides trustee services to families, companies, financial institutions, charities, and high net worth individuals in Singapore. The company was incorporated in 1924 and is based in Singapore.",
+  "website": "http://www.bmtrust.com"
+}

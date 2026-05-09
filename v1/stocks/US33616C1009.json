@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001BCT5C2",
+    "cusip": "33616C100",
+    "figi": "BBG001BCT5M1",
+    "isin": "US33616C1009"
+  },
+  "isin": "US33616C1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "81R.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "81R.DE"
+    }
+  ],
+  "name": "FST REP.BK S.FR.NEW DL-01",
+  "primary_symbol": "81R.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BQF8S5",
+    "cusip": "775133101",
+    "figi": "BBG000BQFC06",
+    "isin": "US7751331015"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "US7751331015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RG6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ROG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RG6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RG6.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ROGERS CORP.  DL 1",
+  "primary_symbol": "RG6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Rogers Corporation designs, develops, manufactures, and sells engineered materials and components. The company provides solutions for high-performance applications in various markets, including wireless communications, automotive, and aerospace. Rogers Corporation operates globally, serving a diverse customer base with its advanced materials technologies.",
+  "website": "http://www.rogerscorp.com"
+}

@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FCWHY6",
+    "cusip": "911363109",
+    "figi": "BBG000FCWMK0",
+    "isin": "US9113631090"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Capital Goods",
+  "isin": "US9113631090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UR3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UR3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "URI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LIY.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "U1RI34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "UR3.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UR3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UR3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UR3.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "URI.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "UNITED RENTALS INC.DL-,01",
+  "primary_symbol": "UR3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "UNITED RENTALS INC.DL-,01 is the world's largest equipment rental company, offering a diverse fleet of equipment for construction, industrial, and homeowner applications. The company provides equipment rental, sales, and services. United Rentals is headquartered in Stamford, Connecticut.",
+  "website": "http://www.unitedrentals.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG008F566B2",
+    "figi": "BBG008F566J4",
+    "isin": "CA84841L3083"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA84841L3083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8S3B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8S3B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANY.BD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8S3B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8S3B.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Sphere 3D Corp.",
+  "primary_symbol": "8S3B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sphere 3D Corp. provides data management, and desktop and application virtualization solutions in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It enables organizations to deploy a combination of public, private, or hybrid cloud strategies through containerized applications, virtual desktops, virtual storage, and physical hyper-converged platforms. The company offers HVE converged and hyper-converged Infrastructure solutions, such as HVE-STACK high density server solution; HVE-VELOCITY high availability dual enclosure storage area network solution; and HVE 3DGFX, a virtualized desktop infrastructure solution. It also provides G-Series appliance to simplify Windows application migration and to enable access from various devices; and G-Series Cloud solution to provide a virtual appliance. In addition, the company provides SnapServer network attached storage solutions, including SnapServer XSR40, a 1U server that can be configured with up to four SATA III and SSD drives; SnapServer XSR120, a 2U server, which can be configured with up to 12 SATA III, SAS, and SSD drives; GuardianOS, a storage software solution; and Snap Enterprise Data Replicator that provides multi-directional WAN-optimized replication. Sphere 3D Corp. markets its products under the SnapServer, HVE ConneXions, and UCX ConneXions brand names. The company sells its products through its distributor and reseller network to small and medium businesses, and distributed enterprises. Sphere 3D Corp. was incorporated in 2007 and is based in Toronto, Canada.",
+  "website": "http://www.sphere3d.com"
+}

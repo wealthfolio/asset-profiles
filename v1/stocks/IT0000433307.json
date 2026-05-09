@@ -1,0 +1,58 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000DZQCP5",
+    "figi": "BBG000DZQHD7",
+    "isin": "IT0000433307"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "IT0000433307",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S7A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S7A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S7A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S7A.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SRS.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SARAS S.P.A.RAFFINERIE S.",
+  "primary_symbol": "S7A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Saras S.p.A. operates in the energy sector, focusing on oil refining and the production and sale of electricity. The company owns and operates the Sarroch refinery in Sardinia, Italy. Saras S.p.A. is headquartered in Sarroch, Italy.",
+  "website": "http://www.saras.it"
+}

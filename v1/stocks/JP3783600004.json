@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BNWBM2",
+    "figi": "BBG000BNWHZ5",
+    "isin": "JP3783600004"
+  },
+  "industry_group": "Transportation",
+  "isin": "JP3783600004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EJR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EJR.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EJR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EJR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EJR.SG"
+    }
+  ],
+  "name": "EAST JAPAN RWY",
+  "primary_symbol": "EJR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "East Japan Railway Company is a major passenger railway company in Japan. It operates a network of railway lines in the eastern part of Honshu, the largest island of Japan, including the Tokyo metropolitan area. Its headquarters are located in Tokyo, Japan."
+}

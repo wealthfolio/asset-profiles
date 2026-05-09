@@ -1,0 +1,23 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "CFIMBIRF-A.SN"
+    }
+  ],
+  "name": "MBI Deuda Plus Fondo De Inversion",
+  "primary_symbol": "CFIMBIRF-A.SN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "MBI Deuda Plus Fondo De Inversion was founded in 2014 and is headquartered in Santiago, Chile.",
+  "website": "http://www.mbi.cl/asset-management-2/asset-management/mbi-deuda-plus-fondo-de-inversion/"
+}

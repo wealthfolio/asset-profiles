@@ -1,0 +1,63 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG0083CR8R6",
+    "figi": "BBG0083CR8X9",
+    "isin": "FI0009000400"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FI0009000400",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8X.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FKRAF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L9Q.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A8X.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A8X.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009000400.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "FSKRS.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FISKARS OY A",
+  "primary_symbol": "A8X.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Fiskars Oyj Abp is a Finnish company providing consumer products for the home, garden, and outdoors. The company's brands include Fiskars, Gerber, Iittala, Royal Copenhagen, Waterford, and Wedgwood. Fiskars is headquartered in Helsinki, Finland.",
+  "website": "http://www.fiskarsgroup.com"
+}

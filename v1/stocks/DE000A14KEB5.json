@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG009BNYJH0",
+    "figi": "BBG00KY3X4Y9",
+    "isin": "DE000A14KEB5"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "DE000A14KEB5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H24.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H24.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H24.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H24.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "H24.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "H24.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "H24.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "H24.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HOME24 SE  INH O.N.",
+  "primary_symbol": "H24.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Home24 SE is a German e-commerce company specializing in furniture and home decor. They offer a wide range of products, including furniture, lighting, textiles, and accessories, through their online platform. Home24 is headquartered in Berlin, Germany.",
+  "website": "http://www.home24.com"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZSJDYV7",
+    "isin": "NO0010946445"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "NO0010946445",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010946445.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NORSE.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NORSE ATLANTIC ASA",
+  "primary_symbol": "NO0010946445.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NORSE ATLANTIC ASA is a shipping company that owns and operates a fleet of container vessels. They provide container transportation services to customers worldwide. NORSE ATLANTIC ASA is headquartered in Hamilton, Bermuda.",
+  "website": "http://flynorse.com"
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000L3RFQ8",
+    "cusip": "535555106",
+    "figi": "BBG000L3RJL5",
+    "isin": "US5355551061"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US5355551061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LMF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LMF.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LINDSAY CORP.  DL 1",
+  "primary_symbol": "LMF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Lindsay Corporation designs and manufactures irrigation and infrastructure products and services. Headquartered in Omaha, Nebraska, the company provides irrigation systems and technology, as well as road safety and infrastructure products. Lindsay serves the agricultural and transportation sectors globally.",
+  "website": "http://www.lindsay.com"
+}

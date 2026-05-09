@@ -1,0 +1,41 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0000108847"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0000108847",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GWB.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LU3B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LU3B.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "L E LUNDBERGFORETAGEN AB (PUBL)",
+  "primary_symbol": "0GWB.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "L E Lundbergföretagen AB (publ) is a Swedish investment company. The company invests in a range of companies in various sectors including real estate, packaging, and industry. L E Lundbergföretagen is headquartered in Norrköping, Sweden.",
+  "website": "http://www.lundbergforetagen.se"
+}

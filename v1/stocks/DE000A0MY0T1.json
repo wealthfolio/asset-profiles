@@ -1,0 +1,23 @@
+{
+  "identifiers": {
+    "isin": "DE000A0MY0T1"
+  },
+  "isin": "DE000A0MY0T1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "LQ32.VI"
+    }
+  ],
+  "name": "RCB OE TrackX2 l Sugar",
+  "primary_symbol": "LQ32.VI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

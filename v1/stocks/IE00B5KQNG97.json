@@ -1,0 +1,47 @@
+{
+  "identifiers": {
+    "isin": "IE00B5KQNG97"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "IE00B5KQNG97",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HHH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HHH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HHH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HHH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HHH.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HOMES+HOLIDAY AG NA O.N.",
+  "primary_symbol": "HHH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Homes & Holiday AG (formerly known as HolidayCheck Group AG) operates an online platform for vacation rentals and related services. The company provides a marketplace for holiday accommodations, offering search, comparison, and booking functionalities to travelers. Homes & Holiday AG is headquartered in Munich, Germany."
+}

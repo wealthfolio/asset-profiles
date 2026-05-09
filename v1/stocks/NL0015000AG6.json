@@ -1,0 +1,38 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00L04L545",
+    "figi": "BBG00ZHSKZ48",
+    "isin": "NL0015000AG6"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NL0015000AG6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LVTX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NL0015000AG6.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Lava Therapeutics B.V.",
+  "primary_symbol": "LVTX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Lava Therapeutics B.V., a biotechnology company, engages in developing a portfolio of bispecific gamma-delta T cell engagers (gamma-delta bsTCEs) for the treatment of solid tumors and hematologic malignancies based on its platform. Its lead product candidate, LAVA-051, is advancing toward a Phase 1/2a clinical trial for the treatment of CD1d-expressing hematologic cancers, including chronic lymphocytic leukemia, multiple myeloma, and acute myeloid leukemia. The company also develops its gamma-delta bsTCEs in solid tumors, which targets prostate-specific membrane antigen for the treatment of prostate cancer. Lava Therapeutics B.V. has a research collaboration and license agreement with Janssen Biotech, Inc. for the development and commercialization of potential product candidates. The company was incorporated in 2016 and is headquartered in Utrecht, the Netherlands.",
+  "website": "http://www.lavatherapeutics.com"
+}

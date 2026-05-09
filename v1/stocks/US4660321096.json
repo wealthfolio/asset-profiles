@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GM72Z3",
+    "cusip": "466032109",
+    "figi": "BBG000GM76Q4",
+    "isin": "US4660321096"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US4660321096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JJ1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JJSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JJ1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "J+J SNACK FOODS",
+  "primary_symbol": "JJ1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "J+J Snack Foods Corp. manufactures, markets, and distributes nutritional snack foods and beverages to the foodservice and retail supermarket industries. The company's products include soft pretzels, frozen juice bars and ices, cookies and pies, and other specialty snack foods. J+J Snack Foods is headquartered in Pennsauken, New Jersey.",
+  "website": "http://www.jjsnack.com"
+}

@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BDYS"
+    }
+  ],
+  "name": "BodyScan Corp.",
+  "primary_symbol": "BDYS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BodyScan Corp. offers medical imaging services that include GE-Imatron Electron Beam Tomography (EBT) scanning for coronary artery disease (CAD), lung diseases, tumors, and stones detection. The company is based in Irvine, California."
+}

@@ -1,0 +1,43 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00VSYHVH1",
+    "figi": "BBG00VSYHVN4",
+    "isin": "VGG0542G1028"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "VGG0542G1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "51N.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1675.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "51N.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ASIAINFO TECH.LTD HD",
+  "primary_symbol": "51N.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ASIAINFO TECH.LTD HD is likely a stock ticker denoting shares of AsiaInfo Technologies Limited listed on the Munich Stock Exchange. AsiaInfo Technologies Limited is a leading provider of software solutions and IT services to the telecommunications industry in China. The company offers a range of solutions, including billing systems, customer relationship management (CRM) systems, and network management systems.",
+  "website": "http://www.asiainfo.com"
+}

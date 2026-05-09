@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000V0XR71",
+    "figi": "BBG000V0XSB4",
+    "isin": "MHY8565N3002"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Transportation",
+  "isin": "MHY8565N3002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3TKA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3TKA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TNK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3TKA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MHY8565N3002.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TNK.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TEEKAY TANKERS P.R.S.-,01",
+  "primary_symbol": "3TKA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Teekay Tankers Ltd. is an international provider of marine transportation services to the oil industry. The company owns and operates a fleet of crude oil and product tankers. Teekay Tankers is headquartered in Vancouver, Canada.",
+  "website": "http://www.teekay.com/business/tankers"
+}

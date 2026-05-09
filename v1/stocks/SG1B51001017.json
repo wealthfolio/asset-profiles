@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BM31S2",
+    "figi": "BBG000BM34T5",
+    "isin": "SG1B51001017"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Capital Goods",
+  "isin": "SG1B51001017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYC.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CYC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CYC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CYC.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JARDINE CYCLE+CARR. SD 1",
+  "primary_symbol": "CYC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Jardine Cycle & Carriage Limited is a Singapore-based company that invests in market-leading businesses across Southeast Asia. The company's interests include automotive, financial services, heavy equipment, mining, infrastructure and other investments. Jardine Cycle & Carriage is headquartered in Singapore.",
+  "website": "http://www.cyclopharm.com.au"
+}

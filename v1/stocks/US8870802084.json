@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001QL85J2",
+    "cusip": "887080208",
+    "figi": "BBG001QL85K0",
+    "isin": "US8870802084"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US8870802084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TMBR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BPC2.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Timber Pharmaceuticals, Inc.",
+  "primary_symbol": "TMBR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Timber Pharmaceuticals LLC, a clinical-stage biopharmaceutical dermatology company, focused on the development and commercialization of treatments for orphan dermatologic diseases. The company was founded in 2019 and is headquartered in Basking Ridge, New Jersey.",
+  "website": "http://www.timberpharma.com"
+}

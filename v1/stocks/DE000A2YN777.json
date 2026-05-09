@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BZPWW6",
+    "figi": "BBG000BZQ0F4",
+    "isin": "DE000A2YN777"
+  },
+  "industry": "Diversified Consumer Services",
+  "industry_group": "Consumer Services",
+  "isin": "DE000A2YN777",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMH.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2YN777.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EMH.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EMH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EMH.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PFERDEWETTEN.DE AG NA ON",
+  "primary_symbol": "EMH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PFERDEWETTEN.DE AG NA ON: Pferdewetten.de AG operates as an online horse betting provider in Germany. The company offers a platform for users to place bets on horse races, providing a variety of betting options and race information. Its headquarters are in Düsseldorf, Germany.",
+  "website": "http://www.pferdewetten.ag"
+}

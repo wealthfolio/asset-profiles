@@ -1,0 +1,71 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0013451333"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Retailing",
+  "isin": "FR0013451333",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A8B.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LFDJF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1WE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1WE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "FDJ.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FDJ.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013451333.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "LA FRANCAISE DES JEUX SA LA FRA",
+  "primary_symbol": "0A8B.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LA FRANCAISE DES JEUX SA LA FRA is the French national lottery and gaming operator, offering a range of lottery games, sports betting, and other gaming products. The company operates through a network of retailers and online channels, generating revenue from ticket sales and gaming activities, with headquarters in Boulogne-Billancourt, France.",
+  "website": "http://www.groupefdj.com"
+}

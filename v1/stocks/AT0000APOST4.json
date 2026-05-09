@@ -1,0 +1,76 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "isin": "AT0000APOST4"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Transportation",
+  "isin": "AT0000APOST4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NTM.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O3P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O3P.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O3P.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O3P.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "AT0000APOST4.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "O3P.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "O3P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "O3P.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "POST.BK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "OESTERREICHISCHE POST AG OSTERR",
+  "primary_symbol": "0NTM.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Österreichische Post AG is the postal service provider in Austria. It provides postal services, logistics solutions, and financial services. The company is headquartered in Vienna, Austria.",
+  "website": "http://www.bangkokpost.co.th"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00JCW6Q28",
+    "figi": "BBG00JCW6Q73",
+    "isin": "CA8283341029"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8283341029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S06.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIPRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA8283341029.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S06.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "VIPR.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SILVER VIPER MINER. CORP.",
+  "primary_symbol": "S06.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Silver Viper Minerals Corp. engages in the acquisition and exploration of mineral properties in Mexico. The company holds a 100% interest in the La Virginia Gold-Silver project that comprises six mineral concessions covering an area of 35,598 hectares located in Sonora, Mexico. Silver Viper Minerals Corp. was incorporated in 2016 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.silverviperminerals.com"
+}

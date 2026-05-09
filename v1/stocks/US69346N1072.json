@@ -1,0 +1,32 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MF4SGM6",
+    "cusip": "69346N107",
+    "figi": "BBG00MTGP6Z5",
+    "isin": "US69346N1072"
+  },
+  "industry_group": "Banks",
+  "isin": "US69346N1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NRGX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PIMCO Energy and Tactical Credit Opportunities Fund",
+  "primary_symbol": "NRGX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PIMCO Energy and Tactical Credit Opportunities Fund is a closed-end investment fund that invests in a portfolio of energy and credit-related securities. The fund seeks to generate current income and capital appreciation. The fund is managed by PIMCO (Pacific Investment Management Company)."
+}

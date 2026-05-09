@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000MQ4VF8",
+    "figi": "BBG000MQ4ZC2",
+    "isin": "HK0066009694"
+  },
+  "industry_group": "Transportation",
+  "isin": "HK0066009694",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MRI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MRI.SG"
+    }
+  ],
+  "name": "MTR CORP. LTD",
+  "primary_symbol": "MRI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "MTR Corporation Limited operates and invests in railway systems in Hong Kong and internationally. The company engages in railway and bus operations, property development, property leasing and management, and other businesses such as telecommunications and international consultancy. MTR Corporation is headquartered in Hong Kong."
+}

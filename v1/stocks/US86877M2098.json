@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KRW3RW7",
+    "cusip": "86877M209",
+    "figi": "BBG00KRW3S28",
+    "isin": "US86877M2098"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US86877M2098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QSOA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QSOA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SURF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QSOA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US86877M2098.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SURFACE ONCOLOGY DL-,0001",
+  "primary_symbol": "QSOA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Surface Oncology is a biopharmaceutical company focused on developing cancer immunotherapies that target the tumor microenvironment. The company is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.surfaceoncology.com"
+}

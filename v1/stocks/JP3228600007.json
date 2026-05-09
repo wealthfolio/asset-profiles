@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BS5YQ7",
+    "figi": "BBG000BS61S6",
+    "isin": "JP3228600007"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "JP3228600007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KPO.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "KPO.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KPO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KPO.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "KANSAI EL. PWR",
+  "primary_symbol": "KPO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "KANSAI Electric Power Co., Inc. generates, transmits, and distributes electricity in the Kansai region of Japan. The company operates nuclear, thermal, hydroelectric, and renewable energy power plants. Its headquarters are located in Osaka, Japan.",
+  "website": "http://www.kalinapower.com"
+}

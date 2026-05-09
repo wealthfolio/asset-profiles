@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000H1M9Q6",
+    "figi": "BBG000H1MDV1",
+    "isin": "PTGAL0AM0009"
+  },
+  "industry_group": "Energy",
+  "isin": "PTGAL0AM0009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GZ5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GZ5.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GZ5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GZ5.SG"
+    }
+  ],
+  "name": "GALP ENERGIA SGPS NOM.EO1",
+  "primary_symbol": "GZ5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Galp Energia SGPS S.A. is an integrated energy operator involved in all stages of the oil and natural gas value chain, as well as in renewables and electricity. The company operates in exploration and production, refining and distribution, and power generation, with activities in Portugal and internationally. Galp Energia is headquartered in Lisbon, Portugal."
+}

@@ -1,0 +1,73 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG00NGJKQ64",
+    "figi": "BBG00NGJKQD6",
+    "isin": "ZAE000265971"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "ZAE000265971",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "30R.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "30R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCHOY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCOIF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "30R.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "30R.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "30R0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "30R0.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "MCG.JO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MULTICHOICE GRP  RC-,02",
+  "primary_symbol": "30R.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "MultiChoice Group Limited is a video entertainment company that operates in Africa. The company provides pay-television and over-the-top video services, offering a variety of channels and content to subscribers. MultiChoice Group is headquartered in Johannesburg, South Africa.",
+  "website": "http://www.multichoice.com"
+}

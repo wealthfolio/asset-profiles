@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CQF2C4",
+    "figi": "BBG000CQG787",
+    "isin": "JP3729000004"
+  },
+  "industry_group": "Banks",
+  "isin": "JP3729000004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCJ.MU"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "8303.KL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LCJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LCJ.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SHINSEI BANK",
+  "primary_symbol": "LCJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Shinsei Bank, Limited provides various banking products and services primarily in Japan. It offers banking services, including commercial banking, consumer finance, and investment banking. Shinsei Bank is headquartered in Tokyo, Japan."
+}

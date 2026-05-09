@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00ZTGGVQ1",
+    "cusip": "25402D102",
+    "figi": "BBG00ZTGGVX3",
+    "isin": "US25402D1028"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US25402D1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0SU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0SU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DOCN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0SU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0SU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US25402D1028.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DIGITALOCEAN HLD.-,000025",
+  "primary_symbol": "0SU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DigitalOcean Holdings, Inc. is a cloud infrastructure provider that offers compute, storage, and networking services to developers and small to medium-sized businesses (SMBs). Their platform simplifies cloud computing to allow businesses to build, deploy, and scale applications easily. DigitalOcean is headquartered in New York, NY.",
+  "website": "http://www.digitalocean.com"
+}

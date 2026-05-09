@@ -1,0 +1,56 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0007074281"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "SE0007074281",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R7O.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4QT1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HXPLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4QT1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4QT1.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "HPOL-B.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HEXPOL AB HEXPOL ORD SHS",
+  "primary_symbol": "0R7O.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "HEXPOL AB is a Swedish polymer compounding company that develops, manufactures, and markets a wide range of polymer compounds. Their products are used in various industries, including automotive, construction, and consumer goods. HEXPOL AB is headquartered in Malmo, Sweden.",
+  "website": "http://www.hexpol.com"
+}

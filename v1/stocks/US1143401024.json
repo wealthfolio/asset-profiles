@@ -1,0 +1,54 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KRXPZ7",
+    "cusip": "114340102",
+    "figi": "BBG000KRXW28",
+    "isin": "US1143401024"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US1143401024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BA3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BA3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BA3.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BA3.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BA3.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BA3.SG"
+    }
+  ],
+  "name": "BROOKS AUTOMATION  DL-,01",
+  "primary_symbol": "BA3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BROOKS AUTOMATION provides automation and vacuum solutions for multiple markets including semiconductor manufacturing and life sciences. The company offers a range of products including robots, vacuum transfer systems and automation software, and is headquartered in Chelmsford, Massachusetts."
+}

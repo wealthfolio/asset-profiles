@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000TZDDX1",
+    "cusip": "78112T206",
+    "figi": "BBG000TZDGN5",
+    "isin": "US78112T2069"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Software & Services",
+  "isin": "US78112T2069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "39YA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RBCN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "39YA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "39YA.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "RUBICON TECHN. NEW DL-001",
+  "primary_symbol": "39YA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Rubicon Technologies, Inc. provides cloud-based waste and recycling solutions to businesses and governments worldwide. Their technology platform helps clients optimize their waste management processes, reduce costs, and improve sustainability. The company is headquartered in Lexington, Kentucky.",
+  "website": "http://www.rubicontechnology.com"
+}

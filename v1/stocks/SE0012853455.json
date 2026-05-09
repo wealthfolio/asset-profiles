@@ -1,0 +1,41 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0012853455"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0012853455",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EQBBF"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EQT.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0012853455.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "EQT AB (publ)",
+  "primary_symbol": "EQBBF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "EQT AB (publ) is a private equity firm specializing in buyout investments. It seeks to focus on investment opportunities in Australia and New Zealand. It seeks to take a majority stake. EQT AB (publ) was founded in 2012 and is based in Stockholm, Sweden and additional office in Sydney, Australia.",
+  "website": "http://www.eqtgroup.com"
+}

@@ -1,0 +1,38 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00L8W3PC2",
+    "figi": "BBG00L8W3PD1",
+    "isin": "NL0015000GX8"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "NL0015000GX8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "ENVI.AS"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ENVIP.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Envipco Holding N.V.",
+  "primary_symbol": "ENVI.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Envipco Holding N.V., together with its subsidiaries, designs, develops, manufactures, and sells or leases reverse vending machines (RVM) for the collection and processing of used beverage containers in the North America, Europe, and internationally. The company also provides technical support, RVM maintenance, and accounting services to the retail stores, bottlers, and distributors for containers redeemed through its machines. In addition, it offers deposit, handling fees, scrap reconciliations, commodity brokerage, clearing house functions, and accounting services. Further, the company provides materials handling services primarily in the northeastern part of the United States. The company was founded in 1998 and is headquartered in Amersfoort, the Netherlands.",
+  "website": "http://www.envipco.com"
+}

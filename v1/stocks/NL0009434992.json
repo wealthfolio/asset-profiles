@@ -1,0 +1,76 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "NL0009434992"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Diversified Financials",
+  "isin": "NL0009434992",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYB"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0EDD.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DLY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DLY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DLY.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "L1YB34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LYBN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DoubleLine Yield Opportunities Fund",
+  "primary_symbol": "DLY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "DoubleLine Yield Opportunities Fund is a closed-end fund. The fund's objective is to seek high current income and secondarily, capital appreciation, by investing in a portfolio of investments including, among others, mortgage-backed securities, asset-backed securities, corporate debt, and other credit instruments. The fund is managed by DoubleLine Capital LP.",
+  "website": "http://www.lyondellbasell.com"
+}

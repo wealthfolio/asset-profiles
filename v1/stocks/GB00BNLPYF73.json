@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG006W3Z9D2",
+    "figi": "BBG006W3Z9K4",
+    "isin": "GB00BNLPYF73"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Materials",
+  "isin": "GB00BNLPYF73",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S00.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPI.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00BNLPYF73.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S00.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SPI.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SPI.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "SPI.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SPIRE HEALTHCARE GRP",
+  "primary_symbol": "S00.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sappi Limited is a global woodfibre company. Sappi produces dissolving pulp, paper pulp, packaging and specialty papers, printing and writing papers, as well as biomaterials. The company is headquartered in Johannesburg, South Africa.",
+  "website": "http://www.spirehealthcare.com"
+}

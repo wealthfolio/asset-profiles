@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BYK4V7",
+    "cusip": "08915P101",
+    "figi": "BBG000BYK6Y9",
+    "isin": "US08915P1012"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US08915P1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BG3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGFV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BG3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BG3.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BIG 5 SPORT.GOODS  DL-,01",
+  "primary_symbol": "BG3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Big 5 Sporting Goods Corporation is a sporting goods retailer in the western United States. They offer a range of products, including athletic shoes, apparel, and sporting equipment for various activities. The company is headquartered in El Segundo, California.",
+  "website": "http://www.big5sportinggoods.com"
+}

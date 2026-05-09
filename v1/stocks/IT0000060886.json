@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "313586109",
+    "isin": "IT0000060886"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Transportation",
+  "isin": "IT0000060886",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "FNM.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FNM S.p.A.",
+  "primary_symbol": "FNM.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FNM S.p.A. manages and maintains railway network in Italy. The company offers engineering and design, railway and Malpensa express, railway replacement and school bus, public road transport, freight transportation, and electric car sharing services, as well as digital solutions for transport and mobility, digital payments, and optical fibre. It also provides energy services. The company was formerly known as Ferrovie Nord Milano. The company was founded in 1877 and is based in Milan, Italy.",
+  "website": "http://www.fnmgroup.it"
+}

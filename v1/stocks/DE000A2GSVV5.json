@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000RPJFN5",
+    "figi": "BBG000RPJHW1",
+    "isin": "DE000A2GSVV5"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "DE000A2GSVV5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMMN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMMN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AMMN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AMMN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AMMN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2GSVV5.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GROUNDS R.EST. NA O.N.",
+  "primary_symbol": "AMMN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "The Grounds Real Estate Development AG develops and manages residential properties in Germany. It engages in the trading and long-term ownership of commercial and residential properties in Germany. The company primarily develops temporary accommodation, age-appropriate housing, nursing care facilities, and hotels and holiday properties. The company was incorporated in 2007 and is based in Berlin, Germany. The Grounds Real Estate Development AG is a subsidiary of Red Rock Wealth Management Limited.",
+  "website": "http://www.thegroundsag.com"
+}

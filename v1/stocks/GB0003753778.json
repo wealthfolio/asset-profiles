@@ -1,0 +1,40 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "GB0003753778"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB0003753778",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOG.HM"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0003753778.SW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GOG.L"
+    }
+  ],
+  "name": "Afrika Gold AG",
+  "primary_symbol": "GOG.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Afrika Gold AG engages in the gold mining business. It owns Lancaster mine located in South Africa. The company is based in Feusisberg, Switzerland.",
+  "website": "http://www.afrika-gold.ch"
+}

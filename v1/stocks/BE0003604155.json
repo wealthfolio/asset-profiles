@@ -1,0 +1,58 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00NRW16B2",
+    "figi": "BBG00NRW16J4",
+    "isin": "BE0003604155"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "BE0003604155",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7LB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7LB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0F4O.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7LB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7LB.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "LOTB.BR"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LOTUS BAKER.",
+  "primary_symbol": "7LB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Lotus Bakeries NV is a Belgian company that produces and sells various types of biscuits and snack foods. Their flagship product is the Lotus Biscoff caramelised biscuit, but they also offer other products like waffles, cakes, and gingerbread. The company is headquartered in Lembeke, Belgium.",
+  "website": "http://www.lotusbakeries.com"
+}

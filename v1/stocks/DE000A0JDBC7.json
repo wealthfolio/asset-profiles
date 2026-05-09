@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00M6T2DK8",
+    "figi": "BBG00M6T2DQ2",
+    "isin": "DE000A0JDBC7"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE000A0JDBC7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LIK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A0JDBC7.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LIK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LIK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LIK.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LIMES SCHLOSSKLINIK. O.N.",
+  "primary_symbol": "LIK.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "LIMES Schlosskliniken AG operates private hospitals for psychiatry, psychotherapy, and psychosomatics services. It focuses on the treatment of stress-related illnesses, as well as mental and emotional disorders, such as depression, acute burnout, affective disorders, and trauma. The company is headquartered in Cologne, Germany. LIMES Schlosskliniken AG is a subsidiary of G M F Capital Gmbh.",
+  "website": "http://www.limes-schlosskliniken.de"
+}

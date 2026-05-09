@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C2VPN6",
+    "figi": "BBG000C2VSZ7",
+    "isin": "JP3814000000"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "JP3814000000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FJI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FJI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FJI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FJI.SG"
+    }
+  ],
+  "name": "FUJIFILM HOLDINGS CORP.",
+  "primary_symbol": "FJI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "FUJIFILM HOLDINGS CORP. is a Japanese multinational conglomerate company that operates in various fields including imaging, healthcare, and document solutions. They develop, manufacture, and sell a wide range of products such as photographic films, medical equipment, and office printers. Fujifilm is headquartered in Tokyo, Japan."
+}

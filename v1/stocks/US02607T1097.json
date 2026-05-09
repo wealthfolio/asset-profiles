@@ -1,0 +1,55 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "cusip": "02607T109",
+    "isin": "US02607T1097"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "US02607T1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3FG.DU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "RTL.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RTL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RTL.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ROSTELECOM ADR/6 RL-,0025",
+  "primary_symbol": "RTL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Rostelecom is a Russian telecommunications company. It provides a range of telecommunications services, including fixed-line and mobile telephony, broadband internet, and digital television. Rostelecom is headquartered in Moscow, Russia."
+}

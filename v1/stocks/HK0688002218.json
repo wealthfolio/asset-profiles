@@ -1,0 +1,52 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000BM7858",
+    "figi": "BBG000BM7BH8",
+    "isin": "HK0688002218"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "HK0688002218",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CPP.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CPP.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CPP.SG"
+    }
+  ],
+  "name": "CHINA OV.LD",
+  "primary_symbol": "CPP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CPPGroup Plc engages in the provision of assistance products in the United Kingdom, India, Spain, and internationally. It sources, creates, distributes, and manages a range of insurance and assistance related products and services, including card protection; identity and cyber risks protection; phone insurance, mobile payment insurance, and virus protection; extended warranty; health and wellbeing; and travel disruption and auto covers, as well as business process management services. The company was founded in 1980 and is headquartered in Leeds, the United Kingdom.",
+  "website": "http://international.cppgroup.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "SOPRA.HE"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Soprano Oyj",
+  "primary_symbol": "SOPRA.HE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Soprano Oyj, together with its subsidiaries, operates as a service business development company in the Nordic region. It offers management, communication, and ICT training services. The company is headquartered in Helsinki, Finland.",
+  "website": "http://www.soprano.fi"
+}

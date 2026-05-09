@@ -1,0 +1,38 @@
+{
+  "country": "Iceland",
+  "country_code": "IS",
+  "identifiers": {
+    "composite_figi": "BBG00Z7J15T9",
+    "figi": "BBG00Z7J15V6",
+    "isin": "NO0010917719"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "NO0010917719",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AFISH.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010917719.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Arctic Fish Holding AS",
+  "primary_symbol": "AFISH.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Arctic Fish Holding AS, together with its subsidiaries, engages in the salmon farming activities in Iceland. It produces smolt, fry, and rainbow trout in the freshwater hatchery. The company offers its products under the ICEBORN brand name. It exports its products to the European countries, the United States, Canada, the United Kingdom, and China for industrial and retail markets. The company was founded in 2011 and is based in √É¬çsafj√É¬∂r√É¬∞ur, Iceland.",
+  "website": "http://www.arcticfish.is"
+}

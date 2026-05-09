@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GMNNP0",
+    "cusip": "59503A204",
+    "figi": "BBG000GMNSV2",
+    "isin": "US59503A2042"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US59503A2042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CY9D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CY9D.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBOT"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CY9D.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CY9D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CY9D.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MICROBOT MEDICAL  DL-,01",
+  "primary_symbol": "CY9D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Microbot Medical Inc. is a medical device company specializing in the design, development, and commercialization of micro-robotic endoluminal surgery devices. The company's technologies aim to improve outcomes for patients undergoing vascular and neurovascular procedures. Microbot Medical is based in Hingham, Massachusetts.",
+  "website": "http://www.microbotmedical.com"
+}

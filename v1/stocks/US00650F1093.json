@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00PKDCWX3",
+    "cusip": "00650F109",
+    "figi": "BBG00PKDCX34",
+    "isin": "US00650F1093"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00650F1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1HM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADPT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "1HM.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1HM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US00650F1093.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AD.BIOTECH.CORP. DL-,0001",
+  "primary_symbol": "1HM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Adaptive Biotechnologies Corporation, a commercial-stage company, develops an immune medicine platform for the diagnosis and treatment of various diseases. The company offers immunoSEQ research service and kit that is used to answer translational research questions, as well as to discover new prognostic and diagnostic signals; and T-Detect COVID for the confirmation of past COVID-19 infection. It also provides clonoSEQ diagnostic tests, which include immunosequencing services for use in the detection and monitoring of minimal residual disease in patients with select blood cancers; and immunoSEQ T-MAP COVID for vaccine developers and researchers to measure the T-cell immune response to vaccines. In addition, the company offers a pipeline of clinical products and services that are used for the diagnosing, monitoring, and treatment of diseases, such as cancer, autoimmune conditions, and infectious diseases. It serves the life sciences research, clinical diagnostics, and drug discovery customers. Adaptive Biotechnologies Corporation has strategic collaborations with Genentech, Inc. for the development, manufacture, and commercialization of neoantigen directed T cell therapies for the treatment of a range of cancers; and Microsoft Corporation to develop diagnostic tests for the early detection of various diseases from a single blood test. The company was formerly known as Adaptive TCR Corporation and changed its name to Adaptive Biotechnologies Corporation in December 2011. Adaptive Biotechnologies Corporation was incorporated in 2009 and is headquartered in Seattle, Washington.",
+  "website": "http://www.adaptivebiotech.com"
+}

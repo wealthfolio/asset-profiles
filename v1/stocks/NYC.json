@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NYC"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "New York City REIT, Inc.",
+  "primary_symbol": "NYC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "New York City REIT, Inc. (NYSE: NYC) is a publicly traded real estate investment trust listed on the NYSE that owns a portfolio of high-quality commercial real estate located within the five boroughs of New York City.",
+  "website": "http://www.newyorkcityreit.com"
+}

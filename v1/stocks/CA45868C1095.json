@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA45868C1095"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "CA45868C1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFSPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8IF1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8IF1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "IFP.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Interfor Corporation",
+  "primary_symbol": "IFSPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Interfor Corporation, together with its subsidiaries, produces and sells wood products in Canada, the United States, Japan, China, Taiwan, and internationally. The company offers lumber products for decking, fascia and trims, framings, furniture, industrial packaging, Japan Zairai, millworks, paneling, sidings, trusses, and windows and doors. It also provides logs, wood chips, and other residuals. The company was formerly known as International Forest Products Limited and changed its name to Interfor Corporation in May 2014. Interfor Corporation was founded in 1963 and is headquartered in Burnaby, Canada.",
+  "website": "http://www.interfor.com"
+}

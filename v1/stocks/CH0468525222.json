@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CH0468525222"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CH0468525222",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MOVE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A05.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "MOVE.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Movano Inc.",
+  "primary_symbol": "MOVE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Movano Inc., a technology company, develops a smart wearable and continuous glucose monitoring device. Its device enables individuals and their healthcare partners to measure and manage their health conditions. Movano Inc. was formerly known as Maestro Sensors Inc. and changed its name to Movano Inc. in August 2018. The company was incorporated in 2018 and is based in Pleasanton, California.",
+  "website": "http://movano.com"
+}

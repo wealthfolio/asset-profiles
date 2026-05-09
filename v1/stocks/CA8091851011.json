@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00Z8XSVB0",
+    "figi": "BBG00Z8XSVJ2",
+    "isin": "CA8091851011"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8091851011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7S2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7S2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7S2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA8091851011.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SCV.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SCOTCH CREEK VENTURES",
+  "primary_symbol": "7S2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Scotch Creek Ventures is a mineral exploration company. The company focuses on the acquisition, exploration, and development of lithium properties. Their business model involves identifying and developing lithium resources.",
+  "website": "http://www.scotch-creek.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "GASCO.SN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Empresas Gasco S.A.",
+  "primary_symbol": "GASCO.SN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Empresas Gasco S.A. provides energy solutions based primarily based on gas in Chile and internationally. It distributes and commercializes liquefied gas and liquefied natural gas to residential, commercial, industrial, and real estate customers; distributes natural gas under the concession regime, as well as compressed natural gas; and develops gas power generation projects. The company was founded in 1856 and is based in Santiago, Chile.",
+  "website": "http://www.empresasgasco.com"
+}

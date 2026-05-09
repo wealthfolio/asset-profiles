@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C05PB2",
+    "cusip": "26152H301",
+    "figi": "BBG000C05SR9",
+    "isin": "US26152H3012"
+  },
+  "industry_group": "Materials",
+  "isin": "US26152H3012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DUBA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DUBA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ICU.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DUBA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DUBA.SG"
+    }
+  ],
+  "name": "DRDGOLD LTD. RC 1 ADR/10",
+  "primary_symbol": "DUBA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "DRDGOLD Ltd is a South African gold mining company focused on retreatment of surface gold tailings. The company recovers gold from tailings dumps through its Ergo and Far West Gold Recoveries operations. DRDGOLD Ltd is headquartered in Johannesburg, South Africa."
+}

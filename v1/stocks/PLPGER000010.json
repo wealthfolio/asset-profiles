@@ -1,0 +1,51 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "isin": "PLPGER000010"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "PLPGER000010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MN3.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6PG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6PG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6PG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6PG.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PGE POLSKA GRUPA ENERGETYCZNA S",
+  "primary_symbol": "0MN3.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "PGE Polska Grupa Energetyczna S.A. is a Polish energy company. It generates and distributes electricity and heat. The company is headquartered in Warsaw, Poland.",
+  "website": "http://www.gkpge.pl"
+}

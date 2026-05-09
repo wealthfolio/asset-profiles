@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU0000139990"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "AU0000139990",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GMGMF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GMG.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Graphene Manufacturing Group Ltd.",
+  "primary_symbol": "GMGMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Graphene Manufacturing Group Pty Ltd manufactures and supplies graphene for industrial and research needs. The company offers graphene and graphene fluid. Graphene Manufacturing Group Pty Ltd. was founded in 2016 and is based in Darra, Australia.",
+  "website": "http://www.graphenemg.com"
+}

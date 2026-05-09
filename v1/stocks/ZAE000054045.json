@@ -1,0 +1,58 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG000DSQG54",
+    "figi": "BBG000DSQKF4",
+    "isin": "ZAE000054045"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "ZAE000054045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EB9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EB9.MU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ARI.JO"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ARIN.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EB9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EB9.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AFRICAN RAINB.MINL.RC-,05",
+  "primary_symbol": "EB9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "African Rainbow Minerals Limited is a South African mining company with a diverse portfolio of mining interests, including platinum group metals (PGMs), iron ore, coal, copper, and gold. The company is headquartered in Sandton, South Africa.",
+  "website": "http://www.arm.co.za"
+}

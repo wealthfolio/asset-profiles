@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GXFQ924",
+    "figi": "BBG00GXFQ988",
+    "isin": "CA03519P1027"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA03519P1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13L.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13L.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAUGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "13L.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AAU.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AAU.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "AAU.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA03519P1027.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Angold Resources Ltd.",
+  "primary_symbol": "13L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "ZTR Acquisition Corp., a junior exploration company, engages in the acquisition, exploration, and development of mineral properties in Canada. It holds 100% interest in the SouthBay Uchi, Dorado, and Cordillera projects, as well as certain claims in the Iron Butte project. ZTR Acquisition Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://www.angoldresources.com"
+}

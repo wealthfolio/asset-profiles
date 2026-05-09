@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000QZNZD6",
+    "figi": "BBG000QZP185"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ODV.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Osisko Development Corp.",
+  "primary_symbol": "ODV.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Osisko Development Corp., a gold mining company, engages in the exploration, evaluation, and development of mining projects. Its flagship project is the Cariboo Gold project located in British Columbia, Canada. The company is headquartered in Montreal, Canada.",
+  "website": "http://osiskodev.com"
+}

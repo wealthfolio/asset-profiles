@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BYSX18",
+    "figi": "BBG000BYSYH9",
+    "isin": "JP3902400005"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3902400005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIE1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIE1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MIE1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MIE1.SG"
+    }
+  ],
+  "name": "MITSUBISHI EL. CORP.",
+  "primary_symbol": "MIE1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "MITSUBISHI EL. CORP. is a Japanese multinational electronics and electrical equipment manufacturing company. It produces a wide range of products, including industrial automation systems, air conditioning systems, automotive equipment, and visual information systems. The company is headquartered in Tokyo, Japan, and operates globally."
+}

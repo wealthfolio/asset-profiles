@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CMHCV8",
+    "cusip": "896288107",
+    "figi": "BBG000CMJHR0",
+    "isin": "US8962881079"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Software & Services",
+  "isin": "US8962881079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TN3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TNET"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TN3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TN3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TRINET GROUP  DL-,0001",
+  "primary_symbol": "TN3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TriNet Group, Inc. provides human resources solutions for small and medium-sized businesses (SMBs). The company offers services such as payroll administration, benefits administration, risk mitigation, and compliance support through a cloud-based platform. TriNet Group is headquartered in Dublin, California.",
+  "website": "http://www.trinet.com"
+}

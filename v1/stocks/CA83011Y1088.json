@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00RRP9ZN3",
+    "figi": "BBG00RRP9ZV4",
+    "isin": "CA83011Y1088"
+  },
+  "isin": "CA83011Y1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AHUH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AHUH.MU"
+    }
+  ],
+  "name": "SIXTH WAVE INNOVATIONS",
+  "primary_symbol": "AHUH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Sixth Wave Innovations Inc. is a nanotechnology company focused on the detection and extraction of target substances at the molecular level using its patented Accelerated Molecular Imprinted Polymers (AMIPs) technology. The company is working on applications in areas such as rapid virus detection, pathogen identification, and contaminant removal. Sixth Wave is headquartered in Halifax, Nova Scotia, Canada."
+}

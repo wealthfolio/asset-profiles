@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000JH0LF8",
+    "figi": "BBG000JH1RT9",
+    "isin": "CA45245E1097"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Media & Entertainment",
+  "isin": "CA45245E1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMA.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IMA.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IMA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IMAX CORP.",
+  "primary_symbol": "IMA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "IMAX Corporation is an entertainment technology company specializing in motion picture technologies and large-format theatrical presentations. The company designs and manufactures IMAX cameras, projectors, and sound systems, and also licenses its technology to theaters worldwide. IMAX is headquartered in Mississauga, Ontario, Canada.",
+  "website": "http://www.imageres.com.au"
+}

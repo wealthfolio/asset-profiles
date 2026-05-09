@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG007354KN5",
+    "figi": "BBG007354KV6",
+    "isin": "SE0000171886"
+  },
+  "industry_group": "Materials",
+  "isin": "SE0000171886",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCA1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCA1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SCA1.SG"
+    }
+  ],
+  "name": "SVENSKA CELL.A FR.SK 3,33",
+  "primary_symbol": "SCA1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Svenska Cellulosa AB (SCA) is a Swedish forest industry company. SCA manufactures and sells forest products, including pulp, paper, packaging, wood products, and renewable energy. The company is headquartered in Sundsvall, Sweden."
+}

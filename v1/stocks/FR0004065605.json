@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0004065605"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0004065605",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDCLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0004065605.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MEB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MEDCL.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MedinCell S.A.",
+  "primary_symbol": "MDCLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MedinCell S.A. develops various therapeutic solutions. It develops solutions based on BEPO, a technology for long-acting injectable products based on proprietary copolymers and a biocompatible solvent, which solubilizes or suspends the active pharmaceutical ingredients. The company's products in development include mdc-IRM, a subcutaneous injection in Phase III trials for use in the treatment of schizophrenia; mdc-CWM, an intra-articular injection to treat pain and inflammation; and mdc-TJK, a subcutaneous injection in preclinical trials for use in the treatment of schizophrenia. Its product candidates in formulation research comprise subcutaneous injections, such as mdc-WWM for contraception; mdc-ANG for CNS related treatments; mdc-ELK for depression; and mdc-GRT for use in organ transplant, as well as perineural injections, including mdc-CMV for anesthesia and pain, and mdc-NVA for pain. The company is based in Jacou, France.",
+  "website": "http://www.medincell.com"
+}

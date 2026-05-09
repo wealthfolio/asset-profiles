@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0084L0QS3",
+    "figi": "BBG0084L0QZ5",
+    "isin": "CA0203981034"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA0203981034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALMTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1MR.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "AII.TO"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ALI.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "ALI.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ALI.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ALI.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Almonty Industries Inc.",
+  "primary_symbol": "ALI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Almonty Industries Inc. engages in the mining, processing, and shipping of tungsten concentrate. The company owns interests in the Los Santos mine located near Salamanca, Spain; the Panasqueira tin and tungsten mine situated in Covilha and Castelo Branco, Portugal; the Sangdong tungsten mine situated in Gangwon Province, Republic of Korea; and the Valtre Valtreixal tin and tungsten project located in Zamora province, Western Spain. Almonty Industries Inc. is headquartered in Toronto, Canada.",
+  "website": "http://www.almonty.com"
+}

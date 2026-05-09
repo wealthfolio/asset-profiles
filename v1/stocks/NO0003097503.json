@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QBMZ40",
+    "isin": "NO0003097503"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "NO0003097503",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0003097503.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0003097503.SW"
+    }
+  ],
+  "name": "AKVA GROUP ASA",
+  "primary_symbol": "NO0003097503.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "AKVA Group ASA is a technology and service provider to the aquaculture industry. The company supplies equipment, software, and services for fish farming, including cage farming, land-based aquaculture, and recirculation aquaculture systems (RAS). AKVA Group is headquartered in Bryne, Norway."
+}

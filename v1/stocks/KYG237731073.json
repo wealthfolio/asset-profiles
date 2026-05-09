@@ -1,0 +1,48 @@
+{
+  "country": "Cayman Islands",
+  "country_code": "KY",
+  "identifiers": {
+    "composite_figi": "BBG000KT1SM6",
+    "figi": "BBG000KT2YH8",
+    "isin": "KYG237731073"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "KYG237731073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CW2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWCO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CW2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CW2.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CONSOLIDATED WATER CO.",
+  "primary_symbol": "CW2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Consolidated Water Co. designs, builds, operates, and manages seawater desalination plants and water distribution systems, providing potable water to areas lacking naturally occurring freshwater resources. The company operates primarily in the Caribbean and provides retail water services in the Bahamas and the Cayman Islands, as well as industrial water in the United States. Consolidated Water Co. is headquartered in George Town, Grand Cayman, Cayman Islands.",
+  "website": "http://www.cwco.com"
+}

@@ -1,0 +1,30 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "cusip": "02376R102",
+    "isin": "INE911Z01017"
+  },
+  "industry_group": "Materials",
+  "isin": "INE911Z01017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "A1L.BO"
+    }
+  ],
+  "name": "A-1 Acid Limited",
+  "primary_symbol": "A1L.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "A-1 Acid Limited is involved in the manufacturing and supply of various acids, chemicals, and fertilizers. The company caters to various industries including agriculture, textiles, and chemical processing. A-1 Acid Limited is based in India.",
+  "website": "https://www.a-1limited.com/"
+}

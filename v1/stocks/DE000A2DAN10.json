@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BHSW44",
+    "figi": "BBG000BHSZN6",
+    "isin": "DE000A2DAN10"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "DE000A2DAN10",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFD1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFD1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SFD1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SFD1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SFD1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SFD1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SOFTLINE AG  O.N.",
+  "primary_symbol": "SFD1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Softline AG provides information and communication technology services in Belgium, Germany, France, Luxembourg, and the Netherlands. The company offers software asset management consulting, IT-security, virtualization and automatisation, unified communications, systems management, multivendor premium support, and managed services, as well as recruiting services. Softline AG was founded in 1983 and is based in Leipzig, Germany. Softline AG operates as a subsidiary of S.K. Management- und Beteiligungs GmbH.",
+  "website": "http://www.softline-group.com"
+}

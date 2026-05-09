@@ -1,0 +1,48 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG0055QMYF0",
+    "figi": "BBG0055QMYM2",
+    "isin": "MHY0207T1001"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY0207T1001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A61.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A61.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MHY0207T1001.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ARDMORE SHIPPING C.DL-,01",
+  "primary_symbol": "A61.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ardmore Shipping Corporation is an Ireland-based company that provides seaborne transportation of petroleum products and chemicals in international markets. The company operates a fleet of mid-size product and chemical tankers, offering services to oil majors, national oil companies, and chemical traders. Ardmore Shipping is headquartered in Cork, Ireland.",
+  "website": "http://ardmoreshipping.com"
+}

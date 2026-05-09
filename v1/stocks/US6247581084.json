@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FV4WC6",
+    "cusip": "624758108",
+    "figi": "BBG000FV50W3",
+    "isin": "US6247581084"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US6247581084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JT5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JT5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JT5.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MUELLER WAT.PROD.A DL-,01",
+  "primary_symbol": "JT5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mueller Water Products, Inc. manufactures and markets products and services used in the transmission, distribution, and measurement of water. Its products include fire hydrants, gate valves, and pipe repair products.",
+  "website": "http://www.muellerwaterproducts.com"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F0TV39",
+    "cusip": "03152W109",
+    "figi": "BBG000F0VZK8",
+    "isin": "US03152W1099"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03152W1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AM6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AM6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOLD"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HF9.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AM6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AM6.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FOLD.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AMICUS THERAPEUTICS INC.",
+  "primary_symbol": "AM6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Amicus Therapeutics, Inc. is a biotechnology company focused on developing and delivering novel medicines for rare metabolic diseases. The company's commercial and research programs are designed to address diseases with significant unmet medical needs. Amicus Therapeutics is headquartered in Philadelphia, Pennsylvania.",
+  "website": "http://amicusrx.com"
+}

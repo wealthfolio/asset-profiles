@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "isin": "FR0010756114"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0010756114",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CM9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CM9.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CM9.SG"
+    }
+  ],
+  "name": "COMMSCOPE HLDG CO. INC.",
+  "primary_symbol": "CM9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CommScope Holding Company, Inc. provides infrastructure solutions for communications networks, offering a portfolio of wired and wireless network infrastructure products and solutions. The company's products and services support mobile network deployments, data centers, and broadband access. CommScope is headquartered in Hickory, North Carolina."
+}

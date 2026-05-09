@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00JNJC7L9",
+    "figi": "BBG00JNJC7S2",
+    "isin": "CA67077M1086"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "CA67077M1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NHS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "N7T.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "N7T.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N7T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "N7T.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NTR.TO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NTRN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NUTRIEN LTD",
+  "primary_symbol": "N7T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NUTRIEN LTD is a provider of crop inputs, services, and solutions to agricultural producers. It offers fertilizers, crop protection products, and seeds, and also provides agronomic services to help farmers increase crop yields. The company is headquartered in Saskatoon, Saskatchewan, Canada.",
+  "website": "http://www.nutrien.com"
+}

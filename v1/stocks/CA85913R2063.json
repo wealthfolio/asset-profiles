@@ -1,0 +1,58 @@
+{
+  "country": "Mongolia",
+  "country_code": "MN",
+  "identifiers": {
+    "composite_figi": "BBG00L4HN390",
+    "figi": "BBG00L4HN3H1",
+    "isin": "CA85913R2063"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA85913R2063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2J9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2J9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STPGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2J9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2J9.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "STGO.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Steppe Gold Ltd.",
+  "primary_symbol": "2J9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Steppe Gold Ltd. acquires, explores for, develops, and operates precious metals in Mongolia. Its principal project is the Altan Tsagaan Ovoo gold and silver project comprising one mining license covering an area of approximately 5,492.63 hectares located in the territory of Tsagaan Ovoo soum, Dornod province of Eastern Mongolia; and Uudam Khundii property that covers an area of 14,397 hectares located in Ulaanbaatar, Bayankhongor Province. The company was incorporated in 2016 and is headquartered in Ulaanbaatar, Mongolia.",
+  "website": "http://www.steppegold.com"
+}

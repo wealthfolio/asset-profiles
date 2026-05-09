@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FLB9Z6",
+    "cusip": "550241103",
+    "figi": "BBG000FLBDY8",
+    "isin": "US5502411037"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US5502411037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYTH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYTH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUMN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CYTH.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CYTH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CYTH.F"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "L1MN34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LUMN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5502411037.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LUMEN TECHNOLOGIES  DL 1",
+  "primary_symbol": "CYTH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Lumen Technologies, formerly CenturyLink, is a telecommunications company providing communication, network, security, cloud solutions, and managed services to businesses and residential customers. The company operates a global network and serves customers across North America, Latin America, EMEA, and Asia Pacific. Lumen Technologies is headquartered in Monroe, Louisiana.",
+  "website": "http://www.lumen.com"
+}

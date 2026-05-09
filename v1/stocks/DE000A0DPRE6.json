@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG004DF5JN1",
+    "figi": "BBG008H6PCQ8",
+    "isin": "DE000A0DPRE6"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A0DPRE6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNSX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNSX.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNSX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNSX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LNSX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LNSX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LNSX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LNSX.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SIXT LEASING O.N.",
+  "primary_symbol": "LNSX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SIXT LEASING O.N. is likely Sixt Leasing SE, a German provider of leasing and fleet management services. It offers a range of vehicle leasing solutions for both private and business customers. The company is headquartered in Pullach, Germany.",
+  "website": "http://www.sixt-leasing.com"
+}

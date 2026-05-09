@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CN7YR4",
+    "figi": "BBG000CN8186",
+    "isin": "AU000000AWC3"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000AWC3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WMC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WMC1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WMC1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WMC1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WMC1.SG"
+    }
+  ],
+  "name": "ALUMINA LTD",
+  "primary_symbol": "WMC1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Alumina Limited is an Australian company that invests in bauxite mining and alumina refining through its 40% ownership of Alcoa World Alumina and Chemicals (AWAC). AWAC is a global leader in these sectors. Alumina Limited is headquartered in Melbourne, Australia."
+}

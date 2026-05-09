@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FSRCH7",
+    "figi": "BBG000FSSJJ9",
+    "isin": "AU000000WOR2"
+  },
+  "industry_group": "Transportation",
+  "isin": "AU000000WOR2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WF9.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WF9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WF9.SG"
+    }
+  ],
+  "name": "WORLEY LTD.",
+  "primary_symbol": "WF9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Worley Limited is a global engineering company providing professional services to the energy, chemicals and resources sectors. It offers a range of services including engineering, procurement, construction, and project management. The company is headquartered in Sydney, Australia."
+}

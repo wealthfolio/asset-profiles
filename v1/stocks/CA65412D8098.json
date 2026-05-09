@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000KCB515",
+    "figi": "BBG000KCB8B8",
+    "isin": "CA65412D8098"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA65412D8098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M2M2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M2M2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIMZF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA65412D8098.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M2M2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NHK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NHK.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NHK.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Nighthawk Gold Corp.",
+  "primary_symbol": "M2M2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nighthawk Gold Corp. identifies, acquires, explores for, and evaluates gold properties in Canada. It owns a 100% interest in the Indin Lake Gold property, which comprises of Archean gold camp covering an area of 229,791 acres located in the Northwest Territories. The company was formerly known as Merc International Minerals Inc. and changed its name to Nighthawk Gold Corp. in April 2012. Nighthawk Gold Corp. was incorporated in 2004 and is headquartered in Toronto, Canada.",
+  "website": "http://www.nighthawkgold.com"
+}

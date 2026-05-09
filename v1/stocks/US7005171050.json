@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00FHQ1SM3",
+    "cusip": "700517105",
+    "figi": "BBG00FHQ1SS7",
+    "isin": "US7005171050"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US7005171050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HIP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HIP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HIP.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "PK.BK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Park Hotels &amp; Resorts Inc.",
+  "primary_symbol": "HIP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Park Hotels & Resorts Inc. is a real estate investment trust (REIT) that owns and operates a portfolio of hotel and resort properties. The company focuses on upscale and luxury hotels and resorts, primarily located in the United States. Park Hotels & Resorts is headquartered in Tysons, Virginia.",
+  "website": "http://www.pkhotelsandresorts.com"
+}

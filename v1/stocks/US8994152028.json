@@ -1,0 +1,74 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000CFRJ10",
+    "cusip": "899415202",
+    "figi": "BBG000CFSN29",
+    "isin": "US8994152028"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US8994152028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TQW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TQW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUWLF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUWOY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TLW.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TQW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TQW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "TQW.IR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TQW.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Tullow Oil plc",
+  "primary_symbol": "TQW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Tullow Oil plc engages in the oil and gas exploration, development, and production activities primarily in Africa and South America. As of December 31, 2020, its portfolio comprised 53 licenses in 11 countries with 28 producing wells. The company was founded in 1985 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.tullowoil.com"
+}

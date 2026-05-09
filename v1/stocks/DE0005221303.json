@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BWB4F9",
+    "figi": "BBG000BWB6L7",
+    "isin": "DE0005221303"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE0005221303",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BFV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BFV.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BFV.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BFV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BFV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BFV.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BERL.EFFEKTENGES.AG O.N.",
+  "primary_symbol": "BFV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Berliner Effektengesellschaft AG, through its subsidiaries, provides various banking and financial products and services in Germany. The company offers a range of services in the capital markets, including financial advisory/listings, concept development, implementation of IPOs and listing, preparation and implementation of private placements, capital structuring and execution, structured finance, reverse merger transactions, and transaction support services. It also provides securities trading and venture capital services; and private banking services, including private and company pension planning, financial planning, and portfolio optimization, as well as digital insurance services. The company was formerly known as Berliner Freiverkehr (Aktien) GmbH and changed its name to Berliner Effektengesellschaft AG in 1999. Berliner Effektengesellschaft AG was founded in 1986 and is based in Berlin, Germany.",
+  "website": "http://www.effektengesellschaft.de"
+}

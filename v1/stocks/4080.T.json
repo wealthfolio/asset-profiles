@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4080.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Tanaka Chemical Corporation",
+  "primary_symbol": "4080.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tanaka Chemical Corporation manufactures and sells positive electrode materials for rechargeable batteries in Japan. The company offers positive electrode materials for lithium-ion batteries and nickel-metal hydride batteries. It also manufactures and sells inorganic chemical products. The company was founded in 1956 and is headquartered in Fukui, Japan.",
+  "website": "http://www.tanaka-chem.co.jp"
+}

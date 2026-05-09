@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003LB3TH0",
+    "cusip": "858568108",
+    "figi": "BBG003LB3TN3",
+    "isin": "US8585681088"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US8585681088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCM.HM"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SCM.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SCM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SCM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SCM.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Stellus Capital Investment Corporation",
+  "primary_symbol": "SCM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Stellus Capital Investment Corporation is a business development company specializing in investments in private middle-market companies. It invests through first lien, second lien, unitranche, and mezzanine debt financing, often with a corresponding equity investment. The fund prefers to invest in US and Canada. The fund seeks to invest in companies with an EBITDA between $5 million and $50 million.",
+  "website": "http://www.stelluscapital.com/public-investors/investment-corp/"
+}

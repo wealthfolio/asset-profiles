@@ -1,0 +1,53 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG003S43FG0",
+    "figi": "BBG003S43FN2",
+    "isin": "IE00B91XRN20"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IE00B91XRN20",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0PT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRTA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0PT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0PT.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0Y3M.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PROTHENA CORP. PLC DL-,01",
+  "primary_symbol": "0PT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PROTHENA CORP. PLC DL-,01",
+  "website": "http://www.prothena.com"
+}

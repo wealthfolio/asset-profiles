@@ -1,0 +1,52 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "cusip": "28617Y101",
+    "isin": "US28617Y1010"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US28617Y1010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EKTAF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EKTAY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EJXB.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EKTA-B.ST"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EKTABN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Elekta AB (publ)",
+  "primary_symbol": "EKTAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Elekta AB (publ), a medical technology company, provides clinical solutions for cancer and brain disorders worldwide. The company offers radiotherapy treatment systems, such as Versa HD, a dose delivery accuracy system; Elekta Infinity, an image-guided radiation therapy (IGRT) system; and Elekta Synergy, a digital accelerator for advanced IGRT. It also provides personalized imaging tools; automation and integration systems; beam shaping solutions; patient positioning and immobilization solutions; and radiotherapy treatment planning systems. In addition, the company offers radiosurgery systems under the Leksell Gamma Knife Icon, Leksell Gamma Knife Perfexion, and Elekta Axesse names; Leksell GammaPlan, a treatment planning software; and Elekta Unity, a magnetic resonance radiation therapy solution. Further, it provides care management software, such as MOSAIQ Radiation Oncology and MOSAIQ Medical Oncology; MOSAIQ IQ Scripts, a workflow automation and customization tool; Patient Engagement, a patient communication tool; MOSAIQ Evaluate, a plan management and dose review solution; MOSAIQ Locate, a stereotactic localization solution; and METRIQ, a cancer registry data management solution. Additionally, the company offers Flexitron, a remote after loading platform; Esteya, an electronic brachytherapy for treating skin cancer; Oncentra Brachy, a treatment planning software; real-time prostate solutions; and gynecological brachytherapy, bronchus and esophagus, breast, prostate, rectum and bladder, and skin applicators, as well as brachytherapy needles and flexible implant tubes. It also provides Leksell Vantage Stereotactic System for neuroimaging and treatment; Leksell Stereotactic System for minimally invasive stereotactic neurosurgery; and proton therapy components. The company was founded in 1972 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.elekta.com"
+}

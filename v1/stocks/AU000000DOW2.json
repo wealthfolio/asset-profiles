@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000DOW2"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "AU000000DOW2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNE.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DNE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DNE.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DNE.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DNE.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DOW.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DOWNER EDI",
+  "primary_symbol": "DNE.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Downer EDI Limited is an Australian provider of engineering, construction, and maintenance services. It operates in sectors such as transport, utilities, and resources. The company is headquartered in North Sydney, Australia.",
+  "website": "http://www.downergroup.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG000Q1RC93",
+    "figi": "BBG000Q1RF78",
+    "isin": "FI0009014351"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "FI0009014351",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O5O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "O5O.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NES.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009014351.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "O5O.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "OKDBV.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ORIOLA OYJ B",
+  "primary_symbol": "O5O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Oriola Oyj is a Finnish company that distributes pharmaceuticals and healthcare products. The company operates pharmacies in Finland and Sweden and provides services to pharmaceutical companies. Oriola Oyj is headquartered in Espoo, Finland.",
+  "website": "http://www.oriola.com"
+}

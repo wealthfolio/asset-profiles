@@ -1,0 +1,51 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "LU2370241684"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "LU2370241684",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLAN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TERA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "PLAN.JK"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "PLAN.SW"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "PLAN1.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Anaplan, Inc.",
+  "primary_symbol": "PLAN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Anaplan, Inc. provides a cloud-based connected planning platform to connect organizations and people. Its platform in-memory data storage and calculation capabilities deliver calculations of data in real time and provide a single source of information for planning, ensuring the consistency, quality, and integrity of the data that is used in various areas of an organization, such as finance, sales, supply chain, marketing, human resources, and operations. The company delivers its application over the Internet as a subscription service using a software-as-a-service model, as well as offers professional services related to implementing and supporting its application. It has operations in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company was founded in 2008 and is headquartered in San Francisco, California.",
+  "website": "http://www.anaplan.com"
+}

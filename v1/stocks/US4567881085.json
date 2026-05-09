@@ -1,0 +1,99 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000BSGQL7",
+    "cusip": "456788108",
+    "figi": "BBG000BSGRW3",
+    "isin": "US4567881085"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US4567881085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INFY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IOY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IOY.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IOY.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IOY.MU"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "INFY.BA"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "INFY.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "INFY.NS"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "INFYN.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IOY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IOY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IOY.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "IOY.VI"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SOUTHERNIN.BO"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Infosys Limited",
+  "primary_symbol": "INFY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Infosys Limited, together with its subsidiaries, provides consulting, technology, outsourcing, and next-generation digital services in North America, Europe, India, and internationally. It provides application development and management, independent validation, product engineering and management, infrastructure management, enterprise application management, and support and integration services. The company's products and platforms include Finacle, a core banking solution; Edge suite of products; Infosys Nia, an artificial intelligence platform; Infosys McCamish - an insurance platform; Wingspan, a customizable learning platform; Stater mortgage servicing platform; Panaya automation suite; and Skava, an e-commerce suite. The company serves clients in the financial services and insurance, life sciences and healthcare, manufacturing, retail, consumer packaged goods and logistics, hi-tech, communications, telecom OEM, media, energy, utilities, resources, services, and other industries. Infosys has strategic partnership with Rolls-Royce for aerospace engineering. The company was formerly known as Infosys Technologies Limited and changed its name to Infosys Limited in June 2011. Infosys Limited was founded in 1981 and is headquartered in Bengaluru, India.",
+  "website": "http://www.infosys.com"
+}

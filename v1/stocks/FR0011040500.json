@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00207C737",
+    "figi": "BBG00207C782",
+    "isin": "FR0011040500"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0011040500",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1XV.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0P5L.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1XV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1XV.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "AXW.PA"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0011040500.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AXWAY SOFTWARE  EO 2",
+  "primary_symbol": "1XV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Axway Software SA provides software solutions for managing and integrating data flows across enterprises and ecosystems. The company's offerings include API management, managed file transfer, and B2B integration solutions, and it is headquartered in Phoenix, Arizona.",
+  "website": "http://www.axway.com"
+}

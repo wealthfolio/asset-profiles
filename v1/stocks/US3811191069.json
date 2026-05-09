@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QJ34X1",
+    "cusip": "381119106",
+    "figi": "BBG000QJ36D8",
+    "isin": "US3811191069"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US3811191069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7GB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7GB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUMN"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "AUMN.TO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GOLDEN MINERALS CO.DL-,01",
+  "primary_symbol": "7GB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Golden Minerals Company is a precious metals exploration and production company. They focus on acquiring, exploring, and developing properties with the potential for gold and silver deposits. The company is based in Golden, Colorado.",
+  "website": "http://www.goldenminerals.com"
+}

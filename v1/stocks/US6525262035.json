@@ -1,0 +1,32 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "cusip": "652526203",
+    "isin": "US6525262035"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US6525262035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "NEWT.BR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Newtree S.A.",
+  "primary_symbol": "NEWT.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Newtree S.A. produces and sells various chocolate products. The company offers chocolate bars, cookies, spreads, and snacks, as well as chocolate gift packs and boxes through online. It also operates chocolate caf√É¬©s. The company was founded in 2001 and is based in Brussels, Belgium.",
+  "website": "http://www.newtree.com"
+}

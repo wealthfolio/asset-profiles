@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG001BD6R00",
+    "figi": "BBG001BD6R64",
+    "isin": "CA9528451052"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "CA9528451052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WFC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WFG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WFC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WFC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WFC.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WFG.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "WEST FRASER TIMBER CO.LTD",
+  "primary_symbol": "WFC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "West Fraser Timber Co. Ltd. is a diversified wood products company producing lumber, engineered wood products, pulp, newsprint, wood chips and other residuals. The company has operations in both Canada and the United States. West Fraser is headquartered in Vancouver, British Columbia.",
+  "website": "http://www.westfraser.com"
+}

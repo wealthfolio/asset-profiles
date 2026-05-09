@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA6840221064"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "CA6840221064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OGGFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9CW1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9CW1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "OG.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Organic Garage Ltd.",
+  "primary_symbol": "OGGFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Organic Garage Ltd. owns and operates grocery stores that sell natural and organic products to consumers in Canada. The company offers produce, dairy, bakery, bulk, grocery, meat, frozen, and prepared foods; and health and beauty products, as well as vitamins and supplements. It operates four stores in the Greater Toronto Area. The company was founded in 2005 and is headquartered in Toronto, Canada.",
+  "website": "http://www.organicgarage.com"
+}

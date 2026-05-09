@@ -1,0 +1,27 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "J91U.SI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ESR-REIT",
+  "primary_symbol": "J91U.SI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "ESR-REIT has been listed on the Singapore Exchange Securities Trading Limited since 25 July 2006. ESR-REIT invests in quality income-producing industrial properties and as at 31 December 2020 holds interest in a diversified portfolio of 57 properties located across Singapore, with a total gross floor area of approximately 15.1 million square feet and an aggregate property value of S$3.1 billion6. The properties are in the following business sectors: Business Park, High-Specs Industrial, Logistics/Warehouse and General Industrial, and are located close to major transportation hubs and key industrial zones island-wide.",
+  "website": "http://www.esr-reit.com.sg"
+}

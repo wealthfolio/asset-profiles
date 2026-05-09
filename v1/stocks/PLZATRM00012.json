@@ -1,0 +1,63 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG00L54H8W8",
+    "figi": "BBG00L54H929",
+    "isin": "PLZATRM00012"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Materials",
+  "isin": "PLZATRM00012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5PL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5PL.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5PL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5PL.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ATT.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ATT.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ATT.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GRUPA AZOTY S.A.",
+  "primary_symbol": "5PL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Grupa Azoty S.A. is a Polish chemical company that produces fertilizers, plastics, and other chemical products. The company operates through a number of subsidiaries, serving the agriculture, construction, and automotive industries. Grupa Azoty S.A. is headquartered in Tarnów, Poland.",
+  "website": "http://www.attacq.co.za"
+}

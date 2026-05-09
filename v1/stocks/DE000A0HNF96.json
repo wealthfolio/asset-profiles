@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000CSB2G0",
+    "figi": "BBG000CSB4M9",
+    "isin": "DE000A0HNF96"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "DE000A0HNF96",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IC8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IC8.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "IC8.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IC8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IC8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IC8.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INCITY IMMOBILIEN  O.N.",
+  "primary_symbol": "IC8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "InCity Immobilien AG is a German real estate company focused on the acquisition, development, and management of commercial properties. The company primarily invests in office and retail properties in major German cities and is headquartered in Munich, Germany. InCity Immobilien aims to create value through active asset management and strategic property development.",
+  "website": "http://www.incity.ag"
+}

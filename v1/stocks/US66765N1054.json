@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00M4P5JJ4",
+    "cusip": "66765N105",
+    "figi": "BBG00M4P5JQ6",
+    "isin": "US66765N1054"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "US66765N1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWN.MU"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NORTHWEST NATURAL HLDG",
+  "primary_symbol": "NWK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Northwest Natural Holding Company provides natural gas service to residential, commercial, and industrial customers in Oregon and southwest Washington. Headquartered in Portland, Oregon, the company focuses on delivering safe and reliable natural gas while investing in renewable energy sources and sustainable practices. Their business model centers on regulated utility operations, ensuring a consistent energy supply to their service areas.",
+  "website": "http://www.nwnaturalholdings.com"
+}

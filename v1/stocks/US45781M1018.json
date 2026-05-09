@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FQTHC3",
+    "cusip": "45781M101",
+    "figi": "BBG000FQVNN5",
+    "isin": "US45781M1018"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45781M1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HVE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HVE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INVA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HVE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HVE.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INNOVIVA INC.  DL-,01",
+  "primary_symbol": "HVE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Innoviva, Inc. is a biopharmaceutical company focused on commercializing and developing respiratory medicines. Their primary products are related to the treatment of chronic obstructive pulmonary disease (COPD) and asthma. The company is headquartered in South San Francisco, California.",
+  "website": "http://www.inva.com"
+}

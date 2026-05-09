@@ -1,0 +1,31 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "KYG292091066"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "KYG292091066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "8036.HK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "eBroker Group Limited",
+  "primary_symbol": "8036.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "eBroker Group Limited, an investment holding company, provides financial software solution services to financial institutions in Hong Kong. The company's trading solution includes eBrokerSys, sponsored DMA, institutional sales desk solutions, and global futures and options trading platform; Algo solutions comprises Algo trader, volatility trading system, and market making system; investment solutions, such as alpha investment system, fund administration system, and wealth management system; and enterprise solutions consists of global back office system, portfolio risk reporting system, and data centers hosting and exchange colocation services. It also sells computer products. The company was founded in 2000 and is based in Central, Hong Kong.",
+  "website": "http://www.ebrokersystems.com"
+}

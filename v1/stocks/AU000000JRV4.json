@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000FB0BW8",
+    "figi": "BBG000FB0F86",
+    "isin": "AU000000JRV4"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000JRV4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IHS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IHS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JRVMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000JRV4.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IHS.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "JRV.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "JRV.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JERVOIS MINING LTD.",
+  "primary_symbol": "IHS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Jervois Mining Ltd is a cobalt and nickel company focused on advancing mineral resource projects. The company's primary focus is the Idaho Cobalt Operations (ICO) project in the United States and the São Miguel Paulista refinery in Brazil. Jervois aims to become a leading supplier of ethically sourced cobalt and nickel.",
+  "website": "http://www.jervoismining.com.au"
+}

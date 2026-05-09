@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "25460P104",
+    "isin": "US25460P1049"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US25460P1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCSX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "DCSI.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Direct Communication Solutions, Inc.",
+  "primary_symbol": "DCSX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Direct Communication Solutions, Inc. provides solutions for the Internet of Things (IoT) worldwide. The company develops and delivers a portfolio of cellular based solutions for the IoT. Its range of products includes GPS devices, modems, embedded modules, routers and mobile tracking machine-to-machine (M2M) devices, communications and applications software, and cloud services. Its Software as a Service (SaaS) solutions include MiFleet, which offers fleet and vehicle SaaS telematics; MiSensors that provide M2M device management and service enablement for wireless sensors; and MiFailover, which offers high-speed wireless Internet failover services to small and medium-sized businesses. The company also provides MiServices, an engineering support covering software development, hardware integration, and logistics support, such as SIM card insertion, activation, provisioning, labeling, and device readiness checks to its distribution customers. In addition, it offers Monitoring as a Service (MaaS) solution for the telematics market. The company's clients range from those seeking recommendations on embedded wireless modules; individuals wanting bundled wireless solutions; and companies needing assistance with buying the right wireless products. Direct Communication Solutions, Inc. was incorporated in 2006 and is headquartered in San Diego, California.",
+  "website": "http://www.dcsbusiness.com"
+}

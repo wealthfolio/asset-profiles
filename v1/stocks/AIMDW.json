@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIMDW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Ainos Inc. Warrants",
+  "primary_symbol": "AIMDW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Ainos Inc. Warrants represents a warrant to purchase shares of Ainos Inc., a biotech company focused on developing point-of-care diagnostics and low-dose interferon therapeutics. A warrant gives the holder the right, but not the obligation, to buy the company's stock at a specific price within a certain timeframe. The company is headquartered in San Diego, California."
+}

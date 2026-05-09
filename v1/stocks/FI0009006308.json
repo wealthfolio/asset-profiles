@@ -1,0 +1,46 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "isin": "FI0009006308"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FI0009006308",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ISM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HK4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HK4.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "HKSAV.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HKScan Oyj",
+  "primary_symbol": "0ISM.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "HKScan Oyj produces, markets, and sells pork, beef, poultry and lamb products, processed meats, and convenience foods to the retail, food service, industrial, and export sectors in Finland, Sweden, Denmark, and the Baltics. The company primarily sells its products under the HK, Scan, Rakvere, P√É¬§rsons, Kariniemen, Via, Rose, and Tallegg brands. It also exports its products to approximately 50 countries. The company was founded in 1913 and is headquartered in Turku, Finland. HKScan Oyj is a subsidiary of LSO Osuuskunta.",
+  "website": "http://www.hkscan.com"
+}

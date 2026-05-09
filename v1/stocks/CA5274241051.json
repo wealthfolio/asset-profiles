@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "CA5274241051"
+  },
+  "industry": "Software",
+  "industry_group": "Energy",
+  "isin": "CA5274241051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LVT.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LVT.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LVT.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LEIGH CREEK ENERGY LTD",
+  "primary_symbol": "LVT.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Leigh Creek Energy Ltd, based in Australia, is an energy company focused on developing its Leigh Creek Energy Project (LCEP), which aims to produce syngas and ultimately generate electricity from underground coal gasification. The company intends to use this project to produce nitrogen-based fertilizers.",
+  "website": "http://www.livetilesglobal.com"
+}

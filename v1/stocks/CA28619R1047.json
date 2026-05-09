@@ -1,0 +1,32 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00X3J3L75",
+    "figi": "BBG0116ZF0B3",
+    "isin": "CA28619R1047"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "CA28619R1047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "ELMT.CN"
+    }
+  ],
+  "name": "Element Nutritional Sciences Inc.",
+  "primary_symbol": "ELMT.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Element Nutrition Inc. develops nutritional products. The company also engages in retailing of its products through stores and online. Element Nutrition Inc. was incorporated in 2014 and is based in Burlington, Canada.",
+  "website": "http://www.elementnutrition.com"
+}

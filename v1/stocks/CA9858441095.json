@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00JF4K4S2",
+    "figi": "BBG00JF4K4Z4",
+    "isin": "CA9858441095"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CA9858441095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1XNA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1XNA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1XNA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YNVYF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1XNA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1XNA.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "YNV.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "YNVISIBLE INTERACTIVE",
+  "primary_symbol": "1XNA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Ynvisible Interactive Inc. develops and commercializes electrochromic materials and devices. Their primary product is thin, flexible, and transparent e-paper displays that are used in applications like smart packaging, indicators, and labels. The company is headquartered in Linköping, Sweden.",
+  "website": "http://www.ynvisible.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00DLDCCP2",
+    "cusip": "58506Q109",
+    "figi": "BBG00DLDCCW4",
+    "isin": "US58506Q1094"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US58506Q1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "01P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "01P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEDP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "01P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "01P.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MEDP.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "MEDPACE HOLDINGS  DL-,01",
+  "primary_symbol": "01P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MEDPACE HOLDINGS  DL-,01 is a clinical contract research organization (CRO) that provides clinical development services to the pharmaceutical, biotechnology, and medical device industries. They offer a range of services including clinical trial management, data management, and regulatory affairs. Medpace Holdings, Inc. is headquartered in Cincinnati, Ohio.",
+  "website": "http://www.medpace.com"
+}

@@ -1,0 +1,57 @@
+{
+  "identifiers": {
+    "isin": "JP3868400007"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "JP3868400007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MZA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MZA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BlackRock MuniYield Arizona Fund, Inc.",
+  "primary_symbol": "MZA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BlackRock MuniYield Arizona Fund, Inc. is a closed-end investment fund. The fund's investment objective is to provide shareholders with as high a level of current income exempt from federal and Arizona state income taxes as is consistent with its investment policies and prudent investment management. The fund invests primarily in municipal bonds."
+}

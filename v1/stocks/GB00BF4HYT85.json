@@ -1,0 +1,56 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BF4HYT85"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "GB00BF4HYT85",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BDGSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GEB.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BGEO.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00BF4HYT85.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GEB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GEB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Bank of Georgia Group PLC",
+  "primary_symbol": "BDGSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bank of Georgia Group PLC, through its subsidiaries, provides various banking products and services in Georgia. It operates through three segments: Retail Banking, Corporate and Investment Banking, and BNB. The Retail Banking segment offers consumer loans, mortgage loans, overdrafts, credit cards, and other credit facilities; funds transfer and settlement services; and customers' deposits for individuals and legal entities under the Express, Bank of Georgia, MSME, and SOLO brands. It primarily serves retail, and mass retail and affluent segments, as well as small and medium enterprises, and micro businesses. The Corporate Investment Banking segment offers loans and other credit facilities, funds transfers and settlement services, trade finance services, and documentary operations support services; and handles saving and term deposits for corporate and institutional customers, as well as provides private banking services to high net worth clients. The BNB segment offers retail and corporate banking services to clients in Belarus. As of December 31, 2020, it operated 206 retail branches, 960 automated teller machines, and 3,020 Express Pay terminals. The company was incorporated in 2017 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.bankofgeorgiagroup.com"
+}

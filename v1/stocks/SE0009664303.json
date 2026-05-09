@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WM24DS7",
+    "figi": "BBG00WM24DY0",
+    "isin": "SE0009664303"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "SE0009664303",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5J7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5J7.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "TANGI.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TANGIAMO TOUCH TECHN. AB",
+  "primary_symbol": "5J7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Tangiamo Touch Technology AB (publ) provides sensor technology products for the gaming industry. It offers touch and visual identification technology products that are installed in casinos, gaming halls, and cruise ships. The company was formerly known as TouchTable AB and changed its name to Tangiamo Touch Technology AB in April 2010. Tangiamo Touch Technology AB (publ) is based in Gothenburg, Sweden.",
+  "website": "http://www.tangiamo.com"
+}

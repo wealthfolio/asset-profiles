@@ -1,0 +1,72 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "26142V105",
+    "isin": "US26142V1052"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US26142V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8DEA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8DEA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DKNG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A40.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "8DEA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8DEA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8DEA.F"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "D2KN34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DKNG.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "DraftKings Inc.",
+  "primary_symbol": "8DEA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "DraftKings Inc. operates as a digital sports entertainment and gaming company in the United States. It operates through two segments, Business-to-Consumer and Business-to-Business. The company provides users with daily sports, sports betting, and iGaming opportunities. It is also involved in the design, development, and licensing of sports betting and casino gaming platform software for online and retail sportsbook, and casino gaming products. The company distributes its product offerings through various channels, including traditional websites, direct app downloads, and direct-to-consumer digital platforms. DraftKings Inc. is headquartered in Boston, Massachusetts.",
+  "website": "http://www.draftkings.com"
+}

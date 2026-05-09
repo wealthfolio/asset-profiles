@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00YD7BHX9",
+    "figi": "BBG00YD7BJ38",
+    "isin": "NO0010895782"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "NO0010895782",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "86P.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "86P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010895782.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "XPLRA.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Xplora Technologies AS",
+  "primary_symbol": "86P.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Xplora Technologies AS, an information technology company, develops wearable smart devices and services for kids and families in Norway and internationally. The company offers Xplora Service Platform, which consists of various elements, such as SIM connectivity and value-added services; IoT service that allows wearable smart devices to connect to the platform and app; and Goplay Service, a value-added service platform, which converts physical activity and location collected from IoT devices to Xplora coins. It also provides an online social community. The company was founded in 2016 and is headquartered in Oslo, Norway.",
+  "website": "http://www.myxplora.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00YHXDJN3",
+    "figi": "BBG00YHXDJT7",
+    "isin": "KYG7170M1033"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "KYG7170M1033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "735.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "735.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "735.F"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "9992.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG7170M1033.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "POP MART INT.GRP.DL-,0001",
+  "primary_symbol": "735.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "POP MART International Group is a Chinese toy company, known for designing, manufacturing, and selling designer toys and entertainment products, especially blind box toys. The company has expanded into art toys, action figures, and lifestyle products. POP MART is headquartered in Beijing, China.",
+  "website": "http://global.popmart.com"
+}

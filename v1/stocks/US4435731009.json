@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0078X8HW2",
+    "cusip": "443573100",
+    "figi": "BBG0078X8J49",
+    "isin": "US4435731009"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US4435731009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "096.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "096.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUBS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "096.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "096.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "096.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "096.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0TZZ.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "HUBS.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "HUBSPOT INC.  DL-,001",
+  "primary_symbol": "096.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "HubSpot, Inc. provides a cloud-based marketing and sales software platform. Its platform provides tools and integrations for attracting website visitors, converting leads, closing customers, and managing customer relationships. The company is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.hubspot.com"
+}

@@ -1,0 +1,59 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BP2BK2",
+    "cusip": "294821608",
+    "figi": "BBG000BP2DX4",
+    "isin": "US2948216088"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "US2948216088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ERCA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ERCA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ERCA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ERCA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IID.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ERCA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ERCA.SG"
+    }
+  ],
+  "name": "ERICSSON B (SPON.) ADR",
+  "primary_symbol": "ERCA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Telefonaktiebolaget LM Ericsson is a Swedish multinational networking and telecommunications company. It provides infrastructure, services and software to the telecommunications industry. Ericsson is headquartered in Stockholm, Sweden."
+}

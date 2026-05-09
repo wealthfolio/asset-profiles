@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BBYV51",
+    "figi": "BBG000BBYXL9",
+    "isin": "DE0005580005"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005580005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIE.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIE.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005580005.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DIE.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DIE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DIE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DIE.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DIERIG HOLDING AG O.N.",
+  "primary_symbol": "DIE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Dierig Holding AG is a German holding company with investments in various industries, including textiles, real estate, and renewable energy. The company's textile division produces and sells fabrics for clothing and home textiles. Dierig Holding AG is based in Augsburg, Germany.",
+  "website": "http://www.dierig.de"
+}

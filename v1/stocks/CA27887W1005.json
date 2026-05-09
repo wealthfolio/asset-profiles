@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA27887W1005"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA27887W1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECAOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EOI.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ECO.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ECO.OL"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EOG.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EOI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EOI.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Eco (Atlantic) Oil & Gas Ltd.",
+  "primary_symbol": "ECAOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Eco (Atlantic) Oil & Gas Ltd., a development stage company, engages in the identification, acquisition, exploration, and development of petroleum, natural gas, and shale gas properties. The company holds interest in the Orinduik block comprising 1,800 square kilometers located in the Suriname Guyana basin, the Co-Operative Republic of Guyana; and four offshore petroleum licenses covering 25,000 square kilometers located in the Republic of Namibia. Eco (Atlantic) Oil & Gas Ltd. is headquartered in Toronto, Canada.",
+  "website": "http://www.ecooilandgas.com"
+}

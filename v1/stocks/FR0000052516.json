@@ -1,0 +1,58 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000C536Y0",
+    "figi": "BBG000C53BN1",
+    "isin": "FR0000052516"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "FR0000052516",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4HL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4HL.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HJC.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4HL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4HL.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "RIN.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VILMORIN+CIE.INH.EO 15,25",
+  "primary_symbol": "4HL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Vilmorin & Cie SA is a global seed company specializing in the development, production, and marketing of vegetable and field seeds. The company provides seeds for professional growers and home gardeners. Vilmorin & Cie is headquartered in Paris, France.",
+  "website": "http://www.vilmorincie.com"
+}

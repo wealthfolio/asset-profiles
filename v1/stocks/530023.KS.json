@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "530023.KS"
+    }
+  ],
+  "name": "Samsung Leverage ChinaA50 Futur",
+  "primary_symbol": "530023.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is a leveraged Exchange Traded Note (ETN) that tracks the China A50 futures index. As a leveraged ETN, it aims to provide a multiple (likely 2x) of the daily returns of the underlying index. It's issued by Samsung."
+}

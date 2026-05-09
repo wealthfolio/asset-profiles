@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG0620W2019"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "BMG0620W2019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACITF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0073.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A2S1.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Asian Citrus Holdings Limited",
+  "primary_symbol": "ACITF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Asian Citrus Holdings Limited, an investment holding company, engages in the planting, cultivation, and sale of oranges primarily in the People's Republic of China. The company was incorporated in 2003 and is headquartered in Kwai Chung, Hong Kong.",
+  "website": "http://www.asian-citrus.com"
+}

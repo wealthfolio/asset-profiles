@@ -1,0 +1,68 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CRF9H2",
+    "figi": "BBG000CRGF41",
+    "isin": "NZCENE0001S6"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Utilities",
+  "isin": "NZCENE0001S6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CEN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COENF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BZB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BZB.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CEN.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "CEN.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CEN.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CONTACT ENERGY LTD",
+  "primary_symbol": "BZB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Contact Energy Limited is a New Zealand electricity generator and retailer. The company generates electricity from renewable sources such as geothermal and hydro, as well as thermal sources. Contact Energy is headquartered in Wellington, New Zealand.",
+  "website": "http://www.centercoastcap.com/closed-end-fund"
+}

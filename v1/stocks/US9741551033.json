@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG009DR8XV1",
+    "cusip": "974155103",
+    "figi": "BBG009DR8Y03",
+    "isin": "US9741551033"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US9741551033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EWG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WING"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EWG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EWG.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Wingstop Inc.",
+  "primary_symbol": "EWG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Wingstop Inc., together with its subsidiaries, franchises and operates restaurants under the Wingstop brand name. Its restaurants offer classic wings, boneless wings, and tenders that are cooked-to-order, and hand-sauced-and-tossed in various flavors. As of December 26, 2020, the company had 1,506 franchised restaurants and 32 company-owned restaurants in 44 states and 10 countries worldwide. Wingstop Inc. was founded in 1994 and is based in Dallas, Texas.",
+  "website": "http://www.wingstop.com"
+}

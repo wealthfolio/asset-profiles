@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00G6WBCF2",
+    "cusip": "46620W201",
+    "figi": "BBG00G6WBCM4",
+    "isin": "US46620W2017"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Retailing",
+  "isin": "US46620W2017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1MJ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1MJ1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JILL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1MJ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US46620W2017.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "J JILL INC. DL-,01",
+  "primary_symbol": "1MJ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "J. Jill, Inc. is a specialty retailer of women’s apparel, accessories, and footwear, catering to the 45+ customer. The company operates stores throughout the United States and also sells through its website and catalogs. J. Jill is headquartered in Quincy, Massachusetts and focuses on providing relaxed, easy-to-wear styles.",
+  "website": "http://www.jjill.com"
+}

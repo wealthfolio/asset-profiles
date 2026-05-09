@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG002WMG9X8",
+    "cusip": "550550107",
+    "isin": "US5505501073"
+  },
+  "isin": "US5505501073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5505501073.SG"
+    }
+  ],
+  "name": "LUTHER BURBANK CORP",
+  "primary_symbol": "US5505501073.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

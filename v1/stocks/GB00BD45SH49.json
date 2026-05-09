@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00JVBSHY4",
+    "isin": "GB00BD45SH49"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GB00BD45SH49",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BD45SH49.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00BD45SH49.SW"
+    }
+  ],
+  "name": "INTEGRAFIN HOLDINGS PLC",
+  "primary_symbol": "GB00BD45SH49.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Integrafin Holdings PLC is the holding company of the James Hay Partnership, a UK platform provider for financial advisers and their clients. The platform offers a range of investment, retirement, and tax planning solutions. Integrafin is headquartered in Salisbury, UK."
+}

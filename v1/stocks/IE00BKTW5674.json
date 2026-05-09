@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "isin": "IE00BKTW5674"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "IE00BKTW5674",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SNVD.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SNVE.L"
+    }
+  ],
+  "name": "Leverage Shares Public Limited Company",
+  "primary_symbol": "SNVD.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares Public Limited Company provides leveraged and inverse exchange traded products (ETPs). These ETPs are designed to amplify the daily returns of underlying assets or provide the inverse of those returns. The company offers a range of ETPs on various assets."
+}

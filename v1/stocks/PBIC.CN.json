@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "PBIC.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Plant-Based Investment Corp.",
+  "primary_symbol": "PBIC.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Plant-Based Investment Corp. is a principal investment firm. The firm seeks to invest in cannabis industry. It also invests in public cannabis companies. The firm employs fundamental analysis along with a combination of bottom-up and top-down stock picking approach to create its portfolios. Cannabis Growth Opportunity Corporation is based in Toronto, Canada.",
+  "website": "http://www.pbinvest.ca"
+}

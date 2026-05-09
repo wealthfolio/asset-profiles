@@ -1,0 +1,62 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "83600C103",
+    "isin": "US83600C1036"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US83600C1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MCL.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MCL.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MCL.L"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "MCL.NS"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "SOHO.JK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SOHO.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SOHO.OL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Mighty Craft Limited",
+  "primary_symbol": "MCL.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Mighty Craft Limited acquires and operates breweries, distilleries, bars, and restaurants in Australia. The company was formerly known as Founders First Limited and changed its name to Mighty Craft Limited in November 2020. Mighty Craft Limited was founded in 2017 and is based in Hawthorn East, Australia.",
+  "website": "http://www.mightycraft.com.au"
+}

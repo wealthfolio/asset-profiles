@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005338840"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "IT0005338840",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "UD.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Unidata S.p.A.",
+  "primary_symbol": "UD.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Unidata S.p.A. operates as an Internet service provider in Italy. It offers fiber and networking, cloud and datacenter, and Internet of Things and smart solutions. The company was founded in 1985 and is based in Rome, Italy. Unidata S.p.A. operates as a subsidiary of Uninvest S.R.L.",
+  "website": "http://www.unidata.it"
+}

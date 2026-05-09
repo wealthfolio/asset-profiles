@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TWTS.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Twitter ETC",
+  "primary_symbol": "TWTS.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares -1x Twitter ETC is an exchange-traded commodity (ETC) that provides inverse exposure to the daily performance of Twitter shares. The ETC aims to deliver the opposite of the daily percentage change in the price of Twitter. It is listed on the London Stock Exchange."
+}

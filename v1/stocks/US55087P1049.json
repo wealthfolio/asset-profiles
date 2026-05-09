@@ -1,0 +1,77 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "55087P104",
+    "isin": "US55087P1049"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US55087P1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A2O.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LY0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LY0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYFT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LY0.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LY0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LY0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LY0.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LYFT.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "LYFT.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LYFT INC LYFT ORD  CLASS A (CDI",
+  "primary_symbol": "0A2O.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LYFT INC LYFT ORD CLASS A (CDI) is a transportation network company that operates a ride-hailing platform connecting passengers with drivers. Lyft provides on-demand transportation services, including ridesharing, car rentals, and bike and scooter rentals, with headquarters in San Francisco, California.",
+  "website": "http://www.lyft.com"
+}

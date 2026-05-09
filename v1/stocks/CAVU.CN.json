@@ -1,0 +1,25 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CAVU.CN"
+    }
+  ],
+  "name": "CAVU Mining Corp.",
+  "primary_symbol": "CAVU.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "CAVU Mining Corp. is a Canadian exploration company focused on the acquisition, exploration, and development of mineral properties. The company primarily explores for gold, copper, and nickel deposits. CAVU Mining Corp. is based in Vancouver, Canada.",
+  "website": "http://www.cavumining.com"
+}

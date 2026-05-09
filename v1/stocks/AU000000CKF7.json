@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG001YN2Z18",
+    "figi": "BBG001YN2Z63",
+    "isin": "AU000000CKF7"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Retailing",
+  "isin": "AU000000CKF7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6CF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6CF.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CKF.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COLLINS FOODS LTD",
+  "primary_symbol": "6CF.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Collins Foods Ltd is an Australian company that operates quick-service restaurants, primarily KFC and Taco Bell, in Australia and Europe. The company operates as a franchisee, managing and expanding its restaurant network. It is headquartered in Brisbane, Australia.",
+  "website": "http://www.collinsfoods.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRK2S7",
+    "figi": "BBG00ZHRK2Y0",
+    "isin": "PLTRFRM00018"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "PLTRFRM00018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7HD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NEU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7HD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UG9.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NEUCA S.A.  ZY 1",
+  "primary_symbol": "7HD.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NEUCA S.A. is a Polish company involved in the wholesale distribution of pharmaceuticals and healthcare products, as well as providing marketing and logistics services for pharmacies and pharmaceutical manufacturers. The company operates primarily in Poland, focusing on serving independent pharmacies and pharmacy chains. Its headquarters are likely located in Poland.",
+  "website": "http://www.newmarket.com"
+}

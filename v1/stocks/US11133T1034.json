@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000RR3MY1",
+    "cusip": "11133T103",
+    "figi": "BBG000RR3P65",
+    "isin": "US11133T1034"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US11133T1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5B9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HPW.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5B9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5B9.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "B1RF34.SA"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "BR.BK"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BROADRIDGE FINL SOL.DL-01",
+  "primary_symbol": "5B9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Broadridge Financial Solutions is a global fintech company providing technology-driven solutions for broker-dealers, banks, asset managers, and corporate issuers. Their services include investor communications, securities processing, data analytics, and wealth management technology. Headquartered in Lake Success, New York, Broadridge helps clients transform their businesses with innovative solutions.",
+  "website": "http://www.broadridge.com"
+}

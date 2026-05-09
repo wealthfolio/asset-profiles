@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG532241042"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG532241042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KWGPF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1813.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KOU.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KWG Group Holdings Limited",
+  "primary_symbol": "KWGPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "KWG Group Holdings Limited, an investment holding company, engages in the investment, development, and sale of real estate properties. The company operates through three segments: Property Development, Property Investment, and Hotel Operation. Its property portfolio includes mid- to high-end residential properties, serviced apartments, villas, offices, hotels, and shopping malls. It also operates hotels. The company was formerly known as KWG Property Holding Limited and changed its name to KWG Group Holdings Limited in August 2018. KWG Group Holdings Limited was founded in 1995 and is headquartered in Guangzhou, China.",
+  "website": "http://www.kwggroupholdings.com"
+}

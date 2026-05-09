@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00Z60KQZ7",
+    "figi": "BBG00Z60KR58",
+    "isin": "CA7327681069"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "CA7327681069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8YC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8YC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLKKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8YC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA7327681069.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "HULK.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Pontus Protein Ltd.",
+  "primary_symbol": "8YC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Pontus Water Lentils Ltd. grows and commercializes water lentil protein. It offers Pure Plant Protein Powder or Pontus P4, a plant protein for aquaponics farming. The company was incorporated in 2018 and is headquartered in Victoria, Canada.",
+  "website": "http://pontuswaterlentils.com"
+}

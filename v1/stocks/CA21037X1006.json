@@ -1,0 +1,66 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA21037X1006"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA21037X1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNSWF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W9C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W9C.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CSU.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "W9C.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "W9C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "W9C.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Constellation Software Inc.",
+  "primary_symbol": "CNSWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Constellation Software Inc., together with its subsidiaries, acquires, builds, and manages vertical market software businesses in the United States, Canada, Italy, Germany, India, United Kingdom, Brazil, Switzerland, Austria, Israel, and internationally. It operates through two segments, Public Sector and Private Sector. It serves government and government-related customers, as well as commercial customers. Constellation Software Inc. was founded in 1995 and is headquartered in Toronto, Canada.",
+  "website": "http://www.csisoftware.com"
+}

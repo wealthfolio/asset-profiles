@@ -1,0 +1,48 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CR61Y0",
+    "figi": "BBG000CR6456",
+    "isin": "GB0022569080"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "GB0022569080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AOS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DOX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AOS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AOS.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AMDOCS LTD.  LS-,01",
+  "primary_symbol": "AOS.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Amdocs Limited provides software and services to the communications, media, and entertainment industry. The company offers solutions for customer management, billing, and operational support systems. The company is headquartered in Jersey, Channel Islands.",
+  "website": "http://www.amdocs.com"
+}

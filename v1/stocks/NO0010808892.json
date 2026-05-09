@@ -1,0 +1,63 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00QHM7800",
+    "figi": "BBG00QHM7864",
+    "isin": "NO0010808892"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "NO0010808892",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "30X.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "30X.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "30X.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "30X.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "CRAYN.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "CRAYNO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010808892.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CRAYON GROUP HOLDING NK 1",
+  "primary_symbol": "30X.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Crayon Group Holding ASA is an IT services and innovation company specializing in cloud computing, data, and artificial intelligence headquartered in Oslo, Norway. The company provides services such as software asset management, cloud solutions, and consulting services to businesses worldwide. Crayon helps organizations navigate and succeed in the digital transformation era.",
+  "website": "http://www.crayon.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "DK0061676400"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "DK0061676400",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPU.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WPU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WPU.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WERELDHAVE BELGIUM SCA",
+  "primary_symbol": "WPU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Wereldhave Belgium SCA is a real estate investment trust (REIT) that specializes in investing in and managing retail properties in Belgium. The company focuses on shopping centers and retail parks. Wereldhave Belgium SCA is headquartered in Brussels, Belgium.",
+  "website": "http://www.wereldhavebelgium.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000PRMRW3",
+    "figi": "BBG000PRMVB7",
+    "isin": "ID1000113202"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "ID1000113202",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7B7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7B7.F"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "BWPT.JK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EAGLE HIGH PLANTAT.RP 100",
+  "primary_symbol": "7B7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Eagle High Plantations Tbk is an Indonesian company involved in the palm oil industry. The company cultivates oil palm plantations and processes fresh fruit bunches into crude palm oil and palm kernel. The company's headquarters are located in Indonesia.",
+  "website": "http://www.eaglehighplantations.com"
+}

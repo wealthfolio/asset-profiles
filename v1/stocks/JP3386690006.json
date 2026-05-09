@@ -1,0 +1,33 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00QV0BZ70",
+    "figi": "BBG00QV0CFM6",
+    "isin": "JP3386690006"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "JP3386690006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4483.T"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "JMDC Inc.",
+  "primary_symbol": "4483.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "JMDC Inc. provides medical statistics data services in Japan. The company offers medical field big data services; life insurance field big data services; support services for health insurance associations and local government health services; health data platform; and medical institution support services. It serves health insurance associations, pharmaceutical companies, life insurance companies, research institutions, etc. The company was founded in 2002 and is headquartered in Tokyo, Japan. JMDC Inc. is a subsidiary of Noritz Steel Machine Co., Ltd.",
+  "website": "http://www.jmdc.co.jp"
+}

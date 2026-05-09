@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000BRS159",
+    "isin": "IT0003057624"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "IT0003057624",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003057624.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ITW.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IT WAY SPA",
+  "primary_symbol": "IT0003057624.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IT WAY S.p.A. is an Italian company providing IT services and solutions, specializing in digital transformation and IT consulting. They offer services such as system integration, software development, and cloud solutions to businesses. IT WAY S.p.A. is headquartered in Turin, Italy.",
+  "website": "http://www.itway.com"
+}

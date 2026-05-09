@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BRNT.PA"
+    }
+  ],
+  "name": "WisdomTree Brent Crude Oil",
+  "primary_symbol": "BRNT.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "WisdomTree Brent Crude Oil is an exchange-traded commodity (ETC) designed to track the performance of Brent crude oil futures contracts. The ETC provides investors exposure to the price movements of Brent crude oil by investing in futures contracts. WisdomTree is the issuer of this ETC."
+}

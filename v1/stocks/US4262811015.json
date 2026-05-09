@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FR20X4",
+    "cusip": "426281101",
+    "figi": "BBG000FR25F3",
+    "isin": "US4262811015"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US4262811015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JKHY"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "J1KH34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JHY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JHY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JHY.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "JACK HENRY + ASS. DL -,01",
+  "primary_symbol": "JHY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Jack Henry & Associates, Inc. provides technology solutions and payment processing services primarily for financial institutions in the United States. The company offers a range of software and services for core banking, payment processing, and digital channels. The company is headquartered in Monett, Missouri.",
+  "website": "http://www.jackhenry.com"
+}

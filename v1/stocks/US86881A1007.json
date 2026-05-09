@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00B599WM6",
+    "cusip": "86881A100",
+    "figi": "BBG00B599WT9",
+    "isin": "US86881A1007"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US86881A1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1SP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGRY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1SP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1SP.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SURGERY PARTNERS  DL -,01",
+  "primary_symbol": "1SP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Surgery Partners, Inc. is a healthcare services company that operates a network of surgical facilities and provides ancillary services. The company partners with physicians and hospitals to deliver high-quality surgical care, and its headquarters is in Brentwood, Tennessee.",
+  "website": "http://www.surgerypartners.com"
+}

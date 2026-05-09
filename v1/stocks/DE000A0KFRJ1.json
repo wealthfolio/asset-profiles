@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000QH6PT0",
+    "figi": "BBG000QH6S23",
+    "isin": "DE000A0KFRJ1"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE000A0KFRJ1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T5O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T5O.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T5O.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "T5O.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "T5O.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T5O.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T5O.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CYTOTOOLS  O.N.",
+  "primary_symbol": "T5O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CYTOTOOLS O.N. is a German biotechnology company focused on developing and commercializing products for dermatological and ophthalmological conditions. The company's lead product is DermaPro, a treatment for diabetic foot ulcers. CytoTools AG is based in Germany.",
+  "website": "http://cytotools.de"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00Z3WLT56",
+    "figi": "BBG00Z3WLTB9",
+    "isin": "IL0065100930"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "IL0065100930",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2SV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZIM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2SV.DU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ZIM.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ZIM INTEGRATED SHIPP.SRV.",
+  "primary_symbol": "2SV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ZIM Integrated Shipping Services Ltd. is a global container shipping company. The company provides cargo shipping services on various trade routes. ZIM Integrated Shipping Services is headquartered in Haifa, Israel.",
+  "website": "http://www.zim.com"
+}

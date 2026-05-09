@@ -1,0 +1,71 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0010451203"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0010451203",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0KBZ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E7V.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E7V.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RXEEY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RXLSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E7V.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E7V.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RXL.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "RXL.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "REXEL SA REXEL STOCK ORD SHS",
+  "primary_symbol": "0KBZ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Rexel SA is a global distributor of electrical supplies and equipment. The company provides a wide range of products and services to electrical contractors, industrial customers, and commercial businesses. Rexel is headquartered in Paris, France",
+  "website": "http://www.rexel.com"
+}

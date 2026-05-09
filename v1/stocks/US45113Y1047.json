@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "45113Y104",
+    "isin": "US45113Y1047"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "US45113Y1047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I9CA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I9CA.MU"
+    }
+  ],
+  "name": "ICLICK INT.ASIA ADR/0,5 A",
+  "primary_symbol": "I9CA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "iClick Interactive Asia Group Limited provides marketing technology platforms in China. Headquartered in Hong Kong, the company connects marketers with audiences through programmatic advertising and marketing solutions. iClick leverages data and technology to optimize marketing campaigns for its clients."
+}

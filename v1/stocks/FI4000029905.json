@@ -1,0 +1,38 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00LZMPB13",
+    "figi": "BBG00LZMPB68",
+    "isin": "FI4000029905"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FI4000029905",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S0A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "SCANFL.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Scanfil Oyj",
+  "primary_symbol": "S0A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Scanfil Oyj operates as a contract manufacturer and system supplier for the electronics industry worldwide. The company provides product design, product manufacturing, material procurement and logistics solutions, as well as after-sales services, such as maintenance and spare parts services. It also offers video surveillance systems and equipment, communications network devices, audio communications products, health technology devices and systems, electricity and automation system modules, renewable energy production converters and inverters, frequency converters, elevator and forklift control systems, analyzers, lift control systems, analyzers, various slot and vending machines, defense industry devices, and meteorological instruments. The company serves customers in communication, consumer applications, energy and automation, industrial, and medtech and life science, as well as companies operating in fields related to urbanization. The company was founded in 1976 and is headquartered in Sievi, Finland.",
+  "website": "http://www.scanfil.com"
+}

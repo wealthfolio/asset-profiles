@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNFI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "First Niles Financial, Inc.",
+  "primary_symbol": "FNFI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "First Niles Financial, Inc. operates as the holding company for Home Federal Savings and Loan Association of Niles that provides various banking products and services. It accepts checking and savings accounts, and certificates of deposit; and offers various loans. The company was founded in 1897 and is based in Niles, Ohio.",
+  "website": "http://www.homefedniles.com"
+}

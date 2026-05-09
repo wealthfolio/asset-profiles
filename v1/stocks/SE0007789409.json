@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00CB30C98",
+    "figi": "BBG00CB30CH9",
+    "isin": "SE0007789409"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0007789409",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7XB.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7XB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0007789409.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "XBRANE.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "XBRANE BIOPHARMA AB",
+  "primary_symbol": "7XB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Xbrane Biopharma AB is a Swedish biopharmaceutical company specializing in biosimilars. They develop biosimilar versions of existing biologic drugs, with a focus on complex and technically challenging molecules. The company is headquartered in Stockholm, Sweden.",
+  "website": "http://www.xbrane.com"
+}

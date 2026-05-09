@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BV0F59",
+    "figi": "BBG000BV0GT1",
+    "isin": "DE0005533400"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Real Estate",
+  "isin": "DE0005533400",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGR.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGR.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DGR.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DGR.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DT.GRUNDST.AUKT.AG",
+  "primary_symbol": "DGR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Deutsche Grundstücksauktionen AG is a German auction house specializing in the auctioning of real estate properties. They conduct auctions for various types of properties, including residential, commercial, and land. Deutsche Grundstücksauktionen AG is based in Berlin, Germany.",
+  "website": "http://www.dgrglobal.com.au"
+}

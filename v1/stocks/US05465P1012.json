@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "05465P101",
+    "isin": "US05465P1012"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US05465P1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0I3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0I3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AXNX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0I3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0I3.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AXONICS INC.",
+  "primary_symbol": "0I3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Axonics, Inc. (formerly Axonics Modulation Technologies, Inc.) is a medical technology company focused on the design, development, and commercialization of innovative and minimally invasive neuromodulation solutions for the treatment of bladder and bowel dysfunction. Their primary product is the Axonics r-SNM System. Axonics is headquartered in Irvine, California.",
+  "website": "http://www.axonics.com"
+}

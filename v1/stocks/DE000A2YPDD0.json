@@ -1,0 +1,68 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000C1P657",
+    "figi": "BBG000C1P8Z0",
+    "isin": "DE000A2YPDD0"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Real Estate",
+  "isin": "DE000A2YPDD0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIH1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIH1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIH1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2YPDD0.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "VIH.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VIH1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VIH1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VIH1.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VIB VERMOEGEN  NA O.N.",
+  "primary_symbol": "VIH1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "VIB VERMOEGEN NA O.N. is a real estate company that invests in and manages commercial properties in Belgium and the Netherlands. The company focuses on offices, logistics, and retail spaces. VIB Vermoegen is headquartered in Belgium.",
+  "website": "http://www.vichaivej.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA37149B1094"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA37149B1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GENMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA37149B1094.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "GENM.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Generation Mining Limited",
+  "primary_symbol": "GENMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Generation Mining Limited, a mineral exploration and development stage company, focuses on base and precious metal deposits in Canada. The company explores for zinc, lead, silver, molybdenum, copper, gold, diamond, tungsten, platinum, and palladium deposits. It primarily holds 80.7% interest in the Marathon Palladium and Copper project covering an area of 22,000 hectares located in north-western Ontario. The company was incorporated in 2018 and is based in Toronto, Canada.",
+  "website": "http://www.genmining.com"
+}

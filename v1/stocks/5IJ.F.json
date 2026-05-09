@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5IJ.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Conferize A/S",
+  "primary_symbol": "5IJ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Conferize A/S develops an online software solution for event and conference market. Its primary product is event management software, which enables event organizers to solve various digital tasks needed to host an event. The company serves event organizers and attendees. It operates in approximately 140 countries. The company was founded in 2011 and is based in Copenhagen, Denmark.",
+  "website": "http://www.conferize.com"
+}

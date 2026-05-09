@@ -1,0 +1,78 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000LG7K17",
+    "figi": "BBG000LG8PL3",
+    "isin": "CA3499151080"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA3499151080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F4S.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F4S.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSM.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QYM.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F4S.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F4S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F4S.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FVI.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "FVI.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Fortuna Silver Mines Inc.",
+  "primary_symbol": "F4S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Fortuna Silver Mines Inc. engages in the exploration, extraction, and processing of precious and base metal deposits in Latin America. Its principal properties include the Caylloma silver, lead, and zinc mine located in southern Peru; the San Jose silver and gold mine situated in southern Mexico; and the Lindero gold project located in Argentina. The company was formerly known as Fortuna Ventures Inc. and changed its name to Fortuna Silver Mines Inc. in June 2005. Fortuna Silver Mines Inc. was incorporated in 1990 and is based in Vancouver, Canada.",
+  "website": "http://www.fortunasilver.com"
+}

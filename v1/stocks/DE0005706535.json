@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BCJC21",
+    "figi": "BBG000BCJFW1",
+    "isin": "DE0005706535"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "DE0005706535",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUK3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUK3.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUK3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUK3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EUK3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EUK3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EUK3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EUROKAI KGAA VZO",
+  "primary_symbol": "EUK3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "EUROKAI KGaA is a German port and logistics company specializing in container handling, automobile logistics, and other related services. The company operates several terminals in Europe and offers integrated transport and logistics solutions for various industries. EUROKAI KGaA is headquartered in Hamburg, Germany.",
+  "website": "http://www.eurokai.com"
+}

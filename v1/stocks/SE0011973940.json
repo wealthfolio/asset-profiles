@@ -1,0 +1,53 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00R0YVQX7",
+    "figi": "BBG00R0YVR38",
+    "isin": "SE0011973940"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Capital Goods",
+  "isin": "SE0011973940",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4AZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4AZ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4AZ.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "AZELIO.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0011973940.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AZELIO AB",
+  "primary_symbol": "4AZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Azelio AB is a Swedish company specializing in thermal energy storage with dispatchable power production. They offer solutions for storing renewable energy and converting it into electricity on demand. Azelio AB is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.azelio.com"
+}

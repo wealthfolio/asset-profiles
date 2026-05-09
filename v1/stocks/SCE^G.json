@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCE^G"
+    }
+  ],
+  "name": "SCE Trust II Trust Preferred Securities",
+  "primary_symbol": "SCE^G",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SCE Trust II is a trust associated with Southern California Edison (SCE). The trust issued preferred securities. These securities represent ownership in the trust, which in turn holds debt from SCE."
+}

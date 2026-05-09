@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "SCAPE.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Scape Technologies A/S",
+  "primary_symbol": "SCAPE.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Scape Technologies A/S, a robotics company, develops and sells bin-picking systems based on 3D computer vision. It provides SCAPE software for handling random, structured, and semi-structured components; SCAPE Picker tool for collection, controlling, and placing of subcomponents and parts; SCAPE Bin-Picking Manager, a software which handles recognition and picking of parts; SCAPE Communication Server, which enables communication of robot movements and status between SCAPE controller and robot controller; and SCAPE Calibration Manager, an application used for configuring all the units in a work cell. The company also offers SCAPE Part Training Studio, an application for training new parts based on a CAD files; software for structured and random parts; SCAPE Tool Units and Grippers; SCAPE 3D Scanner Recognition solutions; SCAPE Automatic Self Test and Cast Station for verifying the calibration of sensors and functionality of grippers; SCAPE 3D Orientation Control, which helps to handle parts for precision delivery for further processes; SCAPE Controller PC used to run with SCAPE software and hardware modules; and SCAPE Hardware Module solutions. In addition, it offers solutions for gripping and sorting packets and letters for distribution for logistic markets. Scape Technologies A/S was founded in 2004 and is headquartered in Odense, Denmark.",
+  "website": "http://www.scapetechnologies.com"
+}

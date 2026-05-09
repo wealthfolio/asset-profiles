@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00YV4LTC2",
+    "cusip": "88262P102",
+    "figi": "BBG00YV4LTK3",
+    "isin": "US88262P1021"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Real Estate",
+  "isin": "US88262P1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9WY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPL"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TEXAS PAC.LD CORP. DL-,01",
+  "primary_symbol": "9WY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Texas Pacific Land Corporation owns and manages land in West Texas, primarily related to oil and gas resources. Their business model revolves around leasing land to oil and gas companies for exploration and production, as well as generating revenue from easements, commercial leases, and surface use agreements. The company is headquartered in Dallas, Texas.",
+  "website": "http://www.texaspacific.com"
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00FBJ6390",
+    "cusip": "91688F104",
+    "figi": "BBG00LXPHFL6",
+    "isin": "US91688F1049"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US91688F1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UPWK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UP2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UP2.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "UPWK.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Upwork Inc.",
+  "primary_symbol": "UPWK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Upwork Inc., together with its subsidiaries, operates an online talent marketplace that enables businesses to find and work with various independent professionals and agencies in the United States, India, the Philippines, and internationally. The company's platform provides access to talent with various skills across a range of categories, including sales and marketing, customer service, data science and analytics, design and creative, web, mobile, and software development. Its platform also enables clients to streamline workflows, such as talent sourcing, outreach, and contracting. The company's platform offers access to various functionalities for remote engagements with freelancers comprising communication and collaboration, time tracking, invoicing, and payment. Its marketplace offerings include Upwork Basic, Upwork Plus, Upwork Business, Upwork Enterprise, and Upwork Payroll, as well as managed and internet escrow agency services. The company was formerly known as Elance-oDesk, Inc. and changed its name to Upwork Inc. in May 2015. Upwork Inc. was incorporated in 2013 and is headquartered in Santa Clara, California.",
+  "website": "http://www.upwork.com"
+}

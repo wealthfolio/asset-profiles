@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZXKQG9",
+    "figi": "BBG00XZXKQM2",
+    "isin": "NO0010887565"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "NO0010887565",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OW7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010887565.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "OSUN.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Ocean Sun AS",
+  "primary_symbol": "OW7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Ocean Sun AS develops floating power system with solar panels. Its system consists of one or multiple floaters anchored side-by-side to build larger power plants, as well as takes local water depth, wave, current, and wind conditions into consideration. The company has a strategic partnership with GCL System Integration. Ocean Sun AS was founded in 2016 and is headquartered Fornebu, Norway with locations in Singapore; Shanghai, China.",
+  "website": "http://oceansun.no"
+}

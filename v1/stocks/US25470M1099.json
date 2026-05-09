@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "25470M109",
+    "isin": "US25470M1099"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US25470M1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EOT"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DISH.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Eaton Vance National Municipal Opportunities Trust",
+  "primary_symbol": "EOT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Eaton Vance National Municipal Opportunities Trust is a close-ended fixed income mutual fund launched and managed by Eaton Vance Management. The fund invests in fixed income markets of the United States. It primarily invests its assets in municipal obligations. The fund conducts in-house research to make its investments. Eaton Vance National Municipal Opportunities Trust was formed on May 29, 2009 and is domiciled in the United States.",
+  "website": "http://funds.eatonvance.com/National-Municipal-Opportunities-Trust-EOT.php"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "PRIMOF.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Prime Office A/S",
+  "primary_symbol": "PRIMOF.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Prime Office A/S operates as a real estate company. It primarily invests in centrally located office buildings in Germany. Prime Office A/S is based in Aarhus, Denmark.",
+  "website": "http://www.primeoffice.dk"
+}

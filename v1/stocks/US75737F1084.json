@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00HBVM7H3",
+    "cusip": "75737F108",
+    "figi": "BBG00HBVM7P4",
+    "isin": "US75737F1084"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "US75737F1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R6G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R6G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RDFN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R6G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R6G.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "REDFIN CORP.  DL-,001",
+  "primary_symbol": "R6G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Redfin Corporation operates as a residential real estate brokerage. The company provides real estate services, including buying, selling, and renting homes. Redfin is headquartered in Seattle, Washington.",
+  "website": "http://www.redfin.com"
+}

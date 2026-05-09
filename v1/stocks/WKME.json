@@ -1,0 +1,26 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WKME"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WalkMe Ltd. Ordinary Shares",
+  "primary_symbol": "WKME",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "WalkMe Ltd. provides a cloud-based digital adoption platform that helps businesses simplify the user experience and drive adoption of software and applications. The platform provides on-screen guidance, automation, and insights to improve user productivity and engagement. WalkMe is headquartered in San Francisco, California, USA."
+}

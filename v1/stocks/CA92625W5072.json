@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000DK04V7",
+    "figi": "BBG000DK09L7",
+    "isin": "CA92625W5072"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA92625W5072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VI9A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VI9A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VITFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA92625W5072.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "VGCX.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VI9A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VI9A.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Victoria Gold Corp.",
+  "primary_symbol": "VI9A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Victoria Gold Corp. acquires, operates, explores, and develops mineral properties in Canada and the United States. The company primarily explores for gold deposits. Its flagship property is 100% owned Dublin Gulch property, which hosts the Eagle and Olive-Shamrock Gold deposit covering an area of approximately 555 square kilometers located in central Yukon, Canada. The company was formerly known as Victoria Resource Corporation and changed its name to Victoria Gold Corp. in July 2008. Victoria Gold Corp. was incorporated in 1981 and is headquartered in Toronto, Canada.",
+  "website": "http://vgcx.com"
+}

@@ -1,0 +1,78 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000LFTPN0",
+    "figi": "BBG000LFVWD3",
+    "isin": "CA45257A1021"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA45257A1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IKL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IKL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISVLF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IKL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IKL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IKL.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IPT.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IPT.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "IPT.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IMPACT Silver Corp.",
+  "primary_symbol": "IKL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "IMPACT Silver Corp. engages in the exploration, development, and mineral processing activities in Mexico. The company produces silver, lead, zinc, gold, and copper deposits. It operates San Ramon Deeps, Mirasol, and Cuchara-Oscar silver mines. The company also owns interests in the Royal Mines of Zacualpan Silver District and the Capire Mineral District covering 357 square kilometers located in central Mexico. IMPACT Silver Corp. was founded in 2006 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.impactsilver.com"
+}

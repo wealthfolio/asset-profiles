@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IPOK.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Heidelberger Beteiligungsholding AG",
+  "primary_symbol": "IPOK.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Heidelberger Beteiligungsholding AG operates as an investment company in Germany. It primarily invests in listed securities. The company was incorporated in 1923 and is based in Heidelberg, Germany.",
+  "website": "http://www.heidelberger-beteiligungsholding.de"
+}

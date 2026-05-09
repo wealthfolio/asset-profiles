@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LK92F41",
+    "cusip": "34417P100",
+    "figi": "BBG00LK92FB3",
+    "isin": "US34417P1003"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US34417P1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2JE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2JE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOCS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2JE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US34417P1003.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FOCUS FIN. PART.A DL-,01",
+  "primary_symbol": "2JE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Focus Financial Partners Inc. is a partnership of independent, fiduciary wealth management firms. The company provides access to best practices, resources, and continuity planning to its partner firms, which in turn provide wealth management services to their clients. Focus Financial Partners is headquartered in New York, New York.",
+  "website": "http://focusfinancialpartners.com"
+}

@@ -1,0 +1,30 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA26153P1045"
+  },
+  "industry_group": "Real Estate",
+  "isin": "CA26153P1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRETF"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Dream Office Real Estate Investment Trust",
+  "primary_symbol": "DRETF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Dream Office REIT is an unincorporated, open-ended real estate investment trust. Dream Office REIT owns well-located, high-quality office properties, primarily in downtown Toronto.",
+  "website": "http://www.dream.ca/office"
+}

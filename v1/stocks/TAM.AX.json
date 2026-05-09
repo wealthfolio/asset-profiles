@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TAM.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Tanami Gold NL",
+  "primary_symbol": "TAM.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tanami Gold NL, together with its subsidiaries, engages in the exploration and evaluation of gold properties in Australia. Its flagship project is the Central Tanami Project located in the Tanami Desert in the Northern Territory. The company was incorporated in 1968 and is based in South Perth, Australia.",
+  "website": "http://www.tanami.com.au"
+}

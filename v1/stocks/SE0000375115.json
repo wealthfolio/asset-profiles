@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "SE0000375115"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "SE0000375115",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MQG.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLT.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MLT.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MLT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MLT.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "MYCR.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MYCRONIC AB (PUBL) MYCRONIC ORD",
+  "primary_symbol": "0MQG.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Mycronic AB (publ) develops, manufactures, and markets production equipment for the electronics industry. It focuses on pattern generators and surface mount technology (SMT) equipment. The company is headquartered in Täby, Sweden.",
+  "website": "http://www.milton.com.au"
+}

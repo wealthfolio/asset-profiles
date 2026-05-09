@@ -1,0 +1,46 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "NL00150003E1"
+  },
+  "industry": "Machinery",
+  "industry_group": "Materials",
+  "isin": "NL00150003E1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUR.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FUR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FUR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FUR.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FURUKAWA CO.",
+  "primary_symbol": "FUR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Furukawa Co., Ltd. is a Japanese company involved in a variety of business segments including metals, machinery, and electronics components. The company produces copper products, specialty metals, industrial machinery, and electronic materials. Furukawa Co., Ltd. is headquartered in Tokyo, Japan.",
+  "website": "http://www.furukawakk.co.jp"
+}

@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BP9314",
+    "cusip": "10802T105",
+    "isin": "US10802T1051"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US10802T1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US10802T1051.SG"
+    }
+  ],
+  "name": "BRICKELL BIOTECH INC",
+  "primary_symbol": "US10802T1051.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BRICKELL BIOTECH INC is a pharmaceutical company focused on developing and commercializing innovative prescription therapeutics for chronic skin diseases. Located in Boulder, Colorado, Brickell Biotech leverages its expertise in dermatology to create potential new treatment options. Their pipeline includes drug candidates for conditions such as psoriasis and atopic dermatitis."
+}

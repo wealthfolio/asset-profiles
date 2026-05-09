@@ -1,0 +1,37 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG002PVBGM7",
+    "figi": "BBG002PVBGS1",
+    "isin": "GB00B67KBV28"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00B67KBV28",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9C3.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CAML.L"
+    }
+  ],
+  "name": "CENTR.ASIA METALS DL -,01",
+  "primary_symbol": "9C3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Central Asia Metals PLC is a copper producer with operations in Kazakhstan. The company extracts and processes copper cathode. It is headquartered in London, United Kingdom.",
+  "website": "http://www.centralasiametals.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "composite_figi": "BBG000C2QM95",
+    "figi": "BBG000C2QQH7",
+    "isin": "PTZON0AM0006"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "PTZON0AM0006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PMV.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "NOS.LS"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PMV.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PMV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PMV.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "PMV.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PMV.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NOS SGPS S.A.  EO -,01",
+  "primary_symbol": "PMV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "NOS SGPS S.A. is a Portuguese telecommunications and entertainment company. The company provides services including mobile, fixed-line, broadband internet, and pay-TV to residential and business customers. NOS is headquartered in Lisbon, Portugal.",
+  "website": "http://www.nos.pt"
+}

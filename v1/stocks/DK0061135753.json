@@ -1,0 +1,58 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00NSMY4G7",
+    "figi": "BBG00NSMY4N9",
+    "isin": "DK0061135753"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "DK0061135753",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "72D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "72D.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "72D.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "72D.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DDRLF"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "DRLCO.CO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DRILLING CO.1972  DK 10",
+  "primary_symbol": "72D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "The Drilling Company of 1972 A/S provides offshore drilling rig services to oil and gas companies worldwide. The company operates through North Sea Jack-Up Rigs and International Floaters segment. It owns and operates a fleet of 22 offshore drilling rigs, including 14 jack-up rigs, 4 semi-submersible rigs, and 4 drillships. The company was founded in 1962 and is headquartered in Kongens Lyngby, Denmark.",
+  "website": "http://www.maerskdrilling.com"
+}

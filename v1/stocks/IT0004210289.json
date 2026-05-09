@@ -1,0 +1,53 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000RHGL53",
+    "figi": "BBG000RHGR41",
+    "isin": "IT0004210289"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Transportation",
+  "isin": "IT0004210289",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARQ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ARQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ARQ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "LR.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LANDI RENZO S.P.A. EO-,01",
+  "primary_symbol": "ARQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Landi Renzo S.p.A. is an Italian company specializing in compressed natural gas (CNG) and liquefied petroleum gas (LPG) fuel systems and components for the automotive industry. The company designs, manufactures, and distributes CNG and LPG conversion kits and components for vehicles. It is headquartered in Cavriago, Italy.",
+  "website": "http://www.landirenzogroup.com"
+}

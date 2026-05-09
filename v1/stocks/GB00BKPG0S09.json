@@ -1,0 +1,56 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "GB00BKPG0S09"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00BKPG0S09",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TEM.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TEM.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TEM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TEM.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TEM.L"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "TEM.NZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TONGCHENG-ELONG DL-,0005",
+  "primary_symbol": "TEM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tempest Minerals Limited operates as a mineral exploration company. The company explores for precious, base, and energy metals. It holds 100% interests in the Windarling, Rocky Hill, Caranning, Range, Messenger, Warriedar, and Euro projects located in Western Australia. The company was formerly known as Lithium Consolidated Mineral Exploration Limited and changed its name to Lithium Consolidated Limited in August 2020. Tempest Minerals Limited was incorporated in 2016 and is headquartered in Mount Hawthorn, Australia.",
+  "website": "http://www.tempestminerals.com"
+}

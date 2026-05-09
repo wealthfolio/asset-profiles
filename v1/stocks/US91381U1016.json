@@ -1,0 +1,42 @@
+{
+  "identifiers": {
+    "cusip": "91381U101",
+    "isin": "US91381U1016"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US91381U1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9U9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9U9.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9U9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9U9.SG"
+    }
+  ],
+  "name": "UNITY BIOTECHN.  DL-,0001",
+  "primary_symbol": "9U9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Unity Biotechnology, Inc. is a biotechnology company focused on developing therapeutics to slow, halt, or reverse diseases of aging. Their business model centers on senolytic medicines, which target and eliminate senescent cells believed to contribute to age-related diseases. Unity Biotechnology is headquartered in Brisbane, California."
+}

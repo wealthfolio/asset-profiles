@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0016YVLP8",
+    "cusip": "14365C103",
+    "figi": "BBG0016YVLX9",
+    "isin": "US14365C1036"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US14365C1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POH3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POH3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "POH3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "POH3.SG"
+    }
+  ],
+  "name": "CARNIVAL PLC ADR/1 DL1,66",
+  "primary_symbol": "POH3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Carnival plc is a global cruise company that operates a portfolio of cruise brands, including Carnival Cruise Line, Princess Cruises, Holland America Line, and Costa Cruises. They offer a range of cruise vacations to destinations around the world. The company is headquartered in Southampton, United Kingdom."
+}

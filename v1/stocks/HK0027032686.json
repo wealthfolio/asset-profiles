@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BT9DJ5",
+    "figi": "BBG000BT9K09",
+    "isin": "HK0027032686"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "HK0027032686",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KW9A.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KW9A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KW9A.SG"
+    }
+  ],
+  "name": "GALAXY ENTMT GROUP",
+  "primary_symbol": "KW9A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Galaxy Entertainment Group Limited is a Hong Kong-based company that develops and operates hotels, gaming, and integrated resort facilities in Macau. The company's flagship properties include Galaxy Macau, StarWorld Macau, and Broadway Macau."
+}

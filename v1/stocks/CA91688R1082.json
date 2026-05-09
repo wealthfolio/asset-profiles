@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000LX4C57",
+    "figi": "BBG000LX5HV6",
+    "isin": "CA91688R1082"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA91688R1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U9T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U9T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "URG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "U9T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "U9T.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "URE.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Ur-Energy Inc.",
+  "primary_symbol": "U9T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Ur-Energy Inc. engages in the acquisition, exploration, development, and operation of uranium mineral properties. The company holds interests in 12 projects located in the United States. Its flagship property is the Lost Creek project comprising a total of approximately 1,800 unpatented mining claims and three Wyoming mineral leases covering an area of approximately 36,000 acres located in the Great Divide Basin, Wyoming. The company was incorporated in 2004 and is headquartered in Littleton, Colorado.",
+  "website": "http://www.ur-energy.com"
+}

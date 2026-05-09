@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG001FDF737",
+    "figi": "BBG001FDF791",
+    "isin": "CA4991131083"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA4991131083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "92K.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "92K.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KNTNF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "92K.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "92K.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "92K.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "KNT.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "K92 MINING INC",
+  "primary_symbol": "92K.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "K92 MINING INC is engaged in the production of gold, copper, and silver in Papua New Guinea. The company's primary asset is the Kainantu Gold Mine, which includes exploration licenses covering several highly prospective mineralized areas. K92 Mining is headquartered in Vancouver, Canada, and focuses on expanding production and exploration activities at its Kainantu project.",
+  "website": "http://www.k92mining.com"
+}

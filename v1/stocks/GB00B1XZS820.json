@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C14NJ8",
+    "figi": "BBG000C14R27",
+    "isin": "GB00B1XZS820"
+  },
+  "industry_group": "Materials",
+  "isin": "GB00B1XZS820",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGLB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGLB.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGLB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGLB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NGLB.DU"
+    }
+  ],
+  "name": "ANGLO AMERICAN DL-,54945",
+  "primary_symbol": "NGLB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Anglo American plc is a global mining company that produces a wide range of commodities, including diamonds (through De Beers), platinum group metals, copper, iron ore, and metallurgical coal. The company explores, mines, processes and refines these resources, distributing them to customers worldwide. Anglo American is headquartered in London, United Kingdom."
+}

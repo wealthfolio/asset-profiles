@@ -1,0 +1,66 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000044448"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "FR0000044448",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IGF.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXPRF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "NEX.PA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NXS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NXS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NXS.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NEXANS SA NEXANS ORD SHS",
+  "primary_symbol": "0IGF.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nexans SA is a French global leader in cabling and connectivity solutions. The company designs and manufactures a wide range of cables and cabling systems for various applications, including energy, telecommunications, and transportation. Nexans SA is headquartered in Paris, France.",
+  "website": "http://www.nexans.com"
+}

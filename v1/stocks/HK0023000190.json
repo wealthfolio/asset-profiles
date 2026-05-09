@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BHP1B7",
+    "figi": "BBG000BHP3F9",
+    "isin": "HK0023000190"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Banks",
+  "isin": "HK0023000190",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOA.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BOA.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BOA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BOA.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BK OF EAST ASIA",
+  "primary_symbol": "BOA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Bank of East Asia, Limited is a Hong Kong-based banking and financial services company. It provides a range of banking services to individuals and businesses, including retail banking, commercial banking, and wealth management. Its headquarters are located in Hong Kong.",
+  "website": "http://www.boadicea.net.au"
+}

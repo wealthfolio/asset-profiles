@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA45250A3073"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA45250A3073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADTFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A7V2.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IMR.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "IMR.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "iMetal Resources Inc.",
+  "primary_symbol": "ADTFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "iMetal Resources Inc., a junior exploration company, focuses on the exploration and development of resource properties in Ontario and Quebec in Canada. The company explores for precious and base metal resources. Its flagship property is the Gowganda West project covering an area of 145 squares kilometers located in Ontario. The company was formerly known as Adroit Resources Inc. and changed its name to iMetal Resources Inc. in November 2015. iMetal Resources Inc. is headquartered in Vancouver, Canada.",
+  "website": "http://www.imetalresources.ca"
+}

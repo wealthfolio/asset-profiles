@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00NK8G7H8",
+    "cusip": "69012T206",
+    "figi": "BBG00NK8G7P9",
+    "isin": "US69012T2069"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US69012T2069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "41ON.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "41ON.MU"
+    }
+  ],
+  "name": "OUTLOOK THERAPEUT. DL-,01",
+  "primary_symbol": "41ON.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "OUTLOOK THERAPEUTICS, INC. is a biopharmaceutical company focused on developing and commercializing therapies for ophthalmic diseases. The company's lead product candidate is ONS-5010, an investigational ophthalmic formulation of bevacizumab for the treatment of wet age-related macular degeneration (wet AMD). Its headquarters are located in Cranbury, New Jersey."
+}

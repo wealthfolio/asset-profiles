@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00FBFY4J4",
+    "figi": "BBG00FBFY4Q6",
+    "isin": "CA35905B1076"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA35905B1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3PY3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FECCF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3PY3.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "FEC.TO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FECN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FRONTERA ENERGY CORP.",
+  "primary_symbol": "3PY3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Frontera Energy Corporation is a Canadian oil and gas exploration and production company. The company is focused on exploration, development, production, transportation, storage and commercialization of oil and natural gas in South America. Frontera Energy is headquartered in Toronto, Canada.",
+  "website": "http://www.fronteraenergy.ca"
+}

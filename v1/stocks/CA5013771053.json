@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00WYGZZ82",
+    "figi": "BBG00WYGZZG3",
+    "isin": "CA5013771053"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA5013771053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1QV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1QV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KCCFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1QV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA5013771053.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "KC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Kutcho Copper Corp.",
+  "primary_symbol": "1QV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Kutcho Copper Corp., a resource development company, focuses on expanding and developing the Kutcho copper-zinc-gold-silver project (Kutcho Project). Its Kutcho project consists of 1 mining lease and 55 mineral exploration claims covering an area of 24,233 hectares located in northern British Columbia. The company was formerly known as Desert Star Resources Ltd. and changed its name to Kutcho Copper Corp. in December 2017. Kutcho Copper Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://kutcho.ca"
+}

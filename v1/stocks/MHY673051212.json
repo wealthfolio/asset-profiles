@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "isin": "MHY673051212"
+  },
+  "industry_group": "Transportation",
+  "isin": "MHY673051212",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DS2U.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MHY673051212.SG"
+    }
+  ],
+  "name": "PERFORMANCE SHIPP. NEW",
+  "primary_symbol": "DS2U.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "PERFORMANCE SHIPPING INC is a global shipping company that owns and operates a fleet of containerships. Headquartered in Athens, Greece, the company provides seaborne transportation services to container shipping companies worldwide. Their business model focuses on securing time charter agreements for their vessels, generating revenue from the daily hire rates."
+}

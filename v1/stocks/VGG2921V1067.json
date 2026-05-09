@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "VGG2921V1067"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "VGG2921V1067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WWY1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WWY1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WWY1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "E-COMMODITIES HOLDINGS",
+  "primary_symbol": "WWY1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "E-COMMODITIES HOLDINGS is a holding company in the commodities industry. The company likely has investments in various businesses related to commodity trading, processing, and distribution. They focus on e-commerce for commodities.",
+  "website": "http://www.e-comm.com/tc/home.aspx"
+}

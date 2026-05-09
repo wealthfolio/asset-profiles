@@ -1,0 +1,71 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000077919"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "FR0000077919",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MGO.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DECN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JCDXF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DCS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DCS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DCS.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "DEC.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "JCDecaux SA",
+  "primary_symbol": "0MGO.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "JCDecaux SA engages in the outdoor advertising activities worldwide. The company operates through three segments: Street Furniture, Transport, and Billboard. The Street Furniture segment is involved in advertising in shopping malls; renting of street furniture; selling and renting of equipment; and the provision of cleaning, maintenance, and other activities. The Transport segment provides advertising services in public transport systems, such as airports, subways, buses, tramways, and trains. The Billboard segment is involved in advertising on private property, including traditional large format or back-light billboards; and the provision of neon-light billboards and advertising wraps. The company was founded in 1964 and is based in Neuilly-sur-Seine, France. JCDecaux SA is a subsidiary of JCDecaux Holding SAS.",
+  "website": "http://www.jcdecaux.com"
+}

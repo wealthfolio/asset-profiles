@@ -1,0 +1,62 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "743312100",
+    "isin": "US7433121008"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US7433121008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGR.CR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRGS"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "PGR.BA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PGR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PGR.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PGR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PGR.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PROAGRO, C.A.",
+  "primary_symbol": "PGR.CR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Progress Software Corporation develops business applications. The company operates through three segments: OpenEdge, Data Connectivity and Integration, and Application Development and Deployment. The OpenEdge segment offers Progress OpenEdge, a development software, which builds multi-language applications for secure deployment across various platforms and devices, as well as cloud; Progress Corticon, a business rules management system that enables applications with decision automation and change process, and decision-related insight capabilities; Progress Kinvey, a platform for building enterprise applications; MOVEit that provides secure collaboration and automated file transfers of critical business information; and WhatsUp Gold, a network monitoring solution. The Data Connectivity and Integration segment provides Progress DataDirect Connect, which offers data connectivity using industry-standard interfaces to connect applications running on various platforms; and Progress DataDirect Hybrid Data Pipeline, a data access service that provides cloud and on-premises data sources for hybrid cloud applications, such as customer resource management, data management platforms, or hosted analytics. The Application Development and Deployment segment offers Developer Tools, a set of components for user interface development; and Sitefinity, a web content management and customer analytics platform. The company also provides project management, implementation, custom development, programming, and other services, as well as services to web-enable applications; and training services. It sells its products to end users, independent software vendors, original equipment manufacturers, and system integrators. The company has operations in North America, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. Progress Software Corporation was founded in 1981 and is headquartered in Bedford, Massachusetts.",
+  "website": "http://www.progress.com"
+}

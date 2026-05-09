@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA5504353098"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA5504353098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LPKGF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "LPK.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LQP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LQP.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Lupaka Gold Corp.",
+  "primary_symbol": "LPKGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lupaka Gold Corp. engages in the acquisition, exploration, and development of mineral resource properties. The company was formerly known as Kcrok Enterprises Ltd. and changed its name to Lupaka Gold Corp. in May 2010. Lupaka Gold Corp. was incorporated in 2000 and is headquartered in North Vancouver, Canada.",
+  "website": "http://www.lupakagold.com"
+}

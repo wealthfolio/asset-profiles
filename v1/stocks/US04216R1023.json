@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BD7CF8",
+    "cusip": "04216R102",
+    "figi": "BBG000BD7D75",
+    "isin": "US04216R1023"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US04216R1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARMP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TG1N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TG1N.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Armata Pharmaceuticals Inc.",
+  "primary_symbol": "ARMP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Armata Pharmaceuticals Inc., a clinical-stage biotechnology company, focuses on the development of targeted bacteriophage therapeutics for the treatment of antibiotic-resistant infections worldwide. It develops its products using its proprietary bacteriophage-based technology. The company's product candidates include AP-SA02 for the treatment of Staphylococcus aureus bacteremia; AP-PA02 for the treatment of Pseudomonas aeruginosa; and AP-PA03 for the treatment of pneumonia. It has a partnership agreement with Merck & Co. for developing proprietary synthetic phage candidates to target undisclosed infectious disease agents. The company is headquartered in Marina del Rey, California.",
+  "website": "http://www.armatapharma.com"
+}

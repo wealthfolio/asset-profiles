@@ -1,0 +1,33 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00ZYVMKN2",
+    "figi": "BBG00ZYVMKP0",
+    "isin": "SE0015671995"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "SE0015671995",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "HEM.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Hemnet Group AB (publ)",
+  "primary_symbol": "HEM.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Hemnet Group AB (publ) operates a property platform in Sweden. Its real estate marketplace allows real estate agents, home buyers, home sellers, property developers, and other busines partners to make property transactions. The company was founded in 1998 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.hemnetgroup.se"
+}

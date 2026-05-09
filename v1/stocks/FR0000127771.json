@@ -1,0 +1,63 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R8KKR6",
+    "figi": "BBG000R8KL76",
+    "isin": "FR0000127771"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "FR0000127771",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIV.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVU.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVU.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVU.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000127771.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VVU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VVU.SG"
+    }
+  ],
+  "name": "VIVENDI",
+  "primary_symbol": "VIV.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "VIVENDI is a global media, content and communications group. The company operates in several divisions including Canal+ Group, Havas, and Lagardère, producing and distributing audiovisual content, providing communication services and operating publishing activities. Vivendi is headquartered in Paris, France."
+}

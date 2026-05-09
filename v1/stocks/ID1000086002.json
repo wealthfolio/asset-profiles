@@ -1,0 +1,53 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000BXW6J5",
+    "figi": "BBG000BXW8N6",
+    "isin": "ID1000086002"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "ID1000086002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GH8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GH8.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GH8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GH8.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "GJTL.JK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PT GAJAH TUNG.  RP 500",
+  "primary_symbol": "GH8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PT. Gajah Tunggal Tbk produces and distributes tires for passenger cars, SUVs, commercial vehicles, off-the-road vehicles, industrial vehicles, and motorcycles. It also manufactures and sells other rubber related products, such as synthetic rubber, tire cords, inner tube, flap, o-ring, and other products, as well as nylon filament yarn, polyester chips as raw materials for nylon cord, and fishing net yarn. In addition, the company engages in general trading activities. It markets its products in Indonesia, the United States, Asia, Europe, the Middle East, Africa, Australia, and Oceania. The company was founded in 1951 and is headquartered in Jakarta, Indonesia.",
+  "website": "http://www.gt-tires.com"
+}

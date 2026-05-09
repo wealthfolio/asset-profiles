@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WS6RZ53",
+    "figi": "BBG00WS6RZ71",
+    "isin": "SE0009155518"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "SE0009155518",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GW3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GW3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0009155518.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GAPWAVES AB  CLASS B O.N.",
+  "primary_symbol": "GW3.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Gapwaves AB (publ) provides wireless communication products. It offers antennas for base stations, microwave radios, automotive radars, and space communications, as well as flange adapters. The company was founded in 2011 and is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.gapwaves.com"
+}

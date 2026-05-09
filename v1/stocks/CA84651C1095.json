@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00M1BHNR7",
+    "figi": "BBG00M1BHNY9",
+    "isin": "CA84651C1095"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "CA84651C1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S12.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKPGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S12.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "SPG.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SPARK POWER GROUP A",
+  "primary_symbol": "S12.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Spark Power Group Inc. is a Canadian company that provides end-to-end electrical contracting, operations, and maintenance services to the industrial, commercial, and utility markets. The company offers services such as high voltage services, substation maintenance, and renewable energy solutions. Spark Power Group is headquartered in Oakville, Ontario.",
+  "website": "http://sparkpowercorp.com"
+}

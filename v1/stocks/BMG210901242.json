@@ -1,0 +1,63 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000HJC390",
+    "figi": "BBG000HJD9W0",
+    "isin": "BMG210901242"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "BMG210901242",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CUBB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CUBB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWAFF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0855.HK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CUBB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CUBB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CUBB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHINA WAT.AFF.GRP NEW",
+  "primary_symbol": "CUBB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "China Water Affairs Group Limited is an investment holding company engaged in water supply and wastewater treatment businesses in China. The company constructs, operates, and manages water treatment facilities and provides related services to residential, commercial, and industrial customers. The company is headquartered in Hong Kong.",
+  "website": "http://www.chinawatergroup.com"
+}

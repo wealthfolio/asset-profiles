@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB00B15KY211"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "GB00B15KY211",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NICK"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "1694.KL"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "NICK.JK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nicholas Financial, Inc.",
+  "primary_symbol": "NICK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Nicholas Financial, Inc. operates as a consumer finance company in the United States. The company engages in acquiring and servicing automobile finance installment contracts for the purchase of new and used automobiles and light trucks. It also originates direct consumer loans and sells consumer-finance related products. As of March 31, 2020, the company operated 43 branch offices located in Florida, Georgia, Ohio, Illinois, Indiana, Kentucky, Missouri, North Carolina, Alabama, South Carolina, Tennessee, Michigan, Kansas, Pennsylvania, and Wisconsin. Nicholas Financial, Inc. was founded in 1985 and is headquartered in Clearwater, Florida.",
+  "website": "http://www.nicholasfinancial.com"
+}

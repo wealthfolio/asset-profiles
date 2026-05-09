@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BCWWV0",
+    "cusip": "199333105",
+    "isin": "US1993331057"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US1993331057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US1993331057.SG"
+    }
+  ],
+  "name": "COLUMBUS MCKINNON CORP/NY",
+  "primary_symbol": "US1993331057.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "COLUMBUS MCKINNON CORP/NY designs, manufactures, and markets material handling products, systems, and services. These include hoists, cranes, actuators, and rigging tools, used in a variety of industries worldwide. The company is headquartered in Getzville, New York."
+}

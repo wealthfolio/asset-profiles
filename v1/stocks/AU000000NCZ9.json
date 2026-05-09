@@ -1,0 +1,68 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00HC5DDC1",
+    "figi": "BBG00HC5DDL1",
+    "isin": "AU000000NCZ9"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Materials",
+  "isin": "AU000000NCZ9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L9T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L9T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCZ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "L9T.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L9T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "L9T.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NCZ.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NCZ.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NEW CENTURY RES",
+  "primary_symbol": "L9T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NEW CENTURY RES is a resource development and investment company. The company focuses on acquiring, developing and operating resource projects. New Century Resources is headquartered in Melbourne, Australia.",
+  "website": "http://www.chemi-con.co.jp"
+}

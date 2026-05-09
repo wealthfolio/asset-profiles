@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F5DRF1",
+    "cusip": "20451N101",
+    "figi": "BBG000F5DV71",
+    "isin": "US20451N1019"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US20451N1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CM8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMP"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CM8.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CM8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CM8.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CMP.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COMPASS MINER.INTL DL-,01",
+  "primary_symbol": "CM8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Compass Minerals International, Inc. produces and markets essential minerals, including salt, plant nutrition, and magnesium chloride. The company operates in the U.S., Canada, Brazil and the U.K., serving customers in diverse industries. Compass Minerals is headquartered in Overland Park, Kansas.",
+  "website": "http://www.compassminerals.com"
+}

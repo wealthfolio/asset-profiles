@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA55069Q1046"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA55069Q1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUXFF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "LUXX.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Luxxfolio Holdings Inc.",
+  "primary_symbol": "LUXFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Luxxfolio Holdings Inc., a financial technology company, engages in developing a blockchain enabled authentication platform to verify, insure, and protect luxury goods in Canada. The company offers Luxxfolio, a cloud-based platform that offers access to financial products and services, such as credit cards, lines of credit, loans, insurance, and mortgage for a house. Luxxfolio Holdings Inc. was incorporated in 2017 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.luxxfolio.com"
+}

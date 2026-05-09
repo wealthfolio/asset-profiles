@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JL72R1",
+    "cusip": "955306105",
+    "figi": "BBG000JL76Q3",
+    "isin": "US9553061055"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US9553061055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "WPS.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WPS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WPS.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "WEST PHARM.SVCS  DL-,25",
+  "primary_symbol": "WPS.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "West Pharmaceutical Services, Inc. is a leading manufacturer of packaging components and delivery systems for injectable drugs and healthcare products. The company partners with pharmaceutical, biotech, and generic drug companies to improve patient health. West Pharmaceutical Services is headquartered in Exton, Pennsylvania.",
+  "website": "http://www.westpharma.com"
+}

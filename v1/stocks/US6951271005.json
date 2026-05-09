@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001HTR0X9",
+    "cusip": "695127100",
+    "figi": "BBG001HTR130",
+    "isin": "US6951271005"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6951271005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "82P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "82P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "82P.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PACIRA BIOSCIENC. DL-,001",
+  "primary_symbol": "82P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pacira BioSciences, Inc. is a pharmaceutical company focused on developing and commercializing non-opioid pain management and regenerative health solutions. Their primary product is EXPAREL, a long-acting local analgesic. The company is headquartered in San Diego, California, USA.",
+  "website": "http://www.pacira.com"
+}

@@ -1,0 +1,21 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "FATN11.SA"
+    }
+  ],
+  "name": "Fundo De Investimento Imobiliario Athena I",
+  "primary_symbol": "FATN11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

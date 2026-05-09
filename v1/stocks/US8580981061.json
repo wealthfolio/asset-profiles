@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "858098106",
+    "isin": "US8580981061"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US8580981061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGOB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGOB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STCN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CGOB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CGOB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CGOB.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STEEL CONNECT INC. DL-,01",
+  "primary_symbol": "CGOB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Steel Connect, Inc. is a diversified holding company with two segments: Supply Chain Management and Direct Marketing. The Supply Chain Management segment provides services for managing and distributing technology products, while the Direct Marketing segment sells products through direct mail and online channels. The company is headquartered in Melville, New York.",
+  "website": "http://www.steelconnectinc.com"
+}

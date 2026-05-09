@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRE"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Duke Realty Corporation",
+  "primary_symbol": "DRE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Duke Realty Corporation owns and operates approximately 159 million rentable square feet of industrial assets in 20 major logistics markets. Duke Realty Corporation is publicly traded on the NYSE under the symbol DRE and is a member of the S&P 500 Index.",
+  "website": "http://www.dukerealty.com"
+}

@@ -1,0 +1,76 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000BC3Q45",
+    "figi": "BBG000BC3S96",
+    "isin": "AU000000SHL7"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "AU000000SHL7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHL.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHL1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHL1.MU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SAB.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SAB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SAB.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SONIC HEALTHCARE",
+  "primary_symbol": "SAB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SONIC HEALTHCARE is a medical diagnostics company, providing pathology and radiology services to medical practitioners, hospitals, and community health services. Sonic Healthcare operates laboratories and imaging centers in Australia, Europe, and North America. The company is headquartered in Sydney, Australia."
+}

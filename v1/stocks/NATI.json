@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NATI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "National Instruments Corporation",
+  "primary_symbol": "NATI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "National Instruments Corporation provides a software-centric platform and systems to engineers and scientists worldwide. Its programming environments software includes NI LabVIEW, a graphical software platform to visualize hardware configuration, measurement data, and debugging of application; NI LabWindows/CVI, an ANSI C integrated development environment and engineering toolbox; and NI Measurement Studio, a suite of .NET tools for building engineering applications in Microsoft Visual Studio. The company's application software comprises NI TestStand that is used for automated test and measurement applications in a manufacturing environment; NI VeriStand, a software environment for configuring real-time testing applications; Flexlogger for sensor configuration and data logging of mixed signals to verify electromechanical systems; and NI InsightCM Enterprise, a software solution for monitoring ancillary rotating equipment. Its systems and data management software include NI DIAdem, which is configuration-based technical data management, analysis, and report generation tools to mine and analyze engineering and measurement data; and NI SystemLink, a systems management software that enables the mass coordination of connected devices, software deployments, and data communications throughout a distributed system. The company also offers PXI hardware form factor that combines PC software and PCI hardware with advanced instrumentation capabilities; NI C-series data acquisition and control products; and NI semiconductor test systems, as well as software and hardware maintenance, and training and certification services. It serves semiconductor, transportation, aerospace, and defense industries; and government agencies. National Instruments Corporation has a strategic agreement with Konrad Technologies, Inc. to develop test systems and solutions for autonomous driving software and hardware validation. The company was founded in 1976 and is headquartered in Austin, Texas.",
+  "website": "http://www.ni.com"
+}

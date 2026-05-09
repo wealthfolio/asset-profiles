@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001J2N4H0",
+    "cusip": "34962G109",
+    "figi": "BBG00G6DXL97",
+    "isin": "US34962G1094"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US34962G1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FBRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US34962G1094.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Forte Biosciences, Inc.",
+  "primary_symbol": "FBRX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Forte Biosciences Inc. operates as a clinical-stage biopharmaceutical company in the United States. It is developing a live biotherapeutic FB-401 that has completed Phase 1/2a clinical trial to treat inflammatory skin diseases for pediatric atopic dermatitis patients. The company was incorporated in 2007 and is based in Torrance, California.",
+  "website": "http://www.fortebiorx.com/home/default.aspx"
+}

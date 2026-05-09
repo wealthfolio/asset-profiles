@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA5635081006"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA5635081006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNTUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M5A.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MTU.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "MTU.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Manitou Gold Inc.",
+  "primary_symbol": "MNTUF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Manitou Gold Inc. acquires, explores for, and develops mineral property interests located in the Gold Rock District of Northwestern Ontario and in the Goudreau-Localsh area of Northern Ontario, Canada. The company explores for gold properties. Its principal mineral assets include a 100% interest in the Kenwest property that holds 32 patented mining claims and 10 mining licenses of occupation covering 599 hectares located in the Boyer Lake area; and the Goudreau property covering 22,500 hectares located in north of Wawa, Ontario. Manitou Gold Inc. is headquartered in Toronto, Canada.",
+  "website": "http://www.manitougold.com"
+}

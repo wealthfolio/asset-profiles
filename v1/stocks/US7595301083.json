@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CHLYD6",
+    "cusip": "759530108",
+    "figi": "BBG000CHM1S1",
+    "isin": "US7595301083"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US7595301083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RDED.BE"
+    }
+  ],
+  "name": "RELX ADR/1/4  LS-,144397",
+  "primary_symbol": "RDED.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "This appears to be an ADR (American Depositary Receipt) for RELX PLC, a global provider of information and analytics for professional and business customers. RELX offers services in science, medical, legal, risk management, and business sectors, delivering information and tools to help customers make better decisions and improve productivity. The company has headquarters in London and Amsterdam."
+}

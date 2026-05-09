@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CW6LV8",
+    "cusip": "23254L603",
+    "figi": "BBG000CW6QC8",
+    "isin": "US23254L6039"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US23254L6039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UXI4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UXI4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US23254L6039.SG"
+    }
+  ],
+  "name": "CYCLACEL PHARM.  DL-,001",
+  "primary_symbol": "UXI4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Cyclacel Pharmaceuticals, Inc. is a biopharmaceutical company developing cancer medicines. The company is focused on discovering and developing treatments based on its proprietary cyclin-dependent kinase (CDK) inhibition technology. Cyclacel Pharmaceuticals is headquartered in Berkeley Heights, New Jersey."
+}

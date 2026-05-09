@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QXTHJ9",
+    "cusip": "58463J304",
+    "figi": "BBG000QXTP74",
+    "isin": "US58463J3041"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US58463J3041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M3P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M3P.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M3P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M3P.SG"
+    }
+  ],
+  "name": "MEDICAL PROPERTIES TR.",
+  "primary_symbol": "M3P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Medical Properties Trust, Inc. is a self-advised real estate investment trust formed to capitalize in hospital facilities. It finances healthcare facilities including acute care hospitals, rehabilitation hospitals, and other facilities. The company is headquartered in Birmingham, Alabama."
+}

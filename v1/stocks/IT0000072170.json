@@ -1,0 +1,71 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0000072170"
+  },
+  "industry": "Banks",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0000072170",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QVF.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCBBF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZS3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZS3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "FBK.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FBK.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZS3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZS3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZS3.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "FINECOBANK BANCA FINECO SPA FIN",
+  "primary_symbol": "0QVF.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "FinecoBank Banca Fineco S.p.A. is an Italian online bank offering a range of financial services, including banking, trading, investment, and insurance products. The bank provides a digital platform for customers to manage their finances, access investment opportunities, and trade in financial markets. FinecoBank is headquartered in Milan, Italy.",
+  "website": "http://finecobank.com"
+}

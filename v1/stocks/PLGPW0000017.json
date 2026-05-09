@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00WGGND48",
+    "figi": "BBG00WGGNDB0",
+    "isin": "PLGPW0000017"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "PLGPW0000017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSX.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLGPW0000017.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WSX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WSX.F"
+    }
+  ],
+  "name": "WARSAW STOCK EXCH.  ZY1",
+  "primary_symbol": "WSX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Warsaw Stock Exchange (GPW) is a stock exchange located in Warsaw, Poland. It organizes, facilitates, and supervises trading in financial instruments, including stocks, bonds, and derivatives. GPW also provides listing services for companies seeking to raise capital."
+}

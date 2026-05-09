@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GTZ6Y9",
+    "cusip": "679580100",
+    "figi": "BBG000GTZC21",
+    "isin": "US6795801009"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "US6795801009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ODF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ODF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ODFL"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "O1DF34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ODF.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ODF.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ODF.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ODFL.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "OLD DOMIN.FR.LINE  DL-,10",
+  "primary_symbol": "ODF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Old Dominion Freight Line, Inc. is a leading less-than-truckload (LTL) carrier providing regional, inter-regional and national LTL services. The company also offers ground and air expedited transportation, supply chain consulting, and truckload brokerage services. It is headquartered in Thomasville, North Carolina.",
+  "website": "http://www.odfl.com"
+}

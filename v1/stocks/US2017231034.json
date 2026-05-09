@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BFSND8",
+    "cusip": "201723103",
+    "figi": "BBG000BFSPW2",
+    "isin": "US2017231034"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US2017231034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CMS.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CMS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CMS.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Commercial Metals Company",
+  "primary_symbol": "CMC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Commercial Metals Company manufactures, recycles, and fabricates steel and metal products, and related materials and services in the United States, Poland, China, Germany, and internationally. The company processes and sells ferrous and nonferrous scrap metals to steel mills and foundries, aluminum sheet and ingot manufacturers, brass and bronze ingot makers, copper refineries and mills, secondary lead smelters, specialty steel mills, high temperature alloy manufacturers, and other consumers. It also manufactures and sells finished long steel products, including rebar, merchant bar, light structural, and other special sections, as well as semi-finished billets for re-rolling and forging applications. In addition, the company provides fabricated steel products used to reinforce concrete primarily in the construction of commercial and non-commercial buildings, hospitals, convention centers, industrial plants, power plants, highways, bridges, arenas, stadiums, and dams; sells and rents construction-related products and equipment to concrete installers and other businesses; and manufactures and sells strength bars for the truck trailer industry, special bar steels for the energy market, and armor plates for military vehicles. Further, it manufactures rebars, merchant bars, and wire rods; and sells fabricated rebars, wire meshes, fabricated meshes, assembled rebar cages, and other fabricated rebar by-products to fabricators, manufacturers, distributors, and construction companies. The company was founded in 1915 and is headquartered in Irving, Texas.",
+  "website": "http://www.cmc.com"
+}

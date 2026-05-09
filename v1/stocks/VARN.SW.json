@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "VARN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Varia US Properties AG",
+  "primary_symbol": "VARN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Varia US Properties AG, a real estate investment company, acquires, holds, and sells properties in the United States. The company invests in low-moderate income and workforce multifamily housing properties. Varia US Properties AG was founded in 2015 and is based in Zug, Switzerland.",
+  "website": "http://variausproperties.com"
+}

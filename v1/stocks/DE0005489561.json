@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BMP0M6",
+    "figi": "BBG000BMP3Q6",
+    "isin": "DE0005489561"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "DE0005489561",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULC.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ULC.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ULC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ULC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ULC.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "UNITED LABELS O.N.",
+  "primary_symbol": "ULC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "United Labels AG designs, produces, and distributes licensed textiles and toys. They offer a variety of products featuring popular characters and brands. The company's headquarters are located in Muenster, Germany.",
+  "website": "http://www.unitedlabels.com"
+}

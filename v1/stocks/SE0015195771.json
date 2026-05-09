@@ -1,0 +1,53 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YHKWXK2",
+    "figi": "BBG00YHKWXR5",
+    "isin": "SE0015195771"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "SE0015195771",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "83A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "83A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "83A.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "FG.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FGS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FASADGRUPPEN GROUP AB",
+  "primary_symbol": "83A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fasadgruppen Group AB is a Swedish company that provides facade services for buildings. Their services include facade renovations, new builds, and maintenance for both residential and commercial properties. The company is headquartered in Stockholm, Sweden.",
+  "website": "http://fasadgruppen.se"
+}

@@ -1,0 +1,24 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "BBFO11.SA"
+    }
+  ],
+  "name": "BB Fundos De Fundos - Fundo De Investimento Imobiliario",
+  "primary_symbol": "BBFO11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "BB Fundos De Fundos - Fundo De Investimento Imobiliario is a Brazilian real estate investment fund (FII) that invests in other FIIs. Its objective is to generate income through investments in a diversified portfolio of real estate funds."
+}

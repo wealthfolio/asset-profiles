@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BS7GS2",
+    "cusip": "649445103",
+    "figi": "BBG000BS7NG0",
+    "isin": "US6494451031"
+  },
+  "isin": "US6494451031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QC1.BE"
+    }
+  ],
+  "name": "NY COM.BANC.  DL-,01",
+  "primary_symbol": "QC1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

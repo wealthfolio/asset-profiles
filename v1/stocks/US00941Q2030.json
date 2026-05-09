@@ -1,0 +1,39 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000BJ8QD5",
+    "cusip": "00941Q203",
+    "figi": "BBG000BJ8VV4",
+    "isin": "US00941Q2030"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US00941Q2030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANTE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4ARB.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AirNet Technology Inc.",
+  "primary_symbol": "ANTE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "AirNet Technology Inc. operates out-of-home advertising platforms in the People's Republic of China. The company operates a network of digital (television) TV screens on planes operated by 7 airlines; and gas station media network, as well as other outdoor media advertising platforms in gas stations. It also displays non-advertising content, such as weather, sports, comedy clips, local attractions, documentaries, commentaries, and reality shows. In addition, the company holds concession rights to install and operate Wi-Fi systems on railway administration bureaus, long-haul buses, and airlines; and operates advertising platforms, such as light boxes, billboards, and LED screens. Further, it operates CIBN-AirMedia channel to broadcast network TV programs to air travelers. The company was formerly known as AirMedia Group Inc. AirNet Technology Inc. was founded in 2005 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://www.airmedia.net.cn"
+}

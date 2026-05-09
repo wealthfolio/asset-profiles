@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GNZGQ9",
+    "cusip": "832696405",
+    "figi": "BBG000GNZKQ0",
+    "isin": "US8326964058"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US8326964058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JM2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JM2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L7F.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "JM2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JM2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JM2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JM2.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "S1JM34.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SMUCKER -J.M.-",
+  "primary_symbol": "JM2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "The J.M. Smucker Company manufactures and markets branded food and beverage products worldwide, including coffee, pet food, peanut butter, fruit spreads, and baking mixes. Their portfolio features iconic brands like Smucker's, Folgers, Jif, and Milk-Bone, catering to both consumers and pet owners. Headquartered in Orrville, Ohio, the company distributes its products through various retail channels, including supermarkets, mass merchandisers, and specialty stores.",
+  "website": "http://www.jmsmucker.com"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "cusip": "03635R206",
+    "isin": "US03635R2067"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03635R2067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANPC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0UC.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AnPac Bio-Medical Science Co., Ltd.",
+  "primary_symbol": "ANPC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Anpac Bio-Medical Science Co., Ltd., a development-stage biotechnology company, researches, develops, markets, and sells multi-cancer screening and detection tests to corporations and life insurance companies in the People's Republic of China and the United States. It also manufactures cancer differentiation analysis devices; and offers physical checkup package services. The company was founded in 2010 and is headquartered in Lishui, the People's Republic of China.",
+  "website": "http://www.anpacbio.com"
+}

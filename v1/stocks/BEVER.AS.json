@@ -1,0 +1,27 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "BEVER.AS"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Bever Holding NV",
+  "primary_symbol": "BEVER.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Bever Holding NV operates as a real estate company in the Netherlands. It primarily engages in the real estate development activity. The company also invests in, acquires, and leases real estate properties. Bever Holding NV was founded in 1975 and is based in Wassenaar, the Netherlands.",
+  "website": "http://www.beverholding.nl"
+}

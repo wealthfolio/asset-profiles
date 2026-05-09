@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "88032L209",
+    "isin": "US88032L2097"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US88032L2097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YBOC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YBOC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YBOC.SG"
+    }
+  ],
+  "name": "TENAX THERAPEUTICS DL-,01",
+  "primary_symbol": "YBOC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TENAX THERAPEUTICS DL-,01 is a specialty pharmaceutical company focused on developing and commercializing products for cardiovascular and pulmonary diseases. The company is focused on developing therapies for unmet medical needs in the critical care setting. Tenax Therapeutics is headquartered in Morrisville, North Carolina."
+}

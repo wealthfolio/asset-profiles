@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00GM2G8V6",
+    "figi": "BBG00GM2G917",
+    "isin": "DE000A0LA304"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE000A0LA304",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TBX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TBX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TBX.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TBX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TBX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TBX.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TICK TRADING SOFTW.INH.ON",
+  "primary_symbol": "TBX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TICK TRADING SOFTW.INH.ON is a German software company specializing in providing trading solutions for financial institutions. The company develops and supports trading platforms, market data systems, and related software. Tick Trading Software AG is headquartered in Düsseldorf, Germany.",
+  "website": "http://www.tick-ts.de"
+}

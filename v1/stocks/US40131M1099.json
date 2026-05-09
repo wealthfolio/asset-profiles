@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Y79H2R6",
+    "cusip": "40131M109",
+    "figi": "BBG00Y79H2Y8",
+    "isin": "US40131M1099"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US40131M1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5GH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5GH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "5GH.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5GH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5GH.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "GH.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US40131M1099.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "GUARDANT HEALTH CL. A",
+  "primary_symbol": "5GH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Guardant Health, Inc. is a precision oncology company focused on developing blood tests for cancer detection and management. Based in Redwood City, California, Guardant Health offers liquid biopsy tests that analyze circulating tumor DNA to identify cancer biomarkers and guide treatment decisions. The company's products support personalized cancer care for patients and healthcare providers.",
+  "website": "http://guardanthealth.com"
+}

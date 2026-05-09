@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG003NZPQQ7",
+    "figi": "BBG003NZPQX9",
+    "isin": "CA57520W1005"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA57520W1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M01.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M01.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGPHF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "LLG.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M01.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M01.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "M01.SI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Mason Graphite Inc.",
+  "primary_symbol": "M01.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mason Graphite Inc., a mining and processing company, engages in the acquisition, exploration, evaluation, and development of mineral properties in Canada. It primarily owns a 100% interest in the Lac Gu√É¬©ret graphite property, which consists of 215 claims covering an area of 11,630 hectares located in northeastern Quebec. The company was incorporated in 2011 and is headquartered in Laval, Canada.",
+  "website": "http://www.masongraphite.com"
+}

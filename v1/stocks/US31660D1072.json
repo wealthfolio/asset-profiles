@@ -1,0 +1,52 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "cusip": "31660D107",
+    "isin": "US31660D1072"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US31660D1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLMNY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "FIE.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FIE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FIE.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FIE1.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Fielmann Aktiengesellschaft",
+  "primary_symbol": "FLMNY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Fielmann Aktiengesellschaft engages in the investment in and operation of optical and hearing aid businesses. The company manufactures and sells visual aids and other optical products, including glasses, frames, lenses, sunglasses, contact lenses and accessories, and various merchandise, as well as hearing aids and accessories. As of December 31, 2020, it operated 870 stores, including 605 in Germany, 43 in Switzerland, 38 Austria, 3 in Luxembourg, 33 in Italy, 25 in Poland, 80 in Spain, 28 in Slovenia, and 15 in the rest of Europe. The company also 79 smaller locations in Eastern Europe. Fielmann Aktiengesellschaft also offers its products through online stores. The company was founded in 1972 and is headquartered in Hamburg, Germany. Fielmann Aktiengesellschaft is a subsidiary of Korva SE.",
+  "website": "http://www.fielmann.eu"
+}

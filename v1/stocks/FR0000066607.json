@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00ZL6WSQ0",
+    "figi": "BBG00ZL6WSS8",
+    "isin": "FR0000066607"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0000066607",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "51M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "LACR.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LACROIX Group SA",
+  "primary_symbol": "51M.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LACROIX Group SA develops, industrializes, produces, and integrates electronic assemblies and subassemblies for the automobile, aeronautics, home automation, industrial, and health sectors in France, Germany, Poland, Italy, Spain, and Tunisia. It also designs and produces equipment to guide, optimize, and secure the flow of vehicles and people in the areas of road signage, traffic management and regulation, public lighting, and V2X; and equipment to remotely control, automate, and manage water and energy infrastructure. The company was founded in 1936 and is headquartered in Saint-Herblain, France.",
+  "website": "http://www.lacroix-group.com"
+}

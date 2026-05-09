@@ -1,0 +1,53 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000TZGD04",
+    "figi": "BBG000TZGGS7",
+    "isin": "CNE1000007Z2"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CNE1000007Z2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRWOF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CNO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNO.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CHINA RAILWAY GRP  H YC 1",
+  "primary_symbol": "CNO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "CHINA RAILWAY GRP H YC 1 is China Railway Group Ltd. traded on the Berne exchange. China Railway Group Ltd. is a construction engineering company engaged in infrastructure construction, including railways, highways, and bridges. The company operates primarily in China.",
+  "website": "http://www.crec.cn"
+}

@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CYCL56",
+    "cusip": "313400301",
+    "figi": "BBG000CYCPX6",
+    "isin": "US3134003017"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US3134003017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FHL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FHL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FHL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FHL.SG"
+    }
+  ],
+  "name": "FED. HOME LN MTGE O.N.",
+  "primary_symbol": "FHL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Federal Home Loan Mortgage Corporation (Freddie Mac) is a government-sponsored enterprise that buys mortgages on the secondary market, pools them, and sells them as mortgage-backed securities to investors. Its purpose is to increase the supply of funds that mortgage lenders can make available to homebuyers and multi-family investors. The company is based in the United States."
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WHNJWL6",
+    "figi": "BBG00WHNJWR0",
+    "isin": "SE0007045414"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0007045414",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5J3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5J3.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SCIB.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SCIBASE HOLDING AB",
+  "primary_symbol": "5J3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SciBase Holding AB (publ), a medical technology company, develops and sells instruments for the detection of skin cancer and other skin conditions.in Europe and internationally. The company offers Nevisense, a point-of-care detection device for non-visual detection of malignant melanoma. It serves public hospitals and private dermatology clinics. The company has a collaboration agreement with Swiss Institute of Allergy and Asthma Research. The company was founded in 1998 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.scibase.com"
+}

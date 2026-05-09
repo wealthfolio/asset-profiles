@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZNR847",
+    "figi": "BBG00XZNR892",
+    "isin": "NO0010894512"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "NO0010894512",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6Q1.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "CSAM.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010894512.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CSAM HEALTH GROUP  NK 10",
+  "primary_symbol": "6Q1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CSAM HEALTH GROUP NK 10 is a healthcare IT solutions provider. It offers healthcare information systems and related services to hospitals and other healthcare providers. CSAM Health Group is headquartered in Norway.",
+  "website": "http://www.csamhealth.com"
+}

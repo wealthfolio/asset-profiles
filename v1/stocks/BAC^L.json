@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BAC^L"
+    }
+  ],
+  "name": "Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L",
+  "primary_symbol": "BAC^L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bank of America Corporation Non Cumulative Perpetual Conv Pfd Ser L represents a series of preferred stock issued by Bank of America. These preferred shares offer a fixed dividend payment and have a preference over common stock in the event of liquidation. The \"perpetual\" designation means there is no fixed maturity date, and \"convertible\" indicates they may be converted into common stock under certain conditions."
+}

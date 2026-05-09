@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG006Q34LM6",
+    "figi": "BBG006Q34LN5",
+    "isin": "JE00B3KNMS14"
+  },
+  "isin": "JE00B3KNMS14",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "JPEU.AS"
+    }
+  ],
+  "name": "WisdomTree Short JPY Long EUR",
+  "primary_symbol": "JPEU.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000RHK3J3",
+    "figi": "BBG000RHK624",
+    "isin": "JP3460200003"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "JP3460200003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TF2.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4974.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JP3460200003.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TF2.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TAKARA BIO INC.",
+  "primary_symbol": "TF2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TAKARA BIO INC. develops, manufactures, and distributes biomedical reagents and instruments, including PCR-related products, gene transfer technologies, and cell culture media. The company also provides custom services for gene synthesis, protein expression, and cell line development. TAKARA BIO INC. is headquartered in Japan.",
+  "website": "http://www.takara-bio.com"
+}

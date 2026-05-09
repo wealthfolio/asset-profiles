@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CZHTL3",
+    "cusip": "89421Q205",
+    "figi": "BBG000CZJYZ5",
+    "isin": "US89421Q2057"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US89421Q2057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TXM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TXM1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TZOO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TXM1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TXM1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Travelzoo",
+  "primary_symbol": "TXM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Travelzoo, an Internet media company, provides travel, entertainment, and local deals from travel and entertainment companies, and local businesses in the Asia Pacific, Europe, and North America. Its publications and products include Travelzoo Website; Travelzoo iPhone and Android apps; Travelzoo Top 20 email newsletter; and Newsflash email alert service. The company also operates the Travelzoo Network, a network of third-party Websites that list travel deals published by the company; and Local Deals and Getaway listings, which allow its members to purchase vouchers for deals from local businesses, such as spas, hotels, and restaurants. It serves airlines, hotels, cruise lines, vacations packagers, tour operators, destinations, car rental companies, travel agents, theater and performing arts groups, restaurants, spas, and activity companies. Travelzoo Inc. was founded in 1998 and is headquartered in New York, New York.",
+  "website": "http://www.travelzoo.com"
+}

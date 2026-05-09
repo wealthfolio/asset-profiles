@@ -1,0 +1,56 @@
+{
+  "identifiers": {
+    "isin": "DE000HLAG475"
+  },
+  "industry_group": "Transportation",
+  "isin": "DE000HLAG475",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RCG.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLAG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLAG.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLAG.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLAG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HLAG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HLAG.SG"
+    }
+  ],
+  "name": "HAPAG LLOYD AG HAPAG LLOYD ORD",
+  "primary_symbol": "0RCG.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HAPAG LLOYD AG is a German container shipping company. The company operates a fleet of container ships and provides liner shipping services on major trade routes around the world. HAPAG LLOYD AG is headquartered in Hamburg, Germany."
+}

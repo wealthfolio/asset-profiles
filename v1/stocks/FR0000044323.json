@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CKS297",
+    "isin": "FR0000044323"
+  },
+  "isin": "FR0000044323",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000044323.SW"
+    }
+  ],
+  "name": "CA ALPES PROVENCE-CCI",
+  "primary_symbol": "FR0000044323.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

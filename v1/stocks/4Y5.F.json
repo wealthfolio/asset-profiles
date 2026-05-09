@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4Y5.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DBT SA",
+  "primary_symbol": "4Y5.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "DBT SA primarily designs, manufactures, and distributes charging stations for electric vehicles in France. It provides terminals and charging boxes for electric vehicles; terminals and retractable systems for access control and deterrence; energy distribution terminals for public spaces; and measurement transformers for EDF yellow and green tariff metering. The company also exports its products to approximately 30 countries worldwide. The company was founded in 1990 and is based in Brebieres, France.",
+  "website": "http://www.dbt.fr"
+}

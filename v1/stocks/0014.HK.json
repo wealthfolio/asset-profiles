@@ -1,0 +1,27 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0014.HK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Hysan Development Company Limited",
+  "primary_symbol": "0014.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Hysan is a leading property investment, management and development company in Hong Kong, with a portfolio of more than 4 million square feet of high-quality office, retail and residential properties. Operating primarily in the city's prime retail/office district of Causeway Bay, we are focused on delighting our customers and providing investors with outstanding returns.",
+  "website": "http://www.hysan.com.hk"
+}

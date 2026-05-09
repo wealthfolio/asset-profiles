@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R8KLW8",
+    "figi": "BBG000R8KM29",
+    "isin": "NLBNPHK12100"
+  },
+  "industry_group": "Banks",
+  "isin": "NLBNPHK12100",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNP.TI"
+    }
+  ],
+  "name": "BNP PARIBAS",
+  "primary_symbol": "BNP.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BNP Paribas is a French international banking group providing various financial services. These services range from retail and corporate banking to investment solutions. The company operates globally and is headquartered in Paris."
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "161831.SZ"
+    }
+  ],
+  "name": "Yinhua HSCEI Graded QDII",
+  "primary_symbol": "161831.SZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Yinhua HSCEI Graded QDII is a fund that tracks the performance of the Hang Seng China Enterprises Index (HSCEI) and is structured as a graded fund, allowing Chinese investors to invest in Hong Kong equities. As a Qualified Domestic Institutional Investor (QDII), it provides access to overseas markets. It is managed by Yinhua Fund Management Co., Ltd., based in China."
+}

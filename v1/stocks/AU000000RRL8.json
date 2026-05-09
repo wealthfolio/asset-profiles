@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000RRL8"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000RRL8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RGRNF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RKQ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RKQ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RKQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RKQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RKQ.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RRL.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Regis Resources Limited",
+  "primary_symbol": "RGRNF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Regis Resources Limited, together with its subsidiaries, engages in the exploration, evaluation, and development of gold projects in Australia. The company owns 100% interests in the Duketon project located in the North Eastern Goldfields of Western Australia; and the McPhillamys project situated in the Central Western region of New South Wales. Regis Resources Limited was incorporated in 1986 and is headquartered in Perth, Australia.",
+  "website": "http://www.regisresources.com.au"
+}

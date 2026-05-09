@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "ZUGER.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Zuger Kantonalbank",
+  "primary_symbol": "ZUGER.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Zuger Kantonalbank provides various banking products and services to private and corporate clients in Switzerland. It offers private banking products comprising bank accounts in various currencies and card products; personal and rental surety accounts; investment advisory, asset management, and online financial investment services; home financing services, including home financial consulting, mortgage, and home ownership services; and financial planning and tax services. The company also provides corporate banking products and services, such as corporate savings accounts; corporate and real estate financing services; occupational pension schemes; foundation and succession planning services; and corporate cards. In addition, it offers digital services, including e-banking, mobile banking, digital payment options, and online account opening services. The company operates through 14 branches. Zuger Kantonalbank was founded in 1892 and is based in Zug, Switzerland.",
+  "website": "http://www.zugerkb.ch"
+}

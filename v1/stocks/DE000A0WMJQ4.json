@@ -1,0 +1,63 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000BH55D8",
+    "figi": "BBG000BH57V4",
+    "isin": "DE000A0WMJQ4"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE000A0WMJQ4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELN.MU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "ELAND.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ELN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ELN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ELN.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ELN.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ELANIX BIOTECHN.AG",
+  "primary_symbol": "ELN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Elanix Biotechnologies AG is a biotechnology company focused on developing and commercializing innovative therapies for skin and wound healing. The company develops products based on its proprietary human progenitor cell technology. Elanix Biotechnologies AG is headquartered in Switzerland.",
+  "website": "http://www.elanixbiotechnologies.ch"
+}

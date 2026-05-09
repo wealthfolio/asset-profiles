@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000DWHGZ2",
+    "figi": "BBG000DWHLW4",
+    "isin": "CA81732W1041"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA81732W1041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEOVF"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "PSH.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PSH.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PSH.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PSH.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PSH.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SVA.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sernova Corp.",
+  "primary_symbol": "PSH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Sernova Corp., a clinical-stage regenerative medicine therapeutics company, focuses on the development and commercializing of its proprietary Cell Pouch System and associated technologies, including the cell pouch and systemic and/or locally immune protected therapeutic cells and tissues. Its Cell Pouch system is a medical device designed to create a vascularized tissue environment for the transplantation and engraftment of therapeutic cells or tissues for the treatment of chronic diseases, such as diabetes, hemophilia, and hypothyroid disease. The company has a research collaboration with AgeX Therapeutics, Inc. to generate immune-protected universal therapeutic cells. Sernova Corp. was incorporated in 1998 and is headquartered in London, Canada.",
+  "website": "http://www.sernova.com"
+}

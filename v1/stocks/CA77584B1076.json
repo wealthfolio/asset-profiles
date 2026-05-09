@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GFC6ZM3",
+    "figi": "BBG00GFC6ZT6",
+    "isin": "CA77584B1076"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "CA77584B1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QYOUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0QY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0QY.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "QYOU.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "QYOU Media Inc.",
+  "primary_symbol": "0QY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "QYOU Media Inc. engages in producing and distributing content created by social media stars and digital content creators primarily in India and the United States. The company curates, produces, and distributes premium content, including television networks and VOD for cable and satellite television, OTT, and mobile platforms in India. It also manages influencer marketing campaigns for film studios and brands in the United States. The company's millennial and Gen Z-focused content reaches approximately 700 million consumers worldwide. QYOU Media Inc. is headquartered in Toronto, Canada.",
+  "website": "http://www.qyoumedia.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C1KX80",
+    "figi": "BBG000C1KZM9",
+    "isin": "JP3320800000"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3320800000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBW.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2501.T"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SBW.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SBW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SBW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SBW.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SAPPORO HOLDINGS",
+  "primary_symbol": "SBW.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Sapporo Holdings Limited is a Japanese beer brewing company. It also operates restaurants and engages in real estate development. The company is headquartered in Tokyo, Japan.",
+  "website": "http://www.sapporoholdings.jp"
+}

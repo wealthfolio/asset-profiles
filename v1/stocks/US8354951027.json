@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000LDPRZ2",
+    "cusip": "835495102",
+    "figi": "BBG000LDS097",
+    "isin": "US8354951027"
+  },
+  "industry": "Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "US8354951027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SON"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SNS.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SONOCO PROD. CO.",
+  "primary_symbol": "SNS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sonoco Products Company is a global provider of a variety of consumer packaging, industrial products, protective packaging, and display and packaging supply chain services. Headquartered in Hartsville, South Carolina, the company serves a diverse range of industries, including food, beverage, healthcare, and industrial. Sonoco operates manufacturing facilities and sales offices across the world.",
+  "website": "http://www.sonoco.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LKB.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "L-Konzept Holding AG",
+  "primary_symbol": "LKB.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "L-Konzept Holding AG, an investment company, focuses on real estate sector in Germany. It acquires or participates in operating property development and project companies. The company also manages, finances, and controls various projects. L-Konzept Holding AG was founded in 1995 and is based in Leipzig, Germany.",
+  "website": "http://www.l-konzept.ag"
+}

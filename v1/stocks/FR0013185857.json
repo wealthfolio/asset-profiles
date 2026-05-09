@@ -1,0 +1,68 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00F0SGDH0",
+    "figi": "BBG00F0SGDP1",
+    "isin": "FR0013185857"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0013185857",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4A8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4A8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABEO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0H7R.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4A8.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ABEO.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PCJP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PCJP.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ABEO S.A.  EO -,75",
+  "primary_symbol": "4A8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "ABEO S.A. designs, manufactures, and distributes sports and leisure equipment. The company offers a wide range of products, including gymnastic equipment, climbing walls, and lockers. ABEO S.A. is headquartered in Rioz, France.",
+  "website": "http://www.abeonatherapeutics.com"
+}

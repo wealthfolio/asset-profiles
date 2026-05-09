@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BVCKL7",
+    "figi": "BBG000BVCMV2",
+    "isin": "DE000A1K0375"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "DE000A1K0375",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ART.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ART.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARTD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARTZF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ART.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ART.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ART.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ART.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "artnet AG",
+  "primary_symbol": "ART.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "artnet AG, through its subsidiary, Artnet Worldwide Corporation, operates an online resource for the international art market worldwide. It operates through Artnet Galleries, Artnet Price Database, Artnet Auctions, and Artnet News segments. The artnet Galleries segment presents artworks from member galleries and partner auction houses online. This segment represents approximately 1,100 galleries presenting approximately 245,000 artworks by approximately 23,300 artists internationally. The Artnet Price Database segment consists of database-related products, including the Price Database Fine Art and Design and the Price Database Decorative Art; market alerts; and analytics reports. The Artnet Auctions segment provides a platform to buy and sell artworks online. The Artnet News segment offers a platform for the events, trends, and people that shape the art market, as well as provides up-to-the-minute analysis and commentary in cultural journalism. artnet AG was incorporated in 1989 and is headquartered in Berlin, Germany.",
+  "website": "http://www.artnet.com"
+}

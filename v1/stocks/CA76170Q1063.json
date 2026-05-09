@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00XMLDWW6",
+    "figi": "BBG00XMLDX27",
+    "isin": "CA76170Q1063"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA76170Q1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4ZC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RSNVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4ZC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA76170Q1063.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RSLV.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Reyna Silver Corp.",
+  "primary_symbol": "4ZC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Reyna Silver Corp. operates as a silver exploration company in Mexico. The company explores for silver and gold properties. Its flagship property is its 100% owned Guigui Property, which consists of 7 concessions covering an area of 4,553.7034 hectares located in Chihuahua, Mexico. Reyna Silver Corp. is based in Vancouver, Canada.",
+  "website": "http://reynasilver.com"
+}

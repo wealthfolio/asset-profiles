@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000SLR6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000SLR6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SVLKF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SLR.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Silver Lake Resources Limited",
+  "primary_symbol": "SVLKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Silver Lake Resources Limited, together with its subsidiaries, engages in the exploration and production of gold and copper deposits in Australia. The company holds interests in six mines and two processing facilities across its Deflector operations located in the Southern Murchison region of Western Australia; and Mount Monger operations situated within the Kalgoorlie terrane subdivision of the Eastern Goldfields province. Silver Lake Resources Limited is headquartered in South Perth, Australia.",
+  "website": "http://www.silverlakeresources.com.au"
+}

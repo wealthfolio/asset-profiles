@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00L4VYR03",
+    "cusip": "68621T102",
+    "figi": "BBG00L4VYR67",
+    "isin": "US68621T1025"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US68621T1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "36Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "36Z.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OBNK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ORIGIN BANCORP IN  DL5",
+  "primary_symbol": "36Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Origin Bancorp, Inc. operates as the holding company for Origin Bank, which provides a range of financial services to individuals, businesses, and municipalities. These services include deposit accounts, loans, and other banking products. The company is headquartered in Ruston, Louisiana.",
+  "website": "http://www.origin.bank"
+}

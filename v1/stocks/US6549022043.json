@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BP53L6",
+    "cusip": "654902204",
+    "figi": "BBG000BP5648",
+    "isin": "US6549022043"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "US6549022043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOAA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOAA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NOAA.DU"
+    }
+  ],
+  "name": "NOKIA OYJ A ADR 1/EO-,06",
+  "primary_symbol": "NOAA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Nokia Corporation is a Finnish multinational telecommunications, information technology, and consumer electronics company. The company is involved in network infrastructure, technology development and licensing, and Nokia Technologies. Nokia is headquartered in Espoo, Finland."
+}

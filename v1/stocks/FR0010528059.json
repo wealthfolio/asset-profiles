@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00VXQCYR0",
+    "figi": "BBG00VXQCYX3",
+    "isin": "FR0010528059"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0010528059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "07R.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "07R.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALSTW.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0010528059.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STREAMWIDE SA  EO 0,10",
+  "primary_symbol": "07R.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Streamwide S.A. provides telecom value added services, convergent charging, and secured communication systems worldwide. The company's software technology enables legacy system replacement, as well as innovative service launches in the areas of IP mobile messaging, call completion, convergence management, virtual numbers and social telephony, convergent charging, conferencing, virtual contact center solutions, call control, and routing. It also offers mobile messaging, call completion, charging, multimedia, marketing, reachability, interconnection, and service creation environment. The company serves mobile, landline, business, and MVNO operators. Streamwide S.A. was founded in 2001 and is headquartered in Paris, France.",
+  "website": "http://www.streamwide.com"
+}

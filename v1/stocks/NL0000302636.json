@@ -1,0 +1,56 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "isin": "NL0000302636"
+  },
+  "industry": "Banks",
+  "industry_group": "Diversified Financials",
+  "isin": "NL0000302636",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0O4B.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VA3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VA3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VA3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VA3.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "VLK.AS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VAN LANSCHOT KEMPEN NV VAN LANS",
+  "primary_symbol": "0O4B.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "VAN LANSCHOT KEMPEN NV is a wealth management company based in the Netherlands, offering private banking, asset management, and merchant banking services. The firm caters to high-net-worth individuals, institutions, and corporate clients. Their headquarters are located in Amsterdam, Netherlands.",
+  "website": "http://www.vanlanschotkempen.com"
+}

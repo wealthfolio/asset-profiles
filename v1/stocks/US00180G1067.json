@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "00180G106",
+    "isin": "US00180G1067"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US00180G1067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AM1.MU"
+    }
+  ],
+  "name": "AMTD INT.  SP.ADR/1 CL.A",
+  "primary_symbol": "9AM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "AMTD International Inc. is an investment bank that provides investment banking, asset management, and strategic advisory services. The company caters to clients in Asia and beyond and is headquartered in Hong Kong. It seeks to connect capital and resources for its clientele."
+}

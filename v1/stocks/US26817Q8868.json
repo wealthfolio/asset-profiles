@@ -1,0 +1,38 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000BJ67P6",
+    "cusip": "26817Q886",
+    "figi": "BBG000BJ6BZ6",
+    "isin": "US26817Q8868"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Real Estate",
+  "isin": "US26817Q8868",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DYT1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DX.L"
+    }
+  ],
+  "name": "DYNEX CAPITAL INC. DL-,01",
+  "primary_symbol": "DYT1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "DYNEX CAPITAL INC. DL-,01 is a mortgage real estate investment trust (REIT). The company invests in mortgage-backed securities (MBS). Dynex Capital Inc. is headquartered in Glen Allen, Virginia.",
+  "website": "http://www.dxdelivery.com"
+}

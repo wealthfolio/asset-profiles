@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0000035081"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Real Estate",
+  "isin": "FR0000035081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0K4O.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICAD"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3IC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3IC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3IC.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HWT1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ICAD.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ICADE SA ICADE REIT ORD SHS",
+  "primary_symbol": "0K4O.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Icade SA is a French real estate investment trust (REIT) that owns, develops, and manages a portfolio of office properties, business parks, healthcare facilities, and housing. The company's business model focuses on providing sustainable and innovative real estate solutions for its clients. Icade is headquartered in Issy-les-Moulineaux, France",
+  "website": "http://www.icadmed.com"
+}

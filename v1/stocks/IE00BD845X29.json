@@ -1,0 +1,63 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG00F5DV604",
+    "figi": "BBG00F5DV668",
+    "isin": "IE00BD845X29"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "IE00BD845X29",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "18I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "18I.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADNT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "18I.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "18I.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "18I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "18I.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Adient plc",
+  "primary_symbol": "18I.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Adient plc designs, manufactures, and markets a range of seating systems and components for passenger cars, commercial vehicles, and light trucks. The company's products include frames, mechanisms, foams, head restraints, armrests, and trim covers. It serves automotive original equipment manufacturers in the Americas, Europe, China, and internationally. The company was incorporated in 2016 and is based in Dublin, Ireland.",
+  "website": "http://www.adient.com"
+}

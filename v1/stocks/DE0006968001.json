@@ -1,0 +1,68 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BFJMC1",
+    "figi": "BBG000BFJR67",
+    "isin": "DE0006968001"
+  },
+  "industry": "Banks",
+  "industry_group": "Automobiles & Components",
+  "isin": "DE0006968001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PWO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PWO.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PWO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PWOD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PWO.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PWO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PWO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PWO.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PROGRESS-WERK OBERK. O.N.",
+  "primary_symbol": "PWO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PROGRESS-WERK OBERK. O.N. is a German automotive supplier specializing in metal forming and assembly technology. They develop and manufacture complex metal components and systems for the automotive industry, including structural parts and safety components. The company is headquartered in Oberkirch, Germany.",
+  "website": "http://www.pwod.com"
+}

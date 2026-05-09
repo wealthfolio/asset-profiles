@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005QR91R9",
+    "cusip": "00165C104",
+    "figi": "BBG005QR91Y1",
+    "isin": "US00165C1045"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Consumer Services",
+  "isin": "US00165C1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AH9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AH9.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AH9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AH9.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AH9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AH9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AH9.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "AMC.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AMC ENTERTAINMENT HLDGS A",
+  "primary_symbol": "AH9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "AMC Entertainment Holdings, Inc. owns, operates, and programs motion picture theaters. Headquartered in Leawood, Kansas, it offers amenities such as food and beverage services and premium formats like IMAX and Dolby Cinema. AMC is one of the largest movie theater chains in the world.",
+  "website": "http://www.amctheatres.com"
+}

@@ -1,0 +1,57 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "cusip": "05462W109",
+    "isin": "US05462W1099"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Banks",
+  "isin": "US05462W1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AXB.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UZC.BE"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "AXB.SI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "AXBN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UZC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UZC.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AXIS BANK LIMITED GDR EACH REPR",
+  "primary_symbol": "AXB.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "AXIS BANK LIMITED GDR EACH REPR is a financial institution providing a range of banking and financial services. The bank offers services such as retail and corporate banking, treasury operations, and investment banking. Axis Bank is based in India.",
+  "website": "http://www.yongnamgroup.com"
+}

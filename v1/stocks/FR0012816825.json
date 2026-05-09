@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00K7YMJP0",
+    "figi": "BBG00K7YMK86",
+    "isin": "FR0012816825"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0012816825",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6XB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6XB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6XB.DU"
+    }
+  ],
+  "name": "BIOPHYTIS NAM.",
+  "primary_symbol": "6XB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Biophytis SA is a biotechnology company specializing in the development of therapeutic products to slow down the degenerative processes associated with aging and to improve the quality of life for older patients. The company focuses on age-related macular degeneration (AMD) and sarcopenia. Biophytis is headquartered in Paris, France."
+}

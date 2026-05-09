@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LPNT4B3",
+    "cusip": "590479135",
+    "figi": "BBG00LPNT4J5",
+    "isin": "US5904791358"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US5904791358",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M2A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MESA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M2A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5904791358.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MESA AIR GROUP INC",
+  "primary_symbol": "M2A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mesa Air Group, Inc. is a regional airline that provides scheduled passenger and air freight services under contract with major airlines. They operate flights primarily under the United Express and American Eagle brands. The company is headquartered in Phoenix, Arizona.",
+  "website": "http://www.mesa-air.com"
+}

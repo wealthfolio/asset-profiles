@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CELL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PhenomeX Inc. Common Stock",
+  "primary_symbol": "CELL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PhenomeX Inc. (formerly Berkeley Lights, Inc.) is a biotechnology company that develops and commercializes platforms for functional cell biology. Their technology enables researchers to study and manipulate cells at the single-cell level, accelerating drug discovery and development. The company is headquartered in Emeryville, California."
+}

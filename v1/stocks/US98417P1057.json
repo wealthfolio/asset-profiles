@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "98417P105",
+    "isin": "US98417P1057"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US98417P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3XRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3XRA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3XRA.SG"
+    }
+  ],
+  "name": "XINYUAN REAL ESTATE ADR 1",
+  "primary_symbol": "3XRA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "XINYUAN REAL ESTATE is a real estate developer and property manager, primarily operating in China. The company focuses on developing and selling residential properties in various cities throughout China. Its headquarters are located in Beijing, China."
+}

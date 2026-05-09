@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QYF0M5",
+    "cusip": "14167R100",
+    "isin": "US14167R1005"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US14167R1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US14167R1005.SG"
+    }
+  ],
+  "name": "CARECLOUD INC",
+  "primary_symbol": "US14167R1005.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CARECLOUD INC provides cloud-based healthcare technology solutions for medical practices. Headquartered in Somerset, New Jersey, the company offers electronic health records (EHR), practice management, and revenue cycle management software. CareCloud aims to help healthcare providers improve efficiency, enhance patient care, and optimize financial performance."
+}

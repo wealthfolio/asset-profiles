@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB0009067447"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "GB0009067447",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTR.MU"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "MTR.BA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MTR.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MTR.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Mesa Royalty Trust",
+  "primary_symbol": "MTR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Mesa Royalty Trust owns net overriding royalty interests in various oil and gas producing properties in the United States. It has interests in properties located in the Hugoton field of Kansas; and the San Juan Basin field of New Mexico and Colorado. The company was founded in 1979 and is based in Houston, Texas.",
+  "website": "http://mtr.investorhq.businesswire.com"
+}

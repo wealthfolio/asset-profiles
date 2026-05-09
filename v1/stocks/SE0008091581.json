@@ -1,0 +1,46 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0008091581"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Real Estate",
+  "isin": "SE0008091581",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RHA.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "66B.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "66B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "66B.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BONAVA AB (PUBL) BONAVA LINE B",
+  "primary_symbol": "0RHA.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "BONAVA AB is a Swedish residential development company that develops and sells homes in Sweden, Germany, Finland, Denmark, Norway, St. Petersburg, Estonia and Latvia. The company focuses on creating sustainable and affordable housing. BONAVA AB is headquartered in Stockholm, Sweden.",
+  "website": "http://www.bonava.com"
+}

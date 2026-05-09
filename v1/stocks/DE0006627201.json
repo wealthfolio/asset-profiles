@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BDR268",
+    "figi": "BBG000BDR5M3",
+    "isin": "DE0006627201"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Capital Goods",
+  "isin": "DE0006627201",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MUB.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MUB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MUB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MUB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MUEHLBAUER HOLD.AG O.N.",
+  "primary_symbol": "MUB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Muehlbauer Holding AG is a German company specializing in the development, manufacturing, and sales of production equipment for the smart card, RFID, and solar industries. The company's portfolio includes machines for chip embedding, card personalization, and solar cell production, with headquarters located in Roding, Germany. Muehlbauer provides solutions to customers worldwide, including government agencies, card manufacturers, and solar panel producers.",
+  "website": "http://www.muehlbauer.de"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "Korea, Republic of",
+  "country_code": "KR",
+  "identifiers": {
+    "composite_figi": "BBG00ZR5MPW6",
+    "cusip": "22266T109",
+    "figi": "BBG00ZR5MQ27",
+    "isin": "US22266T1097"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "US22266T1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "788.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "788.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "788.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPNG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "788.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "788.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US22266T1097.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "COUPANG INC.CL.A DL-,0001",
+  "primary_symbol": "788.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Coupang Inc. is a South Korean e-commerce company that operates an online marketplace, selling a variety of products including groceries, consumer electronics, and apparel, offering fast delivery and convenient services. The company aims to revolutionize the e-commerce experience for its customers and merchants. Coupang is headquartered in Seoul, South Korea.",
+  "website": "http://www.coupang.com"
+}

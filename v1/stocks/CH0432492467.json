@@ -1,0 +1,56 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0432492467"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CH0432492467",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A0D.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALC"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ALC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "ALC.MC"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "ALC.SW"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ALCN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ALCON AG ALCON ORD SHS",
+  "primary_symbol": "0A0D.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Alcon AG is a global medical device company specializing in eye care products. They offer a wide range of products for surgical and vision care, including intraocular lenses, surgical equipment, contact lenses, and over-the-counter eye care products. Alcon is headquartered in Geneva, Switzerland.",
+  "website": "http://www.alcon.com"
+}

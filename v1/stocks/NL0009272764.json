@@ -1,0 +1,31 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "NL0009272764"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "NL0009272764",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DTM.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Dart Mining NL",
+  "primary_symbol": "DTM.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Dart Mining NL engages in the exploration of precious, base, and minor metals in Northeast Victoria. The company primarily explores for lithium, gold, silver, copper, molybdenum, zinc, tungsten, tin, and tantalum ores. Its flagship project is Buckland Gold project located in Northeast Victoria. The company was founded in 2006 and is based in Corryong, Australia.",
+  "website": "http://www.dartmining.com.au"
+}

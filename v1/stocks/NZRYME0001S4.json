@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DWJXW6",
+    "figi": "BBG000DWK0V7",
+    "isin": "NZRYME0001S4"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NZRYME0001S4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RH7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RH7.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RH7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RH7.SG"
+    }
+  ],
+  "name": "RYMAN HEALTHCARE GRP LTD",
+  "primary_symbol": "RH7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Ryman Healthcare Limited is a New Zealand-based company that develops, owns, and operates retirement villages and rest homes. The company provides retirement living options, aged care services, and dementia care. Ryman Healthcare is headquartered in Christchurch, New Zealand."
+}

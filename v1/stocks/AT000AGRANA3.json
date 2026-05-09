@@ -1,0 +1,68 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000BVX6P1",
+    "figi": "BBG000BVX9D8",
+    "isin": "AT000AGRANA3"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "AT000AGRANA3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGB2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGB2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AGB2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AGB2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AGB2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AGB2.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AGR.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AGR.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AGRANA BET.AG INH.",
+  "primary_symbol": "AGB2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "AGRANA Beteiligungs-AG is an Austrian industrial company that processes agricultural raw materials into a wide range of industrial products for the food-processing industry. The company operates in three segments: Sugar, Starch and Fruit. AGRANA is headquartered in Vienna, Austria.",
+  "website": "http://www.agrana.com"
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Virgin Islands, British",
+  "country_code": "VG",
+  "identifiers": {
+    "isin": "CA92535P8819"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA92535P8819",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BMV.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "BMV.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Bluebird Merchant Ventures Limited",
+  "primary_symbol": "BMV.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Bluebird Merchant Ventures Limited, together with its subsidiaries, engages in mining and developing of gold properties. It holds interests in the Gubong project and Kochang project located in South Korea. The company was founded in 2014 and is based in Road Town, the British Virgin Islands.",
+  "website": "http://bluebirdmv.com"
+}

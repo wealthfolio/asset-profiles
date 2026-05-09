@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0NS1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NSGold Corporation",
+  "primary_symbol": "0NS1.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NSGold Corporation, a mineral exploration company, engages in the exploration of resource properties. The company explores for gold deposits. Its flagship property is the Mooseland Gold Project located in Halifax County, Nova Scotia. The company is based in Bedford, Canada.",
+  "website": "http://www.nsgoldcorp.com"
+}

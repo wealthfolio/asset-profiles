@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00HVKH3Q0",
+    "cusip": "00183L102",
+    "isin": "US00183L1026"
+  },
+  "isin": "US00183L1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US00183L1026.SG"
+    }
+  ],
+  "name": "ANGI INC",
+  "primary_symbol": "US00183L1026.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

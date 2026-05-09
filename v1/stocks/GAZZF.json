@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GAZZF"
+    }
+  ],
+  "name": "iPath Bloomberg Natural Gas SubTR ETN",
+  "primary_symbol": "GAZZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "The iPath Bloomberg Natural Gas Subindex Total Return ETN (GAZZF) is an exchange-traded note designed to provide exposure to the Bloomberg Natural Gas Subindex Total Return. The ETN tracks the performance of front-month NYMEX natural gas futures contracts."
+}

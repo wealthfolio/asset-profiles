@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GTH090",
+    "cusip": "683344105",
+    "figi": "BBG000GTH5F2",
+    "isin": "US6833441057"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US6833441057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNM.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ONTO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NNM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6833441057.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ONTO INNOVATION",
+  "primary_symbol": "NNM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Onto Innovation is a leader in process control, combining global scale service and support with pioneering technology. The company's portfolio of products include: automated metrology, inspection, process control software and services. Onto Innovation is headquartered in Wilmington, Massachusetts.",
+  "website": "http://www.ontoinnovation.com"
+}

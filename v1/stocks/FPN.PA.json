@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "FPN.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Fonciere Paris Nord",
+  "primary_symbol": "FPN.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "ADT S.I.I.C. owns and manages commercial real estate properties. Its properties primarily include offices and businesses covering an area of 53,867 square meters located in the Paris suburbs, Brussels, and Paris. The company is headquartered in Le Blanc Mesnil, France.",
+  "website": "http://www.fonciere-parisnord.com"
+}

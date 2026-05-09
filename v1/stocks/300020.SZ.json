@@ -1,0 +1,27 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "300020.SZ"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Enjoyor Co.,Ltd",
+  "primary_symbol": "300020.SZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Enjoyor Co.,Ltd provides Internet of Things, cloud computing, big data, artificial intelligence, and blockchain technologies in China. It serves transportation, medical, and other industries. The company is headquartered in Hangzhou, China.",
+  "website": "http://www.enjoyor.net"
+}

@@ -1,0 +1,30 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "DE0005313704"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE0005313704",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AFX.L"
+    }
+  ],
+  "name": "Alpha FX Group plc",
+  "primary_symbol": "AFX.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Alpha FX Group plc provides foreign exchange risk management and alternative banking solutions in the United Kingdom and internationally. The company offers forward currency contracts, option contracts, foreign exchange spot transactions, and payments collections and currency accounts services. It serves corporates and institutions that are exposed to currency market volatility. The company was formerly known as Alpha Capital Limited. Alpha FX Group PLC was founded in 2009 and is based in London, the United Kingdom.",
+  "website": "http://www.alphafx.co.uk"
+}

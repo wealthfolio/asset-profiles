@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "PHPT.AS"
+    }
+  ],
+  "name": "WisdomTree Physical Platinum",
+  "primary_symbol": "PHPT.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "WisdomTree Physical Platinum is an exchange-traded commodity (ETC) designed to track the spot price of platinum. It provides investors with exposure to platinum by holding physical platinum bullion. The ETC is structured as a debt security and is listed on the Euronext Amsterdam stock exchange."
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG000LXHL44",
+    "figi": "BBG000LXHMD2",
+    "isin": "FI0009900401"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FI0009900401",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "OLVAS.HE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OVI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OVI.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Olvi Oyj",
+  "primary_symbol": "OLVAS.HE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Olvi Oyj, a beverage company, engages in the manufacture and wholesale of alcoholic and non-alcoholic beverages in Finland, Estonia, Latvia, Lithuania, and Belarus. The company offers beers, ciders, long drinks, mineral waters, juices, soft drinks, energy drinks, sports beverages, kvass, whisky, and other beverages. It also rents beverage-serving equipment to its hotel, restaurant, and catering customers; and coolers to its retailers. The company was founded in 1878 and is headquartered in Iisalmi, Finland.",
+  "website": "http://www.olvi.fi"
+}

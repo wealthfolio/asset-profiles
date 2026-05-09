@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "30048L203",
+    "isin": "US30048L2034"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US30048L2034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVFM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1AQ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1AQ1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Evofem Biosciences, Inc.",
+  "primary_symbol": "EVFM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Evofem Biosciences, Inc., a biopharmaceutical company, develops and commercializes various products to address unmet needs in women's sexual and reproductive health. Its commercial product is Phexxi, a vaginal gel for the prevention of pregnancy. The company is also involved in the development of EVO100, an antimicrobial vaginal gel for the prevention of urogenital transmission of Chlamydia trachomatis infection and Neisseria gonorrhoeae infection in women. It has a collaboration agreement with National Community Oncology Dispensing Association, Inc. to educate oncology community about Phexxi. Evofem Biosciences, Inc. is headquartered in San Diego, California.",
+  "website": "http://www.evofem.com"
+}

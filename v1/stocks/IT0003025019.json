@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "185899101",
+    "isin": "IT0003025019"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0003025019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CLF.MI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003025019.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Caleffi S.p.A.",
+  "primary_symbol": "CLF.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Caleffi S.p.A. manufactures and sells household linen products under the Caleffi brand name in Italy and internationally. The company offers quilts, bedspreads, quilts with bumpers, sheets and duvet covers, bedspread sheets, bed clothes, cushions, bathrobes, towels, furnishings, pillows, and cushion and sofa covers, as well as other accessories for bed, terry collections, and table and kitchen collections. Caleffi S.p.A. was founded in 1967 and is based in Viadana, Italy.",
+  "website": "http://www.caleffionline.it"
+}

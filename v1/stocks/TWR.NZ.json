@@ -1,0 +1,27 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "TWR.NZ"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Tower Limited",
+  "primary_symbol": "TWR.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Tower Limited provides general insurance products in New Zealand and the Pacific Islands. Its insurance products include car, contents, renters', house, landlord, business, travel, boat, motorbike, lifestyle block and farm, motorhome, and caravan or trailer insurance. The company was founded in 1869 and is based in Auckland, New Zealand.",
+  "website": "http://www.tower.co.nz"
+}

@@ -1,0 +1,31 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000DPXQK3",
+    "figi": "BBG000DPXSG4"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E2N.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Endor AG",
+  "primary_symbol": "E2N.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Endor AG develops and markets high-end input devices for game consoles and PCs in Germany. The company provides steering wheels and controllers, player mice, pedals, mounts, shifters, and racing products. It sells its products under the Fanatec brand in Asia and Europe through distributors, as well as through its subsidiary in the United States. Endor AG was founded in 1997 and is based in Landshut, Germany.",
+  "website": "http://www.endor.de"
+}

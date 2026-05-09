@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "ZAE000109815"
+  },
+  "industry_group": "Banks",
+  "isin": "ZAE000109815",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKC2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKC2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SKC2.SG"
+    }
+  ],
+  "name": "AFRICAN EQU.EMP.INV.",
+  "primary_symbol": "SBK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Standard Bank Group Limited is a financial services group operating in South Africa and other African countries. The bank provides a range of banking and financial products and services to individuals, businesses, and institutions. Its headquarters are in Johannesburg, South Africa."
+}

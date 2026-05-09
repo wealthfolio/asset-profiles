@@ -1,0 +1,56 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG3902L1095"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "KYG3902L1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDS"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9698.T"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "G1DS34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G40.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G401.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "GDSN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GDS Holdings Limited",
+  "primary_symbol": "GDS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "GDS Holdings Limited, together with its subsidiaries, develops and operates data centers in the People's Republic of China. The company provides colocation, managed hosting, and managed cloud services, as well as consulting services to the cloud, internet and banking industries. The company serves cloud service providers, Internet companies, financial institutions, telecommunications and IT service providers, and large domestic private sector and multinational corporations. The company has a strategic partnership with GIC Private Limited to develop and operate hyperscale build-to-suit data centers in China. GDS Holdings Limited was founded in 2001 and is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://www.gds-services.com"
+}

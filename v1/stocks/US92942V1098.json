@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005JRMF46",
+    "cusip": "92942V109",
+    "isin": "US92942V1098"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US92942V1098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US92942V1098.SG"
+    }
+  ],
+  "name": "VYANT BIO INC",
+  "primary_symbol": "US92942V1098.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "VYANT BIO INC is a biotechnology company utilizing multi-omic data and machine learning to develop new medicines; it focuses on target discovery and drug development for complex diseases, particularly those related to the central nervous system; the company is headquartered in Cherry Hill, New Jersey."
+}

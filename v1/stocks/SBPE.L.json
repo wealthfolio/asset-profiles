@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SBPE.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Short BP ETP",
+  "primary_symbol": "SBPE.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Leverage Shares -1x Short BP ETP is an exchange-traded product (ETP) designed to provide the inverse (-1x) of the daily performance of BP shares. This ETP allows investors to potentially profit from a decline in the value of BP stock. It is issued by Leverage Shares Public Limited Company."
+}

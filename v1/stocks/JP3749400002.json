@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BSYF95",
+    "figi": "BBG000BSYHM6",
+    "isin": "JP3749400002"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Capital Goods",
+  "isin": "JP3749400002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NI7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPCPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NI7.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NIPPON PAINT HLDGS CO.LTD",
+  "primary_symbol": "NI7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NIPPON PAINT HOLDINGS CO., LTD. manufactures and sells paints and coatings for a variety of applications including automotive, industrial, and decorative purposes. The company also provides related services such as application and technical support. Nippon Paint is headquartered in Osaka, Japan, and operates globally.",
+  "website": "http://www.nipponpaint-holdings.com"
+}

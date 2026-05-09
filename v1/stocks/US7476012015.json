@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Z1R7VP8",
+    "cusip": "747601201",
+    "figi": "BBG00Z1R7VX9",
+    "isin": "US7476012015"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US7476012015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5DX0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5DX0.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5DX0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5DX0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5DX0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US7476012015.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "QUALTR.INTL. A  DL-,0001",
+  "primary_symbol": "5DX0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Qualtrics International Inc., headquartered in Provo, Utah, is a software company that provides a cloud-based subscription platform for experience management (XM). The Qualtrics XM Platform enables organizations to collect, analyze, and act on feedback from customers, employees, and other stakeholders. Their solutions are used by businesses of all sizes to improve customer satisfaction, employee engagement, and brand reputation.",
+  "website": "http://www.qualtrics.com"
+}

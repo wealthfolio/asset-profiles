@@ -1,0 +1,31 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000HFW7F0",
+    "figi": "BBG000HFW8R5"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AB1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Air Berlin PLC",
+  "primary_symbol": "AB1.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Air Berlin PLC, together with its subsidiaries, provides airline services in Germany and internationally. Air Berlin PLC was incorporated in 2005 and is headquartered in Berlin, Germany. As of August, 2015, Air Berlin PLC is in reorganization.",
+  "website": "http://www.airberlin.com"
+}

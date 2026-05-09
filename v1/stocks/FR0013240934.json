@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000KXRY64",
+    "figi": "BBG000KXS325",
+    "isin": "FR0013240934"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0013240934",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E8TN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E8TN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALERS.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E8TN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013240934.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EUROBIO SCIEN.INH.EO -,32",
+  "primary_symbol": "E8TN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Eurobio Scientific is a company specialized in specialty in vitro medical diagnostics. The company sells and commercializes in vitro diagnostics tests, reagents and instruments dedicated to specialized biology. Eurobio Scientific is headquartered in Les Ulis, France.",
+  "website": "http://www.diaxonhit.com"
+}

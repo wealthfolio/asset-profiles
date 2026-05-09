@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WAVSU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Western Acquisition Ventures Corp. Unit",
+  "primary_symbol": "WAVSU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Western Acquisition Ventures Corp. Unit represents a bundled investment including a share of common stock and a warrant, often used by special purpose acquisition companies (SPACs). The unit separates into its component parts after a specified period. SPACs are formed to acquire or merge with existing companies."
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000RDWPX4",
+    "figi": "BBG000RDWT57",
+    "isin": "GB00B085SD50"
+  },
+  "industry_group": "Materials",
+  "isin": "GB00B085SD50",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4A6.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4A6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B085SD50.SG"
+    }
+  ],
+  "name": "ARIANA RESOURCESLS -,001",
+  "primary_symbol": "4A6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Ariana Resources plc is a mineral exploration and development company focused on Turkey. They are primarily involved in the exploration and development of gold and copper projects. Ariana Resources is headquartered in London, UK."
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00HZ586J0",
+    "figi": "BBG00HZ586W5",
+    "isin": "CA53680T1021"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA53680T1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L09.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L09.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L09.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L09.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXENF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L09.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "L09.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "L09.SI"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "LEXI.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LITHIUM ENERGI EXPL. O.N.",
+  "primary_symbol": "L09.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lithium Energi Exploration Inc. engages in the acquisition, exploration, and development of lithium brine assets in Argentina. It holds interest in the Laguna Caro project covering approximately 17,759 hectares; the Antofalla North project covering approximately 41,496 hectares; and the Antofalla South project covering 69,112 hectares in Argentina. The company was formerly known as Portola Resources Inc. and changed its name to Lithium Energi Exploration Inc. in March 2017. Energi Exploration, Inc. was incorporated in 1998 and is headquartered in Toronto, Canada.",
+  "website": "http://www.lithiumenergi.com"
+}

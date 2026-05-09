@@ -1,0 +1,25 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Kestrel Group Ltd.",
+  "primary_symbol": "KG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials"
+}

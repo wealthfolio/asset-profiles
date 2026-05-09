@@ -1,0 +1,27 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SADG.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Sandnes Sparebank",
+  "primary_symbol": "SADG.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sandnes Sparebank, an independent savings bank, provides a range of banking and investment products to retail and corporate customers in Norway. It operates through three segments: Retail Market, Corporate Market, and Real Estate Agency. The company offers fixed rate deposits, deposit accounts, BSU, escrow accounts for tax withholding, and other accounts; various loans and guarantees; and mobile and internet banking services. It also provides real estate brokerage and general investment advisory services. The company was founded in 1875 and is headquartered in Sandnes, Norway.",
+  "website": "http://www.sandnes-sparebank.no"
+}

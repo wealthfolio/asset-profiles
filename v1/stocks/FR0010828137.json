@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "FR0010828137"
+  },
+  "industry_group": "Real Estate",
+  "isin": "FR0010828137",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QAP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CUX1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CUX1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CUX1.SG"
+    }
+  ],
+  "name": "CARMILA SA CARMILA ORD SHS",
+  "primary_symbol": "0QAP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "CARMILA SA is a French real estate company specializing in owning and operating shopping centers linked to Carrefour hypermarkets. The company focuses on enhancing the value of its portfolio through development, renovation, and active management. Its headquarters are located in Paris, France."
+}

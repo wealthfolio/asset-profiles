@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA4620481099"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA4620481099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IONGF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ION.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Ion Energy Ltd.",
+  "primary_symbol": "IONGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Ion Energy Ltd. explores for and develops lithium assets in Asia. Its flagship property is the Baavhai Uul lithium brine project that covers 81,758 hectares located in Mongolia. The company is headquartered in Toronto, Canada.",
+  "website": "http://www.ionenergy.ca"
+}

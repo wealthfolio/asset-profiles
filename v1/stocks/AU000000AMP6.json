@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BQHSC6",
+    "figi": "BBG000BQHW00",
+    "isin": "AU000000AMP6"
+  },
+  "industry_group": "Insurance",
+  "isin": "AU000000AMP6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AMP.DU"
+    }
+  ],
+  "name": "AMP LTD.",
+  "primary_symbol": "AMP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "AMP Ltd., headquartered in Sydney, Australia, provides wealth management, banking, and insurance products and services. The company operates in Australia and New Zealand, offering financial advice, superannuation, retirement income, and investment solutions."
+}

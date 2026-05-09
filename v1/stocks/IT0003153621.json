@@ -1,0 +1,51 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003153621"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0003153621",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0G9J.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T1I.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TIP.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TIP.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "TIP.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TAMBURI INVESTMENT PARTNERS SPA",
+  "primary_symbol": "0G9J.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Tamburi Investment Partners S.p.A. (TIP) is an Italian investment and merchant bank focused on investing in small and medium-sized enterprises. They provide financial advisory and investment services. The company is headquartered in Milan, Italy.",
+  "website": "http://www.tipspa.it"
+}

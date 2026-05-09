@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C1FQS9",
+    "cusip": "29364G103",
+    "figi": "BBG000C1FSD1",
+    "isin": "US29364G1031"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US29364G1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETY.BE"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "E1TR34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ETY.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ETY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ETY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ETY.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Entergy Corporation",
+  "primary_symbol": "ETR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Entergy Corporation, together with its subsidiaries, engages in the production and distribution of electricity in the United States. The company generates electricity through gas/oil, nuclear, coal, hydro, and solar power sources. It operates in two segments, Utility and Entergy Wholesale Commodities. The company's Utility segment generates, transmits, distributes, and sells electric power in portions of Arkansas, Mississippi, Texas, and Louisiana, including the City of New Orleans; and distributes natural gas. Its Entergy Wholesale Commodities segment engages in the ownership, operation, and decommissioning of nuclear power plants located in the northern United States; sale of electric power to wholesale customers; provision of services to other nuclear power plant owners; and owning interests in non-nuclear power plants that sell electric power to wholesale customers. It sells energy to retail power providers, utilities, electric power co-operatives, power trading organizations, and other power generation companies. The company's power plants have approximately 30,000 megawatts (MW) of electric generating capacity, which include 8,000 MW of nuclear power. The company delivers electricity to 3.0 million utility customers in Arkansas, Louisiana, Mississippi, and Texas. Entergy Corporation was incorporated in 1949 and is based in New Orleans, Louisiana.",
+  "website": "http://www.entergy.com"
+}

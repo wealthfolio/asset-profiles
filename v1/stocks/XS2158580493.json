@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "XS2158580493"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "XS2158580493",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KSFTF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3888.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3K1.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Kingsoft Corporation Limited",
+  "primary_symbol": "KSFTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Kingsoft Corporation Limited, an investment holding company, operates as a software and internet service company in Mainland China, Hong Kong, and internationally. It operates in two segments, Entertainment Software and Others, and Office Software and Services. The Entertainment Software segment engages in the research and development of games; and provision of online games, mobile games, and casual game services. The Office Software and Services and Others segment designs, researches and develops, sells, and markets office software products and services of WPS Office. It also engages in the operation and distribution of games; marketing and operation of SMS, and wireless service of online games and application software; sale and operation of office application software; marketing and operation of entertainment software products; and research, development, and distribution of consumer application software. Kingsoft Corporation Limited was founded in 1988 and is headquartered in Kowloon, Hong Kong.",
+  "website": "http://www.kingsoft.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00VHJD060",
+    "figi": "BBG00VHJD0D2",
+    "isin": "CA05591K1093"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA05591K1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8M0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8M0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRIRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8M0.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "BMEX.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA05591K1093.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BMEX GOLD INC",
+  "primary_symbol": "8M0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "BMEX Gold Inc., a junior mineral exploration company, engages in the acquisition, exploration, and development of gold and base metal properties in Canada. It holds an option to acquire 100% in the King Tut Gold property, comprising of 120 mineral claims that covers an area of 5,206 hectares located in in Quebec, Canada; and Dunlop Bay Gold project, consisting of 76 mineral claims covering an area of 4226 Hectares located in in Quebec, Canada.   The company was formerly known as Meridius Resources Limited. BMEX Gold Inc. was founded in 2017 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.bmexgold.com"
+}

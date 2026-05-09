@@ -1,0 +1,38 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C03T53",
+    "figi": "BBG000C03WW6",
+    "isin": "AU000000ODY8"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000ODY8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ODQ.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ODY.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ODYSSEY GOLD LTD.",
+  "primary_symbol": "ODQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Odyssey Gold Limited operates as a mineral resource exploration company in Australia. The company holds an agreement to acquire an 80% interest in the Stakewell and Tuckanarra gold projects located in the Meekatharra-Cue region of Western Australia. The company was formerly known as Odyssey Energy Limited and changed its name to Odyssey Gold Limited in November 2020. Odyssey Gold Limited was incorporated in 2005 and is based in Perth, Australia.",
+  "website": "http://www.odysseygold.com.au"
+}

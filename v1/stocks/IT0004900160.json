@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "25058X105",
+    "isin": "IT0004900160"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "IT0004900160",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "DM.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Digital Magics S.p.A.",
+  "primary_symbol": "DM.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Digital Magics S.p.A. is a venture capital firm specializing in startup investments. The firms seeks to invest in fintech and digital projects with a focus on IoT, FinTech/InsurTech, Health, Travel, e-commerce marketplace, enterprise software, marketing, food, business 4.0 and blockchain. The firm invests in companies based in Italy. The company provides consultation and acceleration services to startups. Digital Magics S.p.A. was founded in 2004 and it is headquartered in Milan, Italy, with and additional office in Palermo, Roma, Salerno and Padova, Italy.",
+  "website": "http://www.digitalmagics.com"
+}

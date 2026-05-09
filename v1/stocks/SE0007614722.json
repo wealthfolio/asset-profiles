@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YHXYQ54",
+    "figi": "BBG00YHXYQC6",
+    "isin": "SE0007614722"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0007614722",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "869.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "869.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0007614722.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ARCANE CRYPTO AB",
+  "primary_symbol": "869.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Arcane Crypto AB, based in Stockholm, Sweden, is a holding company focusing on investments in the digital asset industry. They provide infrastructure and investment opportunities in the cryptocurrency market. The company aims to create value through strategic investments and partnerships.",
+  "website": "http://www.arcane.no"
+}

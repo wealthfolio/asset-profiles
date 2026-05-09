@@ -1,0 +1,25 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAYP"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "PayPay Corporation American Depository Shares",
+  "primary_symbol": "PAYP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate"
+}

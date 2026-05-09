@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "520010.KS"
+    }
+  ],
+  "name": "MiraeAsset Crude Futures ETN(H)",
+  "primary_symbol": "520010.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "MiraeAsset Crude Futures ETN(H) is an Exchange Traded Note (ETN) managed by Mirae Asset Daewoo Co., Ltd, providing exposure to crude oil futures. This ETN tracks the performance of crude oil futures contracts. It is listed on the Korea Exchange."
+}

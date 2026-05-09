@@ -1,0 +1,31 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "composite_figi": "BBG005LZLGB6",
+    "figi": "BBG005LZLGC5"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DGL.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Dynagas LNG Partners LP",
+  "primary_symbol": "DGL.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Dynagas LNG Partners LP, through its subsidiaries, operates in the seaborne transportation industry worldwide. The company owns and operates liquefied natural gas (LNG) carriers. As of April 28, 2021, its fleet consisted of six LNG carriers with an aggregate carrying capacity of approximately 914,000 cubic meters. Dynagas GP LLC serves as the general partner of Dynagas LNG Partners LP. The company was incorporated in 2013 and is headquartered in Athens, Greece.",
+  "website": "http://www.dynagaspartners.com"
+}

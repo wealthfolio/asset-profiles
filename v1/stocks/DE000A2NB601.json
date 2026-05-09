@@ -1,0 +1,81 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "DE000A2NB601"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A2NB601",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZPV.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEN.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "JEN.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "JEN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JEN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JEN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JEN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "JEN.VI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JENOPTIK AG JENOPTIK N ORD SHS",
+  "primary_symbol": "0ZPV.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Jenoptik AG is a German technology group that operates in the fields of optics, lasers, industrial automation, and defense & civil systems. The company develops and produces solutions for the semiconductor equipment industry, automotive industry, medical technology, and security technology, among others. Jenoptik is headquartered in Jena, Germany.",
+  "website": "http://www.jensen-group.com"
+}

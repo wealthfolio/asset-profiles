@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA28623W1077"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "CA28623W1077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELVT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0EV.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0XWD.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Elevate Credit, Inc.",
+  "primary_symbol": "ELVT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Elevate Credit, Inc. provides online credit solutions to non-prime consumers in the United States. It offers unsecured online installment loans, lines of credit, and credit cards. Its products include Rise, an installment loan product; Elastic, a line of credit product; and Today Card, a credit card product. The company was founded in 2014 and is headquartered in Fort Worth, Texas.",
+  "website": "http://www.elevate.com"
+}

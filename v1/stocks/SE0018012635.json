@@ -1,0 +1,36 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0018012635"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "SE0018012635",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A0I.IL"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "WIHL.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "WIHLBORGS FASTIGHETER AB WIHLBO",
+  "primary_symbol": "0A0I.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Wihlborgs Fastigheter AB is a Swedish real estate company that owns, manages, and develops commercial properties in the Öresund region. They focus on providing modern and flexible office and industrial spaces for businesses in attractive locations. Wihlborgs Fastigheter is headquartered in Malmö, Sweden.",
+  "website": "http://www.wihlborgs.se"
+}

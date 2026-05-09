@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000H6PMW6",
+    "isin": "IT0004240443"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0004240443",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0004240443.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PQ.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PIQUADRO SPA",
+  "primary_symbol": "IT0004240443.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PIQUADRO SPA is an Italian leather goods company that designs, manufactures, and distributes bags, luggage, and accessories. They focus on business and travel products with a blend of design, functionality, and technology. The company is headquartered in Gaggio Montano, Italy.",
+  "website": "http://www.piquadro.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00Q72DY29",
+    "figi": "BBG00Q72DY92",
+    "isin": "NL0013654783"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "NL0013654783",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1TY.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1TY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NL0013654783.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PRX.AX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "PROSUS NV  EO -,05",
+  "primary_symbol": "1TY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Prosus N.V. is a global consumer internet group and one of the largest technology investors in the world. Through its investments, it operates and invests globally in markets with long-term growth potential, building leading companies in the online classifieds, payments and fintech, food delivery, etail, education, and social and internet platforms sectors and is headquartered in Amsterdam, Netherlands.",
+  "website": "http://www.prosus.com"
+}

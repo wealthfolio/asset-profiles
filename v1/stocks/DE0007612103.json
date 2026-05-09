@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000MCWP07",
+    "figi": "BBG000MCWRN8",
+    "isin": "DE0007612103"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "DE0007612103",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G6P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G6P.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "G6P.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G6P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G6P.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GOING PUBLIC MEDIA NA ON",
+  "primary_symbol": "G6P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Going Public Media Aktiengesellschaft operates as a media house for corporate finance and investment topics in Germany. It provides magazine, Website, newsletter, and event services to owners and managers of medium-sized companies. The company publishes approximately 90 journal issues; and operates 9 Web platforms in connection with online newsletters and social media presence. It also organizes events; and offers print, online event, and network services. The company was founded in 1998 and is based in Munich, Germany.",
+  "website": "http://www.goingpublic.de"
+}

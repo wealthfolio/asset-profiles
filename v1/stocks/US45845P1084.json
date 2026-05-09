@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003HC1M35",
+    "cusip": "45845P108",
+    "figi": "BBG003HC1M99",
+    "isin": "US45845P1084"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45845P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I4P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I4P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICPT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I4P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I4P.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INTERCEPT PHARMAC.DL-,001",
+  "primary_symbol": "I4P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "INTERCEPT PHARMAC.DL-,001 is a biopharmaceutical company focused on the development and commercialization of novel therapeutics to treat progressive non-viral liver diseases. The company's lead product is Ocaliva (obeticholic acid). Intercept Pharmaceuticals is headquartered in San Diego, California.",
+  "website": "http://www.interceptpharma.com"
+}

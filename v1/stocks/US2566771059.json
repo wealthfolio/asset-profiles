@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PVZWC1",
+    "cusip": "256677105",
+    "figi": "BBG000PVZYM6",
+    "isin": "US2566771059"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US2566771059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7DG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7DG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7DG.DU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "DGCO34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DGG.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "DOLLAR GENER.CORP.DL-,875",
+  "primary_symbol": "7DG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Dollar General Corporation is a discount retailer in the United States. They operate a chain of stores offering a variety of merchandise, including consumables, seasonal items, home products, and apparel. The company is headquartered in Goodlettsville, Tennessee.",
+  "website": "http://www.dollargeneral.com"
+}

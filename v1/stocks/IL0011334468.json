@@ -1,0 +1,58 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG0077K55N0",
+    "figi": "BBG0077K55T4",
+    "isin": "IL0011334468"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "IL0011334468",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYBR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CYB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CYB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CYB.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CYBRN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CYBERARK SOFTWARE  IS-,01",
+  "primary_symbol": "CYB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CyberArk Software Ltd. is an information security company offering identity access management solutions. The company's software is used to protect privileged accounts and critical assets in organizations. CyberArk is headquartered in Petach Tikva, Israel.",
+  "website": "http://www.cyberark.com"
+}

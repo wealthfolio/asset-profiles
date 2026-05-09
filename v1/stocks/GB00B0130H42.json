@@ -1,0 +1,88 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000QC89F0",
+    "figi": "BBG000QC8CY2",
+    "isin": "GB00B0130H42"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "GB00B0130H42",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IJ8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IJ8.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IJ8.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IJ8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITMPF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IJ8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IJ8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IJ8.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ITM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ITM1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ITM1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ITM Power Plc",
+  "primary_symbol": "IJ8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ITM Power Plc designs, manufactures, and sells hydrogen energy systems for energy storage, transportation, and industrial sectors in the United Kingdom, Germany, France, Italy, the Netherlands, and the United States. It offers HGas for power-to-gas, clean fuel, and industrial hydrogen applications. The company is also involved in the research and development of scientific and engineering projects; development and manufacture of prototype products; and sale of electrolysis equipment and hydrogen storage solutions. In addition, it operates 15 hydrogen refueling stations. ITM Power Plc was founded in 2001 and is headquartered in Sheffield, the United Kingdom.",
+  "website": "http://www.itm-power.com"
+}

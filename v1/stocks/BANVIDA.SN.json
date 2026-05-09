@@ -1,0 +1,27 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "BANVIDA.SN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Banvida S.A.",
+  "primary_symbol": "BANVIDA.SN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banvida S.A. provides various financial services in Chile. Its financial services include life and general insurance, mortgage and consumer loans, and investment services. The company was founded in 1998 and is based in Santiago, Chile. Banvida S.A. is a subsidiary of Inversiones Teval SA.",
+  "website": "http://www.banvida.cl/"
+}

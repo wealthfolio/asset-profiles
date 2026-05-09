@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BL8476",
+    "cusip": "32020R109",
+    "figi": "BBG000BL8CY8",
+    "isin": "US32020R1095"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US32020R1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FFIN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FI6.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "First Financial Bankshares, Inc.",
+  "primary_symbol": "FFIN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "First Financial Bankshares, Inc., through its subsidiaries, provides commercial banking products and services in Texas. The company accepts checking, savings and money market accounts, and time deposits; and offers real estate, commercial, agricultural, and consumer loans to businesses, professionals, individuals, and farm and ranch operations. It also provides drive-in and night deposit, remote deposit capture, Internet and mobile banking, payroll cards, transmitting funds, and other customary commercial banking services, as well as automated teller machines and safe deposit facilities. In addition, the company offers personal trust services, including wealth management, administration of estates, testamentary trusts, revocable and irrevocable trusts, and agency accounts; and securities brokerage services, as well as administers retirement and employee benefit accounts, such as 401(k) profit sharing plans and IRAs. Further, the company provides asset management and technology services. As of December 31, 2020, it had 78 financial centers across Texas. First Financial Bankshares, Inc. was founded in 1890 and is headquartered in Abilene, Texas.",
+  "website": "http://www.ffin.com"
+}

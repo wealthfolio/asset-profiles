@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00KFMX227",
+    "figi": "BBG00KFMX272",
+    "isin": "JP3800390001"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "JP3800390001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1U3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1U3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1U3.SG"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3048.T"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "3048.TW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BIC CAMERA INC.",
+  "primary_symbol": "1U3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Bic Camera Inc. is a Japanese electronics retailer that operates a chain of stores selling consumer electronics, home appliances, and other products. The company also offers services such as product repairs and installation, and its headquarters is in Tokyo, Japan.",
+  "website": "http://www.biccamera.com"
+}

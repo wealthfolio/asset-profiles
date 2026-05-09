@@ -1,0 +1,27 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "RBVA11.SA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Fundo Invest Imobiliario Agencias Caixa - FII Fund",
+  "primary_symbol": "RBVA11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Fundo Invest Imobiliario Agencias Caixa - FII Fund is a Brazilian real estate investment fund (FII). It invests in real estate of Caixa Econômica Federal bank agencies. The fund is traded on the B3 stock exchange.",
+  "website": "http://www.riobravo.com.br/EstrategiasInvestimento/Paginas/FII_AgenciasCaixa.aspx"
+}

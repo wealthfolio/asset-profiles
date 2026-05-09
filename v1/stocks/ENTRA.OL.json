@@ -1,0 +1,27 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ENTRA.OL"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Entra ASA",
+  "primary_symbol": "ENTRA.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Entra ASA owns, develops, leases, and manages office properties in Norway. As of December 31, 2020, it had a property portfolio of 73 properties with a total area of approximately 1.05 million square meters. The company was founded in 2000 and is headquartered in Oslo, Norway.",
+  "website": "http://www.entra.no"
+}

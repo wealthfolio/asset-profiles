@@ -1,0 +1,73 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG000BRVF72",
+    "figi": "BBG000BRVHN0",
+    "isin": "CH0012138530"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "CH0012138530",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSGKF"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "CS.BA"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "CSGN.SW"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "CSGNE.SW"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CSN.MX"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CSX.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CSX1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CSX1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Credit Suisse Group AG",
+  "primary_symbol": "CS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Credit Suisse Group AG, together with its subsidiaries, provides various financial services in Switzerland, Europe, the Middle East, Africa, the Americas, and Asia Pacific. The company offers private banking and wealth management solutions, including advisory, investment, financial planning, succession planning, and trust services; and financing and lending, and multi-shore platform solutions. It also provides traditional and structured lending, payment, foreign exchange, capital goods leasing, merger and acquisition, syndication, structured finance, commodity trade finance, trade finance, structured trade finance, export finance, factoring, fund management and administration, fund design, custody, ship and aviation finance, securities, cash, and treasury services. In addition, the company offers asset management products; equity and debt underwriting, and advisory services; cash equities, equity derivatives, and convertibles, as well as prime services; and fixed income products, such as credit, securitized, macro, emerging markets, financing, structured credit, and other products. Further, it provides HOLT, a framework for assessing the performance of approximately 20,000 companies; and equity and fixed income research services. The company serves private and institutional clients; ultra-high-net-worth individuals, high-net-worth individuals, and affluent and retail clients; corporate clients, small and medium-sized enterprises, external asset managers, financial institutions, and commodity traders; and pension funds, hedge funds, governments, foundations and endowments, corporations, entrepreneurs, private individuals, financial sponsors, and sovereign clients. As of December 31, 2020, it operated through a network of 338 offices and branches. The company was founded in 1856 and is based in Zurich, Switzerland.",
+  "website": "http://www.credit-suisse.com"
+}

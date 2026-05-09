@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BDZH75",
+    "figi": "BBG000BDZHK0",
+    "isin": "FR0004110310"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0004110310",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EGJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EGJ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ESI.PA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "ESIP.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ESI GROUP INH.  EO 3",
+  "primary_symbol": "EGJ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ESI Group SA, together with its subsidiaries, designs, develops, and distributes virtual prototyping software and services in Europe, the Middle East, Africa, the Asia Pacific, and the Americas. The company offers vibro-acoustics, which allows engineers to perform accurate predictive noise and vibration design assessments early in the design cycle; virtual reality and performance solutions; and virtual seat solutions. It also provides SimulationX, a single platform for modeling, simulating, and analyzing technical systems; SYSWELD that enables the designers and process planners to virtually manufacture, assemble, and test physically realistic virtual assemblies; SYSTUS, which offers a complete resolution to analysis challenges in mechanics, heat transfer, and electrotechnics; PROSIVIC simulation software; PAM-STAMP that provides sheet metal forming solutions; interior solutions; PAM-COMPOSITES; ACE+ Suite, a CFD and high-fidelity multiphysics simulation software; and ProCAST, which offers casting solutions. In addition, the company offers consulting, technical support and assistance, and training services, as well as operates myESI, a customer portal. It serves aeronautics/aerospace, defense, naval, automotive, energy, ground transportation, heavy machinery, and other industries. The company was founded in 1973 and is headquartered in Rungis, France.",
+  "website": "http://www.esi-group.com"
+}

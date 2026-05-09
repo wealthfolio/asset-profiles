@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Z718W76",
+    "cusip": "00109K105",
+    "figi": "BBG00Z718WD9",
+    "isin": "US00109K1051"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US00109K1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0FG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFCG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0FG.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AFC Gamma, Inc.",
+  "primary_symbol": "0FG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "AFC Gamma, Inc. originates, structures, underwrites, and manages senior secured loans and other types of loans for established companies operating in the cannabis industry in states that have legalized medicinal and/or adult use cannabis. It primarily originates loans structured as senior loans secured by real estate, equipment, licenses and/or other assets of the loan parties to the extent permitted by applicable laws and the regulations governing such loan parties. AFC Gamma, Inc. has elected and qualified to be taxed as a real estate investment trust for the United States federal income tax purposes under the Internal Revenue Code of 1986. The company was founded in 2020 and is based in West Palm Beach, Florida.",
+  "website": "http://www.afcgamma.com"
+}

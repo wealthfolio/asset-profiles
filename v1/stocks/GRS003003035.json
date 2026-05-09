@@ -1,0 +1,106 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "isin": "GRS003003035"
+  },
+  "industry": "Banks",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GRS003003035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAGF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAGF.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAGF.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAGF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NBGIF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "ETE.AT"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ETE.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ETE.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ETE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ETE.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NAGF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NAGF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NAGF.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NAGG.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "EKOTECHNIKA AG A O.N.",
+  "primary_symbol": "ETE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Ekotechnika AG is an agricultural company primarily engaged in crop production and dairy farming in Russia. The company cultivates land and produces crops such as wheat, barley, and corn, and also operates dairy farms with a focus on milk production. The company is headquartered in Walldorf, Germany.",
+  "website": "http://www.nbg.gr"
+}

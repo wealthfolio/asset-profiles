@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BPD168",
+    "cusip": "58933Y105",
+    "figi": "BBG000BPD257",
+    "isin": "US58933Y1055"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US58933Y1055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRK"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRKP.ME"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "MRCK34.SA"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "MRK.BA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MRK.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MRK.PA"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "MRK.SN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "MRK.VI"
+    }
+  ],
+  "market_cap_band": "Mega Cap",
+  "name": "Merck & Co., Inc.",
+  "primary_symbol": "MRK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Merck & Co., Inc. operates as a healthcare company worldwide. It operates through two segments, Pharmaceutical and Animal Health segments. The Pharmaceutical segment offers human health pharmaceutical products in the areas of oncology, hospital acute care, immunology, neuroscience, virology, cardiovascular, diabetes, and women's health, as well as vaccine products. The Animal Health segment provides discovers, develops, manufactures, and markets a range of veterinary pharmaceuticals, vaccines, and health management solutions and services, as well as a suite of digitally connected identification, traceability, and monitoring products. The company has collaborations with AstraZeneca PLC; Bayer AG; Eisai Co., Ltd.; and Ridgeback Biotherapeutics. It serves drug wholesalers and retailers, hospitals, and government agencies; managed health care providers, such as health maintenance organizations, pharmacy benefit managers, and other institutions; and physicians and physician distributors, veterinarians, and animal producers. The company has an agreement with Gilead Sciences, Inc. to co-develop and co-commercialize long-acting investigational treatment combinations of Lenacapavir and Islatravir in HIV; and a collaboration agreement with Amathus Therapeutics to develop treatments for neurodegenerative diseases. Merck & Co., Inc. was founded in 1891 and is headquartered in Kenilworth, New Jersey.",
+  "website": "http://www.merck.com"
+}

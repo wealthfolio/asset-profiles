@@ -1,0 +1,68 @@
+{
+  "country": "Monaco",
+  "country_code": "MC",
+  "identifiers": {
+    "composite_figi": "BBG000QMMSP9",
+    "figi": "BBG000QMMVB7",
+    "isin": "MHY7542C1306"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Transportation",
+  "isin": "MHY7542C1306",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S0QA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S0QA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBBA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STNG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "S0QA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S0QA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S0QA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "STNGN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SCORPIO TANKERS  DL -,10",
+  "primary_symbol": "S0QA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Scorpio Tankers Inc. is a provider of marine transportation of petroleum products in worldwide markets. The company operates through the transportation of refined petroleum products segment and is based in Monaco. Scorpio Tankers owns, finances and charters tankers.",
+  "website": "http://www.scorpiotankers.com"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "isin": "FI4000252127"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FI4000252127",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RV1.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4TS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4TS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4TS.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI4000252127.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "TTALO.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TERVEYSTALO OY TERVEYSTALO ORD",
+  "primary_symbol": "0RV1.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TERVEYSTALO OY is a Finnish healthcare service provider. The company offers a wide range of healthcare services, including primary care, specialist care, and occupational health services. TERVEYSTALO OY is headquartered in Helsinki, Finland.",
+  "website": "http://www.terveystalo.com"
+}

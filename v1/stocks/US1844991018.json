@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000J5J943",
+    "cusip": "184499101",
+    "figi": "BBG000J5JNM2",
+    "isin": "US1844991018"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US1844991018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLNE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIQ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WIQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WIQ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Clean Energy Fuels Corp.",
+  "primary_symbol": "CLNE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Clean Energy Fuels Corp. provides natural gas as an alternative fuel for vehicle fleets and related fueling solutions, primarily in the United States and Canada. It supplies renewable natural gas (RNG), compressed natural gas (CNG), and liquefied natural gas (LNG) for light, medium, and heavy-duty vehicles; and offers operation and maintenance services for public and private vehicle fleet customer stations. The company also designs, builds, operates, and maintains fueling stations; sells and services compressors and other equipment that are used in fueling stations; and provides assessment, design, and modification solutions to offer operators with code-compliant service and maintenance facilities for natural gas vehicle fleets. In addition, it transports and sells CNG and LNG through virtual natural gas pipelines and interconnects; procures and sells RNG; sells tradable credits, such as RNG and conventional natural gas as a vehicle fuel comprising Renewable Identification Numbers and Low Carbon Fuel Standards credits; enables its customers to acquire and finance natural gas vehicles; and obtains federal, state and local credits, grants, and incentives. The company serves heavy-duty trucking, airports, refuse, public transit, industrial, and institutional energy users, as well as government fleets. As of December 31, 2020, it served approximately 1,000 fleet customers operating approximately 48,000 vehicles; and owned, operated, or supplied approximately 565 fueling stations in 39 states in the United States and 5 provinces in Canada. The company was incorporated in 2001 and is headquartered in Newport Beach, California.",
+  "website": "http://www.cleanenergyfuels.com"
+}

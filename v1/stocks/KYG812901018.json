@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG0106NMD08",
+    "figi": "BBG0106NMD53",
+    "isin": "KYG812901018"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG812901018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5Y8.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2599.HK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5Y8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5Y8.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SHINSUN HLDGS GRP. DL-,01",
+  "primary_symbol": "5Y8.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Shinsun Holdings (Group) Co., Ltd., an investment holding company, engages in the development and selling of properties in the People's Republic of China. It operates through four segments: Property Development, Property Leasing, Hotel Operations, and Provision of Property Management Services. The company focusing on the development of residential properties. It is also involved in cultural tourism; hotel management; and wholesale and retail business. The company was incorporated in 2019 and is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://www.shinsunholdings.com"
+}

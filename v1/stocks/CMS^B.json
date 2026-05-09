@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMS^B"
+    }
+  ],
+  "name": "CMS Energy Corporation Preferred Stock",
+  "primary_symbol": "CMS^B",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CMS Energy Corporation is an energy company with operations including electric and natural gas. This ticker represents preferred stock of CMS Energy Corporation. They provide energy services primarily in Michigan."
+}

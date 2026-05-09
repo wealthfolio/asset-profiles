@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001WMKHH5",
+    "cusip": "18915M107",
+    "isin": "US18915M1071"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US18915M1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US18915M1071.SG"
+    }
+  ],
+  "name": "CLOUDFLARE INC - CLASS A",
+  "primary_symbol": "US18915M1071.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CLOUDFLARE INC - CLASS A operates a global cloud platform that delivers a range of services to businesses of all sizes, making them more secure, faster, and more reliable. Their services include content delivery networks (CDN), DDoS mitigation, internet security, and domain registration. The company is headquartered in San Francisco, California."
+}

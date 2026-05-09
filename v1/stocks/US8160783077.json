@@ -1,0 +1,52 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "816078307",
+    "isin": "US8160783077"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "US8160783077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKHSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKHSY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPH"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "1928.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SPH1.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Sekisui House, Ltd.",
+  "primary_symbol": "SKHSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sekisui House, Ltd. designs, constructs, and contracts built-to-order detached houses in Japan and internationally. It also engages in the design, construction, and contracting of built-to-order properties for lease, medical and nursing care facilities, commercial facilities, and hotels; design, construction, and contracting of construction of buildings and civil engineering works; remodeling and renovation of houses, etc.; sub-lease, management, operation, and brokerage of real estate; sale of houses and residential land; design, construction, and sale of condominiums; and development of office and commercial buildings, as well as management and operation of owned properties. The company was founded in 1960 and is headquartered in Osaka, Japan.",
+  "website": "http://www.sekisuihouse.co.jp"
+}

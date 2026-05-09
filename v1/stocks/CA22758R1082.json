@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00W9LQL99",
+    "figi": "BBG00W9LQLH0",
+    "isin": "CA22758R1082"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA22758R1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6R.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSRVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C6R.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA22758R1082.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CRVC.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CROSS RIVER VENTURES CORP",
+  "primary_symbol": "C6R.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Cross River Ventures Corp. is a Canadian mineral exploration company focused on the acquisition and exploration of gold and rare earth element properties. The company's projects are located in Canada. Cross River Ventures Corp. is based in Vancouver, British Columbia.",
+  "website": "http://www.crossriverventures.com"
+}

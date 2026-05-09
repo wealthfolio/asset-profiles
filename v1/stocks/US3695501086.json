@@ -1,0 +1,85 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BK67C7",
+    "cusip": "369550108",
+    "figi": "BBG000BK69Z8",
+    "isin": "US3695501086"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US3695501086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDX.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDX.TI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "GD.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "GDBR34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GDX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GDX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GDX.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "GEDY.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "General Dynamics Corporation",
+  "primary_symbol": "GD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "General Dynamics Corporation is an aerospace and defense company that offers a broad portfolio of products and services in business aviation; land and sea combat vehicles and systems; armaments; and technology products and services. The company operates through various segments, including Aerospace, Combat Systems, Marine Systems, and Technologies. General Dynamics is headquartered in the United States."
+}

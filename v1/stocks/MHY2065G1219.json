@@ -1,0 +1,63 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG000G4B7D1",
+    "figi": "BBG000G4BB33",
+    "isin": "MHY2065G1219"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "MHY2065G1219",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D8EN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DHT"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "D8EN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D8EN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "D8EN.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "DHT.UN.TO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DHTN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DHT HLDGS INC.NEW DL -,01",
+  "primary_symbol": "D8EN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "DHT Holdings, Inc. is an independent crude oil tanker company that owns and operates a fleet of very large crude carriers (VLCCs). The company's vessels transport crude oil on international routes. DHT Holdings is headquartered in Hamilton, Bermuda.",
+  "website": "http://www.dhtankers.com"
+}

@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "IT0001415246"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Capital Goods",
+  "isin": "IT0001415246",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QWN.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1F8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1F8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1F8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1F8.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FCT.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "FCT.MI"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "FCT.NZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FINCANTIERI SPA FINCIANTIERI OR",
+  "primary_symbol": "0QWN.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fincantieri S.p.A. is an Italian shipbuilding company that designs and constructs a wide range of vessels, including cruise ships, naval vessels, and offshore platforms. The company also provides repair, conversion, and maintenance services. Fincantieri is headquartered in Trieste, Italy.",
+  "website": "http://www.ftportfolios.com/Retail/cef/cefsummary.aspx?Ticker=FCT"
+}

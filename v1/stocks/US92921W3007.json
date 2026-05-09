@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001J17MQ0",
+    "cusip": "92921W300",
+    "figi": "BBG001J17MX2",
+    "isin": "US92921W3007"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US92921W3007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "V7XN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "V7XN.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "V7XN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "V7XN.SG"
+    }
+  ],
+  "name": "VUZIX CORP. NEW",
+  "primary_symbol": "V7XN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Vuzix Corporation is a technology company that designs, manufactures, and sells wearable display technology, including smart glasses and augmented reality (AR) devices. Their products are used in various industries, including healthcare, logistics, and manufacturing. Vuzix is headquartered in Rochester, New York."
+}

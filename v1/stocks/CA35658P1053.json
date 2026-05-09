@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00S012PH9",
+    "figi": "BBG00S012PQ9",
+    "isin": "CA35658P1053"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA35658P1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3WU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3WU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMANF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3WU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3WU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA35658P1053.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "FMAN.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Freeman Gold Corp.",
+  "primary_symbol": "3WU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Freeman Gold Corp., a mineral exploration company, engages in the acquisition, exploration, and development of mineral properties in Canada and the United States. It explores for gold, silver, and copper deposits. The company holds an interest in the Lemhi Gold Project comprising 10 patented mining claims, 1 patented millsite, and 99 unpatented claims covering an area of approximately 1,019 hectares of mineral rights and 249 hectares of surface rights located in Lemhi County, Idaho. Freeman Gold Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://www.freemangoldcorp.com"
+}

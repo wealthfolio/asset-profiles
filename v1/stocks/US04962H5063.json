@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG002NCD8C8",
+    "cusip": "04962H506",
+    "figi": "BBG002NCD8Q3",
+    "isin": "US04962H5063"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US04962H5063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATOS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YAG2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YAG2.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ATOS.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YAG2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YAG2.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Atossa Therapeutics, Inc.",
+  "primary_symbol": "ATOS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Atossa Therapeutics, Inc., a clinical-stage biopharmaceutical company, discovers and develops medicines in the areas of oncology and infectious diseases. The company's lead program is Endoxifen, an active metabolite of tamoxifen, which is in Phase II clinical trials to treat and prevent breast cancer. It is also developing AT-301, a proprietary drug candidate for nasal administration in patients diagnosed with COVID-19; AT-H201, a drug candidate to improve lung function in COVID-19 patients; and immunotherapy/chimeric antigen receptor therapy programs for the treatment of breast cancer. Atossa Therapeutics, Inc. has a research agreement with Dana-Farber Cancer Institute, Inc. to support research of cytokine-coated nanoparticles for the potential treatment of breast cancer. The company was formerly known as Atossa Genetics Inc. and changed its name to Atossa Therapeutics, Inc. in January 2020. Atossa Therapeutics, Inc. was founded in 2008 and is headquartered in Seattle, Washington.",
+  "website": "http://www.atossatherapeutics.com"
+}

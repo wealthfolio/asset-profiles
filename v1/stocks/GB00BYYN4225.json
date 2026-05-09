@@ -1,0 +1,51 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "isin": "GB00BYYN4225"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "GB00BYYN4225",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSWLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BYYN4225.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HSW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "HSW.IR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HSW.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Hostelworld Group plc",
+  "primary_symbol": "HSWLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Hostelworld Group plc operates an online hostel booking platform worldwide. The company offers software and data processing services that facilitate hostel, B&B, hotel, and other accommodation bookings. It operates through its Hostelworld brand. The company also provides business information consulting and marketing planning services; and marketing, and research and development services. Hostelworld Group plc was founded in 1999 and is headquartered in Dublin, Ireland.",
+  "website": "http://www.hostelworldgroup.com"
+}

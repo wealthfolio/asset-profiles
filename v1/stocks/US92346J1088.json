@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C2R3V1",
+    "cusip": "92346J108",
+    "figi": "BBG000C2R7W1",
+    "isin": "US92346J1088"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US92346J1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATQP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATQP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VCEL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ATQP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ATQP.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VERICEL CORP.",
+  "primary_symbol": "ATQP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Vericel Corporation is a biotechnology company specializing in advanced cell therapies for sports medicine and severe burn care. Its products include MACI (autologous cultured chondrocytes on porcine collagen membrane) for cartilage repair and Epicel (cultured epidermal autografts) for burn victims. The company is headquartered in Cambridge, Massachusetts.",
+  "website": "http://vcel.com"
+}

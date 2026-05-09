@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LGDSQ27",
+    "figi": "BBG00LGDSQ72",
+    "isin": "GB00BKS7YK08"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GB00BKS7YK08",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5TT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5TT.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5TT.SI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00BKS7YK08.SW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TET.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TREATT PLC  LS-,02",
+  "primary_symbol": "5TT.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Treatt PLC is a manufacturer and supplier of a wide range of natural extracts and ingredients for the flavour, fragrance, beverage and consumer product industries. The company focuses on providing innovative and high-quality solutions to its global customer base. Treatt PLC is headquartered in Bury St Edmunds, United Kingdom.",
+  "website": "http://www.treatt.com"
+}

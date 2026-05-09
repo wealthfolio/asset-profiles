@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PLTTD6",
+    "figi": "BBG000PLTWZ5",
+    "isin": "JP3414750004"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "JP3414750004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SE7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SE7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE7.SG"
+    }
+  ],
+  "name": "SEIKO EPSON CORP.",
+  "primary_symbol": "SE7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SEIKO EPSON CORP. is a Japanese technology company that develops and manufactures a wide range of products including printers, projectors, and watches. The company also produces industrial robots and other precision equipment. SEIKO EPSON CORP. is headquartered in Suwa, Nagano, Japan."
+}

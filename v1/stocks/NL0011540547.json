@@ -1,0 +1,76 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "isin": "NL0011540547"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "NL0011540547",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RDM.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAVMY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AB2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AB2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABMRF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AB2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AB2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AB2.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "ABN.AS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "ABN.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ABN AMRO GROUP NV ABN AMRO GROU",
+  "primary_symbol": "0RDM.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ABN AMRO GROUP NV is a Dutch banking group providing a range of financial services to retail, commercial, and private banking clients. The bank operates primarily in the Netherlands and Northwestern Europe. ABN AMRO GROUP NV is headquartered in Amsterdam, Netherlands.",
+  "website": "http://www.abnamro.nl"
+}

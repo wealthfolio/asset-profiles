@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F2SFN9",
+    "cusip": "29336T100",
+    "figi": "BBG000F2SH19",
+    "isin": "US29336T1007"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US29336T1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENLC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0E41.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "EnLink Midstream, LLC",
+  "primary_symbol": "ENLC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "EnLink Midstream, LLC provides midstream energy services in the United States. It operates through Permian, North Texas, Oklahoma, Louisiana, and Corporate segments. The company is involved in gathering, compressing, treating, processing, transporting, storing, and selling natural gas; fractionating, transporting, storing, and selling natural gas liquids; and gathering, transporting, stabilizing, storing, trans-loading, and selling crude oil and condensate, as well as providing brine disposal services. Its midstream energy asset network includes approximately 11,900 miles of pipelines; 22 natural gas processing plants; 7 fractionators; barge and rail terminals; product storage facilities; brine disposal wells; and a crude oil trucking fleet. The company was incorporated in 2013 and is based in Dallas, Texas.",
+  "website": "http://www.enlink.com"
+}

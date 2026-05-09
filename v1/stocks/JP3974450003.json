@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00W6W04X7",
+    "figi": "BBG00W6W0528",
+    "isin": "JP3974450003"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "JP3974450003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5FY.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4681.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5FY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5FY.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RESORTTRUST INC.",
+  "primary_symbol": "5FY.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Resorttrust, Inc. is a Japanese resort and hotel operator. Headquartered in Nagoya, Japan, the company owns and operates luxury resorts, hotels, and medical facilities. They provide membership-based services and cater to high-end clientele.",
+  "website": "http://www.resorttrust.co.jp"
+}

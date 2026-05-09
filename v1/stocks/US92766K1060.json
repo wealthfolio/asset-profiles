@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00HTN2CQ3",
+    "cusip": "92766K106",
+    "figi": "BBG00HTN2CT0",
+    "isin": "US92766K1060"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "US92766K1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPCE"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SPCE.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Virgin Galactic Holdings, Inc.",
+  "primary_symbol": "SPCE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Virgin Galactic Holdings, Inc., an integrated aerospace company, develops human spaceflight for private individuals and researchers in the United States. It also manufactures air and space vehicles. The company's spaceship operations include commercial human spaceflight, flying commercial research, and development payloads into space. In addition, it engages in the design and development, manufacturing, ground and flight testing, and post-flight maintenance of spaceflight vehicles. The company was founded in 2017 is headquartered in Las Cruces, New Mexico.",
+  "website": "http://www.virgingalactic.com"
+}

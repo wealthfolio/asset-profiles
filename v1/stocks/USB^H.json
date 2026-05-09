@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USB^H"
+    }
+  ],
+  "name": "U.S. Bancorp Depositary Shares repstg 1/1000th Pfd Ser B",
+  "primary_symbol": "USB^H",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "U.S. Bancorp is a financial services holding company offering a variety of banking, investment, mortgage, trust, and payment services products to individual consumers, businesses, and institutions. USB^H represents a depositary share representing ownership in preferred stock. The company is headquartered in Minneapolis, Minnesota."
+}

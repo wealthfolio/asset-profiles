@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "72581M305",
+    "isin": "US72581M3051"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US72581M3051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PXLW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PXLX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PXLX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PXLX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PXLX.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Pixelworks, Inc.",
+  "primary_symbol": "PXLW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Pixelworks, Inc. develops and markets semiconductor and software solutions. The company provides video display processor products comprises image processor ICs, such as embedded microprocessors, digital signal processing technology, and software that control the operations and signal processing within high-end display systems; video co-processor ICs that work with an image processor to post-process video signals to enhance the performance or feature set of the overall video solution; and transcoder ICs, such as embedded microprocessors, digital signal processing technology, and software that control the operations and signal processing for converting bitrates, resolutions, and codecs. As of December 31, 2020, it had an intellectual property portfolio of 338 patents related to the visual display of digital image data. The company's products are used in smartphones, tablets, and projectors. It serves in Japan, China, the United States, Taiwan, Europe, and Korea through a direct sales force, as well as distributors and manufacturers' representatives. The company was incorporated in 1997 and is based in San Jose, California.",
+  "website": "http://www.pixelworks.com"
+}

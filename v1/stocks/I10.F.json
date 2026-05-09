@@ -1,0 +1,27 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I10.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Italgas S.p.A.",
+  "primary_symbol": "I10.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Italgas S.p.A., together with its subsidiaries, engages in the distribution of natural gas in Italy. It is involved in the transportation of gas through local pipeline networks from the delivery points at the reduction and measurement stations interconnected with the transport networks to the points of final delivery to households, enterprises, etc. As of December 31, 2019, the company operated a distribution network of 70,502 kilometers that served 1,744 operating municipalities. It also engages in metering activities; and distributes and sells water. The company was founded in 1837 and is based in Milan, Italy.",
+  "website": "http://www.italgas.it"
+}

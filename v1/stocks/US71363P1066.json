@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000D6VWK4",
+    "cusip": "71363P106",
+    "figi": "BBG000D6X200",
+    "isin": "US71363P1066"
+  },
+  "industry": "Household Products",
+  "industry_group": "Consumer Services",
+  "isin": "US71363P1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRDO"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CE1.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CE1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US71363P1066.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PERDOCEO EDUCATION DL-,01",
+  "primary_symbol": "CE1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Perdoceo Education Corporation provides postsecondary education, primarily through online programs. The company offers a range of degree programs in areas such as business, technology, and healthcare. Perdoceo Education is headquartered in Schaumburg, Illinois.",
+  "website": "http://www.perdoceoed.com"
+}

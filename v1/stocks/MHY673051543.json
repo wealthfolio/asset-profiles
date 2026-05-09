@@ -1,0 +1,36 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "isin": "MHY673051543"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY673051543",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSHG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DS2U.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Performance Shipping Inc.",
+  "primary_symbol": "PSHG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Performance Shipping Inc., through its subsidiaries, provides shipping transportation services through its ownership of tanker vessels worldwide. As of April 7, 2021, it owned and operated five Aframax tanker vessels with a combined carrying capacity of 546,094 dwt. The company was incorporated in 2010 and is based in Athens, Greece.",
+  "website": "http://www.pshipping.com"
+}

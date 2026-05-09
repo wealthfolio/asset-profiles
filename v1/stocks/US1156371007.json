@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000J93N50",
+    "cusip": "115637100",
+    "figi": "BBG000J93RN1",
+    "isin": "US1156371007"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US1156371007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BF5A.MU"
+    }
+  ],
+  "name": "BROWN-FORMAN CORP.A DL-15",
+  "primary_symbol": "BF5A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Brown-Forman Corporation is a global producer and marketer of premium alcoholic beverages. Its brand portfolio includes Jack Daniel's, Woodford Reserve, and Herradura, among others. The company is headquartered in Louisville, Kentucky."
+}

@@ -1,0 +1,39 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00GCTC8Y9",
+    "cusip": "83587W205",
+    "figi": "BBG00GCTC986",
+    "isin": "US83587W2052"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US83587W2052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SOS.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SOS Limited",
+  "primary_symbol": "SOS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SOS Limited, a technology company, provides marketing data, technology, and solutions for emergency rescue services to corporate and individual members. It operates SOS cloud emergency rescue service software as a service platform that offers basic cloud products, such as medical rescue, car rescue, financial rescue, and mutual assistance rescue cards; cooperative cloud products, including information rescue center, intelligent big data, and intelligent software and hardware; and information cloud products, such as News Today and E-Commerce Today. The company serves insurance companies, financial institutions, medical institutions, healthcare providers, auto manufacturers, security providers, senior living assistance providers, and other service providers in the emergency rescue services industry. SOS Limited is based Qingdao, the People's Republic of China.",
+  "website": "http://www.sosyun.com"
+}

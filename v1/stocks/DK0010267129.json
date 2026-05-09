@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "DK0010267129"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "DK0010267129",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RTE.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RTE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RTE.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Retech Technology Co., Limited",
+  "primary_symbol": "RTE.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Retech Technology Co., Limited, an investment holding company, provides technology solutions to corporate customers, vocational schools, ESG related companies, and students in the People's Republic of China, Hong Kong, and Australia. The company also develops E-Learning platforms, E-Courses, and e-learning solutions, which enables its clients to deliver their offline training content online through various channels or devices, such as desktop, mobile, WeChat, face-to-face training solution, etc. It also provides referral and technical consultancy services; software licensing services; and property management services, as well as operates language coaching schools. The company was incorporated in 2016 and is based in Shanghai, the People's Republic of China.",
+  "website": "http://www.retech-rte.com"
+}

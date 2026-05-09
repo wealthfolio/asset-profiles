@@ -1,0 +1,48 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG000TDV2R1",
+    "figi": "BBG000TDV479",
+    "isin": "GG00B1Z5FH87"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "GG00B1Z5FH87",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "32P.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "32P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "32P.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GG00B1Z5FH87.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PPHE HOTEL GROUP LTD.",
+  "primary_symbol": "32P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PPHE Hotel Group Ltd. is an international hospitality company that owns, leases, develops, manages, and franchises hotels and resorts primarily in Europe and the Middle East, operating under brands such as Park Plaza and art'otel, headquartered in London, United Kingdom. They focus on providing hotel accommodation and related services. The company aims to deliver exceptional guest experiences.",
+  "website": "http://www.pphe.com"
+}

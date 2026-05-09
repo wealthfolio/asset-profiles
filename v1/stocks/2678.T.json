@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2678.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ASKUL Corporation",
+  "primary_symbol": "2678.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "ASKUL Corporation provides office supplies mail-order services for individuals and enterprises in Japan. The company was incorporated in 1963 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.askul.co.jp"
+}

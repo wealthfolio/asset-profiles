@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00B4W7CD2",
+    "cusip": "70465T107",
+    "figi": "BBG00B4W7CL3",
+    "isin": "US70465T1079"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US70465T1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EU6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EU6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PDSB"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EU6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EU6.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PDS BIOTECHNOLOGY CORP.",
+  "primary_symbol": "EU6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PDS Biotechnology Corp. is a clinical-stage immunotherapy company focused on developing novel cancer immunotherapies and infectious disease vaccines based on its proprietary VERSATOPE® platform technology. The company's lead product candidates are PDS0101, a VERSATOPE®-based immunotherapy targeting HPV16-associated cancers, and PDS0301, an investigational cancer vaccine. PDS Biotechnology is headquartered in Florham Park, New Jersey.",
+  "website": "http://www.pdsbiotech.com"
+}

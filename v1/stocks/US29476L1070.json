@@ -1,0 +1,67 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "29476L107",
+    "isin": "US29476L1070"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Banks",
+  "isin": "US29476L1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IIB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EQR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "0IIB.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0IIB.DU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "E1QR34.SA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EQR.AX"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EQR.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EQR.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NOTES 80 SILBER ETC",
+  "primary_symbol": "0IIB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "NOTES 80 SILBER ETC is an exchange-traded commodity (ETC) that tracks the price of silver. The ETC is structured as a debt instrument (note) and is collateralized with physical silver holdings. Investors use this ETC to gain exposure to silver price movements without directly owning the metal.",
+  "website": "http://www.equityapartments.com"
+}

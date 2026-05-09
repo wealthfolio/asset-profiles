@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00W5F9JX3",
+    "figi": "BBG00W5F9K24",
+    "isin": "JP3522200009"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "JP3522200009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "59K.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "59K.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "59K.F"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9504.T"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHUGOKU EL. PWR",
+  "primary_symbol": "59K.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Chugoku Electric Power Company Incorporated is a Japanese electric utility company that generates, transmits, and distributes electricity to the Chugoku region of Japan. The company operates various power plants, including nuclear, thermal, and hydroelectric facilities. Chugoku Electric Power is headquartered in Hiroshima, Japan.",
+  "website": "http://www.energia.co.jp"
+}

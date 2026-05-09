@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C28B17",
+    "figi": "BBG000C28FR0",
+    "isin": "JP3180400008"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "JP3180400008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSA.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9532.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OSA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OSA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OSA.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "OSAKA GAS CO. LTD",
+  "primary_symbol": "OSA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Osaka Gas Co., Ltd. is a utility company that engages in the production and distribution of gas and electricity. The company also provides energy-related services and operates in various other sectors. Osaka Gas Co., Ltd. is based in Osaka, Japan.",
+  "website": "http://www.osakagas.co.jp"
+}

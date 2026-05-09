@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "483119202",
+    "isin": "US4831192020"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US4831192020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KALA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "27F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "27F.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Kala Pharmaceuticals, Inc.",
+  "primary_symbol": "KALA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Kala Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the discovery, development, and commercialization of therapies using its proprietary nanoparticle-based Mucus Penetrating Particles (MPP) technology for the treatment of eye diseases. The company's product candidates include EYSUVIS for the short-term treatment of the signs and symptoms of dry eye disease; and INVELTYS, a topical twice-a-day ocular steroid for the treatment of post-operative inflammation and pain following ocular surgery. Its preclinical development programs comprise KPI-285/KPI-286, a receptor tyrosine kinase inhibitor program for the treatment of various retinal diseases; SEGRM program, a novel class of compounds designed to regulate gene expression through the transrepression pathway while avoiding the transactivation pathway; and surface targeted steroid program (KPI-333), a new chemical entity as a topical steroid that targets the ocular surface. The company was formerly known as Hanes Newco, Inc. and changed its name to Kala Pharmaceuticals, Inc. in December 2009. Kala Pharmaceuticals, Inc. was incorporated in 2009 and is headquartered in Watertown, Massachusetts.",
+  "website": "http://www.kalarx.com"
+}

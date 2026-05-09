@@ -1,0 +1,69 @@
+{
+  "country": "Kazakhstan",
+  "country_code": "KZ",
+  "identifiers": {
+    "composite_figi": "BBG00MKDB187",
+    "cusip": "63253R201",
+    "figi": "BBG00MKDB1G8",
+    "isin": "US63253R2013"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "US63253R2013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZQ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAP.IL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0ZQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0ZQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0ZQ.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "KAP.JO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KAZATOMPROM  GDR REGS 1/1",
+  "primary_symbol": "0ZQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "National Atomic Company Kazatomprom JSC is the world's largest producer of natural uranium, providing approximately 40% of the world's primary uranium supply in 2019. Based in Kazakhstan, the company engages in the full nuclear fuel cycle, from uranium exploration and mining to the production of nuclear fuel components. Kazatomprom exports its products to customers worldwide, particularly in Asia, Europe and North America.",
+  "website": "http://www.kazatomprom.kz"
+}

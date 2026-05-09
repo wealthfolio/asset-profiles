@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BFV758",
+    "cusip": "562750109",
+    "figi": "BBG000BFVKN9",
+    "isin": "US5627501092"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US5627501092",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MANH"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MHT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MHT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MHT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MHT.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Manhattan Associates, Inc.",
+  "primary_symbol": "MANH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Manhattan Associates, Inc. develops, sells, deploys, services, and maintains software solutions to manage supply chains, inventory, and omni-channel operations for retailers, wholesalers, manufacturers, logistics providers, and other organizations. The company offers Manhattan SCALE, a portfolio of logistics execution solutions that provide trading partner management, yard management, optimization, warehouse management, and transportation execution services; and Manhattan Active, a set of enterprise and store omni-channel solutions. It also provides inventory optimization and planning solutions; maintenance services comprising customer support services and software enhancements; professional services, such as solutions planning and implementation, and related consulting services; and training and change management services. In addition, the company resells computer hardware, radio frequency terminal networks, radio frequency identification chip readers, bar code printers and scanners, and other peripherals. It offers products through direct sales personnel, as well as through partnership agreements with various organizations. The company operates in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. Manhattan Associates, Inc. was founded in 1990 and is headquartered in Atlanta, Georgia.",
+  "website": "http://www.manh.com"
+}

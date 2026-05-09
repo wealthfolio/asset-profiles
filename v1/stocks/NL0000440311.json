@@ -1,0 +1,48 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG000PJ6744",
+    "figi": "BBG000PJ6C70",
+    "isin": "NL0000440311"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "NL0000440311",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HCY.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HCY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HCY.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "HOLCO.AS"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HOLLAND COLOURS NA.EO2,27",
+  "primary_symbol": "HCY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Holland Colours N.V. develops, manufactures, and sells solid and liquid colorants, masterbatches, and functional additives for coloring plastics, coatings and inks. The company's products are used in the building and construction, packaging, and industrial markets. Holland Colours is headquartered in Apeldoorn, the Netherlands.",
+  "website": "http://hollandcolours.com"
+}

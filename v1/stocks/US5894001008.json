@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FR81P5",
+    "cusip": "589400100",
+    "figi": "BBG000FR8512",
+    "isin": "US5894001008"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US5894001008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MCG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5894001008.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MERCURY GENL CORP.",
+  "primary_symbol": "MCG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mercury General Corporation, together with its subsidiaries, engages in writing personal automobile insurance in the United States. It also writes homeowners, commercial automobile, commercial property, mechanical protection, and umbrella insurance. The company's automobile insurance products include collision, property damage, bodily injury, comprehensive, personal injury protection, underinsured and uninsured motorist, and other hazards; and homeowners' insurance products comprise dwelling, liability, personal property, fire, and other hazards. It sells its policies through a network of independent agents, insurance agencies, and direct channels in Arizona, California, Florida, Georgia, Illinois, Nevada, New Jersey, New York, Oklahoma, Texas, and Virginia. The company was founded in 1961 and is headquartered in Los Angeles, California.",
+  "website": "http://www.mercuryinsurance.com"
+}

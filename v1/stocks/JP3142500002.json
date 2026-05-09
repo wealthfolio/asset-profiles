@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HFFVH4",
+    "figi": "BBG000HFG027",
+    "isin": "JP3142500002"
+  },
+  "industry_group": "Energy",
+  "isin": "JP3142500002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I7B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I7B.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I7B.SG"
+    }
+  ],
+  "name": "IDEMITSU KOSAN CO. LTD",
+  "primary_symbol": "I7B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "IDEMITSU KOSAN CO. LTD is a Japanese petroleum company. The company is involved in the exploration, production, refining, and marketing of petroleum products, as well as petrochemicals and other materials. Idemitsu Kosan is headquartered in Tokyo, Japan."
+}

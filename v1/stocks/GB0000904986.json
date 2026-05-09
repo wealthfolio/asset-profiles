@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000GNZS74",
+    "figi": "BBG000GNZVR5",
+    "isin": "GB0000904986"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Real Estate",
+  "isin": "GB0000904986",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "41B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLWYF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "41B.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "41B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "41B.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "41B.SI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BWY.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BELLWAY PLC  LS -,125",
+  "primary_symbol": "41B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "BELLWAY PLC is a UK-based residential property developer. The company designs, builds, and sells homes across the United Kingdom. Its headquarters are located in Newcastle upon Tyne, United Kingdom.",
+  "website": "http://www.bellwayplc.co.uk"
+}

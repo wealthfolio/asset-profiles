@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000CXNF22",
+    "figi": "BBG000CXPGZ2"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ARIS.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Aris Gold Corporation",
+  "primary_symbol": "ARIS.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Aris Gold Corporation engages in the acquisition, exploration, development, and operation of gold properties in Colombia and Canada. The company also explores for silver deposits. Its principal operations consist of the Marmato project located in the Department of Caldas, Colombia; and the Juby project situated in Ontario, Canada. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.arisgold.com"
+}

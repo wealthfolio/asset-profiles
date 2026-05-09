@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000HX6TJ8",
+    "figi": "BBG000HX6XK7",
+    "isin": "CA13758Y2015"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA13758Y2015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMID.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMID.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMLGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CMID.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CMID.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CML.AX"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "CML.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CML.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CML.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CANICKEL MINING",
+  "primary_symbol": "CMID.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "CaNickel Mining Limited, a mining company, explores for, extracts, and processes nickel-containing ore in Canada. It owns 100% interest in the Bucko Lake mine located in Wabowden, Manitoba. The company was formerly known as Crowflight Minerals Inc. and changed its name to CaNickel Mining Limited in June 2011. CaNickel Mining Limited was incorporated in 1937 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.canickel.com"
+}

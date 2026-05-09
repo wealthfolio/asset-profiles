@@ -1,0 +1,53 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000KFDYZ6",
+    "figi": "BBG000KFG5K2",
+    "isin": "ID1000115306"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "ID1000115306",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PUWA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PUWA.MU"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "CTRA.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PUWA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PUWA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CIPUTRA DEV.  RP 250",
+  "primary_symbol": "PUWA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "PT Ciputra Development Tbk, together with its subsidiaries, develops and sells real estate properties in Indonesia. The company operates through Real Estate, Rental, and Others segments. It develops and operates residential projects, including land lots, residential houses, shop houses, apartments, and strata title offices; and commercial projects, such as rental of commercial centers or mall, hotels, hospitals, golf courses, and water parks. The company was formerly known as PT Citra Habitat Indonesia and changed its name to PT Ciputra Development Tbk in December 1990. The company was founded in 1981 and is headquartered in Jakarta, Indonesia.",
+  "website": "http://www.ciputradevelopment.com"
+}

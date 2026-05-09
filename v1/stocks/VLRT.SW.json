@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "VLRT.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Valartis Group AG",
+  "primary_symbol": "VLRT.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Valartis Group AG provides financial services in Switzerland, Europe, and Russia. The company provides corporate finance, and merger and acquisition advisory services, such as consulting activities for listed and unlisted medium-sized companies. It is also involved in real estate project management and equity investments. The company was founded in 1988 and is headquartered in Fribourg, Switzerland.",
+  "website": "http://valartisgroup.ch"
+}

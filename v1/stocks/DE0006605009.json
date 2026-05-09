@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BQHHG6",
+    "figi": "BBG000BQHMS2",
+    "isin": "DE0006605009"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "DE0006605009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDN.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MDN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MDN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MDN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MDN.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MEDION AG O.N.",
+  "primary_symbol": "MDN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MEDION AG is a German consumer electronics company that designs, manufactures, and sells a range of products including computers, laptops, tablets, smartphones, and smart home devices. The company's products are sold under its own brand as well as through retailers and online channels. MEDION is headquartered in Essen, Germany, and is a subsidiary of Lenovo.",
+  "website": "http://www.medion.com"
+}

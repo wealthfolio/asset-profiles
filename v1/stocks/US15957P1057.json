@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "15957P105",
+    "isin": "US15957P1057"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US15957P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7AR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7AR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7AR.SG"
+    }
+  ],
+  "name": "CHARAH SOLUTIONS  DL-,01",
+  "primary_symbol": "7AR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Charah Solutions, Inc. is a provider of environmental services and byproduct management to the power generation industry. The company focuses on coal ash management, including ash pond closures, ash beneficiation, and other environmental solutions. Charah Solutions is headquartered in Louisville, Kentucky."
+}

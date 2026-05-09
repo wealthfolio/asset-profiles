@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BWP7D9",
+    "cusip": "92939U106",
+    "figi": "BBG000BWP918",
+    "isin": "US92939U1060"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US92939U1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WEC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIC.TI"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "W1EC34.SA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WIC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WIC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WIC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WIC.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "WEC Energy Group, Inc.",
+  "primary_symbol": "WEC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "WEC Energy Group, Inc., through its subsidiaries, provides regulated natural gas and electricity, and renewable and nonregulated renewable energy services in the United States. The company operates through six segments: Wisconsin, Illinois, Other States, Electric Transmission, Non-Utility Energy Infrastructure, and Corporate and Other. It generates and distributes electricity from coal, natural gas, oil, hydroelectric, wind, solar, and biomass sources; provides electric transmission services; offers retail natural gas distribution services; transports natural gas; and generates, distributes, and sells steam. As of December 31, 2020, it operated approximately 36,100 miles of overhead distribution lines and 34,900 miles of underground distribution cables, as well as 450 electric distribution substations and 507,900 line transformers; 50,300 miles of natural gas distribution mains; 1,100 miles of natural gas transmission mains; 2.3 million natural gas lateral services; 500 natural gas distribution and transmission gate stations; and 68.2 billion cubic feet of working gas capacities in underground natural gas storage fields. The company was formerly known as Wisconsin Energy Corporation and changed its name to WEC Energy Group, Inc. in June 2015. WEC Energy Group, Inc. was incorporated in 1981 and is headquartered in Milwaukee, Wisconsin.",
+  "website": "http://www.wecenergygroup.com"
+}

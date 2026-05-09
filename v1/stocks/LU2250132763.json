@@ -1,0 +1,31 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "LU2250132763"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "LU2250132763",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CHSR.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Chausseria",
+  "primary_symbol": "CHSR.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Chausseria designs, manufactures, and markets women's shoes. The company markets its products under the Chausseria and Janie Philip brands through a network of 15 outlets in France. Chausseria is headquartered in Paris, France.",
+  "website": "http://www.lachausseria.com"
+}

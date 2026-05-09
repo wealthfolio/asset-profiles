@@ -1,0 +1,59 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R3XLX4",
+    "figi": "BBG000R3XPL8",
+    "isin": "GG00BYXVT888"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GG00BYXVT888",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1VV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1VV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VCVOF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1VV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1VV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1VV.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VOF.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VINACAPITAL VN OPP.DL-,01",
+  "primary_symbol": "1VV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "VinaCapital Vietnam Opportunity Fund Limited is a closed-end investment fund focused on investing in companies in Vietnam. The fund seeks to generate long-term capital appreciation by investing in a diversified portfolio of equities and other securities and is managed by VinaCapital Fund Management Ltd., based in Ho Chi Minh City, Vietnam."
+}

@@ -1,0 +1,38 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00ZRWF942",
+    "figi": "BBG00ZRWF951",
+    "isin": "KYG5571R1011"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "KYG5571R1011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "9959.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9959.T"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Linklogis Inc.",
+  "primary_symbol": "9959.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Linklogis Inc., an investment holding company, provides technology solutions for supply chain finance primarily in China. The company offers Anchor Cloud, a solution that enables anchor enterprises to achieve digital transformation for supply chain management and optimize payment cycle for parties along the supply chain; and FI Cloud, a solution to help for financial institutions to digitalize, automate, and streamline their supply chain financing services. It also provides Cross-border Cloud solutions to help anchor enterprises and financial institutions to offer supply chain payment and financing for corporates engaged in cross-border trade activities; and SME Credit Tech Solution, a suite of data-driven risk analytics solutions, which help financial institutions to provide financing for anchor enterprises' SME suppliers and distributors based on data in the supply chain ecosystem. The company was founded in 2016 and is based in Shenzhen, in the People's Republic of China.",
+  "website": "http://www.linklogis.com"
+}

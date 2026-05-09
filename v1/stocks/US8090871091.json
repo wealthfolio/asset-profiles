@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P1DDYR6",
+    "cusip": "809087109",
+    "figi": "BBG00P1DDYY8",
+    "isin": "US8090871091"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "US8090871091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2XY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2XY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCPL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2XY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2XY.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SCPL.BO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SCIPLAY CORP. CL.ADL-,001",
+  "primary_symbol": "2XY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "SciPlay Corporation develops and publishes digital games on mobile and web platforms. The company's portfolio includes social casino games and casual games. SciPlay is headquartered in Las Vegas, Nevada.",
+  "website": "http://www.sciplay.com"
+}

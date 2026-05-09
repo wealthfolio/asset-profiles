@@ -1,0 +1,48 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG003NHTZC8",
+    "figi": "BBG003NHTZK9",
+    "isin": "DE000A1PG508"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A1PG508",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FF24.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FF24.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "FF24.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FF24.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FAST FIN 24 HLDG INH O.N.",
+  "primary_symbol": "FF24.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Fast Finance24 Holding AG, through its investments, engages in the distribution of consumer products through its online marketplace in Germany and rest of Europe. It also provides financial services and microcredits for individuals; and rents products. The company was formerly known as SCY Beteiligungen AG and changed its name to Fast Finance24 Holding AG in February 2019. Fast Finance24 Holding AG was founded in 2003 and is based in Frankfurt am Main, Germany.",
+  "website": "http://www.fastfinance24.com"
+}

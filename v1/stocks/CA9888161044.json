@@ -1,0 +1,57 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00ZHY3F02",
+    "figi": "BBG00ZHY3F66",
+    "isin": "CA9888161044"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA9888161044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7TV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7TV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZCTSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7TV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA9888161044.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ZAC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Zacatecas Silver Corp.",
+  "primary_symbol": "7TV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Zacatecas Silver Corp. engages in the acquisition and exploration of silver deposits in the Fresnillo Silver Belt in Mexico. It owns a 100% interest in the Zacatecas property covering 19,338 acres located in the Zacatecas State, Mexico. The company incorporated in 2020 and is headquartered in Vancouver, Canada."
+}

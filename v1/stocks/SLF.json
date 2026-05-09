@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000LRMSB8",
+    "figi": "BBG000LRMW74"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLF"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Sun Life Financial Inc.",
+  "primary_symbol": "SLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sun Life Financial Inc., a financial services company, provides insurance, wealth, and asset management solutions to individuals and corporate clients worldwide. It offers term and permanent life, as well as health, dental, critical illness, long-term care, and disability insurance products. The company also provides reinsurance products; investment counselling and portfolio management services; mutual funds and segregated funds; trust and banking services; real estate property brokerage and appraisal services; and merchant banking services. It distributes its products through direct sales, and managing and independent general agents, as well as financial intermediaries, broker-dealers, banks, pension and benefits consultants, and other third-party marketing organizations. The company was founded in 1871 and is headquartered in Toronto, Canada.",
+  "website": "http://www.sunlife.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MRH2W10",
+    "figi": "BBG00MRYWGF0",
+    "isin": "GB00BJT16S69"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "GB00BJT16S69",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TROX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T5X.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T5X.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Tronox Holdings plc",
+  "primary_symbol": "TROX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tronox Holdings plc operates as a vertically integrated manufacturer of TiO2 pigment in North America, South and Central America, Europe, the Middle East, Africa, and the Asia Pacific. The company operates titanium-bearing mineral sand mines, and beneficiation and smelting operations. Its products include TiO2, zircon, and pig iron, as well as feedstock and other products comprising rutile prime, ilmenite, chloride slag, and other mining products. The company's products are used for the manufacture of paints, coatings, plastics, and paper, as well as various other applications. Tronox Holdings plc is based in Stamford, Connecticut.",
+  "website": "http://www.tronox.com"
+}

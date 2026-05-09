@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000NBPGX0",
+    "isin": "FR0010436584"
+  },
+  "isin": "FR0010436584",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0010436584.SW"
+    }
+  ],
+  "name": "DNXCORP",
+  "primary_symbol": "FR0010436584.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

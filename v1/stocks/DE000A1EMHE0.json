@@ -1,0 +1,68 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000R30QS5",
+    "figi": "BBG000R30TS9",
+    "isin": "DE000A1EMHE0"
+  },
+  "industry": "Software",
+  "industry_group": "Materials",
+  "isin": "DE000A1EMHE0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTK.HM"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GTK.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GTK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GTK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GTK.F"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "GTK.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GTK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TONKENS AGRAR AG",
+  "primary_symbol": "GTK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tonkens Agrar AG is an agricultural company. They are involved in agricultural production and trading. The company is based in Germany.",
+  "website": "http://www.gentrack.com"
+}

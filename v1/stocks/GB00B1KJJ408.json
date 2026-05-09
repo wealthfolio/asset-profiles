@@ -1,0 +1,57 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000C8JF31",
+    "figi": "BBG000C8JJ15",
+    "isin": "GB00B1KJJ408"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Retailing",
+  "isin": "GB00B1KJJ408",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WHF4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WHF4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTB.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B1KJJ408.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WHF4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WTB.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WHITBREAD  LS -,76797385",
+  "primary_symbol": "WHF4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Whitbread PLC is a British hospitality company that owns brands such as Premier Inn and Beefeater. The company focuses on providing hotel accommodation and restaurant services. Whitbread is headquartered in Dunstable, United Kingdom."
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "OFFHUS.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Offentliga Hus i Norden AB (publ)",
+  "primary_symbol": "OFFHUS.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Offentliga Hus i Norden AB (publ), together with its subsidiaries, owns, develops, rents, and manages community service properties in Sweden. The company's community property portfolio includes retirement homes, schools, county council buildings, student flats, healthcare centers, residential care homes, day centers, theatres, etc. As of August 31, 2020, the company owns and manages 141 properties in Sweden. The company was incorporated in 2010 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.offentligahus.se"
+}

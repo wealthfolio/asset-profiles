@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WHNJ6Q8",
+    "figi": "BBG00WHNJ6W1",
+    "isin": "SE0009581051"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0009581051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5IU.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5IU.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ISOFOL.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ISOFOL MEDICAL AB",
+  "primary_symbol": "5IU.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Isofol Medical AB (publ), a clinical stage biotech company, develops, commercializes, and sells oncology drugs in Sweden and internationally. The company develops arfolitixorin, which is in phase 3 clinical trial for the treatment of advanced colorectal cancer. It has strategic collaborations with Recipharm, Merck & Cie, Solasia Pharma KK, and Sahlgrenska University Hospital. The company was incorporated in 2008 and is headquartered in Gothenburg, Sweden.",
+  "website": "http://isofolmedical.com"
+}

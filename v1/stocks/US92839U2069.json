@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0016T3GQ0",
+    "cusip": "92839U206",
+    "figi": "BBG0016T3HB4",
+    "isin": "US92839U2069"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "US92839U2069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VS51.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VS51.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "VC.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VS51.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VS51.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Visteon Corporation",
+  "primary_symbol": "VC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Visteon Corporation engineers, designs, and manufactures automotive electronics and connected car solutions for vehicle manufacturers worldwide. The company provides instrument clusters, including standard analog gauge clusters to high-resolution, all-digital, fully reconfigurable, 2-D, and 3-D display-based devices; information displays that integrate a range of user interface technologies and graphics management capabilities, such as 3-D, dual view, cameras, optics, haptic feedback, light effects, and dual displays; and Phoenix, a display audio and embedded infotainment platform, as well as onboard artificial intelligence based voice assistant. It also offers wired and wireless battery management systems; telematics control unit to enable secure connected car services, software updates, and data, as well as hands-free telephone unit; and head-up displays (HUD), such as combiner HUD and windshield HUD that present critical information to the driver. In addition, the company provides SmartCore, an automotive-grade, integrated domain controller to enhance efficiency, and reduce power consumption and cost; and DriveCore, a platform for addressing multiple levels of vehicle automation. Visteon Corporation was incorporated in 2000 and is headquartered in Van Buren, Michigan.",
+  "website": "http://www.visteon.com"
+}

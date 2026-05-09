@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004QC5YG9",
+    "figi": "BBG004QC5YN1",
+    "isin": "AU000000NWS2"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "AU000000NWS2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NC0E.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NC0E.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWS.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NC0E.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NC0E.SG"
+    }
+  ],
+  "name": "NEWS CORP.N.CUFS(B)DL-,01",
+  "primary_symbol": "NC0E.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "News Corporation is a global media and information services company. Its primary businesses include news and information services, book publishing (HarperCollins), and digital real estate services. The company is headquartered in New York City."
+}

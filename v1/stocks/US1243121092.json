@@ -1,0 +1,42 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "cusip": "124312109",
+    "isin": "US1243121092"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US1243121092",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BYDIF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BYDIY"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0285.HK"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BYD Electronic (International) Company Limited",
+  "primary_symbol": "BYDIF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BYD Electronic (International) Company Limited, an investment holding company, designs, manufactures, assembles, and sells mobile handset components and modules in the People's Republic of China and internationally. The company also provides high level assembly services; and manufactures and sells batteries, chargers, and iron phosphate batteries for use in electric buses, trucks, cars, and forklifts, as well as its components and spare parts. In addition, it builds and maintains monorail projects. The company was founded in 1995 and is headquartered in Shenzhen, the People's Republic of China. BYD Electronic (International) Company Limited is a subsidiary of Golden Link Worldwide Limited.",
+  "website": "http://electronics.byd.com"
+}

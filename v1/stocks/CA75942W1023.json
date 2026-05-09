@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00B0SCT06",
+    "figi": "BBG00B0SCT51",
+    "isin": "CA75942W1023"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA75942W1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6BX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RLLVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6BX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6BX.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RLV.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "RELEVIUM TECHN. INC.",
+  "primary_symbol": "6BX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Relevium Technologies Inc. engages in the identification, evaluation, acquisition, and operation of brands and businesses in the health and wellness markets with a focus on e-commerce. The company markets dietary supplements, nutraceuticals, sports nutrition products, and cosmeceuticals primarily through its Bioganix brand portfolio online; dietary supplements under the LeefyLyfe brand name; and skin care products under the Push & Pull System brand. It also provides Relevium Senior, a geriatric brand targeting inflammatory conditions, including joints, heart, and brain; and Relevium Kids, a pediatric brand of nutraceuticals and oral nutritional supplements. The company was formerly known as BIOflex Technologies Inc. and changed its name to Relevium Technologies Inc. in December 2015. Relevium Technologies Inc. is headquartered in Montreal, Canada.",
+  "website": "http://www.releviumtechnologies.com"
+}

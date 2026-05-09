@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00390LHM8",
+    "figi": "BBG00390LHP5"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "HUT.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Hut 8 Mining Corp.",
+  "primary_symbol": "HUT.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hut 8 Mining Corp. operates as a cryptocurrency mining company in Canada. The company engages in industrial scale bitcoin mining operations. It also owns and operates 38 BlockBoxes in Drumheller, Alberta; and 56 BlockBoxes in Medicine Hat, Alberta. The company is headquartered in Toronto, Canada.",
+  "website": "http://hut8mining.com"
+}

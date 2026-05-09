@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BYH7Q0",
+    "figi": "BBG000BYHC07",
+    "isin": "AU000000LKE1"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000LKE1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LK1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LK1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLKKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LK1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LK1.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LKE.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LAKE RESOURCES N.L.",
+  "primary_symbol": "LK1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lake Resources N.L. is an Australian lithium exploration and development company. The company is focused on developing its flagship Kachi Lithium Brine Project in Argentina. Lake Resources aims to become a significant producer of high-purity lithium for the battery market.",
+  "website": "http://www.lakeresources.com.au"
+}

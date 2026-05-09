@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "603380205",
+    "isin": "US6033802058"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6033802058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NERV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4MN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4MN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Minerva Neurosciences, Inc.",
+  "primary_symbol": "NERV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Minerva Neurosciences, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of product candidates for the treatment of central nervous system diseases. Its lead product candidate is roluperidone, a compound in Phase III clinical trial for the treatment of schizophrenia; and MIN-301, a soluble recombinant form of the neuregulin-1b1 protein for the treatment of Parkinson's disease and other neurodegenerative disorders. Minerva Neurosciences, Inc. has a license agreement with Mitsubishi Tanabe Pharma Corporation to develop, sell, and import roluperidone globally excluding Asia. The company was formerly known as Cyrenaic Pharmaceuticals, Inc. and changed its name to Minerva Neurosciences, Inc. in 2013. Minerva Neurosciences, Inc. was incorporated in 2007 and is headquartered in Waltham, Massachusetts.",
+  "website": "http://www.minervaneurosciences.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "composite_figi": "BBG000RC6H81",
+    "figi": "BBG000RC6L28",
+    "isin": "PTALT0AE0002"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "PTALT0AE0002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACJ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ACJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ACJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ACJ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "ALTR.LS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Altri, S.G.P.S., S.A.",
+  "primary_symbol": "ACJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Altri, S.G.P.S., S.A. is a Portuguese company primarily engaged in the production of pulp and paper. The company manages forest resources, produces bleached eucalyptus pulp, and manufactures paper products for various applications. Altri is headquartered in Lisbon, Portugal.",
+  "website": "http://www.altri.pt"
+}

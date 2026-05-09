@@ -1,0 +1,56 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000074148"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Capital Goods",
+  "isin": "FR0000074148",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZ1.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0OA7.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ASY.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ASY.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BZ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BZ1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ASSYSTEM S.A. INH.  EO 1",
+  "primary_symbol": "BZ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Assystem S.A. is a French engineering and technology consultancy that provides services to various industries, including aerospace, defense, energy, and transportation. The company offers engineering, project management, and digital solutions to support its clients' projects throughout their lifecycle. Assystem is headquartered in Paris, France.",
+  "website": "http://www.assystem.com"
+}

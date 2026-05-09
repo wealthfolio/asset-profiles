@@ -1,0 +1,56 @@
+{
+  "country": "Cyprus",
+  "country_code": "CY",
+  "identifiers": {
+    "isin": "MHY1146L1258"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY1146L1258",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1C1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1C1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1C1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTRM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1C1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1C1.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Castor Maritime Inc.",
+  "primary_symbol": "1C1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Castor Maritime Inc., through its subsidiaries, engages in ocean transportation of dry bulk cargoes worldwide. It provides seaborne transportation services for dry bulk cargo, including iron ore, coal, grains, steel products, fertilizers, cement, bauxite, sugar, and scrap metals. The company operates three Panamax vessels with a carrying capacity of approximately 76,122 deadweight ton. Castor Maritime Inc. was founded in 2016 and is based in Limassol, Cyprus.",
+  "website": "http://www.castormaritime.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG000CM5671",
+    "figi": "BBG000CM58X8",
+    "isin": "AU000000JHX1"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Capital Goods",
+  "isin": "AU000000JHX1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHIUF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JHA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JHA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JHA0.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "JHX.AX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "JAMES HARDIE INDUSTR.CUFS",
+  "primary_symbol": "JHA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "James Hardie Industries plc is a manufacturer of fiber cement building products for internal and external cladding and flooring applications. The company operates in markets including North America, Europe, Australia, New Zealand, and the Philippines. The company is headquartered in Dublin, Ireland.",
+  "website": "http://www.ir.jameshardie.com.au"
+}

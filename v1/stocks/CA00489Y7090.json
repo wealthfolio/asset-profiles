@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XP24KW1",
+    "figi": "BBG00XP24L59",
+    "isin": "CA00489Y7090"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA00489Y7090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0VZ2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0VZ2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA00489Y7090.SG"
+    }
+  ],
+  "name": "ACREAGE HLDGS INC.CL.D SV",
+  "primary_symbol": "0VZ2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Acreage Holdings, Inc. is a cannabis company that cultivates, processes, and dispenses cannabis products. The company operates in multiple states in the United States. Acreage Holdings is headquartered in New York, NY."
+}

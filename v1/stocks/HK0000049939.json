@@ -1,0 +1,56 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "HK0000049939"
+  },
+  "industry": "Software",
+  "industry_group": "Telecommunication Services",
+  "isin": "HK0000049939",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XCI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XCI.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "762.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XCI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XCI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XCI.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CN UNICOM(HK)LTD.",
+  "primary_symbol": "XCI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CN UNICOM(HK)LTD. is likely referring to China Unicom (Hong Kong) Limited, a telecommunications operator in China. The company provides mobile, fixed-line, broadband, and other related services. China Unicom is headquartered in Hong Kong.",
+  "website": "http://www.pkshatech.com"
+}

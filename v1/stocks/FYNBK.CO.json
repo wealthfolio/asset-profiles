@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "FYNBK.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Fynske Bank A/S",
+  "primary_symbol": "FYNBK.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Fynske Bank A/S provides various banking products and services in Denmark. The company offers savings, loan and credit, investment, pension, insurance, housing, currency and cash order, guarantee, leasing, trade, and other products and services, as well as self-service and start of business products. It serves young, elderly, employee, and self-employed customers, as well as small associations, large companies, and others. The company was founded in 1852 and is based in Svendborg, Denmark.",
+  "website": "http://www.fynskebank.dk"
+}

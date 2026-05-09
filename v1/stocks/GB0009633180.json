@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00737S683",
+    "figi": "BBG00737S6G4",
+    "isin": "GB0009633180"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "GB0009633180",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1PK.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1PK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1PK.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DPH.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DPHN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DECHRA PHARMACEUT. LS-,01",
+  "primary_symbol": "1PK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Dechra Pharmaceuticals PLC develops, manufactures, and markets veterinary pharmaceuticals and related products. The company focuses on products for companion animals and food-producing animals. Dechra Pharmaceuticals is headquartered in Northwich, United Kingdom.",
+  "website": "http://www.dechra.com"
+}

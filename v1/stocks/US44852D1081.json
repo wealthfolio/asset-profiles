@@ -1,0 +1,64 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00KK4Q8G1",
+    "cusip": "44852D108",
+    "figi": "BBG00KK4Q8K6",
+    "isin": "US44852D1081"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "US44852D1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUYA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HY5A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HY5A.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0YB1.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HY5A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HY5A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HY5A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HUYA Inc.",
+  "primary_symbol": "HUYA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "HUYA Inc., through its subsidiaries, operates game live streaming platforms in the People's Republic of China. Its platforms enable broadcasters and viewers to interact during live streaming. The company's live streaming content also covers other entertainment content, such as talent shows, anime, outdoor activities, live chats, online theatre, and other genres. In addition, it operates Nimo TV, a game live streaming platform primarily in Southeast Asia, the Middle East, and Latin America. Further, the company provides online advertising, software development, internet value added, and cultural and creative services. As of December 31, 2020, its live streaming content covered approximately 4,000 games. The company was founded in 2014 and is headquartered in Guangzhou, the People's Republic of China. HUYA Inc. is a subsidiary of Tencent Holdings Limited.",
+  "website": "http://www.huya.com"
+}

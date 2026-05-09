@@ -1,0 +1,76 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "isin": "CA8875221001"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA8875221001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TK"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKRFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLD.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0VKV.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TCD.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TK.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "TK.V"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "TKN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TLD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TLD.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Teekay Corporation",
+  "primary_symbol": "TK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Teekay Corporation operates as a marine energy transportation company. The company offers pool management, fuel services, oil and clean product STS transfers, LNG STS and terminal management, and tanker services. As of March 18, 2021, it operated 47 liquefied natural gas (LNG) carriers, 23 mid-size liquefied petroleum gas carriers, and seven multi-gas carriers. The company serves energy and utility companies, oil traders, large oil and LNG consumers, petroleum product producers, government agencies, and various other entities worldwide. Teekay Corporation was founded in 1973 and is headquartered in Hamilton, Bermuda.",
+  "website": "http://www.teekay.com"
+}

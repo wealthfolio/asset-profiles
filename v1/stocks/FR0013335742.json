@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00L7H0T68",
+    "figi": "BBG00L7H0TD0",
+    "isin": "FR0013335742"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0013335742",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TL.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5TL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALLEC.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "COGELEC S.A.  EO-,45",
+  "primary_symbol": "5TL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "COGELEC S.A. provides integrated solutions for the management of energy and data networks. The company offers a range of products and services for public lighting, traffic management, and smart city applications. COGELEC S.A. is headquartered in France.",
+  "website": "http://www.cogelec.fr"
+}

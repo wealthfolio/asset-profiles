@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BV5SB9",
+    "figi": "BBG000BV5WF6",
+    "isin": "JP3371200001"
+  },
+  "industry_group": "Materials",
+  "isin": "JP3371200001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SEH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SEH.SG"
+    }
+  ],
+  "name": "SHIN-ETSU CHEM.",
+  "primary_symbol": "SEH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SHIN-ETSU CHEM. is a chemical company that produces a wide range of products, including PVC, silicones, specialty chemicals, and semiconductor materials. The company operates globally, serving various industries. Shin-Etsu Chemical is headquartered in Tokyo, Japan."
+}

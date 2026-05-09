@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GZGZR0",
+    "cusip": "09624H208",
+    "figi": "BBG000GZH3P2",
+    "isin": "US09624H2085"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "US09624H2085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BXC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FZG1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FZG1.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BlueLinx Holdings Inc.",
+  "primary_symbol": "BXC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BlueLinx Holdings Inc., together with its subsidiaries, distributes residential and commercial building products in the United States. It distributes structural products, including plywood, oriented strand board, rebar and remesh, lumber, spruce, and other wood products primarily that are used for structural support and walls in construction projects; and specialty products comprising engineered wood, moulding, siding and trim, cedar, metal, and insulation products. The company also provides a range of value-added services and solutions to its customers and suppliers. It serves dealers, specialty distributors, national home centers, and manufactured housing customers through a network of distribution centers. The company is headquartered in Marietta, Georgia.",
+  "website": "http://www.bluelinxco.com"
+}

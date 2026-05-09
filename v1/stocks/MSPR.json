@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSPR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MSP Recovery Inc. Class A Common Stock",
+  "primary_symbol": "MSPR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "MSP Recovery, Inc. is a data analytics company that focuses on recovering claims for healthcare payers from responsible parties. The company uses its proprietary data analytics platform to identify and recover improperly paid claims. MSP Recovery aims to reduce healthcare costs by pursuing claims related to various incidents, such as accidents and negligence."
+}

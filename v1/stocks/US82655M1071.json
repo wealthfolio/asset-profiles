@@ -1,0 +1,59 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000C3F949",
+    "cusip": "82655M107",
+    "figi": "BBG000C3FCJ6",
+    "isin": "US82655M1071"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "US82655M1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IWY1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IWY1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIFY"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IWY1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IWY1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IWY1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SIFY TECHNO.LTD.ADR IR 10",
+  "primary_symbol": "IWY1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sify Technologies Limited is an Indian information and communications technology company providing end-to-end ICT solutions including telecom services, data center services, cloud services and digital services. The company serves a wide range of enterprise clients in India and internationally. Sify Technologies Limited is headquartered in Chennai, India.",
+  "website": "http://www.sifytechnologies.com"
+}

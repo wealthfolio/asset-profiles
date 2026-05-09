@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1LCV9",
+    "figi": "BBG000C1LGK2",
+    "isin": "JP3893600001"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "JP3893600001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTS1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTS1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MTS1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MTS1.SG"
+    }
+  ],
+  "name": "MITSUI + CO.",
+  "primary_symbol": "MTS1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mitsui & Co., Ltd. is a Japanese general trading company (sogo shosha) engaged in a wide range of businesses, including energy, chemicals, machinery, metals, food, and textiles. The company facilitates trade and investment globally, developing projects and providing financial services, with headquarters in Tokyo, Japan. Mitsui operates through numerous subsidiaries and affiliated companies worldwide."
+}

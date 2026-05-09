@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00DKPG2T0",
+    "figi": "BBG00DKPG309",
+    "isin": "CA9603501060"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA9603501060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1W5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1W5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTHVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1W5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA9603501060.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "WHN-WT.V"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "WHN.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Westhaven Gold Corp.",
+  "primary_symbol": "1W5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Westhaven Gold Corp. engages in the acquisition, exploration, and development of mineral properties in Canada. The company primarily explores for gold and silver deposits. It owns 100% interest in four properties, including the Shovelnose, Prospect Valley, Skoonka Creek, and Skoonka North gold projects covering approximately 37,000 hectares located in British Columbia. The company was formerly known as Westhaven Ventures Inc. and changed its name to Westhaven Gold Corp. in June 2020. Westhaven Gold Corp. was incorporated in 1998 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.westhavengold.com"
+}

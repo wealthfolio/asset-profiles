@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CZX2M3",
+    "cusip": "678026105",
+    "figi": "BBG000CZX5L7",
+    "isin": "US6780261052"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "US6780261052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OI2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OI2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OIS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OIS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OIS.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OIS.HM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OI2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OI2.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OIS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OIS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "OIL STATES INTEL  DL-,01",
+  "primary_symbol": "OI2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Oil States International, Inc. is a provider of manufactured products and services to the oil, gas, and renewable energy industries. The company operates through three segments: Well Site Services, Downhole Technologies, and Offshore/Manufactured Products. Oil States International is headquartered in Houston, Texas.",
+  "website": "http://www.oilstatesintl.com"
+}

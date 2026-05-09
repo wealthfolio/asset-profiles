@@ -1,0 +1,35 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BNN6D3",
+    "figi": "BBG000BNN8S3",
+    "isin": "ID1000099302"
+  },
+  "isin": "ID1000099302",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOZA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOZA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BOZA.DU"
+    }
+  ],
+  "name": "PT BANK MAYB. A RP 900",
+  "primary_symbol": "BOZA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

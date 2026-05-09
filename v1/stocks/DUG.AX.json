@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DUG.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DUG Technology Ltd",
+  "primary_symbol": "DUG.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Dug Technology Ltd, a technology company, provides hardware and software solutions for the technology and resource sectors in Australia, Malaysia, the United States, and the United Kingdom. The company offers high-performance computing as a service solution; data center cooling solutions; DUG Insight, a 2D/3D/pre-stack visualization and interpretation package; and DUG McCloud, a cloud solution for compute as a service, professional services, and software. It also provides data services, including on-demand support for data loading, quality control, and management; and geoscience services, such as seismic processing, full waveform inversion, depth imaging, petro physical processing and interpretation, quantitative interpretation, and regional velocity model services. The company was founded in 2003 and is based in West Perth, Australia.",
+  "website": "http://www.dug.com"
+}

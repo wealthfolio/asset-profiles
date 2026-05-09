@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "530053.KS"
+    }
+  ],
+  "name": "Samsung KOSPI PutWrite ETN",
+  "primary_symbol": "530053.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Note (ETN) that employs a PutWrite strategy on the KOSPI index. This strategy involves selling put options on the KOSPI, generating income from the premiums received. It's issued by Samsung."
+}

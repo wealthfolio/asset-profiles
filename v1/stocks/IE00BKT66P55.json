@@ -1,0 +1,51 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "IE00BKT66P55"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Diversified Financials",
+  "isin": "IE00BKT66P55",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MUS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SMU.F"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "SMU.SN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SMUE.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BlackRock MuniHoldings Quality Fund, Inc.",
+  "primary_symbol": "MUS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BlackRock MuniHoldings Quality Fund, Inc. is a closed-end management investment company seeking to provide shareholders with current income exempt from federal income tax, including the alternative minimum tax. The fund invests primarily in long-term municipal bonds.",
+  "website": "http://www.samcointl.com"
+}

@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001MB8553",
+    "cusip": "820054104",
+    "isin": "US8200541048"
+  },
+  "isin": "US8200541048",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8200541048.SG"
+    }
+  ],
+  "name": "SHARPSPRING INC",
+  "primary_symbol": "US8200541048.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

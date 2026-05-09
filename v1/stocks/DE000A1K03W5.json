@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "DE000A1K03W5"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A1K03W5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXQ"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NXR.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NXR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NXR.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "NXR.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Nuveen Select Tax-Free Income Portfolio",
+  "primary_symbol": "NXP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Nuveen Select Tax-Free Income Portfolio is a closed-ended fixed income mutual fund launched by Nuveen Investments Inc. The fund is co-managed by Nuveen Fund Advisors LLC and Nuveen Asset Management, LLC. It invests in the fixed income markets of United States. The fund invests in the investment-grade municipal securities rated Baa and BBB or better. It benchmarks the performance of its portfolio against the Standard & Poor's (S&P) National Municipal Bond Index and Lipper General and Insured Unleveraged Municipal Debt Funds Average. Nuveen Select Tax-Free Income Portfolio was formed on March 19, 1992 and is domiciled in the United States.",
+  "website": "http://www.nuveen.com/CEF/Product/Overview.aspx?fundcode=NXP"
+}

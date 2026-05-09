@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA2553311002"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Capital Goods",
+  "isin": "CA2553311002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEVFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BEW.F"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BEW.SI"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "DIV.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Diversified Royalty Corp.",
+  "primary_symbol": "BEVFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Diversified Royalty Corp., a multi-royalty corporation, engages in the acquisition of royalties from multi-location businesses and franchisors in North America. It owns the Mr. Lube, AIR MILES, Sutton, Mr. Mikes, Nurse Next Door, and Oxford Learning Centres trademarks. The company was formerly known as BENEV Capital Inc. and changed its name to Diversified Royalty Corp. in September 2014. Diversified Royalty Corp. was incorporated in 1992 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.diversifiedroyaltycorp.com"
+}

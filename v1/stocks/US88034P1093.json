@@ -1,0 +1,48 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MS3ZCF3",
+    "cusip": "88034P109",
+    "figi": "BBG00MS3ZCL6",
+    "isin": "US88034P1093"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "US88034P1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "63TA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TMEN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "63TA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "63TA.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TENCENT MUSIC ENT. SP.ADR",
+  "primary_symbol": "63TA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "TENCENT MUSIC ENT. SP.ADR operates online music entertainment platforms, providing music streaming, online karaoke, and live streaming services. The company's platforms include QQ Music, Kugou Music, and Kuwo Music, popular in China. The company is based in China.",
+  "website": "http://www.thermoenergy.com"
+}

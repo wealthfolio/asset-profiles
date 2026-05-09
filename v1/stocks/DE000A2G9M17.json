@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00L4673D7",
+    "figi": "BBG00L4673L8",
+    "isin": "DE000A2G9M17"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A2G9M17",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CPX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CPX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CPX.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE000A2G9M17.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CAPSENSIXX AG  INH O.N.",
+  "primary_symbol": "CPX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Capsensixx AG engages in the financial administration as a service business. It offers fund management, administration, and accounting services; corporate and capital markets services that include advisory services to banks, insurance companies, and asset managers; and digitization and IT-services. The company is based in Frankfurt am Main, Germany.",
+  "website": "http://www.capsensixx.de"
+}

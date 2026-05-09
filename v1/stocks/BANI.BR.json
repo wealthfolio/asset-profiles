@@ -1,0 +1,27 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "BANI.BR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Banimmo SA",
+  "primary_symbol": "BANI.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Banimmo SA engages in the redevelopment of various buildings in Belgium, France, and Luxembourg. It constructs built-to-suit projects in various categories, such as offices, retail projects, and hotels and conference centers. The company is based in Brussels, Belgium.",
+  "website": "http://www.banimmo.be"
+}

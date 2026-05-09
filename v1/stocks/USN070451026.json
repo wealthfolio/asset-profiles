@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R72ZR5",
+    "figi": "BBG000R731J8",
+    "isin": "USN070451026"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "USN070451026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVSN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVSN.MU"
+    }
+  ],
+  "name": "ASM INTL N.V. NY/1 EO-,04",
+  "primary_symbol": "AVSN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ASM International N.V. specializes in the design, manufacturing, and supply of equipment and process solutions for semiconductor device fabrication. The company provides technologies for thin film deposition, epitaxy, and other critical processes in chip manufacturing. ASM International is headquartered in Almere, the Netherlands."
+}

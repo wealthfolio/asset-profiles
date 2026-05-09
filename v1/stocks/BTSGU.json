@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BTSGU"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BrightSpring Health Services Inc. Tangible Equity Unit",
+  "primary_symbol": "BTSGU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BrightSpring Health Services Inc. Tangible Equity Units represent an investment unit consisting of a contract to purchase BrightSpring common stock in the future and a junior subordinated note issued by the company. These units are designed to provide investors with a combination of fixed income and potential equity participation. The company is headquartered in Louisville, Kentucky."
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BHCTP5",
+    "figi": "BBG000BHCY01",
+    "isin": "HK0000055878"
+  },
+  "industry_group": "Insurance",
+  "isin": "HK0000055878",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIUC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIUC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HIUC.SG"
+    }
+  ],
+  "name": "CN TAIPING INS.HLD.(BL200",
+  "primary_symbol": "HIUC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CN Taiping Insurance Holdings Company Limited is a Chinese insurance company engaged in life insurance, property insurance, and reinsurance businesses. The company also provides asset management and other financial services. It is headquartered in Hong Kong."
+}

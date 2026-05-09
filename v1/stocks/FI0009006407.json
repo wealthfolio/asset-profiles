@@ -1,0 +1,48 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG000DXVJV2",
+    "figi": "BBG000DXWPQ3",
+    "isin": "FI0009006407"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "FI0009006407",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I8J.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ERY.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I8J.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "ICP1V.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INCAP OYJ",
+  "primary_symbol": "I8J.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "INCAP OYJ is an international contract manufacturer of electronics. The company provides full-service electronics manufacturing services (EMS) throughout the product lifecycle, from design and prototyping to mass production, supply chain management, and repair services. Incap is headquartered in Helsinki, Finland.",
+  "website": "http://incapcorp.com"
+}

@@ -1,0 +1,23 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TR.HM"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DGH Deutsche Grundwert Holding AG",
+  "primary_symbol": "5TR.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "website": "http://www.dgh-ag.net"
+}

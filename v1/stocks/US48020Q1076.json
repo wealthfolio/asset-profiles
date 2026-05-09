@@ -1,0 +1,30 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "cusip": "48020Q107",
+    "isin": "US48020Q1076"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US48020Q1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "JLL.BO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Jindal Leasefin Limited",
+  "primary_symbol": "JLL.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Jindal Leasefin Limited is an Indian financial services company primarily engaged in providing leasing and financial solutions. The company offers various financial products to businesses. The company is based in India."
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG000Q80397",
+    "figi": "BBG000Q805C8",
+    "isin": "IE00B4Q5ZN47"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IE00B4Q5ZN47",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "J7Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "J7Z.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAZZ"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "J7Z.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "J7Z.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "J7Z.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "JAZZ PHARMACEUT. DL-,0001",
+  "primary_symbol": "J7Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Jazz Pharmaceuticals plc is a biopharmaceutical company focused on developing and commercializing medicines for unmet medical needs in neuroscience and oncology. The company's products target sleep disorders, epilepsy, and cancer. Jazz Pharmaceuticals is headquartered in Dublin, Ireland.",
+  "website": "http://www.jazzpharma.com"
+}

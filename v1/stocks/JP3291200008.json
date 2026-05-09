@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00W5FC4B6",
+    "figi": "BBG00W5FC4H0",
+    "isin": "JP3291200008"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "JP3291200008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "59G.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3038.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "59G.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "59G.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KOBE BUSSAN CO. LTD",
+  "primary_symbol": "59G.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Kobe Bussan Co., Ltd. operates as a food retailer and wholesaler, primarily known for its discount store chain called \"Gyomu Super.\" The company imports and distributes food products through its network of franchised and company-owned stores. Kobe Bussan is headquartered in Hyogo Prefecture, Japan.",
+  "website": "http://www.kobebussan.co.jp"
+}

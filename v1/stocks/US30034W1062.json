@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LJVSD96",
+    "cusip": "30034W106",
+    "figi": "BBG00LJVSDH7",
+    "isin": "US30034W1062"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US30034W1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3E7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVRG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "3E7.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3E7.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "EVERGY INC.",
+  "primary_symbol": "3E7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Evergy, Inc. is a public utility holding company that provides electricity to customers in Kansas and Missouri. The company generates, transmits, and distributes electricity. Evergy is headquartered in Kansas City, Missouri.",
+  "website": "http://www.evergyinc.com"
+}

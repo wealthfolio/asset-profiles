@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZNRW08",
+    "figi": "BBG00XZNRW53",
+    "isin": "NO0010722283"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "NO0010722283",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EIP.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ELABS.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010722283.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Elliptic Laboratories AS",
+  "primary_symbol": "EIP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Elliptic Laboratories A/S provides software-based artificial intelligence (AI) virtual smart sensors in Norway, China, South Korea, the United States, and Japan. It offers AI virtual sensors, such as security, inner beauty proximity, gesture; presence, and connection sensors for laptops, mobiles, and IoT and VR devices. The company was founded in 2006 and is based in Oslo, Norway.",
+  "website": "http://www.ellipticlabs.com"
+}

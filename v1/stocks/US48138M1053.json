@@ -1,0 +1,79 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00NTYBQZ5",
+    "cusip": "48138M105",
+    "figi": "BBG00NTYBR65",
+    "isin": "US48138M1053"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "US48138M1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4JMA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4JMA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4JMA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JMIA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A44.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4JMA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4JMA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4JMA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "JMIA.VI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "JMIAN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "JUMIA TECH. SP.ADR/2 O.N.",
+  "primary_symbol": "4JMA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Jumia Technologies AG is an e-commerce platform that operates in Africa, offering a marketplace for vendors and consumers to buy and sell goods and services. It provides logistics and payment infrastructure, enabling transactions in various categories such as electronics, fashion, home goods, and food. Jumia is headquartered in Berlin, Germany.",
+  "website": "http://group.jumia.com"
+}

@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0077HBD53",
+    "cusip": "531465102",
+    "figi": "BBG0077HBDB6",
+    "isin": "US5314651028"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US5314651028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LT0A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5314651028.SG"
+    }
+  ],
+  "name": "LIBERTY TRIPADV. HLDGS A",
+  "primary_symbol": "LT0A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LIBERTY TRIPADV. HLDGS A is Liberty TripAdvisor Holdings, Inc., a holding company for TripAdvisor. TripAdvisor operates an online travel platform where users can access reviews, ratings, and opinions on hotels, restaurants, and attractions. The company is headquartered in Needham, Massachusetts."
+}

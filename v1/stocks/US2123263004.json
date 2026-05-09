@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "212326300",
+    "isin": "US2123263004"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US2123263004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "22R1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "22R1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US2123263004.SG"
+    }
+  ],
+  "name": "CONTRAFECT CORP. DL-,0001",
+  "primary_symbol": "22R1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ContraFect Corporation is a biotechnology company focused on discovering and developing therapeutic protein and antibody products for life-threatening, drug-resistant infectious diseases, particularly those treated in the hospital setting. The company is headquartered in Yonkers, New York. ContraFect's business model centers on identifying, developing, and commercializing novel therapies to combat serious infections."
+}

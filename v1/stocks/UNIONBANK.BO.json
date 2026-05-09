@@ -1,0 +1,25 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "UNIONBANK.BO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Union Bank of India",
+  "primary_symbol": "UNIONBANK.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Union Bank of India is a public sector bank providing a range of banking and financial services. The bank offers services such as retail banking, corporate banking, and treasury operations. It is headquartered in Mumbai, India."
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "JP3921290007"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "JP3921290007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCARY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRCIF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4385.T"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Mercari, Inc.",
+  "primary_symbol": "MCARY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Mercari, Inc. engages in the planning, development, and operation of the Mercari marketplace applications in Japan, the United States, and the United Kingdom. Its marketplace applications allow individuals to buy and sell new and used items, such as electronics, jewelries, clothes, and shoes; and books, CDs, and DVDs. The company is also involved in the planning, development, and management of internet services. Mercari, Inc. was founded in 2013 and is based in Tokyo, Japan.",
+  "website": "http://www.mercari.com"
+}

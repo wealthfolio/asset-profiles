@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00JRNPKX0",
+    "figi": "BBG00JRNPL40",
+    "isin": "DE000SHL1006"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE000SHL1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHL.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SHED.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SHL.DU"
+    }
+  ],
+  "name": "SIEMENS HEALTH.AG NA O.N.",
+  "primary_symbol": "SHL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Siemens Healthineers AG is a German medical technology company. It provides healthcare solutions including medical imaging, laboratory diagnostics, and enterprise services. The company is headquartered in Erlangen, Germany."
+}

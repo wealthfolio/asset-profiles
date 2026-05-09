@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BKT5S9",
+    "figi": "BBG000BKT7W0",
+    "isin": "DE0006942808"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Capital Goods",
+  "isin": "DE0006942808",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PZS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PZS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PZS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PZS.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SCHERZER U. CO. AG O.N.",
+  "primary_symbol": "PZS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Scherzer & Co. AG is a publicly owned investment manager. The firm provides its services to Institutional and private investors. The firm focuses on high-growth companies that have a sustainable business model. Scherzer & Co. AG was founded in 1880 and is based in Cologne, Germany.",
+  "website": "http://www.scherzer-ag.de"
+}

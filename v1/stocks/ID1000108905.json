@@ -1,0 +1,53 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000JJT2Q3",
+    "figi": "BBG000JJT7H2",
+    "isin": "ID1000108905"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "ID1000108905",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LK4B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LK4B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTLKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LK4B.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "LPKR.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LIPPO KARAWACI TBK RP 100",
+  "primary_symbol": "LK4B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "LIPPO KARAWACI TBK is an Indonesian real estate developer with a diverse portfolio including residential, commercial, retail, and healthcare properties. The company develops integrated urban developments, shopping malls, hospitals, and hotels. Lippo Karawaci is headquartered in Jakarta, Indonesia.",
+  "website": "http://www.lippokarawaci.co.id"
+}

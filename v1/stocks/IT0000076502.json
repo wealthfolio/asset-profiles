@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BMW770",
+    "figi": "BBG000BMW921",
+    "isin": "IT0000076502"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "IT0000076502",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DAS.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0000076502.SW"
+    }
+  ],
+  "name": "DANIELI + C.",
+  "primary_symbol": "DAS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Danieli & C. S.p.A. designs, manufactures, and installs metal processing plants and equipment worldwide. The company offers a comprehensive range of services from engineering and construction to automation and process control systems for the steel and non-ferrous metals industries. Danieli is headquartered in Buttrio, Italy."
+}

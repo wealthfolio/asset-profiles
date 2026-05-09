@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BWYFB3",
+    "figi": "BBG000BWYJH9",
+    "isin": "DE000A2BPP88"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE000A2BPP88",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSS.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BSS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BSS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BSS.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BETA SYST.SOFTW. INH.O.N.",
+  "primary_symbol": "BSS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Beta Systems Software AG is a German provider of software solutions for data center automation, access management, and compliance. The company offers products and services to large organizations, helping them manage and control their IT infrastructure. Beta Systems is headquartered in Berlin, Germany.",
+  "website": "http://www.betasystems.com"
+}

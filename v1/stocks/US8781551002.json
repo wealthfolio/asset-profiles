@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "878155100",
+    "isin": "US8781551002"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US8781551002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T9C.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T9C.SG"
+    }
+  ],
+  "name": "TEAM INC.  DL-,30",
+  "primary_symbol": "T9C.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "TEAM INC. DL-,30 is a global provider of specialized industrial services, including non-destructive testing, inspection, and heat treating. The company serves a variety of industries, including energy, chemical, and infrastructure, by providing solutions to maintain and enhance the integrity of critical assets. TEAM, Inc. is headquartered in Sugar Land, Texas."
+}

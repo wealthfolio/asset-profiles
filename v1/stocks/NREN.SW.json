@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NREN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Novavest Real Estate AG",
+  "primary_symbol": "NREN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Novavest Real Estate AG engages in the real estate activities in Switzerland. It develops, rents, and manages residential, mixed used, and office and commercial properties; courthouses, community buildings, schools, shopping centers, and hotels or leisure facilities; industrial plants; and conversion and renovation properties. The company is based in Zurich, Switzerland.",
+  "website": "http://www.novavest.ch"
+}

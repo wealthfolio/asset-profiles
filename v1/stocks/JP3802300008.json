@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000NPS935",
+    "figi": "BBG000NPTGK9",
+    "isin": "JP3802300008"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "JP3802300008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FR7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FR7.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FR7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR7.SG"
+    }
+  ],
+  "name": "FAST RETAILING CO.  YN 50",
+  "primary_symbol": "FR7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "FAST RETAILING CO. is a Japanese retail holding company that operates a portfolio of apparel brands, most notably UNIQLO. They design, manufacture, and sell clothing through a global network of retail stores and online platforms. Fast Retailing is headquartered in Tokyo, Japan."
+}

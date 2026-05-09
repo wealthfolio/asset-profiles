@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00PWYWB77",
+    "figi": "BBG00PWYWBF8",
+    "isin": "CA46604F1099"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Software & Services",
+  "isin": "CA46604F1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1R3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1R3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IZOZF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1R3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA46604F1099.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "IZO.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IZOTROPIC CORP.",
+  "primary_symbol": "1R3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IZOTROPIC CORP. is a technology company. It provides data analytics and machine learning solutions. The company's headquarters location and specific business model details are not readily available.",
+  "website": "http://izocorp.com"
+}

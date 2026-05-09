@@ -1,0 +1,68 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000R6RJF9",
+    "figi": "BBG000R6RLS0",
+    "isin": "SG1U76934819"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Transportation",
+  "isin": "SG1U76934819",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B8O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B8O.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B8O.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B8O.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSHLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B8O.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B8O.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BS6.SI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "YANGZIJIANG SHIP.HLDGS",
+  "primary_symbol": "B8O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "YANGZIJIANG SHIPBUILDING HOLDINGS is a Chinese shipbuilding company. It builds a range of commercial vessels and is one of China's largest private shipbuilders, with its headquarters in Singapore.",
+  "website": "http://www.yzjship.com"
+}

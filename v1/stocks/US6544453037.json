@@ -1,0 +1,82 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "654445303",
+    "isin": "US6544453037"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "US6544453037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTDOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTDOY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTOA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTOA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K85.L"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7974.T"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NTDOYN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NTO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "NTO.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NTOA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NTOA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Nintendo Co., Ltd.",
+  "primary_symbol": "NTDOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Nintendo Co., Ltd., together with its subsidiaries, develops, manufactures, and distributes electronic entertainment products in Japan, the Americas, Europe, and internationally. It offers video game platforms, playing cards, Karuta, and other products; and handheld and home console hardware systems and related software. The company was formerly known as Nintendo Playing Card Co., Ltd. and changed its name to Nintendo Co., Ltd. in 1963. Nintendo Co., Ltd. was founded in 1889 and is headquartered in Kyoto, Japan.",
+  "website": "http://www.nintendo.co.jp"
+}

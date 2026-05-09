@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000DCN6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000DCN6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCCNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DAG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DAG.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DCN.AX"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DCN.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Dacian Gold Limited",
+  "primary_symbol": "DCCNF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Dacian Gold Limited engages in the exploration, mining, and processing of gold properties in Australia. It primarily focuses on its 100% owned Mount Morgans Gold project located near Laverton, Western Australia. The company was incorporated in 2011 and is based in Como, Australia.",
+  "website": "http://www.daciangold.com.au"
+}

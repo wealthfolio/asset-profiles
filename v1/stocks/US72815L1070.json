@@ -1,0 +1,59 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00ZVJTQ61",
+    "cusip": "72815L107",
+    "figi": "BBG00ZVJTQD3",
+    "isin": "US72815L1070"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Software & Services",
+  "isin": "US72815L1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8II.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8II.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLTK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8II.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8II.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US72815L1070.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PLAYTIKA HOLDING  DL-,01",
+  "primary_symbol": "8II.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "PLAYTIKA HOLDING  DL-,01: Playtika Holding Corp. is a mobile gaming company that develops and operates a variety of free-to-play games. The company's portfolio includes popular titles such as Slotomania, Bingo Blitz, and House of Fun. Playtika is headquartered in Herzliya, Israel.",
+  "website": "http://www.playtika.com"
+}

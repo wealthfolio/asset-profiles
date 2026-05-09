@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA8650013094"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA8650013094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBUDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "REL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "REL.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SUGR-WR.V"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SUGR-WS.V"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SUGR.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SugarBud Craft Growers Corp.",
+  "primary_symbol": "SBUDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SugarBud Craft Growers Corp. engages in the acquisition, development, production, and distribution of cannabis products in Canada. The company was formerly known as Relentless Resources Ltd. and changed its name to SugarBud Craft Growers Corp. in October 2018. SugarBud Craft Growers Corp. is headquartered in Calgary, Alberta.",
+  "website": "http://www.sugarbud.ca"
+}

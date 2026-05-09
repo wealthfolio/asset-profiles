@@ -1,0 +1,46 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0010100958"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0010100958",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RQP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "18LB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "18LB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "18LB.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "INVESTMENT LATOUR AB LATOUR INV",
+  "primary_symbol": "0RQP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "INVESTMENT LATOUR AB is a Swedish investment company that invests in a portfolio of industrial companies. The company takes a long-term perspective on its investments. INVESTMENT LATOUR AB is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.latour.se/en/"
+}

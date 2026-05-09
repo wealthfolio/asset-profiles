@@ -1,0 +1,38 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000PLPFJ4",
+    "figi": "BBG000PLPJ97",
+    "isin": "KYG4672N1198"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "KYG4672N1198",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H7T2.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "H7T2.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HUTCHMED (CHINA)  LS-,1",
+  "primary_symbol": "H7T2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Hutchmed (China) Limited is a biopharmaceutical company focused on discovering, developing, and commercializing innovative therapeutics in oncology and immunology. The company develops and markets innovative medicines. Hutchmed is headquartered in Hong Kong.",
+  "website": "http://www.hutch-med.com"
+}

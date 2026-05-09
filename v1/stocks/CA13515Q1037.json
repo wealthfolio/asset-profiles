@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA13515Q1037"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA13515Q1037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNIKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA13515Q1037.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CNC.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CNC.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Canada Nickel Company Inc.",
+  "primary_symbol": "CNIKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Canada Nickel Company Inc. explores and discovers nickel sulphide assets. Its flagship property is the 100% owned Crawford Nickel-Cobalt Sulphide Project located in northern Ontario, Canada. The company was incorporated in 2019 and is headquartered in Toronto, Canada.",
+  "website": "http://www.canadanickel.com"
+}

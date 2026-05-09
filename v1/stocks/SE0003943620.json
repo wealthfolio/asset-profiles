@@ -1,0 +1,53 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00MNLXH41",
+    "figi": "BBG00MNLXHB3",
+    "isin": "SE0003943620"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0003943620",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EN9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EN9.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EN9.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ENZY.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0003943620.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ENZYMATICA AB",
+  "primary_symbol": "EN9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ENZYMATICA AB: Enzymatica AB develops and sells medical devices and consumer healthcare products based on its barrier technology. Its main product, ColdZyme, is a mouth spray used to treat and prevent colds. The company is headquartered in Lund, Sweden.",
+  "website": "http://www.enzymatica.se"
+}

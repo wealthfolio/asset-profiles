@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Media",
+  "industry_group": "Media & Entertainment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUBO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "fuboTV Inc.",
+  "primary_symbol": "FUBO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "fuboTV Inc. operates a live TV streaming platform for live sports events, news, and entertainment content in the United States and Europe. Its fuboTV platform allows customers to access content through streaming devices, as well as on SmartTVs, computers, mobile phones, and tablets. The company is headquartered in New York, New York.",
+  "website": "http://www.fubo.tv"
+}

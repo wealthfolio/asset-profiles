@@ -1,0 +1,48 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00Y1PXWN6",
+    "figi": "BBG00Y1PXWV7",
+    "isin": "DK0061414711"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Energy",
+  "isin": "DK0061414711",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DK0061414711.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "EFUEL.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EVERFUEL A/S  DK -,10",
+  "primary_symbol": "0HR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Everfuel A/S is a Danish company focused on making green hydrogen for zero-emission mobility available across Europe, offering safe production, distribution, and supply to end-users. It operates in the hydrogen value chain. Everfuel A/S is headquartered in Herning, Denmark.",
+  "website": "http://www.everfuel.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0008091904"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Consumer Services",
+  "isin": "SE0008091904",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3LV.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3LV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3LV.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LEOVEGAS AB",
+  "primary_symbol": "3LV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LeoVegas AB is a mobile gaming company that provides online casino and sports betting services. The company operates multiple brands and platforms, offering a wide range of games. LeoVegas is headquartered in Stockholm, Sweden.",
+  "website": "http://www.leovegasgroup.com"
+}

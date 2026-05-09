@@ -1,0 +1,44 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000JXMDL0",
+    "cusip": "39032T106",
+    "figi": "BBG000JXMF80",
+    "isin": "US39032T1060"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US39032T1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D5T1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "D5T1.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GEEC.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Great Eastern Energy Corporation Limited",
+  "primary_symbol": "D5T1.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Great Eastern Energy Corporation Limited engages in exploring, developing, extracting, distributing, and marketing coal bed methane and compressed natural gas in India. It owns interests in the Raniganj (South) block that covers an area of approximately 210 square kilometers located in West Bengal; and Mannargudi block, which covers an area of approximately 667 square kilometers situated in Mannargudi, Tamil Nadu. The company was incorporated in 1992 and is based in Gurugram, India.",
+  "website": "http://www.geecl.com"
+}

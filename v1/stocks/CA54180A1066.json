@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA54180A1066"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA54180A1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LO51.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LONCF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "LN.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LO51.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Loncor Resources Inc.",
+  "primary_symbol": "LO51.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Loncor Resources Inc., a gold exploration company, engages in the acquisition, exploration, and development of precious metal projects in the Ngayu greenstone belt in the northeast of the Democratic Republic of the Congo. The company also explores for platinum deposits. The company's flagship project is the Adumbi project that consists of 6 mining leases covering an area of 361 square kilometers located in the Archaean Ngayu Greenstone Belt. The company was formerly known as Nevada Bob's International Inc. and changed its name to Loncor Resources Inc. in November 2008. Loncor Resources Inc. is headquartered in Toronto, Canada.",
+  "website": "http://www.loncor.com"
+}

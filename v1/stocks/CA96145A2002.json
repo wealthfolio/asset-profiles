@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA96145A2002"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "CA96145A2002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTSHF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WTE.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Westshore Terminals Investment Corporation",
+  "primary_symbol": "WTSHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Westshore Terminals Investment Corporation, through its limited partnership interests in Westshore Terminals Limited Partnership, operates a coal storage and loading terminal at Roberts Bank, British Columbia in Canada. It has contracts to ship coal from mines in British Columbia, Alberta, and the Northwestern United States. The company was founded in 1970 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.westshore.com"
+}

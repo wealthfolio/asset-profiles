@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BYS608",
+    "figi": "BBG000BYS8X8",
+    "isin": "JP3420600003"
+  },
+  "industry_group": "Real Estate",
+  "isin": "JP3420600003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPH1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPH1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SPH1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SPH1.SG"
+    }
+  ],
+  "name": "SEKISUI HOUSE",
+  "primary_symbol": "SPH1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Sekisui House, Ltd. is a Japanese homebuilder that designs, constructs, and sells residential and commercial properties. The company also develops and manages real estate properties. Sekisui House is headquartered in Osaka, Japan."
+}

@@ -1,0 +1,56 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0000114837"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "SE0000114837",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NL3.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TBABF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLLB.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TLLB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TLLB.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "TREL-B.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TRELLEBORG AB TRELLEBORG B ORD",
+  "primary_symbol": "0NL3.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Trelleborg AB is a Swedish engineering group that specializes in polymer technology. It develops and manufactures sealing solutions, polymer-based products, and engineered systems. The company is headquartered in Trelleborg, Sweden.",
+  "website": "http://www.trelleborg.com"
+}

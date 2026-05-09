@@ -1,0 +1,52 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "cusip": "151205200",
+    "isin": "US1512052002"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US1512052002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYAD"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QFK.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1C0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1C0S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "CYAD.BR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Celyad Oncology SA",
+  "primary_symbol": "CYAD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Celyad Oncology SA, a clinical-stage biopharmaceutical company, focuses on the discovery and development of chimeric antigen receptor-T (CAR-T) cell-based therapies for the treatment of cancer. Its lead product candidates includes CYAD-101, an allogeneic CAR-T candidate that is in Phase 1 clinical trial for the treatment of metastatic colorectal cancer; CYAD-211, a short hairpin RNA (shRNA)-based allogeneic CAR-T candidate, which is in Phase 1 clinical trial to treat relapsed / refractory multiple myeloma; and CYAD-02, an autologous CAR-T therapy that is in Phase 1 clinical trial for the treatment of hematological malignancies and solid tumors. The company's preclinical candidates, include allogeneic CAR-T candidate for the treatment of solid tumors; CYAD-221, shRNA based allogeneic CAR-T candidate to treat B-cell malignancies; and CYAD-231, a dual specific CAR-T candidate targeting natural killer group 2D ligands (NKG2D) and an undisclosed membrane protein. It has licensing agreement with Novartis International AG regarding the United States patents related to allogeneic CAR-T cells; and research and development collaboration, and license agreements with Horizon Discovery Group plc for the use of its shRNA technology to generate second non-gene-edited allogeneic platform. The company was formerly known as Celyad SA and changed its name to Celyad Oncology SA in June 2020. Celyad Oncology SA was founded in 2004 and is headquartered in Mont-Saint-Guibert, Belgium.",
+  "website": "http://www.celyad.com"
+}

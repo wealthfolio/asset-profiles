@@ -1,0 +1,39 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00B3L3T17",
+    "cusip": "74638P109",
+    "figi": "BBG00B3L3TK6",
+    "isin": "US74638P1093"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US74638P1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPBT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPBT.TA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Purple Biotech Ltd.",
+  "primary_symbol": "PPBT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Purple Biotech Ltd., a clinical-stage pharmaceutical company, focuses on the development and commercialization of various pharmaceutical drugs in the United States. It operates through two segments, Oncology, and Pain and Hypertension. The company's marketed products include Consensi, a fixed-dose combination of celecoxib and amlodipine besylate for the simultaneous treatment of osteoarthritis pain and hypertension. Its oncology pipeline includes NT219, a small molecule that targets insulin receptor substrate 1 and 2, and signal transducer and activator of transcription, which is in Phase 1/2 clinical trials for the treatment of recurrent and/or metastatic solid tumors and squamous cell carcinoma of the head and neck cancer; and CM-24, a monoclonal antibody blocking CEACAM1 that is being developed as a combination therapy with anti-PD-1 checkpoint inhibitors, which is in Phase 1/2 clinical trials for the treatment of non-small cell lung cancer and pancreatic cancer. The company was formerly known as Kitov Pharma Ltd and changed its name to Purple Biotech Ltd. in December 2020. Purple Biotech Ltd. was founded in 2010 and is headquartered in Rehovot, Israel.",
+  "website": "http://purple-biotech.com"
+}

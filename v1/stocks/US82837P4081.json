@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00QZ0FRL4",
+    "cusip": "82837P408",
+    "figi": "BBG00QZ0FRS7",
+    "isin": "US82837P4081"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US82837P4081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0XZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0XZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A96.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0XZ.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SI.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US82837P4081.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SILVERGATE CAP. CL.A",
+  "primary_symbol": "0XZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Silvergate Capital Corporation operates as a bank holding company for Silvergate Bank, which provides banking and financial solutions to the digital currency industry. They offer services, including SEN Leverage, a lending product to facilitate capital efficiency for institutions in the digital currency industry. Silvergate Capital Corporation is headquartered in La Jolla, California.",
+  "website": "http://www.silvergatebank.com"
+}

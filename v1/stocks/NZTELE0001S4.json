@@ -1,0 +1,63 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG000HV13T3",
+    "figi": "BBG000HV1830",
+    "isin": "NZTELE0001S4"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Telecommunication Services",
+  "isin": "NZTELE0001S4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NZT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NZT.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NZT.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NZT.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NZT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NZT.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "SPK.MC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SPARK NEW ZEALAND LTD. ON",
+  "primary_symbol": "NZT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Spark New Zealand Limited is a digital services company providing telecommunications, internet, and IT services in New Zealand. The company offers mobile, broadband, cloud, security, and digital solutions to consumers, businesses, and government organizations. Spark New Zealand is headquartered in Auckland, New Zealand.",
+  "website": "http://www.solarpack.es"
+}

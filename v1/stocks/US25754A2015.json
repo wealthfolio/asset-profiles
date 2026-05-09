@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000P458P3",
+    "cusip": "25754A201",
+    "figi": "BBG000P46CJ0",
+    "isin": "US25754A2015"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US25754A2015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DPZ"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EZV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EZV.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DPZ.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "DPZ.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EZV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EZV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EZV.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Domino's Pizza, Inc.",
+  "primary_symbol": "DPZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Domino's Pizza, Inc., through its subsidiaries, operates as a pizza company in the United States and internationally. It operates through three segments: U.S. Stores, International Franchise, and Supply Chain. The company offers pizzas under the Domino's brand name through company-owned and franchised stores. As of January 3, 2021, it operated approximately 17,600 stores in 90 markets. The company was founded in 1960 and is based in Ann Arbor, Michigan.",
+  "website": "http://www.dominos.com/index.intl.html"
+}

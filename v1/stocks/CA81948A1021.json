@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA81948A1021"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "CA81948A1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INTWF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IWIA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IWIA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IWIA.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SHRC.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Sharc International Systems Inc.",
+  "primary_symbol": "INTWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sharc International Systems Inc. provides wastewater heat exchange products and services for commercial, industrial, public utilities, and residential development projects in Canada, the United Kingdom, and internationally. It offers PIRANHA and SHARC systems that provide energy savings and reduce carbon emissions from multi-unit and district heating and cooling network. The company was formerly known as International Wastewater Systems Inc. and changed its name to Sharc International Systems Inc. in September 2017. Sharc International Systems Inc. is based in Port Coquitlam, Canada.",
+  "website": "http://www.sharcenergy.com"
+}

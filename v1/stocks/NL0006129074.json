@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000TWN225",
+    "figi": "BBG000TWN458",
+    "isin": "NL0006129074"
+  },
+  "industry": "IT Services",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "NL0006129074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IT.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3IT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3IT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3IT.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AUDIUS SE  INH O.N.",
+  "primary_symbol": "3IT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "audius SE, formerly known as Softing AG, is a German company that provides industrial data communication solutions. It offers hardware and software products for automation technology. audius SE is headquartered in Haar, Germany.",
+  "website": "http://www.audius.de"
+}

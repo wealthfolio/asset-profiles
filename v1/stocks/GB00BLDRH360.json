@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00YCW57T9",
+    "figi": "BBG00YCW5808",
+    "isin": "GB00BLDRH360"
+  },
+  "industry": "Thrifts & Mortgage Finance",
+  "industry_group": "Banks",
+  "isin": "GB00BLDRH360",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2UK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2UK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSB.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2UK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BLDRH360.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OSB.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "OSB.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "OSB GROUP PLC  LS 0,01",
+  "primary_symbol": "2UK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "OSB Group PLC is a specialist lending and retail savings group. The company focuses on underserved segments of the UK mortgage market. OSB Group is headquartered in Chatham, United Kingdom.",
+  "website": "http://www.osb.co.uk"
+}

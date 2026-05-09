@@ -1,0 +1,48 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00R1V1FT4",
+    "figi": "BBG00R1V1FZ7",
+    "isin": "IT0003549422"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "IT0003549422",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6SZA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6SZA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0003549422.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SL.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sanlorenzo S.p.A.",
+  "primary_symbol": "6SZA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Sanlorenzo S.p.A designs, builds, and sells boats and pleasure boats in Europe, APAC, the Americas, the Middle East, and Africa. The company operates through Yacht Division, and Superyacht Division. It also sells its own and other branded pre-owned yachts. The company was formerly known as Cantieri Navali San Lorenzo SpA and changed its name to Sanlorenzo S.p.A in 2005. Sanlorenzo S.p.A is headquartered in Ameglia, Italy.",
+  "website": "http://www.sanlorenzoyacht.com"
+}

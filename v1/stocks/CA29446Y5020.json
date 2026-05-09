@@ -1,0 +1,37 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000QSL9D2",
+    "isin": "CA29446Y5020"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA29446Y5020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA29446Y5020.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EQX.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EQUINOX GOLD CORP",
+  "primary_symbol": "CA29446Y5020.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "EQUINOX GOLD CORP is a gold mining company with operations in the Americas. The company is focused on gold production, development, and exploration. Equinox Gold is headquartered in Vancouver, British Columbia, Canada.",
+  "website": "http://www.equatorialresources.com.au"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000FWLY86",
+    "cusip": "563571405",
+    "figi": "BBG000FWN337",
+    "isin": "US5635714059"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US5635714059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNGN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNGN.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MNGN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MNGN.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MANITOWOC CO. NEW  DL-,01",
+  "primary_symbol": "MNGN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "The Manitowoc Company, Inc. is a manufacturer of cranes and lifting solutions, and food service equipment. The company operates through two segments: Cranes and Foodservice Equipment. The company is headquartered in Milwaukee, Wisconsin, USA.",
+  "website": "http://gorendev.co.il"
+}

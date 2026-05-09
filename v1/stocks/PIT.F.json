@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PIT.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Pittler Maschinenfabrik AG",
+  "primary_symbol": "PIT.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Pittler Maschinenfabrik AG, together with its subsidiaries, produces and sells precision tools in Germany and internationally. It also manufactures and sells clamping devices for various industries. Pittler Maschinenfabrik AG was founded in 1889 and is based in Frankfurt am Main, Germany.",
+  "website": "http://www.pittler-maschinenfabrik.de"
+}

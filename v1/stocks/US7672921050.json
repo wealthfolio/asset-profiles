@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F5CCF5",
+    "cusip": "767292105",
+    "figi": "BBG000F5DJ41",
+    "isin": "US7672921050"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US7672921050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AP4N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AP4N.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIOT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AP4N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AP4N.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "RIOT.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "RIOT BLOCKCHAIN  DL-,001",
+  "primary_symbol": "AP4N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Riot Platforms, Inc. is a Bitcoin mining company. It focuses on building, supporting, and operating blockchain technologies. The company is headquartered in the United States.",
+  "website": "http://www.riotblockchain.com"
+}

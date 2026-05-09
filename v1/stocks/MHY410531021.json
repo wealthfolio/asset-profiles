@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00K9XR3Z9",
+    "figi": "BBG00K9XR469",
+    "isin": "MHY410531021"
+  },
+  "isin": "MHY410531021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IS5.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IS5.DU"
+    }
+  ],
+  "name": "INTERNATIONAL SEAWAYS INC",
+  "primary_symbol": "IS5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

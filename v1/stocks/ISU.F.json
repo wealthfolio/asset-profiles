@@ -1,0 +1,31 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BX0H33",
+    "figi": "BBG000BX0J57"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ISU.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Isuzu Motors Limited",
+  "primary_symbol": "ISU.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Isuzu Motors Limited manufactures and sells commercial vehicles, light commercial vehicles, and diesel engines and components in Japan, Thailand, and internationally. Its products include heavy and medium duty trucks and buses, and light-duty trucks; pickup trucks and sport utility vehicles; and marine and industrial engines. The company was formerly known as Diesel Automobile Industry Co., Ltd. and changed its name to Isuzu Motors Limited in July 1949. Isuzu Motors Limited was founded in 1916 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.isuzu.co.jp"
+}

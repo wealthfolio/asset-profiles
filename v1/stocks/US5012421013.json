@@ -1,0 +1,54 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "composite_figi": "BBG000BMTX31",
+    "cusip": "501242101",
+    "figi": "BBG000BMV4D1",
+    "isin": "US5012421013"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US5012421013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KLIC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KU1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KU1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KU1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KU1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Kulicke and Soffa Industries, Inc.",
+  "primary_symbol": "KLIC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kulicke and Soffa Industries, Inc. designs, manufactures, and sells capital equipment and tools to assemble semiconductor devices. It operates in two segments, Capital Equipment, and Aftermarket Products and Services (APS). The Capital Equipment segment manufactures and sells ball and wedge bonders, and advanced packaging and electronic assembly solutions. The APS segment manufactures and sells dicing blades, capillaries, and bonding wedges. The company also services, maintains, repairs, and upgrades equipment. It serves semiconductor device manufacturers, integrated device manufacturers, outsourced semiconductor assembly and test providers, other electronics manufacturers, industrial manufacturers, and automotive electronics suppliers primarily in the United States and the Asia/Pacific region. Kulicke and Soffa Industries, Inc. was founded in 1951 and is headquartered in Singapore.",
+  "website": "http://www.kns.com"
+}

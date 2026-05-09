@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00H2F0GN5",
+    "figi": "BBG00H2F0GV6",
+    "isin": "IE00BD1RP616"
+  },
+  "industry_group": "Banks",
+  "isin": "IE00BD1RP616",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIRG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIRG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BIRG.DU"
+    }
+  ],
+  "name": "BK OF IRELD GRP  EO 1",
+  "primary_symbol": "BIRG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bank of Ireland Group plc is a financial services group providing a range of banking and financial products and services. The group operates primarily in Ireland and the UK."
+}

@@ -1,0 +1,68 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000M3M183",
+    "figi": "BBG000M3N5Q3",
+    "isin": "USY5217N1183"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "USY5217N1183",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTOD.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTOUF"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "LT.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "LT.NS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LTO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LTO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LTO.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "LARSEN+TOUBRO GDR/1 IR 2",
+  "primary_symbol": "LTO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Larsen & Toubro (L&T) is an Indian multinational conglomerate engaged in engineering, procurement, construction, manufacturing, and financial services. The company operates in various sectors, including infrastructure, power, hydrocarbon, and defense. Larsen & Toubro is headquartered in Mumbai, India.",
+  "website": "http://www.larsentoubro.com"
+}

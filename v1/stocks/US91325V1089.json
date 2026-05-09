@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008LMMSN9",
+    "cusip": "91325V108",
+    "figi": "BBG008LMMST3",
+    "isin": "US91325V1089"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US91325V1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8XC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNIT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNIT.TA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Uniti Group Inc.",
+  "primary_symbol": "8XC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Uniti, an internally managed real estate investment trust, is engaged in the acquisition and construction of mission critical communications infrastructure, and is a leading provider of wireless infrastructure solutions for the communications industry. As of September 30, 2020, Uniti owns 6.7 million fiber strand miles and other communications real estate throughout the United States.",
+  "website": "http://www.uniti.com"
+}

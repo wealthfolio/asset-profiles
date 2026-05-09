@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000S6BCH8",
+    "cusip": "989696109",
+    "figi": "BBG000S6BFC6",
+    "isin": "US9896961094"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US9896961094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3QO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZNOG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ZION OIL + GAS INC.DL-,01",
+  "primary_symbol": "3QO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Zion Oil & Gas, Inc. is an oil and gas exploration company headquartered in Dallas, Texas. The company is focused on exploring for oil and gas onshore Israel. Zion Oil & Gas holds petroleum exploration licenses from the State of Israel.",
+  "website": "http://www.zionoil.com"
+}

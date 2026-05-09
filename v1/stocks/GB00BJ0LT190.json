@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00PH2MTG6",
+    "figi": "BBG00PH2MTM9",
+    "isin": "GB00BJ0LT190"
+  },
+  "industry_group": "Banks",
+  "isin": "GB00BJ0LT190",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5AC.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HGT.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HGT.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HgCapital Trust plc",
+  "primary_symbol": "5AC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "HgCapital Trust plc is a London-based investment trust that invests in unquoted companies across Europe, focusing on software and services, healthcare, and TMT sectors. They provide capital and expertise to help businesses grow, aiming to generate long-term capital appreciation for shareholders. The company's investment strategy centers on partnering with strong management teams in high-growth sectors."
+}

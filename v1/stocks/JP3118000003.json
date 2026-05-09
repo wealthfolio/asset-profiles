@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C29216",
+    "figi": "BBG000C29403",
+    "isin": "JP3118000003"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "JP3118000003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASI1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASI1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ASI1.SG"
+    }
+  ],
+  "name": "ASICS CORP.",
+  "primary_symbol": "ASI1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "ASICS Corporation is a Japanese multinational corporation which produces sports equipment. The company designs and manufactures footwear, apparel, and accessories for a wide range of sports. ASICS is headquartered in Kobe, Japan."
+}

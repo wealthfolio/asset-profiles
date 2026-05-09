@@ -1,0 +1,52 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "cusip": "376536108",
+    "isin": "US3765361080"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Utilities",
+  "isin": "US3765361080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOOD.AQ"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GLE.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GLE.L"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "GOOD.JK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GOOD.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GOOD ENERGY GROUP",
+  "primary_symbol": "GOOD.AQ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "GOOD ENERGY GROUP is a renewable energy company. It generates electricity from wind farms and solar panels, and supplies 100% renewable electricity to homes and businesses. The company is based in Chippenham, UK.",
+  "website": "http://www.ghimli.com"
+}

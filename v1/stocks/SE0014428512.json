@@ -1,0 +1,41 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0014428512"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0014428512",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUSRF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SUS.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SUS.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Surgical Science Sweden AB (publ)",
+  "primary_symbol": "SUSRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Surgical Science Sweden AB (publ) develops and markets virtual reality (VR) simulators for evidence-based laparoscopic and endoscopic training. It offers LapSim training system comprising LapSim essence, a portable and ready-to-use VR simulator that fills the gap between lo-fi simulators and fully loaded VR systems; LapSim Haptic System, a force feedback technology with the graphics and cognitive instructions for an immersive, multi-sensory, and very real training experience; and LapSim Basic Skills module, which offers a portfolio of laparoscopic exercises that range from basic navigation to advanced suturing. The company also provides EndoSim system, an endoscopy simulator that delivers medical simulation training; TeamSim, a dynamic platform for inter-professional education development taking surgery simulation into the real world teamwork; and Simball Box, which offers feedback on velocity with tutorial task videos showing a preferred approach. Surgical Science AB was founded in 1999 and is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.surgicalscience.com"
+}

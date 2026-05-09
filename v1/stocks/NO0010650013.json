@@ -1,0 +1,73 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00LNDW4X9",
+    "figi": "BBG00LNDW539",
+    "isin": "NO0010650013"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NO0010650013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRRGF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RU5.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7BG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7BG.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BGBIO.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BGBIOO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010650013.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BerGenBio ASA",
+  "primary_symbol": "7BG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BerGenBio ASA, a clinical-stage biopharmaceutical company, engages in the developing drugs to treat immune evasive, drug resistant, and metastatic cancers. Its lead candidate is Bemcentinib, a bio-available small molecule AXL inhibitor, which is in Phase II clinical development in major cancer indications and COVID-19. The company's Phase II clinical trial program focuses on treatment of non-small cell lung cancer, acute myeloid leukaemia, and myelodysplastic syndrome, as well as COVID-19. In addition, it is developing tilvestamab, an anti-AXL antibody that is in Phase I clinical trial. BerGenBio ASA has a collaboration agreement with Merck & Co. for clinical trials. The company was incorporated in 2007 and is headquartered in Bergen, Norway.",
+  "website": "http://www.bergenbio.com"
+}

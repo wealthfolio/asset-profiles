@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00YFGTVN8",
+    "cusip": "71601V105",
+    "figi": "BBG00YFGTW65",
+    "isin": "US71601V1052"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US71601V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOOF"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "WOOF.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Petco Health and Wellness Company, Inc.",
+  "primary_symbol": "WOOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Petco Health and Wellness Company, Inc. operates as a retailer of premium pet consumables, supplies, and companion animals and services. The company also offers grooming, in-store and online training, tele-veterinarian, and pet health insurance services, as well as veterinary services through Vetco clinics. It also offers pet consumables, supplies, and services through its petco.com, petcoach.co, petinsurancequotes.com, and pupbox.com websites. As of March 18, 2021, the company operated 1,500 pet care centers in the United States, Mexico, and Puerto Rico. The company was founded in 1965 and is headquartered in San Diego, California.",
+  "website": "http://www.petco.com"
+}

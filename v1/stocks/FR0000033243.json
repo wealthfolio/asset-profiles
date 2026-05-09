@@ -1,0 +1,36 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000033243"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "FR0000033243",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0EGI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "IMDA.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Immobiliere Dassault SA",
+  "primary_symbol": "0EGI.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Immobiliere Dassault SA, a real estate company, owns and manages offices and retail real estate assets in France. As of June 30, 2020, its portfolio consisted of 21 assets. The company is based in Paris, France.",
+  "website": "http://www.immobiliere-dassault.com"
+}

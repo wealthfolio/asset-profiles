@@ -1,0 +1,36 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "KYG2159E1070"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "KYG2159E1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0866.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "16Q.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "China Qinfa Group Limited",
+  "primary_symbol": "0866.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "China Qinfa Group Limited, an investment holding company, engages in the mining, purchase and sale, filtering, storage, blending, shipping, and transportation of coal in the People's Republic of China. The company operates through Coal Business and Shipping Transportation segments. As of December 31, 2019, the company owned and operated five coal mines. It is also involved in goods transportation and logistics, and charter hire activities. The company was founded in 1996 and is based in Wan Chai, Hong Kong.",
+  "website": "http://www.qinfagroup.com"
+}

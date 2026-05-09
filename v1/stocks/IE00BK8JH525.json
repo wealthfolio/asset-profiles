@@ -1,0 +1,36 @@
+{
+  "country": "Argentina",
+  "country_code": "AR",
+  "identifiers": {
+    "isin": "IE00BK8JH525"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "IE00BK8JH525",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "EMDE.BA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "EMDE.JK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Empresa Distribuidora Electrica Regional S.A.",
+  "primary_symbol": "EMDE.BA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Empresa Distribuidora El√É¬©ctrica Regional S.A. generates, distributes, and sells electricity in Argentina. The company was incorporated in 1997 and is based in Buenos Aires City, Argentina. Empresa Distribuidora El√É¬©ctrica Regional S.A. is a subsidiary of Energ√É¬≠a Riojana S.A.",
+  "website": "http://www.megapolitan-group.com"
+}

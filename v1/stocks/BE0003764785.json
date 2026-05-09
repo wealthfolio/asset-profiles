@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BV2KC8",
+    "figi": "BBG000BV2P46",
+    "isin": "BE0003764785"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "BE0003764785",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B3K.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "B3K.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B3K.SG"
+    }
+  ],
+  "name": "ACKERMANS + VAN HAAREN",
+  "primary_symbol": "B3K.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Ackermans & van Haaren is a diversified investment group based in Belgium. The company has holdings in various sectors including marine engineering, dredging, real estate, private banking, and energy. Ackermans & van Haaren is headquartered in Antwerp, Belgium."
+}

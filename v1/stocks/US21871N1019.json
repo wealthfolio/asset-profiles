@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BJSJT2",
+    "cusip": "21871N101",
+    "figi": "BBG000BJSN13",
+    "isin": "US21871N1019"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US21871N1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CXW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSRA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PSRA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PSRA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PSRA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CoreCivic, Inc.",
+  "primary_symbol": "CXW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "CoreCivic, Inc. owns and operates partnership correctional, detention, and residential reentry facilities in the United States. It operates through three segments: CoreCivic Safety, CoreCivic Community, and CoreCivic Properties. The company provides a range of solutions to government partners that serve the public good through corrections and detention management, a network of residential reentry centers to help address America's recidivism crisis, and government real estate solutions. Its correctional, detention, and residential reentry facilities offer rehabilitation and educational programs, including basic education, faith-based services, life skills and employment training, and substance abuse treatment. As of December 31, 2020, the company owned and operated 47 correctional and detention facilities, 27 residential reentry centers, and 15 properties for lease. The company was founded in 1983 and is based in Brentwood, Tennessee.",
+  "website": "http://www.corecivic.com"
+}

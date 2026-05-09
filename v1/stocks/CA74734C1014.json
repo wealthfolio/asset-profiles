@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA74734C1014"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA74734C1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QMCQF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3LQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3LQ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QMC.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "QMC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "QMC Quantum Minerals Corp",
+  "primary_symbol": "QMCQF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "QMC Quantum Minerals Corp., an exploration stage company, engages in the acquisition, exploration, development, and evaluation of resource properties in Canada. The company explores for lithium, copper, nickel, gold, silver, palladium, platinum, and zinc deposits. Its flagship project is the Irgon Lithium Mine, which consists of 22 mining claims totaling 11,325 acres located in Manitoba, Canada. QMC Quantum Minerals Corp. was incorporated in 2003 and is based in Vancouver, Canada.",
+  "website": "http://www.qmcminerals.com"
+}

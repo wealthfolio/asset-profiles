@@ -1,0 +1,43 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00YYCW1N8",
+    "figi": "BBG00YYCW265",
+    "isin": "NL00150005Y4"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NL00150005Y4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PHVS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9EN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9EN.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Pharvaris B.V.",
+  "primary_symbol": "PHVS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pharvaris B.V., a clinical-stage biopharmaceutical company, engages in the discovery and development of therapies for rare diseases. The company develops PHA121, a small molecule bradykinin B2-receptor antagonist for the treatment of hereditary angioedema. It operates in the Netherlands, Switzerland, and the United States. The company was incorporated in 2015 and is based in Leiden, the Netherlands.",
+  "website": "http://www.pharvaris.com"
+}

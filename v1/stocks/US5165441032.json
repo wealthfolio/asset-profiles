@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006WYNDB0",
+    "cusip": "516544103",
+    "figi": "BBG006WYNDJ2",
+    "isin": "US5165441032"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US5165441032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0L8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNTH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0L8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0L8.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LANTHEUS HLDGS  DL-,01",
+  "primary_symbol": "0L8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Lantheus Holdings, Inc. develops, manufactures, and commercializes diagnostic and therapeutic products. It provides imaging agents and radiopharmaceuticals for medical imaging procedures. Lantheus is headquartered in North Billerica, Massachusetts",
+  "website": "http://www.lantheus.com"
+}

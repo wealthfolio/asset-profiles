@@ -1,0 +1,66 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000ANP4"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Capital Goods",
+  "isin": "AU000000ANP4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATHJF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AWY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AWY.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ANP.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ANP.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000ANP4.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AWY.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "APOGEE ENTERPRISES DL-333",
+  "primary_symbol": "ANP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Apogee Enterprises, Inc., headquartered in Minneapolis, Minnesota, designs and manufactures architectural products and services for enclosing buildings. Their product lines include curtainwall, storefront, windows, and glass.",
+  "website": "http://www.antisense.com.au"
+}

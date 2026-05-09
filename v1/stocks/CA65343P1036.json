@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00QDW85H9",
+    "figi": "BBG00QDW85P0",
+    "isin": "CA65343P1036"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA65343P1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2XM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2XM.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGXXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2XM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA65343P1036.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NGEX.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NGEx Minerals Ltd.",
+  "primary_symbol": "2XM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NGEx Minerals Ltd. engages in the acquisition, exploration, and development of mineral properties in Chile and Argentina. The company primarily holds a 64% interest in the Los Helados project, a copper-gold porphyry deposit covering an area of approximately 20,000 hectares located in the Andes Mountains of the Atacama Region, Chile. It also holds an option agreement to acquire a 100% interest in the Valle Ancho Properties located in Catamarca, Argentina. The company was incorporated in 2019 and is headquartered in Vancouver, Canada. NGEx Minerals Ltd. is a subsidiary of Josemaria Resources Inc.",
+  "website": "http://ngexminerals.com"
+}

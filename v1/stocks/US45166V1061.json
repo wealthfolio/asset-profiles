@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000S9TXS5",
+    "cusip": "45166V106",
+    "figi": "BBG000S9TZP3",
+    "isin": "US45166V1061"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US45166V1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0V5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0V5.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0V5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0V5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0V5.SG"
+    }
+  ],
+  "name": "IDEANOMICS INC.  DL-,001",
+  "primary_symbol": "0V5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ideanomics, Inc. focuses on facilitating the adoption of commercial electric vehicles and associated sustainable energy solutions. The company operates through its various subsidiaries across different business segments. Ideanomics is headquartered in New York, New York."
+}

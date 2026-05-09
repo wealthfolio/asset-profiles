@@ -1,0 +1,64 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "identifiers": {
+    "composite_figi": "BBG00Y9BF442",
+    "cusip": "87936R205",
+    "figi": "BBG00Y9BF4B4",
+    "isin": "US87936R2058"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US87936R2058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSPA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSPA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VIV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TSPA.F"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "VIV.BA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "VIV1N.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "VIVT3.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TELEFONICA BRASIL ADR 1",
+  "primary_symbol": "TSPA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Telefónica Brasil is a telecommunications company providing mobile and fixed-line services in Brazil. They offer a range of services including voice, data, broadband, and digital services. The company is headquartered in São Paulo, Brazil.",
+  "website": "http://www.telefonica.com.br"
+}

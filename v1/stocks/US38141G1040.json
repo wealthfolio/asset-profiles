@@ -1,0 +1,64 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000CXTN01",
+    "cusip": "38141G104",
+    "figi": "BBG000CXTRF6",
+    "isin": "US38141G1040"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Diversified Financials",
+  "isin": "US38141G1040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOS.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOS.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GOS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GOS.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GSN.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GOLDMAN SACHS GRP INC.",
+  "primary_symbol": "GOS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "GOLDMAN SACHS GRP INC. is a global investment banking, securities, and investment management firm. The company provides a wide range of financial services to corporations, financial institutions, governments, and individuals. It is headquartered in New York City, New York.",
+  "website": "http://www.gsml.com.au"
+}

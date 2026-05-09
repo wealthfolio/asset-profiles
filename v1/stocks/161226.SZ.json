@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "161226.SZ"
+    }
+  ],
+  "name": "UBS SDIC Silver Futures(LOF)",
+  "primary_symbol": "161226.SZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "UBS SDIC Silver Futures(LOF) is a Listed Open-Ended Fund (LOF) that invests in silver futures contracts. The fund aims to provide investors with exposure to the price movements of silver. It is managed by UBS SDIC Fund Management Co., Ltd., a joint venture between UBS and SDIC."
+}

@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BT13B3",
+    "cusip": "743713109",
+    "figi": "BBG001Y33W81",
+    "isin": "US7437131094"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "US7437131094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRLB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRZ.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRZ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRZ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "PRLB.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PRZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PRZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PRZ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Proto Labs, Inc.",
+  "primary_symbol": "PRLB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Proto Labs, Inc., together with its subsidiaries, operates as an e-commerce driven digital manufacturer of custom prototypes and on-demand production parts in the worldwide. The company offers injection molding; computer numerical control machining; three-dimensional (3D) printing, which include stereolithography, selective laser sintering, direct metal laser sintering, multi jet fusion, polyjet, and carbon DLS processes; and sheet metal fabrication products, including quick-turn and e-commerce-enabled custom sheet metal parts. It serves developers and engineers, who use 3D computer-aided design software to design products across a range of end markets. The company was founded in 1999 and is headquartered in Maple Plain, Minnesota.",
+  "website": "http://www.protolabs.com"
+}

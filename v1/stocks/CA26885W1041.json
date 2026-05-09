@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA26885W1041"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "CA26885W1041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EPYFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2NY2.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EPY.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "EPY.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ePlay Digital Inc.",
+  "primary_symbol": "EPYFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "ePlay Digital Inc., through its subsidiary, Mobovivo Inc., provides a social game engine and content marketing platform to engage audiences in Canada. Its solutions integrate TV, video, sports, daily fantasy, and social games into multiplatform destinations and campaigns for brands, sports teams, and venues. The company also operates an augmented reality sports, esports, and entertainment game platform. ePlay Digital Inc. is headquartered in Calgary, Canada.",
+  "website": "http://www.eplaydigital.com"
+}

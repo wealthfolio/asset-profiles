@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00JGMBNP2",
+    "figi": "BBG00JGMBNQ1",
+    "isin": "GB00BYWVDP49"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "GB00BYWVDP49",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "18M.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00BYWVDP49.SW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SBRE.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sabre Insurance Group plc",
+  "primary_symbol": "18M.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sabre Insurance Group plc, through its subsidiaries, writes general insurance for motor vehicles in the United Kingdom. It offers its products through a network of insurance brokers, as well as through its own direct brands, including Go Girl and Insure 2 Drive. The company was founded in 1982 and is based in Dorking, the United Kingdom.",
+  "website": "http://www.sabreplc.co.uk"
+}

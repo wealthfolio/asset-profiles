@@ -1,0 +1,51 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0014781795"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "SE0014781795",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QI7.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZZ2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZZ2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AZZ2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0014781795.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ADDTECH AB ADDTECH B ORD SHS",
+  "primary_symbol": "0QI7.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Addtech AB is a Swedish technology trading group that supplies high-tech products and solutions to industrial companies. The company operates as an independent distributor, representing leading manufacturers in various technology areas, including automation, power solutions, and specialty products. Addtech is headquartered in Stockholm, Sweden.",
+  "website": "http://www.addtech.com"
+}

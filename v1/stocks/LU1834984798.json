@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "LU1834984798"
+  },
+  "industry": "Software",
+  "industry_group": "Diversified Financials",
+  "isin": "LU1834984798",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FINS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LFIN"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FIN.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Angel Oak Financial Strategies Income Term Trust",
+  "primary_symbol": "FINS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Angel Oak Financial Strategies Income Term Trust is a closed-end management investment company that invests in a portfolio of U.S. financial sector debt and equity securities. The Trust seeks to provide high current income, with a secondary objective of capital appreciation. The company is based in Atlanta, Georgia.",
+  "website": "http://www.angeloakcapital.com"
+}

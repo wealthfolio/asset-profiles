@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001YH8PR9",
+    "cusip": "11040G103",
+    "isin": "US11040G1031"
+  },
+  "industry_group": "Transportation",
+  "isin": "US11040G1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US11040G1031.SG"
+    }
+  ],
+  "name": "BRISTOW GROUP INC",
+  "primary_symbol": "US11040G1031.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BRISTOW GROUP INC provides helicopter services to the offshore energy industry, search and rescue services, and helicopter maintenance, repair, and overhaul services. Headquartered in Houston, Texas, the company operates a fleet of helicopters across the globe. Bristow Group serves a wide range of customers, including oil and gas companies, government agencies, and private individuals."
+}

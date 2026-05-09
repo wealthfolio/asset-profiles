@@ -1,0 +1,25 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "PREMIA.AT"
+    }
+  ],
+  "name": "Premia S.A.",
+  "primary_symbol": "PREMIA.AT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Premia S.A., a real estate development company, invests in and develops real estate properties. Its properties include industrial and commercial properties, plots, schools, and logistics centers. The company was formerly known as Pasal Real Estate Development S.A. and changed its name to Premia S.A. in March 2021. Premia S.A. was founded in 1991 and is based in Heraklion, Greece.",
+  "website": "http://www.premia.gr"
+}

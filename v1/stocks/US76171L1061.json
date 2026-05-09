@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00RLVQQG5",
+    "cusip": "76171L106",
+    "figi": "BBG00RLVQQS2",
+    "isin": "US76171L1061"
+  },
+  "industry": "Distributors",
+  "industry_group": "Household & Personal Products",
+  "isin": "US76171L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3ZT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REYN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3ZT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3ZT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US76171L1061.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "REYNOLDS CONS.PROD.DL-001",
+  "primary_symbol": "3ZT.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Reynolds Consumer Products Inc. manufactures and sells household consumer products. Their product offerings include cooking and baking products, waste & storage products, and tableware. The company is headquartered in Lake Forest, Illinois.",
+  "website": "http://www.reynoldsconsumerproducts.com"
+}

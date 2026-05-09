@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG002WLDMW5",
+    "cusip": "22266M104",
+    "figi": "BBG00ZKH27X8",
+    "isin": "US22266M1045"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US22266M1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COUR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "COUR.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Coursera, Inc.",
+  "primary_symbol": "COUR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Coursera, Inc. operates an educational content platform that connects learners, educators, and institutions worldwide. As of December 31, 2020, the company offered approximately 4,000 courses across a range of domains, including data science, technology, business, health, social sciences, and arts and humanities. It had approximately 77 million learners registered on its platform; and 2,000 organizations, 4,000 academic institutions, and 300 government entities had used its platform to upskill and reskill their employees, students, and citizens. The company was formerly known as Dkandu, Inc. Coursera, Inc. was incorporated in 2011 and is headquartered in Mountain View, California.",
+  "website": "http://www.coursera.org"
+}

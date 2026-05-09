@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006H4DH34",
+    "figi": "BBG006H4DHB5",
+    "isin": "MHY2106R1100"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "MHY2106R1100",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0DA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0DA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LPG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A8W.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0DA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0DA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MHY2106R1100.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Dorian LPG Ltd.",
+  "primary_symbol": "0DA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Dorian LPG Ltd., together with its subsidiaries, engages in the transportation of liquefied petroleum gas (LPG) through its LPG tankers worldwide. The company owns and operates very large gas carriers (VLGCs). As of March 31, 2020, its fleet consisted of twenty-four VLGCs. The company was founded in 2013 and is headquartered in Stamford, Connecticut.",
+  "website": "http://www.dorianlpg.com"
+}

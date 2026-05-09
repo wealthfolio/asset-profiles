@@ -1,0 +1,49 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00LL0DM51",
+    "cusip": "137586103",
+    "figi": "BBG00LL0DML3",
+    "isin": "US1375861036"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US1375861036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9C0A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CANG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9C0A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9C0A.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Cango Inc.",
+  "primary_symbol": "9C0A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Cango Inc. operates an automotive transaction service platform that connects dealers, original equipment manufacturer, financial institutions, car buyers, and other industry participants in the People's Republic of China. The company offers automobile trading solutions, including car sourcing, logistics, and warehousing support for dealers, as well as software as a service solutions; and facilitation of car purchases for car buyers. It also facilitates automotive financing services that include facilitating financing transactions from financial institutions to car buyers; and after-market services to car buyers, which includes facilitating the sale of insurance policies from insurance brokers or companies. The company was founded in 2010 and is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://www.cangoonline.com"
+}

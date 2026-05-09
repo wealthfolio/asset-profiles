@@ -1,0 +1,31 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG00ZVLVMW3",
+    "figi": "BBG00ZVLVMY1"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "47K.DU"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Arrival",
+  "primary_symbol": "47K.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Arrival focuses on the design, research and development, assembly, and production of robotics and electric vehicles. It offers trucks, vans, buses, and other commercial vehicles. The company serves in the United Kingdom, the United States, Germany, and Russia. Arrival is based in Howald, Luxembourg.",
+  "website": "http://arrival.com"
+}

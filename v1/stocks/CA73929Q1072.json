@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000W7W681",
+    "figi": "BBG000W7W7Q9",
+    "isin": "CA73929Q1072"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA73929Q1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OAA1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PWRMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OAA1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OAA1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PWM.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Power Metals Corp.",
+  "primary_symbol": "OAA1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Power Metals Corp., an exploration company, engages in the acquisition, exploration, and evaluation of resource properties in Canada. The company holds a 100% interest in the Case Lake property that consists of 475 cell claims located in Ontario. It also has an option agreement to acquire 100% interests in the Paterson Lake and Gullwing-Tot properties consisting of 106 cell claims located in northwestern Ontario. The company was formerly known as Aldrin Resource Corp. and changed its name to Power Metals Corp. in December 2016. Power Metals Corp. was incorporated in 2005 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.powermetalscorp.com"
+}

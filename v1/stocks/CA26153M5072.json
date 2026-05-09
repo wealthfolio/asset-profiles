@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA26153M5072"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "CA26153M5072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRUNF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "DRM.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Dream Unlimited Corp.",
+  "primary_symbol": "DRUNF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Dream Unlimited Corp. formerly known as Dundee Realty Corporation is a real estate investment firm. The firm provides real estate asset management and advisory services including sourcing, acquiring, managing, and developing commercial and residential real estate primarily in Western Canada. It invests in the real estate markets across the globe. The firm also seeks to invest in renewable energy infrastructure and power projects with a focus on wind, hydro, and solar in North American. Dream Unlimited Corp. was founded in 1996 and is based in Toronto, Canada.",
+  "website": "http://www.dream.ca"
+}

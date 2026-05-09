@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C2D1C1",
+    "cusip": "518415104",
+    "figi": "BBG000C2DFZ5",
+    "isin": "US5184151042"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US5184151042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSCC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LTT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LTT.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Lattice Semiconductor Corporation",
+  "primary_symbol": "LSCC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor products in Asia, Europe, and the Americas. The company offers field programmable gate arrays that consist of four product families, including the Certus-NX and ECP, MachXO, iCE40, and CrossLink. It also provides video connectivity application specific standard products. In addition, the company licenses its technology portfolio through standard IP and IP core licensing, patent monetization, and IP services. It sells its products directly to end customers, and indirectly through a network of independent manufacturers' representatives and independent distributors. The company primarily serves original equipment manufacturers in the communications and computing, consumer, and industrial and automotive end markets. Lattice Semiconductor Corporation was incorporated in 1983 and is headquartered in Hillsboro, Oregon.",
+  "website": "http://www.latticesemi.com"
+}

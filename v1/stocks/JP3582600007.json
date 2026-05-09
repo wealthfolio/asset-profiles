@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000CCGGD2",
+    "figi": "BBG000CCGJW5",
+    "isin": "JP3582600007"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "JP3582600007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T6R.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T6R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TYTMF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8804.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T6R.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T6R.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TOKYO TATEMONO",
+  "primary_symbol": "T6R.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Tokyo Tatemono Co., Ltd. operates as a real estate company in Japan. The company operates through Commercial Properties, Residence, Asset Service, and Senior & Child Care segments. It develops, leases, and manages office buildings, commercial facilities, and condominiums; and sells condominiums and detached houses. The company also provides real estate sales, brokerage, and consulting services, as well as is involved in parking lot operations; and develops and operates residences for elderly people and child-care. In addition, it engages in resort, distribution facility development, asset management, and real estate appraisal businesses. Tokyo Tatemono Co., Ltd. was incorporated in 1896 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.tatemono.com"
+}

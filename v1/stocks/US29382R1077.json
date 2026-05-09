@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BWBNX7",
+    "cusip": "29382R107",
+    "figi": "BBG000BWBQM2",
+    "isin": "US29382R1077"
+  },
+  "industry": "Media",
+  "industry_group": "Media & Entertainment",
+  "isin": "US29382R1077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EV9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EV9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EV9.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ENTRAVISION  A DL-,0001",
+  "primary_symbol": "EV9.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Entravision Communications Corporation is a global media and marketing technology company. It operates television and radio stations, digital media platforms, and advertising technology solutions, primarily targeting the U.S. Hispanic market and Latin America. Entravision is headquartered in Santa Monica, California.",
+  "website": "http://www.entravision.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YHL60M9",
+    "figi": "BBG00YHL60S3",
+    "isin": "SE0010520106"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Consumer Services",
+  "isin": "SE0010520106",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0SG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0SG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0SG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "EG7.IR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EG7.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EG7.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0010520106.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ENAD GLOBAL 7 AB",
+  "primary_symbol": "0SG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Enad Global 7 AB is a Swedish gaming company involved in developing, marketing, publishing, and distributing PC, console, and mobile games. The company's portfolio includes a variety of game genres and intellectual properties. Enad Global 7 is headquartered in Stockholm, Sweden.",
+  "website": "http://www.enadglobal7.com"
+}

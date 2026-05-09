@@ -1,0 +1,48 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00R70ZR95",
+    "figi": "BBG00R70ZRG7",
+    "isin": "BMG9001E1286"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "BMG9001E1286",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1LLC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LILA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LILAK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1LLC.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LIBERTY LAT.AMER.C DL-,01",
+  "primary_symbol": "1LLC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Liberty Latin America Ltd. is a telecommunications company providing cable, broadband, mobile, and other communications services in Latin America and the Caribbean. The company operates under various brands, offering a range of services to residential and business customers. TICKER: Liberty Latin America Ltd. provides cable, broadband, mobile, and other communications services in Latin America and the Caribbean under various brands.",
+  "website": "http://www.lla.com"
+}

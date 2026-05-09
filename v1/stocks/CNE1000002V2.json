@@ -1,0 +1,46 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "CNE1000002V2"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "CNE1000002V2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZCH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZCH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZCH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZCH.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CHINA TELECOM H  YC 1",
+  "primary_symbol": "ZCH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "China Telecom Corporation Limited is a Chinese telecommunications company that provides a wide range of services, including mobile, fixed-line, broadband, and enterprise solutions. It is one of the largest telecom operators in China. The company is headquartered in Beijing, China.",
+  "website": "http://www.chinatelecom-h.com/en/global/home.php"
+}

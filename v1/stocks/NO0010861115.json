@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00QKPLPF9",
+    "figi": "BBG00QKPLPG8",
+    "isin": "NO0010861115"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "NO0010861115",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0BQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010861115.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NSKOG.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NORSKE SKOG AS  NK 4",
+  "primary_symbol": "0BQ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NORSKE SKOG ASA is a global paper manufacturer producing publication paper, including newsprint and magazine paper. The company operates paper mills in Europe and Australasia. NORSKE SKOG ASA is headquartered in Oslo, Norway.",
+  "website": "http://www.norskeskog.com"
+}

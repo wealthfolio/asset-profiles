@@ -1,0 +1,84 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C27FY3",
+    "cusip": "81211K100",
+    "figi": "BBG000C27HG9",
+    "isin": "US81211K1007"
+  },
+  "industry": "Distributors",
+  "industry_group": "Materials",
+  "isin": "US81211K1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEE.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEE.HM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L4F.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "S1EA34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SDA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SDA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SDA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SEE.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SEALED AIR CORP.  DL-,10",
+  "primary_symbol": "SDA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sealed Air Corporation provides packaging solutions that protect food, products and goods. The company's portfolio of widely recognized brands include Cryovac food packaging, Bubble Wrap cushioning and Diversey cleaning and hygiene solutions. Sealed Air is headquartered in Charlotte, North Carolina.",
+  "website": "http://www.sealedair.com"
+}

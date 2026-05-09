@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG001Q6QVJ8",
+    "figi": "BBG001Q6QVK6",
+    "isin": "NO0010607971"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "NO0010607971",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ALNG.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ALNGO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AWQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AWQ.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Awilco LNG ASA",
+  "primary_symbol": "ALNG.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Awilco LNG ASA, together with its subsidiaries, owns and operates liquefied natural gas (LNG) vessels in Norway. It owns two 156,000 cbm LNG TFDE membrane vessels. The company was founded in 2011 and is based in Oslo, Norway.",
+  "website": "http://www.awilcolng.no"
+}

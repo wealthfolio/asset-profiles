@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000VMM5W5",
+    "figi": "BBG000VMM7J6",
+    "isin": "GB00B4WFW713"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "GB00B4WFW713",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5PP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5PP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNSPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5PP.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "LMP.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LONDONMETRIC PROPERTY",
+  "primary_symbol": "5PP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "LondonMetric Property Plc is a UK-based real estate investment trust (REIT) that invests in distribution, convenience, logistics and healthcare properties with sustainable income and growth characteristics. The company focuses on properties in the UK with strong occupier demand and good transport links. LondonMetric Property is headquartered in London, UK.",
+  "website": "http://www.londonmetric.com"
+}

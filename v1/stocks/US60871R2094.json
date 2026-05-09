@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000J8SLX8",
+    "cusip": "60871R209",
+    "figi": "BBG000J8TT97",
+    "isin": "US60871R2094"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US60871R2094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NY7.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TAP1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TAP1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NY7.DU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TAP1.DU"
+    }
+  ],
+  "name": "MOLSON COORS BEV B DL0,01",
+  "primary_symbol": "NY7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Molson Coors Beverage Company is a multinational brewing company headquartered in Golden, Colorado, and Montreal, Quebec. The company produces and sells various beer brands, including Molson Canadian, Coors Light, and Miller Lite, as well as other beverage products. Their business model involves brewing, marketing, and distributing their products through a global network."
+}

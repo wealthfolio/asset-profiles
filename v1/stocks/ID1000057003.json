@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000J6GL38",
+    "figi": "BBG000J6GPH4",
+    "isin": "ID1000057003"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "ID1000057003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISM.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ISM.SG"
+    }
+  ],
+  "name": "INDOFOOD  RP 100",
+  "primary_symbol": "ISM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Indofood Sukses Makmur Tbk is a diversified Indonesian food company involved in the production of instant noodles, dairy products, snack foods, seasonings, and beverages. It operates across the entire food value chain from manufacturing to distribution. The company is headquartered in Jakarta, Indonesia."
+}

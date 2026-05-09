@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "DIVIO-B.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Divio Technologies AB (publ)",
+  "primary_symbol": "DIVIO-B.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Divio Technologies AB (publ) develops cloud management software for enterprises and developers. The company offers Divio Cloud Management Platform, a platform-as-a-service that provides cloud hosting, deployment, and development services to enterprises in reducing dependencies on employees, as well as cloud vendors. It also offers django CMS, an open-source CMS platform. The company was founded in 2001 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.divio.com"
+}

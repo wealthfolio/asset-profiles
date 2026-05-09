@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000HRNDP0",
+    "cusip": "254543101",
+    "figi": "BBG000HRNJX8",
+    "isin": "US2545431015"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US2545431015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DDQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DDQ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIOD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIOD.ME"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DDQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DDQ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DIODES INC.  DL -,666",
+  "primary_symbol": "DDQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Diodes Incorporated is a manufacturer and supplier of discrete, logic, analog, and mixed-signal semiconductors. The company serves a variety of markets, including automotive, industrial, computing, and consumer electronics. Diodes is headquartered in Plano, Texas.",
+  "website": "http://www.diodes.com"
+}

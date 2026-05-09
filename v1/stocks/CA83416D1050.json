@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00XZBMQR3",
+    "figi": "BBG00XZBMQX6",
+    "isin": "CA83416D1050"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Energy",
+  "isin": "CA83416D1050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SVS.CR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0ZJ.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SVS.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SVS.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SOLARVEST BIOENER",
+  "primary_symbol": "0ZJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SOLARVEST BIOENER is involved in the development of bioenergy solutions. The company specializes in generating energy from renewable sources. Specific details about its business model and headquarters location are not readily available.",
+  "website": "http://www.solarvest.ca"
+}

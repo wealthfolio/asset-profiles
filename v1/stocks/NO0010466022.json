@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000JQT615",
+    "figi": "BBG000JQV7X5",
+    "isin": "NO0010466022"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "NO0010466022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "POL.OL"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "POLO.SN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Polaris Media ASA",
+  "primary_symbol": "POL.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Polaris Media ASA operates as a digital media company in Norway and Sweden. The company provides digital advertising services. It also prints corporate and external newspapers, including editorial vouchers, advertising vouchers and newspapers, and other magazines/vouchers. In addition, the company distributes newspapers, as well as packages, mails, and food deliveries. The company is based in Trondheim, Norway.",
+  "website": "http://www.polarismedia.no"
+}

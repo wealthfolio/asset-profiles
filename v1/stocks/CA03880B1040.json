@@ -1,0 +1,38 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG002NJM325",
+    "figi": "BBG002NJM352",
+    "isin": "CA03880B1040"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA03880B1040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ABR.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA03880B1040.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Arbor Metals Corp.",
+  "primary_symbol": "ABR.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Arbor Metals Corp. acquires, evaluates, and develops natural resource properties in Canada. It holds an option agreement to acquire a 100% interest in the Rakounga Gold Project located in Burkina Faso, West Africa. The company was formerly known as Vela Minerals Ltd. and changed its name to Arbor Metals Corp. in August 2019. Arbor Metals Corp. was founded in 2011 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.arbormetalscorp.com"
+}

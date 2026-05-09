@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00NZ214F0",
+    "figi": "BBG00NZ214G9",
+    "isin": "FR0010131409"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0010131409",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3WG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3WG.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALLIX.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "WALLIX GROUP  EO -,10",
+  "primary_symbol": "3WG.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "WALLIX GROUP is a French cybersecurity company specializing in Privileged Access Management (PAM) solutions. The company provides software and services to help organizations secure access to their critical IT infrastructure and data. Its headquarters are located in Paris, France.",
+  "website": "http://www.wallix.com"
+}

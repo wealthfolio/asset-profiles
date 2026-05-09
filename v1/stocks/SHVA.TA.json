@@ -1,0 +1,27 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHVA.TA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Automatic Bank Services Limited",
+  "primary_symbol": "SHVA.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Automatic Bank Services Limited operates payment systems for debit cards in Israel. The company serves as a infrastructure for credit card clearing; works with various credit companies as clearers and issuers; works with distributors and manufacturers; provides service to businesses; and activates the certificate switch on the ATM devices. Automatic Bank Services Limited is based in Holon, Israel.",
+  "website": "http://www.shva.co.il"
+}

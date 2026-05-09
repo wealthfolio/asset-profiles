@@ -1,0 +1,72 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "cusip": "98980A105",
+    "isin": "US98980A1051"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Capital Goods",
+  "isin": "US98980A1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A33.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZTO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZTOA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZTOA.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2057.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZTOA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZTOA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZTOB.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ZTON.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ZTO EXPRESS (CAYMAN) INC ZTO EX",
+  "primary_symbol": "0A33.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ZTO EXPRESS (CAYMAN) INC ZTO EX is a leading express delivery company in China, providing parcel delivery services through its extensive network. The company offers logistics and transportation solutions to e-commerce businesses and other industries, and is headquartered in Shanghai, China.",
+  "website": "http://www.zto.com"
+}

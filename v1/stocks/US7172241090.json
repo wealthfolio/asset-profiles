@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00M9B0PZ3",
+    "cusip": "717224109",
+    "figi": "BBG00M9B0Q45",
+    "isin": "US7172241090"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US7172241090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2K4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PHAS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2K4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2K4.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PHASEBIO PHARMAC. DL-,001",
+  "primary_symbol": "2K4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PhaseBio Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on the development and commercialization of novel for cardiopulmonary diseases. Its lead product candidate is bentracimab (PB2452), a reversal agent for the antiplatelet drug ticagrelor that is in Phase III clinical trial for patients with uncontrolled major or life-threatening bleeding events or in patients requiring urgent or emergency surgery. The company is also developing PB1046, a vasoactive intestinal peptide analogue that is in Phase IIb clinical trial for the treatment of pulmonary arterial hypertension; and PB6440 for the treatment of resistant hypertension. The company has a co-development agreement with SFJ Pharmaceuticals X, Ltd. to develop PB2452, a reversal agent for the antiplatelet drug ticagrelor. PhaseBio Pharmaceuticals, Inc. was incorporated in 2002 and is based in Malvern, Pennsylvania.",
+  "website": "http://phasebio.com"
+}

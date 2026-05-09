@@ -1,0 +1,73 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00JRNDDC2",
+    "figi": "BBG00JRNDDK3",
+    "isin": "DK0060910917"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DK0060910917",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1TB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1TB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORPH"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OZYMF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0CUM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1TB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1TBD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DK0060910917.SG"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "ORPHA.CO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Orphazyme A/S",
+  "primary_symbol": "1TB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Orphazyme A/S, a biopharmaceutical company, develops therapies for the treatment of neurodegenerative orphan diseases. The company focuses on the amplification of heat-shock proteins to develop and commercialize therapeutics for diseases caused by protein misfolding and aggregation, and lysosomal dysfunction, including lysosomal storage and neuromuscular degenerative diseases. Its lead candidate is the Arimoclomol, which is in clinical development for four orphan diseases, including Niemann-Pick disease type C, Amyotrophic Lateral Sclerosis, Inclusion Body Myositis, and Gaucher disease. The company was incorporated in 2009 and is headquartered in Copenhagen, Denmark.",
+  "website": "http://www.orphazyme.com"
+}

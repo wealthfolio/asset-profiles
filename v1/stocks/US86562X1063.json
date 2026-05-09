@@ -1,0 +1,42 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "86562X106",
+    "isin": "US86562X1063"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US86562X1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMTDF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUTNY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MIU.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Sumitomo Mitsui Trust Holdings, Inc.",
+  "primary_symbol": "CMTDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sumitomo Mitsui Trust Holdings, Inc. operates as a trust bank in Japan and internationally. It offers retail services, such as asset management, inheritance and succession, mortgage loans, and installment-type products and insurance products; and wholesale services, including loans and financing schemes, corporate consultations, and M&A advisory services. The company also provides property administration and alliance services; and stock and shareholders meetings, IPO, investor and capital strategies, and governance enhancement consulting services. In addition, it offers real estate brokerage and consulting, management and administration, infrastructure, and other services; fiduciary services comprising pensions, asset management, and asset administration; and global markets services. The company was formerly known as Chuo Mitsui Trust Holdings, Inc. and changed its name to Sumitomo Mitsui Trust Holdings, Inc. in 2011. Sumitomo Mitsui Trust Holdings, Inc. was founded in 2002 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.smth.jp"
+}

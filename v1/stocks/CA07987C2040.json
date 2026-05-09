@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000FTP9C9",
+    "figi": "BBG000FTPF99",
+    "isin": "CA07987C2040"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA07987C2040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BHN0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BHN0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BHN0.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BLU.L"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BLU.SI"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BLU.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA07987C2040.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BELLUS Health Inc.",
+  "primary_symbol": "BHN0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BELLUS Health Inc., a clinical stage biopharmaceutical company, develops therapeutics for the treatment of chronic cough and other hypersensitization disorders. Its lead drug candidate includes BLU-5937, an oral small molecule antagonist of the P2X3 receptor, which is in Phase II clinical trial for treatment of chronic cough and chronic pruritus. The company was founded in 1993 and is headquartered in Laval, Canada.",
+  "website": "http://www.bellushealth.com"
+}

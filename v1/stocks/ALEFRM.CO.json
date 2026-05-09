@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "ALEFRM.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Alefarm Brewing A/S",
+  "primary_symbol": "ALEFRM.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Alefarm Brewing A/S, a craft brewery, engages in the production of beers for consumers worldwide. It offers ales and stouts in various flavors. The company was founded in 2015 and is based in Greve, Denmark.",
+  "website": "http://www.alefarm.dk"
+}

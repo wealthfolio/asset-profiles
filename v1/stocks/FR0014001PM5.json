@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z6BB4T9",
+    "figi": "BBG00Z6BB507",
+    "isin": "FR0014001PM5"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Energy",
+  "isin": "FR0014001PM5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FO.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1FO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALHRS.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0014001PM5.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HYDROG.-REF.-SOL.  EO-,10",
+  "primary_symbol": "1FO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "HYDROG.-REF.-SOL. EO-,10 is a company involved in hydrogen energy solutions. It is focused on developing and deploying hydrogen refueling stations. Specific details about its headquarters location are not readily available.",
+  "website": "http://www.hydrogen-refueling-solutions.fr"
+}

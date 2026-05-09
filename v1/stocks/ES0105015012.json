@@ -1,0 +1,51 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "ES0105015012"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "ES0105015012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QRL.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LAREF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L8E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "LRE.MC"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LREN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LAR ESPANA REAL ESTATE SOCIMI S",
+  "primary_symbol": "0QRL.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "LAR España Real Estate SOCIMI SA is a Spanish real estate investment trust (REIT) focused on investing in and managing retail properties in Spain. The company's portfolio includes shopping centers, retail parks, and high-street retail assets, with a strategy to generate income through rental revenues and capital appreciation. LAR España is headquartered in Madrid, Spain.",
+  "website": "http://www.larespana.com"
+}

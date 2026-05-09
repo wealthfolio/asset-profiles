@@ -1,0 +1,63 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG000CS9WH6",
+    "figi": "BBG000CSB0Y4",
+    "isin": "NL0000235190"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Capital Goods",
+  "isin": "NL0000235190",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIR.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIR.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AIR.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AIRE.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "AIRE.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AIRBUS",
+  "primary_symbol": "AIR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "AIRBUS is a European multinational aerospace corporation. The company designs, manufactures and sells commercial and military aircraft, helicopters, satellites, and launch vehicles. Airbus is headquartered in Leiden, Netherlands and has manufacturing facilities across Europe and globally.",
+  "website": "http://www.airesis.com"
+}

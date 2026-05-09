@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000K3BC83",
+    "cusip": "536797103",
+    "figi": "BBG000K3BF68",
+    "isin": "US5367971034"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US5367971034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LAD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LMO.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LMO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LMO.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Lithia Motors, Inc.",
+  "primary_symbol": "LAD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Lithia Motors, Inc. operates as an automotive retailer in the United States. The company operates through three segments: Domestic, Import, and Luxury. It offers new and used vehicles; vehicle financing services; warranties, insurance contracts, and vehicle and theft protection services; and automotive repair and maintenance services, as well as sells vehicle body and parts. As of February 19, 2021, the company operated through 210 stores. It also offers its products online through 200 websites. Lithia Motors, Inc. was founded in 1946 and is headquartered in Medford, Oregon.",
+  "website": "http://www.lithiainvestorrelations.com"
+}

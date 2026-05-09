@@ -1,0 +1,58 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00LGNR5W9",
+    "figi": "BBG00LGNR620",
+    "isin": "FR0013018041"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Transportation",
+  "isin": "FR0013018041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2JZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2JZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVYAF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2JZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2JZ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "NAVYA.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NAVYA S.A. INH.  EO-,10",
+  "primary_symbol": "2JZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NAVYA S.A. focuses on the design, manufacturing, and deployment of autonomous driving systems, primarily electric and driverless shuttles, aiming to revolutionize transportation for first and last-mile mobility solutions. Based in France, NAVYA provides autonomous mobility solutions for passengers and goods. Their vehicles are designed for use in controlled environments like industrial sites, campuses, and urban centers.",
+  "website": "http://www.navya.tech"
+}

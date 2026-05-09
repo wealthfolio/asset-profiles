@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BM6Q13",
+    "figi": "BBG000BM6TJ8",
+    "isin": "TH0016010017"
+  },
+  "industry_group": "Banks",
+  "isin": "TH0016010017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TFBF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TFBF.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TFBF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TFBF.SG"
+    }
+  ],
+  "name": "KASIKORNBANK -FGN-  BA 10",
+  "primary_symbol": "TFBF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Kasikornbank, also known as KBank, is a commercial bank in Thailand that provides a range of banking and financial services to individuals, SMEs, and corporate clients. These services include deposit accounts, loans, credit cards, investment products, and international trade finance. The bank's headquarters are located in Bangkok, Thailand."
+}

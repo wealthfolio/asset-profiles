@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LV04NW8",
+    "figi": "BBG00LV04P17",
+    "isin": "GB00BG11K365"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "GB00BG11K365",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1HO1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RDWWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1HO1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1HO1.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RDW.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Redrow plc",
+  "primary_symbol": "1HO1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Redrow plc focuses on housebuilding activities in the United Kingdom. The company acquires land; and develops and sells residential housing properties. Redrow plc was founded in 1974 and is based in Flintshire, the United Kingdom.",
+  "website": "http://www.redrowplc.co.uk"
+}

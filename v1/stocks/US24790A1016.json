@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KR5GS6",
+    "cusip": "24790A101",
+    "isin": "US24790A1016"
+  },
+  "industry_group": "Energy",
+  "isin": "US24790A1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US24790A1016.SG"
+    }
+  ],
+  "name": "DENBURY INC",
+  "primary_symbol": "US24790A1016.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "DENBURY INC is an independent oil and natural gas company focused on enhanced oil recovery using carbon dioxide (CO2). They acquire properties with significant oil reserves and use CO2 injection to increase production. The company is headquartered in Plano, Texas."
+}

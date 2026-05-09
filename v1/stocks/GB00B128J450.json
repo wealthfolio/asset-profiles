@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BT09Y6",
+    "isin": "GB00B128J450"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GB00B128J450",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B128J450.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B128J450.SW"
+    }
+  ],
+  "name": "IP GROUP PLC",
+  "primary_symbol": "GB00B128J450.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "IP GROUP PLC invests in intellectual property-based businesses, primarily in the UK and US. Their business model involves identifying promising technologies, providing capital and support to develop these technologies into successful companies, and generating returns through equity stakes and exits. The company is headquartered in London, UK."
+}

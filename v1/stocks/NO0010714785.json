@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XZ9Z956",
+    "figi": "BBG00XZ9Z9C8",
+    "isin": "NO0010714785"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NO0010714785",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5VB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5VB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010714785.SG"
+    }
+  ],
+  "name": "VACCIBODY AS  NK -,05",
+  "primary_symbol": "5VB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Vaccibody AS is a biopharmaceutical company focused on the discovery and development of novel immunotherapies, including vaccines and therapeutic vaccines. The company's technology platform is designed to stimulate the immune system to fight cancer and infectious diseases. Vaccibody is headquartered in Oslo, Norway."
+}

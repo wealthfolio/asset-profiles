@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG006B5WKZ4",
+    "figi": "BBG006B5WL55",
+    "isin": "FR0013530102"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0013530102",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2AW1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2AW1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2AW1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013530102.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CABASSE GROUP S.A. EO 1,-",
+  "primary_symbol": "2AW1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cabasse Group provides smart devices and smart home technology products worldwide. It offers electrical accessories, surveillance video, security equipment, and other solutions under the Chacon and DiO brands. The company also provides hybrid bulbs, smart bulbs, and accessories. The company was formerly known as AwoX S.A. and changed its name to Cabasse Group in September 2020. Cabasse Group was founded in 2003 and is based in Montpellier, France.",
+  "website": "http://www.cabasse.com"
+}

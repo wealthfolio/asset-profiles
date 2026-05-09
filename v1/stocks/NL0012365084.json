@@ -1,0 +1,61 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "isin": "NL0012365084"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "NL0012365084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RQN.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NIUWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N4RN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "N4RN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "NSI.AS"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "NSI.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "NSI.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NSI NV NIEUWE STEEN INVESTMENTS",
+  "primary_symbol": "0RQN.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "NSI NV NIEUWE STEEN INVESTMENTS is a Dutch real estate investment company focused on office properties in the Netherlands. The company owns, manages, and develops office buildings in major Dutch cities. NSI NV NIEUWE STEEN INVESTMENTS is headquartered in Rotterdam, Netherlands.",
+  "website": "http://www.nsi.nl"
+}

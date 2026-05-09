@@ -1,0 +1,61 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0010215684"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "NO0010215684",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKKVF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KY7.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IPT.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AKAST.OL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KY7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KY7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KY7.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Akastor ASA",
+  "primary_symbol": "AKKVF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Akastor ASA operates as an oil-services investment company worldwide. The company offers drilling equipment, drilling riser solutions, and related products and services for the drilling market; and vessel-based subsea well construction and intervention services to the oil and gas industry. It is also involved in waste management drilling activities; the provision of subsurface advice and products to E&P companies; and supplying vapor recovery units and systems. Akastor ASA was founded in 1841 and is based in B√É¬¶rum, Norway.",
+  "website": "http://akastor.com"
+}

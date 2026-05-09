@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000D6TC94",
+    "cusip": "790148100",
+    "figi": "BBG000D6VGB9",
+    "isin": "US7901481009"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "US7901481009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JOE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JOE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JOE.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "The St. Joe Company",
+  "primary_symbol": "JOE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "The St. Joe Company, together with its subsidiaries, operates as a real estate development, asset management, and operating company in Northwest Florida, the United States. It operates through three segments: Residential, Hospitality, and Commercial. The Residential segment plans and develops residential communities of various sizes for homebuilders or retail consumers. It primarily sells developed homesites and parcels of entitled undeveloped land. The Hospitality segment owns and operates a private membership club, golf courses, beach clubs, retail outlets, marinas, and other entertainment assets. This segment also engages in the hotel, food and beverage, and gulf-front vacation rental operations, as well as provides management services. The Commercial segment engages in leasing of commercial property, multi-family, a senior living community, and other assets. This segment also plans, develops, entitles, manages, and sells commercial land holdings for retail, office, hotel, assisted-living, multi-family, and industrial uses; and grows and sells pulpwood, saw timber, and other forest products. The company owns 171,000 acres of land in Northwest Florida. The St. Joe Company was founded in 1936 and is based in Panama City Beach, Florida.",
+  "website": "http://www.joe.com"
+}

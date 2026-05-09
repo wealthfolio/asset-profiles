@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "isin": "IE00BVFZGC04"
+  },
+  "industry_group": "Energy",
+  "isin": "IE00BVFZGC04",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "WTID.L"
+    }
+  ],
+  "name": "WisdomTree WTI Crude Oil Pre-roll",
+  "primary_symbol": "WTID.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "WisdomTree WTI Crude Oil Pre-roll is an exchange-traded commodity (ETC) designed to track the performance of WTI crude oil futures contracts. It allows investors to gain exposure to the crude oil market without directly owning the commodity. It is managed by WisdomTree."
+}

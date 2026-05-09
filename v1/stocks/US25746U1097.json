@@ -1,0 +1,59 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000G5S599",
+    "cusip": "25746U109",
+    "figi": "BBG000G5TC57",
+    "isin": "US25746U1097"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Utilities",
+  "isin": "US25746U1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DOD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DOD.MU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "D.BK"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "DOD.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DOD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DOD.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DOMINION ENERGY INC.",
+  "primary_symbol": "DOD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Dominion Energy, Inc. is an energy company that produces and transports energy in the United States. The company's portfolio includes electric generation, natural gas transmission and distribution, and renewable energy assets. Dominion Energy serves approximately 7 million customers in 16 states and is headquartered in Richmond, Virginia.",
+  "website": "http://dentalcorpthailand.com"
+}

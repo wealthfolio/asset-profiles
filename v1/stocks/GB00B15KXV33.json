@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R11XG6",
+    "figi": "BBG000R11XN8",
+    "isin": "GB00B15KXV33"
+  },
+  "isin": "GB00B15KXV33",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CRUDP.PA"
+    }
+  ],
+  "name": "WisdomTree WTI Crude Oil",
+  "primary_symbol": "CRUDP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "WisdomTree WTI Crude Oil is an exchange-traded commodity that seeks to track the Bloomberg WTI Crude Oil Subindex. The fund provides exposure to front-month WTI crude oil futures contracts. The fund is managed by WisdomTree and is based in Europe."
+}

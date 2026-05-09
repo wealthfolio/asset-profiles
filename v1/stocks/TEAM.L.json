@@ -1,0 +1,26 @@
+{
+  "country": "Jersey",
+  "country_code": "JE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TEAM.L"
+    }
+  ],
+  "name": "TEAM plc",
+  "primary_symbol": "TEAM.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "TEAM plc provides portfolio management services to private clients, trusts, and charities. Its services cover discretionary and advisory investment management. The company is based in Saint Helier, Jersey.",
+  "website": "http://www.teamassetmanagement.com"
+}

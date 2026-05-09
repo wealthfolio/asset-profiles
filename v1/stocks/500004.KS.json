@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "500004.KS"
+    }
+  ],
+  "name": "Shinhan Brent Futures ETN(H)",
+  "primary_symbol": "500004.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Shinhan Brent Futures ETN(H) is an Exchange Traded Note (ETN) offered by Shinhan Investment Corporation that provides exposure to Brent crude oil futures. The \"(H)\" likely indicates that it is currency hedged, meaning it aims to minimize the impact of fluctuations in the exchange rate between the Korean Won and the currency in which the Brent crude oil futures are denominated (typically USD)."
+}

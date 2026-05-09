@@ -1,0 +1,68 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BPMJD1",
+    "figi": "BBG000BPMLN5",
+    "isin": "BE0974320526"
+  },
+  "industry": "Building Products",
+  "industry_group": "Materials",
+  "isin": "BE0974320526",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVJP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVJP.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVJP.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVJP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NVJP.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NVJP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NVJP.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "UMI.BK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "UMICORE S.A.",
+  "primary_symbol": "NVJP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Umicore S.A. is a global materials technology and recycling group. The company, headquartered in Brussels, Belgium, focuses on areas such as catalysis, energy materials, recycling, and specialty materials.",
+  "website": "http://www.umi-tiles.com"
+}

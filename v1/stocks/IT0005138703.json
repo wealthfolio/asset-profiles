@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005138703"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "IT0005138703",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ORS.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Orsero S.p.A.",
+  "primary_symbol": "ORS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Orsero S.p.A. imports and distributes fruits and vegetables in Europe, Latin America, and North America. It also produces bananas and pineapples, citrus fruits, apples, melons, and pears, as well as exotic fruits and vegetables under the F.lli Orsero brand name. Orsero S.p.A. is headquartered in Milan, Italy.",
+  "website": "http://www.orserogroup.it"
+}

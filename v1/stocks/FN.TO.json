@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Thrifts & Mortgage Finance",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "FN.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "First National Financial Corporation",
+  "primary_symbol": "FN.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "First National Financial Corporation, together with its subsidiaries, originates, underwrites, and services residential and commercial mortgages in Canada. The company offers single family residential, and multi-unit residential and commercial mortgages. It provides its services online. First National Financial Corporation founded in 1988 and is headquartered in Toronto, Canada.",
+  "website": "http://www.firstnational.ca"
+}

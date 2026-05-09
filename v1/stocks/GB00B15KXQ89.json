@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R11TH4",
+    "figi": "BBG000R11TS2",
+    "isin": "GB00B15KXQ89"
+  },
+  "isin": "GB00B15KXQ89",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "COPAP.PA"
+    }
+  ],
+  "name": "WisdomTree Copper",
+  "primary_symbol": "COPAP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

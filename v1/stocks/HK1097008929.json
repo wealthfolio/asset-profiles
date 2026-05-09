@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C4GTC3",
+    "figi": "BBG000C4GWD5",
+    "isin": "HK1097008929"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "HK1097008929",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IB5A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IB5A.SG"
+    }
+  ],
+  "name": "I-CABLE COMMNCTNS",
+  "primary_symbol": "IB5A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "I-CABLE COMMNCTNS is a telecommunications company that provides broadband internet, pay television, and other communication services. The company primarily operates in Hong Kong. I-Cable Communications is headquartered in Hong Kong."
+}

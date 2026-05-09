@@ -1,0 +1,38 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BX6MS9",
+    "figi": "BBG000BX6PF6",
+    "isin": "JP3733400000"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "JP3733400000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPG.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NPG.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NIPPON EL. GLASS",
+  "primary_symbol": "NPG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NIPPON EL. GLASS is likely the former name for NEG (Nippon Electric Glass), a Japanese manufacturer of specialty glass. They produce glass for displays, optical devices, and other applications. The headquarters are located in Japan.",
+  "website": "http://www.neg.co.jp"
+}

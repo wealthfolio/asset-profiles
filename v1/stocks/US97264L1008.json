@@ -1,0 +1,49 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00T41C3H1",
+    "cusip": "97264L100",
+    "figi": "BBG00T41C3P2",
+    "isin": "US97264L1008"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US97264L1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0BF1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0BF1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIMI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0BF1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WIMI HOLOGR.CLD B ADR/2",
+  "primary_symbol": "0BF1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "WiMi Hologram Cloud Inc. provides augmented reality (AR) based holographic services and products in China. It operates in two segments, Augmented Reality Advertising Service; and AR Entertainment. The company primarily offers holographic AR advertising services and holographic AR entertainment products. Its holographic AR advertising software enables users to insert into video footages real or animated three dimensional objects; and online holographic AR advertising solution embeds holographic AR ads into films and shows. The company's holographic AR entertainment products consist primarily of payment middleware software, game distribution platform, and holographic mixed reality software. WiMi Hologram Cloud Inc. was founded in 2015 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://en.wimiar.com"
+}

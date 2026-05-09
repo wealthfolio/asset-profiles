@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BD7BN1",
+    "figi": "BBG000BD7FQ9",
+    "isin": "DE0005878003"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005878003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GIL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GIL.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GIL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GIL.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GIL.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GIL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GIL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GIL.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "GIL.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DMG MORI AG O.N.",
+  "primary_symbol": "GIL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "DMG MORI AG is a German machine tool manufacturer that produces a wide range of CNC-controlled machine tools, including turning machines, milling machines, and ultrasonic machines. The company serves various industries such as automotive, aerospace, and medical technology, providing advanced manufacturing solutions.",
+  "website": "http://www.dmgmori.com"
+}

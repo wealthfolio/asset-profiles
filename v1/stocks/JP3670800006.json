@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BVP484",
+    "figi": "BBG000BVP8R4",
+    "isin": "JP3670800006"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Materials",
+  "isin": "JP3670800006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSC.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NSC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NSC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NSC.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NISSAN CHEMICAL CORP.",
+  "primary_symbol": "NSC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NISSAN CHEMICAL CORP. is a Japanese chemical company involved in the manufacture and sale of chemical products, including performance materials, agricultural materials, and pharmaceuticals. The company's products are used in a variety of industries. Nissan Chemical Corporation is headquartered in Tokyo, Japan.",
+  "website": "http://contango.com.au/listed-companies/contango-microcap-limited/"
+}

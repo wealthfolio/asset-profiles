@@ -1,0 +1,36 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BVGBWW93"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "GB00BVGBWW93",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARSSF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AGR.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Assura Plc",
+  "primary_symbol": "ARSSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Assura plc, a constituent of the FTSE 250 and the EPRA* indices, is a UK REIT and long-term investor in and developer of primary care property. The company, headquartered in Warrington, works with GPs, health professionals and the NHS to create outstanding spaces for health services in our communities. At 30 September 2020, Assura's property portfolio was valued at √Ç¬£2,259 million.",
+  "website": "http://www.assuraplc.com"
+}

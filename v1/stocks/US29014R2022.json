@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "29014R202",
+    "isin": "US29014R2022"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US29014R2022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELOX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "397.F"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3970.T"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Eloxx Pharmaceuticals, Inc.",
+  "primary_symbol": "ELOX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Eloxx Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, focuses on developing ribonucleic acid modulating drug candidates for the treatment of rare and ultra-rare premature stop codon diseases. Its lead investigational drug product candidate is ELX-02, which is in Phase 2 clinical trial that focuses on the treatment of cystic fibrosis and nephropathic cystinosis patients with diagnosed nonsense mutations. The company was incorporated in 2013 and is headquartered in Waltham, Massachusetts.",
+  "website": "http://www.eloxxpharma.com"
+}

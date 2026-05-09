@@ -1,0 +1,49 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "isin": "AU000000CSL8"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000CSL8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSJ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSJ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CSJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CSJ.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "CSL.BO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CSL LTD",
+  "primary_symbol": "CSJ.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CSL Limited is a global biotechnology company that develops and manufactures plasma-derived therapies and influenza vaccines. The company's products are used to treat a range of serious and life-threatening conditions, including immunodeficiency, bleeding disorders, and respiratory diseases. CSL is headquartered in Melbourne, Australia."
+}

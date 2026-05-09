@@ -1,0 +1,24 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "HPDP11.SA"
+    }
+  ],
+  "name": "Hedge Real Estate I Fundo De Investimento Imobliario",
+  "primary_symbol": "HPDP11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "HPDP11 is a Brazilian real estate investment fund (FII) that primarily invests in real estate receivables (CRIs), which are debt securities backed by real estate assets. The fund aims to generate income for investors through the interest payments from these CRIs. HPDP11 provides investors with exposure to the Brazilian real estate market through debt instruments."
+}

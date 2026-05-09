@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000OEC2"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "AU000000OEC2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OBTEF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OEC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0OE.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "OEC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OREA.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Orbital Corporation Limited",
+  "primary_symbol": "OBTEF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Orbital Corporation Limited engages in the design, manufacture, and sale of unmanned aerial vehicle (UAV) propulsion systems and flight critical components in Australia and the United States. It also focuses on the manufacture, assembly, and delivery of engines and propulsion systems for unmanned aerial vehicles. The company was formerly known as Orbital Engine Corporation Limited and changed its name to Orbital Corporation Limited in October 2004. Orbital Corporation Limited was incorporated in 1988 and is headquartered in Balcatta, Australia.",
+  "website": "http://orbitaluav.com"
+}

@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00N53CR86",
+    "figi": "BBG00N53CRG7",
+    "isin": "SE0011528017"
+  },
+  "industry_group": "Materials",
+  "isin": "SE0011528017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NIO.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NIO.F"
+    }
+  ],
+  "name": "NORDIC IRON ORE",
+  "primary_symbol": "NIO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nordic Iron Ore AB is a Swedish mining company focused on the exploration and development of iron ore deposits in Sweden. The company aims to restart iron ore production at its iron ore projects. Nordic Iron Ore is headquartered in Ludvika, Sweden."
+}

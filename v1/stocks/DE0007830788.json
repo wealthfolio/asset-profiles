@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BVT8G2",
+    "figi": "BBG000BVTCJ0",
+    "isin": "DE0007830788"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE0007830788",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IS8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IS8.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IS8.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "IS8.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IS8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IS8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IS8.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IFA SYSTEMS AG",
+  "primary_symbol": "IS8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ifa systems AG develops, distributes, and installs software solutions and components primarily targeted at ophthalmologists and eye clinics in health IT industry worldwide. It offers an Electronic Medical Record (EMR) dedicated to ophthalmology. The company EMR permits a detailed documentation and administration of the examination results and treatments, and can be implemented in specialist practices and eye centers, as well as ophthalmology departments in hospitals. It provides medical device interface system, a solution that is specialized in all data from ophthalmology and merge all data from different sources; clinical decision support system, analyses available clinical patient data to provide information about the guidelines, treatment methods, risks, etc; software connection platform, which connects and integrates different software products; and workflow management software, manages treatment processes; as well as Web-based registry solutions for treatment of cataract and refractive surgery. The company was founded in 1987 and is headquartered in Frechen, Germany. ifa systems AG is a subsidiary of Topcon Europe B.V.",
+  "website": "http://www.ifasystems.de"
+}

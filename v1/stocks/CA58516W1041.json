@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000Q5YYM3",
+    "figi": "BBG000Q5Z0C7",
+    "isin": "CA58516W1041"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA58516W1041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M6J.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M6J.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGAFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M6J.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M6J.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MGA.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Mega Uranium Ltd.",
+  "primary_symbol": "M6J.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mega Uranium Ltd., a mineral exploration and development company, explores for uranium prospective properties primarily in Australia and Canada. Its principal properties include the Ben Lomond and Georgetown (Maureen) projects located in Queensland. The company was formerly known as Maple Minerals Corp. and changed its name to Mega Uranium Ltd. in October 2005. Mega Uranium Ltd. was incorporated in 1990 and is headquartered in Toronto, Canada.",
+  "website": "http://www.megauranium.com"
+}

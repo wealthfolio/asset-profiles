@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00VYKGK70",
+    "figi": "BBG00VYKGKD3",
+    "isin": "GB00BTFR4F17"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "GB00BTFR4F17",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7WP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7WP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BTFR4F17.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "WPHO.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WINDAR PHOTONICS  LS -,01",
+  "primary_symbol": "7WP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Windar Photonics Plc, through its subsidiaries, develops and sells light detection and ranging sensors, and associated products for use on electricity generating wind turbines. It offers WindEYE and WindVISION sensors, which measure wind speed by scanning a laser beam ahead of the wind turbines. The company also provides WindTIMIZER for wind turbine's controller; and retrofit control system for wind turbines. It serves original equipment manufacturers, independent power producers, and wind park operators in Europe, China, and Asia. The company was incorporated in 2014 and is based in London, the United Kingdom.",
+  "website": "http://www.investor.windarphotonics.com"
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "858568108",
+    "isin": "IT0005200248"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0005200248",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SCM.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Solutions Capital Management SIM S.p.A.",
+  "primary_symbol": "SCM.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Solutions Capital Management SIM S.p.A. provides portfolio management and investment advisory services. It offers wealth management, MIFID consulting, general advisory, personal financial and risk planning, and placement services. The company was founded in 2009 and is based in Milan, Italy. Solutions Capital Management SIM S.p.A. is a subsidiary of Hps Holding Partecipazioni Societarie S.R.L.",
+  "website": "http://www.scmsim.it"
+}

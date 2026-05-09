@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00K2NC810",
+    "figi": "BBG00K2NC874",
+    "isin": "GB00BF1GH114"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Capital Goods",
+  "isin": "GB00BF1GH114",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8H.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8H.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBHCF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "M8H.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M8H.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M8H.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MBH CORP. PLC  EO 1",
+  "primary_symbol": "M8H.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "MBH Corporation PLC is a diversified investment holding company, acquiring small to medium-sized enterprises across multiple geographies and industries. Their business model centers on acquiring profitable, well-managed companies and providing them with resources and support to accelerate growth and create synergies. The company is headquartered in London, UK",
+  "website": "http://www.mbhcorporation.com"
+}

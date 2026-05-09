@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "PLANSWR00019"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Materials",
+  "isin": "PLANSWR00019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANR.AQ"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ANR.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ALTONA RARE EARTHS",
+  "primary_symbol": "ANR.AQ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "ALTONA RARE EARTHS is a resource exploration company focused on identifying and developing rare earth element (REE) projects. The company is based in Australia and actively explores and evaluates potential rare earth deposits. The company is pursuing the exploration of critical minerals.",
+  "website": "http://www.anataralifesciences.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000FG8Z83",
+    "figi": "BBG000FG92W8",
+    "isin": "AU000000IMC7"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000IMC7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANW.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ANW.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ANW.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000IMC7.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IMMURON LTD",
+  "primary_symbol": "ANW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IMMURON LTD is a biopharmaceutical company focused on developing and commercializing bovine colostrum-derived products for gut health. Their primary product Travelan is designed to prevent travelers' diarrhea. The company is headquartered in Australia.",
+  "website": "http://www.austinmining.com.au"
+}

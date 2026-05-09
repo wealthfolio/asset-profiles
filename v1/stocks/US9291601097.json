@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BWGYF8",
+    "cusip": "929160109",
+    "figi": "BBG000BWH016",
+    "isin": "US9291601097"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "US9291601097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VMC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VMC.BE"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "V1MC34.SA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VMC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VMC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VMC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VMC.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Vulcan Materials Company",
+  "primary_symbol": "VMC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Vulcan Materials Company produces and supplies construction aggregate primarily in the United States. It operates through four segments: Aggregates, Asphalt, Concrete, and Calcium. The Aggregates segment provides crushed stones, sand and gravel, sand, and other aggregates; and related products and services that are applied in construction and maintenance of highways, streets, and other public works, as well as in the construction of housing and commercial, industrial, and other nonresidential facilities. The Asphalt Mix segment offers asphalt mix in Alabama, Arizona, California, New Mexico, Tennessee, and Texas, as well as engages in the asphalt construction paving activity in Alabama, Tennessee, and Texas. The Concrete segment provides ready-mixed concrete in Maryland, Texas and Virginia, and Washington D.C. The Calcium segment mines, produces, and sells calcium products for the animal feed, plastics, and water treatment industries. The company was formerly known as Virginia Holdco, Inc. and changed its name to Vulcan Materials Company. Vulcan Materials Company was founded in 1909 and is headquartered in Birmingham, Alabama.",
+  "website": "http://www.vulcanmaterials.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000060873"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FR0000060873",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BVDRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BED.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BED.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MBWS.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Marie Brizard Wine & Spirits SA",
+  "primary_symbol": "BVDRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Marie Brizard Wine & Spirits SA produces and sells wine and spirits in Western Europe, the Middle East, Africa, Central and Eastern Europe, the Americas, and Asia-Pacific. It primarily offers scotch whisky under the William Peel brand; vodka under the Sobieski and Krupnik brands; wine-based beverages under the Fruits and Wine brand name; French liqueurs under the Marie Brizard brand; and cognac under the Cognac Gautier brand. Marie Brizard Wine & Spirits SA was founded in 1755 and is based in Paris, France.",
+  "website": "http://en.mbws.com"
+}

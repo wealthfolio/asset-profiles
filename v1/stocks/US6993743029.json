@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000RF83L8",
+    "cusip": "699374302",
+    "figi": "BBG000RF8837",
+    "isin": "US6993743029"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6993743029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N4CN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N4CN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRTK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N4CN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "N4CN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PARATEK PHARMAC.  DL-,001",
+  "primary_symbol": "N4CN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PARATEK PHARMAC. DL-,001 is a biopharmaceutical company focused on developing and commercializing novel antibiotics to address serious bacterial infections. The company's lead product is NUZYRA, an antibiotic for the treatment of community-acquired bacterial pneumonia and acute skin and skin structure infections. The company is headquartered in Boston, Massachusetts.",
+  "website": "http://paratekpharma.com"
+}

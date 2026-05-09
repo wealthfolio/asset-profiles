@@ -1,0 +1,73 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00F15W0F1",
+    "figi": "BBG00F15W0M3",
+    "isin": "SE0005992831"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Software & Services",
+  "isin": "SE0005992831",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2ST.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2ST.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STBEF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RUU.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2ST.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2ST.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2STA.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "STAR-A.ST"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "STAR-B.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STARBREEZE AB B  SK-,20",
+  "primary_symbol": "2ST.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Starbreeze AB is a Swedish video game developer and publisher. The company is known for titles such as Payday and Dead by Daylight (which they no longer own). Starbreeze is headquartered in Stockholm, Sweden.",
+  "website": "http://www.starbreeze.com"
+}

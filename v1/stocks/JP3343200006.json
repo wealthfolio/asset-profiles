@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C2L089",
+    "figi": "BBG000C2L2N8",
+    "isin": "JP3343200006"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "JP3343200006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SJ8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNROF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8136.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SJ8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SJ8.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SANRIO CO. LTD",
+  "primary_symbol": "SJ8.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "SANRIO CO. LTD. designs, licenses, and sells a variety of character-branded merchandise including Hello Kitty, My Melody, and others. The company operates theme parks and produces animated content featuring its characters. Sanrio is headquartered in Tokyo, Japan.",
+  "website": "http://www.sanrio.co.jp"
+}

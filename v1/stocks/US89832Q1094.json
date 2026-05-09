@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "cusip": "89832Q109",
+    "isin": "US89832Q1094"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US89832Q1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBK"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBK.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BBK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US89832Q1094.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BlackRock Municipal Bond Trust",
+  "primary_symbol": "BBK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BlackRock Municipal Bond Trust is a closed-end investment fund whose objective is to seek as high a level of current income exempt from federal income tax as is consistent with its investment policies and prudent risk management. The Trust invests primarily in a portfolio of long-term municipal bonds. It is managed by BlackRock Advisors, LLC."
+}

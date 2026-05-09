@@ -1,0 +1,66 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000NTU4"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000NTU4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOURF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NUN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NUN.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GNM.AX"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NTU.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NUN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NUN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Northern Minerals Limited",
+  "primary_symbol": "NOURF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Northern Minerals Limited engages in the exploration and evaluation of rare earth element mineral interests in Australia. The company explores for dysprosium and other heavy rare earths. Its flagship project is the 100% owned Browns Range project located to the south east of Halls Creek in northern Western Australia. The company was formerly known as Northern Uranium Limited and changed its name to Northern Minerals Limited in February 2011. Northern Minerals Limited was incorporated in 2006 and is based in West Perth, Australia.",
+  "website": "http://northernminerals.com.au"
+}

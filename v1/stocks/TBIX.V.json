@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "TBIX.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TrustBIX Inc.",
+  "primary_symbol": "TBIX.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TrustBIX Inc. provides information solutions for the livestock industry in Canada, the United States, China, and Mexico. The company is involved in the sale, installation, and support of software and computer systems for auction markets and livestock dealers; software for livestock feedlots; and data capture and carcass grading systems for pork plants, as well as Business Infoxchange (BIX). It also provides internet-based applications that provide animal tracking and management. TrustBIX Inc. is based in Edmonton, Canada.",
+  "website": "http://www.trustbix.com"
+}

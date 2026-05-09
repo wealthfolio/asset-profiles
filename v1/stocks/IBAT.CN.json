@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0032GGQ64",
+    "figi": "BBG0032GGQD6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "IBAT.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "International Battery Metals Ltd.",
+  "primary_symbol": "IBAT.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "International Battery Metals Ltd., a technology company, engages in developing technologies for the extraction and processing of lithium from various sources. It focuses on lithium brine extraction from oil field brines for petro-lithium extraction projects. The company was formerly known as Rheingold Exploration Corp. and changed its name to International Battery Metals Ltd. in August 2017. International Battery Metals Ltd. was incorportaed in 2010 and is headquartered in Vancouver, Canada.",
+  "website": "http://ibatterymetals.com"
+}

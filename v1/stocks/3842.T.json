@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3842.T"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nextgen,Inc.",
+  "primary_symbol": "3842.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Nextgen,Inc. provides telecommunication, session initiation protocol (SIP)/VoIP security, and enterprise solutions in Japan. The company offers carrier-grade SIP/VoIP systems to various telecommunication carriers. It also provides VoIP QA testing solutions, including NX-VNS, a VoIP node simulator; NX-V3S, a SIP fuzz test tool; and NX-V3R, a RTP/RTCP signaling test tool, as well as NX-C6000/NX-C6500, a network forensic and IDS system targeted for VoIP/IMS core network. In addition, the company offers SIP/VoIP security consulting and vulnerability audit for telecom carriers, mobile operators, VoIP/IMS system vendors, and VoIP/IMS system integrators. Further, it provides session border controller and IP-PBX solutions for enterprises, as well as voice logging solutions for small to large networks. The company was founded in 2001 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.nextgen.co.jp"
+}

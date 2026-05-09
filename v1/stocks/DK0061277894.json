@@ -1,0 +1,53 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG000BNG302",
+    "figi": "BBG000BNG5V3",
+    "isin": "DK0061277894"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DK0061277894",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OA41.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OA41.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DK0061277894.SG"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "EAC.CO"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SFG.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EAC INVEST AS NAM. DK 350",
+  "primary_symbol": "OA41.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "EAC INVEST A/S is an investment company that focuses on investing in and developing small and medium-sized enterprises (SMEs). The company's investment strategy involves acquiring majority or minority stakes in companies with growth potential, primarily in Northern Europe, headquartered in Copenhagen, Denmark. EAC INVEST seeks to create value by actively supporting the growth and development of its portfolio companies.",
+  "website": "http://www.eac.dk"
+}

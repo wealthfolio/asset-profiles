@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C2CBM9",
+    "figi": "BBG000C2CDX3",
+    "isin": "JP3400900001"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "JP3400900001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SU2.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "5232.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SU2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SU2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SU2.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SUMITOMO OSAKA CEM.",
+  "primary_symbol": "SU2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SUMITOMO OSAKA CEM. is a Japanese company that manufactures and sells cement, mineral resources, and related products. The company operates through various segments, including cement, mineral resources, construction materials, and environmental solutions. Sumitomo Osaka Cement is headquartered in Tokyo, Japan.",
+  "website": "http://www.soc.co.jp"
+}

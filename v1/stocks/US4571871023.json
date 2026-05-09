@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CV58H6",
+    "cusip": "457187102",
+    "figi": "BBG000CV5CF9",
+    "isin": "US4571871023"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US4571871023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INGR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INGR.ME"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CNP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNP.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "INGREDION INC.  DL-,01",
+  "primary_symbol": "CNP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "INGREDION INC. DL-,01 is Ingredion Incorporated with a denomination of DL-,01 traded on the Berne exchange. Ingredion Incorporated is a global ingredient solutions provider. The company manufactures and sells starches, sweeteners, and other ingredients to the food, beverage, and industrial sectors.",
+  "website": "http://www.ingredion.com"
+}

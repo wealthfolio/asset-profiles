@@ -1,0 +1,47 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "889110102",
+    "isin": "US8891101029"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US8891101029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOELF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOELY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8035.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TKY.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Tokyo Electron Limited",
+  "primary_symbol": "TOELF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Tokyo Electron Limited, together with its subsidiaries, develops, manufactures, distributes, and sells semiconductor and flat panel display (FPD) production equipment in Japan, North America, Europe, South Korea, Taiwan, China, and internationally. The company's Semiconductor Production Equipment segment offers coaters/developers, plasma etch systems, and single wafer deposition systems and cleaning systems used in wafer processing; wafer probers used in wafer testing process; and wafer bonders/debonders used in packaging processes. Its Flat Panel Display Production Equipment segment provides coaters/developers and plasma etch/ash systems for use in the manufacture of FPDs, as well as inkjet printing systems for manufacturing OLED panels. The company also offers logistic, facility maintenance, and insurance services. Tokyo Electron Limited was incorporated in 1951 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.tel.com"
+}

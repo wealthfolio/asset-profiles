@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00G6C5KF5",
+    "cusip": "78418A505",
+    "isin": "US78418A5056"
+  },
+  "isin": "US78418A5056",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US78418A5056.SG"
+    }
+  ],
+  "name": "SAFE & GREEN HOLDINGS CORP",
+  "primary_symbol": "US78418A5056.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

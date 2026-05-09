@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000Q7XWY1",
+    "cusip": "38068T105",
+    "figi": "BBG000Q7Y043",
+    "isin": "US38068T1051"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US38068T1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GIH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GORO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GIH.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GIH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GIH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GIH.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GOLD RES CORP.  DL-,001",
+  "primary_symbol": "GIH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Gold Resource Corporation explores for, develops, produces, and sells gold and silver in Mexico and the United States. It also explores for copper, lead, and zinc deposits. The company's flagship property is the Aguila project comprising 18 mining concessions covering an area of approximately 24,372 hectares located in the State of Oaxaca, Mexico. The company was founded in 1998 and is headquartered in Denver, Colorado.",
+  "website": "http://goldresourcecorp.com"
+}

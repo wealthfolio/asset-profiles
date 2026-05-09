@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCBG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "City Bank",
+  "primary_symbol": "CCBG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "As of April 17, 2010, City Bank was acquired by Whidbey Island Bank. City Bank offers commercial banking services. The company was incorporated in 1974 and is headquartered in Lynnwood, Washington.",
+  "website": "http://www.metrocitybank.bank"
+}

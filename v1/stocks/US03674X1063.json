@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005JXBGY0",
+    "cusip": "03674X106",
+    "figi": "BBG005JXBH41",
+    "isin": "US03674X1063"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US03674X1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7A6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A71.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7A6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7A6.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ANTERO RES CORP.  DL -,01",
+  "primary_symbol": "7A6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Antero Resources Corporation is an independent oil and natural gas company engaged in the acquisition, development, and production of unconventional oil and natural gas properties in the Appalachian Basin. The company's primary focus is on the Marcellus Shale and Utica Shale. Antero Resources is headquartered in Denver, Colorado.",
+  "website": "http://www.anteroresources.com"
+}

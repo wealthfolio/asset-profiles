@@ -1,0 +1,43 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0067M2NB5",
+    "figi": "BBG0067M2NJ7",
+    "isin": "CA36830P1045"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA36830P1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GENGF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "GXE.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GEAR ENERGY LTD",
+  "primary_symbol": "0GY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "GEAR ENERGY LTD is a Canadian oil and gas company focused on acquiring, developing, and exploiting resource plays in the Western Canadian Sedimentary Basin. The company's strategy involves utilizing horizontal drilling and multi-stage fracturing techniques to increase production from its properties. Gear Energy Ltd. is headquartered in Calgary, Alberta.",
+  "website": "http://www.gearenergy.com"
+}

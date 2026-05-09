@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG007G83GC7",
+    "cusip": "05350V106",
+    "figi": "BBG007G83GK8",
+    "isin": "US05350V1061"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US05350V1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8HH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8HH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVNS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8HH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8HH.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AVANOS MEDICAL INC.DL-,01",
+  "primary_symbol": "8HH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AVANOS MEDICAL INC.DL-,01: Avanos Medical, Inc. is a medical technology company that designs, develops, and manufactures a portfolio of medical devices focused on pain management, digestive health, and respiratory health. The company's products are sold in over 90 countries. Avanos Medical is headquartered in Alpharetta, Georgia.",
+  "website": "http://avanos.com"
+}

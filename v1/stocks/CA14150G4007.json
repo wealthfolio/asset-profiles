@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG005ZCS8X9",
+    "figi": "BBG005ZCS930",
+    "isin": "CA14150G4007"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA14150G4007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0Y.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRLFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C0Y.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CJ.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CARDINAL ENERGY LTD",
+  "primary_symbol": "C0Y.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Cardinal Energy Ltd. is a Canadian oil and gas company focused on the acquisition, exploration, and production of light, medium, and heavy crude oil and natural gas. The company's operations are primarily in Alberta and Saskatchewan. Cardinal Energy aims to provide investors with a stable dividend stream supported by its producing assets.",
+  "website": "http://www.cardinalenergy.ca"
+}

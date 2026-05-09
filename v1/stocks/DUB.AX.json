@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DUB.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Dubber Corporation Limited",
+  "primary_symbol": "DUB.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Dubber Corporation Limited operates a unified call recording platform in North America, Europe, and the Asia-Pacific. The company offers Dubber platform, a secure and scalable call recording solution; and Dubber AI, transcribes content to facilitate key word search, as well as gives sentiment ratings based on the language used during the call. It also provides OpenAPI solution that provides an intelligent call analytics service, which monitors statistics, such as call duration, wait time, talk time, hold time, and others; and Meeting recorder, which allows users to record meetings from their phone and store them securely in the cloud, as well as compliant features and services to service providers. The company was formerly known as Crucible Gold Limited and changed its name to Dubber Corporation Limited in December 2014. Dubber Corporation Limited was incorporated in 1999 and is headquartered in Melbourne, Australia.",
+  "website": "http://www.dubber.net"
+}

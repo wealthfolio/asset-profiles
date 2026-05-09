@@ -1,0 +1,46 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0006887063"
+  },
+  "industry": "Thrifts & Mortgage Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0006887063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R65.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4HF.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4HF.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "HOFI.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HOIST FINANCE PUBL AB HOIST FIN",
+  "primary_symbol": "0R65.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hoist Finance AB is a Swedish debt restructuring company specializing in the purchase and management of non-performing loans. The company works with banks and financial institutions to acquire portfolios of debt and then manage the recovery process. Hoist Finance is headquartered in Stockholm, Sweden.",
+  "website": "http://www.hoistfinance.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA29408D1087"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA29408D1087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVLLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7N2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7N2.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "ETI.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EnviroLeach Technologies Inc.",
+  "primary_symbol": "EVLLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "EnviroLeach Technologies Inc. develops and commercializes inorganic electrochemical technologies for the hydrometallurgical extraction and recovery of precious metals in the primary and secondary metal sectors. Its targets the gold mining sector and the e-waste sector markets. The company was incorporated in 2016 and is headquartered in Burnaby, Canada.",
+  "website": "http://enviroleach.com"
+}

@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GF2JL1",
+    "figi": "BBG000GF3PF3",
+    "isin": "AT0000606306"
+  },
+  "industry_group": "Banks",
+  "isin": "AT0000606306",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAW.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAW.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAW.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RAW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RAW.SG"
+    }
+  ],
+  "name": "RAIFFEISEN BK INTL INH.",
+  "primary_symbol": "RAW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Raiffeisen Bank International AG provides corporate and investment banking services. Headquartered in Vienna, Austria, it operates primarily in Central and Eastern Europe. Raiffeisen Bank International offers a range of financial services, including lending, asset management, and capital markets solutions."
+}

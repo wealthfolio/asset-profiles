@@ -1,0 +1,68 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZB4DN6",
+    "figi": "BBG00XZB4DV7",
+    "isin": "NO0010823131"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "NO0010823131",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KHOTF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KAH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KAH.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KAHOT.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KAHOTO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010823131.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KAHOOT ASA  NK -,10",
+  "primary_symbol": "KAH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kahoot! ASA is a game-based learning platform that makes it easy to create, discover, play and share learning games. Their platform is used in schools, businesses, and homes. The company is headquartered in Oslo, Norway.",
+  "website": "http://kahoot.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000BKXM16",
+    "figi": "BBG000BKXNY8",
+    "isin": "HK0018000155"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "HK0018000155",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPQ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OPQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OPQ.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ORIENTAL PRESS GRP",
+  "primary_symbol": "OPQ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "ORIENTAL PRESS GRP is likely a printing and publishing company, offering services such as commercial printing, packaging, and related solutions. It likely serves businesses requiring printed materials. The company's specific location and operational details would require further research.",
+  "website": "http://opg.on.cc/tc"
+}

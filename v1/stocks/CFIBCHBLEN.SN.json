@@ -1,0 +1,22 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "CFIBCHBLEN.SN"
+    }
+  ],
+  "name": "Fondo de Inversion Chile Blend",
+  "primary_symbol": "CFIBCHBLEN.SN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Fondo de Inversion Chile Blend is headquartered in Santiago, Region Metropolitana (Santiago), Chile."
+}

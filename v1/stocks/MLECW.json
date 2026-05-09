@@ -1,0 +1,25 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLECW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Moolec Science SA Warrant",
+  "primary_symbol": "MLECW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Moolec Science SA Warrant is a warrant associated with Moolec Science SA, giving the holder the right to purchase shares of the company's common stock at a specified price within a specific period. It is related to the company's efforts in molecular farming and plant-based ingredients. The company is headquartered in Luxembourg."
+}

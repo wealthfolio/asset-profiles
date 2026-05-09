@@ -1,0 +1,37 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG0026447G3",
+    "isin": "AU000000CLZ3"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000CLZ3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000CLZ3.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CLZ.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CLASSIC MINERALS LTD",
+  "primary_symbol": "AU000000CLZ3.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Classic Minerals Ltd is an Australian exploration company focused on gold projects. The company is exploring for gold resources in Western Australia.",
+  "website": "http://www.classicminerals.com.au"
+}

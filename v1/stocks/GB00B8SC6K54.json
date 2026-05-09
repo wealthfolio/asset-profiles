@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004DK89P7",
+    "figi": "BBG004DK89V0",
+    "isin": "GB00B8SC6K54"
+  },
+  "industry_group": "Utilities",
+  "isin": "GB00B8SC6K54",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3GC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3GC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3GC.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "UKW.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GREENCOAT UK WIND LS -,01",
+  "primary_symbol": "3GC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Greencoat UK Wind PLC is a renewable energy infrastructure investment fund focused on investing in operating UK wind farms. The company aims to provide investors with a sustainable income stream through the generation of electricity from wind power. Greencoat UK Wind is based in London, United Kingdom."
+}

@@ -1,0 +1,39 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "isin": "IE00BKTWZ451"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "IE00BKTWZ451",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAPE.L"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SAPL.BO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAPL.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LEVERAGE SHARES PUBLIC LIMITED",
+  "primary_symbol": "SAPE.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "LEVERAGE SHARES PUBLIC LIMITED is a company that creates and manages leveraged and inverse exchange-traded products (ETPs). These ETPs are designed to provide investors with magnified daily exposure to the performance of specific stocks, indexes, or commodities. The company aims to provide sophisticated investment tools to both institutional and retail investors."
+}

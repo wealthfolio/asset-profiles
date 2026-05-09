@@ -1,0 +1,41 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "isin": "AT0000A0E9W5"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Banks",
+  "isin": "AT0000A0E9W5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SANT.TI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "SANT.VI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Credit-Enhanced Corts Trust Aon",
+  "primary_symbol": "KTN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BANCO SANTANDER is a global financial services company offering a wide range of banking products and services to individuals, SMEs, and large corporations. It is headquartered in Madrid, Spain.",
+  "website": "http://www.snt.ag"
+}

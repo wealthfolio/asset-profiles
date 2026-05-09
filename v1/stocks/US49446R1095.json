@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000JB54Y3",
+    "cusip": "49446R109",
+    "figi": "BBG000JB57N8",
+    "isin": "US49446R1095"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US49446R1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIC.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KIC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KIC.SG"
+    }
+  ],
+  "name": "KIMCO REALTY  DL-,01",
+  "primary_symbol": "KIC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Kimco Realty Corporation is a real estate investment trust (REIT) that owns and operates open-air, grocery-anchored shopping centers and mixed-use assets. The company's properties are primarily located in the United States and Canada. Kimco Realty is headquartered in Jericho, New York."
+}

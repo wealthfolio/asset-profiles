@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BP7GW3",
+    "cusip": "903899102",
+    "figi": "BBG000BP7KK7",
+    "isin": "US9038991025"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US9038991025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ULBI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ULB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ULB.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ULTRALIFE CORP.  DL -,10",
+  "primary_symbol": "ULB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ultralife Corporation is a global provider of power and communications solutions serving the medical, safety & security, energy, and defense markets. They design, manufacture, and market batteries, chargers, and communication systems. The company is headquartered in Newark, New York.",
+  "website": "http://www.ultralifecorporation.com"
+}

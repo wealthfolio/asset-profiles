@@ -1,0 +1,58 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG000VKT0D4",
+    "figi": "BBG000VKT1Z8",
+    "isin": "SE0014504817"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "SE0014504817",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "K900.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "K900.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LOIMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "K900.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LOOMIS.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0014504817.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LOOMIS AB SERIES",
+  "primary_symbol": "K900.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Loomis AB provides cash management services, including cash handling, transportation, and storage solutions for banks, retailers, and other businesses. Their services aim to improve efficiency and security in cash flow management. The company is headquartered in Stockholm, Sweden.",
+  "website": "http://www.loomis.com"
+}

@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "DK0010234467"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "DK0010234467",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0OJA.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F6O1.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F6O1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F6O1.SG"
+    }
+  ],
+  "name": "FLSMIDTH & CO A/S FLSMIDTH ORD",
+  "primary_symbol": "0OJA.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FLSMIDTH & CO A/S is a Danish engineering company that provides equipment and services to the cement and mining industries. The company supplies machinery, systems, and services for the entire cement production process and for mineral processing. Its headquarters are located in Copenhagen, Denmark."
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "DXCO3.SA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DEXCO",
+  "primary_symbol": "DXCO3.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Dexco S.A.",
+  "website": "https://www.dex.co"
+}

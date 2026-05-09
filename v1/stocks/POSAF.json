@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POSAF"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "POSaBIT Systems Corporation",
+  "primary_symbol": "POSAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "POSaBIT Systems Corporation, a financial technology company, provides block chain-enabled payment processing and point-of-sale systems for cash-only businesses with a focus on the cannabis industry in the United States. The company is headquartered in Kirkland, Washington.",
+  "website": "http://www.posabit.com"
+}

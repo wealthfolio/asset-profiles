@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000B9WX45",
+    "cusip": "292765104",
+    "isin": "US2927651040"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US2927651040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US2927651040.SG"
+    }
+  ],
+  "name": "ENERPAC TOOL GROUP CORP",
+  "primary_symbol": "US2927651040.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ENERPAC TOOL GROUP CORP designs, manufactures, and distributes high-pressure hydraulic tools and equipment. Their products are used in a variety of industries, including construction, manufacturing, and energy. The company is headquartered in Menomonee Falls, Wisconsin."
+}

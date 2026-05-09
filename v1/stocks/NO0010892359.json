@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZ9Z661",
+    "figi": "BBG00XZ9Z6D3",
+    "isin": "NO0010892359"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "NO0010892359",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R6Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R6Z.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R6Z.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HYPRO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010892359.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HYDROGEN PRO AS NK -,001",
+  "primary_symbol": "R6Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HydrogenPro ASA designs and supplies hydrogen production plants and advanced alkaline electrolysers. Their focus is enabling the industrial scale green hydrogen economy. The company is headquartered in Porsgrunn, Norway.",
+  "website": "http://www.hydrogen-pro.com"
+}

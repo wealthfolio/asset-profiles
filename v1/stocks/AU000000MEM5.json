@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000F31VM2",
+    "figi": "BBG000F31ZP0",
+    "isin": "AU000000MEM5"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "AU000000MEM5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IG7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IG7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000MEM5.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IG7.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MEM.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MEMPHASYS LTD",
+  "primary_symbol": "IG7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Memphasys Ltd is an Australian company developing and commercializing the Felix device for sperm separation. The device aims to improve outcomes in IVF and other assisted reproduction technologies.",
+  "website": "http://www.memphasys.com"
+}

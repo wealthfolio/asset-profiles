@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BKL730",
+    "figi": "BBG000BKL9B7",
+    "isin": "HK0270001396"
+  },
+  "industry_group": "Utilities",
+  "isin": "HK0270001396",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUG.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUG.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GUG.SG"
+    }
+  ],
+  "name": "GUANGDONG INV. LTD",
+  "primary_symbol": "GUG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Guangdong Investment Ltd. is an investment holding company primarily engaged in water resources, property investment and development, and infrastructure businesses. The company supplies water to Hong Kong, Shenzhen, and other cities in Guangdong province, and also develops and manages properties in mainland China and Hong Kong. The company is headquartered in Hong Kong."
+}

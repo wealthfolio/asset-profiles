@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00JVDW4Z3",
+    "figi": "BBG00JVF25N1",
+    "isin": "DE000A2G9MZ9"
+  },
+  "industry": "Machinery",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "DE000A2G9MZ9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9I.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9I.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0OC9.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "S9I.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "S9I.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S9I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S9I.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STEMMER IMAGING AG INH ON",
+  "primary_symbol": "S9I.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "STEMMER IMAGING AG INH ON is a European machine vision technology provider, offering a range of products and services including cameras, frame grabbers, illumination, optics, software and engineering support. The company serves various industries such as industrial manufacturing, medical technology, and logistics automation. Stemmer Imaging is headquartered in Puchheim, Germany.",
+  "website": "http://www.stemmer-imaging.com/de-de"
+}

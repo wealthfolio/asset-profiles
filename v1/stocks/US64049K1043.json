@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005Y0QDK1",
+    "cusip": "64049K104",
+    "isin": "US64049K1043"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US64049K1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US64049K1043.SG"
+    }
+  ],
+  "name": "NEOLEUKIN THERAPEUTICS INC",
+  "primary_symbol": "US64049K1043.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NEOLEUKIN THERAPEUTICS INC is a biopharmaceutical company focused on developing immunotherapies for cancer, autoimmune, and inflammatory disorders. They are headquartered in Emeryville, California and their lead product candidate is a novel recombinant IL-2/IL-15 agonist designed to selectively activate and expand specific immune cell populations to fight disease. The company aims to improve upon existing IL-2 therapies with potentially enhanced safety and efficacy."
+}

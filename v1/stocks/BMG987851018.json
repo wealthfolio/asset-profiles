@@ -1,0 +1,36 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "BMG987851018"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "BMG987851018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1431.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YS0.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "YuanShengTai Dairy Farm Limited",
+  "primary_symbol": "1431.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "YuanShengTai Dairy Farm Limited, a dairy farming company, engages in the production and sale of raw milk in the People's Republic of China. As of December 31, 2019, it had six farms in Heilongjiang Province and one farm in Jilin Province with a total of 63,640 cows. The company was founded in 2008 and is headquartered in Qiqihar, the People's Republic of China.",
+  "website": "http://www.ystdfarm.com/index.html"
+}

@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "cusip": "92189F882",
+    "isin": "US92189F8822"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US92189F8822",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJK.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BJK.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WEBIS HLDGS PLC  LS -,01",
+  "primary_symbol": "BJK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Webis Holdings plc is an online gaming company that offers various betting and gaming services. The company is based in the Isle of Man."
+}

@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BYV2N8",
+    "figi": "BBG000BYV6Q6",
+    "isin": "DE0007201907"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "DE0007201907",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIS.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0G0X.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SIS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SIS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SIS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SIS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FIRST SENSOR AG O.N.",
+  "primary_symbol": "SIS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "First Sensor AG develops and manufactures customized sensor solutions for industrial, medical, and mobility applications. The company's products include pressure sensors, optical sensors, and inertial sensors, used in diverse fields. Their headquarters is located in Germany.",
+  "website": "http://www.first-sensor.com"
+}

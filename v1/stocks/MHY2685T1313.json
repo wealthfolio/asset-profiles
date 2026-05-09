@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00FBFXHF0",
+    "figi": "BBG00FBFXHM2",
+    "isin": "MHY2685T1313"
+  },
+  "industry_group": "Transportation",
+  "isin": "MHY2685T1313",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GNU1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GNU1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GNU1.SG"
+    }
+  ],
+  "name": "GENCO SHIP.+TRDG  DL-,01",
+  "primary_symbol": "GNU1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Genco Shipping & Trading Limited is a drybulk shipowner and operator, transporting iron ore, coal, grain, and other drybulk cargoes worldwide. The company operates a fleet of drybulk vessels including Capesize, Ultramax, Supramax, and Handymax vessels. Genco Shipping & Trading Limited is headquartered in New York, New York."
+}

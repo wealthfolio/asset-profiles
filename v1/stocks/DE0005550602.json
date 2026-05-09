@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BDWYF2",
+    "figi": "BBG000BDX127",
+    "isin": "DE0005550602"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE0005550602",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW8.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW8.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRW8.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DRW8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DRW8.SG"
+    }
+  ],
+  "name": "DRAEGERWERK ST.A.O.N.",
+  "primary_symbol": "DRW8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Drägerwerk AG & Co. KGaA develops, manufactures, and markets medical and safety technology products. Its medical division offers products for anesthesia, intensive care, emergency care, and home care, while its safety division provides personal protection equipment, gas detection systems, and solutions for fire services and industry. The company is headquartered in Lübeck, Germany."
+}

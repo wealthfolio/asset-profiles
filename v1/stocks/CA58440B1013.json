@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA58440B1013"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "CA58440B1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FBOP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA58440B1013.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "FLYY.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Media Central Corporation Inc.",
+  "primary_symbol": "FBOP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Media Central Corporation Inc. operates as an independent and alternative media company in Canada. It operates CannCentral.com, a news, wellness, travel, food and drink, pop culture, and cannabis content platform. The company also provides NOW magazine for free-thinking and educated readers; and The Georgia Straight, a news, lifestyle, and entertainment weekly that covers news, tech, arts, music, fashion, travel, health, cannabis, food, and entertainment activities, as well as special events. The company is headquartered in Vaughan, Canada.",
+  "website": "http://www.mediacentralcorp.com"
+}

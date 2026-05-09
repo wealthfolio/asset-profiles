@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU0000222002"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "AU0000222002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GBBLF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GEV.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WS9.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Global Energy Ventures Ltd.",
+  "primary_symbol": "GBBLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Global Energy Ventures Ltd. develops, builds, owns, and operates compressed natural gas (CNG) projects in the United States. It develops commercialization solutions for CNG in stranded gas fields. The company offers marine CNG transportation services through its 200MMscf CNG Optimum ship. It also invests in the exploration and development of oil and gas resources. The company was formerly known as TTE Petroleum Limited and changed its name to Global Energy Ventures Ltd. in January 2017. Global Energy Ventures Ltd. was incorporated in 2004 and is based in West Perth, Australia.",
+  "website": "http://www.gev.com"
+}

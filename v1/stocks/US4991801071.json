@@ -1,0 +1,64 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00R4RLNM8",
+    "cusip": "499180107",
+    "figi": "BBG00R4RLNS2",
+    "isin": "US4991801071"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "US4991801071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KBXA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KNRRY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KBI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "KBX.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KBX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "KBX.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KBXA.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "KNORR-BREMS. UNSP.ADRS1/4",
+  "primary_symbol": "KBXA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Knorr-Bremse Aktiengesellschaft develops, produces, markets, and services braking and other systems for rail and commercial vehicles worldwide. It offers intelligence entrance, power electrics and control technology, digital solutions for optimization of rail traffic, couplers, signal systems, stationary and mobile testing equipment, wiper and wash systems, and sanitary systems for mass transit and long distance rail vehicles. The company also provides electronic brake controls, as well as driver assistance, air supply, and powertrain systems for trucks, buses, trailers, and agricultural machinery. In addition, it offers leasing, holding, logistics, and media and IT services. The company was incorporated in 1998 and is headquartered in Munich, Germany. Knorr-Bremse Aktiengesellschaft is a subsidiary of KB Holding GmbH.",
+  "website": "http://www.knorr-bremse.com"
+}

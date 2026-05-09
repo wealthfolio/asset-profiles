@@ -1,0 +1,61 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "isin": "PTREL0AM0008"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "PTREL0AM0008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0KBT.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RN4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RN4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "RENE.LS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RN4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RN4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RN4.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "REN REDES ENERGETICAS NACIONAIS",
+  "primary_symbol": "0KBT.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "REN - Redes Energéticas Nacionais, SGPS, S.A. is a Portuguese company that operates the national electricity and natural gas transmission networks. It is responsible for ensuring the reliable and secure transportation of energy throughout Portugal. REN is headquartered in Lisbon, Portugal",
+  "website": "http://www.ren.pt"
+}

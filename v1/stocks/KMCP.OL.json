@@ -1,0 +1,27 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KMCP.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "KMC Properties ASA",
+  "primary_symbol": "KMCP.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "KMC Properties ASA, a real estate company, owns and operates industrial and logistics properties. It owns a portfolio of 39 properties in the Nordics and the Netherlands, as well as an office building in Moscow, Russia. The company was incorporated in 2020 and is headquartered in Trondheim, Norway.",
+  "website": "http://www.kmcp.no"
+}

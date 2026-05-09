@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPMNZ8",
+    "figi": "BBG000BPMRX1",
+    "isin": "JP3910660004"
+  },
+  "industry_group": "Insurance",
+  "isin": "JP3910660004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MH6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MH6.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MH6.DU"
+    }
+  ],
+  "name": "TOKIO MARINE HOLDINGS INC",
+  "primary_symbol": "MH6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Tokio Marine Holdings, Inc. is a holding company for Tokio Marine Group, a global insurance group. The group provides a wide range of insurance products and services, including property and casualty insurance, life insurance, and reinsurance. The company is headquartered in Tokyo, Japan."
+}

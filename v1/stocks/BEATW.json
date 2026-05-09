@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEATW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Heartbeam Inc. Warrant",
+  "primary_symbol": "BEATW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Heartbeam Inc. is a development stage company focused on transforming cardiac care through the deployment of a novel ECG solution for early detection of acute coronary syndrome (ACS). Their core technology is a credit card-sized device that records 3D vector ECG signals. The company is based in Santa Clara, California."
+}

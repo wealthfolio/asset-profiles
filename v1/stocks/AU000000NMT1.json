@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BZFPZ9",
+    "figi": "BBG000BZFS83",
+    "isin": "AU000000NMT1"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000NMT1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9R9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9R9.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RDRUY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRSSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9R9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9R9.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NMT.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Neometals Ltd",
+  "primary_symbol": "9R9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Neometals Ltd explores and evaluates mineral properties in Australia. The company operates through three segments: Lithium, Titanium/Vanadium, and Other. Its principal projects include the Lithium-ion Battery Recycling project, which recovers cobalt and other materials from spent and scrap lithium batteries; Vanadium Recovery project, which recovers vanadium from processing by-products; Lithium Refinery project; and Barrambie Titanium and Vanadium project located in Western Australia. The company was formerly known as Reed Resources Ltd. and changed its name to Neometals Ltd in December 2014. Neometals Ltd was incorporated in 2001 and is based in West Perth, Australia.",
+  "website": "http://www.neometals.com.au"
+}

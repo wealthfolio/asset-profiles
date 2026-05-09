@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG006Q7ZCZ9",
+    "figi": "BBG006Q7ZD41",
+    "isin": "FR0011950682"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "FR0011950682",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFK.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QVG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SEFER.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SFK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SFK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SERGEFERRARI GROUP EO-,40",
+  "primary_symbol": "SFK.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SERGEFERRARI GROUP designs, develops, and manufactures flexible composite materials. These materials are used in architecture, industry, and visual communication. The company is based in France.",
+  "website": "http://www.sergeferrari.com"
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BHW496",
+    "figi": "BBG000BHW806",
+    "isin": "DE0005178008"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "DE0005178008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYT.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYT.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0G73.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SYT.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SYT.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SYT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SYT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SYT.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SOFTING AG O.N.",
+  "primary_symbol": "SYT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SOFTING AG O.N. develops and markets products and solutions for industrial automation, primarily focusing on communication technology. The company offers hardware and software solutions for data exchange, diagnostics, and monitoring of industrial equipment and systems. SOFTING AG is headquartered in Haar, Germany.",
+  "website": "http://company.softing.com/de"
+}

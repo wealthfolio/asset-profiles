@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0068DJY13",
+    "figi": "BBG0068DJY77",
+    "isin": "FR0011799907"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0011799907",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G09.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GVP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G09.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G09.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GSE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "GV.PA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GVP.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GENOMIC VISION S.A. EO-10",
+  "primary_symbol": "G09.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "GSE Systems, Inc. provides professional and technical engineering, staffing services, and simulation software to the power and process industries in the United States, Asia, Europe, and internationally. It operates in two segments, Performance Improvement Solutions and Nuclear Industry Training and Consulting. The Performance Improvement Solutions segment provides various simulation products, engineering services, and operation training systems for the nuclear, fossil fuel power generation, and process industries. The Nuclear Industry Training and Consulting segment offers instructors, procedure writers, technical engineers, project managers, work management specialists, and planners and training material developers for the nuclear power industry. The company markets its products and services through a network of direct sales staff, agents and representatives, and strategic alliance partners. GSE Systems, Inc. was founded in 1971 and is headquartered in Columbia, Maryland.",
+  "website": "http://www.gses.com"
+}

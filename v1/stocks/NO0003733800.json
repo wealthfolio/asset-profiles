@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BRQW80",
+    "figi": "BBG000BRQYJ4",
+    "isin": "NO0003733800"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "NO0003733800",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OKL.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0003733800.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OKL.DU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ORKO.OL"
+    }
+  ],
+  "name": "ORKLA  NK 1,25",
+  "primary_symbol": "OKL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Orkla ASA is a Norwegian industrial investment company with a portfolio of branded consumer goods, industrial and financial investments. They focus on leading positions in the Nordic, Baltic, and select markets. The company is headquartered in Oslo, Norway."
+}

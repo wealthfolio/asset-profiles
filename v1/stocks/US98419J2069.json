@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FJLLT0",
+    "cusip": "98419J206",
+    "figi": "BBG000FJMRM3",
+    "isin": "US98419J2069"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US98419J2069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "X0M1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "X0M1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "X0M1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "X0M1.SG"
+    }
+  ],
+  "name": "XOMA CORP.  DL -,0005",
+  "primary_symbol": "X0M1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "XOMA Corporation is a biotechnology company focused on developing antibody therapeutics. The company's pipeline includes treatments for inflammatory diseases, autoimmune diseases, and cancer. XOMA utilizes its antibody discovery and development platform to create innovative therapies."
+}

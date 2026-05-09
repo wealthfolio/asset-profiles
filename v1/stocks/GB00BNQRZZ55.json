@@ -1,0 +1,38 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00ZNSV8X7",
+    "figi": "BBG00ZNSV8Y6",
+    "isin": "GB00BNQRZZ55"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "GB00BNQRZZ55",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9FO.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AMTE.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AMTE Power plc",
+  "primary_symbol": "9FO.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "AMTE Power Limited develops and manufactures lithium-ion battery cells for specialist markets primarily in the United Kingdom. The company's products include Ultra High Power, a re-chargeable pouch format battery cell for the automotive battery cell market; Ultra Prime, a single use cylindrical battery cell for the oil and gas market; Ultra Safe, a battery for the energy storage cell market, which cover applications, including transportation, energy storage, back-up power, and energy in remote locations; and Ultra Energy, which is available in cylindrical cell format for the energy needs of the market. It offers batteries for automotive, aerospace, energy storage, oil and gas, and other specialized markets. AMTE Power Limited was formerly known as AGM Batteries Limited. The company was founded in 1997 and is based in Thurso, the United Kingdom.",
+  "website": "http://amtepower.com"
+}

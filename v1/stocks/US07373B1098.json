@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BBJG06",
+    "cusip": "07373B109",
+    "isin": "US07373B1098"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US07373B1098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US07373B1098.SG"
+    }
+  ],
+  "name": "BEAM GLOBAL",
+  "primary_symbol": "US07373B1098.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BEAM GLOBAL designs, develops, and manufactures innovative sustainable technology solutions for electric vehicle charging, energy storage, and outdoor media. Based in San Diego, California, the company's flagship product is the EV ARC™, a transportable, solar-powered electric vehicle charging system. They aim to provide clean energy solutions for various applications."
+}

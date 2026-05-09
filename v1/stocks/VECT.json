@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VECT"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VectivBio Holding AG",
+  "primary_symbol": "VECT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "VectivBio Holding AG, a clinical stage biopharmaceutical company, focuses on the discovery, development, and commercialization of treatments for rare conditions. It develops Apraglutide, a long-acting synthetic peptide analog of glucagon-like peptide-2 that is in Phase III clinical trial for the treatment of patients with short bowel syndrome-intestinal failure (SBS-IF), as well as for SBS-IF in patients with colon-in-continuity anatomy. The company was incorporated in 2019 and is headquartered in Basel, Switzerland.",
+  "website": "http://vectivbio.com"
+}

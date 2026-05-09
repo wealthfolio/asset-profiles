@@ -1,0 +1,33 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG013X0KHC2",
+    "figi": "BBG013YMNXK6",
+    "isin": "NO0011157232"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "NO0011157232",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PNOR.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PetroNor E&P Limited",
+  "primary_symbol": "PNOR.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "PetroNor E&P Limited operates as an oil and gas exploration and production company in West Africa. It holds 6 licenses in the Republic of Congo, Senegal, Nigeria, and The Gambia, as well as has proved and probable reserves of 11.19 million barrels of oil. The company was founded 2017 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.petronorep.com"
+}

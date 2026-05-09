@@ -1,0 +1,56 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "NO0010861990"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Transportation",
+  "isin": "NO0010861990",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRS.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010861990.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PRS.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PRS.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PRS.V"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PRSO.OL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PRESSURE TECH.PLC LS -,05",
+  "primary_symbol": "PRS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "PROSAFE SE is a provider of offshore accommodation vessels, also known as flotels. The company owns and operates a fleet of semi-submersible accommodation vessels that provide accommodation and support services to the offshore oil and gas industry. PROSAFE SE is headquartered in Larnaca, Cyprus.",
+  "website": "http://www.prospech.com.au"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LH7VC9",
+    "figi": "BBG000LH7ZY6",
+    "isin": "GB00BD6K4575"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "GB00BD6K4575",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XGR2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XGR2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "XGR2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XGR2.DU"
+    }
+  ],
+  "name": "COMPASS GROUP  LS-,1105",
+  "primary_symbol": "XGR2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "COMPASS GROUP LS-,1105 is a multinational contract foodservice company headquartered in the United Kingdom. The company provides a range of food and support services to businesses, schools, hospitals, and other organizations. Compass Group operates in various sectors including business and industry, healthcare, education, and sports and leisure."
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1FK02",
+    "figi": "BBG000C1FMC5",
+    "isin": "DE000BGAG981"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE000BGAG981",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIG1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIG1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BIG1.SG"
+    }
+  ],
+  "name": "BIO-GATE AG O.N.",
+  "primary_symbol": "BIG1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Bio-Gate AG develops and markets innovative technologies and products for medical devices and wound care, particularly based on its MicroSilver BG™ technology. The company is headquartered in Nuremberg, Germany."
+}

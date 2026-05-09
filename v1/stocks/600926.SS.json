@@ -1,0 +1,27 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "600926.SS"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Bank of Hangzhou Co., Ltd.",
+  "primary_symbol": "600926.SS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bank of Hangzhou Co., Ltd. provides various banking products and services to small and medium enterprises, and urban and rural residents in China. The company operates approximately 180 branches. Bank of Hangzhou Co., Ltd. was founded in 1996 and is based in Hangzhou, China.",
+  "website": "http://www.hzbank.com.cn"
+}

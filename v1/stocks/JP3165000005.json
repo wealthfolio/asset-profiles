@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QL7JR6",
+    "figi": "BBG000QL7LQ2",
+    "isin": "JP3165000005"
+  },
+  "industry_group": "Insurance",
+  "isin": "JP3165000005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANK.MU"
+    }
+  ],
+  "name": "SOMPO HOLDINGS INC.",
+  "primary_symbol": "ANK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SOMPO HOLDINGS INC. is a Japanese insurance holding company that provides a range of insurance and financial services. It operates globally, offering property and casualty insurance, life insurance, and asset management services. The company is headquartered in Tokyo, Japan."
+}

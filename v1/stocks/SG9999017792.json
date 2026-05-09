@@ -1,0 +1,31 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "isin": "SG9999017792"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "SG9999017792",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "8313.HK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ZACD Group Ltd.",
+  "primary_symbol": "8313.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ZACD Group is a real estate investment firm. The firm seeks to invest in industrial properties, data centers, and high-end residential segment with a focus on discounted luxury homes in Singapore and student accommodation in Australia. It typically invests in the Asia Pacific. ZACD Group was founded in 2005 and is based in Singapore with an additional office in Hong Kong.",
+  "website": "http://www.zacdgroup.com"
+}

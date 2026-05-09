@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CLP0Y4",
+    "figi": "BBG000CLQ3T3"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNN"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "National Retail Properties, Inc.",
+  "primary_symbol": "NNN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "National Retail Properties invests primarily in high-quality retail properties subject generally to long-term, net leases. As of September 30, 2020, the company owned 3,114 properties in 48 states with a gross leasable area of approximately 32.4 million square feet and with a weighted average remaining lease term of 10.7 years.",
+  "website": "http://www.nnnreit.com"
+}

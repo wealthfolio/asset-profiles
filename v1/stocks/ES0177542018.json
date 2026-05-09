@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FB8MW6",
+    "figi": "BBG000FB8RC7",
+    "isin": "ES0177542018"
+  },
+  "industry_group": "Transportation",
+  "isin": "ES0177542018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "INR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "INR.SG"
+    }
+  ],
+  "name": "INTERN.CONS.AIRL.GR.",
+  "primary_symbol": "INR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "International Consolidated Airlines Group (IAG) is a multinational airline holding company that owns airlines such as British Airways, Iberia, Vueling, Aer Lingus, and LEVEL. The company provides passenger and cargo air transportation services worldwide. IAG is headquartered in London, United Kingdom."
+}

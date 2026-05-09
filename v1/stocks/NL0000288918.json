@@ -1,0 +1,46 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "isin": "NL0000288918"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "NL0000288918",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0LNJ.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "VASTN.AS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VB2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VB2.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VASTNED RETAIL NV VASTNED RETAI",
+  "primary_symbol": "0LNJ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Vastned Retail N.V. is a European retail property company focusing on investing in and managing premium inner-city retail properties in selected cities. The company's portfolio consists primarily of high-street retail properties in established urban locations. Vastned Retail is headquartered in Amsterdam, Netherlands",
+  "website": "http://www.vastned.com"
+}

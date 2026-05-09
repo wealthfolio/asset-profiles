@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BZV2Z2",
+    "cusip": "916896103",
+    "figi": "BBG000BZV6S1",
+    "isin": "US9168961038"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "US9168961038",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U6Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "U6Z.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UEC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "U6Z.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "U6Z.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "U6Z.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "U6Z.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "UEC.BK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "URANIUM ENERGY  DL-,001",
+  "primary_symbol": "U6Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Uranium Energy Corp. is a uranium mining and exploration company. They are focused on uranium projects located in the United States. The company is headquartered in Corpus Christi, Texas.",
+  "website": "http://www.uraniumenergy.com"
+}

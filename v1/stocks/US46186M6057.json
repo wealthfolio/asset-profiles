@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "46186M605",
+    "isin": "US46186M6057"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US46186M6057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVIV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "04IC.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "InVivo Therapeutics Holdings Corp.",
+  "primary_symbol": "NVIV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "InVivo Therapeutics Holdings Corp., a research and clinical-stage biomaterials and biotechnology company, engages in developing and commercializing biopolymer scaffolding devices for the treatment of spinal cord injuries (SCI). The company is developing a Neuro-Spinal Scaffold implant, which is an investigational bioresorbable polymer scaffold that is designed for implantation at the site of injury within a spinal cord to treat acute SCI. InVivo Therapeutics Holdings Corp. was incorporated in 2003 and is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.invivotherapeutics.com"
+}

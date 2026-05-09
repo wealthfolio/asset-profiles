@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00TKB6609",
+    "cusip": "22530J200",
+    "figi": "BBG00TKB6663",
+    "isin": "US22530J2006"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US22530J2006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4U7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4U7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US22530J2006.SG"
+    }
+  ],
+  "name": "CREATIVE REALITIES",
+  "primary_symbol": "4U7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CREATIVE REALITIES INC provides digital marketing solutions, including digital signage networks, interactive kiosks, and content creation services. They serve a variety of industries, including retail, healthcare, and hospitality. The company is headquartered in Louisville, Kentucky."
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000BYQLZ9",
+    "figi": "BBG000BYQPS8",
+    "isin": "AT0000969985"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "AT0000969985",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUS.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "ATS.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AUS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AUS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AUS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AUS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AT+S AUSTR.T.+SYSTEMT.",
+  "primary_symbol": "AUS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "AT&S Austria Technologie & Systemtechnik AG is a manufacturer of high-end printed circuit boards and IC substrates. The company serves various industries, including mobile devices, automotive, industrial electronics, medical technology and aerospace. AT&S is headquartered in Leoben, Austria.",
+  "website": "http://www.ats.net"
+}

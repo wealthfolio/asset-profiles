@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R2XQT0",
+    "cusip": "86800U104",
+    "figi": "BBG000R2XTT4",
+    "isin": "US86800U1043"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US86800U1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MS5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MS5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMCI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MS5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MS5.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SUPER MICRO COMPUT.DL-,01",
+  "primary_symbol": "MS5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Super Micro Computer, Inc. develops and manufactures high-performance server and storage solutions based on modular and open architecture. The company offers a range of server management software and optimizes its products for various workloads, including AI, cloud, and 5G. Super Micro Computer is headquartered in San Jose, California.",
+  "website": "http://www.supermicro.com"
+}

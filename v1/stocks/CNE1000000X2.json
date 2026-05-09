@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "CNE1000000X2"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "CNE1000000X2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1075.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CF9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNE1000000X2.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Capinfo Company Limited",
+  "primary_symbol": "1075.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Capinfo Company Limited provides information technology (IT) services in the People's Republic of China. It offers online application and system integration, software development, data processing, information professional, IT planning and consulting, IT construction implementation, IT operation and maintenance, IT outsourcing, and value added services. The company also provides various industry solutions, including e-government, health care, community service, urban transportation, housing fund, public security, and cloud service solutions. Capinfo Company Limited was founded in 1998 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://www.capinfo.com.cn"
+}

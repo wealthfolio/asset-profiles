@@ -1,0 +1,37 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XDGSQN4",
+    "isin": "NO0010892094"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "NO0010892094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010892094.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SALME.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SALMON EVOLUTION ASA",
+  "primary_symbol": "NO0010892094.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "SALMON EVOLUTION ASA is a land-based salmon farming company that utilizes flow-through technology to produce salmon in a controlled environment. The company aims to create a sustainable and high-quality salmon product. SALMON EVOLUTION ASA is headquartered in Indre Harøy, Norway.",
+  "website": "http://www.salmonevolution.no"
+}

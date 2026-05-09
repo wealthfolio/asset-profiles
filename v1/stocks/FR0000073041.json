@@ -1,0 +1,58 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BS0VS6",
+    "figi": "BBG000BS0Z98",
+    "isin": "FR0000073041"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "FR0000073041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PV6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PV6.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0OQ0.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PV6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PV6.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "VAC.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PIERRE ET VACANC.INH.EO10",
+  "primary_symbol": "PV6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Pierre & Vacances SA is a French tourism company that manages and markets holiday resorts, apartments, and hotels. The company operates under brands like Pierre & Vacances, Center Parcs, and Maeva, with headquarters in Paris, France. Pierre & Vacances offers a range of leisure and hospitality services.",
+  "website": "http://www.groupepvcp.com"
+}

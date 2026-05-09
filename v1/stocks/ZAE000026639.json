@@ -1,0 +1,43 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG000C0HZL6",
+    "figi": "BBG000C0J2Z2",
+    "isin": "ZAE000026639"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "ZAE000026639",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRL1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRL1.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BWO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BARLOWORLD  RC-,05",
+  "primary_symbol": "BRL1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "BW Offshore Limited engages in the engineering of offshore production solutions in the Americas, Europe, Africa, Asia, and the Pacific. The company builds, owns, leases, and operates floating, production, storage, and offloading vessels (FPSOs) for oil and gas industries. As of December 31, 2020, it operated 10 FPSOs. BW Offshore Limited was founded in 1982 and is based in Hamilton, Bermuda.",
+  "website": "http://www.bwoffshore.com"
+}

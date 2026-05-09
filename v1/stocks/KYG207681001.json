@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000G277Q6",
+    "figi": "BBG000G28FF9",
+    "isin": "KYG207681001"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG207681001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AJ5.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AJ5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AJ5.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "TTL.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "TTL.NS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CENTRAL CH. REAL ESTATE",
+  "primary_symbol": "AJ5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Central China Real Estate Limited, an investment holding company, engages in the property development activities in the People's Republic of China. The company develops residential and commercial properties; leases properties; and operates hotel. It also provides project management services. The company was founded in 1992 and is based in Zhengzhou, the People's Republic of China. Central China Real Estate Limited is a subsidiary of Joy Bright Investments Limited.",
+  "website": "http://www.jianye.com.cn"
+}

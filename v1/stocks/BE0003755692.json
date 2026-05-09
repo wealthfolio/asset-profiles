@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "BE0003755692"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "BE0003755692",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MFU.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGE.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AGE.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "AGE.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AGE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AGE.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AGFA GEVAERT NV AGFA-GEVAERT OR",
+  "primary_symbol": "0MFU.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Agfa-Gevaert NV is a Belgian multinational corporation that develops, manufactures, and distributes a wide range of analog and digital imaging systems and IT solutions, mainly for the printing industry and the healthcare sector. The company's products and services include prepress solutions, industrial inkjet systems, medical imaging solutions, and healthcare IT solutions. Agfa-Gevaert is headquartered in Mortsel, Belgium",
+  "website": "http://www.alligatorenergy.com.au"
+}

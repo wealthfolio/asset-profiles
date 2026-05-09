@@ -1,0 +1,31 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000D2FQC3",
+    "figi": "BBG000D2FQQ8"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NWC.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Norwegian Air Shuttle ASA",
+  "primary_symbol": "NWC.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Norwegian Air Shuttle ASA, together with its subsidiaries, provides scheduled and charter airline services in Norway and internationally. As of December 31, 2020, the company operated a total of 131 aircraft, whereas 55 owned and 76 leased aircrafts with a route network across Europe into North Africa, the Middle East, North America, South America, and South-East Asia. It is also involved in aircraft financing, leasing, and ownership activities; and cargo activities. The company was founded in 1993 and is headquartered in Fornebu, Norway.",
+  "website": "http://www.norwegian.com"
+}

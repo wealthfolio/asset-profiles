@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BM82C2",
+    "isin": "FR0000054199"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0000054199",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0000054199.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000054199.SW"
+    }
+  ],
+  "name": "S.T. DUPONT",
+  "primary_symbol": "FR0000054199.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "S.T. Dupont is a French manufacturer of luxury goods such as lighters, pens, leather goods, and other accessories. The company is known for its craftsmanship and use of precious materials. S.T. Dupont is headquartered in Paris, France."
+}

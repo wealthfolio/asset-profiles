@@ -1,0 +1,51 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "isin": "PLPZU0000011"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "PLPZU0000011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MYY.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7PZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7PZ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7PZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7PZ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "POWSZECHNY ZAKLAD UBEZPIECZEN S",
+  "primary_symbol": "0MYY.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Powszechny Zakład Ubezpieczeń S.A. (PZU) is a Polish insurance company. It provides a wide range of insurance products and services, including life, property, and casualty insurance. The company is headquartered in Warsaw, Poland.",
+  "website": "http://www.pzu.pl"
+}

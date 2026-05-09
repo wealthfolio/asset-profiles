@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006DG9C55",
+    "cusip": "84920Y106",
+    "figi": "BBG006DG9CC7",
+    "isin": "US84920Y1064"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Retailing",
+  "isin": "US84920Y1064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "06S.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "06S.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPWH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "06S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "06S.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A8T.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SPORTSMANS WAREH.HO.DL-01",
+  "primary_symbol": "06S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Sportsman's Warehouse Holdings, Inc. is a specialty outdoor sporting goods retailer in the United States. They offer a wide assortment of hunting, shooting, fishing, camping, and other outdoor recreational products. The company is headquartered in West Jordan, Utah.",
+  "website": "http://www.sportsmans.com"
+}

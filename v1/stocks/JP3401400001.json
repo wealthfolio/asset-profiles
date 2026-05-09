@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BX1LD2",
+    "figi": "BBG000BX1NC9",
+    "isin": "JP3401400001"
+  },
+  "industry_group": "Materials",
+  "isin": "JP3401400001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMM.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SMM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SMM.SG"
+    }
+  ],
+  "name": "SUMITOMO CHEM.",
+  "primary_symbol": "SMM.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SUMITOMO CHEMICAL CO. LTD. is a diversified chemical company. The company's business segments include petrochemicals, energy & functional materials, IT-related chemicals, health & crop sciences, and pharmaceuticals. Its headquarters are in Japan."
+}

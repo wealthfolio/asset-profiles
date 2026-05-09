@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG010R098M7",
+    "figi": "BBG010R098N6",
+    "isin": "NO0010900087"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "NO0010900087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8ZA.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NTEL.OL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nortel AS",
+  "primary_symbol": "8ZA.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Nortel AS operates as a telecommunications company for small and medium-sized businesses in Norway. It offers mobile and data subscription, broadband, and IP telephony services. The company was incorporated in 2019 and is headquartered in Alesund, Norway.",
+  "website": "http://www.nortel.no"
+}

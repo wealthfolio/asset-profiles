@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA69863Q1037"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA69863Q1037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POROF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZM.MU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "PML.BO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PML.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PZM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PZM.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Panoro Minerals Ltd.",
+  "primary_symbol": "POROF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Panoro Minerals Ltd., an exploration-stage company, engages in the acquisition, exploration, and development of mineral properties in Peru. The company explores for copper, molybdenum, gold, silver, and zinc deposits. Its flagship project is the Cotabambas project located in the District of Cotabambas. The company was formerly known as Panoro Resources Ltd. and changed its name to Panoro Minerals Ltd. in June 2003. Panoro Minerals Ltd. was incorporated in 1994 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.panoro.com"
+}

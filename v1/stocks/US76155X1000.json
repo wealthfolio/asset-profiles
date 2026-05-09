@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00829F4P8",
+    "cusip": "76155X100",
+    "isin": "US76155X1000"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US76155X1000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US76155X1000.SG"
+    }
+  ],
+  "name": "REVOLUTION MEDICINES INC",
+  "primary_symbol": "US76155X1000.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "REVOLUTION MEDICINES INC is a clinical-stage precision oncology company focused on developing novel therapies for RAS-addicted cancers. Headquartered in Redwood City, California, the company is developing a pipeline of small molecule inhibitors that target the RAS signaling pathway, which is frequently mutated in cancer. Revolution Medicines aims to address unmet medical needs in RAS-driven cancers by developing more effective and targeted therapies."
+}

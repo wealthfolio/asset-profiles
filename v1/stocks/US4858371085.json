@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BVSN70",
+    "cusip": "485837108",
+    "figi": "BBG000BVT0H8",
+    "isin": "US4858371085"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US4858371085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KSPN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TWDA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TWDA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TWDA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4858371085.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Kaspien Holdings Inc.",
+  "primary_symbol": "KSPN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Kaspien Holdings Inc. operates a platform of software and services on digital marketplaces. Its platform of software and services enable brand's online distribution channel on digital marketplaces, such as Amazon, Walmart, eBay, Target, and others. The company was formerly known as Trans World Entertainment Corporation and changed its name to Kaspien Holdings Inc. in September 2020. Kaspien Holdings Inc. was incorporated in 1972 and is headquartered in Spokane, Washington.",
+  "website": "http://www.kaspien.com"
+}

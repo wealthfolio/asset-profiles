@@ -1,0 +1,26 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "YAC1.MC"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Almagro Capital SOCIMI, S.A.",
+  "primary_symbol": "YAC1.MC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Almagro Capital SOCIMI, S.A. is a Spanish REIT (Socimi) focused on investing in residential properties, especially targeting senior housing and similar assets. The company manages and leases its properties to generate rental income. The REIT is based in Spain.",
+  "website": "http://www.orfilamanagement.com/fondo/fondo-almagro-capital/"
+}

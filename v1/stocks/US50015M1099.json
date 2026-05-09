@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XC9CCD0",
+    "cusip": "50015M109",
+    "figi": "BBG00XC9CCL1",
+    "isin": "US50015M1099"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US50015M1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "K27.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "K27.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "K27.F"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "KOD.BA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "KOD.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "KOD.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KODIAK SCIENCES  DL-,0001",
+  "primary_symbol": "K27.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Kodiak Sciences Inc. is a biopharmaceutical company focused on discovering, developing, and commercializing novel therapeutics to treat high prevalence retinal diseases. Their Antibody Biopolymer Conjugate (ABC) platform is designed to maintain durable drug levels in ocular tissues, potentially leading to less frequent treatments. The company is headquartered in Palo Alto, California.",
+  "website": "http://kodiak.com"
+}

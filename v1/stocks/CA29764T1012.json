@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA29764T1012"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA29764T1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTSRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA29764T1012.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "NEOE",
+      "symbol": "ETHC.NE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Ether Capital Corporation",
+  "primary_symbol": "DTSRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Ether Capital Corporation, a technology company, through its subsidiaries, provides access and exposure to the Ethereum and Web 3 ecosystem to public market investors. It also operates cryptocurrency exchange and technology platform. The company was formerly known as Movit Media Corp. Ether Capital Corporation was founded in 2009 and is headquartered in Toronto, Canada.",
+  "website": "http://www.ethcap.co"
+}

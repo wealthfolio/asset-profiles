@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FQXC75",
+    "cusip": "724078100",
+    "figi": "BBG000FQXG76",
+    "isin": "US7240781002"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US7240781002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PIPR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PJR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PJR.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Piper Sandler Companies",
+  "primary_symbol": "PIPR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Piper Sandler Companies operates as an investment bank and institutional securities firm that serves corporations, private equity groups, public entities, non-profit entities, and institutional investors in the United States and internationally. The company offers investment banking and institutional sales, trading, and research services for various equity and fixed income products. It provides advisory services, such as mergers and acquisitions, equity private placements, and debt and restructuring advisory; raises capital through equity and debt financings; underwrites debt issuances; and offers municipal financial advisory and loan placement services, as well as various over-the-counter derivative products. The company also offers public finance investment banking services that focus on state and local governments, and cultural and social service non-profit entities, as well as the education, healthcare, hospitality, senior living, and transportation sectors. In addition, it provides equity and fixed income advisory and trade execution services for institutional investors, and government and non-profit entities. Further, the company is involved in the alternative asset management funds in merchant banking, energy, and senior living to invest firm capital and to manage capital from outside investors, as well as trading activities. The company was formerly known as Piper Jaffray Companies and changed its name to Piper Sandler Companies in January 2020. Piper Sandler Companies was founded in 1895 and is headquartered in Minneapolis, Minnesota.",
+  "website": "http://www.pipersandler.com"
+}

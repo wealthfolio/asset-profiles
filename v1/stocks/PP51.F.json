@@ -1,0 +1,27 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PP51.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Primary Health Properties PLC",
+  "primary_symbol": "PP51.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Primary Health Properties (PHP) is the leading investor in modern healthcare properties in the UK & Ireland. PHP is a UK based Real Estate Investment Trust (REIT) with a clear objective to create progressive returns to shareholders through a combination of earnings growth and capital appreciation. PHP achieve this by investing in healthcare real estate let on long-term leases, backed by a secure underlying covenant funded mostly by government bodies. The Group's portfolio comprises over 480 primary healthcare facilities, both completed and committed, the majority of which are GP surgeries, with other properties let to NHS organisations, pharmacies and dentists.",
+  "website": "http://www.phpgroup.co.uk"
+}

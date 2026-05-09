@@ -1,0 +1,73 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000T6GBN7",
+    "figi": "BBG000T6GCH2",
+    "isin": "FR0000045072"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "FR0000045072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACA.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XCA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XCA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XCA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XCA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ACA.MI"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ACAP.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XCA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XCA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CREDIT AGRICOLE",
+  "primary_symbol": "ACA.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Credit Agricole is a French international banking group and one of the largest banks in Europe. The group provides a range of financial services, including retail banking, corporate and investment banking, asset management, and insurance. Credit Agricole is headquartered in Montrouge, France.",
+  "website": "http://www.credit-agricole.com"
+}

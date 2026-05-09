@@ -1,0 +1,47 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG00XTH8YC2",
+    "figi": "BBG00XTH8YK3",
+    "isin": "SE0014855029"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0014855029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8IM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8IM1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8IM1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8IM1.F"
+    }
+  ],
+  "name": "IMPLANTICA AG  SDR./1",
+  "primary_symbol": "8IM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IMPLANTICA AG  SDR./1: Implantica AG is a medtech company focused on developing implantable medical devices. Their main product is RefluxStop, an implant intended to prevent acid reflux. Implantica is headquartered in Mölndal, Sweden.",
+  "website": "http://www.implantica.com"
+}

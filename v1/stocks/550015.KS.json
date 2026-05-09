@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "550015.KS"
+    }
+  ],
+  "name": "QV Pharmaceutical TOP5 ETN",
+  "primary_symbol": "550015.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Note (ETN) that tracks the performance of the top 5 pharmaceutical companies in a specific market or index. ETNs are debt instruments issued by financial institutions that aim to replicate the returns of an underlying index or strategy. It is issued by QV."
+}

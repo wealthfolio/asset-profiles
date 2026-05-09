@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BLXQ15",
+    "figi": "BBG000BLXVF9",
+    "isin": "CH1197371516"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CH1197371516",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHL.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LHL.DU"
+    }
+  ],
+  "name": "LENOVO GROUP",
+  "primary_symbol": "LHL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Lenovo Group Limited is a global technology company that designs, develops, manufactures, and sells personal computers, smartphones, servers, and other technology products. The company operates through various business segments, including PCs and Smart Devices, and Mobile Business Group. Lenovo is headquartered in Hong Kong."
+}

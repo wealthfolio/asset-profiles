@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA0976922066"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA0976922066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCRCF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BOLT.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA0976922066.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Bolt Metals Corp.",
+  "primary_symbol": "PCRCF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Bolt Metals Corp., an exploration company, focuses on the acquisition and development of cobalt projects for lithium-ion battery industry. Its principal asset is the Cyclops nickel-cobalt project that covers an area of 5,000 hectors with 9 prospects located in Indonesia. The company was formerly known as Pacific Rim Cobalt Corp. and changed its name to Bolt Metals Corp. in February 2020. Bolt Metals Corp. is headquartered in West Vancouver, Canada.",
+  "website": "http://www.boltmetals.com"
+}

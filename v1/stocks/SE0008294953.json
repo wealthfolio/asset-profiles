@@ -1,0 +1,61 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0008294953"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Software & Services",
+  "isin": "SE0008294953",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GDU.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRXXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ETA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ETA.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "PDX.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PARADOX INTERACTIVE AB (PUBL) P",
+  "primary_symbol": "0GDU.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Paradox Interactive AB (publ) is a Swedish video game publisher and developer. The company is known for its strategy games such as Crusader Kings, Europa Universalis, and Hearts of Iron. Paradox Interactive is headquartered in Stockholm, Sweden.",
+  "website": "http://www.paradoxinteractive.com"
+}

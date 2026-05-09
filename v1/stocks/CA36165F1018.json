@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA36165F1018"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA36165F1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GFGSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2GQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA36165F1018.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GFG.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GFG Resources Inc",
+  "primary_symbol": "GFGSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "GFG Resources Inc. acquires, explores for, and develops gold properties in Canada and the United States. The company holds interests in the Pen gold project covering an area of approximately 475 square kilometers located to the southwest of Timmins, Ontario; and the Dore gold project, which covers an area of approximately 212 square kilometers located in Ontario. It also has an interest in the Rattlesnake Hills gold project comprising 1,573 unpatented lode mining claims and 8 state mining leases covering an area of approximately 30,400 acres located in Natrona County, Wyoming. The company is headquartered in Saskatoon, Canada.",
+  "website": "http://www.gfgresources.com"
+}

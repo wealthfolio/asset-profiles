@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA84624Q1028"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "CA84624Q1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPFYF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSP.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SPFY.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YSP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YSP.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Spacefy Inc.",
+  "primary_symbol": "SPFYF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Spacefy Inc. operates an online marketplace that connects individuals and businesses in the creative industry to space owners who provide locations to their project needs in the United States and Canada. The company operates through two segments, Spaces and Creatives. Its platform connects individuals or businesses with venue owners to find and book short-term locations, such as houses and condos, restaurants and bars, professional photography and music studios, vacant retail shops, event venues, or farms. Spacefy Inc. was incorporated in 2014 and is headquartered in Toronto, Canada.",
+  "website": "http://www.spacefy.com"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GNRK1D0",
+    "cusip": "146869102",
+    "figi": "BBG00GNRK1L1",
+    "isin": "US1468691027"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "US1468691027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CV0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CV0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CVNA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A79.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CV0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CV0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CV0.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Carvana Co.",
+  "primary_symbol": "CV0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Carvana Co., together with its subsidiaries, operates an e-commerce platform for buying and selling used cars in the United States. Its platform allows customers to research and identify a vehicle; inspect it using company's 360-degree vehicle imaging technology; obtain financing and warranty coverage; purchase the vehicle; and schedule delivery or pick-up from their desktop or mobile devices. The company was founded in 2012 and is headquartered in Tempe, Arizona.",
+  "website": "http://www.carvana.com"
+}

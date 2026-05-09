@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0089SWRJ6",
+    "figi": "BBG0089SWRP9",
+    "isin": "IE00B40QP990"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "IE00B40QP990",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8PSA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPPP"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPPP.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "SPPP.TO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPPT.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INVESC.PHYS.MKT.ETC00 XPT",
+  "primary_symbol": "8PSA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sprott Physical Platinum and Palladium Trust is a closed-end trust that invests in physical platinum and palladium bullion. The Trust aims to provide a secure, convenient, and exchange-traded investment alternative for investors interested in holding physical platinum and palladium. Sprott Physical Platinum and Palladium Trust is based in Toronto, Canada."
+}

@@ -1,0 +1,31 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG001J2LTP8",
+    "figi": "BBG005M6P1T9"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALIMP.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Implanet S.A.",
+  "primary_symbol": "ALIMP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Implanet S.A., together with its subsidiaries, designs, manufactures, and sells implants for orthopedic surgery in France, the United States, Brazil, and internationally. The company offers spinal, arthroscopy, and knee products. Its products include Jazz, Jazz Passer, Jazz Cap SP, Jazz Lock, Jazz Claw, Jazz Standalone, Jazz Frame, and Jazz Screw systems for posterior fixation. The company also offers knee prostheses, such as Madison for conventional surgical techniques. Implanet S.A. was founded in 2006 and is based in Martillac, France.",
+  "website": "http://www.implanet.com"
+}

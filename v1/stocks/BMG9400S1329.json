@@ -1,0 +1,58 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000BZ1FX8",
+    "figi": "BBG000BZ1K58",
+    "isin": "BMG9400S1329"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "BMG9400S1329",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VTCB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VTCB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VTKLF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VTKLY"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0303.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VTCB.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "VTECH HLDGS (BL100) DL-05",
+  "primary_symbol": "VTCB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "VTech Holdings Limited is a global supplier of electronic learning products from infancy to preschool and the world's largest manufacturer of cordless phones. The company designs, develops, and manufactures innovative and high-quality products. VTech is headquartered in Hong Kong.",
+  "website": "http://www.vtech.com/index.html"
+}

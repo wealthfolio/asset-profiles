@@ -1,0 +1,47 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "33749P309",
+    "isin": "US33749P3091"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US33749P3091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "366.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "366.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "366.SG"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3660.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AZURRX BIOPHARMA DL-,0001",
+  "primary_symbol": "366.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AzurRx BioPharma, Inc. is a clinical stage biopharmaceutical company specializing in the development of non-systemic, orally delivered therapies for gastrointestinal diseases. The company's lead product candidate is MS1819, a recombinant lipase for the treatment of exocrine pancreatic insufficiency. AzurRx BioPharma is headquartered in Delray Beach, Florida.",
+  "website": "http://www.istyle.co.jp"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000CXCT97",
+    "figi": "BBG000CXCXL4",
+    "isin": "AU000000PEN6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000PEN6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P1M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P1M.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PENMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P1M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P1M.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PEN.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PENINSULA ENERGY LTD.",
+  "primary_symbol": "P1M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Peninsula Energy Ltd. is an uranium mining company focused on the development of its flagship Lance Projects in Wyoming, USA. The company employs an in-situ recovery (ISR) mining method to extract uranium. Their headquarters are in Australia.",
+  "website": "http://www.pel.net.au"
+}

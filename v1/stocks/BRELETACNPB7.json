@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CHSTQ6",
+    "figi": "BBG000CHTYR3",
+    "isin": "BRELETACNPB7"
+  },
+  "industry_group": "Utilities",
+  "isin": "BRELETACNPB7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L3XA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "L3XA.SG"
+    }
+  ],
+  "name": "CENTRAIS EL.BR.ELET.PFD B",
+  "primary_symbol": "L3XA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CENTRAIS EL.BR.ELET.PFD B is a preferred share class of Centrais Elétricas Brasileiras S.A. (Eletrobras), a Brazilian electric utility company. Eletrobras is involved in the generation, transmission, and distribution of electricity in Brazil. The company is based in Rio de Janeiro."
+}

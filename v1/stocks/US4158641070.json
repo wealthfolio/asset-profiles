@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000J7R8Q8",
+    "cusip": "415864107",
+    "figi": "BBG000J7SGN2",
+    "isin": "US4158641070"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US4158641070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HA7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HA7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HA7.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "HSC.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HARSCO CORP.  DL 1,25",
+  "primary_symbol": "HA7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Harsco Corporation is a global industrial services and engineered products company. The company provides services and products to the steel, rail, and environmental sectors. Harsco is headquartered in Camp Hill, Pennsylvania.",
+  "website": "http://www.harsco.com"
+}

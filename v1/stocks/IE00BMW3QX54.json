@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "isin": "IE00BMW3QX54"
+  },
+  "isin": "IE00BMW3QX54",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFFDF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFNCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RBGBF"
+    }
+  ],
+  "name": "LEGAL & GENERAL UCITS ETF PLC",
+  "primary_symbol": "EFFDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

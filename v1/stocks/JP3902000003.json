@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000CZQHF6",
+    "figi": "BBG000CZQKW0",
+    "isin": "JP3902000003"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "JP3902000003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MIB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MIB.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MITSUBISHI LOGISTICS",
+  "primary_symbol": "MIB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mitsubishi Logistics Corporation provides logistics and transportation services. Their services include warehousing, distribution, and international freight forwarding. The company is based in Tokyo, Japan.",
+  "website": "http://www.mitsubishi-logistics.co.jp"
+}

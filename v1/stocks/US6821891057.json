@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DV7MX4",
+    "cusip": "682189105",
+    "figi": "BBG000DV8ZY3",
+    "isin": "US6821891057"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US6821891057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ON"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XS4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XS4.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ON.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "XS4.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XS4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XS4.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ON Semiconductor Corporation",
+  "primary_symbol": "ON",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ON Semiconductor Corporation, together with its subsidiaries, manufactures and sells semiconductor components for various electronic devices worldwide. The company operates in three segments: Power Solutions Group (PSG), Advanced Solutions Group (ASG), and Intelligent Sensing Group (ISG). The PSG segment offers analog, discrete, module, and integrated semiconductor products for various applications, such as power switching, power conversion, signal conditioning, circuit protection, signal amplification, and voltage regulation functions. The ASG segment designs and develops analog, mixed-signal, logic, ASSPs and ASICs, Wi-Fi, and power solutions. It also provides trusted foundry and design services for government customers; and manufacturing services. The ISG segment offers complementary metal oxide semiconductors image sensors; proximity sensors; image signal processors; single photon detectors, including SiPM and SPAD arrays; radars; and actuator drivers for autofocus and image stabilization for a range of customers in automotive, industrial, medical, aerospace/defense, communications, networking, wireless, consumer, and computing markets. The company serves original equipment manufacturers, distributors, and electronic manufacturing service providers. ON Semiconductor Corporation was incorporated in 1992 and is headquartered in Phoenix, Arizona.",
+  "website": "http://www.onsemi.com"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00WHNDDJ7",
+    "figi": "BBG00WHNDDP0",
+    "isin": "GB00BD9PXH49"
+  },
+  "industry_group": "Real Estate",
+  "isin": "GB00BD9PXH49",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5JX.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ASLI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BD9PXH49.SG"
+    }
+  ],
+  "name": "ABER.STAN.EUR.LOG. LS-,01",
+  "primary_symbol": "5JX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Aberdeen Standard European Logistics Income PLC is a UK-based investment trust that invests in a diversified portfolio of European logistics real estate. The trust aims to provide shareholders with a regular income return and capital growth from its investments. The company is based in London, UK."
+}

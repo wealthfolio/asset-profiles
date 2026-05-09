@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XZBMTK4",
+    "figi": "BBG00XZBMTQ8",
+    "isin": "CA03169D1024"
+  },
+  "industry_group": "Energy",
+  "isin": "CA03169D1024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "601A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA03169D1024.SG"
+    }
+  ],
+  "name": "AMMPOWER  CORP.",
+  "primary_symbol": "601A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "AMMPOWER CORP. is a company focused on the production of green ammonia. It aims to develop and commercialize technologies for producing ammonia from renewable energy sources. The company is headquartered in Canada."
+}

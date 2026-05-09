@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003DL0L96",
+    "cusip": "62482R107",
+    "figi": "BBG003DL0LH7",
+    "isin": "US62482R1077"
+  },
+  "industry": "Thrifts & Mortgage Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "US62482R1077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "07WA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "07WA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COOP"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "07WA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "07WA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "07WA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "MR.COOPER GROUP  DL-,01",
+  "primary_symbol": "07WA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mr. Cooper Group Inc. provides servicing, origination, and transaction-based services related to single-family residences. The company operates through service and origination segments. Mr. Cooper Group is headquartered in Coppell, Texas.",
+  "website": "http://www.mrcoopergroup.com"
+}

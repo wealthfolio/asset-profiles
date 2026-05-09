@@ -1,0 +1,68 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000BLHVK1",
+    "figi": "BBG000BLHZ95",
+    "isin": "CNE100000BG0"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Capital Goods",
+  "isin": "CNE100000BG0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C2L.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C2L.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1766.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "1766.T"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "601766.SS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "C2L.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C2L.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C2L.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CRRC CORP. LTD. H  YC 1",
+  "primary_symbol": "C2L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CRRC Corporation Limited manufactures and sells railway transportation equipment. The company's products include locomotives, passenger coaches, freight wagons, and urban mass transit vehicles. CRRC is headquartered in Beijing, China.",
+  "website": "http://www.crrcgc.cc"
+}

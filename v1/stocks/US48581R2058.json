@@ -1,0 +1,62 @@
+{
+  "country": "Kazakhstan",
+  "country_code": "KZ",
+  "identifiers": {
+    "cusip": "48581R205",
+    "isin": "US48581R2058"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US48581R2058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAKZF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KKS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KKS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KSPI.IL"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "80TE.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KKS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KKS.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Kaspi.kz Joint Stock Company",
+  "primary_symbol": "KAKZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kaspi.kz Joint Stock Company operates as bank holding company for Kaspi Bank Joint Stock Company that provides various banking products and services. The company operates through Payments Platform, Marketplace Platform, and Fintech Platform segments. The Payments Platform segment connects its customers, which consists consumer and merchants to facilitate cashless and digital payment transactions; and offers a technology platform to pay and receive payments for goods and services, as well as transfer and withdraw money. The Marketplace Platform segment connects merchants and consumers, which enables merchants to increase its sales and enable consumers to buy various products and services from various merchants. The Fintech Platform enables its customers to manage their personal finance online and access consumer finance and deposit products through Kaspi.kz mobile app. It is also involved in real estate business. The company was incorporated in 1997 and is based in Almaty, the Republic of Kazakhstan.",
+  "website": "http://kaspi.kz"
+}

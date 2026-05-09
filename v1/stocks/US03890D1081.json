@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R33LG6",
+    "cusip": "03890D108",
+    "figi": "BBG00642DT09",
+    "isin": "US03890D1081"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03890D1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARAV"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VE11.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VE11.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VE11.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VE11.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VE11.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Aravive, Inc.",
+  "primary_symbol": "ARAV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Aravive, Inc., a clinical-stage biopharmaceutical company, develops treatments for life-threatening diseases. Its lead product candidate is AVB-500, a decoy protein that targets the GAS6-AXL signaling pathway, which is in Phase Ib/II clinical trial for the treatment of platinum- resistant recurrent ovarian cancer, as well as for the treatment of clear cell renal cell carcinoma, HER negative breast cancer, uterine, pancreatic cancer, urothelial, and non-small-cell lung cancers. The company also develops AVB-S6, a soluble Fc-fusion protein to block the activation of the GAS6-AXL signaling pathway. It has a strategic collaboration agreement with WuXi Biologics to develop novel high-affinity bispecific antibodies targeting cancer and fibrosis; and license agreement with 3D Medicines Inc. to develop products that contain AVB-500 as the sole drug substance for the treatment of human oncological diseases in mainland China, Taiwan, Hong Kong, and Macau. The company was formerly known as Versartis, Inc. and changed its name to Aravive, Inc. in October 2018. Aravive, Inc. is headquartered in Houston, Texas.",
+  "website": "http://aravive.com"
+}

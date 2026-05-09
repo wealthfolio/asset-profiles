@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "44916T107",
+    "isin": "US44916T1079"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US44916T1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8HY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8HY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HYRE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8HY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8HY.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HyreCar Inc.",
+  "primary_symbol": "8HY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HyreCar Inc., together with subsidiaries, operates a web-based car-sharing marketplace in the United States. Its marketplace allows car owners to rent their idle cars to ride-sharing service drivers, such as Uber and Lyft drivers. HyreCar Inc. was incorporated in 2014 and is headquartered in Los Angeles, California.",
+  "website": "http://www.hyrecar.com"
+}

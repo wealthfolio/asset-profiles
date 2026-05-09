@@ -1,0 +1,51 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0025751329"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CH0025751329",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QK6.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LOGI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTEC"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LOGIN.MX"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "LOGN.SW"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "LOGITECH INTERNATIONAL SA LOGIT",
+  "primary_symbol": "0QK6.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Logitech International S.A. designs, manufactures, and markets computer peripherals and software. The company's products include mice, keyboards, webcams, headsets, and gaming devices, sold under brands like Logitech, Logitech G, Astro Gaming, and Ultimate Ears. Logitech is headquartered in Lausanne, Switzerland.",
+  "website": "http://www.logitech.com"
+}

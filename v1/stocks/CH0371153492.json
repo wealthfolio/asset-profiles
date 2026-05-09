@@ -1,0 +1,46 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0371153492"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "CH0371153492",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LDGYY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LGYRF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RTL.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "LAND.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Landis+Gyr Group AG",
+  "primary_symbol": "LDGYY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Landis+Gyr Group AG provides metering solutions for electricity, heat/cold, and gas utilities worldwide. The company offers digital and prepayment electricity, commercial/industrial and grid, smart gas, heat and water, and stand-alone gas meters; load control devices; system deployment services and managed network services; meter data management software; and advanced grid analytics tools. It also provides other advanced metering infrastructure offerings, such as software, installation, implementation, consulting, maintenance support, and related services. The company was formerly known as Landis+Gyr Holding AG. Landis+Gyr Group AG was founded in 1896 and is headquartered in Zug, Switzerland.",
+  "website": "http://www.landisgyr.eu"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "isin": "NL0010801007"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "NL0010801007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QVU.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "IMCD.AS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "INX.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "INX.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "INX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IMCD NV IMCD GROUP ORD SHS",
+  "primary_symbol": "0QVU.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "IMCD N.V. is a Dutch distributor of specialty chemicals and ingredients, providing solutions to customers in various industries. The company sources, formulates, and distributes specialty products, offering technical expertise and market knowledge to its suppliers and customers. IMCD is headquartered in Rotterdam, Netherlands.",
+  "website": "http://www.imcdgroup.com"
+}

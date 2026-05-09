@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00D1PK3T4",
+    "cusip": "03837J101",
+    "figi": "BBG00D1PK403",
+    "isin": "US03837J1016"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Materials",
+  "isin": "US03837J1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQMS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AQK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AQK.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AQUA METALS INC.  DL-,001",
+  "primary_symbol": "AQK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Aqua Metals, Inc. is a clean technology company that has developed a patented AquaRefining technology for recycling lead-acid batteries. This process offers a more environmentally friendly and cost-effective alternative to traditional smelting methods. Aqua Metals is headquartered in McCarran, Nevada.",
+  "website": "http://www.aquametals.com"
+}

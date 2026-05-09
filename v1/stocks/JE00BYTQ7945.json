@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00BYCYGM4",
+    "isin": "JE00BYTQ7945"
+  },
+  "isin": "JE00BYTQ7945",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JE00BYTQ7945.SG"
+    }
+  ],
+  "name": "BION PLC",
+  "primary_symbol": "JE00BYTQ7945.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

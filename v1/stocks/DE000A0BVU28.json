@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BM0RQ0",
+    "figi": "BBG000BM0VV5",
+    "isin": "DE000A0BVU28"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "DE000A0BVU28",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSP2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSP2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSP2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "OSP2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OSP2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OSP2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OSP2.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "USU SOFTWARE AG",
+  "primary_symbol": "OSP2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "USU Software AG develops and provides software and services for IT and knowledge management. The company offers solutions for IT service management, software asset management, and digital workplace. USU Software AG is headquartered in Möglingen, Germany.",
+  "website": "http://www.usu.com"
+}

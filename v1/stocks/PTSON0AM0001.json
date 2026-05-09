@@ -1,0 +1,56 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "isin": "PTSON0AM0001"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "PTSON0AM0001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SON1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YSON.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "SON.LS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "YSON.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YSON.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YSON.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SONY GROUP CORP.",
+  "primary_symbol": "SON1.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "SONY GROUP CORP. is a global entertainment, technology, and gaming conglomerate. It operates in diverse sectors including electronics, entertainment (music and pictures), gaming (PlayStation), and financial services. The company is headquartered in Tokyo, Japan.",
+  "website": "http://www.sonae.pt"
+}

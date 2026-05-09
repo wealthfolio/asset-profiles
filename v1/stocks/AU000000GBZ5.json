@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000GBZ5"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000GBZ5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GBZ.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000GBZ5.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GBZ.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WINMARK CORP.",
+  "primary_symbol": "GBZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "GBM Resources Ltd is an Australian exploration and resource development company focused on gold and copper projects. The company's projects are primarily located in Queensland, Australia.",
+  "website": "http://www.gbmr.com.au"
+}

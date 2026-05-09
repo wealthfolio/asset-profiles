@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG0103VJZ80",
+    "figi": "BBG0103VJZF2",
+    "isin": "FR0011490648"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "FR0011490648",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7T0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALESA.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0011490648.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Ecoslops S.A.",
+  "primary_symbol": "7T0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ecoslops SA produces recycled marine fuels from oil residues. Its technology transforms oil residues from slops, greenfield sites, and sludge into new fuels and light bitumen. The company provides solutions related to the collection and processing of slops to port infrastructure, waste collectors, and ship owners. Ecoslops SA was founded in 2005 and is based in Paris, France.",
+  "website": "http://www.ecoslops.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG9835C1087"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "KYG9835C1087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YHEKF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "9923.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG9835C1087.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Yeahka Limited",
+  "primary_symbol": "YHEKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Yeahka Limited operates payment-based technology platform that provides payment and business services to merchants and consumers in China. It offers one-stop payment services, which include app-based and traditional payment services comprising mobile payment and bank card acquiring products, as well as an intelligent risk control platform for controlling and managing mobile payments. The company also provides technology-enabled business services, including various merchant SaaS products and marketing services that offer a variety of intelligent business solutions, and intelligent operation and management services; and a payment-based advertising platform, which provides various marketing and promotional tools. In addition, it offers fintech services for financial needs of customers. Yeahka Limited was incorporated in 2011 and is headquartered in Shenzhen, the People's Republic of China.",
+  "website": "http://www.yeahka.com"
+}

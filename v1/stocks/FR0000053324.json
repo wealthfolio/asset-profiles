@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00646Q9G3",
+    "figi": "BBG00646Q9R1",
+    "isin": "FR0000053324"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "FR0000053324",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JCA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0N7N.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CDA.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JCA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JCA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CIE DES ALPES (CDA)",
+  "primary_symbol": "JCA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Compagnie des Alpes (CDA) is a major player in the European leisure industry, operating ski resorts and theme parks. The company manages renowned ski areas in the French Alps and operates popular theme parks across Europe. Its headquarters are located in Paris, France.",
+  "website": "http://www.compagniedesalpes.com"
+}

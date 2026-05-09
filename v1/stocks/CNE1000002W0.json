@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000D3BZ35",
+    "figi": "BBG000D3C1K0",
+    "isin": "CNE1000002W0"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CNE1000002W0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGP.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1053.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CGP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CGP.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHONGQING IRON+STEEL HYC1",
+  "primary_symbol": "CGP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Chongqing Iron & Steel Company Limited, together with its subsidiaries, processes, produces and sells steel plates, wire rods, bar materials, and billets and thin plates in the People's Republic of China. It is also involved in the production and sale of coal chemical products, pig iron and grain slag, etc. The company's products have applications in various industries, such as machinery, architecture, engineering, automobile, motorbike, shipbuilding, offshore oil, gas cylinder, boiler, and oil and gas pipelines. Chongqing Iron & Steel Company Limited was incorporated in 1997 and is based in Chongqing, the People's Republic of China.",
+  "website": "http://www.cqgt.cn"
+}

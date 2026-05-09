@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0047BZSP2",
+    "cusip": "04316A108",
+    "figi": "BBG0047BZSV5",
+    "isin": "US04316A1088"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US04316A1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AP0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APAM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AP0.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ARTISAN PART.AS.M.A DL-01",
+  "primary_symbol": "AP0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Artisan Partners Asset Management Inc. is publicly owned investment manager. It provides its services to pension and profit sharing plans, trusts, endowments, foundations, charitable organizations, government entities, private funds and non-U.S. funds, as well as mutual funds, non-U.S. funds and collective trusts. It manages separate client-focused equity and fixed income portfolios. The firm invests in the public equity and fixed income markets across the globe. It invests in growth and value stocks of companies across all market capitalization. For fixed income component of its portfolio the firm invests in non-investment grade corporate bonds and secured and unsecured loans. It employs fundamental analysis to create its portfolios. Artisan Partners Asset Management Inc. was founded in 1994 and is based in Milwaukee, Wisconsin with additional offices in Atlanta, Georgia; New York City; San Francisco, California; Leawood, Kansas; and London, United Kingdom.",
+  "website": "http://www.artisanpartners.com"
+}

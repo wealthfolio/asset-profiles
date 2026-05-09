@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00CSNVHC7",
+    "cusip": "23257D103",
+    "figi": "BBG00CSNVHK8",
+    "isin": "US23257D1037"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US23257D1037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0I.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CBAY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0I5P.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C0I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C0I.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CYMABAY THERAPEUT.DL-0001",
+  "primary_symbol": "C0I.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Cymabay Therapeutics, Inc. is a biopharmaceutical company focused on developing and commercializing therapies for liver and other chronic diseases. The company's lead product candidate is seladelpar, a selective PPARδ agonist for the treatment of primary biliary cholangitis (PBC) and primary sclerosing cholangitis (PSC). Cymabay Therapeutics is headquartered in Newark, California.",
+  "website": "http://www.cymabay.com"
+}

@@ -1,0 +1,33 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG005J6BZ31",
+    "figi": "BBG00GPW2ZW1",
+    "isin": "FI4000251897"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "FI4000251897",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "REMEDY.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Remedy Entertainment Oyj",
+  "primary_symbol": "REMEDY.HE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Remedy Entertainment Oyj develops and sells console and computer games in Finland and internationally. It primarily creates cinematic action games. The company was incorporated in 1995 and is based in Espoo, Finland.",
+  "website": "http://www.remedygames.com"
+}

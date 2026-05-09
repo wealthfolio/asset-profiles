@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QL0YQ1",
+    "cusip": "57776J100",
+    "figi": "BBG000QL10W7",
+    "isin": "US57776J1007"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US57776J1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JMX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MXL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JMX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JMX.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MAXLINEAR INC.  DL-,01",
+  "primary_symbol": "JMX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "MaxLinear, Inc. is a global provider of radio frequency (RF), high-performance analog, and mixed-signal communications systems-on-chip (SoCs). The company's solutions are used in broadband communications, infrastructure, and industrial applications. MaxLinear is headquartered in Carlsbad, California.",
+  "website": "http://www.maxlinear.com"
+}

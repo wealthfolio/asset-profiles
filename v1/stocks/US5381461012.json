@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BSV0W5",
+    "cusip": "538146101",
+    "figi": "BBG000BSV8Q5",
+    "isin": "US5381461012"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US5381461012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LPSN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LPSN.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LVO.BE"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LPSN.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LVO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LVO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LVO.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LivePerson, Inc.",
+  "primary_symbol": "LPSN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LivePerson, Inc., together with its subsidiaries, provides conversational commerce solutions. The company operates in two segments, Business and Consumer. The Business segment enables brands to leverage LiveEngage's intelligence engine to connect with consumers through an integrated suite of mobile and online business messaging technologies. The Consumer segment facilitates online transactions between independent service providers and individual consumers seeking information and knowledge through mobile and online messaging. The company offers The Conversational Cloud, an enterprise-class and cloud-based platform, which enables businesses and consumers to connect through conversational interfaces, such as in-app and mobile messaging. It also provides professional services and value-added business consulting services. The company sells its products through direct and indirect sales channels to Fortune 500 companies, Internet businesses, online merchants, small businesses, automotive dealers, universities, libraries, government agencies, and not-for-profit organizations. It operates in the United States, Canada, Latin America, South America, Europe, the Middle East, Africa, and the Asia-Pacific region. The company has strategic partnerships with TTEC that focuses on customer experience; and DMI to redefine customer experience with digital engagement, messaging, and artificial intelligence driven automation. LivePerson, Inc. was founded in 1995 and is headquartered in New York, New York.",
+  "website": "http://www.liveperson.com"
+}

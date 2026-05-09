@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFA^B"
+    }
+  ],
+  "name": "MFA Financial Inc. Preferred Series B",
+  "primary_symbol": "MFA^B",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MFA Financial Inc. Preferred Series B represents a series of preferred stock issued by MFA Financial, a real estate investment trust (REIT). These shares typically offer a fixed dividend payment and have preference over common stock in liquidation. The issuer is MFA Financial."
+}

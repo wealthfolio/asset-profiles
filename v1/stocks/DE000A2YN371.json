@@ -1,0 +1,41 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE000A2YN371"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "DE000A2YN371",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRY.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PRY.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PACIFICO RENEW.YLD INH ON",
+  "primary_symbol": "PRY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Pacifico Renewables Yield AG develops, constructs, and operates renewable energy power plants in Germany, the Czech Republic, Italy, and the Netherlands. It operates a portfolio of onshore wind and photovoltaic power plants. The company is based in Gr√É¬ºnwald, Germany.",
+  "website": "http://www.pacifico-renewables.com"
+}

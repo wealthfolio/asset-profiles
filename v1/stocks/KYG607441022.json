@@ -1,0 +1,57 @@
+{
+  "country": "Macau",
+  "identifiers": {
+    "composite_figi": "BBG001QHGBV5",
+    "figi": "BBG001QHGC16",
+    "isin": "KYG607441022"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "KYG607441022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M04.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M04.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCHVF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCHVY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M04.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M04.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MGM CHINA HLDGS LTD  HD 1",
+  "primary_symbol": "M04.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MGM China Holdings Limited is a holding company that, through its subsidiaries, owns and operates gaming resorts in Macau. The company develops and operates casino games, hospitality, and entertainment offerings. Headquartered in Hong Kong, MGM China is a leading operator in the Macau gaming market.",
+  "website": "http://www.mgmchinaholdings.com"
+}

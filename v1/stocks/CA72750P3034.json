@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA72750P3034"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "CA72750P3034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLTXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WNT1.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "VEGA.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WNT1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PlantX Life Inc.",
+  "primary_symbol": "PLTXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PlantX Life Inc. operates as an e-commerce company that offers plant-based products in Canada, the United States, the United Kingdom, and Germany. The company provides plant-based groceries, ingredients, food and beverages, cosmetics, petfoods, plants, and prepared meals, as well as private label products. It distributes its products through e-commerce platform, wholesale arrangements, dropshipping partnerships, restaurants, grocery stores partnerships, and food delivery service providers. The company was formerly known as Vegaste Technologies Corp. and changed its name to PlantX Life Inc. in September 2020. PlantX Life Inc. is headquartered in West Vancouver, Canada.",
+  "website": "http://plantx.com"
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BGHS83",
+    "cusip": "01988P108",
+    "figi": "BBG000BGHTW4",
+    "isin": "US01988P1084"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Software & Services",
+  "isin": "US01988P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AL21.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AL21.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AL21.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALLSCRIPTS HEAL.SOL.DL-01",
+  "primary_symbol": "AL21.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Allscripts Healthcare Solutions, Inc. provides healthcare information technology solutions to hospitals, physician practices, and other healthcare providers. The company offers electronic health records (EHR), practice management, and revenue cycle management software. Allscripts is headquartered in Chicago, Illinois.",
+  "website": "http://www.allscripts.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG000RCGJR5",
+    "figi": "BBG000RCGLP2",
+    "isin": "LU0290697514"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "LU0290697514",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B7C.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B7C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B7C.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "DIS.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "D AMICO INTL SHIP.SA",
+  "primary_symbol": "B7C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "d'Amico International Shipping S.A., through its subsidiaries, operates as a marine transportation company worldwide. The company primarily transports refined petroleum products and vegetable oil through various double-hulled vessels. It serves oil companies and trading houses. As of December 31, 2020, the company operated a fleet of approximately 40.0 vessels. The company was incorporated in 2007 and is based in Luxembourg City, Luxembourg. d'Amico International Shipping S.A. is a subsidiary of d'Amico International S.A.",
+  "website": "http://www.damicointernationalshipping.com"
+}

@@ -1,0 +1,24 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "STORAGE18.MX"
+    }
+  ],
+  "name": "Fibra Storage",
+  "primary_symbol": "STORAGE18.MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Fibra Storage is a Mexican Real Estate Investment Trust (REIT) focused on the acquisition, development, and management of self-storage facilities in Mexico. The company's portfolio consists of self-storage properties across various cities in Mexico, catering to both individual and business customers. Fibra Storage aims to provide secure and convenient storage solutions."
+}

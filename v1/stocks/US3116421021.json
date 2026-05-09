@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BJD7C2",
+    "cusip": "311642102",
+    "figi": "BBG000BJDKP9",
+    "isin": "US3116421021"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US3116421021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FARO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FT1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FT1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FARO Technologies, Inc.",
+  "primary_symbol": "FARO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "FARO Technologies, Inc. designs, develops, manufactures, markets, and supports software driven three-dimensional (3D) measurement, imaging, and realization solutions worldwide. It operates through three segments: 3D Manufacturing, Construction BIM, and Emerging Verticals. The company offers FaroArm, a combination of a portable articulated measurement arm, a computer, and CAM2 software programs; FARO Laser Projector, which provides a virtual template that operators and assemblers can use to quickly and accurately position components; and FARO Focus laser scanner to measure and collect a cloud of data points. In addition, the company offers FARO ScanPlan, a handheld mapper that captures two-dimensional floor plans; and FARO Software, a family of computer-aided design-based measurement and laser scanner software. FARO Technologies, Inc. offers its products for metrology, reverse engineering, factory automation, building information modeling, public safety, and other applications. FARO Technologies, Inc. was founded in 1981 and is headquartered in Lake Mary, Florida.",
+  "website": "http://www.faro.com"
+}

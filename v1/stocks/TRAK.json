@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRAK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ReposiTrak Common Stock",
+  "primary_symbol": "TRAK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ReposiTrak is a supply chain, compliance, and risk management platform provider. The company offers solutions for tracking and managing supplier compliance, product safety, and other critical supply chain data. Their solutions help companies mitigate risk and ensure regulatory compliance."
+}

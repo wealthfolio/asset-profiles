@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00GZSY3P3",
+    "figi": "BBG00GZSY3W5",
+    "isin": "FR0013258399"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "FR0013258399",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1BO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1BO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BYYLF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RQF.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1BO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1BO.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BALYO.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BALYO S.A.  EO -,08",
+  "primary_symbol": "1BO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Balyo S.A. designs and develops autonomous navigation robots for material handling in warehouses and factories. The company's technology allows standard forklifts to operate autonomously, improving efficiency and safety. Balyo is headquartered in Ivry-sur-Seine, France.",
+  "website": "http://www.balyo.com"
+}

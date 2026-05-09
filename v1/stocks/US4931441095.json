@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GPLX91",
+    "cusip": "493144109",
+    "figi": "BBG000GPM225",
+    "isin": "US4931441095"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US4931441095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KT1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KT1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTCC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KT1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "KEY TRONIC CORP.",
+  "primary_symbol": "KT1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Key Tronic Corporation is an electronics manufacturing services (EMS) provider, offering a range of services including design, engineering, manufacturing, and testing of electronic assemblies and products. Their products include keyboards, mice, and other input devices, as well as more complex electronic assemblies. Key Tronic is headquartered in Spokane, Washington, USA.",
+  "website": "http://www.keytronic.com"
+}

@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00KVDW3P3",
+    "cusip": "43114K207",
+    "isin": "US43114K2078"
+  },
+  "isin": "US43114K2078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US43114K2078.SG"
+    }
+  ],
+  "name": "HIGHPOINT RESOURCES CORP",
+  "primary_symbol": "US43114K2078.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

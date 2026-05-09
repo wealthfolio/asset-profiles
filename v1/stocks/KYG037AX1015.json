@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003HC1WT5",
+    "figi": "BBG003HC1X04",
+    "isin": "KYG037AX1015"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "KYG037AX1015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMBA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0YU1.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A8B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A8B.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "AMBAN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AMBARELLA INC. DL -,00045",
+  "primary_symbol": "A8B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Ambarella, Inc. is a semiconductor company focusing on low-power, high-definition video compression and image processing solutions. Their System-on-a-Chip (SoC) solutions are used in a variety of applications including IP security cameras, wearable cameras, automotive cameras, and drones. The company is headquartered in Santa Clara, California.",
+  "website": "http://www.ambarella.com"
+}

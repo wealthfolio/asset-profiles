@@ -1,0 +1,48 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BD5734",
+    "figi": "BBG000BD5BJ8",
+    "isin": "DE0007318008"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "DE0007318008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "STG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "STG.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STINAG STUTTGART INVEST",
+  "primary_symbol": "STG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "STINAG Stuttgart Invest AG, through its subsidiaries, engages in the real estate, and finance and equity investment businesses. It is involved in the acquisition, development, optimization, administration, inventory management, and leasing of real estate properties. The company's real estate portfolio includes office and retail properties, hotels, apartments, production buildings, and nursing homes. The company is based in Stuttgart, Germany. STINAG Stuttgart Invest AG operates as a subsidiary of Brasserie-Holding SA.",
+  "website": "http://www.stinag-ag.de"
+}

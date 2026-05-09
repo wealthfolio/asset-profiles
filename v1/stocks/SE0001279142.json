@@ -1,0 +1,63 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00162NB06",
+    "figi": "BBG00162NB60",
+    "isin": "SE0001279142"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "SE0001279142",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1IC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1IC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1IC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1IC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1IC.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "IMPC.JK"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "IMPC.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IMPACT COAT. AB SK-,125",
+  "primary_symbol": "1IC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Impact Coatings AB develops and commercializes coating solutions based on physical vapor deposition (PVD) technology. Their coatings are used to enhance the performance and durability of components in various industries, including automotive and electronics. TICKER: Impact Coatings AB develops and commercializes coating solutions based on PVD technology, enhancing the performance and durability of components in automotive and electronics industries.",
+  "website": "http://www.impactcoatings.com"
+}

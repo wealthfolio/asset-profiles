@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BCTV91",
+    "figi": "BBG000BCTW62",
+    "isin": "CA8765111064"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8765111064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TGB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UDM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UDM.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TKO.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "TKO.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UDM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UDM.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Taseko Mines Limited",
+  "primary_symbol": "TGB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Taseko Mines Limited, a mining company, acquires, develops, and operates mineral properties. The company explores for copper, molybdenum, gold, niobium, and silver deposits. It holds 75% interest in the Gibraltar mine located in British Columbia. The company also holds 100% interest in Yellowhead copper project, the Aley niobium project, the Harmony Gold Project, and the New Prosperity gold and copper project located in British Columbia; and the Florence copper project located in Arizona. Taseko Mines Limited was incorporated in 1966 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.tasekomines.com"
+}

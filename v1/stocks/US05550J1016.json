@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LBV22L2",
+    "cusip": "05550J101",
+    "figi": "BBG00LBV22S5",
+    "isin": "US05550J1016"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US05550J1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8BJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8BJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJ"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BJ'S WHOLESALE C.H.DL-,01",
+  "primary_symbol": "8BJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "BJ's Wholesale Club Holdings, Inc. is a membership-only warehouse club operator, offering a wide selection of perishable, general merchandise, gasoline, and other services to its members. The company operates primarily on the East Coast of the United States. BJ's Wholesale Club aims to provide significant value to its members through competitive pricing and exclusive offerings.",
+  "website": "http://www.bjs.com"
+}

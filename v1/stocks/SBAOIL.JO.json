@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "SBAOIL.JO"
+    }
+  ],
+  "name": "Standard Bank WTI Crude Oil ETN",
+  "primary_symbol": "SBAOIL.JO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Standard Bank WTI Crude Oil ETN is an exchange-traded note (ETN) that tracks the performance of the WTI crude oil price. It provides investors with exposure to the crude oil market without directly owning physical oil. The ETN is listed on the Johannesburg Stock Exchange."
+}

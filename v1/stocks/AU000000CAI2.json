@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000CAI2"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000CAI2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CALRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HFU1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HFU1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CALIDUS RESOURCES LTD",
+  "primary_symbol": "CALRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Calidus Resources Ltd is an Australian gold exploration and development company focused on developing its Warrego gold project in the Pilbara region of Western Australia. The company aims to become a mid-tier gold producer. Calidus Resources is based in Perth, Australia.",
+  "website": "http://www.calidus.com.au"
+}

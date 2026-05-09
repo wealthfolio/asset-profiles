@@ -1,0 +1,59 @@
+{
+  "country": "Argentina",
+  "country_code": "AR",
+  "identifiers": {
+    "composite_figi": "BBG000BHPFQ0",
+    "cusip": "984245100",
+    "figi": "BBG000BHPJW5",
+    "isin": "US9842451000"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US9842451000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YPF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YPF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YPF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YPF.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "YPFD.BA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "YPF Sociedad Anonima",
+  "primary_symbol": "YPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "YPF Sociedad An√É¬≥nima, an energy company, operates in the oil and gas upstream and downstream activities in Argentina. The company's upstream operations consist of the exploration, development, and production of crude oil, natural gas, and liquefied petroleum gas (LPG). Its downstream operations include the refining, marketing, transportation, and distribution of oil, petroleum products, petroleum derivatives, petrochemicals, LPG, and bio-fuels, as well as in gas separation and natural gas distribution operations. As of December 31, 2020, it had interests in 123 oil and gas fields; approximately 483 million barrels (mmbbl) of oil; and approximately 2,110 billion cubic feet (bcf) of gas. It also had a retail distribution network of 1,632 YPF-branded service stations; 20 exploration permits, including 16 onshore and four offshore exploration permits, as well as 103 production concessions; and 36 crude oil treatment plants and 11 pumping plants. In addition, the company owns and operates three refineries with combined annual refining capacity of approximately 116 mmbbl; approximately 2,800 kilometers of crude oil pipelines with approximately 640,000 barrels of aggregate daily transportation capacity of refined products; and crude oil tankage of approximately 7 mmbbl, as well as maintains terminal facilities at five Argentine ports. Further, it participates in 18 power generation plants with an aggregate installed capacity of 2,858 megawatts; offers diesel, fertilizers, lubricants, phytosanitary products, and ensiling bags; and supplies diesel, gasoline, fuel oil, coal, asphalts, paraffin, and sulfur, CO2, decanted oil, and aromatic extract. The company was founded in 1977 and is headquartered in Buenos Aires, Argentina.",
+  "website": "http://www.ypf.com"
+}

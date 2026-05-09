@@ -1,0 +1,36 @@
+{
+  "country": "Saudi Arabia",
+  "country_code": "SA",
+  "identifiers": {
+    "isin": "LU0274210672"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "LU0274210672",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SAR",
+      "exchange_mic": "XSAU",
+      "symbol": "3020.SR"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3020.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Yamama Saudi Cement Company",
+  "primary_symbol": "3020.SR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Yamama Saudi Cement Company manufactures and sells cement in Saudi Arabia. It offers ordinary Portland, clinker and finishing, sulfate-resistant Portland, white and colored, oil-well, fast cementing Bozolani, and bacteric resistant cement. The company was founded in 1956 and is headquartered in Riyadh, Saudi Arabia.",
+  "website": "http://www.yamamacement.com"
+}

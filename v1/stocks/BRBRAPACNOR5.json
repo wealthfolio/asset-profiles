@@ -1,0 +1,53 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "identifiers": {
+    "composite_figi": "BBG000FZ8DT7",
+    "figi": "BBG000FZ8JJ5",
+    "isin": "BRBRAPACNOR5"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Materials",
+  "isin": "BRBRAPACNOR5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FXMA.BE"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "BRAP3.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FXMA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FXMA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "XBRPO.MC"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BRADESPAR S.A.",
+  "primary_symbol": "FXMA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Bradespar S.A., through its interest in VALE, operates as a mining company in the production of iron ore, iron ore pellets, and nickel. The company also produces manganese ore, ferroalloys, thermal and metallurgical coal, copper, platinum group metal by-products, gold, silver, and cobalt. In addition, it operates logistics systems, including railroads, maritime terminals, and ports. The company was incorporated in 2000 and is headquartered in S√É¬£o Paulo, Brazil.",
+  "website": "http://www.bradespar.com.br"
+}

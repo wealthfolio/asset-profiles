@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00RKBFNV2",
+    "cusip": "69047Q102",
+    "figi": "BBG00RKBFP10",
+    "isin": "US69047Q1022"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US69047Q1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47Q.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47Q.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OVV"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "47Q.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "47Q.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "OVV.MX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "OVV.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US69047Q1022.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Ovintiv Inc.",
+  "primary_symbol": "47Q.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Ovintiv Inc., together with its subsidiaries, engages in the exploration, development, production, and marketing of natural gas, oil, and natural gas liquids. It operates through USA Operations, Canadian Operations, and Market Optimization segments. The company's principal assets include Permian in west Texas and Anadarko in west-central Oklahoma; and Montney in northeast British Columbia and northwest Alberta. Its other upstream assets comprise Eagle Ford in south Texas, Bakken in North Dakota, and Uinta in central Utah; and Duvernay in west central Alberta, Horn River in northeast British Columbia, and Wheatland in southern Alberta. The company was formerly known as Encana Corporation and changed its name to Ovintiv Inc. in January 2020. Ovintiv Inc. was incorporated in 2020 and is based in Denver, Colorado.",
+  "website": "http://www.ovintiv.com"
+}

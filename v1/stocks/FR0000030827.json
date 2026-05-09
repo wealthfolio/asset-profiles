@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FLV3K3",
+    "isin": "FR0000030827"
+  },
+  "isin": "FR0000030827",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0000030827.SG"
+    }
+  ],
+  "name": "IGE + XAO",
+  "primary_symbol": "FR0000030827.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

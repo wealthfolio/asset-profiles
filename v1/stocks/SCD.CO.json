@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "SCD.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Small Cap Danmark A/S",
+  "primary_symbol": "SCD.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Small Cap Danmark A/S operates as a publicly owned investment manager. Small Cap Danmark A/S is based in Copenhagen, Denmark.",
+  "website": "http://www.smallcap.dk"
+}

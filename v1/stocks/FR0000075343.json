@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BS25H3",
+    "isin": "FR0000075343"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0000075343",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0000075343.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000075343.SW"
+    }
+  ],
+  "name": "EUROMEDIS GROUPE",
+  "primary_symbol": "FR0000075343.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "EUROMEDIS GROUPE is a French company specializing in the distribution and maintenance of medical equipment. They offer a range of products and services for healthcare professionals, including equipment for sterilization, disinfection, and operating rooms; headquarters are located in France. The group aims to provide reliable and innovative solutions to improve healthcare practices."
+}

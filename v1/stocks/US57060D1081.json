@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BJBZ23",
+    "cusip": "57060D108",
+    "figi": "BBG000BJC7J6",
+    "isin": "US57060D1081"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US57060D1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MKTX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWI.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "M1KT34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MKTX.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MWI.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MWI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MWI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US57060D1081.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MarketAxess Holdings Inc.",
+  "primary_symbol": "MKTX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MarketAxess Holdings Inc., together with its subsidiaries, operates an electronic trading platform for institutional investor and broker-dealer firms worldwide. It offers the access to global liquidity in U.S. investment-grade bonds, U.S. high-yield bonds, U.S. Treasuries, municipal bonds, emerging market debt, Eurobonds, and other fixed income securities. The company, through its Open Trading protocols, executes bond trades between and among institutional investor and broker-dealer clients in an all-to-all anonymous trading environment for corporate bonds. It also offers trading-related products and services, including Composite+ pricing and other market data products to assist clients with trading decisions; auto-execution and other execution services for clients requiring specialized workflow solutions; connectivity solutions that facilitate straight-through processing; and technology services to optimize trading environments. In addition, the company offers a range of pre-and post-trade services, such as trade matching, trade publication, regulatory transaction reporting, and market and reference data across a range of fixed-income and other products. MarketAxess Holdings Inc. was incorporated in 2000 and is headquartered in New York, New York.",
+  "website": "http://www.marketaxess.com"
+}

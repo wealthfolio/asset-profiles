@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DDGCT1",
+    "cusip": "53224K302",
+    "figi": "BBG000DDGKK2",
+    "isin": "US53224K3023"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US53224K3023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTBR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7ON.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7ON.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N7ON.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US53224K3023.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Lightbridge Corporation",
+  "primary_symbol": "LTBR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Lightbridge Corporation, together with its subsidiaries, develops nuclear fuel technology under the Lightbridge Fuel name. It focuses on developing and commercializing metallic nuclear fuels that could enhance resistance of nuclear fuel in existing and new nuclear reactors with a meaningful impact on addressing climate change and air pollution. The company was formerly known as Thorium Power, Ltd. and changed its name to Lightbridge Corporation in September 2009. Lightbridge Corporation was incorporated in 1992 and is based in Reston, Virginia.",
+  "website": "http://www.ltbridge.com"
+}

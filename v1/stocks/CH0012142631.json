@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PQ4T24",
+    "figi": "BBG000PQ4WD5",
+    "isin": "CH0012142631"
+  },
+  "industry": "Software",
+  "industry_group": "Diversified Financials",
+  "isin": "CH0012142631",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLRN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CLN.F"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "CLN.SI"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CRN.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CRN.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "The City of London Investment Trust Plc",
+  "primary_symbol": "CLN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The City of London Investment Trust plc is an investment trust. The company invests in a portfolio of global equities, with the aim of providing investors with long-term capital growth and an above-average level of income. The trust is managed by Janus Henderson Investors.",
+  "website": "http://www.clarent.com"
+}

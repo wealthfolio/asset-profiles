@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00ZVW65Z1",
+    "cusip": "87663X102",
+    "figi": "BBG00ZVW6643",
+    "isin": "US87663X1028"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US87663X1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F7M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTCF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "F7M.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F7M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US87663X1028.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TATTOOED CHEF INC CL.A",
+  "primary_symbol": "F7M.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Tattooed Chef, Inc. is a plant-based food company offering a variety of frozen and refrigerated food products. The company's products are sold in major retailers across the United States. Tattooed Chef is headquartered in Paramount, California.",
+  "website": "http://www.tattooedchef.com"
+}

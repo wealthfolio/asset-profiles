@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BVTMG1",
+    "figi": "BBG000BVTR61",
+    "isin": "DE000A0D9PT0"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "DE000A0D9PT0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTX.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTX.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MTX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MTXN.DE"
+    }
+  ],
+  "name": "MTU AERO ENGINES NA O.N.",
+  "primary_symbol": "MTX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "MTU Aero Engines is a German aircraft engine manufacturer that develops, produces, and services engines for commercial and military aircraft, as well as industrial gas turbines. The company is headquartered in Munich, Germany and provides maintenance, repair, and overhaul services for aircraft engines. MTU Aero Engines partners with major engine manufacturers like Pratt & Whitney and General Electric."
+}

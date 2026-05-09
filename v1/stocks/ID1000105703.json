@@ -1,0 +1,48 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000PR3G85",
+    "figi": "BBG000PR3J25",
+    "isin": "ID1000105703"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "ID1000105703",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4FM.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4FM.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "BISI.JK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BISI.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BISI INTL TBK, PT  RP 100",
+  "primary_symbol": "4FM.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "PT Bisi International Tbk is an Indonesian company primarily involved in the production and distribution of agricultural products. It focuses on seeds, pesticides, and fertilizers for various crops. The company's headquarters are located in Indonesia.",
+  "website": "http://www.bisi.co.id"
+}

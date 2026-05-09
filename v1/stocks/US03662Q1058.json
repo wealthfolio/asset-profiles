@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000KR75S8",
+    "cusip": "03662Q105",
+    "figi": "BBG000KR8BW9",
+    "isin": "US03662Q1058"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US03662Q1058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANSS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HG3.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "A1NS34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AKX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AKX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AKX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AKX.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ANSS.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ANSYS INC.  DL-,01",
+  "primary_symbol": "AKX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ANSYS, Inc. develops and markets engineering simulation software and services used by engineers, designers, researchers, and students across a broad spectrum of industries. The company's software enables users to simulate product designs and predict how products will behave in real-world environments. ANSYS is headquartered in Canonsburg, Pennsylvania.",
+  "website": "http://www.ansys.com"
+}

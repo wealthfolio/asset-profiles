@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005322950"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IT0005322950",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "KIP.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Kolinpharma S.p.A.",
+  "primary_symbol": "KIP.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Kolinpharma S.p.A. operates as a nutraceuticals company. It offers gynecological and orthopedic products. The company was founded in 2013 and is based in Lainate, Italy.",
+  "website": "http://www.kolinpharma.com"
+}

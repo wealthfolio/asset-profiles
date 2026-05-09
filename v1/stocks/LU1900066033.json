@@ -1,0 +1,36 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "LU1900066033"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "LU1900066033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEMG.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TWN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Seach Medical Group Ltd",
+  "primary_symbol": "SEMG.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Seach Medical Group Ltd. cultivates, processes, produces, and manufactures medicinal and cannabis products. The company is based in Hod Hasharon, Israel.",
+  "website": "http://www.seach.co.il"
+}

@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000D8HJ16",
+    "cusip": "422819102",
+    "figi": "BBG000D8KQG0",
+    "isin": "US4228191023"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US4228191023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSII"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HSI.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HEIDRICK+STRUG.INTL DL-01",
+  "primary_symbol": "HSI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Heidrick & Struggles International, Inc. is a global leadership consulting firm. The company provides executive search, leadership assessment, and culture shaping services to businesses and organizations. Heidrick & Struggles International is headquartered in Chicago, Illinois.",
+  "website": "http://www.heidrick.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GF7SXM5",
+    "figi": "BBG00GF7SXS9",
+    "isin": "CA87649R1047"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA87649R1047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8TA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTSRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8TA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA87649R1047.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TN.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Tartisan Nickel Corp.",
+  "primary_symbol": "8TA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tartisan Nickel Corp. engages in the acquisition, exploration, and development of mineral properties in Canada and Peru. The company owns 100% interests in the Kenbridge nickel project located in Ontario, Canada; the Don Pancho polymetallic zinc-lead-silver-manganese project situated in the Province of Huaral, Peru; the Sill Lake silver-lead project located in the Sault Ste. Marie Mining District of Ontario; and the Ichuna copper-silver project located in the Department of Moquegua in Southern Peru. It also owns 100% interest in the Glatz and Night Danger nickel-copper claims located in Ontario, Canada. The company was formerly known as Tartisan Resources Corp. and changed its name to Tartisan Nickel Corp. in February 2018. Tartisan Nickel Corp. was incorporated in 2008 and is headquartered in Toronto, Canada.",
+  "website": "http://www.tartisannickel.com"
+}

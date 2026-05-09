@@ -1,0 +1,31 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000D7RX52",
+    "figi": "BBG000D7RXQ9"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FKGD.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Cairn Energy PLC",
+  "primary_symbol": "FKGD.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Cairn Energy PLC operates as an independent oil and gas exploration, development, and production company. It holds a portfolio of exploration, development, and production assets in the United Kingdom, Israel, Mauritania, Cote d'Ivoire, Mexico, and Suriname. The company was founded in 1980 and is headquartered in Edinburgh, the United Kingdom.",
+  "website": "http://www.cairnenergy.com"
+}

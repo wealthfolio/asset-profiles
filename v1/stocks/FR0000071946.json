@@ -1,0 +1,56 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000071946"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0000071946",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0O1S.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AN3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AN3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AN3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AN3.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ATE.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ALTEN SA ALTEN ORD SHS",
+  "primary_symbol": "0O1S.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ALTEN SA is a French engineering and technology consulting company that provides support for its clients' development strategies in the fields of technology, information technology and networks. They offer expertise in various sectors including aerospace, automotive, defense, energy, finance, life sciences, railway, and telecommunications. The company is headquartered in Boulogne-Billancourt, France.",
+  "website": "http://www.alten.fr"
+}

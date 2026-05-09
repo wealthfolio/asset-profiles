@@ -1,0 +1,37 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00W90JB31",
+    "isin": "CA21871U1057"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA21871U1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA21871U1057.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CC.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CORE ASSETS CORP",
+  "primary_symbol": "CA21871U1057.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "CORE ASSETS CORP is a Canadian company involved in the business of acquiring, exploring, and developing mineral properties. The company focuses on copper and gold exploration. Core Assets Corp. is based in Vancouver, British Columbia, Canada.",
+  "website": "http://www.coreassetscorp.com"
+}

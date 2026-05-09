@@ -1,0 +1,38 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00N2JR1G6",
+    "figi": "BBG00N2JR1H5",
+    "isin": "NL0012768675"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NL0012768675",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3B5.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IGPH.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Igea Pharma N V",
+  "primary_symbol": "3B5.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IGEA Pharma N.V. commercializes health-tech and med-tech products and devices in in the United States. The company offers Alz1, an at-home lab test kit to measure non-bound copper in the blood; and dietary supplement products to reduce blood heavy metals content under the Alz1 Tab brand. It also provides dry aerosol generators for air and inanimate environmental surfaces sanitization, as well as air sterilization and purification devices. The company also engages in laboratory analysis. IGEA Pharma N.V. was incorporated in 2015 and is headquartered in Hoofddorp, the Netherlands.",
+  "website": "http://www.igeapharma.nl"
+}

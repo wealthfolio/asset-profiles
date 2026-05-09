@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG008MPHMD1",
+    "figi": "BBG008MPHML2",
+    "isin": "GB00BKWQ1135"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "GB00BKWQ1135",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6HG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6HG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HDGHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6HG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6HG.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HAYD.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HAYDALE GRAPH.INDUS.LS-02",
+  "primary_symbol": "6HG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Haydale Graphene Industries plc is a technology company focused on enabling technology for graphene and other nanomaterials. The company develops and commercializes enhanced materials for various applications, including composites, inks, and coatings. Haydale is headquartered in the United Kingdom.",
+  "website": "http://www.haydale.com"
+}

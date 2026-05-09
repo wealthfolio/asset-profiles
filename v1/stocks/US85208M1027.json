@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG004YRMKS5",
+    "cusip": "85208M102",
+    "figi": "BBG004YRMKZ7",
+    "isin": "US85208M1027"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US85208M1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1FA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1FA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1FA.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SFM.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SPROUTS FMRS MKT  DL-,001",
+  "primary_symbol": "1FA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Sprouts Farmers Market, Inc. is a specialty grocery retailer that offers fresh, natural, and organic products. The company operates a chain of grocery stores across the United States, focusing on providing a healthy and affordable shopping experience. Sprouts Farmers Market is headquartered in Phoenix, Arizona.",
+  "website": "http://www.sprouts.com"
+}

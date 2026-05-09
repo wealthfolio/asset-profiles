@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0064RSMG6",
+    "figi": "BBG0064RSMM9",
+    "isin": "CA70137W1086"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA70137W1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PF6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PKIUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PF6.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "PKI.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PARKLAND CORP.",
+  "primary_symbol": "PF6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Parkland Corporation is an independent supplier and marketer of fuel and petroleum products and a leading convenience store operator. The company operates in Canada, the United States, and the Caribbean region. Parkland is headquartered in Calgary, Alberta, Canada.",
+  "website": "http://www.parkland.ca"
+}

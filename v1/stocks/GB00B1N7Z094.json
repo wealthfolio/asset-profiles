@@ -1,0 +1,83 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P7VMZC3",
+    "figi": "BBG00P7VMZM2",
+    "isin": "GB00B1N7Z094"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "GB00B1N7Z094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2T3.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2T3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IHF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IHF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAFE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFSHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2T3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IHF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IHF.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "SAFE.JK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAFE.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Safehold Inc.",
+  "primary_symbol": "2T3.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Safehold Inc. (NYSE: SAFE) is revolutionizing real estate ownership by providing a new and better way for owners to unlock the value of the land beneath their buildings. Through its modern ground lease capital solution, Safehold helps owners of high quality multifamily, office, industrial, hospitality and mixed-use properties in major markets throughout the United States generate higher returns with less risk. The Company, which is taxed as a real estate investment trust (REIT) and is managed by its largest shareholder, iStar Inc., seeks to deliver safe, growing income and long-term capital appreciation to its shareholders.",
+  "website": "http://www.safeholdinc.com"
+}

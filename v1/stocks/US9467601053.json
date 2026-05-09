@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BW02J1",
+    "cusip": "946760105",
+    "figi": "BBG000BW05N9",
+    "isin": "US9467601053"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US9467601053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PYA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PYA.SG"
+    }
+  ],
+  "name": "WAYSIDE TECHNOL.GRP DL-01",
+  "primary_symbol": "PYA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Wayside Technology Group Inc. is an IT channel company providing technology solutions to businesses, government and education organizations, and IT solution providers. They offer a comprehensive portfolio of software and hardware products, along with value-added services, with headquarters located in Shrewsbury, New Jersey."
+}

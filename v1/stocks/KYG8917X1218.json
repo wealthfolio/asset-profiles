@@ -1,0 +1,48 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000GK1GX4",
+    "figi": "BBG000GK2QT6",
+    "isin": "KYG8917X1218"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "KYG8917X1218",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TJC.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0698.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TJC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TJC.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TONGDA GROUP HLDGS HD-,01",
+  "primary_symbol": "TJC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Tongda Group Holdings Limited manufactures and sells precision plastic components for consumer electronics and other applications. The company’s products are used in mobile communication devices, home appliances, and automotive components. The company is headquartered in China.",
+  "website": "http://www.tongda.com"
+}

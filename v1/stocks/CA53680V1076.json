@@ -1,0 +1,56 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "isin": "CA53680V1076"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Capital Goods",
+  "isin": "CA53680V1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTH.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LTH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LTH.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "LTH.VI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CIMIC GROUP",
+  "primary_symbol": "LTH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CIMIC GROUP is CIMIC Group Limited, an Australian construction, mining, and engineering company. The company provides services to the infrastructure, resources, and property markets. The headquarters are in North Sydney, Australia.",
+  "website": "http://www.linz-textil.com"
+}

@@ -1,0 +1,66 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "PLKGHM000017"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Materials",
+  "isin": "PLKGHM000017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0O8D.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KGHA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KGHA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "KGH.L"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "KGH.PR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KGHA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KGHA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KGHA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "KGHM POLSKA MIEDZ SA KGHM POLSK",
+  "primary_symbol": "0O8D.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "KGHM POLSKA MIEDZ SA is a Polish copper and silver producer, involved in the exploration, mining, smelting, and refining of copper and other metals. The company operates mines and smelters in Poland and internationally. Its headquarters are located in Lubin, Poland.",
+  "website": "http://www.knightsplc.com"
+}

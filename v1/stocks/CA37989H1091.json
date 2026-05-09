@@ -1,0 +1,47 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00ZVLSVL9",
+    "figi": "BBG00ZVLSVS2",
+    "isin": "CA37989H1091"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA37989H1091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9DO.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9DO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA37989H1091.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "GLOW.CN"
+    }
+  ],
+  "name": "GLOW LIFETECH CORP.",
+  "primary_symbol": "9DO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Glow Lifetech Corp., a biotechnology company, focuses on producing nutraceutical and cannabinoid-based products. The company was founded in 2018 and is based in Toronto, Canada. Glow LifeTech Ltd. operates as a subsidiary of Relay Medical Corp.",
+  "website": "http://www.glowlifetech.com"
+}

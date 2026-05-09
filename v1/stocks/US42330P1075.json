@@ -1,0 +1,44 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000HBDH77",
+    "cusip": "42330P107",
+    "figi": "BBG000HBDM30",
+    "isin": "US42330P1075"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "US42330P1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTV.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CTV.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "HLX.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HELIX ENERGY SOLUTIONS",
+  "primary_symbol": "CTV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Helix Energy Solutions Group, Inc. is an international offshore energy services company that provides specialty services to the oil and gas industry. They offer well intervention, robotics, and subsea construction services. The company is headquartered in Houston, Texas.",
+  "website": "http://www.helixresources.com.au"
+}

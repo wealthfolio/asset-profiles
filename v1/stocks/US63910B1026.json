@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BQ7C87",
+    "cusip": "63910B102",
+    "figi": "BBG000BQ7F26",
+    "isin": "US63910B1026"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US63910B1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DF3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DF3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NLS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DF3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DF3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DF3.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NAUTILUS INC.",
+  "primary_symbol": "DF3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Nautilus, Inc. is a fitness equipment company. They develop, manufacture, and sell a range of fitness products under brands like Bowflex, Schwinn, and Octane Fitness. The company is headquartered in Vancouver, Washington.",
+  "website": "http://www.nautilusinc.com"
+}

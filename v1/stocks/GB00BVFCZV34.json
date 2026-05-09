@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00GX6WFX9",
+    "figi": "BBG00GX6WG49",
+    "isin": "GB00BVFCZV34"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB00BVFCZV34",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RWJ1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RWJ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RWJ1.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RWS.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "RWS HOLDINGS PLC  LS-,01",
+  "primary_symbol": "RWJ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "RWS Holdings plc provides technology-enabled language, content management, and intellectual property services. The company helps businesses to communicate and operate globally. RWS Holdings is headquartered in Chalfont St Peter, United Kingdom.",
+  "website": "http://www.rws.com"
+}

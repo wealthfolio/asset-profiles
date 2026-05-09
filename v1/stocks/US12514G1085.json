@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001P63B80",
+    "cusip": "12514G108",
+    "figi": "BBG004CH8XX3",
+    "isin": "US12514G1085"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US12514G1085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDW.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "C1DW34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CDW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CDW.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CDW.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US12514G1085.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CDW Corporation",
+  "primary_symbol": "CDW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CDW Corporation provides integrated information technology (IT) solutions to business, government, education, and healthcare customers in the United States, the United Kingdom, and Canada. It operates through three segments: Corporate, Small Business, and Public. The company offers discrete hardware and software products, as well as integrated IT solutions, including on-premise, hybrid and cloud capabilities across data center and networking, digital workspace, security, and virtualization. Its hardware products comprise notebooks/mobile devices, network communications, desktop computers, video monitors, enterprise and data storage, and other hardware; and software products include application suites, security, virtualization, operating systems, and network management. The company also provides field services, managed services, warranties, configuration services, partner services, and telecom services. CDW Corporation was founded in 1984 and is based in Lincolnshire, Illinois.",
+  "website": "http://www.cdw.com"
+}

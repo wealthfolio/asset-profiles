@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000PNV0"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000PNV0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CALZF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFJ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MFJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MFJ.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PNV.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PNV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PNV.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PolyNovo Limited",
+  "primary_symbol": "CALZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Polynovo Limited develops medical devices in the United States, Australia, New Zealand, and internationally. The company offers NovoSorb Biodegradable Temporising Matrix, which is used in a fully debrided clean surgical wound to physiologically close the wound. It is also developing Syntrel hernia devices for hernia repair; breast devices in partnership with Establishment Labs; NovoSorb dermal beta cell implant in collaboration with BetaCell Technologies Pty Ltd; and NovoSorb drug elution depots. The company was formerly known as Calzada Limited and changed its name to Polynovo Limited in November 2014. Polynovo Limited was incorporated in 1998 and is based in Port Melbourne, Australia.",
+  "website": "http://www.polynovo.com.au"
+}

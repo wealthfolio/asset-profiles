@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00NB5JD15",
+    "cusip": "41358P106",
+    "figi": "BBG00NB5JD88",
+    "isin": "US41358P1066"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US41358P1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5HT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5HT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HARP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5HT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5HT.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5HT.SI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HARPOON THERAPEUTICS",
+  "primary_symbol": "5HT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Harpoon Therapeutics is a clinical-stage immunotherapy company focused on developing novel T-cell engagers to treat cancer. Their proprietary TriTAC platform engineers antibodies that redirect a patient's own T-cells to kill tumor cells. The company is headquartered in South San Francisco, California.",
+  "website": "http://www.harpoontx.com"
+}

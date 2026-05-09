@@ -1,0 +1,32 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0104PPS09",
+    "figi": "BBG0104PPS63",
+    "isin": "CA89465L1040"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA89465L1040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TRUE.CN"
+    }
+  ],
+  "name": "Treatment.Com International Inc.",
+  "primary_symbol": "TRUE.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Treatment.Com International Inc. operates as a mobile health, telemedicine, and artificial intelligence (AI) company in Canada. The company offers MERLIN, a probabilistic medical reasoning engine to provide medical advice such that individuals can make decisions about available treatments for their health care problems; and GLM, a collaborative repository where care providers, researchers, and developers exchange and publish medical knowledge. It also provides CareBOT, an AI prompting agent mobile application platform for use by consumers; and ClinBOT, an enterprise clinic application for use as diagnostic tool for medical professionals. Treatment.Com International Inc. is headquartered in Vancouver, Canada.",
+  "website": "http://www.treatment.com"
+}

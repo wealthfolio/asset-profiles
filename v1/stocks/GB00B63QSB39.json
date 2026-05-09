@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000GP7QK9",
+    "figi": "BBG000GP9006",
+    "isin": "GB00B63QSB39"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "GB00B63QSB39",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "41G1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGGSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "41G1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "41G1.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GRG.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Greggs plc",
+  "primary_symbol": "41G1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Greggs plc operates as a bakery food-on-the-go retailer in the United Kingdom. It offers a range of fresh and frozen bakery products, sandwiches, and drinks. The company sells its products through its shops in travel, leisure, and work-centered catchments; and franchised shops operated by partners in travel and other convenience locations. It is also involved in the property holding, non-trading, and trustee businesses. As of December 28, 2019, the company operated 2,050 shops, which included 302 franchised shops. Greggs plc was founded in 1939 and is based in Newcastle upon Tyne, the United Kingdom.",
+  "website": "http://corporate.greggs.co.uk"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BZ03T1",
+    "figi": "BBG000BZ07H5",
+    "isin": "DE0005765507"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "DE0005765507",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XTP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XTP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XTP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XTP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XTP.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SINO AG",
+  "primary_symbol": "XTP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "SINO AG is a German agricultural company focusing on plant breeding, seed production, and the distribution of agricultural products. They develop and market seeds for various crops and provide agricultural consulting services to farmers. The company is headquartered in Germany.",
+  "website": "http://www.sino.de"
+}

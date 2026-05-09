@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000BW73J2",
+    "figi": "BBG000BW76R6",
+    "isin": "CNE1000003D8"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "CNE1000003D8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHX.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHX.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1071.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SHX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SHX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HUADIAN POWER INTL H YC 1",
+  "primary_symbol": "SHX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Huadian Power International Corporation Limited is a Chinese power generation company primarily engaged in the investment, construction, operation and management of power plants. It generates electricity through coal-fired, gas-fired, hydro and new energy power plants. The company is listed on the Hong Kong Stock Exchange.",
+  "website": "http://www.hdpi.com.cn"
+}

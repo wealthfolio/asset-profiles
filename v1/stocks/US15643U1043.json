@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BQ2JM1",
+    "cusip": "15643U104",
+    "figi": "BBG000BQ2JS5",
+    "isin": "US15643U1043"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US15643U1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LEU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4CU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4CU.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Centrus Energy Corp.",
+  "primary_symbol": "LEU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Centrus Energy Corp. supplies nuclear fuel and services for the nuclear power industry in the United States, Japan, Belgium, and internationally. The company operates in two segments, Low-Enriched Uranium (LEU) and Technical Solutions. The LEU segment sells separative work units (SWU) component of LEU; SWU and uranium components of LEU; and natural uranium for utilities that operate nuclear power plants. Its LEU is a component that is used in the production of nuclear fuel for reactors to produce electricity. The Technical Solutions segment offers technical, manufacturing, engineering, procurement, construction, and operations services to public and private sector customers, including the American Centrifuge engineering and testing activities. The company was formerly known as USEC Inc. and changed its name to Centrus Energy Corp. in September 2014. Centrus Energy Corp. was founded in 1998 and is headquartered in Bethesda, Maryland.",
+  "website": "http://www.centrusenergy.com"
+}

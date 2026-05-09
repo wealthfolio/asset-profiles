@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FHPJR7",
+    "figi": "BBG000FHPP39",
+    "isin": "JP3322930003"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3322930003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S3X.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S3X.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "S3X.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S3X.SG"
+    }
+  ],
+  "name": "SUMCO CORP.",
+  "primary_symbol": "S3X.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sumco Corporation is a Japanese silicon wafer manufacturer. The company produces silicon wafers for the semiconductor industry. Sumco is headquartered in Tokyo, Japan."
+}

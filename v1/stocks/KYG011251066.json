@@ -1,0 +1,48 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "identifiers": {
+    "composite_figi": "BBG00PT2JFF8",
+    "figi": "BBG00PT2JFM0",
+    "isin": "KYG011251066"
+  },
+  "industry": "Household Products",
+  "industry_group": "Consumer Services",
+  "isin": "KYG011251066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1AY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFYA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1AY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG011251066.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AFYA LTD. CL.A  DL-,00005",
+  "primary_symbol": "1AY.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Afya Ltd. is a medical education group that operates in Brazil. The company offers undergraduate and graduate programs in medicine and other healthcare fields, as well as continuing medical education courses. Afya is headquartered in Nova Lima, Brazil.",
+  "website": "http://www.afya.com.br"
+}

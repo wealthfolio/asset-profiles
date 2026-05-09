@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA56086L1022"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA56086L1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAKAF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MK0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA56086L1022.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MAKA.CN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MK0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MK0.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MAKARA MINING CORP",
+  "primary_symbol": "MAKAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Makara Mining Corp., a mineral exploration company, focuses on the acquisition, exploration, and development of gold properties. It holds an option to acquire the Rude Creek Property and Idaho Creek Property located in the Yukon; and the Kenora Gold Property located in Northwestern Ontario. The company was incorporated in 2019 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.makaramining.com"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "cusip": "134748102",
+    "isin": "US1347481020"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US1347481020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CANN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Canaan Inc.",
+  "primary_symbol": "CAN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Canaan Inc. engages in the research, design, and sale of integrated circuit (IC) final system products by integrating IC products for bitcoin mining and related components primarily in the People's Republic of China. It is also involved in the assembly of system products; and supply chain and distribution of system products. The company has a strategic cooperation with Northern Data AG in the areas of artificial intelligence development, blockchain technology, and datacenter operations. The company was founded in 2013 and is based in Hangzhou, the People's Republic of China.",
+  "website": "http://canaan-creative.com"
+}

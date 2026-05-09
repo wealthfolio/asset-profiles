@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3960.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Valuedesign Inc.",
+  "primary_symbol": "3960.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Valuedesign Inc. provides Valuecard ASP service in Japan. Valuecard ASP service is a system to issue and manage e-money, gift cards, and point cards. The company was founded in 2006 and is based in Tokyo, Japan.",
+  "website": "http://www.valuedesign.jp"
+}

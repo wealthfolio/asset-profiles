@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00ZV0D235",
+    "figi": "BBG00ZV0D280",
+    "isin": "FR0011884378"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "FR0011884378",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6SA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALUCI.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Lucibel SA",
+  "primary_symbol": "6SA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Lucibel SA designs, manufactures, and markets lighting products and solutions based on LED technology in France and internationally. It offers LiFi luminaire products; and LiFi technology, a light-based Internet access solution. The company was founded in 2008 and is based in Rueil-Malmaison, France.",
+  "website": "http://www.lucibel.io"
+}

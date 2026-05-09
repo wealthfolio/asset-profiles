@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG010C7SR63",
+    "figi": "BBG010C7SRF3",
+    "isin": "CA8263XP1041"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Materials",
+  "isin": "CA8263XP1041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "409.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "409.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA8263XP1041.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SJL.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SM.V"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SIERRA MADRE GOLD AND SIL",
+  "primary_symbol": "409.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SIERRA MADRE GOLD AND SILVER is a Canadian precious metals company focused on the exploration and development of gold and silver projects in Mexico. The company's primary asset is the La Guitarra silver-gold mine in the Temascaltepec Mining District. Its headquarters are located in Vancouver, British Columbia, Canada.",
+  "website": "http://sm-energy.com"
+}

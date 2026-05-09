@@ -1,0 +1,66 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "ES0137650018"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "ES0137650018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ILI.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4F1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4F1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLUIF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4F1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "FDR.MC"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "FDR.V"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FDRN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FLUIDRA SA FLUIDRA ORD SHS",
+  "primary_symbol": "0ILI.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fluidra, S.A. is a Spanish multinational company focused on the development, production, and distribution of equipment and connected solutions for the residential and commercial pool and wellness sector. They operate globally with a focus on innovation and sustainability. Fluidra, S.A. is headquartered in Sant Just Desvern, Barcelona, Spain.",
+  "website": "http://www.fluidra.com"
+}

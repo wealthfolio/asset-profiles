@@ -1,0 +1,43 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG009K1R8T7",
+    "figi": "BBG009K1R8V4",
+    "isin": "IT0003173629"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0003173629",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B2S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B2S.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BST.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Banca Sistema S.p.A.",
+  "primary_symbol": "B2S.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banca Sistema S.p.A. provides various business and retail banking products and services in Italy. The company offers factoring services that cover non-recourse and recourse factoring, VAT receivables, maturity factoring, receivables certifications, and credit management and recovery products; tax receivables management, maturity factoring, and the certification of receivables from the public administration; and online factoring. Its banking solutions include current accounts, and time and securities deposits; and salary and pension backed loans, and collateralized loans. The company's solutions also include zero cost current and deposit account; and a banking instrument that allows customers to keep and manage their investments. Banca Sistema S.p.A. was founded in 2011 and is based in Milan, Italy.",
+  "website": "http://www.bancasistema.it"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG005GBPMK8",
+    "figi": "BBG005GBPMQ2",
+    "isin": "JP3235900002"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "JP3235900002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G03.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUNGF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3765.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G03.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G03.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "GUNGHO ONLINE ENTMT",
+  "primary_symbol": "G03.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "GungHo Online Entertainment, Inc. plans, develops, operates, and distributes online computer games, smartphone applications, and console games. The company was formerly known as ONSale Co., Ltd. and changed its name to GungHo Online Entertainment, Inc. in August 2002. GungHo Online Entertainment, Inc. was founded in 1998 and is based in Tokyo, Japan.",
+  "website": "http://www.gungho.co.jp"
+}

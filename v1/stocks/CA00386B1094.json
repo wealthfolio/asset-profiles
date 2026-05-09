@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000CP4V61",
+    "figi": "BBG000CP66M6",
+    "isin": "CA00386B1094"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA00386B1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABST"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OU1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OU1.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ABST.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OU1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OU1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Absolute Software Corporation",
+  "primary_symbol": "ABST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Absolute Software Corporation develops, markets, and provides cloud-based endpoint visibility and control platform for the management and security of computing devices, applications, and data for enterprise and public sector organizations. The company offers the Absolute platform to provide the connectivity, visibility, and control of data and devices of the operating system; to recover automatically to a secure operational state without user intervention; to support various other security controls and productivity tools from decay and vulnerabilities; and to enable measurement of the health, compliance, and state of decay of endpoint security controls and productivity tools, as well as for reporting and analytics, geotechnology, and endpoint investigation and recovery applications. It also provides professional, technical support, and investigation services. The company markets its solutions through device original equipment manufacturers, distributors, and value added resellers, as well as directly to corporations, government entities, educational institutions, financial services, healthcare sectors, and consumers. It operates in North America, Europe, and Africa, as well as the Asia-Pacific and Latin American regions. Absolute Software Corporation was founded in 1993 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.absolute.com"
+}

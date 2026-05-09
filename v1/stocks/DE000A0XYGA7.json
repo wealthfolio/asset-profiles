@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BRBDY9",
+    "figi": "BBG000BRBKW5",
+    "isin": "DE000A0XYGA7"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A0XYGA7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTR1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTR1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTR1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JMU.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TTR1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TTR1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TTR1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TTR1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TECHNOTRANS SE NA O.N.",
+  "primary_symbol": "TTR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "technotrans SE develops, manufactures and sells system solutions for industrial applications, particularly in the areas of printing, plastics processing, and laser technology. Its core competencies include thermal management, filtration and separation technology, and application technology. technotrans SE is headquartered in Sassenberg, Germany.",
+  "website": "http://www.technotrans.de"
+}

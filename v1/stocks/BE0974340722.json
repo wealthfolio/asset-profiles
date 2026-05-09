@@ -1,0 +1,38 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00NBJSLY1",
+    "figi": "BBG00NBJSM24",
+    "isin": "BE0974340722"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "BE0974340722",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2SE.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "SEQUA.BR"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Sequana Medical NV",
+  "primary_symbol": "2SE.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Sequana Medical NV, a commercial stage medical device company, focuses on the development of treatment solutions for the management of fluid overload in liver disease, malignant ascites, and heart failure in Switzerland, Germany, and internationally. Its products include alfapump, a treatment solution for the management of liver refractory ascites and malignant ascites; and alfapump DSR, a fully implanted system for direct sodium removal therapy in patients with volume overload due to heart failure. The company was founded in 2006 and is headquartered in Ghent, Belgium.",
+  "website": "http://www.sequanamedical.com"
+}

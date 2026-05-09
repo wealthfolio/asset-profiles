@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "MODEL-B.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Modelon AB (publ)",
+  "primary_symbol": "MODEL-B.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Modelon AB (publ) provides systems modeling and simulation software solutions in Sweden and internationally. The company's flagship product is Modelon Impact, a cloud-native system simulation software platform with a browser-based interface, and models and components for various applications. It also offers Modelon Library Suite, a suite of libraries with industry needs and trends that can selectively be integrated into third-party CAE software products; and FMI Toolbox for MATLAB/Simulink that supports workflows in control system development and system integration for virtual prototyping. The company also provides consulting and training services. It serves automotive, aerospace, energy and power, industrial equipment, and academia and research industries. The company was founded in 2004 and is headquartered in Lund, Sweden.",
+  "website": "http://www.modelon.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "LU1834988278"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Energy",
+  "isin": "LU1834988278",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OIL"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "OIL.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "OIL.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "OIL.NS"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "iPath Pure Beta Crude Oil ETN",
+  "primary_symbol": "OIL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "iPath Pure Beta Crude Oil ETN (OIL) provides exposure to the Barclays WTI Crude Oil Pure Beta TR Index. The index reflects the returns potentially available through an unleveraged investment in the West Texas Intermediate (WTI) crude oil futures market. The ETN is designed to track a basket of crude oil futures contracts.",
+  "website": "http://www.optiscan.com"
+}

@@ -1,0 +1,42 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "865612105",
+    "isin": "US8656121055"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US8656121055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOMMF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOMMY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SMM.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Sumitomo Chemical Company, Limited",
+  "primary_symbol": "SOMMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sumitomo Chemical Company, Limited engages in the petrochemicals and plastics, energy and functional materials, IT-related chemicals, health and crop sciences, pharmaceuticals, and other businesses worldwide. Its Petrochemicals & Plastics segment offers synthetic resins, such as polyethylene, polypropylene, and polymethyl methacrylate resins; raw materials for synthetic fibers; and various industrial chemicals. The company's Energy & Functional Materials segment provides alumina and aluminum products used for energy products; polymer additives and rubber chemicals; synthetic rubber for tires, shoes, construction materials, and other applications; and engineering plastics and lithium-ion secondary battery materials for use in electronic components and next-generation vehicles. Its IT-Related Chemicals segment provides polarizing films, touch screen sensor panels, and color resists for LC and OLED displays; photoresists and high-purity chemicals for semiconductor manufacturing process; and compound semiconductor materials for antenna switches and other components of communication terminal equipment. The company's Health & Crop Sciences segment offers crop protection chemicals, fertilizers, feed additives, and household insecticides; active pharmaceutical ingredients and intermediates; and products to control infectious diseases. Its Pharmaceuticals segment provides prescription and diagnostic pharmaceuticals. The company's Others segment supplies electric power and steam; designs, constructs, and supervises chemical plants; provides transportation and warehousing services; and conducts physical property and environmental analysis. Sumitomo Chemical Company, Limited was founded in 1913 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.sumitomo-chem.co.jp"
+}

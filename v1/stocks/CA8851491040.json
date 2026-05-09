@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA8851491040"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8851491040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THXPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T2X.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "THX.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Thor Explorations Ltd.",
+  "primary_symbol": "THXPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Thor Explorations Ltd., a junior natural resources company, engages in the acquisition, exploration, and development of mineral properties in Senegal, Burkina Faso, Nigeria, and Canada. The company primarily explores for gold deposits. Its flagship property is the Segilola gold project located in Osun State, Nigeria. The company was incorporated in 1968 and is based in Vancouver, Canada.",
+  "website": "http://www.thorexpl.com"
+}

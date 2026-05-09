@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ECX-H.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EastCoal Inc.",
+  "primary_symbol": "ECX-H.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "EastCoal Inc. engages in the acquisition and development of mineral properties. The company was incorporated in 1986 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.eastcoal.ca"
+}

@@ -1,0 +1,61 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "CNE1000004J3"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "CNE1000004J3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSYHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSYHY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TVL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TVL.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0696.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TVL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TVL.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TravelSky Technology Limited",
+  "primary_symbol": "TSYHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TravelSky Technology Limited, together with its subsidiaries, provides information technology solutions for aviation and travel industry in the People's Republic of China. It primarily offers aviation information technology (AIT), distribution information technology, accounting, settlement, and clearing services. The company's AIT services consist of electronic travel distribution services, including inventory control system, computer reservation system, and airport passenger processing system services, as well as other related information technology solutions. It also provides cargo management services, as well as sells and installs related information systems; computer hardware and software development, and data network services; and computer system engineering design and installation services. TravelSky Technology Limited was incorporated in 2000 and is based in Beijing, the People's Republic of China.",
+  "website": "http://www.travelskyir.com"
+}

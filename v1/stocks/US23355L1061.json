@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00G7810H9",
+    "cusip": "23355L106",
+    "figi": "BBG00G7810S7",
+    "isin": "US23355L1061"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US23355L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2XT.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2XT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DXC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2XT.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "D1XC34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DXC.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DXC TECHNOLOGY CO. DL-,01",
+  "primary_symbol": "2XT.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DXC Technology Company provides information technology services and consulting. The company helps clients modernize their IT systems, optimize data architectures, and ensure security and scalability. DXC Technology is headquartered in Ashburn, Virginia.",
+  "website": "http://www.dxc.technology"
+}

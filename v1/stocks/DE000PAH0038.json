@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BCZ5F4",
+    "figi": "BBG000BCZ8F8",
+    "isin": "DE000PAH0038"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "DE000PAH0038",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAH3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAH3.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAH3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAH3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PAH3.DU"
+    }
+  ],
+  "name": "PORSCHE AUTOM.HLDG VZO",
+  "primary_symbol": "PAH3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Porsche Automobil Holding SE is a holding company with investments in the automotive industry, primarily Volkswagen AG. The company manages these investments and focuses on the strategic direction of the group. Porsche Automobil Holding SE is headquartered in Stuttgart, Germany."
+}

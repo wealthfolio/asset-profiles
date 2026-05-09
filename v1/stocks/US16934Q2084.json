@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000TXVX08",
+    "cusip": "16934Q208",
+    "figi": "BBG000TXVYV2",
+    "isin": "US16934Q2084"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US16934Q2084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4CR1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4CR1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4CR1.SG"
+    }
+  ],
+  "name": "CHIMERA INVESTMENT DL-,01",
+  "primary_symbol": "4CR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Chimera Investment Corporation is a real estate investment trust (REIT) that invests in residential mortgage-backed securities (RMBS), real estate-related securities, and other asset classes. The company's objective is to generate income for distribution to its stockholders from the spread between its interest income and borrowing costs. The company is headquartered in New York, NY."
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000RHK0F3",
+    "figi": "BBG000RHK2K3",
+    "isin": "KYG8813K1085"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "KYG8813K1085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNJ.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3933.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UNJ.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "UNITED LABS INTL  HD -,01",
+  "primary_symbol": "UNJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CHIeru Co.,Ltd. produces ICT environments for teaching and learning in schools in Japan and internationally. Its services include software and system products, teaching and learning resources, and strategic consulting for school ICT environments in primary and higher education. The company offers CaLabo EX, a computer-assisted digital language lab solution; InterCLASS Cloud, a cloud-based classroom management system; CaLabo LX software to support teacher and student activities in PC labs, classrooms, and libraries; and CaLabo TX, a classroom management system for tablet PCs. It also provides S300-AV, a hardware-based screen and audio sharing system; and S300-HD, a digital video/sound transfer system. The company was founded in 2006 and is based in Tokyo, Japan.",
+  "website": "http://www.chieru.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00XH58XR7",
+    "figi": "BBG00XH58XX0",
+    "isin": "SE0014035762"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "SE0014035762",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1TI.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1TI.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EXS.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EXSITEC HOLDING AB",
+  "primary_symbol": "1TI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Exsitec Holding AB (publ) provides information technology support services in Sweden. It offers business systems, decision support, digitization and tailored business applications. The company was founded in 2000 and is based in Link√É¬∂ping, Sweden.",
+  "website": "http://www.exsitec.se"
+}

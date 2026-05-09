@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BVJ702",
+    "figi": "BBG000BVJ8B8"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Investors Real Estate Trust",
+  "primary_symbol": "CSR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "IRET is a real estate company focused on the ownership, management, acquisition, redevelopment, and development of apartment communities. As of September 30, 2020, we owned interests in 67 apartment communities consisting of 11,910 apartment homes. IRET's common shares and Series C preferred shares are publicly traded on the New York Stock Exchange (NYSE symbols: \"IRET\" and \"IRET PC,\" respectively).",
+  "website": "http://www.centerspacehomes.com"
+}

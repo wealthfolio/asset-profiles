@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA0019401052"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "CA0019401052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATSAF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ATA.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ATO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ATO.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ATS AUTOMAT. TOOL.SYS INC",
+  "primary_symbol": "ATO.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ATS Automation Tooling Systems Inc. designs, manufactures, and services custom automation and tooling systems. The company provides solutions for a variety of industries including life sciences, transportation, and consumer products. ATS Automation is headquartered in Cambridge, Ontario, Canada.",
+  "website": "http://www.atsautomation.com"
+}

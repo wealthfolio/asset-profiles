@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00JRND548",
+    "cusip": "74365U107",
+    "figi": "BBG00JRND5B0",
+    "isin": "US74365U1079"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US74365U1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1KPA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1KPA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TARA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1KPA.F"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "TARA.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US74365U1079.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PROTARA THERAPEUT.DL-,001",
+  "primary_symbol": "1KPA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Protara Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing transformative therapies for rare diseases and cancer. Their lead program is TARA-002, an investigational cell-based therapy for non-muscle invasive bladder cancer. TICKER: Protara Therapeutics, Inc. is a clinical-stage biopharmaceutical company focused on developing transformative therapies for rare diseases and cancer, with TARA-002 as their lead program.",
+  "website": "http://www.protaratx.com"
+}

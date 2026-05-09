@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008H58CR8",
+    "cusip": "21900C308",
+    "figi": "BBG008H58CY0",
+    "isin": "US21900C3088"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US21900C3088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "19KA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "19KA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRMD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "19KA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "19KA.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "CRMD.BA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CorMedix Inc.",
+  "primary_symbol": "19KA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CorMedix Inc., a biopharmaceutical company, focuses on developing and commercializing therapeutic products for the prevention and treatment of infectious and inflammatory diseases in the United States and internationally. It primarily focuses on the development of its lead product candidate DefenCath/Neutrolin, an anti-infective solution for the reduction and prevention of catheter-related infections and thrombosis in patients requiring central venous catheters in clinical settings, such as hemodialysis, total parenteral nutrition, and oncology. The company was formerly known as Picton Holding Company, Inc. and changed its name to CorMedix, Inc. in January 2007. CorMedix Inc. was incorporated in 2006 and is based in Berkeley Heights, New Jersey.",
+  "website": "http://www.cormedix.com"
+}

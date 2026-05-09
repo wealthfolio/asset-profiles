@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG007GMYC68",
+    "figi": "BBG007GMYCD0",
+    "isin": "CA83571A1021"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA83571A1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "23SP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "23SP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMOFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "23SP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA83571A1021.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SGO.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Sonoro Gold Corp.",
+  "primary_symbol": "23SP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sonoro Gold Corp., an exploration stage company, engages in the acquisition, exploration, and development of mineral properties in Mexico. The company primarily explores for gold and silver. It has an option to earn a 100% interest in its flagship the Cerro Caliche Group of Concessions that covers an area of approximately 1,400 hectares located in the municipality of Cucurpe, Mexico. The company was formerly known as Sonoro Metals Corp. and changed its name to Sonoro Gold Corp. in August 2020. Sonoro Gold Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://www.sonorogold.com"
+}

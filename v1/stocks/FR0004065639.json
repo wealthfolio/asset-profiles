@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000Q5B809",
+    "isin": "FR0004065639"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0004065639",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0004065639.SG"
+    }
+  ],
+  "name": "NSE",
+  "primary_symbol": "FR0004065639.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NSE is a company that provides electronic manufacturing services (EMS) for various industries. They offer services like PCB assembly, testing, and system integration; headquarters are located in France. NSE caters to sectors such as aerospace, defense, and medical."
+}

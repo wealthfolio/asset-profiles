@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "FASTPC.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FastPassCorp A/S",
+  "primary_symbol": "FASTPC.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "FastPassCorp A/S provides enterprise password management solutions for enterprises and managed service providers in Denmark. It offers Fastpass Enterprise Password Manager for password self-service and compliance for corporations; Facilitated Password Reset for the service desk process; Fastpass Cloud Password Manager, a Web based password manager for medium and large companies who want to improve productivity and security related to password self-service processes; MSP password management self-service; and password synchronization solutions. The company was founded in 2000 and is based in Gladsaxe, Denmark.",
+  "website": "http://www.fastpasscorp.com"
+}

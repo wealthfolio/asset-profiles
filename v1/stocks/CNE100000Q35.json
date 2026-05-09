@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG0015K23L5",
+    "figi": "BBG0015K23S8",
+    "isin": "CNE100000Q35"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "CNE100000Q35",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "02G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "02G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GNZUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "02G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "02G.SG"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2238.HK"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "601238.SS"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "GUANGZHOU AUTO.GRP H YC 1",
+  "primary_symbol": "02G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "GUANGZHOU AUTO.GRP H YC 1 is a Chinese automobile manufacturer that produces a wide range of vehicles, including passenger cars, commercial vehicles, and buses. The company operates through various brands, including GAC Motor and GAC Toyota. Guangzhou Automobile Group Co., Ltd. is headquartered in Guangzhou, China.",
+  "website": "http://www.gac.com.cn"
+}

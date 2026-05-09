@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BX47N9",
+    "figi": "BBG000BX4C85",
+    "isin": "TH0083010R14"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "TH0083010R14",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NVAK.SG"
+    }
+  ],
+  "name": "THANACHART CAP.-NVDR-BA10",
+  "primary_symbol": "NVAK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Thanachart Capital PCL is a financial holding company in Thailand with investments in banking, insurance, and securities businesses. The company operates through its subsidiaries, providing a range of financial services to individuals and corporate clients. Thanachart Capital PCL is headquartered in Bangkok, Thailand."
+}

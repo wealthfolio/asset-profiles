@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "JPM2.L"
+    }
+  ],
+  "name": "Leverage Shares 2x JPMorgan ETC A",
+  "primary_symbol": "JPM2.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Commodity (ETC) designed to provide 2x leveraged exposure to the daily performance of JPMorgan Chase & Co stock, meaning it aims to double the daily percentage changes of the underlying stock. It is issued by Leverage Shares Public Limited Company and traded on the London Stock Exchange."
+}

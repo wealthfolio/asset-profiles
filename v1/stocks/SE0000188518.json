@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "SE0000188518"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0000188518",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CATB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKVB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKVB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RL4.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "209A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SKVB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SKVB.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Catabasis Pharmaceuticals, Inc.",
+  "primary_symbol": "CATB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Catabasis Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the discovery, development, and commercialization of therapeutics in the United States. The company's lead product candidate is QLS-215, a monoclonal antibody inhibitor of plasma kallikrein that is in preclinical development for the treatment of hereditary angioedema, a rare, debilitating and potentially life-threatening disease. The company was incorporated in 2008 and is based in Boston, Massachusetts.",
+  "website": "http://www.catabasis.com"
+}

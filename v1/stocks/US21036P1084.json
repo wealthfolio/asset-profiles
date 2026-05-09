@@ -1,0 +1,45 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GLJ2B8",
+    "cusip": "21036P108",
+    "figi": "BBG000GLJ5J3",
+    "isin": "US21036P1084"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US21036P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CB1A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CB1A.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CB1A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CB1A.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CONST.BRANDS A  DL-,01",
+  "primary_symbol": "CB1A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Constellation Brands Inc. is a beverage alcohol company that produces and markets beer, wine, and spirits. The company's portfolio includes brands such as Corona, Modelo, and Kim Crawford. Constellation Brands is headquartered in Victor, New York."
+}

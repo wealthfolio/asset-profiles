@@ -1,0 +1,41 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "JP3690400001"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3690400001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5302.TWO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NPV.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Syntek Semiconductor Co., Ltd.",
+  "primary_symbol": "5302.TWO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Syntek Semiconductor Co., Ltd. operates as a fabless IC design company in Asia. It offers car DVRs/miniDVs, PC/NB camera controllers, and microcontrollers, as well as wireless solutions. The company also develops products for photo capturing and video recording applications. In addition, it offers wireless IP connected multimedia recording solutions; and system-on-chip solutions. The company was founded in 1983 and is headquartered in Taipei, Taiwan.",
+  "website": "http://www.stk.com.tw"
+}

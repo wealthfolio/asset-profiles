@@ -1,0 +1,26 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "ACCB.BR"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Accentis N.V.",
+  "primary_symbol": "ACCB.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Accentis N.V. is a holding company that specializes in providing business services, specifically focusing on IT solutions and staffing services to various companies, with their headquarters in Belgium",
+  "website": "http://www.accentis.com"
+}

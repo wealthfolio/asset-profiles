@@ -1,0 +1,56 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0010907956"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0010907956",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CKMTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CXT.MU"
+    },
+    {
+      "currency": "TRY",
+      "exchange_mic": "XIST",
+      "symbol": "ALCAR.IS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALCAR.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CXT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CXT.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Carmat SA",
+  "primary_symbol": "CKMTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Carmat SA designs and develops total artificial heart for people suffering from end-stage biventricular heart failure in France and internationally. It also develops orthotopic, bioprosthetic, self-regulating, pulsatile, and implantable systems, as well as power supply systems. The company was founded in 2008 and is based in V√É¬©lizy-Villacoublay, France.",
+  "website": "http://www.carmatsa.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0052BH789",
+    "figi": "BBG0052BH7M3",
+    "isin": "CA8934631091"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "CA8934631091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0TA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRSWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0TA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0TA.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "RNW.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TransAlta Renewables Inc.",
+  "primary_symbol": "0TA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "TransAlta Renewables Inc. develops, owns, and operates renewable power generation facilities. As of March 3, 2021, it owned and operated 23 wind facilities, 13 hydroelectric facilities, 7 natural gas generation facilities, 1 solar facility, 1 natural gas pipeline, and 1 battery storage comprising an ownership interest of 2,537 megawatts of generating capacity located in the provinces of British Columbia, Alberta, Ontario, Qu√É¬©bec, and New Brunswick; and the States of Wyoming, Massachusetts, and Minnesota, as well as the State of Western Australia. The company was incorporated in 2013 and is headquartered in Calgary, Canada. TransAlta Renewables Inc. is a subsidiary of TransAlta Corporation.",
+  "website": "http://www.transaltarenewables.com"
+}

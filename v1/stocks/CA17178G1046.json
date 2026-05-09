@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GCTJ7V7",
+    "figi": "BBG00GCTJ818",
+    "isin": "CA17178G1046"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Energy",
+  "isin": "CA17178G1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C36.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CWSFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C36.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CMC.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CMC.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CIELO WASTE SOLUT.",
+  "primary_symbol": "C36.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "CIELO WASTE SOLUT. is focused on converting landfill garbage into renewable fuels. Their headquarter is located in Canada.",
+  "website": "http://www.cielows.com"
+}

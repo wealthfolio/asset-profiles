@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NAPA.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Napatech A/S",
+  "primary_symbol": "NAPA.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Napatech A/S provides reconfigurable computing solutions for network performance and cybersecurity applications worldwide. It provides Link Capture Software that enables packet capture with nanosecond timestamping and replay with precise inter-frame gap control; Link Virtualization Software that offloads and accelerates the Open vSwitch (OVS) dataplane to enhance CPU efficiency, scalability and network performance; and Link Programmable, which enables end users and OEMs to deploy FPGA IP on SmartNIC platform. The company also offers FPGA SmartNICs that captures data from networks enabling real-time insight into network traffic; and FPGA Cloud Crypto, a cryptography engine that provides technology demonstration and playground for users to learn, experiment, and adapt use cases for FPGA-based crypto offload. It also provides solutions for telecom operators, cloud and data center service providers, and infrastructure and defense, as well as cyber security, financial services, and network management industries. The company was founded in 2003 and is headquartered in Copenhagen, Denmark.",
+  "website": "http://www.napatech.com"
+}

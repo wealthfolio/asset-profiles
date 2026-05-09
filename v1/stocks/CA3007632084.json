@@ -1,0 +1,73 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001KNN9G2",
+    "figi": "BBG001KNN9N4",
+    "isin": "CA3007632084"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA3007632084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3XS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXMGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3XS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3XS.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MIN-WT.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "MIN.AT"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MIN.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MIN.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Excelsior Mining Corp.",
+  "primary_symbol": "3XS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Excelsior Mining Corp., together with its subsidiaries, engages in the acquisition, exploration, evaluation, and development of mineral properties in the United States and Canada. It holds a 100% interest in the Gunnison copper project covering an area of approximately 3,869 hectares located in Cochise County, Arizona; and the Johnson Camp Mine located in Arizona. The company was incorporated in 2005 and is headquartered in Phoenix, Arizona.",
+  "website": "http://www.excelsiormining.com"
+}

@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001NV80F8",
+    "cusip": "29760G103",
+    "figi": "BBG001NV80M0",
+    "isin": "US29760G1031"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US29760G1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2ET.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2ET.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2ET.SG"
+    }
+  ],
+  "name": "ETALON GROUP GDR REGS 1",
+  "primary_symbol": "2ET.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Etalon Group PLC is a Russian residential development and construction company that focuses on developing and selling middle class residential real estate in Moscow, the Moscow region, and St. Petersburg. The company’s activities include pre-construction design, construction, and sales and marketing of apartments, townhouses, and cottages. Etalon Group is headquartered in St. Petersburg, Russia."
+}

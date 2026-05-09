@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BGWD61",
+    "cusip": "832154207",
+    "figi": "BBG000BGWLF3",
+    "isin": "US8321542073"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US8321542073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMSI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SS91.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SS91.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8321542073.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Smith Micro Software, Inc.",
+  "primary_symbol": "SMSI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Smith Micro Software, Inc. develops and sells software to enhance the mobile experience to wireless and cable service providers worldwide. The company provides SafePath Family, SafePath IoT, and SafePath Home product suite that offers tools to protect digital lifestyles and manage connected devices inside and outside the home; and CommSuite that allows users to manage voice messages, as well as voice-to-text transcription messaging. In addition, the company provides ViewSpot, a retail display management platform that provides on-screen and interactive demos to wireless carriers and retailers, as well as technical support and customer services. Smith Micro Software, Inc. was founded in 1982 and is headquartered in Pittsburgh, Pennsylvania.",
+  "website": "http://www.smithmicro.com"
+}

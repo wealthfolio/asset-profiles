@@ -1,0 +1,58 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00VC8L3Y3",
+    "figi": "BBG00VC8L444",
+    "isin": "FI4000330972"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FI4000330972",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4YL.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4YL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4YL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FI4000330972.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "NANOFH.HE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "NANOFS.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NANOFORM FINLAND OYJ",
+  "primary_symbol": "4YL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Nanoform Finland Oyj is a pharmaceutical nanotechnology company headquartered in Helsinki, Finland. The company focuses on nanoparticle medicine and aims to improve drug efficacy and patient outcomes through its proprietary technology. Nanoform offers services to pharmaceutical companies for drug particle engineering and formulation development.",
+  "website": "http://www.nanoform.com"
+}

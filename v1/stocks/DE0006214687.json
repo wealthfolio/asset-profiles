@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BDR6X9",
+    "figi": "BBG000BDRBN9",
+    "isin": "DE0006214687"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "DE0006214687",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLL.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MLL.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MLL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MLL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MLL.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MUELLER-LILA LOG. INH ON",
+  "primary_symbol": "MLL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "M√É¬ºller - Die lila Logistik AG provides consulting and implementation logistics services. The company offers inventory reduction/working capital management, service provider management, logistics cockpit, material flow planning, network and transport analysis, outsourcing strategy, make or buy analysis, simulation, strategic supplier integration, supply chain security, and supply chain audit services, as well as contract and transport logistics, and value added services. It serves automotive, medical and pharma, consumer goods, industrial, and electronics sectors. The company was founded in 1991 and is headquartered in Besigheim, Germany.",
+  "website": "http://www.lila-logistik.com/de"
+}

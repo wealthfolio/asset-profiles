@@ -1,0 +1,35 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "isin": "XS2305051109"
+  },
+  "industry": "Banks",
+  "industry_group": "Diversified Financials",
+  "isin": "XS2305051109",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SFNG.L"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "SFNP.JO"
+    }
+  ],
+  "name": "GraniteShares 1x Short FAANG Daily ETC",
+  "primary_symbol": "SFNG.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "GraniteShares 1x Short FAANG Daily ETC is an exchange-traded commodity (ETC) designed to provide the inverse (-1x) daily performance of an index composed of FAANG stocks (Facebook/Meta, Apple, Amazon, Netflix, and Google/Alphabet). This ETC is designed for short-term trading and not for long-term investment. The company is based in the UK.",
+  "website": "http://www.sasfin.com"
+}

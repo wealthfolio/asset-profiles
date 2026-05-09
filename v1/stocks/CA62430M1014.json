@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA62430M1014"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA62430M1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MVMDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA62430M1014.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MVMD.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Mountain Valley MD Holdings Inc.",
+  "primary_symbol": "MVMDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mountain Valley MD Holdings Inc., through its subsidiary, Mountain Valley MD Inc., operates as a health and wellness company. The company engages in the implementation of its Quicksome oral drug formulation and delivery technologies with the intention of licensing to pharmaceutical, vaccine, and nutraceutical third parties. Its Quicksome desiccation technology utilizes advanced liposomes and other stabilizing molecules to encapsulate and formulate active ingredients into highly efficient product formats that are consumed orally. The company applies its Quicksome technology to its work for the oral delivery of vaccines and pharmaceutical drugs, as well as the development of products for pain management, weight loss, energy, focus, sleep, anxiety, and others. Mountain Valley MD Holdings Inc. is headquartered in Vaughan, Canada.",
+  "website": "http://www.mountainvalleymd.com"
+}

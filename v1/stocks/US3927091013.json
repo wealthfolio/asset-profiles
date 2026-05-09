@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000RGJ4K3",
+    "cusip": "392709101",
+    "figi": "BBG000RGJ682",
+    "isin": "US3927091013"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Retailing",
+  "isin": "US3927091013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2G1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GRBK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2G1.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GREEN BRICK PART.  DL-,01",
+  "primary_symbol": "2G1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Green Brick Partners, Inc. is a homebuilding and land development company. They are engaged in the acquisition and development of land, and the construction and sale of single-family homes in various markets. Green Brick Partners is headquartered in Plano, Texas.",
+  "website": "http://greenbrickpartners.com"
+}

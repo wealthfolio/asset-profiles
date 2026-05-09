@@ -1,0 +1,51 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0010283211"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "NO0010283211",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JI3.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "HUNT.CN"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HUNT.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HUNTO.OL"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0010283211.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Hunter Group ASA",
+  "primary_symbol": "0JI3.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Hunter Group ASA, an investment company, primarily focuses on the shipping and oil services investments in Norway and internationally. The company develops VLCC construction contracts and options. As of December 31, 2020, its fleet consisted of five identical VLCCs. The company was formerly known as Badger Explorer ASA and changed its name to Hunter Group ASA in May 2017. Hunter Group ASA was founded in 2003 and is headquartered in Oslo, Norway.",
+  "website": "http://www.huntergroup.no"
+}

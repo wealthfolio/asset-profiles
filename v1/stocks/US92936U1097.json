@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BCQM58",
+    "cusip": "92936U109",
+    "figi": "BBG000BCQPL3",
+    "isin": "US92936U1097"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US92936U1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPY.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LS8.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "WPC.MX"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "WPC.SI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WPY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WPY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WPY.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "W. P. Carey Inc.",
+  "primary_symbol": "WPC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "W. P. Carey ranks among the largest net lease REITs with an enterprise value of approximately $18 billion and a diversified portfolio of operationally-critical commercial real estate that includes 1,215 net lease properties covering approximately 142 million square feet as of September 30, 2020. For nearly five decades, the company has invested in high-quality single-tenant industrial, warehouse, office, retail and self-storage properties subject to long-term net leases with built-in rent escalators. Its portfolio is located primarily in the U.S. and Northern and Western Europe and is well-diversified by tenant, property type, geographic location and tenant industry.",
+  "website": "http://www.wpcarey.com"
+}

@@ -1,0 +1,42 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000F7NP79",
+    "figi": "BBG000F7NT80",
+    "isin": "CA8787423034"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Materials",
+  "isin": "CA8787423034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPT.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TPT.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TPT.SG"
+    }
+  ],
+  "name": "TECK RESOURCES LTD. A",
+  "primary_symbol": "TPT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Teck Resources Limited is a diversified resource company committed to responsible mining and mineral development with major business units focused on copper, zinc, and steelmaking coal. The company operates in Canada, the United States, Chile, and Peru. Teck Resources is headquartered in Vancouver, British Columbia.",
+  "website": "http://www.toppstiles.co.uk"
+}

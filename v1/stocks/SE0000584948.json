@@ -1,0 +1,51 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0000584948"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "SE0000584948",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0GQE.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OHCB.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OHCB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OHCB.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SE0000584948.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CLAS OHLSON AB CLAS OHLSON ORD",
+  "primary_symbol": "0GQE.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Clas Ohlson AB is a Swedish retail company that sells hardware, electrical, multimedia, home and leisure products. The company operates through its stores and online channels. Clas Ohlson is headquartered in Insjön, Sweden.",
+  "website": "http://www.clasohlson.com"
+}

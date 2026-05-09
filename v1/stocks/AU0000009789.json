@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU0000009789"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "AU0000009789",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4B5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4B5.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4B5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU0000009789.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PENDAL GROUP LTD",
+  "primary_symbol": "4B5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Pendal Group Ltd is an Australian investment management firm that provides investment strategies and products to institutions, wholesale clients, and retail investors. They offer a range of investment solutions across various asset classes, including equities, fixed income, and multi-asset strategies. The company is headquartered in Sydney, Australia.",
+  "website": "http://www.pendalgroup.com"
+}

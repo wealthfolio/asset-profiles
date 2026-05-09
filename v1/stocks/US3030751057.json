@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000MTHCR7",
+    "cusip": "303075105",
+    "figi": "BBG000MTHK80",
+    "isin": "US3030751057"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Software & Services",
+  "isin": "US3030751057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FA1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FA1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FDS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FA1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FA1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FA1.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "FACTSET RESH SYS  DL-,01",
+  "primary_symbol": "FA1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "FactSet Research Systems Inc. provides integrated financial information, analytical applications, and industry-leading service to the global investment community. The company delivers its services primarily through its proprietary online platform. FactSet is headquartered in Norwalk, Connecticut.",
+  "website": "http://www.factset.com"
+}

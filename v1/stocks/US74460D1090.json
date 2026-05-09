@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "74460D109",
+    "isin": "US74460D1090"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US74460D1090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PSA.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Portale Sardegna S.p.A.",
+  "primary_symbol": "PSA.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Portale Sardegna S.p.A., a tour operator, operates a Website to book holidays in Sardinia. The company partners with a network of hotels, resorts, and aparthotels. Portale Sardegna S.p.A. was founded in 2000 and is based in Nuoro, Italy.",
+  "website": "http://www.portalesardegna.com"
+}

@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Z5HC1M9",
+    "isin": "FR0013514114"
+  },
+  "industry_group": "Energy",
+  "isin": "FR0013514114",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013514114.SG"
+    }
+  ],
+  "name": "EUROPLASMA",
+  "primary_symbol": "FR0013514114.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "EUROPLASMA is a French company specializing in the development and implementation of plasma gasification technologies for waste treatment and renewable energy production. Their solutions aim to convert various types of waste into syngas, a clean energy source, reducing landfill waste and producing electricity. EUROPLASMA is headquartered in Pessac, France."
+}

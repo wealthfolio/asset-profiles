@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00328GGV6",
+    "figi": "BBG00328GH17",
+    "isin": "PLBH00000012"
+  },
+  "industry_group": "Banks",
+  "isin": "PLBH00000012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6HW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6HW.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6HW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6HW.SG"
+    }
+  ],
+  "name": "BK HANDLOWY W WARS.  ZY 4",
+  "primary_symbol": "6HW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BK HANDLOWY W WARS. ZY 4 is a Polish commercial bank offering a wide range of financial services to individual and corporate clients. The bank provides services including retail banking, corporate banking, investment banking and asset management. Bank Handlowy w Warszawie is a part of Citigroup and is headquartered in Warsaw, Poland."
+}

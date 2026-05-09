@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "57055L107",
+    "isin": "US57055L1070"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US57055L1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GX1N.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GX1N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GX1N.SG"
+    }
+  ],
+  "name": "MARKER THERAPEUT.  DL-,01",
+  "primary_symbol": "GX1N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Marker Therapeutics Inc. is a clinical-stage immuno-oncology company specializing in the development of novel T cell-based immunotherapies for the treatment of hematological malignancies and solid tumors. The company is developing multi-tumor associated antigen (multiTAA)-specific T cell therapies. Marker Therapeutics Inc. is headquartered in Houston, Texas."
+}

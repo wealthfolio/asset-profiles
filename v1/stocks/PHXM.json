@@ -1,0 +1,26 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PHXM"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PHAXIAM Therapeutics S.A.. American Depositary Shares",
+  "primary_symbol": "PHXM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Phaxiam Therapeutics S.A. (formerly TxCell SA) is a French biotechnology company developing cellular immunotherapies for autoimmune and inflammatory diseases. Their research focuses on using T-regulatory lymphocytes (Tregs) to restore immune balance. The company is headquartered in Nice, France."
+}

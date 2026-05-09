@@ -1,0 +1,27 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KYOTO.OL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Kyoto Group AS",
+  "primary_symbol": "KYOTO.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kyoto Group AS offers thermal batteries for industrial applications in Norway. Its solution captures and manages energy from renewable energy sources, such as solar and wind. The company focuses on to offer HeatCube thermal batteries with capacity ranging from 5 MW that enable industrial consumption of heat sourced from excess solar and wind energy. The company was founded in 2016 and is based in Oslo, Norway.",
+  "website": "http://www.kyoto.group"
+}

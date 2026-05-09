@@ -1,0 +1,37 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0045ZJP39",
+    "figi": "BBG01041XK28",
+    "isin": "CA55940P1018"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA55940P1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MAGT.TO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "MAGT.V"
+    }
+  ],
+  "name": "Magnet Forensics Inc.",
+  "primary_symbol": "MAGT.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Magnet Forensics Inc. develops data analytics software used for digital forensics investigations to public sector and private enterprises in Canada and internationally. Its software acquires, analyzes, reports on, and manages evidence from digital sources, including computers, mobile devices, IoT devices, and cloud services. The company offers Magnet AXIOM, a digital investigations platform to recover digital evidence from multiple digital evidence sources; Magnet AXIOM CYBER, a digital forensics and incident response solution for businesses that need to perform remote acquisitions, and collect and analyze evidence from computers, cloud, and mobile devices; and Magnet OUTRIDER, a digital evidence triage tool used at crime scenes to scan digital media for the presence of CSAM. It also provides Magnet AUTOMATE, an orchestration and automation tool to enable law enforcement agencies to create automated and repeatable digital evidence processing workflows; Magnet REVIEW to securely share the digital evidence via a single web-based platform; Magnet ATLAS, a workflow orchestration tool to manage cases, generate real-time reports, and track digital investigations; Magnet IGNITE, a cloud-based early case assessment triage tool; and Magnet Digital Investigation Suite that transform digital investigations with analytics and collaborate agency-wide, securely, and at scale. Its software products are used by various law enforcement agencies, government departments, and corporations in approximately 90 countries. The company was formerly known as JADsoftware Inc. and changed its name to Magnet Forensics Inc. in August 2012. Magnet Forensics Inc. was founded in 2010 and is headquartered in Waterloo, Canada.",
+  "website": "http://www.magnetforensics.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CCR.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Credit Clear Limited",
+  "primary_symbol": "CCR.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Credit Clear Limited, a fin-tech company, develops an online mobile payment platform. It offers receivables management solutions; and debt recovery services, as well as outsourced call handling, overflow assistance, financial hardship management, skip tracing, and field services. The company was incorporated in 2015 and is based in Southbank, Australia.",
+  "website": "http://www.creditclear.com.au"
+}

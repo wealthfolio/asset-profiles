@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "LU1598690169"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "LU1598690169",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EMV.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "VAL.BO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VAL.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EMvision Medical Devices Limited",
+  "primary_symbol": "EMV.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "EMvision Medical Devices Limited engages in the research, development, and commercialization of imaging and diagnostic technology for the purpose of commercializing portable medical device for stroke diagnosis and monitoring, and other medical imaging needs. The company has a strategic collaboration with Keysight Technologies Malaysia Sdn Bhd to develop a personalized vector network analysis solution for medical imaging in the healthcare sector. EMvision Medical Devices Limited was founded in 2017 and is based in Macquarie Park, Australia.",
+  "website": "http://www.emvision.com.au"
+}

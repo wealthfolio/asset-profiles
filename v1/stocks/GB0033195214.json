@@ -1,0 +1,52 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BZKH81",
+    "figi": "BBG000BZKL82",
+    "isin": "GB0033195214"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Retailing",
+  "isin": "GB0033195214",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KFI1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KFI1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KFI1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KFI1.DU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "KGF.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "KINGFISHER  LS-,157142857",
+  "primary_symbol": "KFI1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Kingfisher plc is a British multinational retailing company that offers home improvement and gardening products. It operates through various retail brands, including B&Q and Screwfix, across Europe. The company is headquartered in London, UK."
+}

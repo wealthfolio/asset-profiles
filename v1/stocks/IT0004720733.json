@@ -1,0 +1,56 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004720733"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Utilities",
+  "isin": "IT0004720733",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0P3O.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ARN.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ARN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ARN.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FCW3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FCW3.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Alerion Clean Power S.p.A.",
+  "primary_symbol": "0P3O.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Alerion Clean Power S.p.A. engages in the production of electricity through wind power in Italy. It has wind power plants located in Krupen, Bulgaria; and Comiolica SL, Spain. The company is based in Milan, Italy. Alerion Clean Power S.p.A. is a subsidiary of FRI-EL Green Power S.p.A.",
+  "website": "http://www.alerion.it"
+}

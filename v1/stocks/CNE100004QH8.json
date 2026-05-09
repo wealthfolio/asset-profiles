@@ -1,0 +1,31 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "CNE100004QH8"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "CNE100004QH8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9889.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JBCC Holdings Inc.",
+  "primary_symbol": "9889.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "JBCC Holdings Inc. provides IT-related services in Japan. The company's services include consulting, application development, system development, operation, maintenance, monitoring, and outsourcing. It also develops and markets software, and provides printing and cloud services, as well as provides customized hardware; and offers staff services. The company was founded in 1964 and is headquartered in Tokyo, Japan",
+  "website": "http://www.jbcchd.co.jp"
+}

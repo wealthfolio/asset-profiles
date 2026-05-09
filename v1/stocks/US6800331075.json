@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000KFW1C2",
+    "cusip": "680033107",
+    "figi": "BBG000KFWH00",
+    "isin": "US6800331075"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US6800331075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ONB"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ON1.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Old National Bancorp",
+  "primary_symbol": "ONB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Old National Bancorp operates as the bank holding company for Old National Bank that provides various financial services to individual and commercial customers in the United States. The company accepts deposit accounts, including noninterest-bearing demand, interest-bearing checking, negotiable order of withdrawal, savings and money market, and time deposits; and offers loans, such as home equity lines of credit, residential real estate loans, consumer loans, commercial loans, commercial real estate loans, letters of credit, and lease financing. It also provides debit and automated teller machine cards, telephone access, online banking, and other electronic and mobile banking services; cash management, private banking, brokerage, trust, investment advisory, and other traditional banking services; wealth management, investment, and foreign currency services; and treasury management, merchant, health savings, and capital markets services, as well as community development lending and equity investment solutions. As of December 31, 2020, the company operated a total of 162 banking centers located primarily in the states of Indiana, Kentucky, Michigan, Minnesota, and Wisconsin. Old National Bancorp was founded in 1834 and is headquartered in Evansville, Indiana.",
+  "website": "http://www.oldnational.com"
+}

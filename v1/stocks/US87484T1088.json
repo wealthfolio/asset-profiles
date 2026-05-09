@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KXRFYZ0",
+    "cusip": "87484T108",
+    "figi": "BBG00KXRFZ50",
+    "isin": "US87484T1088"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US87484T1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7T2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7T2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TALO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7T2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Talos Energy Inc.",
+  "primary_symbol": "7T2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Talos Energy Inc., an independent exploration and production company, focuses on the exploration and production of oil and natural gas properties in the United States Gulf of Mexico and offshore Mexico. As of December 31, 2020, the company had proved reserves of 163.0 million barrels of oil equivalent, consisting of 109,307 thousand barrels of crude oil, 257,208 million cubic feet of natural gas, and 10,858 thousand barrels of crude oil. The company was founded in 2011 and is based in Houston, Texas.",
+  "website": "http://www.talosenergy.com"
+}

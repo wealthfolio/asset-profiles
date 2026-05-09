@@ -1,0 +1,36 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0012399772"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "FR0012399772",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSEX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MSX.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Middlesex Water Company",
+  "primary_symbol": "MSEX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Middlesex Water Company owns and operates regulated water utility and wastewater systems. It operates in two segments, Regulated and Non-Regulated. The Regulated segment collects, treats, and distributes water on a retail and wholesale basis to residential, commercial, industrial, and fire protection customers in parts of New Jersey, Delaware, and Pennsylvania. This segment also includes regulated wastewater systems in New Jersey and Delaware. The Non-Regulated segment provides non-regulated contract services for the operation and maintenance of municipal and private water and wastewater systems in New Jersey and Delaware. The company was incorporated in 1896 and is headquartered in Iselin, New Jersey.",
+  "website": "http://www.middlesexwater.com"
+}

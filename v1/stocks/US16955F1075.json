@@ -1,0 +1,59 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00YS38FV2",
+    "cusip": "16955F107",
+    "figi": "BBG00YS38G13",
+    "isin": "US16955F1075"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US16955F1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5WV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5WV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CD"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5WV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5WV.F"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5WV.SI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHINDATA GRP.HLDS A DL",
+  "primary_symbol": "5WV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Chindata Group Holdings Limited provides carrier-neutral hyperscale data center solutions in China, India, and Southeast Asia. The company designs, builds, and operates data centers for cloud service providers, internet companies, and other large enterprises. Chindata Group is headquartered in Beijing, China.",
+  "website": "http://www.chindatagroup.com"
+}

@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABLLW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Abacus Life Inc. Warrant",
+  "primary_symbol": "ABLLW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Abacus Life Inc. Warrant entitles the holder to purchase shares of Abacus Life Inc. at a specific price within a certain timeframe. A warrant is a derivative security that gives the holder the right, but not the obligation, to buy the underlying stock. Warrants are often issued alongside debt or equity offerings."
+}

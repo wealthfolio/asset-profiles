@@ -1,0 +1,31 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG005GRZWJ2",
+    "figi": "BBG005GRZWP5"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BTCM"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BIT Mining Limited",
+  "primary_symbol": "BTCM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BIT Mining Limited operates as a cryptocurrency mining company. It holds three hydroelectric cryptocurrency mines with combined electric power capacity of 435MW; and mining pool business, including the domain name and the cryptocurrency wallet of BTC.com, as well as purchases and deploys bitcoin mining machines. The company was formerly known as 500.com Limited and changed its name to BIT Mining Limited in April 2021. BIT Mining Limited was founded in 2001 and is headquartered in Shenzhen, the People's Republic of China.",
+  "website": "http://www.500.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00JWNW7R2",
+    "figi": "BBG00JWNW7Y4",
+    "isin": "CA64073L1013"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CA64073L1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1NW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1NW.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1NW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPPTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1NW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA64073L1013.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NDA.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NEPTUNE DIGITAL ASS.CORP.",
+  "primary_symbol": "1NW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Neptune Digital Assets Corp. is a blockchain infrastructure company focused on investing in and operating cryptocurrency mining facilities and other digital assets. The company aims to provide investors with exposure to the growth of the blockchain industry through its investments and operations. Neptune Digital Assets is headquartered in Vancouver, Canada.",
+  "website": "http://www.neptunedigitalassets.com"
+}

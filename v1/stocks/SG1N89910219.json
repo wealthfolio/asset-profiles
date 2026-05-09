@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000F7D6C6",
+    "figi": "BBG000F7DB53",
+    "isin": "SG1N89910219"
+  },
+  "industry_group": "Transportation",
+  "isin": "SG1N89910219",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SGR.SG"
+    }
+  ],
+  "name": "SINGAPORE POST  SD-,05",
+  "primary_symbol": "SGR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Singapore Post Limited, also known as SingPost, is a postal and e-commerce logistics provider in Singapore. It offers postal, courier, and logistics services, as well as e-commerce solutions. SingPost is headquartered in Singapore."
+}

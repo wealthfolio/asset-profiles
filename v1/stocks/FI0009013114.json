@@ -1,0 +1,58 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000R2KTL6",
+    "figi": "BBG000R2KX55",
+    "isin": "FI0009013114"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Media & Entertainment",
+  "isin": "FI0009013114",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A4M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A4M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALMA.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A4M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "ALMA.HE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FI0009013114.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALMA MEDIA CORP.  EO -,60",
+  "primary_symbol": "A4M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Alma Media Corporation is a Finnish media company that operates in digital services, media, and printing. The company's segments include Alma Markets, Alma Talent, and Alma News & Life. Alma Media is headquartered in Helsinki, Finland.",
+  "website": "http://www.almogim.co.il"
+}

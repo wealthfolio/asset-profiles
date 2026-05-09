@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C7HRC9",
+    "isin": "GB0002520509"
+  },
+  "isin": "GB0002520509",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0002520509.SW"
+    }
+  ],
+  "name": "ITE GROUP PLC",
+  "primary_symbol": "GB0002520509.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

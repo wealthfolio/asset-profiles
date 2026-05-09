@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DCKBL8",
+    "figi": "BBG000DCKGK8",
+    "isin": "IE00BDB6Q211"
+  },
+  "industry_group": "Insurance",
+  "isin": "IE00BDB6Q211",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTY.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WTY.SG"
+    }
+  ],
+  "name": "WILLIS TOWERS WATSON",
+  "primary_symbol": "WTY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Willis Towers Watson Public Limited Company is a global advisory, broking, and solutions company. They help clients manage risk, optimize benefits, cultivate talent, and expand the power of capital to protect and strengthen institutions and individuals. The company is headquartered in London, United Kingdom."
+}

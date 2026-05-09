@@ -1,0 +1,37 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BLL2N7",
+    "isin": "BMG9108L1735"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Energy",
+  "isin": "BMG9108L1735",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BMG9108L1735.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TNP.BK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TSAKOS ENERGY NAVIGATION LTD",
+  "primary_symbol": "BMG9108L1735.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Tsakos Energy Navigation Limited is a leading international provider of seaborne crude oil and petroleum product transportation services. Headquartered in Athens, Greece, TEN's modern fleet includes tankers ranging from VLCCs to product tankers, serving a diverse customer base of oil companies, refiners, and traders. The company focuses on safe and reliable operations, with a commitment to environmental protection.",
+  "website": "http://www.thanapiriya.co.th"
+}

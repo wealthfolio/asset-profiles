@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HTHWH0",
+    "cusip": "724479100",
+    "figi": "BBG000HTK1G5",
+    "isin": "US7244791007"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US7244791007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PBW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PBW.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PBW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PBW.SG"
+    }
+  ],
+  "name": "PITNEY-BOWES INC.  DL 1",
+  "primary_symbol": "PBW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Pitney Bowes Inc. is a global technology company offering products and solutions in the areas of e-commerce fulfillment, shipping and mailing, and financial services. They serve small to large businesses with solutions for sending, mailing, and delivering parcels. The company is headquartered in Stamford, Connecticut."
+}

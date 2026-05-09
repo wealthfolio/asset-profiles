@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00KX6C0W6",
+    "figi": "BBG00KX6C127",
+    "isin": "CA7300201042"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "CA7300201042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4XA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLRTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4XA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4XA.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PRT.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "PRT.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PLYMOUTH ROCK TECHS",
+  "primary_symbol": "4XA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Plymouth Rock Technologies Inc., through its subsidiary, Plymouth Rock USA, focuses on developing security screening and threat detection technology solutions using radar imaging and signal processing technology. Its technologies include millimeter-wave remote imaging system from airborne drone, a RF sensor package for use on unmanned aerial vehicles; compact microwave radar systems for scanning shoe's; and Wi-Fi radar techniques for threat detection screening in Wi-Fi enabled zones in buildings, airports, shopping malls, schools, and sports venues. Plymouth Rock Technologies Inc. announced a strategic alliance with Hummingbird Drones Inc. to fight wildfire threats. The company was incorporated in 2011 is headquartered in Vancouver, Canada.",
+  "website": "http://www.plyrotech.com"
+}

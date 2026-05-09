@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00SMK8RN6",
+    "figi": "BBG00SMK8RV7",
+    "isin": "SE0013747870"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "SE0013747870",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4KK1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4KK1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0013747870.SG"
+    }
+  ],
+  "name": "ELECTROLUX PROF. B",
+  "primary_symbol": "4KK1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Electrolux Professional AB provides professional food service, beverage and laundry solutions. The company develops, manufactures, and markets equipment for restaurants, hotels, hospitals, and other commercial operations. Electrolux Professional is headquartered in Stockholm, Sweden."
+}

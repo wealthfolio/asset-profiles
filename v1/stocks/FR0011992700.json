@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00HK0BVQ0",
+    "figi": "BBG00HK0BVW3",
+    "isin": "FR0011992700"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Software & Services",
+  "isin": "FR0011992700",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AYD.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QVW.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ATEME.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AYD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AYD.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ATEME  EO-,14",
+  "primary_symbol": "AYD.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ATEME EO-,14 is a provider of video compression and delivery solutions. The company offers software-based video processing technologies for broadcast, cable, satellite, IPTV, and OTT applications. ATEME is headquartered in France.",
+  "website": "http://www.ateme.com"
+}

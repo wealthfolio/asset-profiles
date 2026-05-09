@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "O5H.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "OpenLimit Holding AG",
+  "primary_symbol": "O5H.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "OpenLimit Holding AG, a software company, provides various secure data communication, eID, and authentication technologies. The company through its technologies enable people and machines to communicate without any restrictions and in a secure, provable, and identifiable manner. It develops basic technologies and products in the various areas, such as secure data communication between machines, electronic identities, electronic signatures, and evidential value-preserving long-term storage of data and documents. The company's solutions form an integral part of products from various manufacturers of IT applications and are used by enterprises, public authorities, institutions, and private households. OpenLimit Holding AG is based in Baar, Switzerland.",
+  "website": "http://www.openlimit.com"
+}

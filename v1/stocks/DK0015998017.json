@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000D6P1V7",
+    "figi": "BBG000D6P4N0",
+    "isin": "DK0015998017"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DK0015998017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BV3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BV3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BV3.SG"
+    }
+  ],
+  "name": "BAVARIAN NOR  NAM.  DK 10",
+  "primary_symbol": "BV3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Bavarian Nordic A/S develops, manufactures, and commercializes vaccines for infectious diseases and cancer immunotherapies. The company's portfolio includes vaccines for diseases such as smallpox and mpox, tick-borne encephalitis, and rabies. The company is headquartered in Kvistgaard, Denmark."
+}

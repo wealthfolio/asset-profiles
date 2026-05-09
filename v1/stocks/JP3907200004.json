@@ -1,0 +1,38 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000KPZVT3",
+    "figi": "BBG000KQ00L5",
+    "isin": "JP3907200004"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3907200004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MU2.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8155.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Mimasu Semiconductor Industry Co., Ltd.",
+  "primary_symbol": "MU2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Mimasu Semiconductor Industry Co., Ltd. engages in the processing and sales of semiconductor materials in Japan. The company's semiconductor materials include prime and recycle wafers. It also offers measuring instruments, testing machines, information equipment, automatic control equipment, and other precision equipment, as well as manufacturing, inspection, and testing systems; and develops and sells in-house products and related systems. In addition, the company manufactures and sells various plants, such as pure water production and wastewater treatment equipment; and semiconductor manufacturing equipment. Mimasu Semiconductor Industry Co., Ltd. was founded in 1963 and is headquartered in Takasaki, Japan.",
+  "website": "http://www.mimasu.co.jp"
+}

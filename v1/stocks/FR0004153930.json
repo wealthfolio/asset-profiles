@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000V0LR38",
+    "figi": "BBG000V0LT43",
+    "isin": "FR0004153930"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0004153930",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3HB.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3HB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3HB.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALHYG.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HYBRIGENICS S.A.  EO -,01",
+  "primary_symbol": "3HB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Hybrigenics S.A. is a French biopharmaceutical company focused on the discovery and development of new therapies against cancer and other diseases. The company uses its high-throughput screening platform to identify and develop drug candidates. Hybrigenics is headquartered in Paris, France.",
+  "website": "http://www.hybrigenics.com"
+}

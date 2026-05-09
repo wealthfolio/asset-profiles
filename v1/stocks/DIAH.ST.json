@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "DIAH.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Diadrom Holding AB (publ)",
+  "primary_symbol": "DIAH.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Diadrom Holding AB (publ), a consultancy company, focuses on diagnostics of products with embedded software. The company provides Diadrom Autotech Bootloader that handles setup of the embedded system and module replacement software; Diagnostic Communication Stack, an embedded software component designed to handle the on-board communication of ECUs together with basic diagnostics in a modern vehicle; Diadrom Dolphin, a tool for automated software verification; and Diag Studio, an off-board diagnostics product suit. It serves automotive, industrial machinery, defence, security, and public transport sectors. The company was founded in 1999 and is headquartered in Gothenburg, Sweden.",
+  "website": "http://www.diadrom.se"
+}

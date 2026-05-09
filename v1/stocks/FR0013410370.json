@@ -1,0 +1,38 @@
+{
+  "country": "French Guiana",
+  "country_code": "GF",
+  "identifiers": {
+    "composite_figi": "BBG00LGDFBT5",
+    "figi": "BBG00LGDFBV2",
+    "isin": "FR0013410370"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "FR0013410370",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A7PA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALAMG.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Auplata Mining Group",
+  "primary_symbol": "A7PA.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Auplata Mining Group, together with its subsidiaries, engages in the mining, exploration, development, and exploitation of polymetallic deposits. The company primarily explores for gold deposits. It also explores for silver, lead, zinc, and copper deposits. The company holds interests in various properties located in French Guiana, Peru, Morocco, and the Ivory Coast. Auplata Mining Group is based in Remire-Montjoly, French Guiana.",
+  "website": "http://auplatamininggroup.com"
+}

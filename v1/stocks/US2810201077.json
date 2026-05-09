@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000D7RKJ5",
+    "cusip": "281020107",
+    "figi": "BBG000D7RMQ3",
+    "isin": "US2810201077"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US2810201077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIX.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IFJ.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "E1IX34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EIX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EIX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EIX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EIX.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EIX1.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Edison International",
+  "primary_symbol": "EIX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Edison International, through its subsidiaries, generates and distributes electric power. As of March 03, 2021, it delivered electricity to 15 million residential, commercial, industrial, public authorities, agricultural, and other customers across Southern, Central, and Coastal California. Edison International also provides energy solutions to commercial and industrial users. Its transmission facilities consist of lines ranging from 55 kV to 500 kV and substations; and distribution system consists of approximately 39,000 circuit-miles of overhead lines, approximately 31,000 circuit-miles of underground lines, and 800 substations. The company was founded in 1886 and is headquartered in Rosemead, California.",
+  "website": "http://www.edison.com"
+}

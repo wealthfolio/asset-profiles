@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "isin": "IE00BK5BZT14"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "IE00BK5BZT14",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "3CRM.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CRM3.L"
+    }
+  ],
+  "name": "Leverage Shares 3x Salesforce.Com ETC",
+  "primary_symbol": "3CRM.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares 3x Salesforce.Com ETC is an exchange-traded commodity (ETC) designed to provide investors with a leveraged return based on the performance of Salesforce.com shares. The ETC aims to deliver three times the daily performance of Salesforce.com. The issuer is Leverage Shares."
+}

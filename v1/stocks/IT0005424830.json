@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG0018G3N81",
+    "isin": "IT0005424830"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "IT0005424830",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005424830.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "OSA.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "OSAI AUTOMATION SYSTEM SPA",
+  "primary_symbol": "IT0005424830.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "OSAI AUTOMATION SYSTEM SPA is an Italian company that designs, develops, and manufactures numerical controls, motion control systems, and laser sources for industrial automation. They provide solutions for various industries, including automotive, electronics, and aerospace. The company is headquartered in Turin, Italy.",
+  "website": "http://www.osai-as.com"
+}

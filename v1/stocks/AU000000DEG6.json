@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000DEG6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000DEG6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGMLF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DEG.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DGD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DGD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DGD.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "De Grey Mining Limited",
+  "primary_symbol": "DGMLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "De Grey Mining Limited explore for and develops mineral properties in Australia. The company primarily explores for gold, silver, zinc, lead, and lithium deposits. It primarily holds interests in the Mallina Gold project covering an area of approximately 1,500 square kilometer located to the south west of Port Hedland in the Pilbara region of Western Australia. De Grey Mining Limited was founded in 2002 and is based in Subiaco, Australia.",
+  "website": "http://www.degreymining.com.au"
+}

@@ -1,0 +1,25 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUFUW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BitFuFu Inc. Warrant",
+  "primary_symbol": "FUFUW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BitFuFu Inc. Warrant is a warrant to purchase shares of BitFuFu Inc., granting the holder the right, but not the obligation, to buy BitFuFu Inc. stock at a specified price within a certain period. Warrants are often issued as part of a financing arrangement. The warrants are tied to BitFuFu Inc., which is based in Singapore."
+}

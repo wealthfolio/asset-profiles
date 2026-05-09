@@ -1,0 +1,56 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0010708068"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Transportation",
+  "isin": "NO0010708068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QTW.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SSHPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010708068.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0010708068.SW"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "VOW.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "VOWO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SCANSHIP HOLDING ASA SCANSHIP H",
+  "primary_symbol": "0QTW.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Scanship Holding ASA provides advanced technologies and solutions for waste and wastewater management on ships and offshore platforms. The company offers systems for waste processing, wastewater purification, and bio-sludge treatment, helping its customers comply with environmental regulations and improve sustainability. Scanship is headquartered in Lysaker, Norway.",
+  "website": "http://www.vowasa.com"
+}

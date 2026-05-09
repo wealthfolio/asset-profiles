@@ -1,0 +1,53 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG004LV1G02",
+    "figi": "BBG004LV1G66",
+    "isin": "NZMRPE0001S2"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "NZMRPE0001S2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRY.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MCY.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "MCY.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MRY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MRY.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MERCURY NZ LTD.",
+  "primary_symbol": "MRY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Mercury NZ Limited is a New Zealand electricity generation and retail company. They generate electricity from renewable sources, including hydro and geothermal, and sell electricity, gas, and telecommunications services to homes and businesses. The company is headquartered in Auckland, New Zealand.",
+  "website": "http://www.mercury.co.nz"
+}

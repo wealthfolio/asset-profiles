@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA10778T1057"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA10778T1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRYFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1P6.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BRY.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Berry Corporation",
+  "primary_symbol": "BRY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Berry Corporation, an independent upstream energy company, engages in the development and production of conventional oil reserves located in the western United States. The company's properties are located in the San Joaquin and Ventura basins, California; Uinta basin, Utah; and Piceance basin, Colorado. As of December 31, 2020, it had a total of 3,763 net producing wells. The company was formerly known as Berry Petroleum Corporation and changed its name to Berry Corporation in February 2020. Berry Corporation was founded in 1909 and is headquartered in Dallas, Texas.",
+  "website": "http://www.bry.com"
+}

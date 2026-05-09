@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00D6Q7G95",
+    "figi": "BBG00D6Q7GG7",
+    "isin": "CA3449112018"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA3449112018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMCXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "48M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA3449112018.SG"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "FOM.CO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "FOM.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FORAN MNG CORP.",
+  "primary_symbol": "48M.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Foran Mining Corp. is a Canadian exploration and development company focused on copper-zinc-silver-gold volcanogenic massive sulphide deposits in Saskatchewan’s Flin Flon Greenstone Belt. The company's flagship project is the McIlvenna Bay deposit, one of the largest undeveloped VMS deposits in Canada, located in Hanson Lake, Saskatchewan. Foran Mining is headquartered in Vancouver, British Columbia.",
+  "website": "http://www.foranmining.com"
+}

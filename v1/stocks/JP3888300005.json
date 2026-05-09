@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C1C8J2",
+    "figi": "BBG000C1CBZ7",
+    "isin": "JP3888300005"
+  },
+  "industry": "Machinery",
+  "industry_group": "Materials",
+  "isin": "JP3888300005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSI.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MSI.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MSI.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MSI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MSI.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MSI.TO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MITSUI CHEMICALS",
+  "primary_symbol": "MSI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mitsui Chemicals, Inc. is a Japanese chemical company that manufactures and sells a wide range of chemical products. The company's products include basic chemicals, performance polymers, functional chemicals, and healthcare materials. Mitsui Chemicals is headquartered in Tokyo, Japan.",
+  "website": "http://www.multistack.com.au"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG0018T33S5",
+    "figi": "BBG0018T33Y8",
+    "isin": "ID1000117005"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "ID1000117005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "07K.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "07K.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "07K.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "KRAS.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KRAKATAU STEEL PER.RP 500",
+  "primary_symbol": "07K.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "PT Krakatau Steel (Persero) Tbk is an Indonesian integrated steel producer. The company manufactures a wide range of steel products, including hot rolled coil, cold rolled coil, and steel wire rods. They are headquartered in Cilegon, Indonesia.",
+  "website": "http://www.krakatausteel.com"
+}

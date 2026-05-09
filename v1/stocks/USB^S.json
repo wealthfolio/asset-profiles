@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USB^S"
+    }
+  ],
+  "name": "U.S. Bancorp Depositary Shares each representing a 1/1000th interest in a share of Series O Non-Cumulative Perpetual Preferred Stock",
+  "primary_symbol": "USB^S",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "U.S. Bancorp is a financial services holding company offering a variety of banking, investment, mortgage, trust, and payment services products to individual consumers, businesses, and institutions. USB^S represents a depositary share representing ownership in preferred stock. The company is headquartered in Minneapolis, Minnesota."
+}

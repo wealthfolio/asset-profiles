@@ -1,0 +1,26 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "84W.F"
+    }
+  ],
+  "name": "Electroceramics S.A.",
+  "primary_symbol": "84W.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Electroceramics S.A. manufactures and sells ceramic bodies, shields, and insulators for medium and high voltage applications. The company is based in Warsaw, Poland. Electroceramics S.A. is a subsidiary of IndygoTech Minerals S.A.",
+  "website": "http://www.electroceramics.pl"
+}

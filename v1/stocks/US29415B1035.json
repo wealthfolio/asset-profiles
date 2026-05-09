@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG007FH8JX4",
+    "cusip": "29415B103",
+    "figi": "BBG007FHNKZ2",
+    "isin": "US29415B1035"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "US29415B1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVA.AQ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Enviva Partners, LP",
+  "primary_symbol": "EVA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Enviva Partners, LP produces and sells utility-grade wood pellets. The company's products are used as a substitute for coal in power generation, and combined heat and power plants. It serves power generators in the United Kingdom, Europe, and Japan. Enviva Partners GP, LLC operates as the general partner of the company. Enviva Partners, LP was founded in 2013 and is headquartered in Bethesda, Maryland.",
+  "website": "http://www.envivabiomass.com"
+}

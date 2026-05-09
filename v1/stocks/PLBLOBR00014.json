@@ -1,0 +1,38 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00W0H91K7",
+    "figi": "BBG00W0H91S9",
+    "isin": "PLBLOBR00014"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Software & Services",
+  "isin": "PLBLOBR00014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6BO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6BO.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BLOOBER TEAM  ZY-,01",
+  "primary_symbol": "6BO.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BLOOBER TEAM ZY-,01 is a Polish video game developer. The company focuses on creating psychological horror games. Bloober Team is based in Krakow, Poland.",
+  "website": "http://www.blooberteam.com"
+}

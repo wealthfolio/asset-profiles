@@ -1,0 +1,58 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000MPL1Z5",
+    "figi": "BBG000MPL568",
+    "isin": "FR0010282822"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0010282822",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S4M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S4M.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0010282822.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S4M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S4M.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SESL.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SES-IMAGOTAG EO 2",
+  "primary_symbol": "S4M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SES-imagotag S.A. provides electronic shelf labels and digital retail solutions for retailers to automate price updates and product information on store shelves. The company's solutions include pricing automation, product information, and task management. SES-imagotag is headquartered in Eysins, Switzerland.",
+  "website": "http://www.ses-imagotag.com"
+}

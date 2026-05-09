@@ -1,0 +1,58 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00R3KC9T8",
+    "figi": "BBG00R3KCB04",
+    "isin": "DK0061155785"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "DK0061155785",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3NU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3NU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASGRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3NU.F"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "ASTGRP.CO"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "ASTRLS.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Astralis A/S",
+  "primary_symbol": "3NU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Astralis A/S operates as an esports company. It owns three esports teams under the Astralis, Origen, and Future FC brands. The company was formerly known as Astralis Group A/S and changed its name to Astralis A/S in April 2021. Astralis A/S was founded in 2016 and is based in Copenhagen, Denmark.",
+  "website": "http://astralis.gg"
+}

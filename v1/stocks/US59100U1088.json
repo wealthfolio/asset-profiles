@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BKLTP8",
+    "cusip": "59100U108",
+    "figi": "BBG000BKM3K9",
+    "isin": "US59100U1088"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US59100U1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CASH"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FM7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FM7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FM7.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Meta Financial Group, Inc.",
+  "primary_symbol": "CASH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Meta Financial Group, Inc. operates as the holding company for MetaBank that offers various banking products and services in the United States. It operates through three segments: Consumer, Commercial, and Corporate Services/Other. The company offers demand deposit accounts, savings accounts, money market savings accounts, and certificate accounts; term lending, asset based lending, factoring, lease financing, insurance premium financing, warehouse financing, and healthcare receivables loans; and consumer credit products. It also provides student loans, commercial real estate loans, residential mortgage loans, home equity and home improvement loans, and agricultural loans for the purchase of farmland, livestock, farm machinery and equipment, seed, fertilizer, and other farm-related products, as well as tax services, including taxpayer advance and electronic return originator advance loans. In addition, the company issues prepaid cards and consumer credit products; sponsors automated teller machines into various debit networks; and offers tax refund transfer and other payment industry products and services. It operates ten full-service branch and 14 non-branch offices. The company was founded in 1954 and is headquartered in Sioux Falls, South Dakota.",
+  "website": "http://www.metafinancialgroup.com"
+}

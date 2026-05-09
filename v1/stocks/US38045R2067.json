@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QCJ673",
+    "cusip": "38045R206",
+    "figi": "BBG000QCJ8B4",
+    "isin": "US38045R2067"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US38045R2067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOQN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOQN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GOQN.SG"
+    }
+  ],
+  "name": "GOL L.A.I.PFD ADR 1/2",
+  "primary_symbol": "GOQN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "GOL L.A.I.PFD ADR 1/2 is an American Depositary Receipt (ADR) representing preferred shares of Gol Linhas Aereas Inteligentes S.A., a Brazilian airline. An ADR allows investors to trade shares of foreign companies on U.S. exchanges. Gol Linhas Aereas Inteligentes S.A. is headquartered in Sao Paulo, Brazil."
+}

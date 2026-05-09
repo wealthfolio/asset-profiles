@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BWNN28",
+    "cusip": "00211Y506",
+    "figi": "BBG000BWNWC7",
+    "isin": "US00211Y5069"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00211Y5069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABIO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HQ10.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HQ10.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ABIO.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HQ10.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HQ10.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ARCA biopharma, Inc.",
+  "primary_symbol": "ABIO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ARCA biopharma, Inc., a clinical-stage biopharmaceutical company, develops and commercializes genetically targeted therapies for cardiovascular diseases. Its lead product candidates are Recombinant Nematode Anticoagulant Protein c2 (rNAPc2) (AB201), which is in Phase 2 clinical trial for the treatment of diseases caused by ribonucleic acid viruses initially focusing on COVID-19; and Gencaro (bucindolol hydrochloride), a pharmacogenetically-targeted beta-adrenergic receptor antagonist that has completed Phase 2 trial for the treatment of atrial fibrillation in patients with chronic heart failure (HF). The company also engages in the development of AB171, a thiol-containing derivative isosorbide mononitrate for the treatment of HF and peripheral arterial disease. ARCA biopharma, Inc. is headquartered in Westminster, Colorado.",
+  "website": "http://www.arcabio.com"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG000F2LTB9",
+    "cusip": "313586109",
+    "figi": "BBG000F2LXW7",
+    "isin": "US3135861090"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "US3135861090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNM.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FNM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FNM.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "FNM.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FED.NATL MTGE ASS.",
+  "primary_symbol": "FNM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ferronordic AB (publ) sells, rents, and services construction equipment, trucks, and other machines in Russia, Kazakhstan, and Germany. It offers wheel-loaders, excavators, articulated and rigid haulers, backhoe loaders, pavers, compactors, bulldozers, pipelayers, forwarders and harvesters, and diesel generators, as well as other compact equipment. The company also sells, repairs, and maintains machines, trucks, engines, spare parts, and attachments; and offers aftermarket sales services, as well as technical support, contracting, and other services. In addition, it provides consultancy services, such as machine operator training. The company's brand portfolio includes Volvo Construction Equipment, Terex Trucks, Dressta, Rottne, Mecalac, Ferronordic, Volvo, and Renault Trucks. It serves the mining, road construction, general construction, forestry, quarries and aggregates, and oil and gas industries. The company was founded in 2010 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.ferronordic.com"
+}

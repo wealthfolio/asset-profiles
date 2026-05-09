@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PXDLW3",
+    "cusip": "521865204",
+    "figi": "BBG000PXDNP7",
+    "isin": "US5218652049"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "US5218652049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LE6N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LEA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JTQ.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LE6N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LE6N.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LEAR CORP.  DL-,01",
+  "primary_symbol": "LE6N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Lear Corporation is a global supplier of automotive seating and electrical systems. The company designs, develops, and manufactures seating, e-systems, and related components for automotive manufacturers. Lear Corporation is headquartered in Southfield, Michigan.",
+  "website": "http://www.lear.com"
+}

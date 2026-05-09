@@ -1,0 +1,26 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Everest Group Ltd. Common Stock",
+  "primary_symbol": "EG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Everest Group, Ltd. is a consulting and research firm focused on strategic IT, business services, engineering services, and sourcing. They provide advisory services, market intelligence, and sourcing support to global businesses. The company is headquartered in Dallas, Texas."
+}

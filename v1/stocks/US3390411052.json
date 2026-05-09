@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001BW74Z0",
+    "cusip": "339041105",
+    "figi": "BBG001BW7550",
+    "isin": "US3390411052"
+  },
+  "industry": "IT Services",
+  "industry_group": "Diversified Financials",
+  "isin": "US3390411052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "07G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "07G.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "07G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "07G.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IPN.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FLT.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "FLTC34.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "FLEETCOR TECHS  DL -,001",
+  "primary_symbol": "07G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "FleetCor Technologies, Inc. provides payment solutions to businesses, primarily in the fleet, lodging, and fuel industries. The company offers fuel cards, corporate lodging cards, and other payment products and services. FleetCor is headquartered in Atlanta, Georgia.",
+  "website": "http://www.fleetcor.com"
+}

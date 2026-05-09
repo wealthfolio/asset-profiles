@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KQ0080",
+    "figi": "BBG000KQ0669",
+    "isin": "GB00BJFFLV09"
+  },
+  "industry_group": "Materials",
+  "isin": "GB00BJFFLV09",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6CMB.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6CMB.DU"
+    }
+  ],
+  "name": "CRODA INTL  LS -,10609756",
+  "primary_symbol": "6CMB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Croda International Plc is a British specialty chemicals company that manufactures and sells ingredients for various industries. The company's products are used in personal care, life sciences, and industrial applications. It is headquartered in Snaith, East Yorkshire, United Kingdom."
+}

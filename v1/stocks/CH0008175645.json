@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BYJCQ7",
+    "isin": "CH0008175645"
+  },
+  "isin": "CH0008175645",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "CH0008175645.SW"
+    }
+  ],
+  "name": "TELEVERBIER",
+  "primary_symbol": "CH0008175645.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

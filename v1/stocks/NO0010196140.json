@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000D2FQC3",
+    "figi": "BBG000D2GW02",
+    "isin": "NO0010196140"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Diversified Financials",
+  "isin": "NO0010196140",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWC.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "NAS.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0010196140.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NWC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NWC.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NORWEGIAN AIR SHUT.NK-,10",
+  "primary_symbol": "NWC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "North Atlantic Smaller Companies Investment Trust PLC is an investment trust that invests in smaller companies, primarily in North America and Europe. The company aims to provide shareholders with long-term capital growth. The trust is based in the United Kingdom.",
+  "website": "http://newworldres.com"
+}

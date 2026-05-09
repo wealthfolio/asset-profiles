@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG007DJZFC3",
+    "cusip": "49338L103",
+    "figi": "BBG007DJZFK4",
+    "isin": "US49338L1035"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US49338L1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1KT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KEYS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A7N.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "1KT.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1KT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1KT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1KT.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "K1SG34.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "KEYSIGHT TECHS  DL-,01",
+  "primary_symbol": "1KT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Keysight Technologies, Inc. provides electronic design and test solutions to help companies innovate across the communications, industrial automation, aerospace, and defense industries. The company offers a wide range of electronic measurement instruments, systems, and software. TICKER: Keysight Technologies, Inc. provides electronic design and test solutions, offering electronic measurement instruments, systems, and software to various industries including communications and aerospace.",
+  "website": "http://www.keysight.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ORIA.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Fiducial Real Estate SA",
+  "primary_symbol": "ORIA.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Fiducial Real Estate SA operates and manages real estate properties in France. As of September 30, 2020, it operated a portfolio of office, activity, and apartment buildings covering 337,793 square meters. The company is headquartered in Courbevoie, France.",
+  "website": "http://www.fiducial-real-estate.fr"
+}

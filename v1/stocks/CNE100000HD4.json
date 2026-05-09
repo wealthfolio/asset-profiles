@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PYV0B0",
+    "figi": "BBG000PYV2L5",
+    "isin": "CNE100000HD4"
+  },
+  "industry_group": "Utilities",
+  "isin": "CNE100000HD4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6WX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6WX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6WX.SG"
+    }
+  ],
+  "name": "CHIN.LONGYUAN PWR G.H YC1",
+  "primary_symbol": "6WX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "China Longyuan Power Group Corporation Limited is engaged in the development and operation of wind power, as well as other renewable energy power plants. The company operates through segments including wind power generation, coal power generation, and others. China Longyuan is headquartered in Beijing, China."
+}

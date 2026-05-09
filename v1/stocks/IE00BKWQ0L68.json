@@ -1,0 +1,63 @@
+{
+  "country": "Guernsey",
+  "country_code": "GG",
+  "identifiers": {
+    "composite_figi": "BBG00ZXPNCR9",
+    "figi": "BBG00ZXPNCS8",
+    "isin": "IE00BKWQ0L68"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Insurance",
+  "isin": "IE00BKWQ0L68",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "SPYP.AS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPYP.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "STP.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "STP.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "STP.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "STP.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "STP.SI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "LS -1X PAYPAL",
+  "primary_symbol": "SPYP.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "LS -1X PAYPAL is a leveraged exchange-traded product (ETP) that aims to deliver -1x the daily performance of PayPal shares. The product is designed for short-term trading and is not suitable for long-term investment. The ETP is offered by Leverage Shares.",
+  "website": "http://www.stenprop.com"
+}

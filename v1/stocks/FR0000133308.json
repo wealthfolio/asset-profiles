@@ -1,0 +1,73 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000DX1H03",
+    "figi": "BBG000DX2LJ3",
+    "isin": "FR0000133308"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "FR0000133308",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FTE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FTE.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FTE.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FTE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FTE.TI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000133308.SW"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "FTE.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FTE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ORAP.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ORANGE INH.  EO 4",
+  "primary_symbol": "FTE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Orange S.A. is a French multinational telecommunications corporation. It provides mobile, fixed-line, internet, and television services to consumers and businesses. The company is headquartered in Paris, France.",
+  "website": "http://firetrade.co.th"
+}

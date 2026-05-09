@@ -1,0 +1,48 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG000HJ7WH3",
+    "figi": "BBG000HJ8162",
+    "isin": "FI4000369657"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "FI4000369657",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRY0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRY0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "GLA1V.HE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KRY0.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GLASTON OYJ",
+  "primary_symbol": "KRY0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Glaston Oyj is a Finnish company that develops, manufactures and services glass processing machines and equipment. The company serves a variety of industries, including architecture, automotive, solar and appliance industries. Glaston is headquartered in Helsinki, Finland.",
+  "website": "http://glaston.net"
+}

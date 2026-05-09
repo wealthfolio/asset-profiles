@@ -1,0 +1,51 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "isin": "PLLWBGD00016"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "PLLWBGD00016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LWB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UXX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UXX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UXX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UXX.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MESOBLAST LTD.",
+  "primary_symbol": "LWB.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mesoblast Limited is a biotechnology company developing innovative cellular medicines. The company's proprietary technology platform is based on mesenchymal lineage precursor cells (MLPCs) to treat inflammatory conditions and cardiovascular diseases. Mesoblast is headquartered in Melbourne, Australia.",
+  "website": "http://www.lw.com.pl"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA6942131096"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA6942131096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEMC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEMSF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PEMC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Pacific Energy & Mining Company",
+  "primary_symbol": "PEMC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Pacific Energy & Mining Company operates as an oil and gas company. The company explores and produces oil and gas properties in the United States. It has non-operated working interests in oil and gas fields in the state of Utah. The company is based in Reno, Nevada. On November 7, 2019, the voluntary petition of Pacific Energy & Mining Company for reorganization was converted to Chapter 7 liquidation in the US Bankruptcy Court for the District of Utah. It had filed for Chapter 11 bankruptcy on July 10, 2019.",
+  "website": "http://www.pemc.us"
+}

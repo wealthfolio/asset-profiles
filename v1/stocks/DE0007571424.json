@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000FVVP86",
+    "figi": "BBG000FVWV73",
+    "isin": "DE0007571424"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE0007571424",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GKS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GKS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GKS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GKS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GK SOFTWARE  INH O.N.",
+  "primary_symbol": "GKS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "GK SOFTWARE INH O.N. is a German software company that provides retail software solutions for large retailers. Their offerings include store management, mobile POS, and loyalty management systems. The company is headquartered in Schöneck, Germany.",
+  "website": "http://www.gk-software.com"
+}

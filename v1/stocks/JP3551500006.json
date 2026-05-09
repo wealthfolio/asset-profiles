@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1MHT0",
+    "figi": "BBG000C1MLQ4",
+    "isin": "JP3551500006"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "JP3551500006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNO.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DNO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DNO.SG"
+    }
+  ],
+  "name": "DENSO CORP.",
+  "primary_symbol": "DNO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "DENSO Corporation is a global automotive components manufacturer and supplier. The company develops and produces a wide range of automotive parts, including powertrain systems, thermal systems, mobility systems, and electronic systems. DENSO's products are used by major automotive manufacturers worldwide, and the company is headquartered in Kariya, Aichi, Japan."
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BPS2C3",
+    "figi": "BBG000BPS439",
+    "isin": "CA15101Q1081"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CA15101Q1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTW.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CLS.TO"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CTW.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CTW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CTW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CTW.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Celestica Inc.",
+  "primary_symbol": "CLS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Celestica Inc. provides hardware platform and supply chain solutions in North America, Europe, and Asia. It operates through two segments, Advanced Technology Solutions, and Connectivity & Cloud Solutions. The company offers a range of product manufacturing and related supply chain services, including design and development, engineering, supply chain management, new product introduction, component sourcing, electronics manufacturing and assembly, testing, complex mechanical assembly, systems integration, precision machining, order fulfillment, logistics, asset management, product licensing, and after-market repair and return services. It also provides enterprise-level data communications and information processing infrastructure products, such as routers, switches, data center interconnects, servers, and storage-related products; capacitors, microprocessors, resistors, and memory modules; and power inverters, energy storage products, smart meters, and other electronic componentry. The company serves aerospace and defense, industrial, energy, healthtech, capital equipment, original equipment manufacturers (OEMs), cloud-based, and other service providers, including hyperscalers, and other companies in a range of industries. Celestica Inc. was incorporated in 1994 and is headquartered in Toronto, Canada.",
+  "website": "http://www.celestica.com"
+}

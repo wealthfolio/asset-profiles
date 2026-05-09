@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00R0T7Z01",
+    "cusip": "88362L100",
+    "isin": "US88362L1008"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US88362L1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US88362L1008.SG"
+    }
+  ],
+  "name": "THERMOGENESIS HOLDINGS INC",
+  "primary_symbol": "US88362L1008.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "THERMOGENESIS HOLDINGS INC is a biomedical company focused on developing and commercializing cell processing technologies. The company's products are used for cell banking, point-of-care cell processing, and other applications, with headquarters in Rancho Cordova, California. ThermoGenesis Holdings aims to advance cell-based therapies and improve patient outcomes."
+}

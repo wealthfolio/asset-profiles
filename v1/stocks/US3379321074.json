@@ -1,0 +1,84 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BB6M98",
+    "cusip": "337932107",
+    "figi": "BBG000BB6PD6",
+    "isin": "US3379321074"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US3379321074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FE7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FE7.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IPB.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "F1EC34.SA"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "FE.BK"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FE.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "FE7.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FE7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FE7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FE7.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "FirstEnergy Corp.",
+  "primary_symbol": "FE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "FirstEnergy Corp., through its subsidiaries, generates, transmits, and distributes electricity in the United States. The company operates through Regulated Distribution and Regulated Transmission segments. It operates 24,035 circuit miles of overhead and underground transmission lines; and electric distribution systems, including 272,531 miles of overhead pole line and underground conduit carrying primary, secondary, and street lighting circuits, as well as owns substations with a total installed transformer capacity of approximately 155,920,348 kilovolt-amperes. The company serves approximately 6 million customers in Ohio, Pennsylvania, West Virginia, Maryland, New Jersey, and New York. FirstEnergy Corp. was incorporated in 1996 and is headquartered in Akron, Ohio.",
+  "website": "http://www.firstenergycorp.com"
+}

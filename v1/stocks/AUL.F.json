@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000JMT026",
+    "figi": "BBG000JMT0Y1"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AUL.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Autogrill S.p.A.",
+  "primary_symbol": "AUL.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Autogrill S.p.A., through its subsidiaries, provides food and beverage services for travelers in North America, Italy, and other European countries. It also sells fuel. The company manages approximately 4,000 points of sale that are operated through concessions at airports, motorways, and railway stations; and in shopping centers, trade fairs, and cultural attractions, as well as on high streets. It manages a portfolio of approximately 300 brands directly or under license. The company was founded in 1947 and is headquartered in Rozzano, Italy. Autogrill S.p.A. is a subsidiary of Schematrentaquattro S.p.A.",
+  "website": "http://www.autogrill.com"
+}

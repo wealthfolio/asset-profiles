@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0089SWVW2",
+    "figi": "BBG0089SWW14",
+    "isin": "IE00B43VDT70"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "IE00B43VDT70",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8PSB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SLVP.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SSLV.L"
+    }
+  ],
+  "name": "INVESC.PHYS.MKT.ETC00 XAG",
+  "primary_symbol": "8PSB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Invesco Physical Silver ETC is an exchange-traded commodity designed to offer investors a simple way to gain exposure to the price of silver. The ETC is backed by physical silver bullion held in allocated storage. It is listed on the London Stock Exchange."
+}

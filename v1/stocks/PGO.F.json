@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PGO.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Prostatype Genomics AB (publ)",
+  "primary_symbol": "PGO.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Prostatype Genomics AB manufactures, markets, and sells the prognostic gene tests. It offers Prostatype, a gene test for prostate cancer patients. The company offers Prostatype Test System that combines gene expression information with used clinical parameters, such as PSA, Gleason Score, and Tumor Stage, as well as calculates the P-score. The test is based on database containing prostate cancer patients and provides decision support for patients and doctors when making a treatment decision. The company was founded in 2007 and is based in Solna, Sweden.",
+  "website": "http://www.prostatypegenomics.com"
+}

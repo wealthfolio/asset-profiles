@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00G7CFJF6",
+    "cusip": "81727U105",
+    "figi": "BBG00G7CFJQ4",
+    "isin": "US81727U1051"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US81727U1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6L6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6L6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SENS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6L6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6L6.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SENSEONICS HLGS.INC.-,001",
+  "primary_symbol": "6L6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Senseonics Holdings, Inc. is a medical technology company focused on the development and commercialization of continuous glucose monitoring (CGM) systems for people with diabetes, headquartered in Germantown, Maryland.",
+  "website": "http://www.senseonics.com"
+}

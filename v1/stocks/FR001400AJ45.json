@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR001400AJ45"
+  },
+  "industry": "Beverages",
+  "industry_group": "Automobiles & Components",
+  "isin": "FR001400AJ45",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0OFM.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCHA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MLP"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ML.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MLAUD.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MLN.F"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "MLN.NZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "COMPAGNIE GENERALE DES ETABLISS",
+  "primary_symbol": "0OFM.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "COMPAGNIE GENERALE DES ETABLISSEMENTS MICHELIN SCA is a French tire manufacturer, producing tires for various types of vehicles, including cars, trucks, motorcycles, and aircraft. The company also publishes maps and guides. Its headquarters are located in Clermont-Ferrand, France.",
+  "website": "http://www.matchaah.com"
+}

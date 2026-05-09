@@ -1,0 +1,63 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00YVVKKL2",
+    "figi": "BBG00YVVKKS5",
+    "isin": "NO0010708605"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "NO0010708605",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1H2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1H2.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QWR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1H2.F"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "1H2.SI"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HYARDO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010708605.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HAVYARD GROUP ASA",
+  "primary_symbol": "1H2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "HAVYARD GROUP ASA is a Norwegian shipbuilding and technology company that designs and builds advanced vessels. They specialize in offshore vessels, ferries, and other specialized ships, also providing related services and technology solutions. TICKER: HAVYARD GROUP ASA is a Norwegian shipbuilding and technology company that designs and builds advanced vessels, specializing in offshore vessels, ferries, and provides related services and technology solutions.",
+  "website": "http://www.havyard.com"
+}

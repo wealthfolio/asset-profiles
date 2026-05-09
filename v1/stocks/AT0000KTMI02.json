@@ -1,0 +1,63 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000BT8DT5",
+    "figi": "BBG000BT8H34",
+    "isin": "AT0000KTMI02"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "AT0000KTMI02",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PMAG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PMAG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PMAG.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PMAG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PMAG.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "PMAG.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "PMAG.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PIERER MOBILITY AG",
+  "primary_symbol": "PMAG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PIERER Mobility AG is an Austrian motorcycle manufacturer that produces motorcycles, scooters, and e-bikes under brands such as KTM, Husqvarna, and GASGAS. The company also manufactures motorcycle components. PIERER Mobility AG is headquartered in Wels, Austria.",
+  "website": "http://www.pierermobility.com"
+}

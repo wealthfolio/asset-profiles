@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "04685N103",
+    "isin": "US04685N1037"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US04685N1037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2MT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2MT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2MT.SG"
+    }
+  ],
+  "name": "ATHENEX INC.",
+  "primary_symbol": "2MT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Athenex, Inc. is a biopharmaceutical company dedicated to the discovery, development, and commercialization of novel therapies for the treatment of cancer. The company focuses on developing therapies that improve patient outcomes by addressing limitations of current cancer treatments. Athenex is headquartered in Buffalo, New York."
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA38149V1031"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38149V1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GHVNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA38149V1031.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "GOH.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GoldHaven Resources Corp.",
+  "primary_symbol": "GHVNF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "GoldHaven Resources Corp., a junior exploration company, engages in acquiring, exploring, and developing mineral properties in Canada and Chile. It focuses on exploring gold, copper, and silver deposits located in the Maricunga Gold Belt of northern Chile consisting of Coya, Rio Loa, Alicia, and Roma projects. The company was formerly known as Altum Resource Corp. and changed its name to GoldHaven Resources Corp. in July 2020. GoldHaven Resources Corp. was incorporated in 2019 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.goldhavenresources.com"
+}

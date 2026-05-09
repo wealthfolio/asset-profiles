@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00WHNLDP1",
+    "figi": "BBG00WHNLDV4",
+    "isin": "GB0030329360"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB0030329360",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5K2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5K2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0030329360.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WINCANTON PLC  LS-,01",
+  "primary_symbol": "5K2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Wincanton PLC is a British supply chain solutions company that provides a range of services including warehousing, distribution, and transport management. The company serves a variety of industries, including retail, consumer goods, construction, and defense. Wincanton is headquartered in Chippenham, UK.",
+  "website": "http://www.wincanton.co.uk"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R27JD2",
+    "figi": "BBG000R27PZ4",
+    "isin": "KYG5264Y1089"
+  },
+  "industry_group": "Software & Services",
+  "isin": "KYG5264Y1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3K1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3K1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3K1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3K1.SG"
+    }
+  ],
+  "name": "KINGSOFT COR.LTD DL-,0005",
+  "primary_symbol": "3K1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Kingsoft Corporation Limited is a Chinese software and internet services company known for its office software, security software, cloud storage, and online gaming. The company develops products such as WPS Office, Kingsoft Antivirus, and various mobile games. Kingsoft is headquartered in Beijing, China, and serves a global customer base."
+}

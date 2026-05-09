@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P17H053",
+    "cusip": "25058X105",
+    "figi": "BBG00P17H0B6",
+    "isin": "US25058X1054"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US25058X1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DM"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DM.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Desktop Metal, Inc.",
+  "primary_symbol": "DM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Desktop Metal, Inc. manufactures and sells additive manufacturing solutions for engineers, designers, and manufacturers in the Americas, Europe, the Middle East, Africa, and the Asia- Pacific. The company offers Production System, an industrial manufacturing solution; Shop System, a turnkey binder jetting platform for machine and job shops; Studio System, an office metal 3D printing system; and Fiber, a desktop 3D printer. It serves automotive, aerospace, healthcare, consumer products, heavy industry, machine design, and research and development industries. The company was founded in 2015 and is headquartered in Burlington, Massachusetts.",
+  "website": "http://www.desktopmetal.com"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000065484"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0000065484",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IVJ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCTSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LET.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LET.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LET.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "LSS.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Lectra SA",
+  "primary_symbol": "0IVJ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Lectra SA designs smart industrial solutions for fashion, automotive, and furniture markets. The company's solutions include software, automated cutting equipment, and related services, which enable customers to automate and optimize product design, development, and manufacture of garments, car seats and interiors, airbags, and sofas, as well as to digitalize their processes. It also offers technical maintenance, support, training, and consulting services; and sells consumables and parts. The company operates in Europe, the Americas, the Asia-Pacific, and internationally. Lectra SA was founded in 1973 and is headquartered in Paris, France.",
+  "website": "http://www.lectra.com"
+}

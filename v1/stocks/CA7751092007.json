@@ -1,0 +1,48 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000C4H8F5",
+    "figi": "BBG000C4HCF6",
+    "isin": "CA7751092007"
+  },
+  "industry": "Building Products",
+  "industry_group": "Telecommunication Services",
+  "isin": "CA7751092007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCIB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCIB.MU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "RCI.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RCIB.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ROGERS COMM.B  CD 1,62478",
+  "primary_symbol": "RCIB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Rogers Communications Inc. is a diversified Canadian communications and media company providing wireless communications, cable television, internet, and media services, headquartered in Toronto, Ontario.",
+  "website": "http://www.rci.co.th"
+}

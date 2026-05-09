@@ -1,0 +1,36 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005434615"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "IT0005434615",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "AIW.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005434615.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Almawave S.p.A.",
+  "primary_symbol": "AIW.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Almawave S.r.l. develops customer relations management solutions. It offers Iride Suite that integrates semantics, statistics, automatic speech recognition, and adaptive interface into one single platform; and generates information on management processes across various communication channels, such as customer journey, perception of products and services, occurrence of critical issues and risks, knowledge, and skill management. The company also provides social analysis solutions. It serves top management, sales and marketing, customer operations, information technology, public relations, and organization markets. The company was founded in 2008 and is based in Rome, Italy with additional offices in San Francisco, California; Milano, Firenze, and Trento, Italy; and Sao Paulo and Belo Horizonte, Brazil. Almawave S.r.l. operates as a subsidiary of Almaviva - The Italian Innovation Company S.p.A.",
+  "website": "http://www.almawave.it"
+}

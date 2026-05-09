@@ -1,0 +1,58 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00BFN19M3",
+    "figi": "BBG00BFN19T6",
+    "isin": "SE0007578141"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Energy",
+  "isin": "SE0007578141",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7MN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7MN.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7MN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7MN.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "MINEST.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0007578141.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MINESTO AB",
+  "primary_symbol": "7MN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Minesto AB is a Swedish marine energy technology company. They develop and test Deep Green technology, which is designed to extract energy from low-flow tidal streams and ocean currents. The company aims to commercialize its technology for sustainable electricity generation.",
+  "website": "http://www.minesto.com"
+}

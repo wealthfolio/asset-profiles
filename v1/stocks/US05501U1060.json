@@ -1,0 +1,54 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "identifiers": {
+    "composite_figi": "BBG007NH4TT2",
+    "cusip": "05501U106",
+    "figi": "BBG007NH50X9",
+    "isin": "US05501U1060"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US05501U1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZUL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8AZA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8AZA.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "AZUL4.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "AZULBN.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Azul S.A.",
+  "primary_symbol": "AZUL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Azul S.A., together with its subsidiaries, provides passenger and cargo air transportation services in Brazil. As of December 31, 2020, it operated 700 daily departures to 112 destinations through a network of 203 non-stop routes with a fleet of 162 aircraft. The company is also involved in the loyalty programs, package holidays, investment fund, and aircraft financing activities. Azul S.A. was incorporated in 2008 and is headquartered in Barueri, Brazil.",
+  "website": "http://www.voeazul.com.br"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VMR1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Value Management & Research AG",
+  "primary_symbol": "VMR1.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Value Management & Research AG invests in advisory, financial portfolio management, investment brokerage, and brokerage and proprietary businesses in Germany. It offers digitizing online based financial services; online fund discounter services; and online-based brokerage business. The company was founded in 1993 and is based in Kronberg im Hamburg, Germany.",
+  "website": "http://vmr-group.de"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000KTJBZ0",
+    "cusip": "858119100",
+    "figi": "BBG000KTKH12",
+    "isin": "US8581191009"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US8581191009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SD5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SD5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SD5.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STLD"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SD5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SD5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SD5.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "STLD.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "STEEL DYNAMIC  DL-,0025",
+  "primary_symbol": "SD5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Steel Dynamics, Inc. is a steel producer and metal recycler in the United States. The company manufactures and sells steel products, including carbon steel sheet, long products, and structural steel. Its headquarters are located in Fort Wayne, Indiana.",
+  "website": "http://www.steeldynamics.com"
+}

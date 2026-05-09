@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00NWP1TY6",
+    "cusip": "10918L103",
+    "figi": "BBG00NWP1V44",
+    "isin": "US10918L1035"
+  },
+  "industry_group": "Energy",
+  "isin": "US10918L1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2TQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2TQ.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2TQ.HM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2TQ.DU"
+    }
+  ],
+  "name": "BRIGHAM MIN. CL.A  DL-,01",
+  "primary_symbol": "2TQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Brigham Minerals, Inc. acquires and manages mineral and royalty interests in oil and gas properties. The company focuses on acquiring mineral rights in prolific shale basins across the United States. Brigham Minerals is headquartered in Austin, Texas."
+}

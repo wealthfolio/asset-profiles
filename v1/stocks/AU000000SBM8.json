@@ -1,0 +1,40 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DJ61N9",
+    "figi": "BBG000DJ6532",
+    "isin": "AU000000SBM8"
+  },
+  "isin": "AU000000SBM8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BM1.HM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BM1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BM1.SG"
+    }
+  ],
+  "name": "ST. BARBARA LTD.",
+  "primary_symbol": "BM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

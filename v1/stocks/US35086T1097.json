@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG009H33QM0",
+    "cusip": "35086T109",
+    "figi": "BBG009H33QS4",
+    "isin": "US35086T1097"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US35086T1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCPT"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Four Corners Property Trust, Inc.",
+  "primary_symbol": "FCPT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "FCPT, headquartered in Mill Valley, CA, is a real estate investment trust primarily engaged in the acquisition and leasing of restaurant properties. The Company seeks to grow its portfolio by acquiring additional real estate to lease, on a net basis, for use in the restaurant and retail industries.",
+  "website": "http://www.fcpt.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00VYCK6J1",
+    "figi": "BBG00VYCK6P4",
+    "isin": "FR0012788065"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0012788065",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8BP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8BP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALCOR.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0012788065.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BIOCORP PRODUCTION EO-,05",
+  "primary_symbol": "8BP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Biocorp Production designs, develops, and manufactures medical devices and drug delivery systems in France. The company provides Inspair, a smart cap to monitor inhalers and assesses the usage of the device; Mallya, a smart cap for pen injectors that captures injection data; Onejet, a motor driven disposable auto-injector designed to deliver viscosity products; Datapen, a motor driven pen injector; and Injay which collects essential information, such as injection completed, time and date, type of drug, batch number, and expiration date. It also offers pharmaceutical devices, such as NEWGUARD, a safety device compatible with various sizes of prefilled syringes; BIOPASS, a reconstitution system with a needle; and closure systems. The company was incorporated in 2004 and is headquartered in Issoire, France.",
+  "website": "http://biocorpsys.com"
+}

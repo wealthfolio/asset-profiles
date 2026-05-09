@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG008MW2K00",
+    "cusip": "00435F309",
+    "figi": "BBG008MW2K55",
+    "isin": "US00435F3091"
+  },
+  "isin": "US00435F3091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACR1.MU"
+    }
+  ],
+  "name": "ACCOR SP.ADR NEW 1/5/O.N",
+  "primary_symbol": "ACR1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

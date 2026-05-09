@@ -1,0 +1,59 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LTQFN34",
+    "cusip": "925050106",
+    "figi": "BBG00LTQFN98",
+    "isin": "US9250501064"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US9250501064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I9SA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I9SA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I9SA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VRNA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I9SA.F"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "VRNA.JK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "VERONA PHARMA SP.ADR 8",
+  "primary_symbol": "I9SA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Verona Pharma plc is a biopharmaceutical company focused on developing and commercializing therapies for respiratory diseases, headquartered in London, UK. The company's lead product candidate, ensifentrine, is a first-in-class, inhaled dual inhibitor of phosphodiesterase 3 and 4 (PDE3 and PDE4) being developed for the treatment of chronic obstructive pulmonary disease (COPD) and other respiratory diseases. Verona Pharma aims to improve the lives of patients with respiratory conditions.",
+  "website": "http://www.veronapharma.com"
+}

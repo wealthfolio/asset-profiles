@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BKGXQ4",
+    "cusip": "361448103",
+    "figi": "BBG000BKGZ70",
+    "isin": "US3614481030"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US3614481030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GATX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GAX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GAX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GATX Corporation",
+  "primary_symbol": "GATX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "GATX Corporation (NYSE: GATX) strives to be recognized as the finest railcar leasing company in the world by our customers, our shareholders, our employees and the communities where we operate. As the leading global railcar lessor, GATX has been providing quality railcars and services to its customers for more than 122 years. GATX has been headquartered in Chicago, Illinois since its founding in 1898.",
+  "website": "http://www.gatx.com"
+}

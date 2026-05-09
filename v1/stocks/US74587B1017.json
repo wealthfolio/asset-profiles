@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00BRBHVD0",
+    "cusip": "74587B101",
+    "figi": "BBG00BRBHWJ2",
+    "isin": "US74587B1017"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US74587B1017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLSE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Pulse Biosciences, Inc.",
+  "primary_symbol": "PLSE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pulse Biosciences, Inc. operates as a novel bioelectric medicine company. It offers CellFX System, a tunable, software-enabled, and console-based platform that delivers nano second duration pulses of electrical energy to non-thermally clear targeted cells while sparing adjacent non-cellular tissue primarily for dermatology applications by using its Nano-Pulse Stimulation technology. The company was formerly known as Electroblate, Inc. and changed its name to Pulse Biosciences, Inc. in December 2015. Pulse Biosciences, Inc. was incorporated in 2014 and is headquartered in Hayward, California.",
+  "website": "http://www.pulsebiosciences.com"
+}

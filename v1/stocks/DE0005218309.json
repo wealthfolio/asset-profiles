@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000TD3853",
+    "figi": "BBG000TD39C3",
+    "isin": "DE0005218309"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005218309",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBQ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBQ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MBQ.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MBQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MBQ.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MOBOTIX AG O.N.",
+  "primary_symbol": "MBQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mobotix AG is a German manufacturer of high-resolution, decentralized video surveillance systems. The company develops, produces and sells IP video systems including cameras, video management software and analysis solutions. Mobotix AG is headquartered in Langmeil, Germany.",
+  "website": "http://www.mobotix.com"
+}

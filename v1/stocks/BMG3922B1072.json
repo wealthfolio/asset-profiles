@@ -1,0 +1,53 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG000BYSH31",
+    "figi": "BBG000BYSL78",
+    "isin": "BMG3922B1072"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "BMG3922B1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "35G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "35G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "35G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "35G.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GENPACT LTD  DL 0,01",
+  "primary_symbol": "35G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Genpact Limited is a global professional services firm that delivers digital transformation for clients, providing consulting, technology, and operations management services, headquartered in New York, New York. They work with businesses across various industries to improve processes and drive growth. Genpact uses data, technology, and AI to help clients transform their businesses.",
+  "website": "http://www.genpact.com"
+}

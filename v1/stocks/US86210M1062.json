@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000JVT3H4",
+    "cusip": "86210M106",
+    "figi": "BBG002HRHVN5",
+    "isin": "US86210M1062"
+  },
+  "industry_group": "Materials",
+  "isin": "US86210M1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENUS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENUS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ENUS.F"
+    }
+  ],
+  "name": "STORA ENSO R ADR 1",
+  "primary_symbol": "ENUS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Stora Enso Oyj is a Finnish pulp and paper manufacturer producing paper, packaging and wood products. They also operate in renewable materials. The company is headquartered in Helsinki, Finland."
+}

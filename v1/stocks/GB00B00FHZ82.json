@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB00B00FHZ82"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "GB00B00FHZ82",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GBS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "GBS.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GG9.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GBS Inc.",
+  "primary_symbol": "GBS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "GBS Inc. operates as a biosensor diagnostic technology company. Its principal product is Saliva Glucose Biosensor, a saliva glucose monitoring system for diabetes management. The company also focuses on developing other diagnostic tests in the areas of biochemistry, tumor markers, immunology, hormones, and other biomarkers. It has a research agreement with Johns Hopkins Bloomberg School of Public Health for the development of saliva-based diagnostic tests. GBS Inc. was formerly known as Glucose Biosensor Systems (Greater China) Holdings, Inc. and changed its name to GBS Inc. in September 2019. The company was founded in 2016 and is headquartered in New York, New York. GBS Inc. is a subsidiary of Life Science Biosensor Diagnostics Pty Ltd.",
+  "website": "http://www.gbs.inc"
+}

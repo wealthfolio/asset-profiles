@@ -1,0 +1,53 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000BQZ616",
+    "figi": "BBG000BQZ7R6",
+    "isin": "IL0010823792"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "IL0010823792",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSEM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSEM.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TOW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TOW.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TOWER SEMICON. LTD IS-,10",
+  "primary_symbol": "TOW.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Tower Semiconductor Ltd., also known as TowerJazz, is an Israeli-based semiconductor foundry that manufactures integrated circuits. The company provides a range of customizable analog semiconductor solutions and technologies, including SiGe, BiCMOS, mixed-signal CMOS, RF CMOS, CMOS image sensors, non-imaging sensors, power management, and NVM. Tower Semiconductor is headquartered in Migdal HaEmek, Israel.",
+  "website": "http://towersemi.com"
+}

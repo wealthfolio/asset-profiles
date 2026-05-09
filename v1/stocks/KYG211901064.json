@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000Q6ZHP4",
+    "isin": "KYG211901064"
+  },
+  "industry_group": "Real Estate",
+  "isin": "KYG211901064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG211901064.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XSP.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHINA SCE GROUP HOLDINGS LTD",
+  "primary_symbol": "KYG211901064.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "China SCE Group Holdings Limited is a property developer focusing on residential and commercial properties in China. The company is involved in property development, property investment, and property management."
+}

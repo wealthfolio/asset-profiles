@@ -1,0 +1,31 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "composite_figi": "BBG000DHFB60",
+    "figi": "BBG000DHFBF0"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SJX.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Singapore Technologies Engineering Ltd",
+  "primary_symbol": "SJX.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Singapore Technologies Engineering Ltd operates as a technology, defense, and engineering company in Asia, Europe, the Middle East, and the United States. It offers technology and innovation to solve real-world problems through its portfolio of businesses across aerospace, smart city, defense, marine, and public security segments. It serves customers in the defense and commercial segments. Singapore Technologies Engineering Ltd was incorporated in 1997 and is headquartered in Singapore.",
+  "website": "http://www.stengg.com"
+}

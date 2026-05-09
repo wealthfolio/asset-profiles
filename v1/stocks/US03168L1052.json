@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KXXKCL4",
+    "cusip": "03168L105",
+    "figi": "BBG00KXXKCS7",
+    "isin": "US03168L1052"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03168L1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2DT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2DT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2DT.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AMNEAL PHMCTCLS, INC.",
+  "primary_symbol": "2DT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Amneal Pharmaceuticals, Inc. is a pharmaceutical company that develops, manufactures, and distributes generic and specialty pharmaceutical products. The company operates through two segments: generics and specialty. Amneal Pharmaceuticals is headquartered in Bridgewater, New Jersey.",
+  "website": "http://www.amneal.com"
+}

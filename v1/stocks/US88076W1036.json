@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000RRSK32",
+    "cusip": "88076W103",
+    "figi": "BBG000RRSMJ1",
+    "isin": "US88076W1036"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US88076W1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3T4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3T4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TDC"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LEE.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3T4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3T4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3T4.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TDC.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TERADATA (DEL.)  DL-,01",
+  "primary_symbol": "3T4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Teradata Corporation is a provider of data analytics and cloud data platform services. The company offers a platform that enables businesses to analyze and manage large amounts of data. Teradata is headquartered in San Diego, California.",
+  "website": "http://www.teradata.com"
+}

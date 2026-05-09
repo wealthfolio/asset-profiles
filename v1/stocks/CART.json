@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CART"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Maplebear Inc. Common Stock",
+  "primary_symbol": "CART",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Maplebear Inc. (doing business as Instacart) operates an online grocery platform that connects customers with personal shoppers. Shoppers fulfill and deliver grocery orders from various retailers. Instacart is headquartered in San Francisco, California."
+}

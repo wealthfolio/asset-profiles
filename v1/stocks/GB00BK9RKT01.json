@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DFCY58",
+    "figi": "BBG000DFCZS0",
+    "isin": "GB00BK9RKT01"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB00BK9RKT01",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LFPB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BK9RKT01.SG"
+    }
+  ],
+  "name": "TRAVIS PERKINS  LS-,1",
+  "primary_symbol": "LFPB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Travis Perkins PLC is a leading distributor of building materials to trade customers in the UK. The company operates a network of branches and provides a wide range of products, including timber, bricks, plumbing supplies, and tools. Travis Perkins is headquartered in Northampton, UK."
+}

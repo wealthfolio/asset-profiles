@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GDSKT7",
+    "cusip": "36116M106",
+    "figi": "BBG000GDSNM8",
+    "isin": "US36116M1062"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US36116M1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3FF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3FF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3FF.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FutureFuel Corp.",
+  "primary_symbol": "FF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "FutureFuel Corp., through its subsidiary, FutureFuel Chemical Company, manufactures and sells diversified chemical, bio-based fuel, and bio-based specialty chemical products in the United States. The company operates through two segments, Chemicals and Biofuels. The Chemicals segment provides various custom chemicals that are used in the agricultural chemical, coatings, chemical intermediates, industrial and consumer cleaning, oil and gas, and specialty polymers industries; and performance chemicals, such as polymer modifiers, glycerin products, and various specialty chemicals and solvents. The Biofuels segment is involved in the production and sale of biodiesel and petrodiesel blends; and the buying, sale, and shipping of refined petroleum products on common carrier pipelines. This segment markets its biodiesel products directly to customers through trucks, rail, and barges. The company is headquartered in Saint Louis, Missouri.",
+  "website": "http://www.futurefuelcorporation.com"
+}

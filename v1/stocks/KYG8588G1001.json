@@ -1,0 +1,36 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG8588G1001"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG8588G1001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5YQ.F"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "6900.HK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sunkwan Properties Group Limited",
+  "primary_symbol": "5YQ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Sunkwan Properties Group Limited, an investment holding company, engages in the property development and leasing activities in the People's Republic of China. It also provides project management services. The company was founded in 2010 and is headquartered in Shanghai, China.",
+  "website": "http://www.sunkwan.com.cn"
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AMZ2.L"
+    }
+  ],
+  "name": "Leverage Shares 2x Amazon ETC A",
+  "primary_symbol": "AMZ2.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Leverage Shares 2x Amazon ETC A is an exchange-traded commodity (ETC) designed to provide twice the daily performance of Amazon shares. It is a leveraged product that magnifies both gains and losses associated with Amazon's stock price. Investors use this ETC to gain short-term leveraged exposure to Amazon."
+}

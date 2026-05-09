@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000G4NF68",
+    "figi": "BBG000G4PMK5",
+    "isin": "AT0000908504"
+  },
+  "industry": "Software",
+  "industry_group": "Insurance",
+  "isin": "AT0000908504",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSV2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSV2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSV2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSV2.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VIG.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WSV2.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VIENNA INSURANCE GRP INH.",
+  "primary_symbol": "WSV2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Vienna Insurance Group AG Wiener Versicherung Gruppe is an Austrian insurance company providing a range of life, non-life, and health insurance products and services. It operates primarily in Central and Eastern Europe. Its headquarters are located in Vienna, Austria.",
+  "website": "http://www.sinovictor.com"
+}

@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1NJJ6",
+    "figi": "BBG000C1NLX5",
+    "isin": "TH0355010R16"
+  },
+  "isin": "TH0355010R16",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAL.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NVAL.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PTT EXPL.+PROD.-NVDR-BA 1",
+  "primary_symbol": "NVAL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Novae Group Plc provides services to the insurance industry, including claims management, software and related support. The company is involved in the property, motor and casualty sector. The company is headquartered in London, UK."
+}

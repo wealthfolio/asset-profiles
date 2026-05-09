@@ -1,0 +1,62 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "14161W105",
+    "isin": "US14161W1053"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US14161W1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDLX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYX.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LEC.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CDLX.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CYX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CYX.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cardlytics, Inc.",
+  "primary_symbol": "CDLX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Cardlytics, Inc. operates an advertising platform within financial institutions digital channels that include online, mobile, email, and various real-time notifications in the United States and the United Kingdom. It offers Cardlytics platform, a proprietary native bank advertising channel that enables marketers to reach consumers through their trusted and frequently visited online and mobile banking channels. The company was incorporated in 2008 and is headquartered in Atlanta, Georgia.",
+  "website": "http://www.cardlytics.com"
+}

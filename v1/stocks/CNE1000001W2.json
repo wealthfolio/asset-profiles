@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BC01D3",
+    "figi": "BBG000BC03X7",
+    "isin": "CNE1000001W2"
+  },
+  "industry_group": "Materials",
+  "isin": "CNE1000001W2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AQE.SG"
+    }
+  ],
+  "name": "ANHUI CONCH CEMENT  H YC1",
+  "primary_symbol": "AQE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Anhui Conch Cement Co. Ltd. is a Chinese cement manufacturer and distributor. The company's main products include clinker and cement, and it is one of the largest cement producers in China. Anhui Conch Cement Co. Ltd. is headquartered in Wuhu, Anhui Province, China."
+}

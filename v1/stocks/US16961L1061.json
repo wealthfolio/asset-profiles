@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008KF3ZD1",
+    "cusip": "16961L106",
+    "figi": "BBG008KF3ZL2",
+    "isin": "US16961L1061"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US16961L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "290A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "290A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDNY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "290A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US16961L1061.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHINOOK THERAP.  DL-,0001",
+  "primary_symbol": "290A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Chinook Therapeutics, Inc. is a biotechnology company focused on discovering, developing, and commercializing precision medicines for kidney diseases. The company is headquartered in Seattle, Washington. Their pipeline includes therapies for IgA nephropathy and other kidney disorders.",
+  "website": "http://www.chinooktx.com"
+}

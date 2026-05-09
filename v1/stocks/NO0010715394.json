@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG007B23NS3",
+    "figi": "BBG007B23NZ5",
+    "isin": "NO0010715394"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "NO0010715394",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "26Q.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "26Q.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "26Q.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AQUAO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010715394.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AQUALISBRAEMAR LOC ASA",
+  "primary_symbol": "26Q.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "AqualisBraemar LOC ASA, an investment holding company, provides marine and engineering consultancy services to the offshore oil and gas industry and offshore renewables market worldwide. It offers marine and offshore engineering services, such as deep and shallow water installation engineering; marine operations and surveying, including rig moving and tow master, as well as engineering support services; owns and supervises vessel construction; engineering and project management services; concept, FEED, and basic design services for new-build and vessel upgrades; and rig inspection services. The company also provides marine warranty and consultancy, risk consulting, transportation and installation, dynamic positioning and critical systems, and technical due diligence services. The company was formerly known as AqualisBraemar ASA and changed its name to AqualisBraemar LOC ASA in December 2020. AqualisBraemar LOC ASA was incorporated in 2014 and is headquartered in Oslo, Norway.",
+  "website": "http://aqualisbraemar.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "Cyprus",
+  "country_code": "CY",
+  "identifiers": {
+    "composite_figi": "BBG00YB7G9G3",
+    "cusip": "69269L104",
+    "figi": "BBG00YB7G9N5",
+    "isin": "US69269L1044"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "US69269L1044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1OZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1OZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OZON"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OZON.ME"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1OZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1OZ.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "OZON HOLDINGS (SP.ADS)/1",
+  "primary_symbol": "1OZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "OZON Holdings PLC operates as an e-commerce platform in Russia, offering a wide range of products across various categories, including electronics, apparel, and home goods. The company serves a large customer base through its online marketplace and delivery network. OZON Holdings PLC is headquartered in Moscow, Russia.",
+  "website": "http://www.ozon.ru"
+}

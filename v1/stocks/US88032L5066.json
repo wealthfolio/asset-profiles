@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BJ6R36",
+    "cusip": "88032L506",
+    "figi": "BBG000BJ6XG9",
+    "isin": "US88032L5066"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US88032L5066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TENX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YBOC.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Tenax Therapeutics, Inc.",
+  "primary_symbol": "TENX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Tenax Therapeutics, Inc., a specialty pharmaceutical company, engages in identifying, developing, and commercializing products for cardiovascular and pulmonary diseases in the United States and Canada. The company develops levosimendan, which completed a phase II clinical trials for the treatment of patients with pulmonary hypertension associated with heart failure with preserved ejection fraction; and Imatinib, a tyrosine kinase inhibitor for the treatment of pulmonary arterial hypertension. The company was formerly known as Oxygen Biotherapeutics, Inc. and changed its name to Tenax Therapeutics, Inc. in September 2014. Tenax Therapeutics, Inc. was founded in 1967 and is headquartered in Morrisville, North Carolina.",
+  "website": "http://www.tenaxthera.com"
+}

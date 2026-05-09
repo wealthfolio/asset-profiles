@@ -1,0 +1,65 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "NL0000009827"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NL0000009827",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NPP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSM2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSM2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSM2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSM2.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DSM.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DSM2.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "KONINKLIJKE DSM NV KONINKILIJKE",
+  "primary_symbol": "0NPP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Koninklijke DSM N.V. is a Dutch multinational corporation active in the fields of health, nutrition and materials. DSM delivers innovative solutions for human nutrition, animal nutrition, personal care and hygiene, medical devices, and the automotive industry. The company is headquartered in Heerlen, Netherlands."
+}

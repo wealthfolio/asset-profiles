@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BW38N0",
+    "figi": "BBG000BW3BG1",
+    "isin": "TH0765010R16"
+  },
+  "industry_group": "Transportation",
+  "isin": "TH0765010R16",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NYVQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NYVQ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NYVQ.SG"
+    }
+  ],
+  "name": "AIRPORTS THAIL.-NVDR-BA 1",
+  "primary_symbol": "NYVQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Airports of Thailand PCL manages and operates six international airports in Thailand, including Suvarnabhumi Airport and Don Mueang International Airport, providing air traffic control, passenger and cargo handling, and other related services. The company's primary business is facilitating air transportation and generating revenue from airport operations, concessions, and property rentals, contributing significantly to Thailand's tourism and economy. The company is headquartered in Bangkok, Thailand."
+}

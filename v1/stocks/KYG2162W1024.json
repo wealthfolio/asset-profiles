@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00369R800",
+    "figi": "BBG00369R864",
+    "isin": "KYG2162W1024"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Retailing",
+  "isin": "KYG2162W1024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1CY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYYHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1CY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1CY.SG"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3669.HK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHINA YONG.AUTOM.S.HD-,01",
+  "primary_symbol": "1CY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "CHINA YONG.AUTOM.S.HD-,01 is a Chinese company. It provides automotive services. The company is headquartered in China.",
+  "website": "http://www.ydauto.com.cn"
+}

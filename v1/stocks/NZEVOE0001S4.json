@@ -1,0 +1,41 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "isin": "NZEVOE0001S4"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "NZEVOE0001S4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EVO.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "EVO.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NZEVOE0001S4.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Evolve Education Group Limited",
+  "primary_symbol": "EVO.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Evolve Education Group Limited provides early childhood education (ECE) services in New Zealand and Australia. The company operates and manages ECE centers. It operates approximately 126 center-based ECE facilities under the Lollipops, Cubby Care, Active Explorers, Learning Adventures, Little Earth Montessori, Little Lights, Little Wonders, and Pascals brand names. The company was incorporated in 2014 and is based in Auckland, New Zealand.",
+  "website": "http://www.evolveeducation.co.nz"
+}

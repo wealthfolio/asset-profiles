@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZV8L5D1",
+    "figi": "BBG00ZV8L5F9",
+    "isin": "NO0010963275"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "NO0010963275",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "DSRT.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010963275.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Desert Control AS",
+  "primary_symbol": "DSRT.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Desert Control As, a climate technology company, engages in reclaiming degraded soil and turning desert sand into fertile soil. It offers liquid natural clay, a liquid clay compound that enables sand and degraded soil to retain water and nutrients. The company was founded in 2017 and is based in Sandnes, Norway.",
+  "website": "http://www.desertcontrol.com"
+}

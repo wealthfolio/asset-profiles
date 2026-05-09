@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BK2F42",
+    "cusip": "31620M106",
+    "figi": "BBG000BK2H93",
+    "isin": "US31620M1062"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US31620M1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FIS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZGY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZGY.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "F1NI34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FIS.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "FNIS.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ZGY.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZGY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZGY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZGY.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Fidelity National Information Services, Inc.",
+  "primary_symbol": "FIS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Fidelity National Information Services, Inc. provides technology solutions for merchants, banks, and capital markets firms worldwide. It operates through Merchant Solutions, Banking Solutions, and Capital Market Solutions segments. The Merchant Solutions segment offers merchant acquiring, integrated payment, and global e-commerce solutions. The Banking Solutions segment provides core processing and ancillary applications; digital solutions, including Internet, mobile, and e-banking; fraud, risk management, and compliance solutions; electronic funds transfer and network services; card and retail payment solutions; wealth and retirement solutions; and item processing and output services. The Capital Market Solutions segment offers securities processing and finance, global trading, asset management and insurance, and corporate liquidity solutions. The company was founded in 1968 and is headquartered in Jacksonville, Florida.",
+  "website": "http://www.fisglobal.com"
+}

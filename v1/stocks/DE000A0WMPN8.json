@@ -1,0 +1,48 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BJPTX8",
+    "figi": "BBG000BJPX69",
+    "isin": "DE000A0WMPN8"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE000A0WMPN8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPU2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPU2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CPU2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CPU2.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CPU SOFTWAREHOUSE",
+  "primary_symbol": "CPU2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CPU Softwarehouse AG, together with its subsidiaries, provides IT services and software solutions for banks, bank-related institutes, industries, financial services and institutions, and IT and telecommunication companies in Germany, Austria, and Switzerland. The company offers banking software solutions, such as CPU Investment Advisor, CPU Value Mirror, and CPU KREDIT. It also provides software development and telecommunication services; human resources services in the IT and telecommunications sectors; project and quality management services; and consulting and services solutions. CPU Softwarehouse AG was founded in 1981 and is headquartered in Augsburg, Germany.",
+  "website": "http://www.cpu-ag.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPDL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Spindle, Inc.",
+  "primary_symbol": "SPDL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Spindle, Inc. provides payment-processing services to merchants using its Catalyst Gateway. It also acts as an agent, independent contractor, or referral partner to broker merchants that it secures to other merchant processors for ongoing fees based on processing volume. The company serves small and medium-sized businesses. The company is based in Marco Island, Florida.",
+  "website": "http://www.spindle.com"
+}

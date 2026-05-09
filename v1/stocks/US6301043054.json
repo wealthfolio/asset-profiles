@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00CVW3PF3",
+    "cusip": "630104305",
+    "figi": "BBG00CVW3Q16",
+    "isin": "US6301043054"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US6301043054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NEL.F"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "NH.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "NH.NS"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NantHealth, Inc.",
+  "primary_symbol": "NH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NantHealth, Inc., together with its subsidiaries, operates as a healthcare IT company in the United States and internationally. It offers Eviti, a software-as-a-service (SaaS) based clinical decision support solution that centralizes clinical content and treatment cost data from Medicare reimbursements and treatment toxicity data; Eviti Connect, which utilizes the platform to offer pre-authorization automation that helps payers and providers navigate the complexities of cancer care; and Eviti Advisor product that allows physicians to access the Eviti platform's comprehensive library of evidence-based treatment standards and protocols to inform treatment decisions. The company also provides NaviNet, a suite of SaaS-based solution enabling payers and providers to streamline communication and consolidate information; NaviNet Open, a payer-provider collaboration platform for communication between health plans and providers; NaviNet AllPayer that provides eligibility, benefit, and claim status information to provider offices for commercial and government plans and CMS for Medicare beneficiaries through the NaviNet portal; and OpenNMS is an open-source network monitoring solution for enterprise-grade networks. In addition, it offers GPS Cancer, a comprehensive molecular profile that integrates whole genome/exome (DNA) sequencing of tumor and normal germline samples and whole transcriptome (RNA) sequencing; Omics Core, an in-vitro diagnostic built on a custom-targeted whole exome sequencing platform; and Quadris, a data solution that includes multi-data analysis, reporting, and professional service. The company was formerly known as Nant Health, LLC and changed its name to NantHealth, Inc. in June 2016. The company was incorporated in 2010 and is headquartered in Culver City, California. NantHealth, Inc. is as a subsidiary of NantWorks, LLC.",
+  "website": "http://nanthealth.com"
+}

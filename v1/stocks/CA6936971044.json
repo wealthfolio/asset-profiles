@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA6936971044"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA6936971044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSYBF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA6936971044.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PSYB.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PSYB.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PsyBio Therapeutics Corp.",
+  "primary_symbol": "PSYBF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PsyBio Therapeutics Corp., a biotechnology company, develops formulations of psychoactive medications produced by genetically modified bacteria for the treatment of mental health and other disorders. It also engages in the research and development of naturally occurring tryptamines found in varieties of mushrooms, other tryptamines, and phenethylamines; and new molecular structures that do not occur in nature, as well as have therapeutics properties. PsyBio Therapeutics Corp. is headquartered in Coconut Creek, Florida.",
+  "website": "http://www.psybiolife.com"
+}

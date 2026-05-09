@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "73102V105",
+    "isin": "US73102V1052"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US73102V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POLA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPW.MU"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "POLA.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PPW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US73102V1052.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Polar Power, Inc.",
+  "primary_symbol": "POLA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Polar Power, Inc. designs, manufactures, and sells direct current (DC), power generators, renewable energy, and cooling systems in the United States and internationally. It offers DC base power systems, DC hybrid power systems, and DC solar hybrid power systems. The company serves customers in the telecommunications, military, commercial, industrial, and marine markets. It sells its products through direct sales force, and a network of independent service providers and dealers. The company was formerly known as Polar Products, Inc. and changed its name to Polar Power, Inc. in October 1991. Polar Power, Inc. was incorporated in 1979 and is based in Gardena, California.",
+  "website": "http://www.polarpower.com"
+}

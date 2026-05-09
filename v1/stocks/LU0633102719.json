@@ -1,0 +1,63 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG001QYYDH0",
+    "figi": "BBG001QYYDP1",
+    "isin": "LU0633102719"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "LU0633102719",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1SO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1SO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMSEY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMSOF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1910.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1SO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1SO.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SAMSONITE INTL SA",
+  "primary_symbol": "1SO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Samsonite International S.A. is a global luggage and travel accessories company, offering a wide range of products including suitcases, backpacks, business cases, and travel accessories under brands such as Samsonite, Tumi, and American Tourister. The company distributes its products through various channels, including retail stores, e-commerce platforms, and wholesale distribution, and is headquartered in Luxembourg.",
+  "website": "http://www.samsonite.com"
+}

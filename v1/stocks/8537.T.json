@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8537.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "The Taiko Bank,Ltd.",
+  "primary_symbol": "8537.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Taiko Bank,Ltd. provides various banking products and services in Japan. The company offers loans, credit card and guarantee, general leasing, foreign exchange, and Internet banking services. It operates through a network of 71 branches. The company was founded in 1942 and is headquartered in Nagaoka, Japan.",
+  "website": "http://www.taikobank.jp"
+}

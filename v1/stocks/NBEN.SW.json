@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NBEN.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "nebag ag",
+  "primary_symbol": "NBEN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "nebag ag is a publicly owned investment manager. The firm provides its services to Institutional and private investors. It invests in in Switzerland or in neighboring countries. nebag ag is based in Zurich, Switzerland.",
+  "website": "http://www.nebag.ch"
+}

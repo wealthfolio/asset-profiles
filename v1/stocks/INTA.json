@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INTA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Intapp Inc. Common Stock",
+  "primary_symbol": "INTA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Intapp Inc. is a software company that provides cloud-based solutions for professional and financial services firms. Their platform helps firms manage client relationships, improve operational efficiency, and mitigate risk. Intapp is headquartered in Palo Alto, California."
+}

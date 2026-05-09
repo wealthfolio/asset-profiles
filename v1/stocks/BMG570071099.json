@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG006SC41C9",
+    "figi": "BBG006SC41L9",
+    "isin": "BMG570071099"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "BMG570071099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUP.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2186.HK"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "2186.KL"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2186.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LUP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LUP.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LUYE PHARMA GROUP DL-,02",
+  "primary_symbol": "LUP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Luye Pharma Group Ltd. is a specialty pharmaceutical company dedicated to the R&D, manufacturing, and sale of innovative medications. The company focuses on therapeutic areas including oncology, central nervous system, and cardiovascular diseases. Luye Pharma is headquartered in Shanghai, China.",
+  "website": "http://www.luye.cn"
+}

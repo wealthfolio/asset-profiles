@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005001943"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "IT0005001943",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ECK.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Ecosuntek S.p.A.",
+  "primary_symbol": "ECK.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Ecosuntek S.p.A. produces electricity from renewable sources in Italy and Romania. The company generates power through solar and wind resources. It owns and manages photovoltaic plants with an installed capacity of 32 MW, including 27 MW in Italy and 5 MW in Romania. In addition, the company constructs photovoltaic systems for third party customers. Ecosuntek S.p.A. was founded in 2008 and is based in Gualdo Tadino, Italy.",
+  "website": "http://www.ecosuntek.com"
+}

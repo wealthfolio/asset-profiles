@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000P35NS9",
+    "figi": "BBG000P35SF2",
+    "isin": "JP3659000008"
+  },
+  "industry_group": "Transportation",
+  "isin": "JP3659000008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WEJ.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WEJ.SG"
+    }
+  ],
+  "name": "WEST JAPAN RWY",
+  "primary_symbol": "WEJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "West Japan Railway Company provides passenger railway transportation services. The company operates various rail lines and related businesses in the western Japan region. The company is headquartered in Osaka, Japan."
+}

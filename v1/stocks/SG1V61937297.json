@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BP8RX7",
+    "figi": "BBG000BP8TX3",
+    "isin": "SG1V61937297"
+  },
+  "industry_group": "Transportation",
+  "isin": "SG1V61937297",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIA1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIA1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIA1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIA1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SIA1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SIA1.SG"
+    }
+  ],
+  "name": "SINGAPORE AIRLINES  O.N.",
+  "primary_symbol": "SIA1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Singapore Airlines Limited is the flag carrier airline of Singapore. It operates passenger flights and cargo services to many destinations around the world and is known for its high-quality service and modern fleet. The company is headquartered at Changi Airport in Singapore."
+}

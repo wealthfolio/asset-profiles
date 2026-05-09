@@ -1,0 +1,65 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "SE0000106270"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Retailing",
+  "isin": "SE0000106270",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HBP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMSB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMSB.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMSB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMSB.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "HM.CN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HMSB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HMSB.SG"
+    }
+  ],
+  "name": "H & M HENNES & MAURITZ AB HENNE",
+  "primary_symbol": "0HBP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "H & M Hennes & Mauritz AB is a Swedish multinational clothing retail company. The company operates a chain of stores that offer fashion apparel, accessories, and home goods. H & M Hennes & Mauritz AB is headquartered in Stockholm, Sweden.",
+  "website": "http://hawkmoonresources.com"
+}

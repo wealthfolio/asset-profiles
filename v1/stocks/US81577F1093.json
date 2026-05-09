@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "81577F109",
+    "isin": "US81577F1093"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US81577F1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXEN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXEN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXEN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEEL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NXEN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NXEN.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nexien BioPharma, Inc.",
+  "primary_symbol": "NXEN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Nexien BioPharma, a pharmaceutical company, engages in the formulation, development, and commercialization of cannabinoid-based pharmaceuticals, and pre-clinical and clinical pathways to address a range of medical conditions and disorders. The company was formerly known as Intiva BioPharma Inc. and changed its name to Nexien BioPharma, Inc. in September 2018. Nexien BioPharma, Inc. is based in Glendale, Colorado.",
+  "website": "http://www.nexienbiopharma.com"
+}

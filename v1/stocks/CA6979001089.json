@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CHSVD5",
+    "figi": "BBG000CHTZS9",
+    "isin": "CA6979001089"
+  },
+  "industry_group": "Materials",
+  "isin": "CA6979001089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PA2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PA2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PA2.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PA2.DU"
+    }
+  ],
+  "name": "PAN AMER. SILVER CORP.",
+  "primary_symbol": "PA2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "PAN AMERICAN SILVER CORP. is a silver mining company that engages in silver exploration, mine development, extraction, processing, refining, and reclamation. The company owns and operates silver mines located in Mexico, Peru, Bolivia, Argentina, and Chile. Pan American Silver is headquartered in Vancouver, British Columbia, Canada."
+}

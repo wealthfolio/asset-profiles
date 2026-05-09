@@ -1,0 +1,23 @@
+{
+  "identifiers": {
+    "isin": "DE0009780486"
+  },
+  "isin": "DE0009780486",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "OG76.VI"
+    }
+  ],
+  "name": "EGB OE TL.Z./AIXTRON",
+  "primary_symbol": "OG76.VI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

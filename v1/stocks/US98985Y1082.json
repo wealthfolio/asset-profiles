@@ -1,0 +1,52 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "cusip": "98985Y108",
+    "isin": "US98985Y1082"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US98985Y1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0OX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0OX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZYME"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0OX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0OX.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Zymeworks Inc.",
+  "primary_symbol": "0OX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Zymeworks Inc., a clinical-stage biopharmaceutical company, discovers, develops, and commercializes biotherapeutics for the treatment of cancer. The company's lead product candidates include zanidatamab, a novel bispecific antibody that is in Phase 1 and Phase 2 clinical trials for the treatment of biliary tract, gastroesophageal adenocarcinomas, and breast cancer; and ZW49, a biparatopic anti- human epidermal growth factor receptor 2 (HER2) antibody-drug conjugate that is in Phase 1 clinical trial for the treatment of advanced or metastatic HER2-expressing tumors. The company has strategic partnerships with Merck Sharp & Dohme Research Ltd.; Eli Lilly and Company; Bristol-Myers Squibb company; GlaxoSmithKline Intellectual Property Development Ltd.; Daiichi Sankyo Co., Ltd.; Janssen Biotech, Inc.; and BeiGene, Ltd. It also has licensing and research collaboration with LEO Pharma A/S to discover and develop bispecific antibodies; and Iconic Therapeutics, Inc. Zymeworks Inc. was founded in 2003 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.zymeworks.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DHCNL"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Diversified Healthcare Trust",
+  "primary_symbol": "DHCNL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "DHC is a real estate investment trust, or REIT, that owns medical office and life science properties, senior living communities and wellness centers throughout the United States. DHC is managed by the operating subsidiary of The RMR Group Inc., an alternative asset management company that is headquartered in Newton, MA.",
+  "website": "http://www.dhcreit.com"
+}

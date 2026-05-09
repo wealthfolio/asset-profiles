@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA6698091056"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA6698091056",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOVRF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NOVR.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Nova Royalty Corp.",
+  "primary_symbol": "NOVRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nova Royalty Corp., a royalty company, focuses on acquiring royalties on the copper and nickel deposits. The company was incorporated in 2018 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.novaroyalty.com"
+}

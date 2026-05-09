@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BNT8L4",
+    "figi": "BBG000BNTD88",
+    "isin": "HK0006000050"
+  },
+  "industry_group": "Utilities",
+  "isin": "HK0006000050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEH.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEH.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HEH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HEH.SG"
+    }
+  ],
+  "name": "POWER ASSETS HLDG.LTD.",
+  "primary_symbol": "HEH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Power Assets Holdings Limited is a Hong Kong-based investment holding company primarily engaged in the generation, transmission, and distribution of electricity. The company invests in power-related businesses in Hong Kong, mainland China, Australia, the United Kingdom, and other countries and is headquartered in Hong Kong."
+}

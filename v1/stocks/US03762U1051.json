@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PNLBC0",
+    "cusip": "03762U105",
+    "figi": "BBG000PNLFB2",
+    "isin": "US03762U1051"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Diversified Financials",
+  "isin": "US03762U1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9A1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9A1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ARI.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "APOLLO COM.REAL EST.FIN.",
+  "primary_symbol": "9A1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Apollo Commercial Real Estate Finance, Inc. is a real estate investment trust (REIT) that originates, invests in, and manages commercial first mortgage loans and other commercial real estate-related debt investments. The company primarily focuses on originating senior mortgage loans secured by a diverse portfolio of commercial properties located in major metropolitan areas across the United States and Europe. Apollo Commercial Real Estate Finance is managed by an affiliate of Apollo Global Management and is headquartered in New York, New York.",
+  "website": "http://www.apolloreit.com"
+}

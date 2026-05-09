@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00X3H6JM4",
+    "cusip": "81728J109",
+    "figi": "BBG00X3H6JV4",
+    "isin": "US81728J1097"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US81728J1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRTS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5TX.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SENSUS HEALTHCARE  DL-,01",
+  "primary_symbol": "5TX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Sensus Healthcare, Inc. is a medical device company that manufactures and sells superficial radiation therapy (SRT) systems used to treat non-melanoma skin cancers and keloids. The company's SRT systems offer a non-invasive alternative to surgical removal of skin lesions. Sensus Healthcare is headquartered in Boca Raton, Florida.",
+  "website": "http://www.sensushealthcare.com"
+}

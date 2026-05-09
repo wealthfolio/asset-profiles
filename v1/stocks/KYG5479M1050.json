@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00ZJY08K7",
+    "figi": "BBG00ZJY08R0",
+    "isin": "KYG5479M1050"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "KYG5479M1050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L87A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L87A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LI"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2015.TW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "L87A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L87A.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LIAN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Li Auto Inc.",
+  "primary_symbol": "L87A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Li Auto Inc., through its subsidiaries, designs, develops, manufactures, and sells smart electric sport utility vehicles (SUVs) in China. It offers Li ONE, a six-seat electric SUV that equipped with a range of extension system and smart vehicle solutions. The company was formerly known as Leading Ideal Inc. and changed its name to Li Auto Inc. in July 2020. Li Auto Inc. was founded in 2015 and is headquartered in Beijing, China.",
+  "website": "http://www.lixiang.com"
+}

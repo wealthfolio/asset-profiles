@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BDDCF1",
+    "isin": "GB0002318888"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GB0002318888",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0002318888.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0002318888.SW"
+    }
+  ],
+  "name": "CRANSWICK PLC",
+  "primary_symbol": "GB0002318888.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Cranswick PLC is a food producer supplying a range of fresh pork, poultry, cooked meats, and pastry products to the UK food retail market. The company focuses on high-quality, sustainable food production. Cranswick is headquartered in Hull, United Kingdom."
+}

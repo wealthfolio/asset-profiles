@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0099SC032",
+    "figi": "BBG0099SC096",
+    "isin": "CA31811L1076"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA31811L1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2M0A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2M0A.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FIORF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2M0A.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "FIOR.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FIORE CANNABIS LTD",
+  "primary_symbol": "2M0A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fiore Cannabis Ltd. engages in the cultivation and production of medical and recreational marijuana in Canada and the United States. The company was formerly known as Citation Growth Corp. and changed its name to Fiore Cannabis Ltd. in November 2020. Fiore Cannabis Ltd. was incorporated in 2007 and is headquartered in Kelowna, Canada.",
+  "website": "http://fiorecannabis.com"
+}

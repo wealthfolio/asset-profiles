@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XX15FB7",
+    "figi": "BBG00XX15FH1",
+    "isin": "PLMRCTR00015"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "PLMRCTR00015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MM2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRC"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QJM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MM2.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MRC.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MRC.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLMRCTR00015.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MERCATOR MEDICAL  ZY 1",
+  "primary_symbol": "MM2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mercator Medical S.A. is a Poland-based manufacturer and distributor of disposable medical gloves and other medical products. The company's product portfolio includes examination, surgical, and protective gloves made of latex, nitrile, and vinyl, as well as medical clothing and dressings, operating from its headquarters in Poland.",
+  "website": "http://www.mrcglobal.com"
+}

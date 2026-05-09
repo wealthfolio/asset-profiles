@@ -1,0 +1,68 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG000FYZNC6",
+    "figi": "BBG000FYZT79",
+    "isin": "ZAE000012084"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "ZAE000012084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HY7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRGHY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SRHGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HY7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HY7.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HY7A.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "SHP.JO"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SRH.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SHOPRITE HLD LTD RC 1,134",
+  "primary_symbol": "HY7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Shoprite Holdings Ltd is a South African retailer operating supermarkets, hypermarkets, and furniture stores across Africa; the company offers a wide range of food, household goods, and general merchandise. Shoprite also provides financial services like money transfers and bill payments in its stores. Shoprite Holdings is headquartered in Brackenfell, South Africa.",
+  "website": "http://www.shopriteholdings.co.za"
+}

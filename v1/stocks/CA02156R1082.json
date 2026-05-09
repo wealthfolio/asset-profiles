@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG001J17LL7",
+    "figi": "BBG001J17LS0",
+    "isin": "CA02156R1082"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA02156R1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AJ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AJ1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALTPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9AJ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9AJ1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "APN.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Altiplano Metals Inc.",
+  "primary_symbol": "9AJ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Altiplano Metals Inc., a junior resource company, focuses on evaluating and acquiring exploration projects in Canada and internationally. It owns interests in the Farellon and Maria Luisa copper and gold projects located near the town of La Serena, Chile. The company was formerly known as Altiplano Minerals Ltd. Altiplano Metals Inc. was incorporated in 2010 and is headquartered in Edmonton, Canada.",
+  "website": "http://www.apnmetals.com"
+}

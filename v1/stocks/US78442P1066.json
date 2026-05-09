@@ -1,0 +1,54 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000C2RL96",
+    "cusip": "78442P106",
+    "figi": "BBG000C2RNZ3",
+    "isin": "US78442P1066"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Diversified Financials",
+  "isin": "US78442P1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SM1.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SM1.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SM1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SM1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SLM CORP.  DL-,20",
+  "primary_symbol": "SM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SLM Corporation, commonly known as Sallie Mae, is a US-based corporation that originates, services, and collects student loans. It provides financial services and products to students and families to help pay for higher education. Sallie Mae is headquartered in Newark, Delaware.",
+  "website": "http://www.synlait.com"
+}

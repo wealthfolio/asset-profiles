@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KT5WX1",
+    "cusip": "811699107",
+    "figi": "BBG000KT60X0",
+    "isin": "US8116991071"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US8116991071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SI2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SI2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SI2.SG"
+    }
+  ],
+  "name": "SEACHANGE INTL  DL-,01",
+  "primary_symbol": "SI2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SeaChange International, Inc. provides video delivery platforms that enable content owners, broadcasters, and cable, telecommunications, and mobile service providers to stream live and on-demand video content. The company's software and hardware platforms manage video delivery, advertising, and subscriber management. SeaChange International is headquartered in Acton, Massachusetts."
+}

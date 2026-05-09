@@ -1,0 +1,48 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000G99YV4",
+    "figi": "BBG000G99ZV1",
+    "isin": "IT0001206769"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Transportation",
+  "isin": "IT0001206769",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QOL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QOL.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SOL.MI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SOL1.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SOL S.P.A.  EO 0,52",
+  "primary_symbol": "QOL.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SOL S.P.A. produces and distributes industrial gases, technical gases, and related services for various sectors, including healthcare, manufacturing, and the environment, headquartered in Monza, Italy. They offer a range of gases, equipment, and support services.",
+  "website": "http://www.solgroup.com"
+}

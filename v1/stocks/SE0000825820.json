@@ -1,0 +1,35 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R07ZM0",
+    "figi": "BBG000R081Z0",
+    "isin": "SE0000825820"
+  },
+  "isin": "SE0000825820",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYV.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LYV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LYV.SG"
+    }
+  ],
+  "name": "LUNDIN ENERGY  SK-,01",
+  "primary_symbol": "LYV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

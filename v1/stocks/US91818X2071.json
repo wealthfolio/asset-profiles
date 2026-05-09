@@ -1,0 +1,42 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "cusip": "91818X207",
+    "isin": "US91818X2071"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US91818X2071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NEW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UXIN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UX0.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Uxin Limited",
+  "primary_symbol": "NEW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Uxin Limited, an investment holding company, operates a used car e-commerce platform in China. It provides selection of used cars, evaluation of car condition, various car-related value-added products and services, and supporting services to online used car transactions under the Uxin Used Car brand; and operates Uxin Auction, an application that helps business buyers to source vehicles through online auctions. The company also facilitates used car transaction services, and financing solutions offered by third-party financing partners to buyers for their used car purchases through websites, xin.com and youxinpai.com. Uxin Limited was founded in 2011 and is headquartered in Beijing, China.",
+  "website": "http://www.xin.com"
+}

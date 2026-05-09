@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CABB"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "California Business Bank",
+  "primary_symbol": "CABB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "California Business Bank provides various financial products and services for small businesses and entrepreneurs. The company offers various personal and business deposit products; and business and commercial loans comprising SBA, commercial and industrial, and commercial real estate loans. It also provides online and mobile banking, mobile deposit, bill pay, and other services. The company was incorporated in 2005 and is headquartered in Irvine, California.",
+  "website": "http://www.californiabusinessbank.com"
+}

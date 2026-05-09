@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCAIW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cascadia Acquisition Corp. Warrant",
+  "primary_symbol": "CCAIW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Cascadia Acquisition Corp. Warrant gives the holder the right to purchase one share of Class A common stock in Cascadia Acquisition Corp. at a specified price. These warrants were issued as part of the units offered during the SPAC's initial public offering. The warrants become exercisable following a qualifying business combination."
+}

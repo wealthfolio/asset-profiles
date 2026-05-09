@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R1X8N8",
+    "cusip": "12503M108",
+    "figi": "BBG000R1XC86",
+    "isin": "US12503M1080"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Insurance",
+  "isin": "US12503M1080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C67.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C67.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CBOE"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "C1BO34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C67.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C67.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CBOE GLOB.MKTS INC.DL-,01",
+  "primary_symbol": "C67.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Cboe Global Markets, Inc. operates exchanges and provides trading and investment solutions. The company is headquartered in Chicago, Illinois.",
+  "website": "http://www.cboe.com"
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG008FDD379",
+    "figi": "BBG008FDD3F0",
+    "isin": "DE000A0SMU87"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE000A0SMU87",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB2.TI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A0SMU87.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NB2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NB2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NB2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NORTHERN DATA AG INH O.N.",
+  "primary_symbol": "NB2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Northern Data AG, based in Frankfurt, Germany, operates as a technology company specializing in high-performance computing (HPC) and infrastructure solutions. It provides services for blockchain applications, including Bitcoin mining, and other compute-intensive tasks. The company offers a range of solutions from hardware infrastructure to software platforms.",
+  "website": "http://www.northerndata.de"
+}

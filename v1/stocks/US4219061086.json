@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BKYVF0",
+    "cusip": "421906108",
+    "figi": "BBG000BKZ806",
+    "isin": "US4219061086"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US4219061086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HCSG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HS1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HS1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HS1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Healthcare Services Group, Inc.",
+  "primary_symbol": "HCSG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Healthcare Services Group, Inc. provides management, administrative, and operating services to the housekeeping, laundry, linen, facility maintenance, and dietary service departments of nursing homes, retirement complexes, rehabilitation centers, and hospitals in the United States. It operates through two segments, Housekeeping and Dietary. The Housekeeping segment engages in the cleaning, disinfecting, and sanitizing of resident rooms and common areas of client's facility, as well as laundering and processing of the bed linens, uniforms, resident personal clothing, and other assorted linen items utilized at a client's facility. The Dietary segment provides food purchasing, meal preparation, and professional dietitian services, which include the development of menus that meet the dietary needs of residents. This segment also offers clinical consulting services to facilities. As of December 31, 2020, the company provided its services to approximately 3,000 facilities. Healthcare Services Group, Inc. was incorporated in 1976 and is based in Bensalem, Pennsylvania.",
+  "website": "http://www.hcsgcorp.com"
+}

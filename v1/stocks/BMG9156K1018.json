@@ -1,0 +1,41 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "isin": "BMG9156K1018"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "BMG9156K1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0FF.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "2020.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "2020O.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "2020 Bulkers Ltd",
+  "primary_symbol": "0FF.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "2020 Bulkers Ltd owns and operates large dry bulk vessels worldwide. The company operates eight scrubber fitted 208,000 deadweight tonnage Newcastlemax dry bulk carriers. 2020 Bulkers Ltd was incorporated in 2017 and is based in Hamilton, Bermuda.",
+  "website": "http://www.2020bulkers.com"
+}

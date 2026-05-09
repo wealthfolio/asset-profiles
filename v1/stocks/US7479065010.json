@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "747906501",
+    "isin": "US7479065010"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US7479065010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QMCO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QNT2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "QNT2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "QNT2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QNT2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QNT2.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Quantum Corporation",
+  "primary_symbol": "QMCO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Quantum Corporation provides products for storing and managing digital video and video-like data in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company offers StorNext software systems that enable high-speed ingest, editing, processing, and management of digital video and image datasets; and Scalar tape systems that provide long-term data storage facility to archive and preserve digital content for decades. It also provides DXi backup systems for backup storage and multi-site disaster recovery; surveillance and physical security storage systems, including video recording servers, as well as hyperconverged storage systems for video surveillance management and recording; and appliances designed for video surveillance analytics and to run various types of access control systems. In addition, the company offers in-vehicle storage systems, which are removable storage systems for in-vehicle data capture, mobile surveillance, and military applications; managed services, implementation and training services, and support services; and object storage systems for online content repositories, such as media archives, genome sequencing data repositories, and big data lakes. Further, it sells linear tape-open (LTO) tape cartridges, as well as standalone LTO tape drives for small business and desktop use. The company sells its products through a network of distributors, value-added resellers, direct marketing resellers, original equipment manufacturers, and other suppliers, as well as directly to corporate entities and government agencies. It serves corporations, government agencies, service providers, broadcasters, movie studios, sports leagues and teams, and enterprises. Quantum Corporation was founded in 1980 and is headquartered in San Jose, California.",
+  "website": "http://www.quantum.com"
+}

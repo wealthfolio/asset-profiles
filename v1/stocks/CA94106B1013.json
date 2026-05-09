@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000NP5QK3",
+    "figi": "BBG000NP5V77",
+    "isin": "CA94106B1013"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "CA94106B1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UI51.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UI51.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WCN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UI51.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UI51.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WCN.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WCN.TO"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "WASTE CONNECTIONS",
+  "primary_symbol": "UI51.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Waste Connections, Inc. provides non-hazardous solid waste collection, transfer, disposal and recycling services. They serve residential, commercial, industrial and exploration and production customers. The company is headquartered in The Woodlands, Texas.",
+  "website": "http://www.wasteconnections.com"
+}

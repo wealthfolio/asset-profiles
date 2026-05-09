@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "O4B.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "OVB Holding AG",
+  "primary_symbol": "O4B.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "OVB Holding AG, through its subsidiaries, provides advisory and brokerage services to private households in Europe. The company engages in the provision of advisory to clients in structuring their finances; and broking various financial products offered by insurance companies, banks, building societies, and other enterprises. OVB Holding AG was founded in 1970 and is headquartered in Cologne, Germany.",
+  "website": "http://www.ovb.eu"
+}

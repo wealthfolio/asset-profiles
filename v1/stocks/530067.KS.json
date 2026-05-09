@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "530067.KS"
+    }
+  ],
+  "name": "Samsung KRX Gold Spot ETN",
+  "primary_symbol": "530067.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Note (ETN) that tracks the KRX Gold Spot price. It allows investors to gain exposure to the gold market without directly owning physical gold. The ETN is issued by Samsung."
+}

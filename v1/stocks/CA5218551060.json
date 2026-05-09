@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00BMCNVJ0",
+    "figi": "BBG00BMCNVQ2",
+    "isin": "CA5218551060"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "CA5218551060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LL1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LL1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LNLHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA5218551060.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LL1.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "LLP.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LeanLife Health Inc.",
+  "primary_symbol": "LL1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "LeanLife Health Inc. produces and sells omega-3 fatty acid products worldwide. It offers its products in liquid, emulsion, or powder forms for use in baked goods, processed meats, noodles, beverages, milk products, and chocolates. The company was formerly known as LeenLife Pharma International Inc. and changed its name to LeanLife Health Inc. in January 2018. LeanLife Health Inc. was incorporated in 2014 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.leanlifehealth.com"
+}

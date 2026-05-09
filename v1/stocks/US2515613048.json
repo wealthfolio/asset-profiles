@@ -1,0 +1,87 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "cusip": "251561304",
+    "isin": "US2515613048"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US2515613048",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLAKF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLAKY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHAB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHAB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LHA.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LHA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "LHA.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LHA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "LHA.VI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LHAB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LHAB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LHAB.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Deutsche Lufthansa AG",
+  "primary_symbol": "DLAKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Deutsche Lufthansa AG operates as an aviation company in Germany and internationally. The company's Network Airlines segment offers passenger services through a route network of 273 destinations in 86 countries. Its Eurowings segment provides passenger services through a route network of more than 210 destinations in 60 countries. The company's Logistics Business segment offers transport services for various cargoes, including living animals, valuable cargo, post and dangerous goods, and temperature-sensitive goods serving approximately 300 destinations in 100 countries. Its Maintenance, Repair and Overhaul Services (MRO) segment provides maintenance, repair, and overhaul services for civilian commercial aircraft serving original equipment manufacturers and aircraft leasing companies, operators of VIP jets, and airlines, as well as develops and manufactures cabin and digital products. The company's Catering Business segment engages in-flight sales and entertainment, in-flight service equipment, and the associated logistics services, as well as consulting services; and operates airport lounges. As of December 31, 2020, it had a fleet of 757 aircraft. Deutsche Lufthansa AG was founded in 1926 and is headquartered in Cologne, Germany.",
+  "website": "http://www.lufthansagroup.com"
+}

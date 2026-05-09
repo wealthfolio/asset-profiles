@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG008VPR4Q6",
+    "figi": "BBG008VPR4X8",
+    "isin": "CA0898041086"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "CA0898041086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7111.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7111.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBKCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIGG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7111.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BIGG.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BIGG Digital Assets Inc.",
+  "primary_symbol": "7111.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BIGG Digital Assets Inc. operates in the digital assets and blockchain technology industry. It has two segments, Blockchain Technology Development and Digital Currency Sales Brokerage. The company develops QLUET, a blockchain-agnostic search and analytics engine that enabling law enforcement, RegTech, regulators, and government agencies to visually track, trace, and monitor digital currencies transactions at a forensic level; and BitRank Verified that offers a risk score for digital currencies that enables RegTech, banks, ATMs, exchanges, and retailers to meet traditional regulatory/compliance requirements. It also develops brokerage and exchange software to make the purchase and sale of digital currency easily accessible to the mass consumer and investor with a focus on compliance and safety. The company was formerly known as BIG Blockchain Intelligence Group Inc. and changed its name to BIGG Digital Assets Inc. in September 2019. BIGG Digital Assets Inc. is headquartered in Vancouver, Canada.",
+  "website": "http://www.biggdigitalassets.com"
+}

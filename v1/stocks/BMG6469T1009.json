@@ -1,0 +1,43 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG0037P67R9",
+    "figi": "BBG0037P67X2",
+    "isin": "BMG6469T1009"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "BMG6469T1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NE6.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NE6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NE6.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NEWOCEAN ENERGY HLD.HD-10",
+  "primary_symbol": "NE6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "NewOcean Energy Holdings Limited, an investment holding company, distributes and sells liquefied petroleum gas (LPG) and natural gas, and oil/chemical products in the People's Republic of China. The company sells LPG to industrial customers, auto-gas operators, wholesalers, bottled LPG end-users, auto-gas end-users, etc. It also trades in electronic products, such as integrated circuits and mobile phones. Further, it is involved in the property investment and development activities. The company is headquartered in Wanchai, Hong Kong. NewOcean Energy Holdings Limited is a subsidiary of Uniocean Investments Limited.",
+  "website": "http://www.newoceanhk.com"
+}

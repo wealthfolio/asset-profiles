@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Q42N9C5",
+    "cusip": "91531W106",
+    "figi": "BBG00Q42N9K6",
+    "isin": "US91531W1062"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US91531W1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1M5.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1M5.DU"
+    }
+  ],
+  "name": "UP FINT. HLDG (SP.ADR) A",
+  "primary_symbol": "1M5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "UP Fintech Holding Limited provides online brokerage services focusing on global investment opportunities for Chinese investors. The company offers access to securities trading in U.S., Hong Kong, and China markets through its mobile app. TICKER: UP Fintech Holding Limited provides online brokerage services focusing on global investment opportunities for Chinese investors in U.S., Hong Kong, and China markets."
+}

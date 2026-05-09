@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "GERHSP.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "German High Street Properties A/S",
+  "primary_symbol": "GERHSP.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "German High Street Properties A/S invests in and rents high-street properties in Germany and in the Nordic countries. The company is based in Charlottenlund, Denmark.",
+  "website": "http://www.germanhighstreet.dk"
+}

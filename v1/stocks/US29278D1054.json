@@ -1,0 +1,49 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "identifiers": {
+    "composite_figi": "BBG00CSNCJR8",
+    "cusip": "29278D105",
+    "figi": "BBG00CSNCJZ9",
+    "isin": "US29278D1054"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US29278D1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "355.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "355.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENIC"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "ENELCHILE.SN"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ENEL CHILE SA ADR REGS/50",
+  "primary_symbol": "355.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Enel Chile S.A. is a Chilean electricity generation and distribution company, part of the Enel Group, with operations in Chile, headquartered in Santiago, Chile. The company generates electricity from various sources, including hydroelectric, thermal, and renewable energy sources and distributes energy. Enel Chile focuses on providing reliable and sustainable energy solutions.",
+  "website": "http://www.enel.cl"
+}

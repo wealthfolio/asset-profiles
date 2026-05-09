@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BRV2X2",
+    "cusip": "208242107",
+    "figi": "BBG000BRV5H3",
+    "isin": "US2082421072"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US2082421072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CN4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CONN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CN4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CN4.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CONN'S INC.  DL-,01",
+  "primary_symbol": "CN4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Conn's, Inc. is a specialty retailer of durable consumer goods, including furniture, appliances, consumer electronics, and home office products. The company offers a variety of payment options, including proprietary financing. Conn's operates retail locations primarily in the Southern United States and is headquartered in The Woodlands, Texas.",
+  "website": "http://www.conns.com"
+}

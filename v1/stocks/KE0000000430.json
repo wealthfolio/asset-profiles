@@ -1,0 +1,31 @@
+{
+  "country": "Kenya",
+  "country_code": "KE",
+  "identifiers": {
+    "composite_figi": "BBG000HD53L7",
+    "isin": "KE0000000430"
+  },
+  "industry": "Food Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "KE0000000430",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KE0000000430"
+    }
+  ],
+  "name": "SASINI LTD",
+  "primary_symbol": "KE0000000430",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "The REA Vipingo Group is a well established agricultural business, headquartered in Nairobi, Kenya, which owns and operates a flourishing sisal business, making it the largest sisal fibre producer in Africa.",
+  "website": "https://www.reavipingo.com/"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00BL6DLQ9",
+    "cusip": "590717104",
+    "figi": "BBG00BL6DLX1",
+    "isin": "US5907171046"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US5907171046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LWBA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LWBA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEOBF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MESO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LWB.F"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LWBA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LWBA.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MSB.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MESOBLAST SP.ADRS 144A/5",
+  "primary_symbol": "LWBA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mesoblast ADRs likely represent American Depositary Receipts of Mesoblast Limited traded on the OTC market. Mesoblast Limited is a biotechnology company developing innovative cellular medicines. The company's proprietary technology platform is based on mesenchymal lineage precursor cells (MLPCs) to treat inflammatory conditions and cardiovascular diseases.",
+  "website": "http://www.mesoblast.com"
+}

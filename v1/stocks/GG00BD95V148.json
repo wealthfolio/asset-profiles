@@ -1,0 +1,46 @@
+{
+  "country": "Guernsey",
+  "country_code": "GG",
+  "identifiers": {
+    "isin": "GG00BD95V148"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GG00BD95V148",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFTTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9IA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9IA.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ATM.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AfriTin Mining Limited",
+  "primary_symbol": "AFTTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "AfriTin Mining Limited, together with its subsidiaries, engages in the exploration and development of projects in Namibia and South Africa. Its flagship asset is the Uis brownfield tin mine that consists of three project areas located in the Erongo Region, Namibia. AfriTin Mining Limited was founded in 2017 and is headquartered in St Peter Port, Guernsey.",
+  "website": "http://www.afritinmining.com"
+}

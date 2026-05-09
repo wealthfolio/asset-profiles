@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00T6WFZ96",
+    "cusip": "896442308",
+    "figi": "BBG00Z0H2KC4",
+    "isin": "US8964423086"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US8964423086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRIN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Trinity Capital Inc.",
+  "primary_symbol": "TRIN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Trinity Capital Inc. is a venture capital firm specializing in venture debt to growth stage companies looking for loans and/or equipment financing. Trinity Capital Inc. was founded in 2019 is based in Chandler, Arizona.",
+  "website": "http://trincapinvestment.com"
+}

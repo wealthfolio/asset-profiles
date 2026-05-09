@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "DJUR.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Djurslands Bank A/S",
+  "primary_symbol": "DJUR.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Djurslands Bank A/S provides various banking products and services in Denmark. The company offers deposits; car and home loans; pension; payment; investment; insurance; cards; and leasing products, as well as private and net and mobile banking services. It serves private customers, small and medium-sized enterprises, and public institutions. The company was founded in 1965 and is based in Grenaa, Denmark.",
+  "website": "http://www.djurslandsbank.dk"
+}

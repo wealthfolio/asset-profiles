@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DB9F61",
+    "figi": "BBG000DB9HW8",
+    "isin": "CA1366812024"
+  },
+  "industry_group": "Retailing",
+  "isin": "CA1366812024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YAAA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YAAA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "YAAA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YAAA.SG"
+    }
+  ],
+  "name": "CANADIAN TIRE CORP.LTD.CL",
+  "primary_symbol": "YAAA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "CANADIAN TIRE CORP.LTD.CL is a Canadian retail company operating a diverse portfolio of businesses which includes Canadian Tire, a general merchandise retailer; PartSource, an automotive parts retailer; and Mark's, an apparel and footwear retailer. The company also provides financial services through Canadian Tire Bank and owns CT REIT, a real estate investment trust. Canadian Tire is headquartered in Toronto, Ontario."
+}

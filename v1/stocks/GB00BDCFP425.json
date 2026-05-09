@@ -1,0 +1,41 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "isin": "GB00BDCFP425"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "GB00BDCFP425",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "8YY.SI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CORO.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BDCFP425.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Biolidics Limited",
+  "primary_symbol": "8YY.SI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Biolidics Limited, a medical technology company, develops cell enrichment systems for cancer diagnosis, prognosis, and treatment selection and monitoring applications. The company engages in the research, experimental development, and marketing on biotechnology, life and medical science, and electronics related industrial design services. It offers ClearCell FX1 System, an automated in vitro diagnostic medical device that separates and enriches cancer cells from blood. The company has a strategic collaboration with Sysmex Corporation. It serves academic and research institutes, hospitals, and laboratories in Singapore, China, Hong Kong, Japan, the United States, and other European Union countries. The company was founded in 2009 and is based in Singapore.",
+  "website": "http://www.biolidics.com"
+}

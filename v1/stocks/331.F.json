@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00CX8GH13",
+    "figi": "BBG00CX8GH22"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "331.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Tricon Residential Inc.",
+  "primary_symbol": "331.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Founded in 1988, Tricon is a rental housing company focused on serving the middle-market demographic. Tricon owns and operates approximately 31,000 single-family rental homes and multi-family rental units in 21 markets across the United States and Canada, managed with an integrated technology-enabled operating platform. More information about Tricon is available at www.triconresidential.com.",
+  "website": "http://www.triconresidential.com"
+}

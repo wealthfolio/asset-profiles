@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BSCWS1",
+    "figi": "BBG000BSCZ68",
+    "isin": "AU000000CPU5"
+  },
+  "industry_group": "Insurance",
+  "isin": "AU000000CPU5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QCH.BE"
+    }
+  ],
+  "name": "COMPUTERSHARE LTD.",
+  "primary_symbol": "QCH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Computershare Limited provides investor services and technology solutions to companies and financial institutions. Their services include registry maintenance, stakeholder communications, and corporate actions. The company is headquartered in Melbourne, Australia."
+}

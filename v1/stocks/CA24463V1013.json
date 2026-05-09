@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "CA24463V1013"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA24463V1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DTC.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "DTC.BK"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "DTC.JO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Damstra Holdings Limited",
+  "primary_symbol": "DTC.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Damstra Holdings Limited provides workplace management solutions to various industry segments worldwide. The company develops, sells, and implements integrated hardware and software-as-a-service solutions that enable industries to track, manage, and protect their staff, contractors, and organizations, as well as use to reduce the risks associated with workplace safety and regulatory compliance. Its cloud-based software suite is an integrated workplace management platform comprising workforce management, access control, asset management, and learning management, as well as health, safety, and environmental management and predictive analytics modules. The company was founded in 2002 and is headquartered in South Yarra, Australia.",
+  "website": "http://www.damstratechnology.com"
+}

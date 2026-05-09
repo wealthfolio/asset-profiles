@@ -1,0 +1,39 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BP3TC1",
+    "cusip": "125141101",
+    "figi": "BBG000BP3Y30",
+    "isin": "US1251411013"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US1251411013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WCE.BE"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "WCE.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CECO ENVIRONMTL  DL-,01",
+  "primary_symbol": "WCE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CECO Environmental Corp provides environmental solutions and services. The company designs and manufactures systems for air pollution control, energy recovery, and fluid handling. The company is headquartered in Dallas, Texas.",
+  "website": "http://www.wescanenergycorp.com"
+}

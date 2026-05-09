@@ -1,0 +1,47 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "753422104",
+    "isin": "US7534221046"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US7534221046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPD"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KTX.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R7D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R7D.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Rapid7, Inc.",
+  "primary_symbol": "RPD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Rapid7, Inc. provides cyber security solutions. The company offers a cloud-native insight platform that enables customers to create and manage analytics-driven cyber security risk management programs. Its platform includes InsightVM, a vulnerability risk management solution that is designed to provide a way to collect vulnerability data, prioritize risk, and automate remediation; InsightIDR, an incident detection and response solution; InsightAppSec, which provides application security testing that analyzes web applications for security vulnerabilities; and InsightConnect, a security orchestration and automation response solution that is used by security professionals. The company's other products include DivvyCloud, a cloud security posture management solution; Nexpose, an on-premise version of company's vulnerability risk management solution; AppSpider, an on-premise version of company's application security testing solution; Metasploit, a penetration testing software solution; and InsightOps that enables organizations to store and search data in real time, as well as professional services. It offers its products through term or perpetual software licenses, cloud-based subscriptions, and managed services. The company serves customers in a range of industries, including technology, energy, financial services, healthcare and life sciences, manufacturing, media and entertainment, retail, education, real estate, transportation, government, and professional services industries through sales teams, and indirect channel partner relationships, as well as directly in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. Rapid7, Inc. was incorporated in 2000 and is headquartered in Boston, Massachusetts.",
+  "website": "http://www.rapid7.com"
+}

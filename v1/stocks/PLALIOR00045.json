@@ -1,0 +1,43 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG003QK5KY3",
+    "figi": "BBG003QK5L44",
+    "isin": "PLALIOR00045"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "PLALIOR00045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A6O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A6O.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A6O.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALIOR BANK SA  ZY 10",
+  "primary_symbol": "A6O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Alior Bank SA is a Polish bank providing retail and corporate banking services. The bank offers a range of products including current accounts, loans, mortgages, and investment products. Alior Bank is headquartered in Warsaw, Poland.",
+  "website": "http://www.aliorbank.pl"
+}

@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "FR0010417345"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0010417345",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QAJ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DBV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DBV.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DBV.SG"
+    }
+  ],
+  "name": "DBV TECHNOLOGIES SA DBV TECHNOL",
+  "primary_symbol": "0QAJ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "DBV TECHNOLOGIES SA is a French biopharmaceutical company focused on developing and commercializing innovative immunotherapies for food allergies and other immunological diseases. The company is developing Viaskin, a novel epicutaneous immunotherapy (EPIT) platform. Its headquarters are located in Montrouge, France."
+}

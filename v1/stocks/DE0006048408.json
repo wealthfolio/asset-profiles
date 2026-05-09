@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BL4Y74",
+    "figi": "BBG000BL51B0",
+    "isin": "DE0006048408"
+  },
+  "industry_group": "Household & Personal Products",
+  "isin": "DE0006048408",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEN.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEN.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HEN.DU"
+    }
+  ],
+  "name": "HENKEL AG+CO.KGAA ST O.N.",
+  "primary_symbol": "HEN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Henkel AG & Co. KGaA is a German chemical and consumer goods company that operates worldwide. It is organized into business units like Adhesive Technologies, Beauty Care, and Laundry & Home Care and is headquartered in Düsseldorf, Germany."
+}

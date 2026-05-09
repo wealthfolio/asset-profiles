@@ -1,0 +1,53 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG000C0SLH0",
+    "figi": "BBG000C0SP09",
+    "isin": "DK0060030286"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "DK0060030286",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6F.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0DWV.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C6F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C6F.SG"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "CBRAIN.CO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CBRAIN AS  DK -,25",
+  "primary_symbol": "C6F.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CBRAIN A/S offers cloud-based software solutions for managing and optimizing brain research data. The company provides tools for data processing, analysis, and collaboration. CBRAIN A/S is headquartered in Denmark.",
+  "website": "http://www.cbrain.com"
+}

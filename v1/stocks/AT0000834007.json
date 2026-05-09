@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000LPZWX5",
+    "figi": "BBG000LQ0070",
+    "isin": "AT0000834007"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "AT0000834007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOLV"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WOF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WOF.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WOLFORD AG",
+  "primary_symbol": "WOF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Wolford AG is a luxury fashion company that specializes in the production of high-quality hosiery, lingerie, swimwear, and ready-to-wear apparel. The company distributes its products through its own boutiques, department stores, and online channels. Wolford AG is headquartered in Bregenz, Austria.",
+  "website": "http://www.wolverinetechnologiescorp.com"
+}

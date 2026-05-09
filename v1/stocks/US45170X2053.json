@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "45170X205",
+    "isin": "US45170X2053"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US45170X2053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INVE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INVN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INVN.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "INVN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "INVN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "INVN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Identiv, Inc.",
+  "primary_symbol": "INVE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Identiv, Inc. operates as a security technology company that secures data, physical places, and things in the Americas, Europe, the Middle East, and the Asia-Pacific. It operates in two segments, Premises and Identity. The Premises segment offers solutions for premises security market, such as access control, video surveillance, analytics, audio, access readers, and identities to government facilities, schools, utilities, hospitals, stores, shops, and apartment buildings. The Identity segment provides products and solutions that enables secure access to information serving the logical access and cyber security markets, protecting connected objects, and information using radio-frequency identification embedded security. It sells its products through dealers, systems integrators, value added resellers, and resellers. The company was formerly known as Identive Group, Inc. and changed its name to Identiv, Inc. in May 2014. Identiv, Inc. was founded in 1990 and is headquartered in Fremont, California.",
+  "website": "http://www.identiv.com"
+}

@@ -1,0 +1,51 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0003844611"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "BE0003844611",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MXDHF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0O8G.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "MDXH.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "O6C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "O6C.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MDxHealth SA",
+  "primary_symbol": "MXDHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MDxHealth SA operates as a molecular diagnostics company in Belgium, the Netherlands, Spain, Poland, Italy, the United States, rest of European Union, and internationally. The company develops and commercializes epigenetic and other molecular tests for cancer assessment and the personalized treatment of patients. Its tests are based on proprietary genetic, epigenetic, and other molecular technologies, as well as assist physicians with the diagnosis of urologic cancers, prognosis of recurrence risk, and prediction of response to a specific therapy. The company's product pipeline includes tests for bladder, kidney, and other urologic cancers. Its products include ConfirmMDx, a tissue test for prostate cancer; and SelectMDx, a non-invasive urine test for prostate cancer. The company was formerly known as OncoMethylome Sciences SA and changed its name to MDxHealth SA in October 2010. MDxHealth SA was incorporated in 2003 and is headquartered in Herstal, Belgium.",
+  "website": "http://mdxhealth.com"
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000CXO2"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000CXO2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CXOXF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CXO.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Core Lithium Ltd",
+  "primary_symbol": "CXOXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Core Lithium Ltd engages in the exploration of lithium and base metals deposits in Australia. The company primarily explores for copper, gold, iron, silver, uranium, lead, and zinc deposits. It develops the Finniss Lithium project located to the south of Darwin port in the Northern Territory in Australia. The company was formerly known as Core Exploration Limited and changed its name to Core Lithium Ltd in November 2018. The company was incorporated in 2010 and is based in Adelaide, Australia.",
+  "website": "http://corelithium.com.au"
+}

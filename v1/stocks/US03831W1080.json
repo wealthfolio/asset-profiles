@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0101N5Q67",
+    "cusip": "03831W108",
+    "figi": "BBG0101N5QC0",
+    "isin": "US03831W1080"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US03831W1080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6RV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APP"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6RV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US03831W1080.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "AppLovin Corporation",
+  "primary_symbol": "6RV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "AppLovin Corporation engages in building a software-based platform for mobile app developers to enhance the marketing and monetization of their apps worldwide. The company's software solutions include AppDiscovery, a solution to automate, optimize, and manage user acquisition investments for business clients; and MAX, an in-app bidding solution that optimizes purchases of app ad inventory. Its business clients include various advertisers, internet platforms, and others. The company was incorporated in 2011 and is headquartered in Palo Alto, California.",
+  "website": "http://www.applovin.com"
+}

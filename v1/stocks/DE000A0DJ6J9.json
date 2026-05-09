@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000G9LML7",
+    "figi": "BBG000G9LR54",
+    "isin": "DE000A0DJ6J9"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "DE000A0DJ6J9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S92.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S92.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S92.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S92.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "S92.DU"
+    }
+  ],
+  "name": "SMA SOLAR TECHNOL.AG",
+  "primary_symbol": "S92.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SMA Solar Technology AG develops, produces, and distributes solar inverters and monitoring systems for photovoltaic applications. The company provides solutions for residential, commercial, and utility-scale solar power generation. SMA Solar Technology is headquartered in Niestetal, Germany."
+}

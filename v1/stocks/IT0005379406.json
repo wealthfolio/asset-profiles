@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005379406"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0005379406",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "COP.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Copernico Sim S.p.A.",
+  "primary_symbol": "COP.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Copernico Sim S.p.A. provides investment consulting services. Its services include portfolio and asset analysis; and investment advisory services of asset management products consisting of funds and insurance policies, as well as personalized advisory services, including financial planning. The company was founded in 1999 and is based in Udine, Italy.",
+  "website": "http://www.copernicosim.com"
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JJOFF"
+    }
+  ],
+  "name": "iPath Bloomberg Coffee Subindex Total Return(SM) ETN",
+  "primary_symbol": "JJOFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "iPath Bloomberg Coffee Subindex Total Return ETN is an exchange-traded note providing exposure to coffee futures. The ETN tracks the Bloomberg Coffee Subindex Total Return. The ETN offers investors a way to gain exposure to the coffee market."
+}

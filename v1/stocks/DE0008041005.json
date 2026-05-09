@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "DE0008041005"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE0008041005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFF.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EFF.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EFF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EFF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EFF.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EFF.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Eaton Vance Floating-Rate Income Plus Fund",
+  "primary_symbol": "EFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Eaton Vance Floating-Rate Income Plus Fund is a close ended fixed income mutual fund launched and managed by Eaton Vance Management. It invests in fixed income markets across the globe. The fund primarily invests in senior, secured floating-rate loans of domestic and foreign borrowers that are denominated in U.S. dollars as well as foreign currencies. Eaton Vance Floating-Rate Income Plus Fund was formed on June 28, 2013 and is domiciled in the United States.",
+  "website": "http://funds.eatonvance.com/Floating-Rate-Income-Plus-Fund-EFF.php"
+}

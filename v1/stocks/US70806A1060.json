@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0064LXBT3",
+    "cusip": "70806A106",
+    "figi": "BBG0064LXC11",
+    "isin": "US70806A1060"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US70806A1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "22P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "22P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PFLT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PFLT.TA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KH0.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "22P.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PENNANTPARK FLOAT.RATE C.",
+  "primary_symbol": "22P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PennantPark Floating Rate Capital Ltd. is a business development company that invests in U.S. middle-market companies. It primarily focuses on floating rate loans and other debt securities. The company is headquartered in New York, NY.",
+  "website": "http://www.pennantpark.com/pflt/about/index.php"
+}

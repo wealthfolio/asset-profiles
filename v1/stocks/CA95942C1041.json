@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GGR5ZS4",
+    "figi": "BBG00GGR5ZY7",
+    "isin": "CA95942C1041"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA95942C1041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WR0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WTRNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WR0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WR0.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WRX.TO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WESTERN RES CORP.",
+  "primary_symbol": "WR0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Western Resources Corp., through its subsidiary, Western Potash Corp., engages in the acquisition, exploration, and development of potash mineral properties in Western Canada. It primarily holds a 100% interest in the Milestone project covering an area of approximately 84,557 acres of crown held mineral leases and 65,305 acres of acquired freehold leases located to the southeast of Regina in Saskatchewan, Canada. The company also invests in real estate projects. Western Resources Corp. was incorporated in 2017 and is headquartered in Vancouver, Canada. Western Resources Corp. is a subsidiary of Tairui Mining Inc.",
+  "website": "http://www.westernresources.com"
+}

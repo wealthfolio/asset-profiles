@@ -1,0 +1,76 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "ES0105066007"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "ES0105066007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R9C.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "472.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLLNY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLNXF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "472.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "472.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "CLN-D.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "CLNX.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "CLNX.VI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CLNXN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CELLNEX TELECOM SA CELLNEX TELE",
+  "primary_symbol": "0R9C.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CELLNEX TELECOM SA is a Spanish telecommunications infrastructure company that owns and operates wireless telecommunications towers and sites. The company leases its infrastructure to mobile network operators and other telecommunications providers. CELLNEX TELECOM SA is headquartered in Barcelona, Spain.",
+  "website": "http://www.cellnextelecom.com"
+}

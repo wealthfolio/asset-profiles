@@ -1,0 +1,48 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG005M0HC35",
+    "figi": "BBG005M0HC99",
+    "isin": "ID1000122500"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "ID1000122500",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P04.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P04.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P04.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "PWON.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PAKUWON JATI  RP 25",
+  "primary_symbol": "P04.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "PAKUWON JATI RP 25 is a real estate development company. They develop and manage commercial and residential properties, potentially focusing on retail or mixed-use projects. The company is based in Belgium, as indicated by the '.BE' stock exchange code.",
+  "website": "http://www.pakuwonjati.com"
+}

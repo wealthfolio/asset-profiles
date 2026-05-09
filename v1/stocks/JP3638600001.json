@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C2VXG7",
+    "figi": "BBG000C2W023",
+    "isin": "JP3638600001"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "JP3638600001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMI.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "5714.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DMI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DMI.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DOWA HOLDINGS INC.",
+  "primary_symbol": "DMI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "DOWA Holdings Co., Ltd. is a Japanese company engaged in a broad range of businesses, including environmental management and recycling, resource development, metal processing, and electronic materials. The company provides services such as waste treatment and recycling of electronic devices, manufactures copper and electronic materials, and explores and develops mineral resources. DOWA Holdings is headquartered in Tokyo, Japan.",
+  "website": "http://www.dowa.co.jp"
+}

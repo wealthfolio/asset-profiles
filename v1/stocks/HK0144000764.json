@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BM5XB8",
+    "figi": "BBG000BM61Q1",
+    "isin": "HK0144000764"
+  },
+  "industry_group": "Transportation",
+  "isin": "HK0144000764",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPM.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CPM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CPM.SG"
+    }
+  ],
+  "name": "CHINA MERCHANTS PORT HLDG",
+  "primary_symbol": "CPM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "China Merchants Port Holdings Company Limited is a leading port operator with investments in ports located in Mainland China, Hong Kong and overseas. The company engages in container and bulk cargo handling, warehousing, and other port-related services. The company is headquartered in Hong Kong."
+}

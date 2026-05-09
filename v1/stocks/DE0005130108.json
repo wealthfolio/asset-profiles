@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BP9FR9",
+    "isin": "DE0005130108"
+  },
+  "industry_group": "Insurance",
+  "isin": "DE0005130108",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005130108.SW"
+    }
+  ],
+  "name": "MSG LIFE AG",
+  "primary_symbol": "DE0005130108.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MSG Life AG is a German insurance company specializing in life insurance and pension products. The company offers individual and group life insurance policies. MSG Life is headquartered in Munich, Germany."
+}

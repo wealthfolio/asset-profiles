@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KVJVDC3",
+    "cusip": "84833T103",
+    "figi": "BBG00KVJVDL3",
+    "isin": "US84833T1034"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US84833T1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2HA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2HA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPRO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2HA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2HA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SPERO THERAP.INC. DL-,001",
+  "primary_symbol": "2HA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Spero Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on identifying, developing, and commercializing novel treatments for multi-drug resistant (MDR) bacterial infections and rare diseases in the United States. Its product candidates include tebipenem pivoxil hydrobromide (HBr), an oral carbapenem-class antibiotic to treat MDR gram-negative infections for adults; SPR206, a direct acting IV-administered agent to treat MDR Gram-negative bacterial infections in the hospital; and SPR720, an oral antibiotic for the treatment of non-tuberculous mycobacterial pulmonary disease. Spero Therapeutics, Inc. has license agreement with Meiji Seika Pharma Co., Ltd. to support the development of tebipenem HBr; license agreement with Everest Medicines to develop, manufacture, and commercialize SPR206 in Greater China, South Korea, and Southeast Asian countries; collaboration agreement with Bill & Melinda Gates Medical Research Institute to develop SPR720 for the treatment of lung infections caused by Mycobacterium tuberculosis; and license agreement with Vertex Pharmaceuticals Incorporated for patents relating to SPR720, as well as SPR719, an active metabolite. The company is headquartered in Cambridge, Massachusetts.",
+  "website": "http://sperotherapeutics.com"
+}

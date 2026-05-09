@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LGLCV25",
+    "cusip": "76029N106",
+    "figi": "BBG00LGLCV89",
+    "isin": "US76029N1063"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US76029N1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7R8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7R8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REPL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7R8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7R8.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "REPL.NS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "REPLIMUNE GR. INC DL-,001",
+  "primary_symbol": "7R8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Replimune Group Inc. is a biotechnology company focused on developing oncolytic immunotherapies for the treatment of cancer, headquartered in Woburn, Massachusetts. Their business model revolves around engineering and developing attenuated viruses that selectively replicate in and kill tumor cells, while also stimulating a systemic anti-tumor immune response. The company's lead product candidates are based on its Immulytic platform.",
+  "website": "http://replimune.com"
+}

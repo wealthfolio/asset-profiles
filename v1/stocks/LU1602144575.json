@@ -1,0 +1,36 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "LU1602144575"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "LU1602144575",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CMU.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MFS High Yield Municipal Trust",
+  "primary_symbol": "CMU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MFS High Yield Municipal Trust is a close ended fixed income mutual fund launched and managed by Massachusetts Financial Services Company. The fund invests in fixed income markets of the United States. It primarily invests in tax-exempt bonds and tax-exempt notes. The fund benchmarks the performance of its portfolio against Barclays Municipal Bond Index. It was formerly known as Colonial Municipal Income Trust. MFS High Yield Municipal Trust was founded in March 19, 1987 and is domiciled in the United States.",
+  "website": "http://www.mfs.com/en-us/individual-investor/product-strategies/closed-end-funds/CMU-mfs-high-yield-municipal-trust.html#tab-overview"
+}

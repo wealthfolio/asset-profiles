@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000L412T0",
+    "figi": "BBG000L41611",
+    "isin": "SE0000195810"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "SE0000195810",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLZ.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BLZ.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BLZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BLZ.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BLZ.SI"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "BURE.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BURE EQUITY NPV",
+  "primary_symbol": "BLZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Blaze International Limited, together with its subsidiaries, operates as an exploration company with a focus on gold and nickel exploration in Western Australia. The company primarily holds interests in the Kirkalocka, Leonora, and Thundelarra projects located in Murchison District of Western Australia. Blaze International Limited was incorporated in 1996 and is based in Subiaco, Australia.",
+  "website": "http://www.blazelimited.com.au"
+}

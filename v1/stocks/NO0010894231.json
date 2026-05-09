@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XYGPL37",
+    "figi": "BBG00XYGPL91",
+    "isin": "NO0010894231"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "NO0010894231",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L1N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L1N.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMGHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L1N.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "LINK.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LINK MOB.GRP.HLDG.NK-,005",
+  "primary_symbol": "L1N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "LINK Mobility Group Holding ASA provides mobile communication services in Europe and internationally. It operates through four segments: The Nordics, Western Europe, Central Europe, and Global Messaging. The company offers mobile messaging, mobile solutions, and mobile intelligence services. Its solutions are used in healthcare, retail, finance, and logistics industries. The company was founded in 2001 and is headquartered in Oslo, Norway.",
+  "website": "http://linkmobility.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG003LXJD17",
+    "figi": "BBG003LXJD62",
+    "isin": "KYG204791043"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Transportation",
+  "isin": "KYG204791043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EWC.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0951.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EWC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EWC.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHAOWEI POWER H.RGS HD-01",
+  "primary_symbol": "EWC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CHAOWEI POWER H.RGS HD-01 is a Chinese manufacturer of lead-acid batteries for electric bikes and other applications. The company's products are used in transportation and energy storage. Chaowei Power is based in China.",
+  "website": "http://www.chaowei.com.hk"
+}

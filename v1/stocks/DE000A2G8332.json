@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000KKX6F6",
+    "figi": "BBG000KKYDK4",
+    "isin": "DE000A2G8332"
+  },
+  "industry": "Software",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A2G8332",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NIIN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NIIN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NIIN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NIIN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NIIN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NIIN.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NIIIO FIN.GRP AG  NA O.N.",
+  "primary_symbol": "NIIN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "NIIO Finance Group AG is a German investment company that focuses on acquiring and developing businesses in the technology and renewable energy sectors. The company seeks to create value through active management and strategic investments. NIIO Finance Group AG is based in Berlin, Germany.",
+  "website": "http://www.niiio.finance"
+}

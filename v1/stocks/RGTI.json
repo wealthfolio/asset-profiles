@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RGTI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Rigetti Computing Inc. Common Stock",
+  "primary_symbol": "RGTI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Rigetti Computing, Inc. is a quantum computing company that builds and operates quantum computers and develops superconducting quantum processors. The company also develops software tools and cloud services for accessing their quantum computers. Rigetti Computing is headquartered in Berkeley, California."
+}

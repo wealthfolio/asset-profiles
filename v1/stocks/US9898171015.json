@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F4PLL7",
+    "cusip": "989817101",
+    "figi": "BBG000F4QS68",
+    "isin": "US9898171015"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US9898171015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZM3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZM3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZUMZ"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZM3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZM3.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ZM3.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ZM3.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZM3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Zumiez Inc.",
+  "primary_symbol": "ZM3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Zumiez Inc., together with its subsidiaries, operates as a specialty retailer of apparel, footwear, accessories, and hardgoods for young men and women. Its hardgoods include skateboards, snowboards, bindings, components, and other equipment. As of March 6, 2021, the company operated 722 stores, including 602 stores in the United States, 52 stores in Canada, 54 stores in Europe, and 14 stores in Australia under the names of Zumiez, Blue Tomato, and Fast Times. It also operates zumiez.com, zumiez.ca, blue-tomato.com, and fasttimes.com.au e-commerce websites. Zumiez Inc. was founded in 1978 and is headquartered in Lynnwood, Washington.",
+  "website": "http://www.zumiez.com"
+}

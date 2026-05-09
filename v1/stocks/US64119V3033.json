@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00W5FQPV2",
+    "cusip": "64119V303",
+    "figi": "BBG00W5FQPZ8",
+    "isin": "US64119V3033"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US64119V3033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NETSTREIT Corp.",
+  "primary_symbol": "NTST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "NETSTREIT is an internally managed Real Estate Investment Trust (REIT) based in Dallas, Texas that specializes in acquiring single-tenant net lease retail properties nationwide. The growing portfolio consists of high-quality properties leased to e-commerce resistant tenants with healthy balance sheets. Led by a management team of seasoned commercial real estate executives, NETSTREIT's strategy is to create the highest quality net lease retail portfolio in the country with the goal of generating consistent cash flows and dividends for its investors.",
+  "website": "http://www.netstreit.com"
+}

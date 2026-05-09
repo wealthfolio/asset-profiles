@@ -1,0 +1,25 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SUBEX.BO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Subex Limited",
+  "primary_symbol": "SUBEX.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Subex Limited is a telecom analytics solutions provider enabling communications service providers to achieve operational excellence and optimize revenue. The company offers solutions in areas such as revenue assurance, fraud management, and partner ecosystem management. Subex is headquartered in Bangalore, India."
+}

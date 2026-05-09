@@ -1,0 +1,68 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00GCTJZL6",
+    "figi": "BBG00GCTJZT8",
+    "isin": "AU000000MTC4"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "AU000000MTC4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MT1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MT1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000MTC4.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MT1.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MTC.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "MTC.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MTC.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "METALSTECH LTD",
+  "primary_symbol": "MT1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Mmtec, Inc. develops and deploys platforms that enable financial institutions to engage in securities market transactions and settlements in the People's Republic of China. It offers Internet-based securities solutions comprising Securities Dealers Trading System, which includes securities registration and clearing, account management, risk management, trading and execution, and third party access middleware; Private Fund Investment Management System that supports multi-account management, fund valuation, risk management, quantitative trading access, liquidation, and requisition management; and Mobile Transaction Individual Client System and PC Client System for Apple IOS, Android, PC, and Web. The company enables its customers to white label its trading interface, as well as select modular functionalities. It serves hedge funds, mutual funds, registered investment advisors, proprietary trading groups, and brokerage firms. The company was founded in 2015 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://www.51mm.com"
+}

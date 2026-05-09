@@ -1,0 +1,72 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "cusip": "74365P108",
+    "isin": "US74365P1084"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US74365P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PROSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PROSY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "1TY.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1TY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "PRX.AS"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "PRX.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "PRX.VI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "PRXN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US74365P1084.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Prosus N.V.",
+  "primary_symbol": "PROSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Prosus N.V. engages in the e-commerce and internet businesses. It operates internet platforms, such as classifieds, payments and fintech, food delivery, travel, education, etail, health, social, and other internet platforms. It has operations in the Americas, Africa, Central and Eastern Europe, and Asia. The company was formerly known as Myriad International Holdings N.V. and changed its name to Prosus N.V. in August 2019. Prosus N.V. is headquartered in Amsterdam, the Netherlands. Prosus N.V. is a subsidiary of Naspers Limited.",
+  "website": "http://www.prosus.com"
+}

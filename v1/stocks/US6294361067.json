@@ -1,0 +1,37 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "629436106",
+    "isin": "US6294361067"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US6294361067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTDTY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NT5.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NTT DATA Corporation",
+  "primary_symbol": "NTDTY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NTT DATA Corporation provides consulting, system development, and business information technology (IT) outsourcing services worldwide. The company operates through Public & Social Infrastructure, Financial, Enterprise & Solutions, North America, and EMEA & LATAM segments. It offers value-added IT services for government, medical, telecommunications, electric power, and other social infrastructure; financial institutions; and the manufacturing, distribution, and servicing industries, as well as payment services and platform solutions. The company was formerly known as NTT Data Communications Systems Corporation and changed its name to NTT DATA Corporation in 1996. NTT DATA Corporation was founded in 1967 and is headquartered in Tokyo, Japan. NTT DATA Corporation is a subsidiary of Nippon Telegraph and Telephone Corporation.",
+  "website": "http://www.nttdata.com"
+}

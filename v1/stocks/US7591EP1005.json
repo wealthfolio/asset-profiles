@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000QC93N3",
+    "figi": "BBG000QC96C8",
+    "isin": "US7591EP1005"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Banks",
+  "isin": "US7591EP1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RN7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RN7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "RF.PA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RN7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RN7.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "REGIONS FINANCIAL  DL-,01",
+  "primary_symbol": "RN7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Regions Financial Corporation is a bank holding company providing banking and financial services. The company operates through its subsidiary, Regions Bank, offering a range of deposit, loan, and wealth management products. The corporation is headquartered in Birmingham, Alabama.",
+  "website": "http://www.eurazeo.com/en/"
+}

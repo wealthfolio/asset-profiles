@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000KT3447",
+    "figi": "BBG000KT3811",
+    "isin": "FR0000053506"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0000053506",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C7E.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C7E.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0DYQ.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "C7E.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C7E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C7E.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CGM.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CEGEDIM SA  EO 0,9528",
+  "primary_symbol": "C7E.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CEGEDIM SA EO 0,9528 is a technology and services company specializing in the healthcare field. The company provides data, services, and software solutions for pharmaceutical companies, healthcare professionals, and insurance companies and is headquartered in Boulogne-Billancourt, France.",
+  "website": "http://www.cegedim.fr"
+}

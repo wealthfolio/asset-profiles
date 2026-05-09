@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000M2RK51",
+    "cusip": "502160104",
+    "figi": "BBG000M2RN55",
+    "isin": "US5021601043"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US5021601043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LS3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LS3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LS3.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LXU.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LSB IND. INC.  DL-,10",
+  "primary_symbol": "LS3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "LSB IND. INC.  DL-,10 is a manufacturing company that produces and sells chemical products for the agricultural, industrial, and mining sectors. Their products include nitrogen-based fertilizers and other chemicals. The company is based in Pryor, Oklahoma.",
+  "website": "http://www.lsbindustries.com"
+}

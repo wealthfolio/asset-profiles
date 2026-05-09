@@ -1,0 +1,94 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000CVSV53",
+    "cusip": "107180101",
+    "figi": "BBG000CVSZX3",
+    "isin": "US1071801013"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US1071801013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNR.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNR.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNTGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNTGY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BNR.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BNR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BNR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "BNR.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BNRA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BNRA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "BNRN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Brenntag SE",
+  "primary_symbol": "BNR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Brenntag SE purchases and supplies various industrial and specialty chemicals, and ingredients in Europe, the Middle East, Africa, North America, Latin America, the Asia Pacific, and internationally. It provides value-added services, such as just-in-time delivery, product mixing, blending, repackaging, inventory management, and drum return handling, as well as technical and laboratory services for specialty chemicals. The company serves customers in various end-market industries, including nutrition, pharma, personal care, water treatment, and lubricants; and home, industrial, and institutional markets, as well as coatings and constructions, polymers, and rubber material science industries. Brenntag SE was founded in 1874 and is based in Essen, Germany.",
+  "website": "http://www.brenntag.com"
+}

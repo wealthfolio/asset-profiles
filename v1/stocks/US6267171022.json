@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000K3SSW3",
+    "cusip": "626717102",
+    "figi": "BBG000K3SXM3",
+    "isin": "US6267171022"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US6267171022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUQ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MUQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MUQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MUQ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MURPHY OIL CORP.  DL 1",
+  "primary_symbol": "MUQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Murphy Oil Corporation is an independent exploration and production company with a global portfolio of crude oil, natural gas, and natural gas liquids. The company explores for and produces oil and gas in the United States, Canada, and other international locations, with headquarters in El Dorado, Arkansas. Murphy Oil focuses on both onshore and offshore operations.",
+  "website": "http://www.murphyoilcorp.com"
+}

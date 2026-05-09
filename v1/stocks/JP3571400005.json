@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C0K1L7",
+    "figi": "BBG000C0K3J6",
+    "isin": "JP3571400005"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3571400005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKY.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TKY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TKY.SG"
+    }
+  ],
+  "name": "TOKYO ELECTRON LTD",
+  "primary_symbol": "TKY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Tokyo Electron Limited is a Japanese manufacturer of semiconductor production equipment. The company provides equipment and services for various stages of semiconductor manufacturing, including coating, etching, and testing. Tokyo Electron is headquartered in Tokyo, Japan."
+}

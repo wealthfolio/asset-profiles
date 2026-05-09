@@ -1,0 +1,58 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "composite_figi": "BBG00J403NX3",
+    "figi": "BBG00J403P68",
+    "isin": "KYG7353K1067"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "KYG7353K1067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4VO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4VO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4VO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG7353K1067.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "RICH.BA"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "RICH.CN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RAFFLES FINL GRP O.N.",
+  "primary_symbol": "4VO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Raffles Financial Group Limited provides various financial services. The company offers corporate finance guidance and public listing advisory services for Asian companies seeking IPO on stock exchanges in Australia, Canada, Germany, Hong Kong, Singapore, and the United States, as well as serves as an advisor for family trusts, family offices, and investment funds. It also provides guidance services on capital structure across debt, hybrid, derivative, and equity-linked products for companies. The company is headquartered in Singapore.",
+  "website": "http://www.rafflesfinancial.co"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00HJ3TWS3",
+    "cusip": "26614N102",
+    "figi": "BBG00HJ3TX10",
+    "isin": "US26614N1028"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US26614N1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6D81.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6D81.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6D81.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6D81.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DD.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "DDNB34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "DDPN.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "DUPONT DE NEMOURS INC. ON",
+  "primary_symbol": "6D81.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "DuPont de Nemours, Inc. is a global innovation leader with technology-based materials and solutions. The company serves industries such as electronics, transportation, construction, water, healthcare and worker safety. DuPont is headquartered in Wilmington, Delaware.",
+  "website": "http://www.dupont.com"
+}

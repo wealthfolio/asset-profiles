@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006XZQ0Q5",
+    "cusip": "148806102",
+    "figi": "BBG006XZQ0X7",
+    "isin": "US1488061029"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US1488061029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0C8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0C8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTLT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0C8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0C8.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CTLT.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CATALENT INC.  DL-,01",
+  "primary_symbol": "0C8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CATALENT INC. DL-,01 is a global provider of development sciences, delivery technologies, and supply solutions for drugs, biologics, and consumer health products. The company offers a range of services, including drug development, manufacturing, and packaging, to pharmaceutical and biotechnology companies with headquarters in Somerset, New Jersey.",
+  "website": "http://www.catalent.com"
+}

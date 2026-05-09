@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "TKBP.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Thurgauer Kantonalbank",
+  "primary_symbol": "TKBP.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Thurgauer Kantonalbank provides various banking products and services to private individuals, businesses, companies, and public sectors in Switzerland. It offers accounts, home and personal loans, mortgages, asset management, financial planning, guarantees, cards, mobile payment, and online banking services. The company also provides investment and real estate services. It operates through a network of 28 branches and 70 ATMs. Thurgauer Kantonalbank was founded in 1871 and is headquartered in Weinfelden, Switzerland.",
+  "website": "http://www.tkb.ch"
+}

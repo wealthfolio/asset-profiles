@@ -1,0 +1,36 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG8919D1074"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "BMG8919D1074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0340.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "INU1.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Tongguan Gold Group Limited",
+  "primary_symbol": "0340.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Tongguan Gold Group Limited, an investment holding company, primarily engages in the exploration, mining, processing, and sale of gold and related products in the People's Republic of China. The company was formerly known as China Mining Resources Group Limited and changed its name to Tongguan Gold Group Limited in April 2018. The company is headquartered in Admiralty, Hong Kong.",
+  "website": "http://www.tongguangold.com"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "LU1900067601"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Capital Goods",
+  "isin": "LU1900067601",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUR.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TUR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TUR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TUR.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TURBON AG O.N.",
+  "primary_symbol": "TUR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "TURBON AG O.N. is likely an industrial company operating in Europe. The company specializes in manufacturing components for industrial applications. Specific details are not available.",
+  "website": "http://www.turbon.de"
+}

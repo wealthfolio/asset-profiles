@@ -1,0 +1,26 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "SOJA3.SA"
+    }
+  ],
+  "name": "Boa Safra Sementes S.A.",
+  "primary_symbol": "SOJA3.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Boa Safra Sementes S.A. produces and sells soybean seeds in Brazil. It also offers corn and bean seeds. The company was incorporated in 2009 and is based in Formosa, Brazil.",
+  "website": "http://www.boasafrasementes.com.br"
+}

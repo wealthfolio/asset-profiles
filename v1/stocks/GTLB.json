@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTLB"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GitLab Inc. Class A Common Stock",
+  "primary_symbol": "GTLB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "GitLab Inc. is a DevOps platform that provides a complete suite of tools for software development, security, and operations. The company's business model revolves around offering a single application for the entire software development lifecycle, enabling teams to collaborate and accelerate software delivery. GitLab is headquartered in San Francisco, California."
+}

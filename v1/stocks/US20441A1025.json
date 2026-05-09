@@ -1,0 +1,74 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "identifiers": {
+    "composite_figi": "BBG000BJLJW5",
+    "cusip": "20441A102",
+    "figi": "BBG000BJLMB1",
+    "isin": "US20441A1025"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "US20441A1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAJA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAJA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SAJA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SAJA.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "SBS.BA"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "SBS.CO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SBSN.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "SBSP3.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CIA SANEAMENTO BA.ADR/2",
+  "primary_symbol": "SAJA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CIA SANEAMENTO BA.ADR/2 represents American Depositary Receipts (ADRs) of Companhia de Saneamento Básico do Estado de São Paulo (Sabesp), a water and sewage service provider in the State of São Paulo, Brazil. The company provides water and sewage services to residential, commercial and industrial customers. Sabesp is headquartered in São Paulo, Brazil.",
+  "website": "http://www.sabesp.com.br"
+}

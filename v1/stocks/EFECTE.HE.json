@@ -1,0 +1,27 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "EFECTE.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Efecte Oy",
+  "primary_symbol": "EFECTE.HE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Efecte Oy, a software company, provides cloud-based software as a service and identity management solutions in Finland, Sweden, Denmark, and Germany. It offers contract, finance, and HR management solutions, as well as business and IT service management solutions. The company also provides training, support, and consultancy services. It serves large, mid-sized, and public organizations, as well as software business professionals. The company was founded in 1998 and is headquartered in Espoo, Finland.",
+  "website": "http://www.efecte.com"
+}

@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG007621L23",
+    "isin": "AT000ADDIKO0"
+  },
+  "industry_group": "Banks",
+  "isin": "AT000ADDIKO0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AT000ADDIKO0.SG"
+    }
+  ],
+  "name": "ADDIKO BANK AG",
+  "primary_symbol": "AT000ADDIKO0.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials"
+}

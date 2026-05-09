@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "BCSS.AS"
+    }
+  ],
+  "name": "LS -1X BARCLAYS",
+  "primary_symbol": "BCSS.AS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "LS -1X BARCLAYS is an exchange-traded product (ETP) that aims to provide investors with the inverse (-1x) of the daily performance of Barclays stock. This ETP is designed to move in the opposite direction of Barclays shares on a daily basis. The ETP is intended for short-term trading and carries risk due to its inverse nature."
+}

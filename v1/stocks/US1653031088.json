@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QFHC48",
+    "cusip": "165303108",
+    "figi": "BBG000QFHF41",
+    "isin": "US1653031088"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "US1653031088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CH5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CH5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CH5.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHESAPEAKE UTIL. DL-,4867",
+  "primary_symbol": "CH5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Chesapeake Utilities Corporation is a diversified energy company engaged in natural gas distribution, propane distribution, electricity generation, and other energy-related businesses. The company serves customers in Delaware, Maryland, Florida, Pennsylvania, and Ohio. Chesapeake Utilities is headquartered in Dover, Delaware.",
+  "website": "http://www.chpk.com"
+}

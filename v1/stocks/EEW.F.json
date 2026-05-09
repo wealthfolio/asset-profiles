@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EEW.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SBI Insurance Group Co., Ltd.",
+  "primary_symbol": "EEW.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SBI Insurance Group Co., Ltd. provides various insurance products in Japan. It offers property/casualty, life, and small short term insurance products. The company was founded in 2016 and is based in Tokyo, Japan. SBI Insurance Group Co., Ltd. operates as a subsidiary of SBI Holdings, Inc.",
+  "website": "http://www.sbiig.co.jp"
+}

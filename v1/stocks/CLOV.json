@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00SHY90J5",
+    "figi": "BBG00V77XS19"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLOV"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Clover Health Investments, Corp.",
+  "primary_symbol": "CLOV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Clover Health Investments, Corp. operates as a Medicare Advantage insurer in the United States. The company through its software platform provides preferred provider organization and health maintenance organization health plans for Medicare-eligible consumers. Clover Health Investments, Corp. was founded in 2014 and is headquartered in Franklin, Tennessee.",
+  "website": "http://www.cloverhealth.com"
+}

@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000D5N4Q1",
+    "figi": "BBG000D5P951",
+    "isin": "JP3902900004"
+  },
+  "industry_group": "Banks",
+  "isin": "JP3902900004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFZ.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFZ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFZ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MFZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MFZ.SG"
+    }
+  ],
+  "name": "MITSUBISHI UFJ FINL GRP",
+  "primary_symbol": "MFZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mitsubishi UFJ Financial Group (MUFG) is a Japanese financial services company. They offer a wide range of banking, trust, securities, and other financial services to individuals and corporate clients globally. The company is headquartered in Tokyo, Japan."
+}

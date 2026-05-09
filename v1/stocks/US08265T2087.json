@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00XK3WK71",
+    "cusip": "08265T208",
+    "figi": "BBG00XK3WKF2",
+    "isin": "US08265T2087"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US08265T2087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BS81.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BS81.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSY"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BS81.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BS81.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US08265T2087.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BENTLEY SYSTEMS B  DL-,01",
+  "primary_symbol": "BS81.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BENTLEY SYSTEMS B DL-,01 refers to Bentley Systems, Incorporated, a software development company that supports the infrastructure lifecycle. The company provides software solutions for the design, construction, and operation of infrastructure assets worldwide. Bentley Systems is headquartered in Exton, Pennsylvania.",
+  "website": "http://www.bentley.com"
+}

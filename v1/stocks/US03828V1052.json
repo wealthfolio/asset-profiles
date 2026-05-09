@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00W4SXMY1",
+    "cusip": "03828V105",
+    "figi": "BBG00W4SXQ81",
+    "isin": "US03828V1052"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US03828V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUVI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Applied UV, Inc.",
+  "primary_symbol": "AUVI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Applied UV, Inc. engages in the design, manufacture, assembly, and distribution of automated disinfecting mirror systems for use in hospitals and other healthcare facilities in the United States and internationally. It also manufactures and supplies fine decorative framed mirrors, framed art, and vanities primarily to the hospitality market. The company was incorporated in 2012 and is headquartered in Mount Vernon, New York.",
+  "website": "http://www.applieduvinc.com"
+}

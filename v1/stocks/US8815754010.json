@@ -1,0 +1,89 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000BVFYF1",
+    "cusip": "881575401",
+    "figi": "BBG000BVG0H2",
+    "isin": "US8815754010"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US8815754010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCO0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCO0.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCO0.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCO0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSCDF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSCDY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TCO0.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TCO0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TCO0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TCO2.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TSCO.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "TSCON.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Tesco PLC",
+  "primary_symbol": "TCO0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Tesco PLC, together with its subsidiaries, operates as a grocery retailer. The company operates through convenience and hypermarket store formats, as well as engages in the wholesale business. It also provides retail banking and insurance services. The company operates in the United Kingdom, the Republic of Ireland, the Czech Republic, Hungary, Poland, Slovakia, Malaysia, and Thailand. The company serves its customers through stores, as well as online. Tesco PLC was founded in 1919 and is headquartered in Welwyn Garden City, the United Kingdom.",
+  "website": "http://www.tescoplc.com"
+}

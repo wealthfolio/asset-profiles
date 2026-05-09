@@ -1,0 +1,41 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "isin": "CH0003245351"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "CH0003245351",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ROH.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ROL.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "ROL.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Royal Orchid Hotel (Thailand) Public Company Limited",
+  "primary_symbol": "ROH.BK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Royal Orchid Hotel (Thailand) Public Company Limited operates a hotel in Thailand. It serves travel agents, credit card companies, and companies with secure financial position. The company is based in Bangkok, Thailand. Royal Orchid Hotel (Thailand) Public Company Limited is a subsidiary of Grande Asset Hotels & Property Public Company Limited.",
+  "website": "http://www.marriott.com/hotels/hotel-information/bkksi-royal-orchid-sheraton-hotel-and-towers"
+}

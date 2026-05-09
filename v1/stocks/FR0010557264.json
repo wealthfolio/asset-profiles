@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000QSZVK0",
+    "figi": "BBG000QSZZJ3",
+    "isin": "FR0010557264"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0010557264",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8D.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABSCF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A8D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A8D.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "AB.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AB Science S.A.",
+  "primary_symbol": "A8D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AB Science S.A., a clinical-stage pharmaceutical company, engages in the research, development, and marketing of protein kinase inhibitors for use in human and veterinary medicines. Its lead compound is the masitinib, a tyrosine kinase inhibitor that is in Phase III clinical trials for the treatment of prostate and pancreatic cancer, amyotrophic lateral sclerosis, multiple sclerosis, Alzheimer's, severe asthma, and mastocytosis diseases. The company is also developing AB8939, synthetic microtubule destabilizer for the treatment of acute myeloid leukemia; and AB20001, which is in Phase II clinical trial to evaluate the safety and efficacy of masitinib combined with isoquercetin in hospitalized patients with moderate and severe COVID-19. The company markets its masitinib under the Masivet brand in Europe. AB Science S.A. was founded in 2001 and is headquartered in Paris, France.",
+  "website": "http://www.ab-science.com"
+}

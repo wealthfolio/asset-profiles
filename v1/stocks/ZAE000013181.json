@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1GFS2",
+    "figi": "BBG000C1GKS1",
+    "isin": "ZAE000013181"
+  },
+  "industry_group": "Materials",
+  "isin": "ZAE000013181",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPHA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPHA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RPHA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RPHA.SG"
+    }
+  ],
+  "name": "ANGLO AMERN PLATIN.RC-,10",
+  "primary_symbol": "RPHA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Anglo American Platinum Ltd. is a South African platinum group metals (PGMs) producer. The company extracts, refines, and markets PGMs, including platinum, palladium, rhodium, and ruthenium. The company's headquarters are located in Johannesburg, South Africa."
+}

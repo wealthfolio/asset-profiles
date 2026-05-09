@@ -1,0 +1,38 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000KD2ZL5",
+    "figi": "BBG000KD30Z6",
+    "isin": "CA6445351068"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA6445351068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGD"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NGD.TO"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "New Gold Inc.",
+  "primary_symbol": "NGD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "New Gold Inc., an intermediate gold mining company, engages in the development and operation of mineral properties. It primarily explores for gold, silver, and copper deposits. The company's principal operating properties include 100% interests in the Rainy River gold-silver mine located in Ontario, Canada; and New Afton gold-copper mine located in British Columbia, Canada. It also operates the Cerro San Pedro gold-silver mine in San Luis Potos√É¬≠, Mexico. The company is headquartered in Toronto, Canada.",
+  "website": "http://www.newgold.com"
+}

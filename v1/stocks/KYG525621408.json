@@ -1,0 +1,48 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000BW66G9",
+    "figi": "BBG000BW68V8",
+    "isin": "KYG525621408"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Capital Goods",
+  "isin": "KYG525621408",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KGZ.BE"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0148.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KGZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KGZ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KINGBOARD HOLDINGS HD-,10",
+  "primary_symbol": "KGZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kingboard Holdings Limited is an investment holding company that manufactures and sells laminates, printed circuit boards, and other chemical products. Headquartered in Hong Kong, the company operates through various segments, including laminates, printed circuit boards, and property development. Kingboard Holdings also engages in property investment and development, as well as other related activities.",
+  "website": "http://www.kingboard.com"
+}

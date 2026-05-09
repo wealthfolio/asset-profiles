@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GBB8B95",
+    "figi": "BBG00GBB8BG7",
+    "isin": "CA12510R1082"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA12510R1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "338B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AXVEF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "338B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA12510R1082.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CDN.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CDN MAVERICK CAPITAL CORP",
+  "primary_symbol": "338B.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "CDN Maverick Capital Corp., a junior resource company, engages in the acquisition, exploration, and development of diversified mineral properties. It holds interests in the Rainbow Canyon Gold property comprising 668.86 hectares situated in the Washoe County, Nevada, the United States. The company was formerly known as Caelan Capital Corp. and changed its name to CDN Maverick Capital Corp. in November 2020. CDN Maverick Capital Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://cdnmaverick.com"
+}

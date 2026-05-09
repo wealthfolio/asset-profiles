@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4394.T"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "eXmotion Co., Ltd.",
+  "primary_symbol": "4394.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "eXmotion Co., Ltd. provides technical consulting and education services for systems and software. It offers project diagnosis and site support services; and practical courses to acquire skilled skills that can be used on site. In addition, the company provides eXquto, a diagnostic tool for C language that diagnoses software design and implementation quality; MODEL EVALUATOR, a tool to diagnose the quality of MATLAB/Simulink model; and Mtrip, a tool for mutually converting an architectural design model described in a general-purpose modeling language. eXmotion Co., Ltd. was founded in 2008 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.corporate.exmotion.co.jp/"
+}

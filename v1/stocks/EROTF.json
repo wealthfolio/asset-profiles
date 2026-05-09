@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EROTF"
+    }
+  ],
+  "name": "iPath EUR/USD Exchange Rate ETN",
+  "primary_symbol": "EROTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "The iPath EUR/USD Exchange Rate ETN was an exchange-traded note designed to provide investors with exposure to the performance of the EUR/USD exchange rate. The ETN's return was linked to the movement of the euro against the U.S. dollar. The ETN is no longer trading as it was delisted."
+}

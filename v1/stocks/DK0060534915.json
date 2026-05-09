@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DYN772",
+    "figi": "BBG000DYNBV6",
+    "isin": "DK0060534915"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DK0060534915",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOVC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOVC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NOVC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NOVC.SG"
+    }
+  ],
+  "name": "NOVO-NORDISK NAM.B DK-,20",
+  "primary_symbol": "NOVC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Novo Nordisk A/S is a global healthcare company headquartered in Bagsvaerd, Denmark, focused on diabetes care. The company develops, manufactures, and markets pharmaceutical products, primarily insulin and other treatments for diabetes, as well as products for hemophilia care, growth hormone therapy, and obesity. They operate worldwide."
+}

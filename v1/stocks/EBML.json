@@ -1,0 +1,27 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EBML"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "eBullion, Inc.",
+  "primary_symbol": "EBML",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "eBullion, Inc. provides precious metals spot contract trading services for gold and silver trading through electronic trading platform located in Hong Kong. The company was incorporated in 2013 and is based in Tsim Sha Tsui, Hong Kong.",
+  "website": "http://www.ebulliongroup.com"
+}

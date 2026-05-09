@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "FIPP.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FIPP S.A.",
+  "primary_symbol": "FIPP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "FIPP S.A. engages in the real estate business. The company acquires or constructs buildings for rental. It is also involved in the direct or indirect holding of interests in companies with buildings rental activity. Its property portfolio includes offices spaces and hotels. The company was founded in 1920 and is headquartered in Paris, France.",
+  "website": "http://www.f-i-p-p.com"
+}

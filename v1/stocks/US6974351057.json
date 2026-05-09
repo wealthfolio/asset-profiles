@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0037SZ755",
+    "cusip": "697435105",
+    "figi": "BBG0037SZ7C7",
+    "isin": "US6974351057"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US6974351057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5AP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5AP.DU"
+    }
+  ],
+  "name": "PALO ALTO NETWKS DL-,0001",
+  "primary_symbol": "5AP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Palo Alto Networks is a global cybersecurity leader headquartered in Santa Clara, California, offering a comprehensive platform of security solutions. Their products include network security appliances and software, cloud security, endpoint protection, and threat intelligence services. The company serves enterprises, service providers, and government entities, helping them to prevent cyberattacks and secure their digital infrastructure."
+}

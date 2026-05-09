@@ -1,0 +1,39 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG0055QN0D5",
+    "cusip": "68232V801",
+    "figi": "BBG0055QN0K7",
+    "isin": "US68232V8019"
+  },
+  "industry": "Household Products",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68232V8019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0T2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "ONTX.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ONCONOVA THERAPEUT.DL-,01",
+  "primary_symbol": "0T2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Onconova Therapeutics, Inc. is a biopharmaceutical company focused on discovering and developing novel products to treat cancer. Their research and development efforts are primarily focused on myelodysplastic syndromes (MDS). Onconova Therapeutics is headquartered in Newtown, Pennsylvania.",
+  "website": "http://ontex.com"
+}

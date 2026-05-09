@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BSFRF3",
+    "cusip": "871607107",
+    "figi": "BBG000BSG1H7",
+    "isin": "US8716071076"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US8716071076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNPS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYP.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LBP.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "S1NP34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SNPS.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SYP.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SYP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SYP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SYP.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Synopsys, Inc.",
+  "primary_symbol": "SNPS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Synopsys, Inc. provides electronic design automation software products used to design and test integrated circuits. It offers Fusion Design Platform, a digital design implementation solution; Verification Continuum Platform that provides virtual prototyping, static and formal verification, simulation, emulation, field programmable gate array (FPGA)-based prototyping, and debug solutions; and FPGA design products that are programmed to perform specific functions. The company also provides intellectual property (IP) solutions for USB, PCI Express, DDR, Ethernet, SATA, MIPI, HDMI, and Bluetooth low energy applications; analog IP, including data converters and audio codecs; and system-on-chip (SoC) infrastructure IP, datapath and building block IP, and verification IP products, as well as mathematical and floating point components, and Arm AMBA interconnect fabric and peripherals. In addition, it offers logic libraries and embedded memories; configurable processor cores and application-specific instruction-set processor tools for embedded applications; IP subsystems for audio, sensor, and data fusion functionality; and security IP solutions. Further, the company provides Platform Architect solutions for SoC architecture analysis and optimization; virtual prototyping solutions; and HAPS FPGA-based prototyping systems, as well as a series of tools used in the design of optical systems and photonic devices. Additionally, it offers security testing, managed services, programs and professional services, and training that enable its customers to detect and remediate security vulnerabilities, and defects in the software development lifecycle; manufacturing solutions; and professional and other services. It has a collaboration with IBM Research's AI Hardware Center to advance the development of chip architectures and design methodologies critical to the next generation of AI chips. Synopsys, Inc. was founded in 1986 and is headquartered in Mountain View, California.",
+  "website": "http://www.synopsys.com"
+}

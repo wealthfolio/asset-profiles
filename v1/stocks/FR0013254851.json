@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z8LR846",
+    "figi": "BBG00Z8LR855",
+    "isin": "FR0013254851"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0013254851",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8JD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALVAL.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013254851.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Valbiotis SA",
+  "primary_symbol": "8JD.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Valbiotis SA engages in the research and development of health nutrition products to prevent metabolic diseases in response to unmet medical needs. The company develops TOTUM-63 for the treatment of type 2 diabetes; TOTUM-070 for hypercholesterolemia; TOTUM-448 for the treatment of patient with non-alcoholic fatty liver disease; and TOTUM-854 for arterial hypertension. It has a strategic partnership with Nestl√É¬© Health Science. The company was founded in 2014 and is headquartered in P√É¬©rigny, France.",
+  "website": "http://www.valbiotis.com"
+}

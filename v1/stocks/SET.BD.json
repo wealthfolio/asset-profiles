@@ -1,0 +1,27 @@
+{
+  "country": "Hungary",
+  "country_code": "HU",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SET.BD"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SET GROUP Nyrt",
+  "primary_symbol": "SET.BD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SET GROUP Nyrt engages in the software and hardware-based research and development. The company is also involved in the real-estate and animal feed businesses. The company is based in Budapest, Hungary.",
+  "website": "http://www.setnyrt.com"
+}

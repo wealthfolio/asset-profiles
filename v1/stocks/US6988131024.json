@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BNVWQ3",
+    "cusip": "698813102",
+    "figi": "BBG000BNVZQ6",
+    "isin": "US6988131024"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US6988131024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PP1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZZA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PP1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PP1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PP1.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "PZZA.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PAPA JOHN'S INTL  DL-,01",
+  "primary_symbol": "PP1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Papa John's International, Inc. is a pizza delivery company that franchises and operates pizza restaurants. They offer a variety of pizzas, sides, and desserts, primarily through delivery and carryout channels. The company is headquartered in Louisville, Kentucky.",
+  "website": "http://www.papajohns.com"
+}

@@ -1,0 +1,31 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "isin": "PLAB00000019"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "PLAB00000019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "ABE.VI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AB Effectenbeteiligungen AG",
+  "primary_symbol": "ABE.VI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "AB Effectenbeteiligungen, AG invests in companies and securities. Its investments in companies include European small-cap and micro-cap companies, medium-sized companies with growth potential, and pre-initial public offering companies. The company invests in various securities, such as shares on international stock exchanges, fixed-interest securities, and hedging operations. Its investment portfolio includes hospital operators, providers of technological products and services for the industrial sector, building constructors, and infrastructure management software companies. The company was founded in 1997 and is headquartered in Mondsee, Austria.",
+  "website": "http://www.abe-ag.com"
+}

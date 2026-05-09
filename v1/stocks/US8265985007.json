@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "826598500",
+    "isin": "US8265985007"
+  },
+  "industry_group": "Energy",
+  "isin": "US8265985007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "0223.KL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8265985007.SG"
+    }
+  ],
+  "name": "SAMAIDEN",
+  "primary_symbol": "0223.KL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SAMAIDEN provides engineering, procurement, construction, and commissioning (EPCC) services for renewable energy projects, particularly in the solar power sector. They offer services such as solar power plant design, installation, and maintenance. The company focuses on promoting sustainable energy solutions and reducing carbon emissions."
+}

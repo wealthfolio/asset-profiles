@@ -1,0 +1,83 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG001D9BVR3",
+    "figi": "BBG001D9BVY5",
+    "isin": "CA54928Q1081"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA54928Q1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LKT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUC.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LUCRF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QUI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LKT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LKT.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LUC.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LUC.ST"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "LUC.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Lucara Diamond Corp.",
+  "primary_symbol": "LKT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lucara Diamond Corp., a diamond mining company, engages in the development and operation of diamond properties in Africa. The company holds 100% interests in the Karowe mine located in Botswana. It also operates Clara Platform, a digital platform for the sale of rough diamonds. The company was formerly known as Bannockburn Resources Limited and changed its name to Lucara Diamond Corp. in August 2007. Lucara Diamond Corp. was incorporated in 1981 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.lucaradiamond.com"
+}

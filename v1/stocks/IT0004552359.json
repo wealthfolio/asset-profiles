@@ -1,0 +1,53 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000C3WXD7",
+    "figi": "BBG000C3X1L7",
+    "isin": "IT0004552359"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "IT0004552359",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTJ3.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "IKG.MI"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "KME.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MTJ3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MTJ3.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INTEK GROUP S.P.A.",
+  "primary_symbol": "MTJ3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Intek Group S.p.A. produces and sells semi-finished copper and copper-alloy products in Europe and internationally. The company is also involved in the alternative energy, private equity, and real estate businesses. It offers products for maritime use and tube bundles. The company was formerly known as KME Group S.p.A. and changed its name to Intek Group S.p.A. in November 2012. Intek Group S.p.A. was founded in 1886 and is headquartered in Milan, Italy.",
+  "website": "http://www.itkgroup.it"
+}

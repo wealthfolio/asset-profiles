@@ -1,0 +1,66 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "ES0180907000"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "ES0180907000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RR7.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7UB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7UB.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "UNI.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "UNI.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "UNI.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "UNI.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "UNI.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "UNICAJA BANCO SA UNICAJA BANCO",
+  "primary_symbol": "0RR7.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "UNICAJA BANCO SA is a Spanish bank that provides financial services to individuals and businesses. The bank operates primarily in Andalusia and other regions of Spain. UNICAJA BANCO SA is headquartered in Málaga, Spain.",
+  "website": "http://www.unicajabanco.es"
+}

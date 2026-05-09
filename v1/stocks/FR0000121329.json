@@ -1,0 +1,41 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000121329"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Capital Goods",
+  "isin": "FR0000121329",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IW5.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "HOP.PA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "THAL.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "THALES SA THALES ORD SHS",
+  "primary_symbol": "0IW5.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Thales S.A. is a French multinational company that designs and builds electrical systems and provides services for the aerospace, defence, transportation and security markets. Thales is headquartered in Paris, France.",
+  "website": "http://www.hopscotchgroupe.com"
+}

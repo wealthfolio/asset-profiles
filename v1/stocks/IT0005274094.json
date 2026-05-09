@@ -1,0 +1,43 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00YQ79314",
+    "figi": "BBG00YQ79332",
+    "isin": "IT0005274094"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IT0005274094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "761.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "761.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PHN.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PHARMANUTRA S.P.A.",
+  "primary_symbol": "761.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pharmanutra S.P.A. is an Italian pharmaceutical company focused on the development and commercialization of nutritional supplements and medical devices, particularly in the areas of gastroenterology and iron deficiency. They utilize proprietary technologies to improve the bioavailability and tolerability of their products. The company is headquartered in Italy.",
+  "website": "http://www.pharmanutra.it"
+}

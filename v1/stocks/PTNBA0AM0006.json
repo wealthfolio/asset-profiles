@@ -1,0 +1,66 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "isin": "PTNBA0AM0006"
+  },
+  "industry": "IT Services",
+  "industry_group": "Diversified Financials",
+  "isin": "PTNBA0AM0006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NBA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVQ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0MTZ.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NBA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "NBA.LS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "NBA.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NVQ.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "PTNBA0AM0006.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DNB NOR ASA A  NK 10",
+  "primary_symbol": "NBA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "DNB ASA is a Norwegian financial services group and the largest bank in Norway. It offers a wide range of financial products and services to corporate and retail customers. The company is headquartered in Oslo, Norway.",
+  "website": "http://www.novabase.pt"
+}

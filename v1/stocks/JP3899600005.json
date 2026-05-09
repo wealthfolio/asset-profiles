@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BWF786",
+    "figi": "BBG000BWF955",
+    "isin": "JP3899600005"
+  },
+  "industry_group": "Real Estate",
+  "isin": "JP3899600005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MES.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MES.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MES.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MES.SG"
+    }
+  ],
+  "name": "MITSUBISHI EST.",
+  "primary_symbol": "MES.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Mitsubishi Estate Co., Ltd. is a Japanese real estate developer. They are involved in a wide range of real estate activities including office buildings, commercial facilities, residential properties and urban development. The company is headquartered in Tokyo, Japan."
+}

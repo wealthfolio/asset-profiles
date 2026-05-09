@@ -1,0 +1,58 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000D4LSD7",
+    "figi": "BBG000D4LWL9",
+    "isin": "KYG8701T1388"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "KYG8701T1388",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TC2A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TC2A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCLHF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TC2A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TC2A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TC2A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TCL ELECTRONICS HLDGS HD1",
+  "primary_symbol": "TC2A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "TCL Electronics Holdings Limited, headquartered in China, is a global consumer electronics manufacturer. The company designs, develops, manufactures, and sells a wide range of products, including televisions, audio and video equipment, and home appliances. TCL's business model involves brand operations, product development, and supply chain management to deliver affordable and innovative electronics to consumers worldwide.",
+  "website": "http://electronics.tcl.com"
+}

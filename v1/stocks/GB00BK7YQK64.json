@@ -1,0 +1,78 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000FBNVF8",
+    "figi": "BBG000FBR204",
+    "isin": "GB00BK7YQK64"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "GB00BK7YQK64",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H2V2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMSNF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "H2V2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "H2V2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HM9.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "HMN.JO"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "HMN.SI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "HMSO.IR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "HMSO.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Hammerson plc",
+  "primary_symbol": "H2V2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "At Hammerson, we create vibrant, continually evolving spaces, in and around major cities, where people and brands want to be. We seek to deliver value for all our stakeholders and to create a positive and sustainable impact for generations to come. We own and operate high-quality flagship destinations and have investments in premium outlets in selected European countries and have a City Quarters strategy to evolve our portfolio beyond retail.",
+  "website": "http://www.hammerson.com"
+}

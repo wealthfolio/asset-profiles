@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG001BKSXR8",
+    "figi": "BBG005910F11",
+    "isin": "DE000A1X3YY0"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Consumer Services",
+  "isin": "DE000A1X3YY0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BST.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BST.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BST.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BST.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BST.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BST.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BST.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BST.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "BST.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BASTEI LUEBBE AG  O.N.",
+  "primary_symbol": "BST.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Bastei Lübbe AG is a German publishing house that publishes books, e-books, audio books, and other media products. The company's product portfolio includes fiction, non-fiction, and children's books, as well as digital content and games. Bastei Lübbe is headquartered in Cologne, Germany.",
+  "website": "http://www.luebbe.de"
+}

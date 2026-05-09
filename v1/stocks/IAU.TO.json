@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Z3VDWD1",
+    "figi": "BBG00ZXZWH14"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "IAU.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "i-80 Gold Corp.",
+  "primary_symbol": "IAU.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "i-80 Gold Corp., a mining company, develops and produces various gold projects in Nevada. It holds a 100% interest in the Getchell project located at the Intersection of the Getchell and Battle Mountain Trends proximal to Nevada Gold Mines' Twin Creeks and Turquoise Ridge mining operations; and the McCoy-Cove project located on the Battle Mountain Trend proximal to Nevada Gold Mines' Phoenix operation. The company also holds a 40% interest in the El Nino underground mine at South Arturo. i-80 Gold Corp. is headquartered in Reno, Nevada.",
+  "website": "http://www.i80gold.com"
+}

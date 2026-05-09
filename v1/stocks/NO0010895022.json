@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "NO0010895022"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "NO0010895022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNTR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N0D.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "MNTR.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010895022.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Mentor Capital, Inc.",
+  "primary_symbol": "MNTR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Mentor Capital, Inc. is a private equity firm specializing in acquisitions and emerging growth investments. The firm provides passive equity funding and liquidity to smaller companies and owners in the medical, marijuana and social use cannabis companies. It invests in shelf IPO's and public and private companies and seeks to provide public market access to owners of small private companies. The firm specializes in pre-IPO investments in Cannabis companies. In case of shelf IPO's, the firm prefers to invest in companies with sales greater than $40 million. It prefers to take significant position in its portfolio companies. The firm invests only in companies that have earnings. Mentor Capital, Inc. was founded in 1985 and is based in Ramona, California.",
+  "website": "http://mentorcapital.com"
+}

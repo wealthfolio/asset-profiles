@@ -1,0 +1,43 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00WHNHNF5",
+    "figi": "BBG00WHNHNL8",
+    "isin": "SE0008348262"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0008348262",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5JD.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5JD.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EXPRS2.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EXPRES2ION BIOTECH HLDG",
+  "primary_symbol": "5JD.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ExpreS2ion Biotech Holding AB (publ), through its subsidiary, ExpreS2 ion Biotechnologies ApS, develops a platform technology that enables the production of complex proteins for new vaccines and diagnostics of malaria. The company develops ExpreS2 platform, an S2 cell that produce proteins. Its ExpreS2 kit include ExpreS2 plasmids, ExpreS2 cells, ExpreS2 transfection reagents, culture media for S2 cells, and plasmid maps and protocols for use. The company also offers ExpreS2 TR, a transfection reagent, which is formulated and optimized for insect cell transfection; placental malaria vaccine; and blood stage malaria vaccine. In addition, it provides upstream process development and a range of products and services related to ExpreS2 protein expression platform. ExpreS2ion has research collaboration with University of Bologna to test HER2-cVLP in state-of-the-art breast cancer mice models. ExpreS2ion Biotech Holding AB (publ) is based in Horsholm, Denmark.",
+  "website": "http://www.expres2ionbio.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0004155000"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "FR0004155000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFPI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0N9P.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EKN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SFPI.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Santa Fe Petroleum, Inc.",
+  "primary_symbol": "SFPI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Santa Fe Petroleum, Inc., an oil and gas exploration company, engages in the acquisition, development, production, and sale of oil and gas with properties in Texas and Oklahoma. The company is based in Allen, Texas.",
+  "website": "http://www.groupe-sfpi.com"
+}

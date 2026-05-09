@@ -1,0 +1,62 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "cusip": "20449X401",
+    "isin": "US20449X4016"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US20449X4016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMPGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMPGY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CPG.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CPGN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XGR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XGR2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XGR2.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Compass Group PLC",
+  "primary_symbol": "CMPGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Compass Group PLC, together with its subsidiaries, operates as a food and support services company in North America, Europe, and internationally. It serves business and industry; healthcare and senior living market; education; sports and leisure; and defense, offshore, and remote sectors. The company also offers support services, such as cleaning in hospitals; reception services at corporate headquarters; managing remote camps; grounds and facilities services at schools and universities; and others. Compass Group PLC was founded in 1941 and is based in Chertsey, the United Kingdom.",
+  "website": "http://www.compass-group.com"
+}

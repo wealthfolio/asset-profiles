@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005NB9650",
+    "figi": "BBG005NB96C2",
+    "isin": "BMG173841013"
+  },
+  "industry_group": "Energy",
+  "isin": "BMG173841013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BW9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BW9.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BMG173841013.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BW9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BW9.SG"
+    }
+  ],
+  "name": "BW LPG LTD  DL-,01",
+  "primary_symbol": "BW9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "BW LPG Ltd. owns and operates a fleet of Very Large Gas Carriers (VLGCs) that transport liquefied petroleum gas (LPG) worldwide. The company provides seaborne transportation of LPG to energy companies and industrial users. BW LPG is headquartered in Singapore."
+}

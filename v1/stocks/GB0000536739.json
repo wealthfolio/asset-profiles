@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001FBRYD8",
+    "figi": "BBG001FBRYK0",
+    "isin": "GB0000536739"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "GB0000536739",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0LC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0LC.DU"
+    }
+  ],
+  "name": "ASHTEAD GRP PLC  LS-,10",
+  "primary_symbol": "0LC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ashtead Group plc is an international equipment rental company operating in the United States, Canada, and the United Kingdom. Through its Sunbelt Rentals brand, the company provides a wide range of construction, industrial, and event equipment for rent. Ashtead is headquartered in London, United Kingdom"
+}

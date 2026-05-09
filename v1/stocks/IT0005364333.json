@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005364333"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "IT0005364333",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "MAPS.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Maps S.p.A.",
+  "primary_symbol": "MAPS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Maps S.p.A., a software solution provider, designs and develops technological solutions to support decision-making processes in public and private businesses and organizations. It offers Webdistilled, a semantic analysis system for marketing and communications agencies; Clinika, a semantics-based processing tool for clinical data; GZoom that supports governance in public bodies and complex organizations; and Greennebula, a cloud system for online management of environmental permits. The company is headquartered in Parma, Italy.",
+  "website": "http://mapsgroup.it"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000VK0NX3",
+    "figi": "BBG000VK0QX6",
+    "isin": "ID1000110901"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "ID1000110901",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I41.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I41.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I41.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "INDY.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INDIKA ENERGY TBK  RP 100",
+  "primary_symbol": "I41.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "INDIKA ENERGY TBK RP 100 is an Indonesian investment holding company with core businesses in energy resources, energy services, and infrastructure. The company's main operations involve coal mining and related services. Indika Energy is headquartered in Jakarta, Indonesia.",
+  "website": "http://www.indikaenergy.co.id"
+}

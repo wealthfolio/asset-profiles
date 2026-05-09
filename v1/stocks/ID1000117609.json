@@ -1,0 +1,48 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG001B8KPJ9",
+    "figi": "BBG001B8KPP2",
+    "isin": "ID1000117609"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "ID1000117609",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BUR.MU"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "BRMS.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BUR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BUR.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BUMI RESOURC.MINER.RP 625",
+  "primary_symbol": "BUR.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "PT Bumi Resources Minerals Tbk, through its subsidiaries, engages in the exploration and development of mineral properties in Asia. It operates through three segments: Investments, Holding Company, and Mining and Services. The company explores for lead, zinc, gold, copper, and iron ore. It also invests in shares, funding, and finance related activities. The company was founded in 2003 and is headquartered in Jakarta, Indonesia.",
+  "website": "http://www.bumiresourcesminerals.com"
+}

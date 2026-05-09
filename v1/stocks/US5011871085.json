@@ -1,0 +1,52 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "cusip": "501187108",
+    "isin": "US5011871085"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "US5011871085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KHNGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KHNGY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KNIU.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "KNIN.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KNIU.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Kuehne + Nagel International AG",
+  "primary_symbol": "KHNGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kuehne + Nagel International AG, together with its subsidiaries, provides integrated logistics services worldwide. The company operates through four segments: Sea Logistics, Air Logistics, Road Logistics, and Contract Logistics. It provides airfreight services; seafreight services, including full and less than container loads, intra Europe/short sea intermodal solutions integration with carriers, blue anchor line agent, cargo insurance, customs clearance, and contract logistics services, as well as overland transportation and contract logistics services. The company also offers export and import documentation; door-to-door services; and logistics supply movement arrangement services. It serves aerospace, automotive, FMCG, high-tech, oil and gas, pharma and healthcare, retail, industrial, emergency and relief logistics, drinks logistics, forest products, hotel and marine logistics, foodservice, insurance, and project logistics sectors. The company is based in Schindellegi, Switzerland. Kuehne + Nagel International AG is a subsidiary of Kuehne Holding AG.",
+  "website": "http://www.kuehne-nagel.com"
+}

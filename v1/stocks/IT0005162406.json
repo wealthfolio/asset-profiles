@@ -1,0 +1,61 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005162406"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0005162406",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RG1.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCCHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TN2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TN2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "TGYM.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TN2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TN2.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TECHNOGYM SPA TECHNOGYM ORD SHS",
+  "primary_symbol": "0RG1.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "TECHNOGYM SPA is an Italian company that designs and manufactures fitness equipment and provides digital fitness solutions. The company's products are used in gyms, hotels, and homes. TECHNOGYM SPA is headquartered in Cesena, Italy.",
+  "website": "http://www.technogym.com"
+}

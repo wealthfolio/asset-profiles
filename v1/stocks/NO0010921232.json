@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00Z1W37T0",
+    "figi": "BBG00Z1W37V7",
+    "isin": "NO0010921232"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "NO0010921232",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AKH.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010921232.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Aker Horizons ASA",
+  "primary_symbol": "AKH.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Aker Horizons AS, through its subsidiaries, owns a portfolio of companies in the renewable energy and green tech space comprising private and public companies worldwide. The company develops offshore wind power projects. It also provides products, technology, and solutions within the field of carbon capture, utilization, and storage. The company was founded in 2020 and is headquartered in Lysaker, Norway. Aker Horizons AS is a subsidiary of Aker ASA.",
+  "website": "http://www.akerhorizons.com"
+}

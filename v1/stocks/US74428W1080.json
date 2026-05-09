@@ -1,0 +1,52 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "cusip": "74428W108",
+    "isin": "US74428W1080"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US74428W1080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGAOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGAOY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BX7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "PROX.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "PROX.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Proximus PLC",
+  "primary_symbol": "BGAOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Proximus PLC provides digital services and communication solutions in Belgium and internationally. It operates through Consumer Business Unit (CBU), Enterprise Business Unit (EBU), Carrier & Wholesale Services (CWS), International Carrier Services (ICS), Customer Unit Operations (CUO), and Other Business Units segments. The CBU segment sells voice products and services, and Internet and television services on fixed and mobile networks to residential customers and small offices; and offers ICT services primarily in the Belgian market. The EBU segment engages in the sale of ICT and telecom services, and products to medium and corporate enterprises. The CWS segment sells services to telecom and cable operators. The ICS segment engages in international carrier activities. The CUO segment provides related customer operations. The Other Business Units segment engages in the activities related to digital front-end and digital products; and IT and data landscape. The company also provides ICT infrastructure, multi-cloud, digital finance solutions, cybersecurity, business applications, and managed and training services to medium and large companies, and public administrations. Proximus PLC offers its products and services under Proximus, Telindus, Scarlet, and Tango brands. The company was formerly known as Belgacom SA and changed its name to Proximus PLC in June 2015. Proximus PLC was founded in 1930 and is headquartered in Brussels, Belgium.",
+  "website": "http://www.proximus.com"
+}

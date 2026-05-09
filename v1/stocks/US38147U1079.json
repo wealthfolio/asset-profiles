@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG004DDDKH1",
+    "cusip": "38147U107",
+    "figi": "BBG004DDDKM5",
+    "isin": "US38147U1079"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "US38147U1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSBD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GSB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Goldman Sachs BDC, Inc.",
+  "primary_symbol": "GSBD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Goldman Sachs BDC, Inc. is a business development company specializing in middle market and mezzanine investment in private companies. It seeks to make capital appreciation through direct originations of secured debt, senior secured debt, junior secured debt, including first lien, first lien/last-out unitranche and second lien debt, unsecured debt, including mezzanine debt and, to a lesser extent, investments in equities. The fund primarily invests in United States. It seeks to invest between $10 million and $75 million in companies with EBITDA between $5 million and $75 million annually.",
+  "website": "http://www.goldmansachsbdc.com/content/gsam/us/en/bdc/homepage.html"
+}

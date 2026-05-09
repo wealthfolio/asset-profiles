@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "AU000000ALU8"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "AU000000ALU8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A5V.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALMFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A5V.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A5V.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ALU.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ALU.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ALTIUM LTD.",
+  "primary_symbol": "A5V.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Altium Limited is an Australian multinational software company that provides PC-based electronics design software for engineers designing printed circuit boards. Its flagship product, Altium Designer, is a comprehensive PCB design suite used for schematic capture, PCB layout, and manufacturing documentation. The company is headquartered in Sydney, Australia.",
+  "website": "http://www.altium.com"
+}

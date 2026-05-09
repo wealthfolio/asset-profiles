@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PPDM12",
+    "isin": "FI0009014344"
+  },
+  "isin": "FI0009014344",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009014344.SW"
+    }
+  ],
+  "name": "ORIOLA CORP - A       S",
+  "primary_symbol": "FI0009014344.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

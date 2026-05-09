@@ -1,0 +1,36 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0013529815"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0013529815",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AW51.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013529815.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Avenir Telecom S.A.",
+  "primary_symbol": "AW51.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Avenir Telecom S.A. retails and distributes mobiles, smartphones, and accessories. The company offers chargers, cables, protection screens and cases, memory, and USB products, multiports, HUBS, and other products under the Energizer brand. It also designs and manufactures accessories under Oxo brand. The company sells its products in 55 countries. Avenir Telecom S.A. was founded in 1989 and is based in Marseille, France.",
+  "website": "http://www.avenir-telecom.com"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BRCGW3",
+    "cusip": "103304101",
+    "figi": "BBG000BRCL70",
+    "isin": "US1033041013"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US1033041013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BO5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BO5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BYD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BO5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BO5.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BOYD GAMING CORP.  DL-,01",
+  "primary_symbol": "BO5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Boyd Gaming Corporation is a gaming and hospitality company that owns and operates casinos and related amenities. The company's properties are located across the United States and offer a range of gaming options, hotel accommodations, and dining experiences. Its headquarters are in Las Vegas, Nevada.",
+  "website": "http://www.boydgaming.com"
+}

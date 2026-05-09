@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005LBMYL8",
+    "figi": "BBG005LBMYS1",
+    "isin": "JP3386410009"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "JP3386410009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JVC.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JVC.SG"
+    }
+  ],
+  "name": "JVCKENWOOD CORP.",
+  "primary_symbol": "JVC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "JVCKENWOOD Corporation is a Japan-based electronics company that develops, manufactures, and sells car electronics, professional systems, and optical and audio products. Their products include car navigation systems, in-car entertainment, two-way radios, and audio equipment. The company is headquartered in Yokohama, Japan."
+}

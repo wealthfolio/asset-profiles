@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MM8.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Medallion Metals Limited",
+  "primary_symbol": "MM8.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Medallion Metals Limited, a resources exploration and development company, explores for precious and base metals. It explores for gold, silver, copper, lead, and zinc deposits. The company's principal property is the 100% owned Ravensthorpe Gold Project covering an area of approximately 280 square kilometers located in Western Australia. Medallion Metals Limited was incorporated in 2015 and is based in West Perth, Australia.",
+  "website": "http://www.medallionmetals.com.au"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000C0JLK6",
+    "figi": "BBG000C0JQC4",
+    "isin": "JP3148800000"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "JP3148800000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IBI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IBI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IBI.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IBIDF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4062.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IBI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IBI.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IBIDEN CO.LTD",
+  "primary_symbol": "IBI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Ibiden Co., Ltd. is a Japanese company that manufactures electronics-related products and ceramics. It is involved in the manufacturing of printed circuit boards, ceramic products, and graphite-based products. The company is based in Ogaki, Japan.",
+  "website": "http://www.ibi.co.il"
+}

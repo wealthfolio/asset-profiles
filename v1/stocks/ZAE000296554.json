@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "ZAE000296554"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "ZAE000296554",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TGA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TGAN"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TGA.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TGL.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "TGL.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TRP.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TransGlobe Energy Corporation",
+  "primary_symbol": "TGA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "TransGlobe Energy Corporation, together with its subsidiaries, engages in the acquisition, exploration, development, and production of crude oil and natural gas in Egypt and Canada. The company holds interests in four production sharing concessions, which include West Gharib, West Bakr, NW Gharib, and South Ghazalat, Egypt; and owns production and working interests in facilities in the Cardium light oil and Mannville liquid-rich gas assets in the Harmattan area of west central Alberta, Canada. TransGlobe Energy Corporation was incorporated in 1968 and is headquartered in Calgary, Canada.",
+  "website": "http://www.trans-globe.com"
+}

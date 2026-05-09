@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000H9TWR0",
+    "cusip": "92346X206",
+    "figi": "BBG002K3GN80",
+    "isin": "US92346X2062"
+  },
+  "isin": "US92346X2062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LT1B.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US92346X2062.SG"
+    }
+  ],
+  "name": "VERIFYME INC.",
+  "primary_symbol": "LT1B.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

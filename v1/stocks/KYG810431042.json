@@ -1,0 +1,46 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "KYG810431042"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG810431042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHMAY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIOPF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0813.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QHI.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Shimao Group Holdings Limited",
+  "primary_symbol": "SHMAY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Shimao Group Holdings Limited, an investment holding company, engages in the property development and investment activities in the People's Republic of China. The company develops residential and commercial properties; and operates hotels and shopping malls. It is also involved in the trading of construction materials; and property management activities. The company was formerly known as Shimao Property Holdings Limited and changed its name to Shimao Group Holdings Limited in May 2020. Shimao Group Holdings Limited was incorporated in 2004 and is based in Hong Kong, Hong Kong.",
+  "website": "http://www.shimaogroup.hk"
+}

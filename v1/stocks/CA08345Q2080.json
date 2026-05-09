@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00HFMCZY9",
+    "figi": "BBG00HFMD048",
+    "isin": "CA08345Q2080"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA08345Q2080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1VU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1VU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BENZF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1VU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1VU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1VU0.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BNZ.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "BZ.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA08345Q2080.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Benz Mining Corp.",
+  "primary_symbol": "1VU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Benz Mining Corp., a junior mining company, engages in the acquisition, exploration, and exploitation of mineral properties in the Americas. Its flagship project is the Eastmain Gold Mine project located in the James Bay Region, Quebec. The company was formerly known as Benz Capital Corp. and changed its name to Benz Mining Corp. in January 2015. Benz Mining Corp. was incorporated in 2011 and is headquartered in Coquitlam, Canada.",
+  "website": "http://benzmining.com"
+}

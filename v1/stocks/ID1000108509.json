@@ -1,0 +1,61 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "isin": "ID1000108509"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "ID1000108509",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3IB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITAYY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTIZF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3IB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3IB.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "ITMG.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INDO TAMBANGR.MEGA.RP 500",
+  "primary_symbol": "3IB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "INDO TAMBANGR.MEGA.RP 500 is an Indonesian coal mining company. It engages in the exploration, mining, and sale of coal.",
+  "website": "http://www.itmg.co.id"
+}

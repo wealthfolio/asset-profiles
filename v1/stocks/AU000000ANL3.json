@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C24NQ8",
+    "figi": "BBG000C24QM5",
+    "isin": "AU000000ANL3"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000ANL3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B7BA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B7BA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B7BA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRYYF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ANL.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B7BA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B7BA.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AMANI GOLD LTD",
+  "primary_symbol": "B7BA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Amani Gold Limited engages in the acquisition, exploration, and development of mineral interests prospective for precious metals and energy in the Democratic Republic of Congo. The company primarily explores for gold deposits. Its flagship project is the Giro gold project with two exploration permits covering an area of 497 square kilometers located in the north-east Democratic Republic of Congo. The company was formerly known as Burey Gold Limited and changed its name to Amani Gold Limited in December 2016. Amani Gold Limited is based in Adelaide, Australia.",
+  "website": "http://www.amanigold.com"
+}

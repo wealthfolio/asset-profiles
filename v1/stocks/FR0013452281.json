@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00ZV0D9X7",
+    "figi": "BBG00ZV0DB26",
+    "isin": "FR0013452281"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "FR0013452281",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9PS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9PS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALAGP.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Agripower France SA",
+  "primary_symbol": "9PS.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Agripower France SA engages in the design, installation, and maintenance of biogas projects. It offers methanization units with a power equivalent of 250 kW to communities, farmers groups, or agribusinesses; and 22 to 44 kW to individuals. The company is based in Carquefou, France.",
+  "website": "http://www.agripower-france.com"
+}

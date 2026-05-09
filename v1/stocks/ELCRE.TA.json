@@ -1,0 +1,26 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELCRE.TA"
+    }
+  ],
+  "name": "Electra Real Estate Ltd.",
+  "primary_symbol": "ELCRE.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Electra Real Estate Ltd. owns and operates commercial real estate properties. It holds and manages over 80 multi-family complexes, and approximately 28,000 residential units in Texas, Florida, Georgia, Tennessee, and North and South Carolina. The company was founded in 1972 and is based in Tel Aviv, Israel. Electra Real Estate Ltd. is a subsidiary of Elco Ltd.",
+  "website": "http://www.elco.co.il"
+}

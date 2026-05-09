@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C6VZD6",
+    "figi": "BBG000C6W1Y7",
+    "isin": "JP3684000007"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3684000007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ND5.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ND5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ND5.SG"
+    }
+  ],
+  "name": "NITTO DENKO",
+  "primary_symbol": "ND5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nitto Denko Corporation manufactures and sells various materials, including adhesive tapes, films, and other products, globally. The company operates through multiple segments, including industrial tape, optronics, and life science, offering solutions for automotive, electronics, medical, and environmental applications. Nitto Denko is headquartered in Osaka, Japan."
+}

@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0011476928"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "FR0011476928",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QSH.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1FN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1FN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "FNAC.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FNAC DARTY SA FNAC DARTY ORD SH",
+  "primary_symbol": "0QSH.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Fnac Darty SA is a French retail company specializing in consumer electronics, household appliances, cultural products, and related services. The company operates a network of stores under the Fnac and Darty brands, as well as online platforms, offering a wide range of products and services to consumers. Fnac Darty is headquartered in Ivry-sur-Seine, France.",
+  "website": "http://www.fnacdarty.com"
+}

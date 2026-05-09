@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "205750300",
+    "isin": "IT0004098510"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "IT0004098510",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "GSP.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Gas Plus S.p.A.",
+  "primary_symbol": "GSP.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Gas Plus S.p.A. engages in the exploration and production of natural gas in Italy and internationally. The company is also involved in the distribution, transport, and storage of natural gas. As of December 31, 2018, it holds an interest in 45 hydrocarbon production concessions with 4,271.1 million cubic meters of gas equivalent. The company was founded in 1960 and is based in Milan, Italy. Gas Plus S.p.A. is a subsidiary of Us.Fin. S.r.l.",
+  "website": "http://www.gasplus.it"
+}

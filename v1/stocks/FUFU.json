@@ -1,0 +1,25 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUFU"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BitFuFu Inc. Class A Ordinary Shares",
+  "primary_symbol": "FUFU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BitFuFu Inc. is a digital asset computing service provider that connects digital asset mining hardware vendors with digital asset miners, enabling access to computing power and mining facilities. The company operates a platform offering various services, including computing capacity sharing and miner hosting. BitFuFu is based in Singapore."
+}

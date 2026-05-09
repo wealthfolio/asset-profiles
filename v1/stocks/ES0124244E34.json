@@ -1,0 +1,50 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "ES0124244E34"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Insurance",
+  "isin": "ES0124244E34",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NQ2.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMAB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMAB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CMAB.DU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "MAP.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MAPFRE SA MAPFRE ORD SHS",
+  "primary_symbol": "0NQ2.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MAPFRE SA is a Spanish insurance company that provides a wide range of insurance products and services. It operates in numerous countries around the world. The company is headquartered in Majadahonda, Spain."
+}

@@ -1,0 +1,35 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "IE00B1FZS467"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "IE00B1FZS467",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDIN.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INFR.TA"
+    }
+  ],
+  "name": "I.D.I. Insurance Company Ltd.",
+  "primary_symbol": "IDIN.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "I.D.I. Insurance Company Ltd. provides insurance products and services to individuals and corporate customers in Israel. It offers life, health, personal accidents, business, car, home, travel, mortgage, and motorcycle insurance, as well as professional liability insurance for lawyers; and direct financing and savings plans. The company was founded in 2006 and is headquartered in Petah Tikva, Israel.",
+  "website": "http://www.555.co.il"
+}

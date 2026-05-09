@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QX5ZY8",
+    "isin": "GB0001765816"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GB0001765816",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0001765816.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0001765816.SW"
+    }
+  ],
+  "name": "BREWIN DOLPHIN HOLDINGS PLC",
+  "primary_symbol": "GB0001765816.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Brewin Dolphin Holdings PLC is a wealth management firm offering a range of financial planning and investment management services to private clients, charities, and intermediaries. The company provides personalized advice and tailored investment solutions. Brewin Dolphin is headquartered in London, United Kingdom."
+}

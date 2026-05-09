@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BC8MY6",
+    "figi": "BBG000BC8QD0",
+    "isin": "DE000KSAG888"
+  },
+  "industry": "Insurance",
+  "industry_group": "Materials",
+  "isin": "DE000KSAG888",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDF.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDF.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SDF.TI"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SDF.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SDF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SDF.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "K+S AG NA O.N.",
+  "primary_symbol": "SDF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "K+S Aktiengesellschaft produces mineral products for agriculture, industry, communities, and private consumers. They extract crude salts containing potassium, magnesium, and sulfur compounds from their own mines. The company is headquartered in Kassel, Germany.",
+  "website": "http://www.steadfast.com.au"
+}

@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00K03SFR5",
+    "cusip": "41043F208",
+    "isin": "US41043F2083"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US41043F2083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US41043F2083.SG"
+    }
+  ],
+  "name": "HANGER INC",
+  "primary_symbol": "US41043F2083.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "HANGER INC provides orthotic and prosthetic (O&P) services and products. They operate a network of clinics across the United States. The company is headquartered in Austin, Texas."
+}

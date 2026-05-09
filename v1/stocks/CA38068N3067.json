@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA38068N3067"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38068N3067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDRZF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GODA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GODA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA38068N3067.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GODA.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GRZ.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Gold Reserve Inc.",
+  "primary_symbol": "GDRZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Gold Reserve Inc., an exploration stage company, acquires, explores, and develops mining properties. It primarily focuses on the Siembra Minera project that holds gold, copper, silver, and other strategic mineral rights comprising an area of approximately 18,950 hectares located in Bolivar, Venezuela. The company was incorporated in 1956 and is based in Spokane, Washington.",
+  "website": "http://www.goldreserveinc.com"
+}

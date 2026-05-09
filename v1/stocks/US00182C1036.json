@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "00182C103",
+    "isin": "US00182C1036"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00182C1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANIP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSFA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BSFA.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BSFA.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BSFA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ANI Pharmaceuticals, Inc.",
+  "primary_symbol": "ANIP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ANI Pharmaceuticals, Inc., a specialty pharmaceutical company, develops, manufactures, and markets branded and generic prescription pharmaceuticals in the United States and Canada. It focuses on producing controlled substances, oncology products, hormones and steroids, and other formulations. The company manufactures oral solid dose products; semi-solids, liquids, and topicals; and potent products, as well as performs contract manufacturing for other pharmaceutical companies. It markets its products through retail pharmacy chains, wholesalers, distributors and mail order pharmacies, and group purchasing organizations. The company was founded in 2001 and is headquartered in Baudette, Minnesota.",
+  "website": "http://www.anipharmaceuticals.com"
+}

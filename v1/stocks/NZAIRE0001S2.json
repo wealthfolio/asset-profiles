@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C0Q2Z4",
+    "figi": "BBG000C0Q6N8",
+    "isin": "NZAIRE0001S2"
+  },
+  "industry_group": "Transportation",
+  "isin": "NZAIRE0001S2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZU.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZU.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZU.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BZU.SG"
+    }
+  ],
+  "name": "AIR NEW ZEALAND  O.N.",
+  "primary_symbol": "BZU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Air New Zealand Limited provides air transportation services for passengers and cargo. The airline operates domestic and international flights. The company is based in Auckland, New Zealand."
+}

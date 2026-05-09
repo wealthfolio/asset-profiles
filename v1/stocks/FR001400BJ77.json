@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00P7X1501",
+    "figi": "BBG00P7X1556",
+    "isin": "FR001400BJ77"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "FR001400BJ77",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2ZT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2ZT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2ZT.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALALO.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ACHETER-LOUER.FR  EO -,01",
+  "primary_symbol": "2ZT.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "ACHETER-LOUER.FR EO -,01 is a French company operating a real estate portal. It likely provides online advertising and related services to real estate professionals and individuals looking to buy, sell, or rent properties.",
+  "website": "http://www.acheter-louer.fr"
+}

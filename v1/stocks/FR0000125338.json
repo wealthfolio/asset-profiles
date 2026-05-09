@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "FR0000125338"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "FR0000125338",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CAP.AX"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "CAP.SN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Carpentaria Resources Limited",
+  "primary_symbol": "CAP.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Carpentaria Resources Limited engages in the mineral exploration activities in Australia. The company explores for magnetite iron, tin, antinomy, copper, and gold deposits. Its flagship property is the Hawsons iron project located near Broken Hill, New South Wales. The company was formerly known as Carpentaria Exploration Limited and changed its name to Carpentaria Resources Limited in October 2017. Carpentaria Resources Limited was incorporated in 2000 and is based in Brisbane, Australia.",
+  "website": "http://carpentariares.com.au"
+}

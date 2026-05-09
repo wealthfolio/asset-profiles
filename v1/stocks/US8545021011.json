@@ -1,0 +1,59 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000H4XG46",
+    "cusip": "854502101",
+    "figi": "BBG000H4XJV0",
+    "isin": "US8545021011"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US8545021011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWF.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SWF.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SWF.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SWF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SWF.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STANLEY BL. + DECK.DL2,50",
+  "primary_symbol": "SWF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Stanley Black & Decker, Inc. is a diversified global provider of hand tools, power tools, accessories, storage, and engineered fastening systems. The company also provides security solutions and oil & gas services. Their headquarters are located in New Britain, Connecticut, USA.",
+  "website": "http://www.selfwealth.com.au"
+}

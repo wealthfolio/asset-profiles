@@ -1,0 +1,31 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "CNE0000003G3"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "CNE0000003G3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "000014.SZ"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Shahe Industrial Co., Ltd",
+  "primary_symbol": "000014.SZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Shahe Industrial Co., Ltd. develops, operates, and manages real estate properties in China. The company was founded in 1987 and is based in Shenzhen, China.",
+  "website": "http://www.shahe.cn"
+}

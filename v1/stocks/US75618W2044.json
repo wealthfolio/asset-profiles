@@ -1,0 +1,57 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "cusip": "75618W204",
+    "isin": "US75618W2044"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US75618W2044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RNWEF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RNWEY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R3Q.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R3Q.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "RECSI.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "RECSIO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "REC Silicon ASA",
+  "primary_symbol": "RNWEF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "REC Silicon ASA, together with its subsidiaries, produces and sells silicon materials for the solar and electronics industries worldwide. It offers various solar grade polysilicon for solar applications, including granular polysilicon, siemens rod sections, chunks, chips, and fines. The company also provides electronic grade polysilicon comprising TearDrop, as-grown siemens rods, rod sections, chunks, and chips for use in Czochralski monocrystalline ingot/wafer manufacturing for the semiconductor industry, as well as other electronic market segments, such as optics and microelectromechanical systems; and float zone polysilicon. In addition, it offers silicon gases consisting of silane, dichlorosilane, monochlorosilane, disilane, and polysilanes. The company was formerly known as Renewable Energy Corporation ASA and changed its name to REC Silicon ASA in October 2013. REC Silicon ASA was founded in 1996 and is headquartered in Lysaker, Norway.",
+  "website": "http://www.recsilicon.com"
+}

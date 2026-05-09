@@ -1,0 +1,37 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000DRKY35",
+    "isin": "FR0000065864"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0000065864",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000065864.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SOG.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SOGECLAIR",
+  "primary_symbol": "FR0000065864.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SOGECLAIR SA is a French engineering company providing design, development, and manufacturing services for the aerospace, automotive, and rail industries. The company offers solutions for aircraft interiors, vehicle systems, and railway equipment. SOGECLAIR is headquartered in Blagnac, France.",
+  "website": "http://www.sogeclair.com"
+}

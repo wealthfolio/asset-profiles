@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00XV57PJ8",
+    "figi": "BBG00XV57PQ0",
+    "isin": "VGG225641015"
+  },
+  "industry": "Software",
+  "industry_group": "Diversified Financials",
+  "isin": "VGG225641015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5CT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5CT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CINGF"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5CT.SI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VGG225641015.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "COINSILIUM GROUP LTD",
+  "primary_symbol": "5CT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Coinsilium Group Limited is a focused Blockchain, Open Finance and Metaverse venture builder based in London. The company has a long history of investing in early-stage blockchain technology companies and providing advisory services. Coinsilium shares are traded on the AQSE Growth Market in London and the OTCQB Venture Market in the United States.",
+  "website": "http://www.coinsilium.com"
+}

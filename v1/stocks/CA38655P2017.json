@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00HT43LV8",
+    "figi": "BBG00HT43M19",
+    "isin": "CA38655P2017"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38655P2017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GPB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GPB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GPTRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GPB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GPB.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "GPG.ST"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GPG.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GRANDE PORTAGE RES.LTD",
+  "primary_symbol": "GPB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Grande Portage Resources Ltd., an exploration stage company, engages in the exploration and development of natural resource properties in the United States and Canada. It holds 100% interest in the Herbert gold property consisting of 91 unpatented mining claims located in north of Juneau, Alaska. The company was incorporated in 1984 and is based in Vancouver, Canada.",
+  "website": "http://www.grandeportage.com"
+}

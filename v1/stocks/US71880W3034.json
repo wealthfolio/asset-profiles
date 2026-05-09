@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00JQ5TDK6",
+    "cusip": "71880W303",
+    "isin": "US71880W3034"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US71880W3034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US71880W3034.SG"
+    }
+  ],
+  "name": "PHIO PHARMACEUTICALS CORP",
+  "primary_symbol": "US71880W3034.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PHIO PHARMACEUTICALS CORP is a biotechnology company focused on developing immuno-oncology therapeutics using its proprietary self-delivering RNAi technology. Headquartered in Marlborough, Massachusetts, the company's lead product candidate is designed to target immune cells in the tumor microenvironment to enhance anti-tumor immune responses. Phio aims to develop next-generation RNAi therapeutics for the treatment of cancer."
+}

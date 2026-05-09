@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA23345B2003"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA23345B2003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMGGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6AX.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "DMGI.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DMG Blockchain Solutions Inc.",
+  "primary_symbol": "DMGGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DMG Blockchain Solutions Inc. operates as a blockchain and cryptocurrency company. It operates through data centre operations, data analytics and forensics, and developing enterprise Blockchains divisions. The company manages, operates, and develops digital solutions to monetize the blockchain ecosystem. It is also involved in developing enterprise blockchains; and providing hosting services for industrial mining clients. The company also provides technical expertise software products, such as blockseer pool, mine manager software, and walletscore, as well as consultation services to accounting firms, law firms, and law enforcement organizations. The company was incorporated in 2011 and is headquartered in Grand Forks, Canada.",
+  "website": "http://dmgblockchain.com"
+}

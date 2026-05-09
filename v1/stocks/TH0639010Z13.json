@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CWJKB8",
+    "figi": "BBG000CWKPQ9",
+    "isin": "TH0639010Z13"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "TH0639010Z13",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCDG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCDG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CCDG.SG"
+    }
+  ],
+  "name": "CAL-COMP ELECTR.-FGN-BA 1",
+  "primary_symbol": "CCDG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cal-Comp Electronics (Thailand) Public Company Limited is a Thailand-based electronics manufacturing services (EMS) provider. The company offers manufacturing, assembly, and testing services for various electronic products and components. Cal-Comp is headquartered in Thailand."
+}

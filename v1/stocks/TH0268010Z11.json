@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BQ18L7",
+    "figi": "BBG000BQ1CW6",
+    "isin": "TH0268010Z11"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "TH0268010Z11",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AISF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AISF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AISF.SG"
+    }
+  ],
+  "name": "ADVANCED INFO S.-FGN-BA 1",
+  "primary_symbol": "AISF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "ADVANCED INFO S.-FGN-BA 1 is likely a share of Advanced Info Service Public Company Limited (AIS), a Thai telecommunications company. AIS is the largest mobile phone operator in Thailand. The company also provides fixed broadband, digital services, and enterprise solutions."
+}

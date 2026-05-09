@@ -1,0 +1,33 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BQNJ93",
+    "figi": "BBG000BQNJG5",
+    "isin": "FR0000035305"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "FR0000035305",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALBDM.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BD Multimedia SA",
+  "primary_symbol": "ALBDM.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "BD Multimedia SA provides payment solutions. Its products include StarPass, a unified payment solution primarily used in gaming in approximately 50 countries; Toneo First, a prepaid payment card; and Payment.net, an online payment processing platform for the sale of digital content and physical goods. The company was founded in 1986 and is headquartered in Paris, France.",
+  "website": "http://www.bdmultimedia.fr"
+}

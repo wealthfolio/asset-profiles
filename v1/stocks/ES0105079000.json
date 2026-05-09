@@ -1,0 +1,58 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG00PQPFYB7",
+    "figi": "BBG00PQPFYJ9",
+    "isin": "ES0105079000"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Energy",
+  "isin": "ES0105079000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5GR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5GR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GREN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5GR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ES0105079000.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "GRE.MC"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GRENERGY RENOVALBL.EO-,15",
+  "primary_symbol": "5GR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Grenergy Renovables S.A. is a Spanish independent power producer (IPP) focused on renewable energy, primarily solar photovoltaic and wind power. The company develops, constructs, and operates renewable energy projects, selling the electricity generated to utilities and other customers. Grenergy Renovables is headquartered in Madrid, Spain.",
+  "website": "http://www.grenergy.eu"
+}

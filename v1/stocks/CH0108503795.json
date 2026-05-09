@@ -1,0 +1,41 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0108503795"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "CH0108503795",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MYBUF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QQ7.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "MBTN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Meyer Burger Technology AG",
+  "primary_symbol": "MYBUF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Meyer Burger Technology AG, a technology company, provides systems and production equipment to the photovoltaic industries. It operates through Photovoltaics, Specialized Technologies, Cells, and Modules segments. The company offers cells and modules based on proprietary Heterojunction and SmartWire technologies; and solar cells and modules lines. It operates in Switzerland, Germany, rest of Europe, Asia, the United States, and internationally. The company has a strategic partnership with Oxford Photovoltaics Limited to advance the technology for the mass production of perovskite on silicium heterojunction tandem cells. Meyer Burger Technology AG was founded in 1953 and is headquartered in Thun, Switzerland.",
+  "website": "http://www.meyerburger.com"
+}

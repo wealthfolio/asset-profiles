@@ -1,0 +1,53 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Y19HQ53",
+    "figi": "BBG00Y19HQC5",
+    "isin": "NO0010872468"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "NO0010872468",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5NQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5NQ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGXXF"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "AGLX.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010872468.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Agilyx AS",
+  "primary_symbol": "5NQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Agilyx AS engages in the chemical recycling of post-use plastics back into plastics, chemical intermediates, and low carbon fuels. The company develops systems and technologies to transform non-recyclable plastics into a range of valuable products, including a liquid from styrofoam recycling that is used in pharmaceutical, agricultural, safety, construction, food packaging, durable goods, composites, insulation, and shipping industry products; and a drop-in replacement for fossil crude oil used by refineries. It serves waste and recycling companies, municipalities, and industrial waste plastics generators. The company was founded in 2004 and is headquartered in Tigard, Oregon.",
+  "website": "http://www.agilyx.com"
+}

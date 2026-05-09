@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00PMCJSK9",
+    "figi": "BBG00PMCJSR2",
+    "isin": "GB00BKDRYJ47"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "GB00BKDRYJ47",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9AA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9AA.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AAF.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BKDRYJ47.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AIRTEL AFRICA PLC DL -,50",
+  "primary_symbol": "9AA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Airtel Africa PLC is a telecommunications company that provides mobile services, including voice, data, and mobile money, across several African countries. The company focuses on expanding its network coverage and enhancing its service offerings to customers in the region. Airtel Africa PLC is headquartered in London, United Kingdom.",
+  "website": "http://airtel.africa"
+}

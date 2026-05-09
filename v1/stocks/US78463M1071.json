@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PZGB75",
+    "cusip": "78463M107",
+    "figi": "BBG000PZGM26",
+    "isin": "US78463M1071"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US78463M1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPSC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S86.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S86.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SPS Commerce, Inc.",
+  "primary_symbol": "SPSC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SPS Commerce, Inc. provides cloud-based supply chain management solutions worldwide. It offers solutions through the SPS Commerce, a cloud-based platform that enhances the way retailers, suppliers, grocers, distributors, and logistics firms manage and fulfill orders, administer sell-through performance, and source new items. The company offers Fulfillment solution that provides fulfillment automation and replaces or augments an organization's existing staff and trading partner electronic communication infrastructure by enabling easy compliance with retailers' rulebooks, automatic, and digital exchange of information among numerous trading partners through various protocols, and greater visibility into the journey of an order; and Analytics solution, which consists of data analytics applications that enables customers to enhance their visibility across their supply chains through greater analytics capabilities. It also offers various peripheral solutions, such as assortment solution, which enables accurate order management and rapid fulfillment; and community solution that accelerates vendor onboarding and ensures trading partner adoption of new supply chain requirements. The company sells its solutions through retailer, supplier, and other sales representatives to small- to mid-sized suppliers, as well as retailers, distributors, third-party logistics providers, and other trading partners. The company was formerly known as St. Paul Software, Inc. and changed its name to SPS Commerce, Inc. in May 2001. SPS Commerce, Inc. was incorporated in 1987 and is headquartered in Minneapolis, Minnesota.",
+  "website": "http://www.spscommerce.com"
+}

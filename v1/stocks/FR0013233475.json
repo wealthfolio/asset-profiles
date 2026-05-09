@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00TSS2YB5",
+    "figi": "BBG00TSS2YK5",
+    "isin": "FR0013233475"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0013233475",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4W4.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RNL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4W4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013233475.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "LYS.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LYSOGENE S.A.(PROM.)-,30",
+  "primary_symbol": "4W4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Lysogene S.A. engages in the research and clinical development of gene therapy for neurodegenerative disorders. Its clinical programs include LYS-SAF302, which is in Phase II/III clinical trial for the treatment of mucopolysaccharidosis type IIIA; and LYS-GM101 that is in Phase I/II trial for the treatment of GM1 gangliosidosis. The company has a collaborative research collaboration with the Weizmann Institute of Science for developing a novel AAV gene therapy approach for neuronopathic gaucher disease, parkinson disease, and other diseases. Lysogene S.A. was founded in 2009 and is based in Neuilly-sur-Seine, France.",
+  "website": "http://www.lysogene.com"
+}

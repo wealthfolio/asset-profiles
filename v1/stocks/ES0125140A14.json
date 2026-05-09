@@ -1,0 +1,51 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "ES0125140A14"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "ES0125140A14",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0M0E.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRS1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CRS1.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ECR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "ECR.MC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ERCROS SA ERCROS ORD SHS",
+  "primary_symbol": "0M0E.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Ercros SA is a Spanish chemical company that manufactures and markets a range of chemical products, including chlorine, caustic soda, polyvinyl chloride (PVC), and other specialty chemicals. The company's products are used in a variety of industries, including water treatment, construction, and plastics. Ercros is headquartered in Barcelona, Spain",
+  "website": "http://www.ercros.es"
+}

@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000J4H3R6",
+    "cusip": "758750103",
+    "figi": "BBG000J4H877",
+    "isin": "US7587501039"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US7587501039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RB8.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RB8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RB8.SG"
+    }
+  ],
+  "name": "REGAL BELOIT CORP. DL-,01",
+  "primary_symbol": "RB8.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Regal Rexnord Corporation manufactures and sells industrial powertrain solutions, power transmission components, electric motors and electronic controls, air moving products, and specialty electrical components and systems."
+}

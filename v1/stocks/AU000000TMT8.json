@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000TMT8"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000TMT8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TMT.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TMT.BK"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "TMT.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TMT.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TN6.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Technology Metals Australia Limited",
+  "primary_symbol": "TMT.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Technology Metals Australia Limited engages in identifying and exploring mineral projects in Australia. The company primarily owns 100% interests in the Gabanintha Vanadium project located in the mid-west region of Western Australia. Technology Metals Australia Limited was incorporated in 2016 and is based in Subiaco, Australia.",
+  "website": "http://www.tmtlimited.com.au"
+}

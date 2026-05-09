@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000L2Q7C4",
+    "cusip": "500688106",
+    "figi": "BBG001DF4PB7",
+    "isin": "US5006881065"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US5006881065",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOS1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOS1.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "KOS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KOS1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KOS1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Kosmos Energy Ltd.",
+  "primary_symbol": "KOS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Kosmos Energy Ltd., a deepwater independent oil and gas exploration and production company, focuses along the Atlantic Margins. The company's primary assets include production offshore Ghana, Equatorial Guinea, and the U.S. Gulf of Mexico, as well as a gas development offshore Mauritania and Senegal. It also maintains a proven basin exploration program. The company was founded in 2003 and is headquartered in Dallas, Texas.",
+  "website": "http://www.kosmosenergy.com"
+}

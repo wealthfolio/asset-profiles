@@ -1,0 +1,46 @@
+{
+  "identifiers": {
+    "isin": "FR0013506730"
+  },
+  "industry_group": "Materials",
+  "isin": "FR0013506730",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NR2.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VACD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VACD.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013506730.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VACD.DU"
+    }
+  ],
+  "name": "VALLOUREC SA VALLOUREC ORD SHS",
+  "primary_symbol": "0NR2.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Vallourec SA is a French multinational company that manufactures seamless steel tubes and related tubular solutions. It serves the energy, industry, and construction sectors. The company is headquartered in Boulogne-Billancourt, France."
+}

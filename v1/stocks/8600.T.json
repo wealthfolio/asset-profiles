@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8600.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TOMONY Holdings, Inc.",
+  "primary_symbol": "8600.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "TOMONY Holdings, Inc., through its subsidiaries, provides various banking products and financial services. The company was founded in 2010 and is headquartered in Takamatsu, Japan.",
+  "website": "http://www.tomony-hd.co.jp"
+}

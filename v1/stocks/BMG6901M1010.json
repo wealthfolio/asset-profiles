@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG6901M1010"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "BMG6901M1010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GRDZF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0709.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GIO.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Giordano International Limited",
+  "primary_symbol": "GRDZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Giordano International Limited, an investment holding company, engages in the retail and distribution of men's, women's, and children's fashion apparel and accessories worldwide. It operates through two segments, Retail and Distribution; and Wholesales to Overseas Franchisees. The company sells its products under the Giordano, Giordano Junior, Giordano Ladies, BSX, and other owned and licensed brands through its own stores, as well as third party franchisees. As of December 31, 2019, the company operated a network of 2,375 stores. The company is also involved in the manufacture and retail of apparel and accessories; provision of management services; and licensing of trademarks. Giordano International Limited was founded in 1981 and is based in Kowloon, Hong Kong.",
+  "website": "http://www.giordano.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0018YXGD8",
+    "figi": "BBG0018YXGK0",
+    "isin": "CA5734591046"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "CA5734591046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "03M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRETF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "03M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "03M.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MRE.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MARTINREA INTL INC.",
+  "primary_symbol": "03M.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Martinrea International Inc. is a global automotive supplier engaged in the design, engineering, and manufacturing of metal parts, assemblies and modules, fluid management systems, and aluminum products. They supply products to automotive manufacturers primarily for light vehicles. The company is headquartered in Vaughan, Ontario, Canada.",
+  "website": "http://www.martinrea.com"
+}

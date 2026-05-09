@@ -1,0 +1,25 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCXXF"
+    }
+  ],
+  "name": "First Capital Real Estate Investment Trust",
+  "primary_symbol": "FCXXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "First Capital is a leading developer, owner and manager of mixed-use real estate located in Canada's most densely populated cities. First Capital's focus is on creating thriving urban neighbourhoods to generate value for businesses, residents, communities and our investors.",
+  "website": "http://www.fcr.ca"
+}

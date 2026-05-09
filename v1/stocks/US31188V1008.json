@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P4NGVC0",
+    "cusip": "31188V100",
+    "figi": "BBG00P4NGVK1",
+    "isin": "US31188V1008"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US31188V1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2Y7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2Y7.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSLY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A3P.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2Y7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2Y7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2Y7.SG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "F1SL34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FSLY.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FASTLY INC. CL.ADL-,00002",
+  "primary_symbol": "2Y7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Fastly, Inc. operates an edge cloud platform for processing, serving, and securing its customers’ applications. The company’s platform provides content delivery network (CDN) services, security features, and edge computing capabilities. Fastly is headquartered in San Francisco, California.",
+  "website": "http://www.fastly.com"
+}

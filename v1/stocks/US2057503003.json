@@ -1,0 +1,62 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "205750300",
+    "isin": "US2057503003"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Materials",
+  "isin": "US2057503003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSP.BD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LODE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GSP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GSP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US2057503003.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GSPARK",
+  "primary_symbol": "GSP.BD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Comstock Mining Inc. is a gold and silver mining company focused on exploration, development, and production of precious metals. The company's operations are primarily based in Nevada, USA, and its business model involves acquiring, exploring, and developing mineral properties. Comstock Mining aims to create value through the discovery and extraction of gold and silver resources.",
+  "website": "http://www.comstockmining.com"
+}

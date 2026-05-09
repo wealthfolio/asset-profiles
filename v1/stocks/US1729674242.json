@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YFSCFG3",
+    "cusip": "172967424",
+    "figi": "BBG00YFSCFH2",
+    "isin": "US1729674242"
+  },
+  "isin": "US1729674242",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "CCL.SN"
+    }
+  ],
+  "name": "CITIGROUP INC",
+  "primary_symbol": "CCL.SN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

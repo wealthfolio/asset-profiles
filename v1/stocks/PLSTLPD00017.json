@@ -1,0 +1,38 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRJVF9",
+    "figi": "BBG00ZHRJVL2",
+    "isin": "PLSTLPD00017"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "PLSTLPD00017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0WB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0WB.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STALPRODUKT ZY 2",
+  "primary_symbol": "0WB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "STALPRODUKT ZY 2 is a Polish company. It specializes in the production and distribution of steel products. The company's headquarters are located in Poland.",
+  "website": "http://www.stalprodukt.com.pl"
+}

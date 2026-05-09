@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "56400P706",
+    "isin": "US56400P7069"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US56400P7069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNKD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNFN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNFN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NNFN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NNFN.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MannKind Corporation",
+  "primary_symbol": "MNKD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MannKind Corporation, a biopharmaceutical company, focuses on the development and commercialization of inhaled therapeutic products for endocrine and orphan lung diseases in the United States. The company offers Afrezza, an inhaled insulin used to improve glycemic control in adults with diabetes. It also promotes Thyquidity used for the treatment of hypothyroidism. The company has a license and collaboration agreement with United Therapeutics Corporation for the development and commercialization of a dry powder formulation of Treprostinil (Tyvaso DPI) used for the treatment of pulmonary arterial hypertension. MannKind Corporation was incorporated in 1991 and is headquartered in Westlake Village, California.",
+  "website": "http://www.mannkindcorp.com"
+}

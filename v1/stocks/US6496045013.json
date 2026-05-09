@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "649604501",
+    "isin": "US6496045013"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US6496045013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NKZB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NKZB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NKZB.SG"
+    }
+  ],
+  "name": "NEW YORK MTG TRUST DL-,02",
+  "primary_symbol": "NKZB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "New York Mortgage Trust, Inc. is a real estate investment trust (REIT) that invests in mortgage-related assets, including residential mortgage-backed securities, mortgage loans, and other real estate-related investments. The company's objective is to deliver long-term value to its stockholders through dividends and capital appreciation. New York Mortgage Trust is headquartered in New York, NY."
+}

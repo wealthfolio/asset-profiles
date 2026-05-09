@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BV5MD0",
+    "isin": "GB0004126057"
+  },
+  "isin": "GB0004126057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0004126057.SG"
+    }
+  ],
+  "name": "EBIQUITY PLC",
+  "primary_symbol": "GB0004126057.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

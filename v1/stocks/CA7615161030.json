@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GH76SV8",
+    "figi": "BBG00GH76T19",
+    "isin": "CA7615161030"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA7615161030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "31R.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "31R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RVVTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "31R.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "RVV.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "REVIVE THERAPEUTICS LTD",
+  "primary_symbol": "31R.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Revive Therapeutics Ltd. is a pharmaceutical company focused on developing novel therapeutics for rare disorders and unmet medical needs, exploring treatments for diseases like liver disorders and inflammatory conditions. Revive Therapeutics is based in Canada. The company also has interests in cannabinoid-based therapies.",
+  "website": "http://www.revivethera.com"
+}

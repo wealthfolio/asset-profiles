@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00TJH0GP5",
+    "cusip": "68622P109",
+    "figi": "BBG00TJH0GV8",
+    "isin": "US68622P1093"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68622P1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4TZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORIC"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4TZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US68622P1093.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ORIC PHARMAC.INC.DL-,0001",
+  "primary_symbol": "4TZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ORIC Pharmaceuticals, Inc., a clinical-stage biopharmaceutical company, discovers and develops therapies for treatment of cancers. The company's lead product candidate is ORIC-101, a small molecule antagonist of the glucocorticoid receptor, which has been linked to resistance to multiple classes of cancer therapeutics across various solid tumors. Its other product candidates include ORIC-533, an orally bioavailable small molecule inhibitor of CD73 being developed for resistance to chemotherapy- and immunotherapy-based treatment regimens; ORIC-944, an allosteric inhibitor for prostate cancer; and ORIC-114, a brain penetrant orally bioavailable irreversible inhibitor designed to selectively target epidermal growth factor receptor and human epidermal growth factor receptor 2 with high potency towards exon 20 insertion mutations. The company is also developing multiple precision medicines targeting other cancer resistance mechanisms. It has collaboration and license agreement with Astellas Pharma, Inc.; Voronoi, Inc.; and Mirati Therapeutics, Inc. The company was incorporated in 2014 and is headquartered in South San Francisco, California.",
+  "website": "http://www.oricpharma.com"
+}

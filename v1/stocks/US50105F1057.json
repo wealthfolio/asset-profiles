@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001PBVXV4",
+    "cusip": "50105F105",
+    "figi": "BBG001PBVY06",
+    "isin": "US50105F1057"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US50105F1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "K1W.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "K1W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "K1W.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KRONOS WORLDWIDE  DL-,01",
+  "primary_symbol": "K1W.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Kronos Worldwide, Inc. is a global manufacturer and marketer of titanium dioxide pigments (TiO2). TiO2 is used as a base pigment in a wide range of applications, including coatings, plastics, and paper. The company is headquartered in Dallas, Texas.",
+  "website": "http://kronostio2.com"
+}

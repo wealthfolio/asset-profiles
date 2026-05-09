@@ -1,0 +1,58 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000CXJ6L6",
+    "figi": "BBG000CXJ8Q7",
+    "isin": "KYG229721140"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Telecommunication Services",
+  "isin": "KYG229721140",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COA1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COBJF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2342.HK"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2342.TW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "COA1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "COA1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COMBA TELECOM  HD-,10",
+  "primary_symbol": "COA1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "COMBA TELECOM HD-,10 is Comba Telecom Systems Holdings Ltd. traded on the Munich exchange. Comba Telecom Systems Holdings Ltd. is a global wireless solutions provider. The company manufactures and markets wireless products and solutions.",
+  "website": "http://www.comba-telecom.com"
+}

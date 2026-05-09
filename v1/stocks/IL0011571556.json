@@ -1,0 +1,43 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00G9DV0R2",
+    "figi": "BBG00NJLZS11",
+    "isin": "IL0011571556"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "IL0011571556",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUFN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5TS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5TS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Tufin Software Technologies Ltd.",
+  "primary_symbol": "TUFN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Tufin Software Technologies Ltd., together with its subsidiaries, develops, markets, and sells software-based solutions primarily in the United States, Israel, Europe, the Middle East, and Africa, Germany, the Asia Pacific, and internationally. The company provides SecureTrack, which enables security administrators to define and manage a centralized security policy, minimize the attack surface, and ensure continuous compliance across the network; SecureChange that is used to assess, provision, and verify security configuration changes across physical networks and cloud platforms, while maintaining security and compliance; and SecureApp, which is used to define, manage, and monitor network connectivity for their applications. It also offers SecureCloud, a security policy management service for cloud-native, multi-cloud, and hybrid-cloud applications and workloads. In addition, the company provides vulnerability mitigation app that enables organizations to prioritize remediation?and mitigation?efforts by enhancing vulnerability scanner output with network insights. It sells its products and services through distributors and resellers, as well as service delivery partners. Tufin Software Technologies Ltd. was incorporated in 2005 and is headquartered in Tel Aviv, Israel.",
+  "website": "http://www.tufin.com"
+}

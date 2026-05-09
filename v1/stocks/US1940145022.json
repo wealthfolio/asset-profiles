@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "194014502",
+    "isin": "US1940145022"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US1940145022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C52.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C52.SG"
+    }
+  ],
+  "name": "COLFAX CORP.",
+  "primary_symbol": "C52.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Colfax Corporation is a diversified technology company that provides air and gas handling and fabrication technology products and services. The company is based in the United States."
+}

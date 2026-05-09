@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00VR85LH4",
+    "figi": "BBG00VR85LP5",
+    "isin": "CA87320M1014"
+  },
+  "industry": "Tobacco",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA87320M1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2TP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2TP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOBAF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2TP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2TP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2TP2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA87320M1014.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TAAT.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TAAT GLOBAL ALTERNATIVES",
+  "primary_symbol": "2TP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "TAAT Global Alternatives Inc. is a company focused on developing and marketing alternative products to traditional tobacco cigarettes. They offer a nicotine-free and tobacco-free alternative made from hemp. TAAT Global Alternatives is headquartered in Vancouver, British Columbia, Canada.",
+  "website": "http://taatglobal.com"
+}

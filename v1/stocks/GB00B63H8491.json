@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BWPW08",
+    "figi": "BBG000BWPYL1",
+    "isin": "GB00B63H8491"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "GB00B63H8491",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRU.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRU.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRU.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RRU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RRU.SG"
+    }
+  ],
+  "name": "ROLLS ROYCE HLDGS LS 0.20",
+  "primary_symbol": "RRU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Rolls-Royce Holdings plc is an engineering company focused on power and propulsion systems. It designs, manufactures and distributes power systems for aviation and other industries. The company is headquartered in London, United Kingdom."
+}

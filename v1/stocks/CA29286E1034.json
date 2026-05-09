@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA29286E1034"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA29286E1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EGMLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA29286E1034.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EAU.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Engineer Gold Mines Ltd.",
+  "primary_symbol": "EGMLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Engineer Gold Mines Ltd., an exploration stage junior mining company, engages in the identification, acquisition, exploration, and development of mineral properties in Canada. The company explores for gold and silver properties. It owns a 100% interest in the Engineer Gold Mine property that covers an area of 18,319 hectares located in the British Colombia. The company was incorporated in 2018 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.engineergoldmines.com"
+}

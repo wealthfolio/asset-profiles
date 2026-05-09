@@ -1,0 +1,48 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG000BH5LT6",
+    "figi": "BBG000BH5P17",
+    "isin": "CH0048265513"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CH0048265513",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QOW.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "RIGG34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "RIGN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Transocean Ltd.",
+  "primary_symbol": "RIG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Transocean Ltd., together with its subsidiaries, provides offshore contract drilling services for oil and gas wells worldwide. It contracts its drilling rigs, related equipment, and work crews to drill oil and gas wells. As of February 22, 2021, the company owned or had partial ownership interests in and operated a fleet of 37 mobile offshore drilling units, including 27 ultra-deepwater and 10 harsh environment floaters. It serves integrated oil companies, government-owned or government-controlled oil companies, and other independent oil companies. The company was founded in 1926 and is based in Steinhausen, Switzerland.",
+  "website": "http://www.deepwater.com"
+}

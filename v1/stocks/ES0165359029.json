@@ -1,0 +1,53 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG000RKPBP6",
+    "figi": "BBG000RKPJF0",
+    "isin": "ES0165359029"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ES0165359029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEQ1.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RB1.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FEQ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FEQ1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "RJF.MC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LABORATORIO REIG J.EO 0,5",
+  "primary_symbol": "FEQ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Laboratorio Reig Jofre S.A. is a pharmaceutical company engaged in the research, development, manufacturing, and marketing of pharmaceutical products and food supplements. Their portfolio includes antibiotics, cardiovascular medications, and dermatological products, among others. The company is based in Barcelona, Spain.",
+  "website": "http://www.reigjofre.com"
+}

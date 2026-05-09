@@ -1,0 +1,47 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "cusip": "878520204",
+    "isin": "US8785202040"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "US8785202040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCLRY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0MV8.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "TCH.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TNM2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Technicolor SA",
+  "primary_symbol": "TCLRY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Technicolor SA develops, creates, and delivers products and services for the media and entertainment sectors in France, the United Kingdom, rest of Europe, the United States, rest of Americas, and the Asia-Pacific. It operates through three segments: Production Services, DVD Services, and Connected Home. The Production Services segment offers visual effects (VFX) services, including pre-visualization, asset creation, texturing, animation, rigging, rotoscoping, lighting, match move, and compositing; and computer-generated imagery animation solutions. This segment offers its services for feature films, episodic, advertising, video games, and other audiovisual content. The DVD Services segment replicates, packages, and distributes video game and music CD, DVD, and Blu-ray discs; and provides turnkey integrated supply-chain solutions, and returns handling and freight management, as well as procurement, and other inventory management and related services. The Connected Home segment offers a portfolio of broadband and video customer premise equipment, including broadband modems and gateways, digital set-top boxes, and Internet of Things connected devices for Pay-TV operators and network service providers, as well as develops software solutions. The company was incorporated in 1985 and is headquartered in Paris, France.",
+  "website": "http://www.technicolor.com"
+}

@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "16941T104",
+    "isin": "US16941T1043"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US16941T1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XQJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XQJ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XQJ.SG"
+    }
+  ],
+  "name": "CHINA PHARMA HLDGS DL-001",
+  "primary_symbol": "XQJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "China Pharma Holdings, Inc. is a pharmaceutical company that develops, manufactures, and markets pharmaceutical products in China. The company focuses on generic drugs, over-the-counter products, and traditional Chinese medicines. China Pharma Holdings is headquartered in Quanzhou, China."
+}

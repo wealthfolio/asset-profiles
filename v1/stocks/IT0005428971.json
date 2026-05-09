@@ -1,0 +1,36 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005428971"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "IT0005428971",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CML.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005428971.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Comal S.p.A.",
+  "primary_symbol": "CML.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Comal S.p.A. engages in the design and construction of photovoltaic systems in Italy and South Africa. It offers equipment and machinery maintenance services for thermal energy production plants; alternator and turbine maintenance services; sun hunter tracker services; and shelter services. The company was founded in 2001 and is headquartered in Montalto di Castro, Italy.",
+  "website": "http://www.comalgroup.com"
+}

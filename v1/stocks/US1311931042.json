@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HZT467",
+    "cusip": "131193104",
+    "figi": "BBG000HZT760",
+    "isin": "US1311931042"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US1311931042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLY.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CLY.SG"
+    }
+  ],
+  "name": "CALLAWAY GOLF  DL-,01",
+  "primary_symbol": "CLY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Callaway Golf Company is a global sports equipment manufacturer and marketer. They design, manufacture, and sell golf clubs, golf balls, apparel, and other golf-related accessories under the Callaway, Odyssey, TravisMathew, and Jack Wolfskin brands. The company is headquartered in Carlsbad, California."
+}

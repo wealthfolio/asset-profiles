@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z72F1C8",
+    "figi": "BBG00Z72F1K9",
+    "isin": "FR0010380626"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0010380626",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "69P.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0FPJ.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "69P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "69P.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "PROL.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PROLOGUE S.A.INH.B EO-,30",
+  "primary_symbol": "69P.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Prologue S.A. delivers cloud, IP communications, and enterprise content management (ECM) and exchange (EDI) solutions in France and internationally. It offers cloud computing solutions with a brokering platform for various businesses, and tools for porting and administrating applications in the cloud with deployment and management; and unified communication solutions, including telephony and fax over IP systems that are integrated within the enterprise information system. The company also provides ECM and EDI integrated solutions for the dematerialization of incoming and outgoing documents, as well as documents circulating within the company, such as various formats and types of media for customers, suppliers, administrations or other partners, or for employees and private individuals. In addition, it offers development, integration, and maintenance solutions and services to assist companies in optimizing their application portfolio. Further, the company provides diagnostics, field studies, consulting, deployment, functional upgrade, and maintenance, as well as dematerialization, and cloud and IP communication solutions; and information systems and development services. Its solutions and services are distributed in SaaS or license-based mode for the optimization of business information systems. The company was founded in 1986 and is headquartered in Gennevilliers, France.",
+  "website": "http://www.prologue.fr"
+}

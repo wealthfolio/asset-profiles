@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BVG670",
+    "figi": "BBG000BVGCH6",
+    "isin": "CA8911605092"
+  },
+  "industry_group": "Banks",
+  "isin": "CA8911605092",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TDB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TDB.MU"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "TD.BA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TDB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TDB.SG"
+    }
+  ],
+  "name": "TORONTO-DOMINION BK",
+  "primary_symbol": "TDB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Toronto-Dominion Bank (TD Bank) is a Canadian multinational banking and financial services corporation. The bank provides a wide range of financial products and services to individuals, businesses, and institutions. TD Bank is headquartered in Toronto, Ontario, Canada, and operates in North America."
+}

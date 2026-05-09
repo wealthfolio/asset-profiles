@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RWE.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "RWE Aktiengesellschaft",
+  "primary_symbol": "RWE.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "RWE Aktiengesellschaft generates and supplies electricity from renewable and conventional sources primarily in Europe and the United States. It operates through five segments: Offshore Wind; Onshore Wind/Solar; Hydro/Biomass/Gas; Supply & Trading; and Coal/Nuclear. The company generates wind, solar, hydro, nuclear, gas, and biomass electricity. It also trades in energy commodities; and operates gas storage facilities. The company serves commercial, industrial, and corporate customers. RWE Aktiengesellschaft was founded in 1898 and is headquartered in Essen, Germany.",
+  "website": "http://www.group.rwe/en"
+}

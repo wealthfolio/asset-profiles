@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BSG604",
+    "figi": "BBG000BSG908",
+    "isin": "DE0006775505"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "DE0006775505",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWX.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KFF.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NWX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NWX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NWX.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NORDWEST HANDEL AG",
+  "primary_symbol": "NWX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NORDWEST Handel AG is a German trading company specializing in the wholesale distribution of tools, fasteners, and other industrial supplies. Headquartered in Hagen, Germany, the company provides a wide range of products and services to retailers and industrial customers. NORDWEST Handel AG focuses on offering a comprehensive portfolio of products and customized solutions to meet the specific needs of its clients.",
+  "website": "http://www.nordwest.com"
+}

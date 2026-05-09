@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG01FC8CFN2",
+    "figi": "BBG01FC8CFV3",
+    "isin": "SE0005034550"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "SE0005034550",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4M2B.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4M2B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4M2B.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AMASTEN FASTIGHETS AB SK4",
+  "primary_symbol": "4M2B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Amasten Fastighets AB is a Swedish real estate company that owns, manages, and develops residential properties. The company focuses on properties located in growth regions in Sweden, aiming to provide attractive housing for tenants. Its headquarters are in Stockholm, Sweden.",
+  "website": "http://www.amasten.se"
+}

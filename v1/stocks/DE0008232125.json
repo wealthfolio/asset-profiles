@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BC6K90",
+    "figi": "BBG000BC6NY6",
+    "isin": "DE0008232125"
+  },
+  "industry_group": "Transportation",
+  "isin": "DE0008232125",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LHA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LHA.DU"
+    }
+  ],
+  "name": "LUFTHANSA AG VNA O.N.",
+  "primary_symbol": "LHA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Deutsche Lufthansa AG is a global aviation group with passenger airlines, logistics, MRO, and catering segments. The company provides air transportation services for passengers and cargo, and offers maintenance, repair, and overhaul services for aircraft. Deutsche Lufthansa is headquartered in Cologne, Germany."
+}

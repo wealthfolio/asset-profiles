@@ -1,0 +1,73 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG000BX8QF2",
+    "figi": "BBG000BX8RM2",
+    "isin": "ZAE000058723"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "ZAE000058723",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DRDGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DUB1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DUB1.MU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "DRD.JO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DRDN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DUB1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DUB1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DUBA.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DRDGOLD Limited",
+  "primary_symbol": "DRD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "DRDGOLD Limited, a gold mining company, engages in the surface gold tailings retreatment business in South Africa. The company is involved in the exploration, extraction, processing, and smelting activities. It recovers gold from surface tailings in the Witwatersrand basin in Gauteng province. The company was founded in 1895 and is headquartered in Johannesburg, South Africa.",
+  "website": "http://www.drdgold.com"
+}

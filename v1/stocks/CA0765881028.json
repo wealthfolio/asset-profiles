@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00B6S36S0",
+    "figi": "BBG00B6S36Z2",
+    "isin": "CA0765881028"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Capital Goods",
+  "isin": "CA0765881028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1UR1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1UR1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEVVF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1UR1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1UR1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1UR1.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BEE.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BEE.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BEE VECTOR.TECHS INTL",
+  "primary_symbol": "1UR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Bee Vectoring Technologies International Inc. is an agricultural technology company that has developed a system using commercially grown bees to carry and deliver biological control agents directly to crops. This precision agriculture system helps to improve crop yields and reduce the use of chemical pesticides, and the company is based in Mississauga, Ontario, Canada.",
+  "website": "http://www.beevt.com"
+}

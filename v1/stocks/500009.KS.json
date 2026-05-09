@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "500009.KS"
+    }
+  ],
+  "name": "Shinhan DJIA Futures ETN(H)",
+  "primary_symbol": "500009.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Shinhan DJIA Futures ETN(H) is an Exchange Traded Note (ETN) offered by Shinhan Investment Corporation that provides exposure to Dow Jones Industrial Average (DJIA) futures. The \"(H)\" likely indicates that it is currency hedged, aiming to minimize the impact of fluctuations in the exchange rate between the Korean Won and the currency in which the DJIA futures are denominated (typically USD)."
+}

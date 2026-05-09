@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000H49280",
+    "figi": "BBG000H496R0",
+    "isin": "MHY2187A1507"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY2187A1507",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E1B1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E1B1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EGKPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EGLE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "E1B1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E1B1.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EAGLE BULK SHIPP.  DL-,01",
+  "primary_symbol": "E1B1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Eagle Bulk Shipping Inc. is a global owner and operator of dry bulk vessels, focusing primarily on the small to medium-sized dry bulk vessel segment, known as the handymax and supramax sectors. The company transports a range of bulk commodities, including coal, grain, iron ore, and fertilizer, and is headquartered in Stamford, Connecticut. Eagle Bulk Shipping provides transportation services to producers, consumers, and traders worldwide.",
+  "website": "http://www.eagleships.com"
+}

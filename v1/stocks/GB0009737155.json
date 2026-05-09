@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DK33Q2",
+    "isin": "GB0009737155"
+  },
+  "industry_group": "Software & Services",
+  "isin": "GB0009737155",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0009737155.SG"
+    }
+  ],
+  "name": "PCI-PAL PLC",
+  "primary_symbol": "GB0009737155.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "PCI-PAL PLC provides secure payment solutions to contact centers, enabling businesses to process payments in a safe and compliant manner. The company's solutions help businesses reduce the risk of fraud and data breaches. PCI-PAL is headquartered in Ipswich, United Kingdom."
+}

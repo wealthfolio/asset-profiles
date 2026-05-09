@@ -1,0 +1,56 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "isin": "GB00BN0SMB92"
+  },
+  "industry": "Household Products",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB00BN0SMB92",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FKGD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FKGD.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNE.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "CNE.SI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BN0SMB92.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CHINA EVERBRIGHT EN.GRP.",
+  "primary_symbol": "CNE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "China Everbright Environment Group Limited is an environmental protection company focusing on waste-to-energy, water treatment, and other environmental management projects. The company invests in, develops, and operates environmental protection facilities, contributing to sustainable development. Their operations are mainly in China.",
+  "website": "http://www.mindchamps.org"
+}

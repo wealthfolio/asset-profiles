@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BRZKC1",
+    "cusip": "987184108",
+    "figi": "BBG000BRZVQ2",
+    "isin": "US9871841089"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "US9871841089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YORW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YWA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YWA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YWA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "The York Water Company",
+  "primary_symbol": "YORW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "The York Water Company impounds, purifies, and distributes drinking water. It owns and operates two wastewater collection systems; five wastewater collection and treatment systems; and two reservoirs, including Lake Williams and Lake Redman, which hold approximately 2.2 billion gallons of water. The company also operates a 15-mile pipeline from the Susquehanna River to Lake Redman; and owns nine groundwater wells that supply water to customers in the Adams County. It serves customers in the fixtures and furniture, electrical machinery, food products, paper, ordnance units, textile products, air conditioning systems, laundry detergents, barbells, and motorcycle industries in 51 municipalities within three counties in south-central Pennsylvania. The York Water Company was incorporated in 1816 and is based in York, Pennsylvania.",
+  "website": "http://www.yorkwater.com"
+}

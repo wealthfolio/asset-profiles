@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00JZBTW12",
+    "figi": "BBG00JZBTW76",
+    "isin": "FR0013495298"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Transportation",
+  "isin": "FR0013495298",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1KK1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1KK1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1KK1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALGAU.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013495298.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GAUSSIN S.A.  EO 1",
+  "primary_symbol": "1KK1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Gaussin SA designs, develops, and markets electric and hydrogen-powered vehicles for port, airport, logistics, and construction applications. The company aims to provide zero-emission transportation solutions for various industries. TICKER: Gaussin SA designs, develops, and markets electric and hydrogen-powered vehicles for port, airport, logistics, and construction applications, aiming to provide zero-emission transportation solutions.",
+  "website": "http://www.gaussin.com"
+}

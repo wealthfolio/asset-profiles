@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "05581M404",
+    "isin": "US05581M4042"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US05581M4042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BICB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BICB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BTCS"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BTCS Inc.",
+  "primary_symbol": "BICB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BTCS Inc. focuses on blockchain technologies and digital currency ecosystems. It intends to acquire digital assets to provide investors with indirect ownership of bitcoin and ether through open market purchases. The company was formerly known as Bitcoin Shop, Inc. and changed its name to BTCS Inc. in July 2015. BTCS Inc. was founded in 2013 and is based in Silver Spring, Maryland.",
+  "website": "http://www.btcs.com"
+}

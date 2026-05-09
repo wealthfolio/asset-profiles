@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00XH4SY05",
+    "figi": "BBG00XNNWZ71",
+    "isin": "DE000A2QDNX9"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A2QDNX9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0M.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0M.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C0M.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "C0M.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "C0M.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C0M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2QDNX9.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COM.CHARG.SOL.AG INH.O.N.",
+  "primary_symbol": "C0M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Compleo Charging Solutions AG (now innogy eMobility Solutions GmbH) is a German company that provides charging solutions for electric vehicles. The company develops and manufactures AC and DC charging stations for various applications, including public charging, workplace charging, and home charging. Compleo is headquartered in Dortmund, Germany.",
+  "website": "http://www.compleo-cs.de"
+}

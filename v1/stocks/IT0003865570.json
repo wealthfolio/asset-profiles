@@ -1,0 +1,51 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003865570"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "IT0003865570",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0BJP.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IPJ1.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003865570.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "WBD.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "WBDR.MI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SALINI IMPREGILO SPA SALINI IMP",
+  "primary_symbol": "0BJP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SALINI IMPREGILO SPA SALINI IMP is an Italian industrial group specializing in the construction of major infrastructure projects worldwide. The company undertakes civil engineering projects such as roads, railways, dams, and bridges, and is headquartered in Milan, Italy.",
+  "website": "http://www.webuildgroup.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005037210"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "IT0005037210",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RIW.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7T4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "TNXT.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TECNOINVESTIMENTI SPA TECNOINVE",
+  "primary_symbol": "0RIW.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TECNOINVESTIMENTI SPA is an Italian company providing digital trust services, credit information and management, and real estate services. The company offers solutions for digital identity, electronic signatures, and cybersecurity. TECNOINVESTIMENTI SPA is headquartered in Milan, Italy.",
+  "website": "http://www.tinexta.com"
+}

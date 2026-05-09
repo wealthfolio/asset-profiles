@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PJ7SW6",
+    "cusip": "69354N106",
+    "figi": "BBG000PJ7WC9",
+    "isin": "US69354N1063"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "US69354N1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POV1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRAA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "POV1.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PRA GROUP INC.  DL-,01",
+  "primary_symbol": "POV1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PRA Group, Inc. is a global leader in acquiring and collecting nonperforming loans. They purchase portfolios of defaulted debt and employ a variety of collection methods to recover outstanding balances. The company operates in the Americas and Europe.",
+  "website": "http://www.pragroup.com"
+}

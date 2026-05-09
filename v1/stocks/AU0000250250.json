@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU0000250250"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU0000250250",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDLNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G7P.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GGG.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Greenland Minerals Limited",
+  "primary_symbol": "GDLNF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Greenland Minerals Limited acquires explores, develops, and commercializes mineral properties in Australia. The company primarily explores for rare earth elements, uranium, zinc, and fluorspar. It owns a 100% interest in the Kvanefjeld project located in southern Greenland. The company was formerly known as Greenland Minerals and Energy Limited and changed its name to Greenland Minerals Limited in June 2018. Greenland Minerals Limited is headquartered in Subiaco, Australia.",
+  "website": "http://www.ggg.gl"
+}

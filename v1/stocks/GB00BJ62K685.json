@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG0064RSXB7",
+    "figi": "BBG0064RSXJ9",
+    "isin": "GB00BJ62K685"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "GB00BJ62K685",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6P8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6P8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAHGF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6P8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6P8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6P8.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PETS.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PETS AT HOME GROUP LS 1",
+  "primary_symbol": "6P8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Pets at Home Group Plc is a British pet supplies retailer offering pet food, accessories, and veterinary services through its stores and online channels, headquartered in Handforth, Cheshire, United Kingdom.",
+  "website": "http://investors.petsathome.com"
+}

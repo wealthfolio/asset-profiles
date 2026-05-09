@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BKZNC0",
+    "cusip": "766559603",
+    "figi": "BBG000BKZQX0",
+    "isin": "US7665596034"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US7665596034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RI2A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RI2A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIGL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RI2A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RI2A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RIGEL PHARMACEUT. DL-,001",
+  "primary_symbol": "RI2A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Rigel Pharmaceuticals, Inc. is a biotechnology company focused on discovering and developing novel, targeted therapies that improve the lives of patients with hematologic disorders, cancer, and rare immune diseases. The company's pipeline includes product candidates in clinical development for immune thrombocytopenia, warm autoimmune hemolytic anemia, and COVID-19. Rigel Pharmaceuticals is headquartered in South San Francisco, California, USA.",
+  "website": "http://www.rigel.com"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C233J1",
+    "figi": "BBG000C236K2",
+    "isin": "JP3877600001"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3877600001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MARA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MARA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MARA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MARA.SG"
+    }
+  ],
+  "name": "MARUBENI CORP.",
+  "primary_symbol": "MARA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Marubeni Corporation is a general trading and investment company engaged in a diverse range of businesses including food, consumer products, chemicals, energy, metals & mineral resources, power projects, transportation infrastructure, industrial machinery, finance, logistics, and real estate. It operates globally, facilitating trade and investment across various sectors. The company is headquartered in Tokyo, Japan."
+}

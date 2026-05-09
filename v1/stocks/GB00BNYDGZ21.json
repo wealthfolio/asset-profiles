@@ -1,0 +1,46 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "GB00BNYDGZ21"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "GB00BNYDGZ21",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEX.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MEX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MEX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MEX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MELEXIS NV",
+  "primary_symbol": "MEX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Melexis NV designs, develops, manufactures and markets advanced mixed-signal semiconductors sensors and driver integrated circuits for automotive applications. The company's products include sensor ICs, driver ICs, and sensor interfaces. Melexis is headquartered in Tessenderlo, Belgium.",
+  "website": "http://www.melexis.com"
+}

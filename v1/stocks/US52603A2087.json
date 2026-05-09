@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG007DGM2V1",
+    "cusip": "52603A208",
+    "figi": "BBG007DGM312",
+    "isin": "US52603A2087"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "US52603A2087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8LCA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8LCA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8LCA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US52603A2087.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LENDINGCLUB CORP.  DL-,01",
+  "primary_symbol": "8LCA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "LENDINGCLUB CORP.  DL-,01: LendingClub Corporation is a financial technology company operating an online marketplace that connects borrowers and investors. The company provides personal loans, business loans, and auto refinancing. LendingClub is headquartered in San Francisco, California.",
+  "website": "http://www.lendingclub.com"
+}

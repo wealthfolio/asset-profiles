@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPINL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Office Properties Income Trust",
+  "primary_symbol": "OPINL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "OPI is a REIT focused on owning, operating and leasing properties primarily leased to single tenants and those with high credit quality characteristics such as government entities. OPI is managed by the operating subsidiary of The RMR Group Inc. (Nasdaq: RMR), an alternative asset management company that is headquartered in Newton, Massachusetts.",
+  "website": "http://www.opireit.com/home/default.aspx"
+}

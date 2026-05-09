@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "74754R202",
+    "isin": "US74754R2022"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US74754R2022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QLGN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7R9B.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Qualigen Therapeutics, Inc.",
+  "primary_symbol": "QLGN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Qualigen, Inc., a biotechnology company, develops novel therapeutic products for the treatment of cancer and infectious diseases. It offers FastPack, a rapid diagnostic testing system; ALAN, a DNA coated gold nanoparticle cancer drug candidate that targets various cancers; AS1411 for treating viral-based infectious diseases; RAS-F3, a small-molecule RAS oncogene protein-protein inhibitor that blocks RAS mutations and inhibits tumor formation; and STARS blood cleansing system, a DNA/RNA-based treatment device that removes tumor-produced compounds and viruses from a patient's blood. Qualigen, Inc. was founded in 1996 and is based in Carlsbad, California.",
+  "website": "http://www.qualigeninc.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Uruguay",
+  "country_code": "UY",
+  "identifiers": {
+    "composite_figi": "BBG001N9Q343",
+    "figi": "BBG001N9Q3B5",
+    "isin": "VGG0457F1071"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Retailing",
+  "isin": "VGG0457F1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AD8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AD8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARCO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AD8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AD8.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "ARCO.BA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ARCON.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ARCOS DORADOS HLDGS IND.A",
+  "primary_symbol": "AD8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Arcos Dorados Holdings Inc. is the world's largest McDonald's franchisee, operating and franchising McDonald's restaurants in Latin America and the Caribbean, headquartered in Montevideo, Uruguay",
+  "website": "http://www.arcosdorados.com"
+}

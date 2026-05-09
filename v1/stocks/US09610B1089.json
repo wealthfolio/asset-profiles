@@ -1,0 +1,42 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "cusip": "09610B108",
+    "isin": "US09610B1089"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US09610B1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BWV.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BWV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BWV.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BASWARE OY",
+  "primary_symbol": "BWV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Basware is a Finnish software company that provides cloud-based networked purchase-to-pay and e-invoicing solutions. It helps businesses streamline their financial processes. The company is headquartered in Espoo, Finland.",
+  "website": "http://www.basware.com"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0010323311"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0010323311",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RV2.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B9A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B9A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B9A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0010323311.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SE0010323311.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BIOARCTIC AB BIOARCTIC ORD SHS",
+  "primary_symbol": "0RV2.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BioArctic AB is a Swedish biopharmaceutical company focused on research and development of innovative therapies for neurodegenerative diseases, such as Alzheimer's disease and Parkinson's disease. The company's approach centers on disease-modifying treatments targeting the underlying causes of these disorders, with a focus on antibody-based therapies. BioArctic is headquartered in Stockholm, Sweden.",
+  "website": "http://www.bioarctic.se"
+}

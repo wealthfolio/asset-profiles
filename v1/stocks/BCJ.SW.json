@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BCJ.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Banque Cantonale du Jura SA",
+  "primary_symbol": "BCJ.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banque Cantonale du Jura SA provides various banking products and services to individuals and businesses in Switzerland. It offers various accounts, personal loans, mortgage loans, funding services, and debit and credit cards. The company also provides wealth management and advisory, credit, asset management, payment, and e-banking services. Banque Cantonale du Jura SA is based in Porrentruy, Switzerland.",
+  "website": "http://www.bcj.ch"
+}

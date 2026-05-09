@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMAX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CareMax Inc. Class A Common Stock",
+  "primary_symbol": "CMAX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CareMax, Inc. is a technology-enabled care platform providing comprehensive healthcare and social services to seniors. They focus on value-based care and operate medical centers with a focus on preventative care. CareMax is headquartered in Miami, Florida."
+}

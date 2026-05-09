@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000J4XBS9",
+    "figi": "BBG000J4XH88",
+    "isin": "DE000A161077"
+  },
+  "industry": "Marine",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A161077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HXCK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HXCK.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HXCK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HXCK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "HXCK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HXCK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HXCK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HXCK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ERNST RUSS AG NA O.N.",
+  "primary_symbol": "HXCK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Ernst Russ AG is a German asset and investment manager specializing in the maritime sector, offering services in ship management, investment management, and fund administration. The company focuses on managing and developing investments in shipping, real estate, and other tangible assets. Ernst Russ AG is headquartered in Hamburg, Germany.",
+  "website": "http://www.ernst-russ.de"
+}

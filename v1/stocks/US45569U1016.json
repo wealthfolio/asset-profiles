@@ -1,0 +1,38 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG012QW0362",
+    "cusip": "45569U101",
+    "figi": "BBG012QW03C5",
+    "isin": "US45569U1016"
+  },
+  "industry_group": "Utilities",
+  "isin": "US45569U1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48H.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "48H.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CALISEN PLC  LS -,01",
+  "primary_symbol": "48H.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Calisen plc owns and manages energy infrastructure assets in the United Kingdom. The company operates in two segments, Calvin Capital and Lowri Beck. The Calvin Capital segment procures, owns, and manages a portfolio of electricity and gas meters, primarily smart meters on behalf of energy retailers. The Lowri Beck segment provides installation, meter reading, and maintenance services, as well as electric vehicle charging services. This segment also offers ancillary services to energy retailer customers; and owns a portfolio of traditional meters. Calisen plc was incorporated in 2020 and is headquartered in Manchester, the United Kingdom. As of March 12, 2021, Calisen plc operates as a prior subsidiary of KKR Evergreen Aggregator L.P.",
+  "website": "http://www.calisen.com"
+}

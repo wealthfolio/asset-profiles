@@ -1,0 +1,48 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00R2MN735",
+    "figi": "BBG00R2MN780",
+    "isin": "DE000A0Z26C8"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "DE000A0Z26C8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GAG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GAG.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GAG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GAG.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GORE German Office Real Estate AG",
+  "primary_symbol": "GAG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "GORE German Office Real Estate AG engages in the real estate investment activities in Germany. It invests in office properties. The company was formerly known as M√É¬ºnchner Immobilien Center AG and changed its name to GORE German Office Real Estate AG in November 2019. GORE German Office Real Estate AG was founded in 2009 and is based in Frankfurt am Main, Germany.",
+  "website": "http://www.gore-ag.de"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PIC.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Perpetual Equity Investment Company Limited",
+  "primary_symbol": "PIC.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Perpetual Equity Investment Company Limited invests in listed securities. The company was incorporated in 2014 and is based in Sydney, Australia.",
+  "website": "http://www.perpetualequity.com.au"
+}

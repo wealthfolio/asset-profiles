@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG0103VG3Z4",
+    "figi": "BBG0103VG446",
+    "isin": "FR0004016699"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "FR0004016699",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9P4.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0G2C.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0004016699.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0004016699.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SMTPC.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SMTPC  EO  3,05",
+  "primary_symbol": "9P4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Soci√É¬©t√É¬© Marseillaise du Tunnel Prado Car√É¬©nage constructs and operates tunnels in France. It operates the Prado Car√É¬©nage tunnel, a 2.5 kilometer tunnel that provides access to the southern districts of the city of Marseilles, as well as to the Vieux port; R√É¬®ge tunnel, an access point, which passes the 26th Centenary Park and connects the Prado/Rouet districts to those of Menpenti/la Capelette; and South Prado tunnel. The company was founded in 1989 and is based in Marseille, France.",
+  "website": "http://www.tunnelprado.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "AU000000APA1"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "AU000000APA1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APA"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "A1PA34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "APA.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "APA Corporation",
+  "primary_symbol": "APA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "APA Corporation, through its subsidiaries, explores for and produces oil and gas properties. It has operations in the United States, Egypt, and the United Kingdom, as well as has exploration activities offshore Suriname. It also operates gathering, processing, and transmission assets in West Texas, as well as holds ownership in four Permian-to-Gulf Coast pipelines. The company was founded in 1954 and is based in Houston, Texas.",
+  "website": "http://apacorp.com"
+}

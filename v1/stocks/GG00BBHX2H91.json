@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004XDV9Q4",
+    "figi": "BBG004XDV9R3",
+    "isin": "GG00BBHX2H91"
+  },
+  "industry_group": "Energy",
+  "isin": "GG00BBHX2H91",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R7I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R7I.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TRIG.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "The Renewables Infrastructure Group Limited",
+  "primary_symbol": "R7I.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "The Renewables Infrastructure Group Limited is a closed-ended investment company that invests in a diversified portfolio of renewable energy infrastructure assets. The company focuses on investments in operating projects that generate stable, long-term cash flows. The Renewables Infrastructure Group is based in the United Kingdom."
+}

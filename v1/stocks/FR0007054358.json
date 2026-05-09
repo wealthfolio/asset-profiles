@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0007054358"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "FR0007054358",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MSEZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Media Sentiment, Inc.",
+  "primary_symbol": "MSEZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Media Sentiment, Inc. operates an online real-time alerts portal that provides news and information. Its portal provides real-time alerts on the U.S. equities, including OTC markets, and NYSE and NASDAQ; currencies, such as the U.S. dollar and more currencies; and commodities, such as metals. The company also provides live streaming real-time stock, currency, and metal charts. Media Sentiment, Inc. was founded in 2006 and is based in San Francisco, California. Media Sentiment, Inc. is a former subsidiary of Debut Broadcasting Corp., Inc.",
+  "website": "http://www.mediasentiment.com"
+}

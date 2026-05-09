@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000DMP0"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "AU000000DMP0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DMZPY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DPZUF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DMP.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HQX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HQX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Domino's Pizza Enterprises Limited",
+  "primary_symbol": "DMZPY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Domino's Pizza Enterprises Limited operates retail food outlets. The company holds franchise rights for the Domino's brand and network in Australia, New Zealand, Belgium, France, the Netherlands, Japan, Germany, Luxembourg, and Denmark. It operates a network of approximately 2,668 stores. Domino's Pizza Enterprises Limited was founded in 1983 and is based in Brisbane, Australia.",
+  "website": "http://www.dominos.com.au"
+}

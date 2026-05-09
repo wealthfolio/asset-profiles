@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R3NPZ4",
+    "cusip": "00912X302",
+    "figi": "BBG001DKFMS3",
+    "isin": "US00912X3026"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US00912X3026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVLA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AVLA.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Air Lease Corporation",
+  "primary_symbol": "AL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Air Lease Corporation, an aircraft leasing company, engages in the purchase and leasing of new commercial jet aircraft to airlines worldwide. The company also sells aircraft from its operating lease portfolio to third parties, including other leasing companies, financial services companies, airlines, and other investors. In addition, it provides fleet management services to investors and owners of aircraft portfolios. As of December 31, 2020, the company owned a fleet of 332 aircraft, including 236 narrowbody aircraft and 96 widebody aircraft. Air Lease Corporation was incorporated in 2010 and is headquartered in Los Angeles, California.",
+  "website": "http://www.airleasecorp.com"
+}

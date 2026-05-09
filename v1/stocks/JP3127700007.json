@@ -1,0 +1,61 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "JP3127700007"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "JP3127700007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4563.TWO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AJW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AJW.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4563.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AJW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AJW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AJW.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Quaser Machine Tools, Inc.",
+  "primary_symbol": "4563.TWO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Quaser Machine Tools, Inc. manufactures and sells machine tools in Europe, Asia, North America, South America, Africa, and Oceania. It offers vertical, 5-axis mill-turn, pallet, horizontal, and multi face 5 axes M/C machine tools, as well as FMC series products. The company was founded in 1991 and is based in Taichung City, Taiwan.",
+  "website": "http://www.quaser.com"
+}

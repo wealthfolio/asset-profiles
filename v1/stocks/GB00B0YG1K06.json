@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000FNDBQ5",
+    "figi": "BBG000FNFHV4",
+    "isin": "GB00B0YG1K06"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "GB00B0YG1K06",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R2K.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R2K.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RSTGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B0YG1K06.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R2K.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "RTN.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RTN.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "RESTAURANT GRP  LS-,28125",
+  "primary_symbol": "R2K.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "The Restaurant Group plc operates a portfolio of restaurants and pubs primarily in the UK. The company's brands include Wagamama and Frankie & Benny's, offering a variety of dining experiences. They are headquartered in the United Kingdom.",
+  "website": "http://www.trgplc.com"
+}

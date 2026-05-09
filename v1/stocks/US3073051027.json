@@ -1,0 +1,57 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "307305102",
+    "isin": "US3073051027"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US3073051027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FANUF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FANUY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "6954.T"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FANUN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FUC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FUCA.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Fanuc Corporation",
+  "primary_symbol": "FANUF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fanuc Corporation provides factory automation products in Japan, the United States, Europe, Asia, and internationally. The company offers CNC series products, servo motors, lasers, robots, compact machining centers, electric injection molding machines, wire-cut electric discharge machines, and ultra-precision machines. It also provides FANUC Intelligent Edge Link and Drive system, an open platform for the manufacturing industry. The company was incorporated in 1950 and is headquartered in Yamanashi, Japan.",
+  "website": "http://www.fanuc.co.jp"
+}

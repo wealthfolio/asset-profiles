@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000P5LMQ0",
+    "cusip": "78709Y105",
+    "figi": "BBG000P5N228",
+    "isin": "US78709Y1055"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "US78709Y1055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAIA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SQR.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Saia, Inc.",
+  "primary_symbol": "SAIA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Saia, Inc., through its subsidiaries, operates as a transportation company in North America. The company provides less-than-truckload services for shipments between 100 and 10,000 pounds; and other value-added services, including non-asset truckload, expedited, and logistics services. As of December 31, 2020, it operated 174 owned and leased facilities; and owned approximately 5,700 tractors and 17,400 trailers. The company was formerly known as SCS Transportation, Inc. and changed its name to Saia, Inc. in July 2006. Saia, Inc. was founded in 1924 and is headquartered in Johns Creek, Georgia.",
+  "website": "http://www.saia.com"
+}

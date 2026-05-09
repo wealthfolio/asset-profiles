@@ -1,0 +1,68 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG000FVRSP6",
+    "figi": "BBG000FVRWT3",
+    "isin": "NL0000888691"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "NL0000888691",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMVMF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ADG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ADG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ADG.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "AMG.AS"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AMG.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AMG ADVANC.METAL.GR.EO-02",
+  "primary_symbol": "ADG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "AMG Advanced Metallurgical Group N.V. is a global critical materials company that produces specialty metals and related vacuum furnace systems. They focus on the production of materials for infrastructure, energy, and specialty metals markets. The company is headquartered in Amsterdam, Netherlands.",
+  "website": "http://www.amg-nv.com"
+}

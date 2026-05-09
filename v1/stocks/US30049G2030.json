@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "30049G203",
+    "isin": "US30049G2030"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US30049G2030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVOK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EV0.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Evoke Pharma, Inc.",
+  "primary_symbol": "EVOK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Evoke Pharma, Inc., a specialty pharmaceutical company, primarily focuses on the development and commercialization of drugs for the treatment of gastroenterological disorders and diseases. It is developing Gimoti, a metoclopramide nasal spray that has completed Phase III clinical trials to treat symptoms associated with acute and recurrent diabetic gastroparesis in females. The company markets its products to gastroenterologists, internal medicine specialists, primary care physicians, and select health care providers. Evoke Pharma, Inc. was incorporated in 2007 and is headquartered in Solana Beach, California.",
+  "website": "http://www.evokepharma.com"
+}

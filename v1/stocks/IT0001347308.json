@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "IT0001347308"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Materials",
+  "isin": "IT0001347308",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NVQ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UCM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UCM.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "UCM.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UCM.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BUZZI UNICEM SPA BUZZI UNICEM S",
+  "primary_symbol": "0NVQ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Buzzi Unicem SpA is an Italian cement and concrete company. It manufactures cement, ready-mix concrete, and aggregates. The company is headquartered in Casale Monferrato, Italy.",
+  "website": "http://www.uscom.com.au"
+}

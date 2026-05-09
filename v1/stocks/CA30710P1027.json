@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000LGH519",
+    "figi": "BBG000LGH8D0",
+    "isin": "CA30710P1027"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA30710P1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3F9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNC.CR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNCJF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3F9.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "FNC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FANCAMP EXPLORATION LTD",
+  "primary_symbol": "3F9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Fancamp Exploration Ltd. is a Canadian mineral exploration company. The company focuses on exploring and developing mineral properties in Canada. Fancamp Exploration is headquartered in Montreal, Quebec, Canada.",
+  "website": "http://www.fancampexplorationltd.ca"
+}

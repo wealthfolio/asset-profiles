@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MS90LK2",
+    "cusip": "550424105",
+    "figi": "BBG00NPL2YZ0",
+    "isin": "US5504241051"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US5504241051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LAZR"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LAZR.MX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Luminar Technologies, Inc.",
+  "primary_symbol": "LAZR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Luminar Technologies, Inc. operates as a vehicle sensor and software company for passenger cars and commercial trucks. The company operates in two segments, Autonomy Solutions and Other Component Sales. The Autonomy Solutions segment designs, manufactures, and sells lidar sensors, and related perception and autonomy software solutions for original equipment manufacturers in the automobile, commercial vehicle, robo-taxi, and other related industries. The Other Component Sales segment engages in the designing, testing, and consulting of non-standard integrated circuits for government agencies and defense contractors. The company was founded in 2012 and is headquartered in Orlando, Florida.",
+  "website": "http://www.luminartech.com"
+}

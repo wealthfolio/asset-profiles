@@ -1,0 +1,26 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Oculis Holding AG Ordinary shares",
+  "primary_symbol": "OCS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Oculis Holding AG is a biopharmaceutical company focused on developing ophthalmic treatments. The company aims to develop and commercialize topical ophthalmic treatments for both front- and back-of-the-eye diseases. Oculis is headquartered in Reykjavik, Iceland and Lausanne, Switzerland."
+}

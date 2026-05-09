@@ -1,0 +1,59 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LL0V8Y0",
+    "cusip": "05280R100",
+    "figi": "BBG00LL0V941",
+    "isin": "US05280R1005"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US05280R1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6A3A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6A3A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUTL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6A3A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6A3A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6A3A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AUTOLUS THERAP. SP.ADR/1",
+  "primary_symbol": "6A3A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AUTOLUS THERAP. SP.ADR/1 is a clinical-stage biopharmaceutical company focused on developing next-generation programmed T cell therapies for the treatment of cancer. The company's lead product candidate is in clinical development for diffuse large B-cell lymphoma. Autolus Therapeutics is headquartered in the United Kingdom.",
+  "website": "http://www.autolus.com"
+}

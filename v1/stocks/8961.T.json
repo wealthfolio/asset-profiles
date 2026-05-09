@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8961.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MORI TRUST Sogo Reit, Inc.",
+  "primary_symbol": "8961.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "MORI TRUST Sogo Reit, Inc. manages assets by investing funds collected from investors, based on its Certificate of Incorporation, mainly in real estate and asset-backed securities that invest mainly in real estate.",
+  "website": "http://www.mt-reit.jp"
+}

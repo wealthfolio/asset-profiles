@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LE4A.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Leonovus Inc.",
+  "primary_symbol": "LE4A.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Leonovus Inc. operates as a data management software company. The company's products include Smart Filer, a cloud information lifecycle management solution that analyzes existing file storage and extends its capacity; Vault, a multi-cloud data controller that stores data securely across hybrid and multi-cloud environments; and XVault, a data sharing engine that transfers customers information remotely only to its intended recipients. It offers storage management solutions with technologies that enable intelligent data management in various local, network, and cloud storage. The company is based in Ottawa, Canada.",
+  "website": "http://www.leonovus.com"
+}

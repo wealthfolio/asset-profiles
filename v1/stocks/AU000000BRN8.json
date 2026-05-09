@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00HZPZ5H0",
+    "figi": "BBG00HZPZ5P1",
+    "isin": "AU000000BRN8"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "AU000000BRN8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "24Y.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "24Y.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRCHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "24Y.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000BRN8.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BRN.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BrainChip Holdings Ltd",
+  "primary_symbol": "24Y.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BrainChip Holdings Ltd develops software and hardware accelerated solutions for artificial intelligence (AI) and machine learning applications in North America, Europe, the Middle East, and Asia. It offers Akida Development Environment, a machine learning framework for creating, training, and testing neural networks, as well as supporting the development of systems for edge AI on its Akida event domain neural processor; and Akida Neuromorphic Processor to provide a ultra-low power and fast AI Edge Network for vision, audio, olfactory, and smart transducer applications. The company also provides Akida Neuromorphic System-on-Chip, an integrated solution for Edge AI device and systems. Its products are used in various applications, such as automotive and cybersecurity. The company has a research collaboration with Biotome Pty Ltd for SARS-CoV-2 antibody detection. BrainChip Holdings Ltd was incorporated in 2011 and is based in Sydney, Australia.",
+  "website": "http://brainchipinc.com"
+}

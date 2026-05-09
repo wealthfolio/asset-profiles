@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00TX25HN7",
+    "figi": "BBG00TX25HW7",
+    "isin": "AU000000RCE5"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000RCE5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R9Q.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000RCE5.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R9Q.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RCE.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "RECCE PHARMACEUTICALS LTD",
+  "primary_symbol": "R9Q.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "RECCE PHARMACEUTICALS LTD is an Australian pharmaceutical company focused on developing new classes of synthetic anti-infectives and immunomodulatory therapies. Their lead compound is RECCE 327, a synthetic polymer antibiotic being developed for the treatment of sepsis and other infections. The company is based in Sydney, Australia.",
+  "website": "http://www.recce.com.au"
+}

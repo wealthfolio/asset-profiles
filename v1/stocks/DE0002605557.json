@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000KZTZN5",
+    "figi": "BBG000KZW3W2",
+    "isin": "DE0002605557"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Capital Goods",
+  "isin": "DE0002605557",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B8A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B8A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "B8A.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "B8A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B8A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B8A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BAVARIA INDS GRP  O.N.",
+  "primary_symbol": "B8A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Bavaria Industries Group AG is an industrial holding company based in Germany that acquires and manages medium-sized industrial businesses. The company focuses on long-term value creation through operational improvements and strategic development of its portfolio companies. Bavaria Industries operates in various sectors, including industrial manufacturing and related services.",
+  "website": "http://www.baikap.de"
+}

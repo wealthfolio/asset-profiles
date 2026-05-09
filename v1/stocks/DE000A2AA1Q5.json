@@ -1,0 +1,39 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00Z5YN5G8",
+    "figi": "BBG00Z5YN5M1",
+    "isin": "DE000A2AA1Q5"
+  },
+  "isin": "DE000A2AA1Q5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9JK.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9JK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9JK.F"
+    }
+  ],
+  "name": "International School Augsburg -ISA- gemeinnutzige AG",
+  "primary_symbol": "9JK.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "International School Augsburg -ISA- gemeinn√É¬ºtzige AG operates an international day school for children between the ages of 3 and 18 in Germany. It provides education in the English language. The company was founded in 2005 and is based in Gersthofen, Germany.",
+  "website": "http://www.isa-augsburg.com"
+}

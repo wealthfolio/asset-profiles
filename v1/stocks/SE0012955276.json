@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YHXWLV8",
+    "figi": "BBG00YHXWM00",
+    "isin": "SE0012955276"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Software & Services",
+  "isin": "SE0012955276",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "799.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "799.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ADVBOX.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ADVENTURE BOX TECHNOLOGY",
+  "primary_symbol": "799.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Adventure Box Technology AB develops and markets a cloud-based social gaming platform. Their platform allows users to create, share, and play 3D games. The company is based in Stockholm, Sweden.",
+  "website": "http://www.adventurebox.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BNDF26",
+    "figi": "BBG000BNDJG3",
+    "isin": "DE0005405104"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005405104",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TSS.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005405104.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TSS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TSS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TSS.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INNOTEC TSS AG",
+  "primary_symbol": "TSS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "INNOTEC TSS AG specializes in technical safety systems. It offers services such as engineering, consulting, and the implementation of safety solutions for various industries. The company is based in Europe.",
+  "website": "http://www.innotectss.de"
+}

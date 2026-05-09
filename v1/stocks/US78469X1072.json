@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00K03RX51",
+    "cusip": "78469X107",
+    "isin": "US78469X1072"
+  },
+  "isin": "US78469X1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US78469X1072.SG"
+    }
+  ],
+  "name": "SPX FLOW INC",
+  "primary_symbol": "US78469X1072.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

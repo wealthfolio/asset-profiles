@@ -1,0 +1,21 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "502000.SS"
+    }
+  ],
+  "name": "Western Leadbank CSI 500 Equal Weight Index Graded Securities Fund",
+  "primary_symbol": "502000.SS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Western Leadbank CSI 500 Equal Weight Index Graded Securities Fund is a fund managed by Western Leadbank that tracks the CSI 500 Equal Weight Index using a graded securities structure. The fund invests in the 500 small and medium-sized A-shares listed on the Shanghai and Shenzhen Stock Exchanges, with each company having equal weighting."
+}

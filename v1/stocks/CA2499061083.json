@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000D79KV1",
+    "figi": "BBG000D79NN4",
+    "isin": "CA2499061083"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Software & Services",
+  "isin": "CA2499061083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DC2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSGN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSGX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DC2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DC2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DC2.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "DSG.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DESCARTES SYS GRP INC.",
+  "primary_symbol": "DC2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Descartes Systems Group Inc. provides cloud-based logistics and supply chain management software solutions. The company's solutions help businesses improve efficiency, reduce costs, and enhance visibility across their supply chain operations. Descartes Systems Group Inc. is headquartered in Waterloo, Ontario, Canada.",
+  "website": "http://www.designtx.com"
+}

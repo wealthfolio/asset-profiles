@@ -1,0 +1,36 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "PLMLSTM00015"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "PLMLSTM00015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MLS.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLMLSTM00015.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Metals Australia Ltd",
+  "primary_symbol": "MLS.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Metals Australia Ltd engages in the exploration and investment of mineral deposits in Australia and Canada. It primarily explores for zinc, gold, silver, copper, lithium, graphite, nickel, and other base metal deposits. The company's flagship property is the Lac Rainy Graphite Project that consists of 92 mineral claims covering an area of 45.5 square kilometers located in Quebec. Metals Australia Ltd was incorporated in 1981 and is based in West Perth, Australia.",
+  "website": "http://www.metalsaustralia.com.au"
+}

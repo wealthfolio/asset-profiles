@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000TY2VR3",
+    "cusip": "05606L100",
+    "figi": "BBG000TY2XW3",
+    "isin": "US05606L1008"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "US05606L1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BY6A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BY6A.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BY6A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BY6A.SG"
+    }
+  ],
+  "name": "BYD CO. LTD ADR/2 YC 1",
+  "primary_symbol": "BY6A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "BYD Company Limited is a Chinese manufacturer of automobiles, battery-powered bicycles, buses, forklifts, solar panels and rechargeable batteries. Headquartered in Shenzhen, Guangdong, it operates in the automotive, electronics, and renewable energy sectors. BYD is known for its electric vehicles and battery technology, and this listing represents the ADR."
+}

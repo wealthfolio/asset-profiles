@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG002W60Y10",
+    "cusip": "57164Y107",
+    "figi": "BBG002W60Y74",
+    "isin": "US57164Y1073"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US57164Y1073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8V.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8V.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "M8V.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M8V.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M8V.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MARRIOTT VAC.WORLD.DL-,01",
+  "primary_symbol": "M8V.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Marriott Vacations Worldwide Corporation is a global developer, marketer, seller, and manager of vacation ownership and related products and services. The company operates through two segments: Vacation Ownership and Exchange & Third-Party Management. Headquartered in Orlando, Florida, their business model involves selling vacation ownership intervals and providing management services for resorts and exchange programs",
+  "website": "http://www.marriottvacationsworldwide.com"
+}

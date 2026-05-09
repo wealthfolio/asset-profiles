@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MFLBVG0",
+    "cusip": "53814L108",
+    "figi": "BBG00MFLBVN2",
+    "isin": "US53814L1089"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US53814L1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8LV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8LV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTHM"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A6T.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8LV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8LV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8LV.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "LTHM.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LIVENT CORP.",
+  "primary_symbol": "8LV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "LIVENT CORP.: Livent Corporation is a manufacturer of lithium compounds used in batteries, specialty polymers, and chemical synthesis applications. The company's products are used in electric vehicles, energy storage systems, and various industrial applications. Livent is headquartered in Philadelphia, Pennsylvania.",
+  "website": "http://www.livent.com"
+}

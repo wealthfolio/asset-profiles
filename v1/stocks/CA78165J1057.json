@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA78165J1057"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA78165J1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RUPRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R05.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R05.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RUP.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Rupert Resources Ltd.",
+  "primary_symbol": "RUPRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Rupert Resources Ltd. engages in the acquisition and exploration of mineral properties in Finland. It primarily explores for gold deposits. The company owns 100% interests in the Pahtavaara gold mine, mill, and exploration permits, as well as concessions comprising 300 square kilometers land package that is located in the Central Lapland Greenstone Belt in Northern Finland; and the Gold Centre property, which is located in the Balmer Township, Red Lake mining division of Ontario. It also owns interests in the Hirsikangas gold deposit that is located in Central Finland; the Osikonmaki project, which is located in eastern central Finland; and the Surf Inlet project located in northern British Columbia. The company is headquartered in Toronto, Canada.",
+  "website": "http://rupertresources.com"
+}

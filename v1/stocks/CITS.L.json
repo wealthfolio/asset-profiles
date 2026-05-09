@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CITS.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Short Citigroup ETP",
+  "primary_symbol": "CITS.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares -1x Short Citigroup ETP is an exchange-traded product (ETP) that aims to provide investors with the inverse of the daily performance of Citigroup shares. The ETP is designed for short-term trading and is not intended for long-term investment. It is managed by Leverage Shares."
+}

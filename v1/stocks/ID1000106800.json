@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BMDTY3",
+    "figi": "BBG000BMDXL8",
+    "isin": "ID1000106800"
+  },
+  "isin": "ID1000106800",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMS2.MU"
+    }
+  ],
+  "name": "SEMEN INDON.(PERS.)RP 100",
+  "primary_symbol": "SMS2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG00TQF7TX7",
+    "figi": "BBG00TQF7V62",
+    "isin": "ES0105029005"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "ES0105029005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8FB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8FB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALPHI.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ES0105029005.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "FACE.MC"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FACEPHI BIOMETRIA  EO-,04",
+  "primary_symbol": "8FB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "FACEPHI BIOMETRIA  EO-,04: FacePhi Biometria S.A. develops and markets facial recognition software for use in various industries, primarily focusing on the banking and financial sectors. Their technology provides secure authentication solutions for mobile devices and other platforms. FacePhi Biometria is headquartered in Alicante, Spain.",
+  "website": "http://www.facephi.com"
+}

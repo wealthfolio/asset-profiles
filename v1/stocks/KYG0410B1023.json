@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000L4JD17",
+    "figi": "BBG000L4KL26",
+    "isin": "KYG0410B1023"
+  },
+  "industry_group": "Transportation",
+  "isin": "KYG0410B1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MVF1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MVF1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG0410B1023.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MVF1.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "APOLLO FUT.MOB.HKDORD",
+  "primary_symbol": "MVF1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Apollo Future Mobility Group Limited, formerly known as WE Solutions Limited, is engaged in the design, development, manufacture, and sale of electric vehicles and related products. The company also provides engineering and technology solutions, as well as investment and financial services."
+}

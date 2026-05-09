@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA4989033010"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA4989033010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDKGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LBDP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LBDP.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "KG.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LBDP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LBDP.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Klondike Gold Corp.",
+  "primary_symbol": "KDKGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Klondike Gold Corp., a resource exploration company, engages in the exploration and development of mineral properties in Canada. The company primarily explores for gold. It focuses on the exploration and development of its Yukon gold projects located in Dawson City covering a 585 square kilometers of hard rock and 20 square kilometers of placer claims. The company was formerly known as Arbor Resources Inc. and changed its name to Klondike Gold Corp. in January 1996. Klondike Gold Corp. was incorporated in 1978 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.klondikegoldcorp.com"
+}

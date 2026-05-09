@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C21XX1",
+    "figi": "BBG000C22142",
+    "isin": "JP3269600007"
+  },
+  "industry_group": "Materials",
+  "isin": "JP3269600007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KUY.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KUY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KUY.SG"
+    }
+  ],
+  "name": "KURARAY CO. LTD  YN 50",
+  "primary_symbol": "KUY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Kuraray Co., Ltd. is a Japanese specialty chemical company that produces a variety of materials, including polyvinyl alcohol (PVA) resins, synthetic fibers, and specialty chemicals. The company's products are used in a wide range of applications, including textiles, packaging, and construction. Kuraray is headquartered in Tokyo, Japan."
+}

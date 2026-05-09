@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CD3.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CD Private Equity Fund III",
+  "primary_symbol": "CD3.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CD Private Equity Fund III specializes in investments in small and specialised private equity funds targeting lower middle-market operating businesses in the United States.",
+  "website": "http://www.cdfunds.com.au/fund3/"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C2YLJ7",
+    "figi": "BBG000C2YPW3",
+    "isin": "JP3544000007"
+  },
+  "industry_group": "Materials",
+  "isin": "JP3544000007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TIJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TIJ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TIJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TIJ.SG"
+    }
+  ],
+  "name": "TEIJIN LTD",
+  "primary_symbol": "TIJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Teijin Limited is a Japanese technology-driven global group offering advanced solutions in the fields of environmental value; safety, security and disaster mitigation; and demographic change and increased health consciousness. Its main fields of operation are high-performance fibers, films, resin & plastic processing, healthcare, and IT. Teijin is headquartered in Tokyo, Japan."
+}

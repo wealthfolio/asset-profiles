@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "cusip": "09627J102",
+    "isin": "US09627J1025"
+  },
+  "isin": "US09627J1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKO.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BKO.SG"
+    }
+  ],
+  "name": "BLUEROCK RESID.GR.REIT A",
+  "primary_symbol": "BKO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

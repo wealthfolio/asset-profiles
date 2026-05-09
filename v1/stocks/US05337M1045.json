@@ -1,0 +1,52 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "cusip": "05337M104",
+    "isin": "US05337M1045"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US05337M1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVDL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AWK1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AWK1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AWK1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AWK1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Avadel Pharmaceuticals plc",
+  "primary_symbol": "AVDL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Avadel Pharmaceuticals plc operates as a biopharmaceutical company in the United States. The company's lead product candidate is FT218, a formulation of sodium oxybate which is in a Phase 3 clinical trial for the treatment excessive daytime sleepiness (EDS) and cataplexy in adults with narcolepsy. The company was formerly known as Flamel Technologies SA and changed its name to Avadel Pharmaceuticals PLC in January 2017. Avadel Pharmaceuticals plc was incorporated in 2015 and is headquartered in Dublin, Ireland.",
+  "website": "http://www.avadel.com"
+}

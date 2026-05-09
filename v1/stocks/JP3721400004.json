@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000F3W4F6",
+    "figi": "BBG000F3W5R0",
+    "isin": "JP3721400004"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3721400004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "J9R.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "J9R.SG"
+    }
+  ],
+  "name": "JAPAN STEEL WKS LTD",
+  "primary_symbol": "J9R.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Japan Steel Works, Ltd. manufactures and sells steel products and industrial machinery. The company's products include steel plates, castings, forgings, plastics machinery, defense products, and power generation equipment. Japan Steel Works is headquartered in Tokyo, Japan."
+}

@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BNVN92",
+    "figi": "BBG000BNVQR5",
+    "isin": "JP3629000005"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "JP3629000005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPX.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TPX.SG"
+    }
+  ],
+  "name": "TOPPAN PRINTG",
+  "primary_symbol": "TPX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Toppan Printing Co., Ltd. is a Japanese printing company. The company's business includes printing, security solutions, packaging, décor materials, and electronics. Toppan Printing is headquartered in Tokyo, Japan."
+}

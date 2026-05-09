@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00NL1C9K8",
+    "figi": "BBG00NL1C9R1",
+    "isin": "CA55344L1022"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA55344L1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2J6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPXOF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2J6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2J6.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MPXI.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MPX International Corporation",
+  "primary_symbol": "2J6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MPX International Corporation, a cannabis company, focuses on the medical and adult-use cannabis markets in Canada and Switzerland. It focuses on producing and distributing three principal types of products, such as cannabis flowers, cannabis extract and related products, and cannabis derivatives under the Strain Rec and Salus Bioharma brands. The company was founded in 2015 and is headquartered in Toronto, Canada.",
+  "website": "http://mpxinternationalcorp.com"
+}

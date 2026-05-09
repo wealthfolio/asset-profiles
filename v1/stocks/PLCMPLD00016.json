@@ -1,0 +1,73 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRJMX9",
+    "figi": "BBG00ZHRJN21",
+    "isin": "PLCMPLD00016"
+  },
+  "industry": "IT Services",
+  "industry_group": "Energy",
+  "isin": "PLCMPLD00016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGN.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SGN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CPN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLCMPLD00016.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SGN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SGN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SYGNITY S.A.  ZY 1",
+  "primary_symbol": "CPN.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Surgutneftegas is one of Russia's largest private oil companies, engaged in exploration, production, refining, and distribution of oil and gas. Headquartered in Surgut, Russia, its main operations are located in Western Siberia. The company also holds significant investments in the financial sector.",
+  "website": "http://www.sygnity.pl"
+}

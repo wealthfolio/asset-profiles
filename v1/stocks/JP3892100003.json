@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BSXS25",
+    "figi": "BBG000BSXX06",
+    "isin": "JP3892100003"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "JP3892100003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIU.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MIU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MIU.SG"
+    }
+  ],
+  "name": "SUMITOMO MITSUI TR.HLDGS",
+  "primary_symbol": "MIU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SUMITOMO MITSUI TR.HLDGS is a financial services group that provides a range of banking, trust, and asset management services. The company operates primarily in Japan. Sumitomo Mitsui Trust Holdings is headquartered in Tokyo, Japan."
+}

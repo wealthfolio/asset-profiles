@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "530013.KS"
+    }
+  ],
+  "name": "Samsung KTOP30 ETN",
+  "primary_symbol": "530013.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This appears to be an Exchange Traded Note (ETN) tracking the KTOP30 index, which likely consists of the top 30 companies in Korea based on some criteria. ETNs are debt instruments that promise to deliver the return of an index, less fees, and are issued by financial institutions. The issuer, Samsung, is responsible for paying the return."
+}

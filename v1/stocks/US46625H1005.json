@@ -1,0 +1,54 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HT5LY8",
+    "cusip": "46625H100",
+    "figi": "BBG000HT5RV8",
+    "isin": "US46625H1005"
+  },
+  "industry_group": "Banks",
+  "isin": "US46625H1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMC.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMC.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CMC.DU"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "JPMCL.SN"
+    }
+  ],
+  "name": "JPMORGAN CHASE  DL 1",
+  "primary_symbol": "CMC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "JPMorgan Chase & Co. is a global financial services firm offering a range of investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing, and asset management products and services. The company serves corporations, governments, institutions, and individuals worldwide. JPMorgan Chase is headquartered in New York, New York."
+}

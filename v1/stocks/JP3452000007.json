@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C25KV7",
+    "figi": "BBG000C25P64",
+    "isin": "JP3452000007"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3452000007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TYC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TYC1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TYC1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TYC1.SG"
+    }
+  ],
+  "name": "TAIYO YUDEN CO. LTD",
+  "primary_symbol": "TYC1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Taiyo Yuden Co., Ltd. manufactures and sells electronic components. The company's product portfolio includes capacitors, inductors, circuit modules, and energy devices, and it has headquarters in Tokyo, Japan. Taiyo Yuden's components are used in various applications such as smartphones, automotive electronics, and industrial equipment."
+}

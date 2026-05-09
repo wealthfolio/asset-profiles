@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BL6KM5",
+    "figi": "BBG000BL6NS3",
+    "isin": "DE0005220909"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Software & Services",
+  "isin": "DE0005220909",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXU.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXU.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0FGL.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "NXU.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NXU.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NXU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NXU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NXU.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NEXUS AG O.N.",
+  "primary_symbol": "NXU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Nexus AG is a German software company that develops and distributes IT solutions for the healthcare sector. Headquartered in Villingen-Schwenningen, Germany, the company provides software applications for hospitals, rehabilitation facilities, and social care organizations. Nexus AG focuses on delivering integrated and efficient IT solutions to support healthcare providers in their daily operations.",
+  "website": "http://de-de.nexus-ag.de"
+}

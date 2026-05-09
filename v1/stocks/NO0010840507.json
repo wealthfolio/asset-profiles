@@ -1,0 +1,83 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00TW5HNN5",
+    "figi": "BBG00TW5HNV6",
+    "isin": "NO0010840507"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "NO0010840507",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4W9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4W9.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4W9.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4W9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PXPHF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A3H.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4W9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4W9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010840507.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PEXIP.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PEXIPO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Pexip Holding ASA",
+  "primary_symbol": "4W9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Pexip Holding ASA, a technology company that delivers a video-first meeting platform. Its platform simplifies video communication across borders, businesses, and platforms, enabling everyone to be seen, heard, and included. The company offers self-hosted and as-a-service deployment options for enterprise video conferencing built on the Pexip Infinity technology; and provides interoperability, including Microsoft Teams, Skype for Business, Google Hangouts Gateway interop, video system device registration, and a world-class meeting and calling service. The company has operations in the Asia Pacific, Europe, the Middle East, Africa, and the Americas. Pexip Holding ASA was founded in 2011 and is headquartered in Oslo, Norway.",
+  "website": "http://www.pexip.com"
+}

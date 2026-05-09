@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cyngn Inc. Common Stock",
+  "primary_symbol": "CYN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cyngn Inc., based in Menlo Park, California, develops autonomous driving solutions for industrial vehicles. They focus on providing AI-powered autonomous driving capabilities for vehicles used in manufacturing, mining, and construction. Their solutions aim to improve safety and efficiency in industrial operations."
+}

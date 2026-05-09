@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GLZMB6",
+    "cusip": "184496107",
+    "figi": "BBG000GLZPT0",
+    "isin": "US1844961078"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US1844961078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CH6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLH"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CH6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CH6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CH6.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CLEAN HARBORS  DL-,01",
+  "primary_symbol": "CH6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Clean Harbors, Inc. is a leading provider of environmental, energy, and industrial services throughout North America. The company offers a broad range of services, including hazardous waste management, industrial cleaning, emergency response, and oil and gas field services. Clean Harbors is headquartered in Norwell, Massachusetts.",
+  "website": "http://www.cleanharbors.com"
+}

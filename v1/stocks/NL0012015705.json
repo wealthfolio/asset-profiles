@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00DWV5D76",
+    "figi": "BBG00DWV5DF7",
+    "isin": "NL0012015705"
+  },
+  "industry_group": "Software & Services",
+  "isin": "NL0012015705",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T5W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T5W.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "T5W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T5W.SG"
+    }
+  ],
+  "name": "JUST EAT TAKEAWAY. EO-,04",
+  "primary_symbol": "T5W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "JUST EAT TAKEAWAY. EO-,04 is an online food order and delivery service that connects consumers with restaurants and provides delivery services through its own fleet and partner couriers. The company operates in multiple countries across Europe, North America, and other regions, offering a wide range of cuisines and restaurant options through its platform. Its headquarters is located in Amsterdam, Netherlands."
+}

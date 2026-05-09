@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00QNKFCJ9",
+    "figi": "BBG00QNKFCK7",
+    "isin": "FR0013451044"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "FR0013451044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0VW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALHGR.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Hoffmann Green Cement Technologies Societe anonyme",
+  "primary_symbol": "0VW.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Hoffmann Green Cement Technologies Soci√É¬©t√É¬© anonyme manufactures and sells low carbon cement. It offers low carbon concrete blocks for the construction industry, as well as cement for making low carbon cement edges, non-polluting concrete slabs, low carbon cement prefabricated stairs, and draining pavements. The company is headquartered in Rives de l'Yon, France.",
+  "website": "http://www.ciments-hoffmann.fr"
+}

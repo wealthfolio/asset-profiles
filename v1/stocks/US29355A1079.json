@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG002VN7789",
+    "cusip": "29355A107",
+    "figi": "BBG002VN77G0",
+    "isin": "US29355A1079"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Energy",
+  "isin": "US29355A1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E0P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E0P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENPH"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QYE.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "E0P.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "E0P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E0P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E0P.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ENPH.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ENPHASE ENERGY INC.DL-,01",
+  "primary_symbol": "E0P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "ENPHASE ENERGY INC.DL-,01 is a global energy technology company and a supplier of microinverter-based solar and storage systems. The company designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry. Enphase Energy is headquartered in Fremont, California.",
+  "website": "http://www.enphase.com"
+}

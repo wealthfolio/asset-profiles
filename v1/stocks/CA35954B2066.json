@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00LPDYRH2",
+    "figi": "BBG00LPDYRP3",
+    "isin": "CA35954B2066"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA35954B2066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0K9A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0K9A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUGE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0K9A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA35954B2066.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "HUGE.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FSD PHARMA B SUB. VTG",
+  "primary_symbol": "0K9A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "FSD Pharma Inc. is a biopharmaceutical company focused on developing cannabinoid-based treatments for medical conditions. The company is focused on researching, developing and commercializing treatments for opioid sparing pain and related mental health conditions. FSD Pharma is headquartered in Toronto, Canada",
+  "website": "http://www.fsdpharma.com"
+}

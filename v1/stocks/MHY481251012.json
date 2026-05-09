@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG0046HZ552",
+    "figi": "BBG0046HZ945",
+    "isin": "MHY481251012"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY481251012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KNOP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KO4.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KO4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KO4.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KNOT Offshore Partners LP",
+  "primary_symbol": "KNOP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "KNOT Offshore Partners LP owns and operates shuttle tankers under long-term charters in the North Sea and Brazil. The company provides loading, transportation, and storage of crude oil under time charters and bareboat charters. As of March 18, 2021, it operated a fleet of seventeen shuttle tankers. The company was founded in 2013 and is headquartered in Aberdeen, the United Kingdom.",
+  "website": "http://www.knotoffshorepartners.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000DQ5HY7",
+    "figi": "BBG000DQ5LL2",
+    "isin": "BMG702782084"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Materials",
+  "isin": "BMG702782084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FPO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FPO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FPO.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "FPO.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FPO.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PDL.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PDL.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PETRA DIAMONDS  LS-,10",
+  "primary_symbol": "FPO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Petra Diamonds Limited is a diamond mining company with mining operations in South Africa and Tanzania. The company is involved in the exploration, mining, and sale of rough diamonds. Petra Diamonds is headquartered in Jersey, Channel Islands.",
+  "website": "http://www.petradiamonds.com"
+}

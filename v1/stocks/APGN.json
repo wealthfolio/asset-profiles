@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APGN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Apexigen Inc. Common Stock",
+  "primary_symbol": "APGN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Apexigen Inc. is a clinical-stage biopharmaceutical company focused on discovering and developing antibody-based therapeutics for oncology, with the goal of addressing unmet medical needs. Their lead product candidate is APX005M, an anti-CD40 antibody, being evaluated in clinical trials for various cancer types. The company is headquartered in San Carlos, California."
+}

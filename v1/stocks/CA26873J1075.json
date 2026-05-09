@@ -1,0 +1,43 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000DJMYQ6",
+    "figi": "BBG000DJMZ65",
+    "isin": "CA26873J1075"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA26873J1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EMX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6E9.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EMX.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EMX Royalty Corporation",
+  "primary_symbol": "EMX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "EMX Royalty Corporation engages in the acquisition, exploration, and evaluation of metals and mineral properties. It explores for gold, silver, platinum, palladium, copper, lead, zinc, nickel, cobalt, volcanogenic massive sulfide, molybdenum, and iron deposits. The company's royalty and exploration portfolio primarily consist of properties in North America, Turkey, Europe, Haiti, Australia, and New Zealand, as well as Sweden and Norway. The company was formerly known as Eurasian Minerals Inc. and changed its name to EMX Royalty Corporation in July 2017. EMX Royalty Corporation is headquartered in Vancouver, Canada.",
+  "website": "http://www.emxroyalty.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BVXR75",
+    "figi": "BBG000BVXVQ5",
+    "isin": "JP3352400000"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "JP3352400000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTZ.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7762.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CTZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CTZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CTZ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CITIZEN WATCH CO. LTD.",
+  "primary_symbol": "CTZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "CITIZEN WATCH CO. LTD. designs, manufactures, and sells watches, clocks, and precision equipment. The company's products include watches with Eco-Drive technology, which are powered by light, as well as other watch-related components and healthcare equipment. Citizen Watch Co. Ltd. is headquartered in Tokyo, Japan.",
+  "website": "http://www.citizen.co.jp"
+}

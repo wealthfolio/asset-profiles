@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005TP2339",
+    "cusip": "45719W106",
+    "figi": "BBG00W90M923",
+    "isin": "US45719W1062"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45719W1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IKT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IQT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US45719W1062.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Inhibikase Therapeutics, Inc.",
+  "primary_symbol": "IKT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Inhibikase Therapeutics, Inc., a clinical stage pharmaceutical company, develops therapeutics for Parkinson's Disease (PD) and related disorders that arise inside and outside of the brain. The company's product candidates include IkT-148009, a c-Abl protein kinase inhibitor for use in the treatment of PD, as well as gastrointestinal complications that arise as early symptoms of PD, such as dysphagia and neurogenic constipation; and IkT-001Pro, a prodrug of the anti-cancer agent Imatinib that is in preclinical development to minimize gastrointestinal side effects. It is also developing IkT-01427, a product candidate that blocks the causative virus of progressive multifocal leukoencephalopathy from replicating in the body. The company has collaborations with The Johns Hopkins University; Louisiana State University School of Medicine, Shreveport; and Memorial Sloan-Kettering Cancer Center. The company was founded in 2008 and is headquartered in Atlanta, Georgia.",
+  "website": "http://www.inhibikase.com"
+}

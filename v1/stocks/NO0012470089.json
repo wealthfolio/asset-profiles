@@ -1,0 +1,71 @@
+{
+  "country": "Isle of Man",
+  "country_code": "IM",
+  "identifiers": {
+    "isin": "NO0012470089"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Automobiles & Components",
+  "isin": "NO0012470089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOM.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOM.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOM.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TOM.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TOM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TOM.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "TOM.V"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "TOMO.OL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TOYOTA MOTOR CORP.",
+  "primary_symbol": "TOM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Toyota Motor Corporation designs, manufactures, assembles, and distributes passenger cars, minivans and commercial vehicles, and related parts and accessories. It also provides financial services, including retail auto loans and leasing. Toyota is headquartered in Toyota City, Japan.",
+  "website": "http://tomcoenergy.com"
+}

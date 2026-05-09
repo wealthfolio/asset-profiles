@@ -1,0 +1,63 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00805YZG8",
+    "figi": "BBG00805YZL2",
+    "isin": "BE0003816338"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "BE0003816338",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EURN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCW.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "EURN.BR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OCW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OCW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OCW.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Euronav NV",
+  "primary_symbol": "EURN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Euronav NV, together with its subsidiaries, engages in the ocean transportation and storage of crude oil worldwide. The company also offers floating, storage, and offloading (FSO) services. As of April 1, 2021, it owned and operated a fleet of 77 vessels, including 10 chartered-in vessels with an aggregate carrying capacity of approximately 19.5 million deadweight tons consisting of 45 very large crude carriers, two V-plus, 28 Suezmax vessels, and two floating, storage, and offloading vessels. The company was incorporated in 2003 and is headquartered in Antwerp, Belgium.",
+  "website": "http://www.euronav.com"
+}

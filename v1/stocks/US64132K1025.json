@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CB75J2",
+    "cusip": "64132K102",
+    "isin": "US64132K1025"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US64132K1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US64132K1025.SG"
+    }
+  ],
+  "name": "NEUBASE THERAPEUTICS INC",
+  "primary_symbol": "US64132K1025.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NEUBASE THERAPEUTICS INC is a biotechnology company focused on discovering, developing, and commercializing genetic medicines to treat rare neuromuscular diseases. Headquartered in Pittsburgh, Pennsylvania, they are developing a platform of peptide-nucleic acid (PNA) based therapies designed to target the underlying genetic causes of these diseases. The company's approach aims to modulate gene expression and restore normal cellular function."
+}

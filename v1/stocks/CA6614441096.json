@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00DS4K4C8",
+    "figi": "BBG00DS4K4K9",
+    "isin": "CA6614441096"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA6614441096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B9TN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B9TN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BTLLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B9TN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA6614441096.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NPR.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "North Peak Resources Ltd.",
+  "primary_symbol": "B9TN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "North Peak Resources Ltd., a mining company, engages in the exploration and development of prospective mineral properties in Canada. The company was formerly known as Interbit Ltd. and changed its name to North Peak Resources Ltd. in June 2020. North Peak Resources Ltd. is based in Toronto, Canada.",
+  "website": "http://www.northpeakresources.com"
+}

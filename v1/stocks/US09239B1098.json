@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00F5DX7L7",
+    "cusip": "09239B109",
+    "figi": "BBG00F5DX7S0",
+    "isin": "US09239B1098"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US09239B1098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "02B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "02B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "02B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "02B.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BLACKLINE INC.  DL-,01",
+  "primary_symbol": "02B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BLACKLINE INC. DL-,01 provides cloud-based accounting automation software solutions that streamline financial close processes. The software platform offers features such as account reconciliation, task management, and variance analysis. BlackLine, Inc. is headquartered in Woodland Hills, California.",
+  "website": "http://www.blackline.com"
+}

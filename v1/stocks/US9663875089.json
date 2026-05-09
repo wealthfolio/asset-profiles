@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00WYYC600",
+    "cusip": "966387508",
+    "isin": "US9663875089"
+  },
+  "isin": "US9663875089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US9663875089.SG"
+    }
+  ],
+  "name": "WHITING PETROLEUM CORP",
+  "primary_symbol": "US9663875089.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

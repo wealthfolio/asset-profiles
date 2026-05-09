@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005C9W679",
+    "cusip": "60510V108",
+    "figi": "BBG00XKKV4R8",
+    "isin": "US60510V1089"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US60510V1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AVO.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Mission Produce, Inc.",
+  "primary_symbol": "AVO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Mission Produce, Inc. engages in sourcing, producing, and distributing avocados in the United States and internationally. The company operates through two segments, Marketing and Distribution, and International Farming. It serves retail, wholesale, and foodservice customers. The company was founded in 1983 and is headquartered in Oxnard, California.",
+  "website": "http://www.worldsfinestavocados.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00MQG2308",
+    "figi": "BBG00MQG2353",
+    "isin": "FR0013384369"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "FR0013384369",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3BK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3BK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALBKK.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Baikowski SA",
+  "primary_symbol": "3BK.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Baikowski SA, together with its subsidiaries, manufactures and sells ultra-pure alumina powders and formulations in France, the United States, and Japan. The company also produces oxides and composites, such as zirconia and spinel, as well as YAG and ceria for technical ceramics, precision polishing, crystals, additives, and coatings applications. It serves lighting, watches, mobile phones, electronics, automotive, defense, and medical industries. The company was founded in 1904 and is based in Poisy, France.",
+  "website": "http://www.baikowski.com"
+}

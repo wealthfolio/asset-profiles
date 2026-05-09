@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000JMC6D9",
+    "figi": "BBG000JMC916",
+    "isin": "DE0006577109"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DE0006577109",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NN6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NN6.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NN6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNGRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NN6.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NN6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NN6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NN6.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NanoRepro AG",
+  "primary_symbol": "NN6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NanoRepro AG develops, manufactures, and distributes rapid diagnostic tests and food supplements for home and professional use in Germany and internationally. It provides products in the areas of family planning and disease detection, as well as food intolerances, allergies, and infectious diseases. The company offers rapid diagnostic tests, including allergy, family planning, and preventive healthcare line products; point of care testing products for hospitals and medical practices for detection of HIV, human cardiac Troponin I, D-dimer, streptococci antigen, influenza type A and B antigens, and microalbumin; and immunochromatographic lateral flow tests for the diagnostic detection of biomarkers, as well as rapid SARS-CoV-2 antibody test and corona antigen rapid test. It also provides food supplements for men and women through online shops, as well as through pharmacies. The company is headquartered in Marburg, Germany.",
+  "website": "http://www.nanorepro.com"
+}

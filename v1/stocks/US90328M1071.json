@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000L0XWL5",
+    "cusip": "90328M107",
+    "figi": "BBG000L103W1",
+    "isin": "US90328M1071"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US90328M1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USNA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "USJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "USJ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "USANA HEALTH",
+  "primary_symbol": "USJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "USANA Health Sciences, Inc. develops, manufactures, and sells science-based nutritional and personal care products. The company utilizes a direct selling system to distribute its products. Its headquarters are located in Salt Lake City, Utah.",
+  "website": "http://www.usana.com"
+}

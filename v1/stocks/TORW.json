@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TORW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "The Torrington Water Company",
+  "primary_symbol": "TORW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "The Torrington Water Company operates as a regulated public water utility. It offers water sources to approximately 10,000 customers in the city of Torrington, as well as in the towns of Burlington, Harwinton, Litchfield, and New Hartford, Connecticut. The company was founded in 1873 and is based in Torrington, Connecticut.",
+  "website": "http://www.torringtonwater.com"
+}

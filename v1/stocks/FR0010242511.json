@@ -1,0 +1,56 @@
+{
+  "identifiers": {
+    "isin": "FR0010242511"
+  },
+  "industry_group": "Utilities",
+  "isin": "FR0010242511",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HBA.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E2F.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E2F.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E2F.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E2F.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "E2F.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E2F.SG"
+    }
+  ],
+  "name": "ELECTRICITE DE FRANCE SA ELECTR",
+  "primary_symbol": "0HBA.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Electricité de France SA (EDF) is a French multinational electric utility company. The company is one of the world's largest electricity producers and operates a diverse portfolio of power generation assets, including nuclear, hydro, thermal, and renewable energy sources. Electricité de France SA is headquartered in Paris, France."
+}

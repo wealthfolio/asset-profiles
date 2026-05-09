@@ -1,0 +1,76 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "ES0157097017"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ES0157097017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0O9B.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALME"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E2Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LBTSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "ALM.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALM.PA"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ALM.ST"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ALM.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E2Z.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ALMIRALL SA ALMIRALL ORD SHS",
+  "primary_symbol": "0O9B.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ALMIRALL SA is a Spanish pharmaceutical company focused on dermatology. The company develops, manufactures, and markets prescription and over-the-counter dermatological products. Its headquarters are located in Barcelona, Spain.",
+  "website": "http://www.alamoenergycorp.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000PNQGT6",
+    "figi": "BBG000PNQJV7",
+    "isin": "CA9895892052"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "CA9895892052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZCT1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZCT1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZTMUF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ZC.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZCT1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZCT1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Zimtu Capital Corp.",
+  "primary_symbol": "ZCT1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Zimtu Capital Corp. is a private equity and venture capital firm specializing in seed stage, early stage, acquisition, pre-IPO investments in private micro and small-cap resource companies. The firm invests in potash mineral properties. It prefers to invest in Western Canada. It also focuses on the exploration and development of tantalum and niobium deposits in Central British Columbia; and involves in the exploration and evaluation of gold deposits in South-Central Northwest territories. The projects are normally acquired on a 50-50% basis with geological and prospecting partners with proceeds from sales split the same. Zimtu Capital Corp. was founded on July 4, 2006 and is based in Vancouver, Canada with an additional office in Toronto, Canada.",
+  "website": "http://www.zimtu.com"
+}

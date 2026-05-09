@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000J2XRG1",
+    "cusip": "235851102",
+    "figi": "BBG000J2YYF6",
+    "isin": "US2358511028"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US2358511028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DAP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DAP.SG"
+    }
+  ],
+  "name": "DANAHER CORP.  DL-,01",
+  "primary_symbol": "DAP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Danaher Corporation is a global science and technology innovator designing, manufacturing, and marketing professional, medical, industrial, and commercial products and services. They operate through various segments, including life sciences, diagnostics, environmental & applied solutions, and dental. The company is headquartered in Washington, D.C., USA."
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GNV0T5",
+    "cusip": "68554V108",
+    "figi": "BBG000GNV408",
+    "isin": "US68554V1089"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US68554V1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EP3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSUR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EP3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EP3.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ORASURE TECH",
+  "primary_symbol": "EP3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "OraSure Technologies, Inc. develops, manufactures, and markets point-of-care diagnostic tests and specimen collection devices. Their products are used for detecting infectious diseases and substance abuse. The company is headquartered in Bethlehem, Pennsylvania.",
+  "website": "http://www.orasure.com"
+}

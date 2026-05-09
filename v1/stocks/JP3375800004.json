@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BRLPS8",
+    "figi": "BBG000BRLSP5",
+    "isin": "JP3375800004"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3375800004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SKS.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "6967.T"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SKS.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SKS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SKS.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SHINKO EL.IND.LTD",
+  "primary_symbol": "SKS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Shinko Electric Industries Co., Ltd. manufactures and sells semiconductor packages for semiconductor and electronics manufacturers in Japan and internationally. The company offers IC packages, including plastic-BGA substrates, build-up substrates, and lead frames. It also provides molded core embedded package for substitution of package on package and system in package, and small modules; high heat dissipation and high density flip chip package for automotive infotainment and image processing processors; and module assembly solutions, as well as supports Cu pillar, a terminal that connects an interposer with a semiconductor chip by thermal compression flip chip technology. In addition, the company offers various components, such as glass-to-metal seals, heat spreaders, and ceramic electro static chucks. Further, it provides testing services in the areas of electrical properties, automatic inspection of solder balls, temperature cycle screening, baking, and tray and tape packing. The company was founded in 1946 and is headquartered in Nagano, Japan. Shinko Electric Industries Co., Ltd. is a subsidiary of Fujitsu Limited.",
+  "website": "http://www.shinko.co.jp"
+}

@@ -1,0 +1,56 @@
+{
+  "identifiers": {
+    "isin": "BE0003810273"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "BE0003810273",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0DPU.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BX7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BX7.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BX7.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BX7.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BX7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BX7.SG"
+    }
+  ],
+  "name": "PROXIMUS NV PROXIMUS ORD SHS",
+  "primary_symbol": "0DPU.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "PROXIMUS NV PROXIMUS ORD SHS is a Belgian telecommunications company providing fixed and mobile telephony, internet, and television services. The company serves residential and business customers in Belgium and internationally and is headquartered in Brussels, Belgium."
+}

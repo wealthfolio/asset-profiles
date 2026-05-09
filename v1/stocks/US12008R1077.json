@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000G2WFY1",
+    "cusip": "12008R107",
+    "figi": "BBG000G2WKT6",
+    "isin": "US12008R1077"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "US12008R1077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B1F.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLDR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B1F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B1F.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "BLDR.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BUILDERS FIRSTSOUR.DL-,01",
+  "primary_symbol": "B1F.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Builders FirstSource, Inc. supplies building materials, manufactured components, and construction services to professional homebuilders, sub-contractors, remodelers, and consumers. The company offers a broad range of products and services, including lumber, millwork, roofing, siding, windows, doors, and other building products. Builders FirstSource is headquartered in Dallas, Texas.",
+  "website": "http://www.bldr.com"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00GXJH249",
+    "figi": "BBG00GXJH2B1",
+    "isin": "SE0009922156"
+  },
+  "industry_group": "Household & Personal Products",
+  "isin": "SE0009922156",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESW.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ESW.SG"
+    }
+  ],
+  "name": "ESSITY AB A",
+  "primary_symbol": "ESW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Essity AB is a global hygiene and health company that develops, produces, and sells personal care, consumer tissue, and professional hygiene products and solutions. The company's brands include TENA, Tork, and Libresse. The company is headquartered in Stockholm, Sweden."
+}

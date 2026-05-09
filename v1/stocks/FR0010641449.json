@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z729SB7",
+    "figi": "BBG00Z729SH1",
+    "isin": "FR0010641449"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "FR0010641449",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "81E.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "81E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALAGR.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AGROGENERATION INH.EO-,05",
+  "primary_symbol": "81E.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "AgroGeneration SA, an agricultural company, engages in grain and oil commodity crop farming primarily in Ukraine. The company's products include wheat, barley, and rapeseed. It operates approximately 58,000 hectares of farmland. The company was founded in 2007 and is based in Paris, France. AgroGeneration SA is a subsidiary of Konkur Investment Ltd.",
+  "website": "http://www.agrogeneration.com"
+}

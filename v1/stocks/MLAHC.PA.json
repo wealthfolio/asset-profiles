@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MLAHC.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "@Health SA",
+  "primary_symbol": "MLAHC.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "@Health SA, an e-cardiology company, develops medical devices worldwide. It offers CardioNexion, a medical device for the ultra-early detection and analysis of all cardiovascular pathologies. The company is based in Aix-en-Provence, France.",
+  "website": "http://www.healthcardionexion.com"
+}

@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "674870506",
+    "isin": "US6748705067"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US6748705067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPTT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RUOC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RUOC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RUOC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RUOC.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Ocean Power Technologies, Inc.",
+  "primary_symbol": "OPTT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Ocean Power Technologies, Inc. develops and commercializes proprietary systems that generate electricity by harnessing the renewable energy of ocean waves in North and South America, Europe, and Asia. It offers PB3 PowerBuoy system that generates power for use independent of the power grid in remote offshore locations. The company also provides hybrid PowerBuoy products; subsea battery systems; and payloads, integration services, and marine installation services. In addition, it offers electric power and real-time data communications for remote offshore and subsea applications in markets, such as offshore oil and gas, defense and security, science and research, and communications. The company serves public and private entities, and agencies that require remote offshore power. Ocean Power Technologies, Inc. was founded in 1984 and is headquartered in Monroe Township, New Jersey.",
+  "website": "http://www.oceanpowertechnologies.com"
+}

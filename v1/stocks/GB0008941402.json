@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BF3ZV8",
+    "isin": "GB0008941402"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "GB0008941402",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0008941402.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0008941402.SW"
+    }
+  ],
+  "name": "TITON HOLDINGS PLC",
+  "primary_symbol": "GB0008941402.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Titon Holdings PLC designs, manufactures, and supplies ventilation systems and window and door hardware for residential buildings. The company's products include window and door hardware, ventilation systems, and heat recovery systems. Titon Holdings is headquartered in Colchester, United Kingdom."
+}

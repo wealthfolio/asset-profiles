@@ -1,0 +1,43 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00801DW22",
+    "figi": "BBG00801DW86",
+    "isin": "DE000A1YDAZ7"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "DE000A1YDAZ7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SD1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SD1.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SD1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SENDR SE NA O.N.",
+  "primary_symbol": "SD1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "SendR SE, through its subsidiary finetunes GmbH, operates as a digital media distributor and license rights exploitation enabler in Germany. It enables the non-physical exploitation of audio and video tracks. The company also engages in purchasing licensing rights from independent music labels and then selling them through online portals and streaming platforms; and the provision of additional services, including digitalization of content, marketing and promotion of solutions, and supply of metadata. It serves artists, record labels, licensed digital services, and private consumers. SendR SE is based in Hamburg, Germany.",
+  "website": "http://sendr.se"
+}

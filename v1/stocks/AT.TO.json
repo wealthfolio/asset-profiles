@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0027T1S01",
+    "figi": "BBG0027T1S29"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "AT.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AcuityAds Holdings Inc.",
+  "primary_symbol": "AT.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "AcuityAds Holdings Inc., a technology company, provides digital media solutions. The company offers a programmatic marketing platform that enables advertisers to connect with their audiences across online display, video, social, and mobile campaigns. Its platform also allows advertisers to manage their purchasing of online display advertising in real-time using programmatic ad buying. The company serves Fortune 500 enterprises and small to mid-sized businesses in the United States, Canada, Europe, the Middle East, and Africa. AcuityAds Holdings Inc. is headquartered in Toronto, Canada.",
+  "website": "http://www.acuityads.com"
+}

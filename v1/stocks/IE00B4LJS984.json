@@ -1,0 +1,53 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG00GW3MF95",
+    "figi": "BBG00GW3MFG7",
+    "isin": "IE00B4LJS984"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Materials",
+  "isin": "IE00B4LJS984",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8PSC.MU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SPAL.BO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPAL.L"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "SPAL.NS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPAP.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INVESC.PHYS.MKT.ETC00 XPD",
+  "primary_symbol": "8PSC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "S.P. Apparels Limited is an apparel manufacturer and exporter based in India. The company produces knitted garments for infants and children, primarily for international brands. They also have integrated manufacturing facilities.",
+  "website": "http://www.s-p-apparels.com"
+}

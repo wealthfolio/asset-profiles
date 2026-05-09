@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005386369"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IT0005386369",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ABS.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Arterra Bioscience S.p.A.",
+  "primary_symbol": "ABS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Arterra Bioscience S.p.A., a research-based biotech company, engages in the research and development of various ingredients and natural solutions. It develops technological platforms, extraction processes, and raw materials for use in the cosmetics, agriculture, and nutraceutics sectors. The company was founded in 2003 and is based in Naples, Italy.",
+  "website": "http://www.arterrabio.it"
+}

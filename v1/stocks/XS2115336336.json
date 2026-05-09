@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00RR4HBN4",
+    "figi": "BBG00RR4HBR0",
+    "isin": "XS2115336336"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "XS2115336336",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "RM8U.DE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RMAP.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RMAU.L"
+    }
+  ],
+  "name": "The Royal Mint Physical Gold ETC Securities",
+  "primary_symbol": "RM8U.DE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Royal Mint Physical Gold ETC Securities provides investors with a way to invest in physical gold. The ETC tracks the spot price of gold and is backed by physical gold bars held in The Royal Mint's vault. The ETC is designed to offer a simple and cost-effective way to gain exposure to the gold market and is headquartered in the United Kingdom."
+}

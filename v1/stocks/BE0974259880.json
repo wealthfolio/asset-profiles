@@ -1,0 +1,66 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "BE0974259880"
+  },
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "isin": "BE0974259880",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIEN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DJDA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIETY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIEVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "DIE.BR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DJDA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DJDA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DJDA.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Diversified Energy Holdings, Inc.",
+  "primary_symbol": "DIEN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Diversified Energy Holdings, Inc. owns and operates oil and gas wells in the United States and drills additional wells. The company was formerly known as Diversified Oil & Gas, Inc. and changed its name to Diversified Energy Holdings, Inc. in July 2013. The company is based in Scottsdale, Arizona.",
+  "website": "http://www.dieterengroup.com"
+}

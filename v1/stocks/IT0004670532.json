@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004670532"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "IT0004670532",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "YIV.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Imvest S.p.A.",
+  "primary_symbol": "YIV.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Imvest S.p.A. engages in the real estate business in Italy. The company leases commercial and office buildings to public bodies, large scale distribution, industrial and banking groups, etc. It also manages the construction of real estate properties; and purchases and resells real estate complexes, building blocks, and building lots primarily to individuals. The company is based in Rome, Italy.",
+  "website": "http://www.imvest.it"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "29670G102",
+    "isin": "IT0001233417"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "IT0001233417",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "A2A.MI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0001233417.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "A2A S.p.A.",
+  "primary_symbol": "A2A.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "A2A S.p.A. engages in the production, sale, and distribution of gas and electricity, and district heating in Italy. The company generates electricity through hydroelectric, thermoelectric, and photovoltaic plants with an installed power of approximately 7.2 GW; and purchases and sells electricity, gas and non-gas fuels, as well as manages environmental certificates. It also engages in the production and sale of heat produced through district heating networks. In addition, the company is involved in waste management activities, including collection and street sweeping, treatment, and disposal, and recovery of energy; and the construction and management of integrated waste disposal plants and systems. Further, it offers integrated water cycle management services; and technical consultancy services relating to energy efficiency certificates. Additionally, the company is involved in the management of public lighting systems and street lights, management of water purification and sewer, and video surveillance activities. A2A S.p.A. is headquartered in Brescia, Italy.",
+  "website": "http://www.a2a.eu"
+}

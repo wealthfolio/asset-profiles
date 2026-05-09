@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HRU.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Horus AG",
+  "primary_symbol": "HRU.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Horus AG provides value investment and business consultancy services in Germany. The company was founded in 2000 and is based in Cologne, Germany.",
+  "website": "http://www.horus-ag.de"
+}

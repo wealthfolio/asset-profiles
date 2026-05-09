@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000DW8PP3",
+    "figi": "BBG000DW9T74",
+    "isin": "ZAE000070660"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Insurance",
+  "isin": "ZAE000070660",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LA6A.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LA6A.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SLA.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SANLAM LTD.  RC-,01",
+  "primary_symbol": "LA6A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SANLAM LTD. RC-,01 is a financial services group offering a range of insurance, investment, and wealth management solutions. The company operates across Africa, Europe, India, and Australia. Sanlam Limited is headquartered in Bellville, South Africa.",
+  "website": "http://www.silklaser.com.au"
+}

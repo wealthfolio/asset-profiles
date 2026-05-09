@@ -1,0 +1,31 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "isin": "LI0013873901"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "LI0013873901",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "VHP.NZ"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Vital Healthcare Property Trust",
+  "primary_symbol": "VHP.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Vital Healthcare Property Trust is a real estate investment trust externally managed by Vital Healthcare Management Limited. The firm investments in health and medical related properties in New Zealand and Australia. It undertakes acquisition or development of medical or healthcare-related properties such as surgical and medical facilities, geriatric and continuing care facilities primary healthcare facilities, and health support facilities. The fund may invest in conjunction with other health service providers. It was formerly known as ING Medical Properties Trust and Calan Healthcare Properties Trust.",
+  "website": "http://www.vitalhealthcareproperty.co.nz"
+}

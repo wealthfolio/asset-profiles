@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "GPG-PREF.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Genova Property Group AB (publ)",
+  "primary_symbol": "GPG-PREF.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Genova Property Group AB (publ) operates as a property company in Sweden. It develops, owns, and manages various commercial, community service, and residential properties in Greater Stockholm and the Uppsala Region. Genova Property Group AB (publ) was founded in 2006 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.genova.se"
+}

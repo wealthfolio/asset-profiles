@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA53620R1091"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "CA53620R1091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LEO"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "LEO.BK"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LEO.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BNY Mellon Strategic Municipals, Inc.",
+  "primary_symbol": "LEO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BNY Mellon Strategic Municipals, Inc. is a closed ended fixed income mutual fund launched and managed by BNY Mellon Investment Adviser, Inc. It invests in the fixed income markets of the United States. The fund primarily invests in investment grade municipal bonds, the income from which is exempt from federal income tax. It employs fundamental analysis to create its portfolio. The fund was formerly known as Dreyfus Strategic Municipals, Inc. BNY Mellon Strategic Municipals, Inc. was formed on September 23, 1987 and is domiciled in the United States.",
+  "website": "http://im.bnymellon.com/us/en/intermediary/products/closed-end-funds.jsp"
+}

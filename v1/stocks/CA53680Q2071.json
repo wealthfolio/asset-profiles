@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BGM5P8",
+    "figi": "BBG000BGM7C8",
+    "isin": "CA53680Q2071"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA53680Q2071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LAC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WUC1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WUC1.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "LAC.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WUC1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WUC1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WUC1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Lithium Americas Corp.",
+  "primary_symbol": "LAC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lithium Americas Corp. operates as a resource company in the United States. The company explores for lithium deposits. It owns interests in the Cauchari-Olaroz Project located in Jujuy province of Argentina; and Thacker Pass project located in north-western Nevada. The company was formerly known as Western Lithium USA Corporation and changed its name to Lithium Americas Corp. in March 2016. Lithium Americas Corp. was incorporated in 2007 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.lithiumamericas.com"
+}

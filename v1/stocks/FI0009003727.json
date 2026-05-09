@@ -1,0 +1,76 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "FI0009003727"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Capital Goods",
+  "isin": "FI0009003727",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IKJ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTA.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A66.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009003727.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MTA.DU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "MTA.JO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "MTA.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "X9C.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WARTSILA OYJ ABP WARTSILA ORD S",
+  "primary_symbol": "0IKJ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Wärtsilä Oyj Abp is a Finnish company that manufactures and services power sources and other equipment for the marine and energy markets. Wärtsilä's products include large internal combustion engines, generating sets, propulsion systems, automation, and electrical systems. Wärtsilä Oyj Abp is headquartered in Helsinki, Finland.",
+  "website": "http://www.metallaroyalty.com"
+}

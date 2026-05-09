@@ -1,0 +1,43 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRDS62",
+    "figi": "BBG00ZHRDSC5",
+    "isin": "PLCOMAR00012"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "PLCOMAR00012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "75Y.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "75Y.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CMR.BK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COMARCH S.A.  ZY 1",
+  "primary_symbol": "75Y.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "COMARCH S.A. is a Polish IT company specializing in providing software solutions and IT services for various industries, including finance, telecommunications, and public administration. The company offers a wide range of products, including ERP systems, CRM software, and business intelligence tools, and provides IT consulting, outsourcing, and system integration services. The company is headquartered in Krakow, Poland.",
+  "website": "http://www.comarch.com"
+}

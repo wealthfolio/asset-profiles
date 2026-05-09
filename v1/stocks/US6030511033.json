@@ -1,0 +1,47 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "603051103",
+    "isin": "US6030511033"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US6030511033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MALRF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MALRY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F5J.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MIN.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Mineral Resources Limited",
+  "primary_symbol": "MALRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mineral Resources Limited, together with subsidiaries, operates as a mining services and processing company in Australia, China, and Singapore. It operates through three segments: Mining Services, Commodities, and Central. The company offers contract crushing, screening, processing, and specialist mining services; mine services, including materials handling, plant and equipment hire, plant and equipment maintenance, tails recovery, and aggregate crushing; and design, engineering, and construction services in the resources sector. It also manages the processing, production, logistics, ship loading, marketing, and export of resource products on behalf of tenement owners. In addition, the company has a portfolio of iron ore assets; and owns interests in the Mount Marion and Wodgina lithium projects located in Western Australia. The company was founded in 1993 and is based in Applecross, Australia.",
+  "website": "http://www.mineralresources.com.au"
+}

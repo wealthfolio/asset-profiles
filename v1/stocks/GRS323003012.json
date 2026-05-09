@@ -1,0 +1,51 @@
+{
+  "identifiers": {
+    "isin": "GRS323003012"
+  },
+  "industry_group": "Banks",
+  "isin": "GRS323003012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RCP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFGD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFGD.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EFGD.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EFGD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EFGD.SG"
+    }
+  ],
+  "name": "EUROBANK ERGASIAS SA EUROBANK E",
+  "primary_symbol": "0RCP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "EUROBANK ERGASIAS SA is a Greek banking group providing a range of financial services to individuals, businesses, and institutions. The bank operates in Greece and other countries in Southeastern Europe. EUROBANK ERGASIAS SA is headquartered in Athens, Greece."
+}

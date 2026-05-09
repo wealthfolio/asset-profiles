@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005378457"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IT0005378457",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "FCM.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Friulchem S.p.A.",
+  "primary_symbol": "FCM.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Friulchem S.p.A. engages in the research, development, and production of original and generic pharmaceutical products for human and veterinary fields in Italy. It offers generic cosmoceuticals and food supplements; chewable cubes for animals; and cosmetic products for pigmentation disorders. The company is based in Milan, Italy.",
+  "website": "http://www.friulchem.com"
+}

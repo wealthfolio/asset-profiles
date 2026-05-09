@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KBGG9W5",
+    "cusip": "98980G102",
+    "figi": "BBG00KBGGB23",
+    "isin": "US98980G1022"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US98980G1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0XVU.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "0ZC.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0ZC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0ZC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US98980G1022.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ZS.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ZSCALER INC.  DL-,001",
+  "primary_symbol": "0ZC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Zscaler, Inc. is a cloud security company that provides internet security, web security, firewalls, sandboxing, and threat intelligence. The company's flagship service, Zscaler Internet Access, acts as a security stack in the cloud, inspecting all traffic and preventing threats. Zscaler is headquartered in San Jose, California.",
+  "website": "http://www.zscaler.com"
+}

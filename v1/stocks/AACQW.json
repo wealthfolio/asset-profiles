@@ -1,0 +1,21 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AACQW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Artius Acquisition Inc.",
+  "primary_symbol": "AACQW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Artius Acquisition Inc. was a blank check company and AACQW likely represents warrants to purchase stock in that company. Blank check companies are formed to acquire or merge with an existing company. The warrants would give the holder the right to purchase shares of the merged company at a specific price in the future."
+}

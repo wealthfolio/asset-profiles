@@ -1,0 +1,57 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "cusip": "50048T105",
+    "isin": "US50048T1051"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "US50048T1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VOPKF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VOPKY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "VPK.AS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VPK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "VPK.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VPK5.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Royal Vopak N.V.",
+  "primary_symbol": "VOPKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Royal Vopak N.V., an independent tank storage company, stores and handles liquid chemicals, gases and LNG, oil products, biofuels, and vegetable oils worldwide. It owns and operates specialized facilities, including tanks, jetties, truck loading stations, and pipelines. The company operates 70 terminals in Europe, Africa, Asia, the Middle East, China, North Asia, and the Americas with a storage capacity of 35.6 million cubic meters. Royal Vopak N.V. was founded in 1616 and is headquartered in Rotterdam, the Netherlands.",
+  "website": "http://www.vopak.com"
+}

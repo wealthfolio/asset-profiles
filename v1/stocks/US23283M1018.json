@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00CNKJL88",
+    "cusip": "23283M101",
+    "figi": "BBG00CNKJLG9",
+    "isin": "US23283M1018"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US23283M1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "296.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "296.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYDY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "296.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CytoDyn Inc.",
+  "primary_symbol": "296.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CytoDyn Inc. operates as a late-stage biotechnology company. The company focuses on developing treatments for multiple therapeutic indications based on leronlimab, a novel humanized monoclonal antibody targeting the CCR5 receptor. Its Leronlimab is in a class of therapeutic monoclonal antibodies designed to address unmet medical needs in the areas of human immunodeficiency virus (HIV), cancer, immunology, and novel coronavirus disease (COVID-19). It has completed a Phase 3 pivotal trial with leronlimab in combination with antiretroviral therapies in HIV-infected treatment-experienced patients, as well as completed a Phase 3 investigative trial with leronlimab as a once-weekly monotherapy for HIV-infected patients. The company is also conducting a Phase 1b/2 clinical trial with leronlimab in metastatic triple-negative breast cancer. In addition, the company targets leronlimab treatment as a therapy for patients who experience respiratory complications as a result of contracting COVID-19, as well as Leronlimab for the prevention of graft-versus-host disease in patient. The company was formerly known as RexRay Corporation. CytoDyn Inc. was incorporated in 2002 and is based in Vancouver, Washington.",
+  "website": "http://www.cytodyn.com"
+}

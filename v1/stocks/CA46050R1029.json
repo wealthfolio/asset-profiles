@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000KJ1450",
+    "figi": "BBG000KJ14S5",
+    "isin": "CA46050R1029"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA46050R1029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THM"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ITH.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "THM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "THM.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "International Tower Hill Mines Ltd.",
+  "primary_symbol": "THM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "International Tower Hill Mines Ltd., a mineral exploration company, engages in the acquisition and exploration of mineral properties. It holds or has rights to acquire interests in the Livengood gold project covering an area of approximately 19,546 hectares located to the northwest of Fairbanks, Alaska. The company was formerly known as Tower Hill Mines Ltd. and changed its name to International Tower Hill Mines Ltd. in March 1991. International Tower Hill Mines Ltd. was incorporated in 1978 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.ithmines.com"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CD1CS9",
+    "figi": "BBG000CD2J58",
+    "isin": "ID1000109507"
+  },
+  "industry_group": "Banks",
+  "isin": "ID1000109507",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZG2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZG2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BZG2.SG"
+    }
+  ],
+  "name": "BANK CENTRAL ASIA RP 62,5",
+  "primary_symbol": "BZG2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PT Bank Central Asia Tbk (BCA) is one of the largest private banks in Indonesia, providing a wide range of banking services to individuals, businesses, and corporations. The bank offers deposit accounts, loans, credit cards, and wealth management services, as well as digital banking solutions. BCA is headquartered in Jakarta, Indonesia."
+}

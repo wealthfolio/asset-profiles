@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PPPSF1",
+    "cusip": "68619K204",
+    "isin": "US68619K2042"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68619K2042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US68619K2042.SG"
+    }
+  ],
+  "name": "ORGENESIS INC",
+  "primary_symbol": "US68619K2042.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ORGENESIS INC is a regenerative medicine company focused on developing and commercializing cell therapies for a variety of indications. Headquartered in Germantown, Maryland, their primary product is Grafix, a living cell therapy used to treat chronic wounds. The company aims to address unmet medical needs through innovative regenerative medicine solutions."
+}

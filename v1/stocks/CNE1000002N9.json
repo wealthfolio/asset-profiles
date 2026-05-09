@@ -1,0 +1,56 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "CNE1000002N9"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "CNE1000002N9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3323.TWO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D1Y.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D1Y.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3323.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "D1Y.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "D1Y.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Celxpert Energy Corporation",
+  "primary_symbol": "3323.TWO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Celxpert Energy Corporation produces and sells battery packs in Taiwan. Its products are used in notebook and tablet, network product, smart phone, power tool, E-bike/E-Moto, and energy storage and UPS battery packs. The company was founded in 1997 and is headquartered in Taoyuan, Taiwan.",
+  "website": "http://www.celxpert.com.tw"
+}

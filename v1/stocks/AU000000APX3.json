@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00L7XHWJ4",
+    "figi": "BBG00L7XHWQ6",
+    "isin": "AU000000APX3"
+  },
+  "industry_group": "Software & Services",
+  "isin": "AU000000APX3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "433.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "433.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000APX3.SG"
+    }
+  ],
+  "name": "APPEN LTD",
+  "primary_symbol": "433.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "APPEN LTD is an Australia-based company that provides data solutions and services for machine learning and artificial intelligence. The company collects and labels data to improve the accuracy of AI models used in search engines, social media platforms, and e-commerce. Its headquarters are located in Sydney, Australia."
+}

@@ -1,0 +1,56 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000032658"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0000032658",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HDQ.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SDG.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SDG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SDG.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YSY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YSY.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Synergie SE",
+  "primary_symbol": "0HDQ.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Synergie SE provides human resources management and development services for companies and institutions in Europe, Canada, Australia, and China. It offers temporary employment, recruitment, out-placement, social engineering, consultancy, and training services. The company serves various specialized tertiary sectors and industries, such as aeronautics and renewable energy, construction and public works, retail, information technology and IT services, and communications. Synergie SE operates through a network of 750 agencies. The company was founded in 1984 and is headquartered in Paris, France.",
+  "website": "http://www.synergie.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "BE0974313455"
+  },
+  "industry": "IT Services",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "BE0974313455",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RPX.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1E91.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1E91.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "ECONB.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ECONOCOM GROUP SE ECONOCOM GROU",
+  "primary_symbol": "0RPX.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ECONOCOM GROUP SE is a French company that provides digital transformation services to businesses. The company offers consulting, technology, and outsourcing services. ECONOCOM GROUP SE is headquartered in Puteaux, France.",
+  "website": "http://www.econocom.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005359192"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0005359192",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A3J.IL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "53D.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "53D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ILTY.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ILLIMITY BANK SPA ILLIMITY BANK",
+  "primary_symbol": "0A3J.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ILLIMITY BANK SPA ILLIMITY BANK is an Italian bank focused on providing financial services to small and medium-sized enterprises (SMEs) and specialized lending. It offers a range of banking products and services, including financing, investment, and advisory services, with headquarters in Milan, Italy.",
+  "website": "http://www.illimity.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1N8.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Adyen N.V.",
+  "primary_symbol": "1N8.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Adyen N.V. operates a payments platform in Europe, North America, the Asia Pacific, Latin America, and internationally. The company's platform integrates payments stack that include gateway, risk management, processing, acquiring, and settlement services. It offers a back-end infrastructure for authorizing payments across merchants' sales channels, as well as online, mobile, in-store, and APIs. The company's platform services a range of merchants across various verticals, connecting them directly to Visa, Mastercard, and other payment methods and providing data insights. Adyen N.V. was incorporated in 2006 and is headquartered in Amsterdam, the Netherlands.",
+  "website": "http://www.adyen.com"
+}

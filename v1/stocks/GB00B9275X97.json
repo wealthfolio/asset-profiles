@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00GFJHSC3",
+    "figi": "BBG00GFJHSK4",
+    "isin": "GB00B9275X97"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "GB00B9275X97",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRO.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPORF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CRO.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CRO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CRO.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "ORPH.IR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ORPH.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Open Orphan plc",
+  "primary_symbol": "CRO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Open Orphan plc operates as a pharmaceutical service and contract research company. The company is involved in testing vaccines and antivirals using human challenge clinical trials. It provides services to Big Pharma, biotech, government, and public health organizations. The company has a portfolio of eight human challenge study models for conditions, such as RSV, flu, asthma and COPD, as well as developing COVID-19 human challenge study model. In addition, the company is developing a database of infectious disease progression data that include Disease in Motion platform, which comprises unique datasets, such as clinical, immunological, virological, and digital (wearable) biomarkers. The Disease in Motion platform has various potential applications across a range of end users, including big technology, wearables, pharma, and biotech companies. Further, the company provides biometry, data management, and statistics to its various European pharmaceutical clients, as well as drug development consultancy and services, including CMC (chemistry, manufacturing, and controls), and PK and medical writing to a range of European clients. The company is headquartered in London, the United Kingdom.",
+  "website": "http://www.openorphan.com"
+}

@@ -1,0 +1,83 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000HS74G6",
+    "figi": "BBG000HS7779",
+    "isin": "CA1363751027"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Transportation",
+  "isin": "CA1363751027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CY2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CY2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CY2.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CNI.AX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "CNIC34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CNIN.MX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CNR.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CY2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CY2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CY2.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Canadian National Railway Company",
+  "primary_symbol": "CNI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Canadian National Railway Company, together with its subsidiaries, engages in the rail and related transportation business. Its portfolio of goods includes petroleum and chemicals, grain and fertilizers, coal, metals and minerals, forest products, intermodal, and automotive products serving exporters, importers, retailers, farmers, and manufacturers. The company operates a network of 19,500 route miles of track spanning Canada and the United States. It also provides vessels and docks, transloading and distribution, automotive logistics, and freight forwarding and transportation management services. The company was founded in 1919 and is headquartered in Montreal, Canada.",
+  "website": "http://www.cn.ca"
+}

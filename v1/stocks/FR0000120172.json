@@ -1,0 +1,73 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BK3QP4",
+    "figi": "BBG000BK3WS8",
+    "isin": "FR0000120172"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "FR0000120172",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAR.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAR.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAR.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CAA.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CAR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CAR.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CARR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CARR.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CARREFOUR S.A. INH.EO 2,5",
+  "primary_symbol": "CAR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Carrefour S.A. is a French multinational retail corporation that operates a chain of hypermarkets, supermarkets, and convenience stores. The company offers a wide range of products, including groceries, electronics, apparel, and household goods. Carrefour is headquartered in Massy, France.",
+  "website": "http://www.capral.com.au"
+}

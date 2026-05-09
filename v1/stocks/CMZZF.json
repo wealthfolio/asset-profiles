@@ -1,0 +1,23 @@
+{
+  "country": "Cyprus",
+  "country_code": "CY",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMZZF"
+    }
+  ],
+  "name": "Cairo Mezz PLC",
+  "primary_symbol": "CMZZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Cairo Mezz Plc holds and manages contributed bonds. The company was formerly known as Mairanus Ltd. and changed its name to Cairo Mezz Plc in September 2020. The company was founded in 2020 and is based in Nicosia, Cyprus.",
+  "website": "http://www.cairomezz.com.cy"
+}

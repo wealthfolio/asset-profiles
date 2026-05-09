@@ -1,0 +1,51 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005412298"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "IT0005412298",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INC.AQ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5JT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "INC.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "INC.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005412298.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INCANTHERA PLC",
+  "primary_symbol": "INC.AQ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Innovatec S.p.A. provides technologies, products, and services in the areas of energy efficiency and energy storage in Italy. It operates in the renewable energy sector serving corporate and retail customers. The company is based in Milan, Italy. Innovatec S.p.A. is a subsidiary of Gruppo Waste Italia S.p.A.",
+  "website": "http://www.innovatec.it"
+}

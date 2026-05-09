@@ -1,0 +1,58 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000PBTQV4",
+    "figi": "BBG000PBTW05",
+    "isin": "CNE100000312"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "CNE100000312",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D4D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D4D.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNFGF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNFGY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D4D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "D4D.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DONGFENG MOTOR GRP H YC 1",
+  "primary_symbol": "D4D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Dongfeng Motor Group Company Limited is a Chinese automobile manufacturer that produces a wide range of vehicles, including passenger cars, commercial vehicles, and auto parts. The company operates through joint ventures with international automakers and its own brands. Dongfeng Motor Group is headquartered in Wuhan, China.",
+  "website": "http://www.dfmg.com.cn"
+}

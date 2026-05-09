@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "DE0007100000"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Automobiles & Components",
+  "isin": "DE0007100000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCX.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBG.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DCX.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MBG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MBG.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DAIMLER",
+  "primary_symbol": "DCX.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "DAIMLER (now Mercedes-Benz Group AG) is a German multinational automotive corporation headquartered in Stuttgart. It is one of the world's leading premium car manufacturers, producing a range of luxury vehicles under the Mercedes-Benz brand, as well as trucks and buses. The company also provides financial and mobility services.",
+  "website": "http://www.discovexresources.com.au"
+}

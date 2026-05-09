@@ -1,0 +1,68 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "composite_figi": "BBG000P8V946",
+    "figi": "BBG000P8VDN6",
+    "isin": "GRS434003000"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "GRS434003000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PU8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PU8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PUPOF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "PPC.AT"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PPC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PU8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PU8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PU8.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PUBL.POWER GR.INH.EO 2,48",
+  "primary_symbol": "PU8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Public Power Corporation S.A., together with its subsidiaries, generates, transmits, and distributes electricity in Greece and internationally. It generates electricity from lignite, natural gas, liquid fuel, wind, hydroelectric, and photovoltaic power plants. The company owns 60 power generating stations; and distributes electricity through 240,100 kilometers of medium and low voltage distribution network. It also owns approximately 162 kilometers of urban fiber optics network. In addition, the company offers financing services. Public Power Corporation S.A. was founded in 1950 and is headquartered in Athens, Greece.",
+  "website": "http://www.dei.gr"
+}

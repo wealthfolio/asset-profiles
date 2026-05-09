@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG014GJ8XH2",
+    "cusip": "63947X101",
+    "figi": "BBG014GJ9QF8",
+    "isin": "US63947X1019"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US63947X1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCNO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6NC.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "nCino, Inc.",
+  "primary_symbol": "NCNO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "nCino, Inc., a software-as-a-service company, provides cloud-based software applications for financial institutions in the United States and internationally. Its nCino Bank Operating System, a tenant cloud platform, which digitizes, automates, and streamlines complex processes and workflow; and utilizes data analytics and artificial intelligence and machine learning (AI/ML) to enable financial institutions to onboard new clients, make loans and manage the entire loan life cycle, open deposit and other accounts, and manage regulatory compliance. The company's nCino IQ, an application suite that utilizes data analytics and AI/ML to provide its customers with automation and insights into their operations, such as tools for analyzing, measuring, and managing credit risk, as well as to enhance their ability to comply with regulatory requirements. It serves financial institution customers, including global financial institutions, enterprise banks, regional banks, community banks, credit unions, and new market entrants. The company was founded in 2011 and is headquartered in Wilmington, North Carolina.",
+  "website": "http://www.ncino.com"
+}

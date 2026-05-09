@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CCA.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Change Financial Limited",
+  "primary_symbol": "CCA.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Change Financial Limited operates as a fintech company in the United States. It provides payment processor and mobile banking services through its mobile application. The company was formerly known as ChimpChange Limited and changed its name to Change Financial Limited in July 2017. Change Financial Limited was founded in 2011 and is based in Brisbane, Australia.",
+  "website": "http://www.changefinancial.com"
+}

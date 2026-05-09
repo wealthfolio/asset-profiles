@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001LFLZZ1",
+    "cusip": "11120U105",
+    "figi": "BBG004V7PD50",
+    "isin": "US11120U1051"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US11120U1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BXR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BXR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BXR.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Brixmor Property Group Inc.",
+  "primary_symbol": "BRX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Brixmor (NYSE: BRX) is a real estate investment trust (REIT) that owns and operates a high-quality, national portfolio of open-air shopping centers. Its 395 retail centers comprise approximately 69 million square feet of prime retail space in established trade areas. The Company strives to own and operate shopping centers that reflect Brixmor's vision \"to be the center of the communities we serve\" and are home to a diverse mix of thriving national, regional and local retailers. Brixmor is a proud real estate partner to approximately 5,000 retailers including The TJX Companies, The Kroger Co., Publix Super Markets, Wal-Mart, Ross Stores and L.A. Fitness.",
+  "website": "http://www.brixmor.com"
+}

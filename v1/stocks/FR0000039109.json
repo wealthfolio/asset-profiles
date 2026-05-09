@@ -1,0 +1,48 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "composite_figi": "BBG000G7CPL4",
+    "figi": "BBG000G7DVM9",
+    "isin": "FR0000039109"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0000039109",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "SCB.LS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SCB.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SECHE ENVIRON. INH.EO-,20",
+  "primary_symbol": "SCB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Séché Environnement SA provides waste management and environmental services. The company operates in the treatment and recovery of hazardous and non-hazardous waste. The company is headquartered in France.",
+  "website": "http://www.scbraga.pt"
+}

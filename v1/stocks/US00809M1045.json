@@ -1,0 +1,44 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00QSF2LK7",
+    "cusip": "00809M104",
+    "figi": "BBG00QSF2LQ1",
+    "isin": "US00809M1045"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US00809M1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3FMA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3FMA.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AEST.MED.INT.HLD.SP.ADR/3",
+  "primary_symbol": "3FMA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Aesthetic Medical International Holdings Group Limited provides aesthetic medical services. It offers surgical aesthetic treatments, such as eye surgery, rhinoplasty, breast augmentation, and liposuction; and non-surgical aesthetic treatments comprising minimally invasive and energy-based treatments, including laser, ultrasound, and ultraviolet light treatments. The company also provides general healthcare and other aesthetic medical services, such as internal medicine, urology, gynecology, and obstetrics treatment services, as well as dentistry, dermatology, and hair loss treatment services. It operates 25 treatment centers in China, Hong Kong, and Singapore. The company was founded in 1997 and is headquartered in Shenzhen, China.",
+  "website": "http://ir.aihgroup.net"
+}

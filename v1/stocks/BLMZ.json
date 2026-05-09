@@ -1,0 +1,22 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLMZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BloomZ Inc. Ordinary Shares",
+  "primary_symbol": "BLMZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CJPJS5",
+    "cusip": "38526M106",
+    "figi": "BBG000CJPNB4",
+    "isin": "US38526M1062"
+  },
+  "industry": "Household Products",
+  "industry_group": "Retailing",
+  "isin": "US38526M1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LOPE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GKD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GKD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GKD.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GRAND CANYON EDUCAT. INC.",
+  "primary_symbol": "GKD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "GRAND CANYON EDUCAT. INC. is a for-profit education company providing online and campus-based postsecondary education services. It primarily focuses on degree programs and other educational offerings through Grand Canyon University. The company is headquartered in Phoenix, Arizona.",
+  "website": "http://www.gce.com"
+}

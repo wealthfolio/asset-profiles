@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "04744L106",
+    "isin": "US04744L1061"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US04744L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4LS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4LS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4LS.SG"
+    }
+  ],
+  "name": "ATHERSYS INC. NEW DL-,001",
+  "primary_symbol": "4LS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Athersys, Inc. is a biotechnology company focused on developing therapies for critical care indications. The company's lead product candidate, MultiStem, is a cell therapy being investigated for the treatment of stroke, trauma, and other diseases. Athersys is headquartered in Cleveland, Ohio."
+}

@@ -1,0 +1,102 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "cusip": "670100205",
+    "isin": "US6701002056"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6701002056",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NONOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOVA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOVA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVO"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "N1VO34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "NNOR.VI"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "NOVA.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NOVA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NOVA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NOVA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NOVA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NOVC.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NOVC.F"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "NOVO-B.CO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NVON.MX"
+    }
+  ],
+  "market_cap_band": "Mega Cap",
+  "name": "Novo Nordisk A/S",
+  "primary_symbol": "NONOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Novo Nordisk A/S, a healthcare company, engages in the research, development, manufacture, and marketing of pharmaceutical products worldwide. It operates in two segments, Diabetes and Obesity care, and Biopharm. The Diabetes and Obesity care segment provides products in the areas of insulins, GLP-1 and related delivery systems, oral antidiabetic products, obesity, and other chronic diseases. The Biopharmaceuticals segment offers products in the areas of haemophilia, growth disorders, and hormone replacement therapy. The company collaboration agreements with Lund University to develop treatment for Parkinson's diseases; and bluebird bio, Inc. to develop genome editing treatments for children and adult patients. The company was founded in 1923 and is headquartered in Bagsvaerd, Denmark.",
+  "website": "http://www.novonordisk.com"
+}

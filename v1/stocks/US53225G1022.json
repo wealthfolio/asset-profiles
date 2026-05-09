@@ -1,0 +1,59 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG004P4HD44",
+    "cusip": "53225G102",
+    "figi": "BBG004P4HDB6",
+    "isin": "US53225G1022"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "US53225G1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L4XA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L4XA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LITB"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L4XA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "L4XA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LITBN.MX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LIGHTINTHEBOX HLDGS S.ADR",
+  "primary_symbol": "L4XA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LIGHTINTHEBOX HLDGS S.ADR is an online retail company that sells a wide variety of products, including apparel, electronics, and home goods, directly to consumers around the world. The company utilizes a data-driven business model and offers its products through its LightInTheBox and MiniInTheBox websites. LightInTheBox is headquartered in Shanghai, China.",
+  "website": "http://www.lightinthebox.com"
+}

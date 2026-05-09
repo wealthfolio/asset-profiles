@@ -1,0 +1,47 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "276317104",
+    "isin": "US2763171046"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "US2763171046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EML"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EAQ.F"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "EML.BO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "EML.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "The Eastern Company",
+  "primary_symbol": "EML",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "The Eastern Company designs, manufactures, and sells engineered solutions to industrial markets in the United States and internationally. The company operates through two segments, Engineered Solutions and Diversified Products. The Engineered Solutions segment offers turnkey returnable packaging solutions that are used in the assembly process of vehicles, aircraft, and durable goods, as well as in the production process of plastic packaging products, packaged consumer goods, and pharmaceuticals; designs and manufactures blow mold tools and injection blow mold tooling products, and 2-step stretch blow molds and related components; and supplies blow molds and change parts to the food, beverage, healthcare and chemical industry. It also offers rotary latches, compression latches, draw latches, hinges, camlocks, key switches, padlocks, and handles, as well as development and program management services for custom electromechanical and mechanical systems; designs and manufactures proprietary vision technology for original equipment manufacturers (OEMs) and aftermarket applications; and provides aftermarket components to the heavy-duty truck market. The Diversified Products segment designs and manufactures ductile and malleable iron castings, comprising of valves, torque screws, bean clamps, and concrete anchors; and payment systems and coin security products, such as timers, drop meters, coin chutes, money boxes, meter cases, mobile payment apps, smart cards, value transfer stations, smart card readers, card management software, and access control units for commercial laundry market. It also supplies printed circuit boards and other electronic assemblies to OEMs in various industries, including measurement systems, semiconductor equipment manufacturing, industrial controls, medical, and military products. The Eastern Company was founded in 1858 and is based in Naugatuck, Connecticut.",
+  "website": "http://www.easterncompany.com"
+}

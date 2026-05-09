@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000SGP0"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "AU000000SGP0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STKAF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LN1.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SGP.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SGP.BK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Stockland",
+  "primary_symbol": "STKAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Stockland (ASX:SGP) was founded in 1952 and has grown to become one of Australia's largest diversified property groups √Ç¬ñ owning, developing and managing a large portfolio of shopping centres, residential communities, workplace and logistic assets and retirement living villages. Stockland is consistently rated as one of the most sustainable real estate companies in the world by the Dow Jones Sustainability World Index (DJSI). Stockland is also an Employer of Choice for Gender Equality, as recognised by the Workplace Gender Equality Agency.",
+  "website": "http://www.stockland.com.au"
+}

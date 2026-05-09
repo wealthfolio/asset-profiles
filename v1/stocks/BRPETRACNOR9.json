@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00195NHC0",
+    "figi": "BBG00195NHK1",
+    "isin": "BRPETRACNOR9"
+  },
+  "industry_group": "Energy",
+  "isin": "BRPETRACNOR9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PJXC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PJXC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PJXC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PJXC.SG"
+    }
+  ],
+  "name": "PETROLEO BRAS.SA PET.",
+  "primary_symbol": "PJXC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Petróleo Brasileiro S.A. (Petrobras) is a Brazilian state-owned petroleum company headquartered in Rio de Janeiro. It engages in exploration, production, refining, and transportation of oil and gas. The company operates in Brazil and internationally, with a focus on deepwater and ultra-deepwater oil fields."
+}

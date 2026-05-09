@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C43744",
+    "cusip": "431284108",
+    "figi": "BBG000C43860",
+    "isin": "US4312841087"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US4312841087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HQS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HQS.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Highwoods Properties, Inc.",
+  "primary_symbol": "HIW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Highwoods Properties, Inc., headquartered in Raleigh, is a publicly-traded (NYSE:HIW) real estate investment trust (√Ç¬ìREIT√Ç¬î) and a member of the S&P MidCap 400 Index. Highwoods is a fully-integrated office REIT that owns, develops, acquires, leases and manages properties primarily in the best business districts (BBDs) of Atlanta, Charlotte, Nashville, Orlando, Pittsburgh, Raleigh, Richmond and Tampa.",
+  "website": "http://www.highwoods.com"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000NJSGG9",
+    "figi": "BBG000NJSKR8",
+    "isin": "AU000000BOQ8"
+  },
+  "industry_group": "Banks",
+  "isin": "AU000000BOQ8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BXZ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BXZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BXZ.SG"
+    }
+  ],
+  "name": "BANK OF QUEENSLAND LTD",
+  "primary_symbol": "BXZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bank of Queensland Ltd is an Australian retail bank providing a range of financial products and services including personal and business banking, home loans, and insurance. The bank operates through a network of branches and online channels. Bank of Queensland is headquartered in Brisbane, Australia."
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00FXWWJZ4",
+    "cusip": "518613203",
+    "figi": "BBG00FXWWK54",
+    "isin": "US5186132032"
+  },
+  "industry": "Household Products",
+  "industry_group": "Consumer Services",
+  "isin": "US5186132032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LA3A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LAUR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LA3A.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LAUR.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LAUREATE EDUCATION CL.A",
+  "primary_symbol": "LA3A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LAUREATE EDUCATION CL.A is a for-profit education company that provides a range of undergraduate, graduate, and specialized degree programs to students around the world. The company operates a network of universities and higher education institutions. Laureate Education is headquartered in Miami, Florida.",
+  "website": "http://www.laureate.net"
+}

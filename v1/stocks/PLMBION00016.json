@@ -1,0 +1,43 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRHZX2",
+    "figi": "BBG00ZHRJ030",
+    "isin": "PLMBION00016"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "PLMBION00016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "272.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "272.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLMBION00016.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MABION SA  ZY -,10",
+  "primary_symbol": "272.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mabion S.A. is a Polish biopharmaceutical company focused on the development and manufacturing of biosimilar drugs. The company develops and produces biosimilars of originator drugs used in oncology and autoimmune diseases. Mabion is headquartered in Konstantynów Łódzki, Poland.",
+  "website": "http://www.mabion.eu"
+}

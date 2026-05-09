@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000WG2LQ1",
+    "cusip": "377322102",
+    "figi": "BBG008NZ7B25",
+    "isin": "US3773221029"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US3773221029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKOS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6GJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6GJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6GJ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Glaukos Corporation",
+  "primary_symbol": "GKOS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Glaukos Corporation, an ophthalmic medical technology and pharmaceutical company, focuses on the development of novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases. It offers iStent, iStent inject, iStent inject W micro-bypass stents that enhance aqueous humor outflow inserted in cataract surgery to treat mild-to-moderate open-angle glaucoma. The company's product pipeline includes iStent Infinite for use as a standalone procedure in patients with refractory glaucoma; iStent SA, a two-stent product that is designed for use as a standalone glaucoma procedure; and iDose TR, a targeted injectable implant based on its micro-scale device-platform that is designed to deliver therapeutic levels of medication. The company markets its products through direct sales organization, as well as through distributors in the United States and internationally. Glaukos Corporation was incorporated in 1998 and is headquartered in San Clemente, California.",
+  "website": "http://www.glaukos.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BP3D45",
+    "cusip": "606710200",
+    "figi": "BBG000BP3HZ2",
+    "isin": "US6067102003"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US6067102003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MITK"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MKQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MKQ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K1W.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MKQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MKQ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Mitek Systems, Inc.",
+  "primary_symbol": "MITK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Mitek Systems, Inc. develops, markets, and sells mobile image capture and digital identity verification solutions in the United States, Europe, Latin America, and internationally. The company's solutions are embedded in native mobile apps and browsers to facilitate online user experiences, fraud detection and reduction, and compliant transactions. It offers Mobile Deposit that enables individuals and businesses to remotely deposit checks using their camera-equipped smartphone or tablet; and Mobile Verify, an identity verification solution that is integrated into mobile apps, mobile websites, and desktop applications. The company also provides Mobile Fill, an application to prefill forms with user data by snapping a picture of the driver license or other similar identity documents; Mobile Docs, a mobile document scanning solution; and MiSnap, an image capture technology. In addition, it offers CheckReader that enables financial institutions to automatically extract data from checks; XE, a recurrent neural network engine; and ID_CLOUD, an automated identity verification solution that is integrated into a customers' application to read and validate identity documents. The company sells its solutions primarily to banks, credit unions, lenders, payments processers, card issuers, fintech companies, and others through direct sales teams and channel partners. Mitek Systems, Inc. was incorporated in 1986 and is based in San Diego, California.",
+  "website": "http://www.miteksystems.com"
+}

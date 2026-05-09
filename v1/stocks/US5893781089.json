@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BZ1T95",
+    "cusip": "589378108",
+    "figi": "BBG000BZ1VW4",
+    "isin": "US5893781089"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US5893781089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MCY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRCY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MCY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MCY.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MERCURY SYSTEMS DL -,01",
+  "primary_symbol": "MCY.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Mercury Systems, Inc. is a technology company that designs, develops, and integrates secure, high-performance processing subsystems for critical, demanding applications. The company provides solutions for the aerospace, defense, and intelligence industries. Mercury Systems is headquartered in Andover, Massachusetts.",
+  "website": "http://www.mrcy.com"
+}

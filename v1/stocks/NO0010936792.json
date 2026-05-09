@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZVJVDD9",
+    "figi": "BBG00ZVJVDG6",
+    "isin": "NO0010936792"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "NO0010936792",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6XG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6XG.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "FROY.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010936792.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FROY ASA  NK 1",
+  "primary_symbol": "6XG.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "FROY ASA is a Norwegian fishing company focused on sustainable harvesting and processing of pelagic fish. The company operates a fleet of vessels and processing facilities to produce fishmeal, fish oil, and frozen pelagic fish products. FROY ASA is headquartered in Frøya, Norway.",
+  "website": "http://froygruppen.no"
+}

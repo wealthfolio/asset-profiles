@@ -1,0 +1,24 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "RECX11.SA"
+    }
+  ],
+  "name": "Rec Fundo De Fundos - Fii Fundo De Investimento Imobiliario",
+  "primary_symbol": "RECX11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "RECX11.SA is a Brazilian fund-of-funds (FOF) real estate investment fund (FII), meaning it invests in other real estate funds. This provides diversification across the Brazilian real estate market, with income distributed to investors from the underlying fund performances."
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KN6M9M8",
+    "cusip": "535219109",
+    "figi": "BBG00KN6M9S2",
+    "isin": "US5352191093"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US5352191093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LI4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LIND"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LI4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LI4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5352191093.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LINDBLAD EXPED. HLDGS",
+  "primary_symbol": "LI4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Lindblad Expeditions Holdings is an expedition travel company that offers voyages and expeditions to remote and exotic destinations around the world. The company operates a fleet of owned and chartered vessels and provides immersive experiences focused on nature, culture, and conservation. Lindblad Expeditions is headquartered in New York, NY.",
+  "website": "http://world.expeditions.com"
+}

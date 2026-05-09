@@ -1,0 +1,40 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "isin": "FR0013227113"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "FR0013227113",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RMT.IL"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "SOH.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SOI.L"
+    }
+  ],
+  "name": "SOITEC SA SOITEC ORD SHS",
+  "primary_symbol": "0RMT.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SOITEC SA is a French company that designs and manufactures innovative semiconductor materials. The company's products are used in a variety of applications, including smartphones, automotive electronics, and data centers. SOITEC SA is headquartered in Bernin, France.",
+  "website": "http://www.southoceanholdings.co.za"
+}

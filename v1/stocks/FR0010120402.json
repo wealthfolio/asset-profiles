@@ -1,0 +1,36 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0010120402"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0010120402",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCLIF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALTHE.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Theraclion SA",
+  "primary_symbol": "TCLIF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Theraclion SA develops echotherapy solutions using high intensity focused ultrasound system. It offers SONOVEIN, a robotic solution for non-invasive echotherapy treatment of varicose veins; ECHOPULSE, a robotic and non-invasive solution for echotherapy treatment of thyroid nodules and breast fibroadenoma; and EPack, a disposable that is installed on the device before treatment and protects the patient's skin and optimizes the image quality. The company was incorporated in 2004 and is based in Malakoff, France.",
+  "website": "http://www.theraclion.com"
+}

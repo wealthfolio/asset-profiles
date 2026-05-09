@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0032H1LF9",
+    "figi": "BBG0032H1LM1",
+    "isin": "CA13124L7016"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA13124L7016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CAXA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLLXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA13124L7016.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CAXA.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CNX.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Callinex Mines Inc.",
+  "primary_symbol": "CAXA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Callinex Mines Inc. engages in the acquisition, exploration, and development of mineral properties in Canada. It explores for copper, zinc, gold, and silver ores. The company's flagship project is the Nash Creek property that covers an area of 15,542.31 hectares located in Restigouche County in northeast New Brunswick. Callinex Mines Inc. was incorporated in 2011 and is headquartered in Vancouver, Canada.",
+  "website": "http://callinex.ca"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00QDJT2T9",
+    "figi": "BBG00QDJT2Z2",
+    "isin": "KYG596651029"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "KYG596651029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "328.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGTX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "328.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MEIRAGTX HLDGSDL-,0000388",
+  "primary_symbol": "328.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MEIRAGTX HLDGSDL-,0000388 is a clinical-stage gene therapy company. It is focused on developing potentially curative gene therapies for patients living with serious diseases.",
+  "website": "http://www.meiragtx.com"
+}

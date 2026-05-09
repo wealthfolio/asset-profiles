@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BNTKJ0",
+    "figi": "BBG000BNTMK4",
+    "isin": "ES0121975009"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Capital Goods",
+  "isin": "ES0121975009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AXF1.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CAF.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CAF.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Constr. Aux. Ferroc. SA (CAF) A",
+  "primary_symbol": "AXF1.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Constr. Aux. Ferroc. SA (CAF) A is a company involved in the design, manufacturing, maintenance, and supply of equipment and components for railway systems. It provides a range of products and services, including railway vehicles, signaling systems, and infrastructure maintenance. The company is based in Spain.",
+  "website": "http://www.centrepointalliance.com.au"
+}

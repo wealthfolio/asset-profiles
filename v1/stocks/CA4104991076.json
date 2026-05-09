@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA4104991076"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA4104991076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NITMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "04U1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA4104991076.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "HCC.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "HCC.NS"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "HCC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Hanna Capital Corp.",
+  "primary_symbol": "NITMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Hanna Capital Corp. is venture capital firm specializing in all stages development from early-stage to pre-initial public offering and intermediate and senior companies. The firm may consider its investment in securities of both public and private issuers. The firm primarily invest in mining and technology sector and may also invest in water, green energy, and alternative energy sectors. It was formerly known as Nitinat Minerals Corporation. Hanna Capital Corp. was incorporated in 2004 and is based in Toronto, Canada.",
+  "website": "http://www.hannacapitalcorp.com"
+}

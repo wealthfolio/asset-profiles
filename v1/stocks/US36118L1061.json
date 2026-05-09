@@ -1,0 +1,37 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "cusip": "36118L106",
+    "isin": "US36118L1061"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US36118L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUTU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FUTUN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Futu Holdings Limited",
+  "primary_symbol": "FUTU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Futu Holdings Limited operates an online brokerage and wealth management platform in Hong Kong and internationally. The company provides trading, clearing, and settlement services; margin financing and securities lending services; and stock yield enhancement program. It also offers online wealth management services under the Futu Money Plus brand, which gives access to mutual funds, private funds, and bonds; market data and information services; and NiuNiu Community, which serves as an open forum for users and clients to share insights, ask questions, and exchange ideas. In addition, the company provides initial public offering subscription and employee share option plan solution services to corporate clients under the Futu I&E brand; and services, including trade execution, as well as margin financing and securities lending, which allow its clients to trade securities, such as stocks, ETFs, warrants, options and futures, across different markets. Futu Holdings Limited was founded in 2007 and is headquartered in Hong Kong, Hong Kong.",
+  "website": "http://www.futuholdings.com"
+}

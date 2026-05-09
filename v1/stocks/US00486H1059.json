@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0169CH7X9",
+    "cusip": "00486H105",
+    "figi": "BBG016R0PMV5",
+    "isin": "US00486H1059"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US00486H1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADTN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ATN.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ADTRAN, Inc.",
+  "primary_symbol": "ADTN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ADTRAN, Inc. provides networking and communications platforms and services for service providers, cable/multiple system operators, small- to medium-sized business, and distributed enterprises in the United States, Germany, Mexico, and internationally. The company operates through two segments, Network Solutions, and Services & Support. It offers fiber to the premises and fiber to the node (FTTN) multi-service access nodes (MSAN); fiber aggregation and FTTN MSAN; network management and subscriber services control and orchestration software; software defined networking -controlled programmable network elements; fiber to the distribution point units; optical line terminals and transport solutions; IP-based digital subscriber line access multiplexers; cabinet and outside plant enclosures and services; transceivers, cables, and other miscellaneous materials; and other products, software, and services. The company also provides broadband customer premise solutions and point-to-point Ethernet optical network terminals; radio frequency over glass micro nodes; ethernet switches for multi-gigabit local area networking; SmartOS software licensing for residential gateway and Wi-Fi devices; cloud-based SaaS management platforms; Wi-Fi-enabled residential gateway products and accessories; managed mesh Wi-Fi solutions for cloud-managed connectivity; virtual wireless local area networks for business-class Wi-Fi and management; and pre-sale and post-sale technical support. In addition, it offers planning, engineering, program management, maintenance, installation, and commissioning services. Further, the company offers time division multiplexed and asynchronous transfer mode-based aggregation systems and customer devices; and high-bit-rate digital subscriber line, asymmetric digital subscriber line, and other technologies to deliver business and residential services. ADTRAN, Inc. was incorporated in 1985 and is headquartered in Huntsville, Alabama.",
+  "website": "http://www.adtran.com"
+}

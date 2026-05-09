@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB00B62G9D36"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Real Estate",
+  "isin": "GB00B62G9D36",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C20.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SH5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHC.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C20.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C20.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CAPC.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CAPITAL+COUNT.PR.LS-,25",
+  "primary_symbol": "C20.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Capital & Counties Properties PLC (Capco) is a property company focused on central London real estate. It specializes in retail, residential, and office properties in the Covent Garden and Earls Court areas. The company is headquartered in London, UK.",
+  "website": "http://www.soterahealth.com"
+}

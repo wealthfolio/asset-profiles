@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00S1HJ3M8",
+    "cusip": "98980F104",
+    "figi": "BBG00S1HJ455",
+    "isin": "US98980F1049"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US98980F1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZOM"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ZoomInfo Technologies Inc.",
+  "primary_symbol": "ZI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ZoomInfo Technologies Inc. operates cloud-based go-to-market intelligence platform for sales and marketing teams worldwide. The company's platform provides information and insights on the organizations and professionals. Its customers operate in various industry verticals, including software, business services, manufacturing, telecommunications, financial services, media and internet, transportation, education, hospitality, and real estate, as well as enterprises, mid-market companies, and down to small businesses. The company was founded in 2007 and is headquartered in Vancouver, Washington.",
+  "website": "http://www.zoominfo.com"
+}

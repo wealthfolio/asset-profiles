@@ -1,0 +1,36 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0014990966"
+  },
+  "industry": "IT Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "SE0014990966",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RB7.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LG72.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LAGERCRANTZ GROUP AB LAGERCRANT",
+  "primary_symbol": "0RB7.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "LAGERCRANTZ GROUP AB is a Swedish technology trading group that acquires and develops companies in niche markets. The company's businesses operate in various segments, including electronics, mechatronics, and communications. LAGERCRANTZ GROUP AB is headquartered in Stockholm, Sweden.",
+  "website": "http://www.lagercrantz.com"
+}

@@ -1,0 +1,25 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARM"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Arm Holdings plc American Depositary Shares",
+  "primary_symbol": "ARM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Arm Holdings plc designs and licenses semiconductor intellectual property (IP) for various applications, including mobile devices, embedded systems, and infrastructure. The company's technology is used in billions of devices worldwide. Arm Holdings is headquartered in Cambridge, UK."
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8418.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Yamaguchi Financial Group, Inc.",
+  "primary_symbol": "8418.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Yamaguchi Financial Group, Inc., together with its subsidiaries, provides various banking products and services in Japan. It provides securities brokerage, credit card, leasing, consulting, and other services. The company was founded in 2006 and is headquartered in Shimonoseki, Japan.",
+  "website": "http://www.ymfg.co.jp"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000J6HXJ4",
+    "figi": "BBG000J6J344",
+    "isin": "ID1000097405"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "ID1000097405",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDO1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDO1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISAT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IDO1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IDO1.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "ISAT.JK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PT INDOSAT TBK",
+  "primary_symbol": "IDO1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "PT Indosat Tbk is an Indonesian telecommunications provider. The company offers a range of services including cellular, fixed line, data, and internet services to consumers and businesses. PT Indosat Tbk is headquartered in Jakarta, Indonesia.",
+  "website": "http://indosatooredoo.com"
+}

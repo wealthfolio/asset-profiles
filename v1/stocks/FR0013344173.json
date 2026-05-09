@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00M0H2NC7",
+    "figi": "BBG00M0H2NK8",
+    "isin": "FR0013344173"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0013344173",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5RO.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5RO.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013344173.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "RBO.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ROCHE BOBOIS S.A.  EO5",
+  "primary_symbol": "5RO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Roche Bobois S.A. designs, manufactures, and distributes a range of high-end furniture, including sofas, armchairs, cocktail tables, dining chairs, beds, storage units, and accessories. The company operates through a network of directly-owned and franchised stores, primarily located in Europe and North America. Roche Bobois is headquartered in Paris, France.",
+  "website": "http://www.roche-bobois.com"
+}

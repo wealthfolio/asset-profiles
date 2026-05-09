@@ -1,0 +1,63 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00PF915V1",
+    "figi": "BBG00PF91612",
+    "isin": "IL0011582033"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "IL0011582033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "11V.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "11V.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FVRR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "11V.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "11V.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FVRRN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IL0011582033.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FIVERR INTERNATIONAL LTD",
+  "primary_symbol": "11V.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Fiverr International Ltd. operates an online marketplace that connects businesses with freelancers offering digital services in various categories, including graphic design, writing, programming, and video editing. The company's platform enables freelancers to create profiles showcasing their skills and businesses to find and hire talent for specific projects. Fiverr is headquartered in Tel Aviv, Israel.",
+  "website": "http://www.fiverr.com"
+}

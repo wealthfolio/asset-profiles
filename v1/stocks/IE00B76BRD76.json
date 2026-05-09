@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YHL3756",
+    "figi": "BBG00YHL37F5",
+    "isin": "IE00B76BRD76"
+  },
+  "isin": "IE00B76BRD76",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGXS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGXS.MU"
+    }
+  ],
+  "name": "WITR MU.AS.I.GAS ETP 2062",
+  "primary_symbol": "NGXS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

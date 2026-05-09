@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00RVD8T14",
+    "cusip": "82575P107",
+    "figi": "BBG00RVD8TB3",
+    "isin": "US82575P1075"
+  },
+  "industry_group": "Materials",
+  "isin": "US82575P1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47VS.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47VS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47VS.MU"
+    }
+  ],
+  "name": "SIBANYE STILLW.SP.ADR 1/4",
+  "primary_symbol": "47VS.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sibanye Stillwater Limited is a multinational precious metals mining company with a diverse portfolio of platinum group metals (PGMs) and gold operations. The company has operations in South Africa, the United States, and Zimbabwe. Sibanye Stillwater is headquartered in Westonaria, South Africa."
+}

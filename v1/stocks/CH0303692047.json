@@ -1,0 +1,53 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG00BCM5WT6",
+    "figi": "BBG00BCM5X05",
+    "isin": "CH0303692047"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "CH0303692047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ED4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ED4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ED4.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ED4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ED4.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EDAG ENGINEERING G.SF-,04",
+  "primary_symbol": "ED4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "EDAG Engineering Group AG provides engineering services to the automotive industry. The company offers services in vehicle engineering, electrical/electronics, production solutions, and consulting. EDAG is headquartered in Germany.",
+  "website": "http://www.edag.com"
+}

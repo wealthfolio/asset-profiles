@@ -1,0 +1,33 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000R9BLC8",
+    "figi": "BBG000R9BMT8",
+    "isin": "MHY621321089"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "MHY621321089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVGS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Navigator Holdings Ltd.",
+  "primary_symbol": "NVGS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Navigator Holdings Ltd. owns and operates a fleet of liquefied gas carriers worldwide. The company provides international and regional seaborne transportation services of liquefied petroleum gas, petrochemical gases, and ammonia for energy companies, industrial users, and commodity traders. As of December 31, 2019, it operated a fleet of 38 semi- or fully-refrigerated liquefied gas carriers. The company was founded in 1997 and is based in London, the United Kingdom.",
+  "website": "http://www.navigatorgas.com"
+}

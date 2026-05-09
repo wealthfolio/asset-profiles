@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "64118P109",
+    "isin": "US64118P1093"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US64118P1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NLST"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XAB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XAB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K6M.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XAB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Netlist, Inc.",
+  "primary_symbol": "NLST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Netlist, Inc. designs, manufactures, and sells modular memory subsystems for the server, high-performance computing, and communications markets worldwide. It offers HybriDIMM, a storage class memory product, which unifies dynamic random access memory (DRAM) and NAND flash in a plug-and-play module delivering terabyte storage capacities operating at nanosecond memory speeds. The company also provides nonvolatile (NV) memory products, such as NVvault DDR4 NVDIMM that provides data acceleration and protection in a joint electron device engineering council standard DDR4 interface; and specialty DIMMs and embedded flash products for use in data center and industrial applications. It resells solid state drive (SSD), NAND flash, DRAM products, and other component products to storage customers, appliance customers, system builders, and cloud and datacenter customers; and sells component inventory to distributors and other users of memory integrated circuits. The company markets and sells its products primarily to original equipment manufacturers through a direct sales force and a network of independent sales representatives. Netlist, Inc. was incorporated in 2000 and is headquartered in Irvine, California.",
+  "website": "http://www.netlist.com"
+}

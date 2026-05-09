@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG007BB73G6",
+    "figi": "BBG007BB73Q5",
+    "isin": "NL00150002Q7"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NL00150002Q7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "05Y.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "05Y.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "05Y.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "05Y.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "05Y.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0R3M.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NL00150002Q7.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "VVY.AS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VIVORYON THERAPEUTICS",
+  "primary_symbol": "05Y.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Vivoryon Therapeutics AG is a clinical-stage biotechnology company focused on developing innovative therapies for diseases of the central nervous system. They are developing small molecule inhibitors of glutaminyl cyclase (QC) to treat Alzheimer's disease and other neurodegenerative disorders. The company is headquartered in Halle (Saale), Germany.",
+  "website": "http://www.vivoryon.com"
+}

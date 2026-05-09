@@ -1,0 +1,27 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AEEX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Asia Equity Exchange Group, Inc.",
+  "primary_symbol": "AEEX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Asia Equity Exchange Group, Inc. provides listing assistance, equity investment financing information, and public relationship services to the enterprises primarily in China. The company offers its services through an international equity assistance and information service platform. It also provides investment and corporate management consulting services. The company is based in Kowloon Bay, Hong Kong.",
+  "website": "http://www.asiaotcmarkets.com"
+}

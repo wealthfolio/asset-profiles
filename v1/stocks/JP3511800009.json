@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG003GVBZ70",
+    "figi": "BBG003GVBZF1",
+    "isin": "JP3511800009"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "JP3511800009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CBR.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8331.T"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CBR.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CBR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CBR.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHIBA BK LTD",
+  "primary_symbol": "CBR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Chiba Bank, Ltd., together with its subsidiaries, provides banking products and services in Japan and internationally. It offers various deposit products; and various loans and bills discounting products. The company also engages in securities, leasing, credit card, and credit guarantee business; management and collection of claims; and outsourcing of operational business. In addition, it rents and maintains office buildings and welfare facilities; purchases and sells supplies and consumer goods; and develops computer systems and commissioned computation tasks. Further, the company provides housing-loan guarantees and fee collection services; consulting services for portfolio investments of client financial assets; information and survey services; and accounting and administration, and temporary staff services. Additionally, it engages in the investigation and research of advanced financial technologies; and planning and development of financial services. The company serves individuals and SMEs. As of March 31, 2020, it operated approximately 183 offices, including 159 branches, 21 sub-branches, and 3 virtual branches; 49,371 off-branch ATM locations; 3 money exchange counters; 3 branches in New York, Hong Kong, and London; and 3 representative offices in Shanghai, Singapore, and Bangkok. The Chiba Bank, Ltd. was founded in 1943 and is headquartered in Chiba, Japan.",
+  "website": "http://www.chibabank.co.jp"
+}

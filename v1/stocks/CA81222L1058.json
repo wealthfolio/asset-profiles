@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DNYQL6",
+    "figi": "BBG000DNYVX2",
+    "isin": "CA81222L1058"
+  },
+  "isin": "CA81222L1058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2CC2.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2CC2.F"
+    }
+  ],
+  "name": "SEARCHLIGHT RES INC.",
+  "primary_symbol": "2CC2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials"
+}

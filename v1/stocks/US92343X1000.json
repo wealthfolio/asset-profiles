@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BCBYT2",
+    "cusip": "92343X100",
+    "figi": "BBG000BCC925",
+    "isin": "US92343X1000"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US92343X1000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VRNT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VTY.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VTY.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VTY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VTY.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VTY.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "VTY.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VTY.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Verint Systems Inc.",
+  "primary_symbol": "VRNT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Verint Systems Inc. provides customer engagement solutions worldwide. It offers various applications for use in Forecasting and Scheduling, which understands the work needed to meet and exceed customer expectations; Quality and Compliance that uses automation and analytics for customer interactions for attended and self-service channels; Interaction Insights, which extracts insights from structured and unstructured customer interactions and activities; Real-Time Work that supports in-the-moment workforce activities; Self-Service, which connects customers and employees with information, resources, and support; Case Management that helps employees to improve efficiency, time to resolution, compliance, and customer satisfaction; and Knowledge Management, which help agents to deliver stellar service with tools. The company also provides Digital Experience that monitors customer-initiated feedback via web and mobile channels; Enterprise Experience, which captures experience data across various channels and unify feedback; Interaction Experience that uses voice surveys and contact center interaction to understand and improve the effectiveness of people, products, and processes; and Predictive Experience, which listens and acts on customer and employee experiences. In addition, it offers engagement data management applications for data management, enrichment, and compliance solutions, as well as cloud platform services. The company was incorporated in 1994 and is headquartered in Melville, New York.",
+  "website": "http://www.verint.com"
+}

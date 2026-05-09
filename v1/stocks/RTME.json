@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTME"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "RTCORE Inc",
+  "primary_symbol": "RTME",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "RTCORE Inc provides software solutions. It engages in the development of Real Time Core Processing System, a cloud-native software to displace the monolithic systems plaguing industries worldwide. The company was formerly known as iSocialy, Inc. and changed its name to RTCORE Inc in September 2020. RTCORE Inc is headquartered in Charlotte, North Carolina.",
+  "website": "http://www.realtimecore.com"
+}

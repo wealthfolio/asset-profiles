@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0083CQ815",
+    "figi": "BBG0083CQ879",
+    "isin": "JE00BN574F90"
+  },
+  "industry_group": "Transportation",
+  "isin": "JE00BN574F90",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WI2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WI2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIZZ.BD"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WI2.DU"
+    }
+  ],
+  "name": "WIZZ AIR HLDGS  LS -,0001",
+  "primary_symbol": "WI2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Wizz Air Holdings Plc is a low-cost airline operating primarily in Central and Eastern Europe. The airline focuses on providing affordable air travel to a wide range of destinations. Wizz Air is headquartered in Geneva, Switzerland."
+}

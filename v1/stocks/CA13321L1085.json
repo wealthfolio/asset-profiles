@@ -1,0 +1,88 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000DSZTN6",
+    "figi": "BBG000DSZWZ6",
+    "isin": "CA13321L1085"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA13321L1085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCJ"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CJ6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CJ6.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0R35.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C7C1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CCO.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "CCO.JO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CCO.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CJ6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CJ6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CJ6.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Cameco Corporation",
+  "primary_symbol": "CCJ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Cameco Corporation produces and sells uranium. It operates in two segments, Uranium and Fuel Services. The Uranium segment is involved in the exploration for, mining, and milling, as well as purchase and sale of uranium concentrate. The Fuel Services segment engages in the refining, conversion, and fabrication of uranium concentrate, as well as the purchase and sale of conversion services. This segment also produces fuel bundles or reactor components for CANDU reactors. The company sells its uranium and fuel services to nuclear utilities in the Americas, Europe, and Asia. Cameco Corporation was incorporated in 1987 and is headquartered in Saskatoon, Canada.",
+  "website": "http://www.cameco.com"
+}

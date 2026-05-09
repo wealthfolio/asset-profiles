@@ -1,0 +1,38 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00KGHJFR7",
+    "figi": "BBG00KGHJFY9",
+    "isin": "SE0010832204"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "SE0010832204",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6N5.BE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "CIBUS.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CIBUS NORDIC REAL",
+  "primary_symbol": "6N5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "CIBUS NORDIC REAL ESTATE AB (publ) is a Swedish real estate company that invests in grocery-anchored properties in the Nordic region. The company's strategy is to acquire and manage properties with strong tenants and stable cash flows. CIBUS NORDIC REAL ESTATE is headquartered in Stockholm, Sweden.",
+  "website": "http://www.cibusnordic.com"
+}

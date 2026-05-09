@@ -1,0 +1,54 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00L2R13X7",
+    "cusip": "83410S108",
+    "figi": "BBG00L2R1438",
+    "isin": "US83410S1087"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Software & Services",
+  "isin": "US83410S1087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2SU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2SU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOHU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2SU.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "2SU.VI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SOHU.COM LTD.",
+  "primary_symbol": "2SU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sohu.com Limited is an internet company in China, providing online media, search, gaming, and advertising services. The company operates a diverse range of platforms including Sohu News, Sogou search engine, and Changyou gaming. Sohu.com is headquartered in Beijing, China.",
+  "website": "http://www.sohu.com"
+}

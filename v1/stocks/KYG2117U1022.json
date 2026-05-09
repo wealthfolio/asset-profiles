@@ -1,0 +1,36 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG2117U1022"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "KYG2117U1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1432.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7OM.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "China Shengmu Organic Milk Limited",
+  "primary_symbol": "1432.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "China Shengmu Organic Milk Limited, an investment holding company, produces and distributes raw milk and dairy products in the People's Republic of China and internationally. The company was founded in 2009 and is headquartered in Bayannur, the People's Republic of China.",
+  "website": "http://www.youjimilk.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00G599QD8",
+    "figi": "BBG00G599QL9",
+    "isin": "CA86816U1066"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA86816U1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G0D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUPGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G0D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G0D.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SGI.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SGI.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SGI.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Superior Gold Inc.",
+  "primary_symbol": "G0D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Superior Gold Inc. engages in the acquisition, exploration, development and operation of gold resource properties. Its principal asset is the Plutonic gold mine that is located approximately 800km northeast of Perth, Western Australia. The company was formerly known as 2525908 Ontario Inc. and changed its name to Superior Gold Inc. in December 2016. Supeirior Gold Inc. was incorporated in 2016 and is based in Toronto, Canada.",
+  "website": "http://www.superior-gold.com"
+}

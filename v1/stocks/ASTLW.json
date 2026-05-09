@@ -1,0 +1,25 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASTLW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Algoma Steel Group Inc. Warrant",
+  "primary_symbol": "ASTLW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Algoma Steel Group Inc. Warrant gives the holder the right to purchase a share of the company's common stock at a specified price. Warrants are often issued as part of a financing transaction. The warrants are linked to Algoma Steel Group Inc."
+}

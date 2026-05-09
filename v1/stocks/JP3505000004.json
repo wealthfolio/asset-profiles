@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1QG36",
+    "figi": "BBG000C1QLJ8",
+    "isin": "JP3505000004"
+  },
+  "industry_group": "Real Estate",
+  "isin": "JP3505000004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DWH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DWH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DWH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DWH.SG"
+    }
+  ],
+  "name": "DAIWA HOUSE IND.",
+  "primary_symbol": "DWH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "DAIWA HOUSE IND. is a Japanese company engaged in the housing and construction industry. It provides a wide range of services, including custom-built homes, rental housing, commercial facilities, and environmental solutions. The company is headquartered in Osaka, Japan."
+}

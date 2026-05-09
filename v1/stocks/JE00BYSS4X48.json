@@ -1,0 +1,58 @@
+{
+  "country": "Jersey",
+  "country_code": "JE",
+  "identifiers": {
+    "composite_figi": "BBG00B5YGRL5",
+    "figi": "BBG00B5YGRS8",
+    "isin": "JE00BYSS4X48"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "JE00BYSS4X48",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "038.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "038.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVCR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "038.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "038.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "038.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NOVOCURE LTD",
+  "primary_symbol": "038.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Novocure Ltd. is a global oncology company pioneering a novel therapy called Tumor Treating Fields (TTFields) for solid tumors. TTFields therapy uses electric fields to disrupt cancer cell division. The company is headquartered in St. Helier, Jersey.",
+  "website": "http://www.novocure.com"
+}

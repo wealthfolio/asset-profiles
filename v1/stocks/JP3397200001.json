@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BWG099",
+    "figi": "BBG000BWG2Q6",
+    "isin": "JP3397200001"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "JP3397200001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUK.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SUK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SUK.SG"
+    }
+  ],
+  "name": "SUZUKI MOTOR",
+  "primary_symbol": "SUK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Suzuki Motor Corporation manufactures and markets automobiles, motorcycles, all-terrain vehicles (ATVs), and outboard motors. The company's automotive products range from mini vehicles to compact cars, while its motorcycles include scooters and sport bikes. Suzuki Motor Corporation is headquartered in Hamamatsu, Japan."
+}

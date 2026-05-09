@@ -1,0 +1,68 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000BLH993",
+    "figi": "BBG000BLHDX7",
+    "isin": "FR0000051807"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0000051807",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCF.MU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "RCF.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RCF.DU"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "RCF.NS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RCF.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RFC.V"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TEP.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TELEPERFORMANCE INH.EO2,5",
+  "primary_symbol": "RCF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Teleperformance SE is an omnichannel company connecting the biggest brands around the world with their customers by delivering solutions and technology innovation for simplified, efficient and high-value interactions; the company is headquartered in Paris, France.",
+  "website": "http://www.rcfltd.com"
+}

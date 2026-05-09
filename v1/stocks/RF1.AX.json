@@ -1,0 +1,24 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RF1.AX"
+    }
+  ],
+  "name": "Regal Investment Fund",
+  "primary_symbol": "RF1.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Regal Investment Fund provides access to a selection of alternative investment strategies which seeks to produce attractive risk adjusted returns over a period of more than five years with limited correlation to equity markets."
+}

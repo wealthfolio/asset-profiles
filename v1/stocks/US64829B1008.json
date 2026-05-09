@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG007QLJCX6",
+    "cusip": "64829B100",
+    "figi": "BBG007QLJD37",
+    "isin": "US64829B1008"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US64829B1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2NR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2NR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NEWR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K79.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2NR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2NR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2NR.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NEWR.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NEW RELIC INC.  DL-,001",
+  "primary_symbol": "2NR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "New Relic, Inc. is a software analytics company that provides a cloud-based platform for monitoring the performance of web and mobile applications. The company's platform enables developers and operations teams to identify and resolve performance issues in real-time. New Relic is headquartered in San Francisco, California.",
+  "website": "http://www.newrelic.com"
+}

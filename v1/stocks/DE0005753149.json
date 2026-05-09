@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000DC64T2",
+    "figi": "BBG000DC68P7",
+    "isin": "DE0005753149"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Transportation",
+  "isin": "DE0005753149",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEW.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEW.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FEW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FEW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FEW.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FUNKWERK O.N.",
+  "primary_symbol": "FEW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Funkwerk AG develops, manufactures, and distributes communication, information, and security systems. The company operates in various sectors, including transportation, building security, and industrial communication. Funkwerk is headquartered in Kölleda, Germany.",
+  "website": "http://www.funkwerk.com"
+}

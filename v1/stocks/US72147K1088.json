@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JBCJG2",
+    "cusip": "72147K108",
+    "figi": "BBG000JBDQZ4",
+    "isin": "US72147K1088"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US72147K1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6PP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6PP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6PP.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "PILGRIM'S PRIDE  DL-,01",
+  "primary_symbol": "6PP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Pilgrim's Pride Corporation is a multinational food company that produces, processes, markets, and distributes fresh, frozen, and value-added chicken and pork products to retailers and foodservice operators, headquartered in Greeley, Colorado.",
+  "website": "http://www.pilgrims.com"
+}

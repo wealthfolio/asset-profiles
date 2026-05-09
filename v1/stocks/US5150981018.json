@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BHZ3Q6",
+    "cusip": "515098101",
+    "figi": "BBG000BHZ5C6",
+    "isin": "US5150981018"
+  },
+  "industry_group": "Transportation",
+  "isin": "US5150981018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LDS.SG"
+    }
+  ],
+  "name": "Landstar System Inc. Registered",
+  "primary_symbol": "LDS.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Landstar System, Inc. is a transportation services company that provides integrated transportation management solutions. It operates through a network of independent sales agents and third-party capacity providers. The company is headquartered in Jacksonville, Florida."
+}

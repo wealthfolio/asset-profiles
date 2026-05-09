@@ -1,0 +1,46 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "CA25472W1059"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "CA25472W1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DIS.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DIS.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DIS.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DIS.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DVS TECHNOLOGY AG INH ON",
+  "primary_symbol": "DIS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "DVS Technology AG manufactures and sells machine tools and abrasive agents in Germany. The company was formerly known as Diskus Werke AG and changed its name to DVS Technology AG in August 2019. DVS Technology AG was founded in 1911 and is headquartered in Dietzenbach, Germany.",
+  "website": "http://www.diskus-werke.ag"
+}

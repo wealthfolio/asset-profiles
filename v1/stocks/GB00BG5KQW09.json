@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QVVQ55",
+    "figi": "BBG000QVVSJ6",
+    "isin": "GB00BG5KQW09"
+  },
+  "industry_group": "Energy",
+  "isin": "GB00BG5KQW09",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CFJA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CFJA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CFJA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CFJA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CFJA.DU"
+    }
+  ],
+  "name": "CERES POWER HLDGS  LS-,10",
+  "primary_symbol": "CFJA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Ceres Power Holdings plc is a UK-based company that develops and commercializes fuel cell technology. Their business model revolves around licensing their SteelCell technology to manufacturers for use in power generation and other applications. The company is headquartered in Horsham, UK."
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BMBFL9",
+    "figi": "BBG000BMBJ59",
+    "isin": "DE000A161309"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A161309",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KSW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KSW.HM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KSW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KSW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KSW.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "KST BETEILIGUNGS AG NA",
+  "primary_symbol": "KSW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "KST Beteiligungs AG is a publicly owned investment manager. The firm provides its services to Institutional and private investors. It invests in small and mid-cap stocks in German-speaking countries. It also invest in classic equity investments in the form of convertible or option bonds. It also focuses on long-term investment approach.  KST Beteiligungs AG was founded in October, 1984 and is based in Grafenau, Germany with additional office in Stuttgart, Germany.",
+  "website": "http://www.kst-ag.de"
+}

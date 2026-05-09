@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000QZYG19",
+    "figi": "BBG000QZYHD4",
+    "isin": "DE0005494165"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Software & Services",
+  "isin": "DE0005494165",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EQS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EQS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EQS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EQS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EQS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EQS.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EQS GROUP AG NA O.N.",
+  "primary_symbol": "EQS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "EQS Group AG provides cloud-based corporate compliance solutions, including insider list management, disclosure obligation fulfillment, and whistleblower protection. The company's services help organizations meet regulatory requirements and improve corporate governance. EQS Group AG is headquartered in Munich, Germany.",
+  "website": "http://www.eqs.com"
+}

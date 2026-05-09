@@ -1,0 +1,71 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000STO6"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "AU000000STO6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SSLZY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STOSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STS1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STS1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STS1.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "STO.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "STS1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "STS1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "STS1.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Santos Limited",
+  "primary_symbol": "SSLZY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Santos Limited explores for, develops, produces, transports, and markets hydrocarbons for homes and businesses in Australia and Asia. Its five principal assets are located in the Cooper Basin, Queensland and NSW, Papua New Guinea, Northern Australia and Timor-Leste, and Western Australia. The company produces natural gas, such as liquefied petroleum gas, ethane, methane, coal seam gas, liquefied natural gas, shale gas, and condensate, as well as oil. Its proved plus probable reserves include 933 million barrels of oil equivalent. The company was incorporated in 1954 and is headquartered in Adelaide, Australia.",
+  "website": "http://www.santos.com"
+}

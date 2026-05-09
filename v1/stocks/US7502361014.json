@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BPSHL0",
+    "cusip": "750236101",
+    "figi": "BBG000BPSM75",
+    "isin": "US7502361014"
+  },
+  "industry": "Insurance",
+  "industry_group": "Banks",
+  "isin": "US7502361014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RDN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "RAG.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RAG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RAG.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RDN.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "RADIAN GRP INC.  DL-,001",
+  "primary_symbol": "RAG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Radian Group Inc. provides mortgage insurance and related services in the United States. The company helps lenders manage risk and facilitates access to homeownership. Radian Group is headquartered in Philadelphia, Pennsylvania.",
+  "website": "http://www.radian.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C1L312",
+    "figi": "BBG000C1L5Q0",
+    "isin": "JP3456000003"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Retailing",
+  "isin": "JP3456000003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKM.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8233.T"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TKM.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TKM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TKM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TKM.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TAKASHIMAYA",
+  "primary_symbol": "TKM.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Takashimaya Company, Limited is a Japanese department store chain operating in Japan and internationally. The company retails a variety of products including apparel, accessories, home goods, and food. Its headquarters are located in Osaka, Japan.",
+  "website": "http://www.takashimaya.co.jp"
+}

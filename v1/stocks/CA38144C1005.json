@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA38144C1005"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38144C1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDQMF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M1W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M1W.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "GQC.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M1W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M1W.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Goldquest Mining Corp.",
+  "primary_symbol": "GDQMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Goldquest Mining Corp., together with its subsidiaries, engages in the identification, acquisition, and exploration of mineral properties. It primarily owns a 100% interest in the Romero gold-copper project that comprises two mineral deposits covering an area of 3,997 hectares located to the south of the Central Cordillera of Hispaniola; and the Tireo property, including 13 concessions totalling 20,076 hectares located in the province of San Juan de la Maguana, the Dominican Republic. The company was incorporated in 1989 and is headquartered in Toronto, Canada.",
+  "website": "http://www.goldquestcorp.com"
+}

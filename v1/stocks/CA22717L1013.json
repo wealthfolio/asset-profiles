@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00FVMNGF6",
+    "figi": "BBG00FVMNGL9",
+    "isin": "CA22717L1013"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA22717L1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7CI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRON"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7CI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7CI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7CI.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CRON.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CRONOS GRP INC.",
+  "primary_symbol": "7CI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Cronos Group Inc. is a global cannabinoid company headquartered in Toronto, Canada. They are engaged in the research, development, production, and distribution of cannabis and hemp-derived products. Their brand portfolio includes Spinach, PEACE NATURALS, Lord Jones and Happy Dance.",
+  "website": "http://www.thecronosgroup.com"
+}

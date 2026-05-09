@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GD9JC67",
+    "figi": "BBG00GD9JCC0",
+    "isin": "GB00BDGKMY29"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Banks",
+  "isin": "GB00BDGKMY29",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B3P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOPCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BPCP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B3P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B3P.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BPCR.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BioPharma Credit PLC",
+  "primary_symbol": "B3P.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BioPharma Credit PLC is an investment trust that provides financing to the biopharmaceutical industry. The company invests in debt instruments secured by royalties or other revenue streams from approved pharmaceutical products. BioPharma Credit PLC is based in London, United Kingdom."
+}

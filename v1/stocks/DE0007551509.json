@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BVCVZ8",
+    "figi": "BBG000BVCZK5",
+    "isin": "DE0007551509"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "DE0007551509",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UZU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UZU.HM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "UZU.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UZU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UZU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UZU.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "UZIN UTZ AG O.N.",
+  "primary_symbol": "UZU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Uzin Utz AG is a German manufacturer of products and systems for floor technology. The company develops and produces installation systems for flooring, wood flooring, and ceramic and natural stone coverings. Uzin Utz AG is headquartered in Ulm, Germany.",
+  "website": "http://www.uzin-utz.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000TZ5Y46",
+    "cusip": "192005106",
+    "figi": "BBG000TZ61S1",
+    "isin": "US1920051067"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US1920051067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4QK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4QK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDXS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0I0X.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4QK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4QK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CODEXIS INC.  DL-,01",
+  "primary_symbol": "4QK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Codexis, Inc. is a protein engineering company that develops and sells enzymes and other proteins for use in pharmaceutical, food, and other industries. The company's technology enables the creation of customized enzymes with improved performance characteristics. Codexis is headquartered in Redwood City, California.",
+  "website": "http://www.codexis.com"
+}

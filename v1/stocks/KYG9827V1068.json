@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG9827V1068"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Automobiles & Components",
+  "isin": "KYG9827V1068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XNGIF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1899.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XDH.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Xingda International Holdings Limited",
+  "primary_symbol": "XNGIF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Xingda International Holdings Limited, an investment holding company, manufactures and trades radial tire cords, steel cords, bead wires, and other wires in the People's Republic of China and Thailand. The company's steel cords and bead wires are used in car, light truck, cargo truck, and heavy equipment tires, as well as other rubber products. Xingda International Holdings Limited is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://www.xingda.com.cn"
+}

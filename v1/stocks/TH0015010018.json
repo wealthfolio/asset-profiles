@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "TH0015010018"
+  },
+  "industry_group": "Banks",
+  "isin": "TH0015010018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIPF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIPF.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SIPF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SIPF.SG"
+    }
+  ],
+  "name": "SIAM COMML BK -FGN- BA 10",
+  "primary_symbol": "SIPF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Siam Commercial Bank Public Company Limited provides a range of commercial banking products and services to individuals, small and medium-sized enterprises, and corporate customers in Thailand. The bank operates through a network of branches, automated teller machines, and online channels. Its headquarters are located in Bangkok, Thailand."
+}

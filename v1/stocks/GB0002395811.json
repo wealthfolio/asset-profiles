@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GTZ2Y8",
+    "isin": "GB0002395811"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GB0002395811",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0002395811.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0002395811.SW"
+    }
+  ],
+  "name": "SCHRODERS PLC-NON VOTING",
+  "primary_symbol": "GB0002395811.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Schroders PLC is a global asset management company offering a range of investment solutions to institutions, intermediaries, and individuals. The company manages investments across a variety of asset classes, including equities, fixed income, and real estate. Schroders is headquartered in London, United Kingdom."
+}

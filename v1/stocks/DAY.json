@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAY"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Dayforce Inc. Common Stock",
+  "primary_symbol": "DAY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Dayforce Inc. (formerly Ceridian HCM Holding Inc.) provides human capital management (HCM) software and services. Their Dayforce platform is a cloud-based solution that integrates various HR functions such as payroll, benefits, workforce management, and talent management. Dayforce is headquartered in Minneapolis, Minnesota."
+}

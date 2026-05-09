@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000Q08DN8",
+    "cusip": "253868103",
+    "figi": "BBG000Q08GG9",
+    "isin": "US2538681030"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US2538681030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FQI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FQI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FQI.SG"
+    }
+  ],
+  "name": "DIGITAL REALTY TR. DL-,01",
+  "primary_symbol": "FQI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Digital Realty Trust, Inc. is a real estate investment trust (REIT) that owns, acquires, develops, and manages data centers. The company's data centers are used by businesses to house their servers and other IT infrastructure. Digital Realty Trust is headquartered in Austin, Texas."
+}

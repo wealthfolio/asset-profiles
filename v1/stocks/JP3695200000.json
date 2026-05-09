@@ -1,0 +1,68 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BXBYZ9",
+    "figi": "BBG000BXC117",
+    "isin": "JP3695200000"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "JP3695200000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGKIF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "5333.T"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NGI.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NGI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NGI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NGI.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NGK INSULATORS",
+  "primary_symbol": "NGI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NGK Insulators, Ltd. is a Japanese ceramics company that manufactures and sells insulators, surge arresters, fine ceramics, and other products. Their products are used in a variety of industries, including electric power, automotive, and electronics. The company is headquartered in Nagoya, Japan.",
+  "website": "http://www.ngk.co.jp"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00NGCCQY7",
+    "figi": "BBG00NGCCR48",
+    "isin": "CA21250C1068"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "CA21250C1068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ZB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CTSDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0ZB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA21250C1068.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CTS.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CONVERGE TECHNOLOGY SOL.",
+  "primary_symbol": "0ZB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Converge Technology Solutions Corp. is a software-enabled IT & Cloud Solutions provider focused on delivering industry-leading solutions and services. They deliver advanced analytics, cloud, cybersecurity, and managed services offerings to clients across various industries. Converge Technology Solutions is headquartered in Toronto, Ontario, Canada.",
+  "website": "http://www.convergetp.com"
+}

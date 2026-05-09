@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00HVT9353",
+    "cusip": "09215C105",
+    "figi": "BBG00HVT93C5",
+    "isin": "US09215C1053"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US09215C1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BKF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BKF.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "BLACK KNIGHT INC.DL-,0001",
+  "primary_symbol": "BKF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Black Knight Inc. is a provider of integrated technology, data and analytics to the mortgage and real estate industries. The company offers software and services across the loan lifecycle, including origination, servicing and default. Black Knight is headquartered in Jacksonville, Florida.",
+  "website": "http://www.blackknightinc.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "composite_figi": "BBG000QPMH21",
+    "figi": "BBG000QPMJX3",
+    "isin": "CNE100000437"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "CNE100000437",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USR.MU"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2727.TW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "USR.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SHANGHAI ELECT.GRP H YC 1",
+  "primary_symbol": "USR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Wowprime Corp. provides catering services in Taiwan and internationally. The company offers steak dishes, Japanese pot dishes, teppanyaki, Japanese dishes, barbecue dishes, Japanese pork chops, vegetable dishes, fried steak, etc. It operates approximately 20 brands; and 400 restaurants in the United States. The company was founded in 1993 and is based in Taichung, Taiwan.",
+  "website": "http://www.wowprime.com"
+}

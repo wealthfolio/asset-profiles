@@ -1,0 +1,56 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "isin": "FI0009013429"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "FI0009013429",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MGH.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C1C.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C1C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C1C.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "CGCBV.HE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009013429.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CARGOTEC OYJ CARGOTEC ORD SHS",
+  "primary_symbol": "0MGH.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Cargotec Oyj is a Finnish company that provides cargo handling solutions and services. It has three core business areas: Kalmar (port automation), Hiab (on-road load handling), and MacGregor (marine cargo handling). Cargotec is headquartered in Helsinki, Finland",
+  "website": "http://www.cargotec.com"
+}

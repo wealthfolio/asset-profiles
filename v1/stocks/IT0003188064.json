@@ -1,0 +1,51 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003188064"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0003188064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NBX.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0I6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0I6.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "IF.MI"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IFM.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BANCA IFIS SPA BANCA IFIS ORD S",
+  "primary_symbol": "0NBX.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banca IFIS SpA is an Italian bank that specializes in financial services for small and medium-sized enterprises (SMEs). It offers factoring, leasing, and other financial solutions. The company is headquartered in Venice, Italy.",
+  "website": "http://www.bancaifis.it"
+}

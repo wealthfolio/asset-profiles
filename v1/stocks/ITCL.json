@@ -1,0 +1,26 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITCL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Banco Itau Chile American Depositary Shares (each representing 1500 shares of Common Stock)",
+  "primary_symbol": "ITCL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banco Itau Chile is a Chilean bank that provides a range of financial products and services to individuals and businesses. It offers banking services like deposit accounts, loans, credit cards, and investment products. The bank is headquartered in Santiago, Chile."
+}

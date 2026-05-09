@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG002G0RHB8",
+    "figi": "BBG002G0RHJ0",
+    "isin": "CA38045Y1025"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA38045Y1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGD.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GLGDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GGD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GGD.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "GGD.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GoGold Resources Inc.",
+  "primary_symbol": "GGD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "GoGold Resources Inc. engages in the exploration, development, and production of gold and silver primarily in Mexico. The company holds an interest in the Parral Tailings project, which covers an area of 141 hectares located in the state of Chihuahua, Mexico. It also holds an option to acquire 100% concessions of the Los Ricos project, which covers 42 concessions with an area of approximately 22,000 hectares situated in the Jalisco State, Mexico. The company is headquartered in Halifax, Canada.",
+  "website": "http://gogoldresources.com"
+}

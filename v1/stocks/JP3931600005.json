@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BMQSR9",
+    "figi": "BBG000BMQWZ1",
+    "isin": "JP3931600005"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3931600005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YKH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YKH.SG"
+    }
+  ],
+  "name": "YAKULT HONSHA",
+  "primary_symbol": "YKH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Yakult Honsha Co., Ltd. manufactures and sells fermented milk drinks, pharmaceuticals, and cosmetics. The company is best known for its probiotic drink, Yakult, which is sold worldwide. Yakult Honsha is headquartered in Tokyo, Japan."
+}

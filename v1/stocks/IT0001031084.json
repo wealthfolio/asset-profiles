@@ -1,0 +1,63 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000F2R712",
+    "figi": "BBG000F2SC29",
+    "isin": "IT0001031084"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0001031084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B7A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B7A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B7A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B7A.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BGN.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "BGN.VI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0001031084.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BANCA GENERALI  B  EO 1",
+  "primary_symbol": "B7A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banca Generali S.p.A. distributes financial products and services for affluent and private customers through financial advisors primarily in Italy. It operates through Wealth Management CGU, Private Banking CGU, and Corporate Center CGU segments. The company offers asset management products, such as portfolio management, investment advisory and mutual fund management, and managed solutions consisting of funds/SICAVs and wrappers; banking products and services; insurance products; and trade finance services. It operates 216 bank branches and financial advisor offices. The company was founded in 1997 and is headquartered in Trieste, Italy. Banca Generali S.p.A. is a subsidiary of Assicurazioni Generali S.p.A.",
+  "website": "http://www.bancagenerali.com"
+}

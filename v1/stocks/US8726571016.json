@@ -1,0 +1,42 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "872657101",
+    "isin": "US8726571016"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US8726571016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPG.CR"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TPG.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TPG.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TELARES DE PALO GRANDE, C.A.",
+  "primary_symbol": "TPG.CR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "TPG Telecom Limited provides telecommunications services. It owns and operates fixed and mobile network infrastructure, including fixed voice and data network with approximately 27,000 kilometers of metropolitan and inter-capital fiber networks; international subsea cable systems connecting Australia to principal hubs in North America and Asia; and mobile network. The company provides its fixed and mobile products under the Vodafone, TPG, iiNet, Internode, Lebara, and AAPT brands. The company, formerly known as Vodafone Hutchison Australia Limited, is based in North Sydney, Australia.",
+  "website": "http://www.tpgtelecom.com.au"
+}

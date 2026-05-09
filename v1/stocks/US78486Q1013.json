@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GMK1P1",
+    "cusip": "78486Q101",
+    "figi": "BBG000GMK5M5",
+    "isin": "US78486Q1013"
+  },
+  "industry_group": "Banks",
+  "isin": "US78486Q1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SV4.MU"
+    }
+  ],
+  "name": "SVB FINL GROUP  DL-,001",
+  "primary_symbol": "SV4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials"
+}

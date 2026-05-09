@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00V7QXJ71",
+    "figi": "BBG00V7QXJF2",
+    "isin": "GB0009896605"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "GB0009896605",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "23Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "23Z.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "23Z.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "23Z.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ZTF.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ZOTEFOAMS PLC  LS-,05",
+  "primary_symbol": "23Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Zotefoams plc is a manufacturer of cellular materials using a unique three-stage manufacturing process. They specialize in producing lightweight, high-performance foams used in various applications, including aerospace, automotive, and sports equipment. The company is headquartered in Croydon, United Kingdom.",
+  "website": "http://www.zotefoams.com"
+}

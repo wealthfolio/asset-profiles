@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "71948P100",
+    "isin": "US71948P1003"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US71948P1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PHUN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2RJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2RJ.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Phunware, Inc.",
+  "primary_symbol": "PHUN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Phunware, Inc., together with its subsidiaries, provides integrated software platform that equips companies with the products, solutions, and services to engage, manage, and monetize their mobile application portfolios worldwide. Its products and services include cloud-based mobile software that licenses in software development kits (SDKs) form utilized inside mobile applications, such as analytics that provides data related to application use and engagement; content management that allows application admins to create and manage app content in a cloud-based portal; alerts, notifications, and messaging; marketing automation that enables location-triggered messages and workflow; advertising; and location-based services that include mapping, navigation, wayfinding, workflow, asset management, and policy enforcement. The company also engages the integration of its SDK licenses into existing applications maintained by its customers, as well as custom application development and support services; provision of cloud-based vertical solutions for healthcare, retail, sports, aviation, real estate, hospitality, education, and other applications; and offering application transactions, including re-occurring and one-time transactional media purchases for application discovery, user acquisition and audience building, audience engagement, and audience monetization. Phunware, Inc. was incorporated in 2009 and is headquartered in Austin, Texas.",
+  "website": "http://www.phunware.com"
+}

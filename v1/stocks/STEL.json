@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STEL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Stellar Bancorp Inc. Common Stock",
+  "primary_symbol": "STEL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Stellar Bancorp Inc. operates as the holding company for Stellar Bank, providing commercial banking products and services. These services include deposit accounts, lending solutions, and treasury management. The company is headquartered in Houston, Texas."
+}

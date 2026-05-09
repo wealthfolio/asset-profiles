@@ -1,0 +1,52 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "578787103",
+    "isin": "US5787871038"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US5787871038",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZDAF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZDAY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7261.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MZA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MZA0.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Mazda Motor Corporation",
+  "primary_symbol": "MZDAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Mazda Motor Corporation manufactures and sells passenger cars and commercial vehicles in Japan, North America, Europe, China, and internationally. Its principal products include four-wheeled vehicles, gasoline reciprocating engines, diesel engines, and automatic and manual transmissions for vehicles. The company was formerly known as Toyo Kogyo Co., Ltd. and changed its name to Mazda Motor Corporation in May 1984. Mazda Motor Corporation was founded in 1920 and is headquartered in Hiroshima, Japan.",
+  "website": "http://www.mazda.com"
+}

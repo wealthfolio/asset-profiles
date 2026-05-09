@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C16Y75",
+    "figi": "BBG000C17158",
+    "isin": "JP3122400009"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3122400009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VAN.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VAN.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "VAN.BR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VAN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VAN.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ADVANTEST CORP.",
+  "primary_symbol": "VAN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Advantest Corporation is a leading manufacturer of automatic test equipment (ATE) for the semiconductor industry and electronic instruments. Their products are used in the design and production of semiconductors. Advantest is headquartered in Tokyo, Japan.",
+  "website": "http://www.vangomining.com"
+}

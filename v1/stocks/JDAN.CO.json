@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "JDAN.CO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Jeudan A/S",
+  "primary_symbol": "JDAN.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Jeudan A/S provides property services in Denmark. The company invests in and operates office, residential, and retail properties. The company also provides a range of property-related consulting and building services, as well as car parking services. Jeudan A/S was founded in 1898 and is based in Copenhagen, Denmark.",
+  "website": "http://www.jeudan.dk"
+}

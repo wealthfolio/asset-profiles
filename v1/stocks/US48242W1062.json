@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000P28YZ6",
+    "cusip": "48242W106",
+    "figi": "BBG000P292S3",
+    "isin": "US48242W1062"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "US48242W1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KBR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JPN.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "K6B.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "K6B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "K6B.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "KBR.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KBR, Inc.",
+  "primary_symbol": "KBR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "KBR, Inc. provides scientific, technology, and engineering solutions to governments and commercial customers worldwide. The company operates through three segments: Government Solutions, Technology Solutions, and Energy Solutions. The Government Solutions segment offers life-cycle support solutions to defense, intelligence, space, aviation, and other programs and missions for military and other government agencies in the United States, the United Kingdom, and Australia. Its services cover research and development, systems engineering, test and evaluation, systems integration and program management, operations support, readiness, and logistics. This segment also offers software and engineering solutions to critical national security missions across space, cyber, intelligence, surveillance, reconnaissance, missile defense, and intelligence domains to the United States government and related defense agencies. The Technology Solutions segment provides proprietary technologies, equipment and catalyst supply, digital solutions, and associated knowledge-based services into a global business for refining, petrochemicals, inorganic, and specialty chemicals, as well as gasification, syngas, ammonia, nitric acid, and fertilizers. The Energy Solutions segment provides life-cycle support solutions across the upstream, midstream, and downstream markets, including advisory services focused on energy transition and net zero carbon objective; technology led industrial solutions focused on advanced remote operations capabilities to improve throughput, reliability, and environmental sustainability; digitally-enabled professional services, such as complex program management, engineering and design, and advanced project integration; and other construction services. KBR, Inc. is headquartered in Houston, Texas.",
+  "website": "http://www.kbr.com"
+}

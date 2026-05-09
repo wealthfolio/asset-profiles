@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BCHG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Grayscale Bitcoin Cash Trust",
+  "primary_symbol": "BCHG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Grayscale Bitcoin Cash Trust is a digital currency investment product that enables investors to gain exposure to Bitcoin Cash (BCH) in the form of a security without directly owning the cryptocurrency. The trust's shares are designed to track the price of BCH, less fees and expenses. Grayscale Investments manages the trust."
+}

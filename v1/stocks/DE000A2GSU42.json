@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00VXBDS77",
+    "figi": "BBG00VXBDSF8",
+    "isin": "DE000A2GSU42"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A2GSU42",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKHT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKHT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BKHT.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BKHT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BKHT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2GSU42.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BROCKHAUS CAPITAL MGMT ON",
+  "primary_symbol": "BKHT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Brockhaus Capital Management AG is a German private equity firm that invests in technology companies. The company focuses on acquiring and developing businesses in the IT, software, and internet sectors. Brockhaus Capital Management is headquartered in Frankfurt, Germany.",
+  "website": "http://www.bcm-ag.com"
+}

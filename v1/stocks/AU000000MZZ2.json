@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000MZZ2"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000MZZ2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZZMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AU000000MZZ2.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MA3.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MZZ.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Matador Mining Limited",
+  "primary_symbol": "MZZMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Matador Mining Limited engages in the mining and mineral exploration activities. The company primarily explores for gold deposits. It holds a 100% interest in the Cape Ray gold project located in Newfoundland, Canada. The company was incorporated in 2016 and is based in West Perth, Australia.",
+  "website": "http://www.matadormining.com.au"
+}

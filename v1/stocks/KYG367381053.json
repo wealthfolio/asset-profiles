@@ -1,0 +1,58 @@
+{
+  "country": "Cayman Islands",
+  "country_code": "KY",
+  "identifiers": {
+    "composite_figi": "BBG000P7HY67",
+    "figi": "BBG000P7J1M9",
+    "isin": "KYG367381053"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "KYG367381053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FDM.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FDP"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FDM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FDM.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "FDM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FDM.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FRESH DEL MONTE PROD.",
+  "primary_symbol": "FDM.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Fresh Del Monte Produce Inc. is a global producer, marketer, and distributor of fresh and fresh-cut fruit and vegetables, as well as prepared food products. They source products from company-owned farms and independent growers and sell them to retailers, wholesalers, and foodservice operators. The company is headquartered in Coral Gables, Florida.",
+  "website": "http://www.freshdelmonte.com"
+}

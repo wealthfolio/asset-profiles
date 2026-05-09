@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CB8Q50",
+    "cusip": "913903100",
+    "figi": "BBG000CB9T62",
+    "isin": "US9139031002"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US9139031002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UHS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UHS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UHS.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "U1HS34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UHS.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "UHS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UHS.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Universal Health Services, Inc.",
+  "primary_symbol": "UHS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Universal Health Services, Inc., through its subsidiaries, owns and operates acute care hospitals, and outpatient and behavioral health care facilities. The company operates through Acute Care Hospital Services and Behavioral Health Care Services segments. Its hospitals offer general and specialty surgery, internal medicine, obstetrics, emergency room care, radiology, oncology, diagnostic care, coronary care, pediatric services, pharmacy services, and/or behavioral health services. As of February 25, 2021, it owned and/or operated 360 inpatient facilities, and 39 outpatient and other facilities located in 38 states; Washington, D.C.; the United Kingdom; and Puerto Rico. The company also provides commercial health insurance services. Universal Health Services, Inc. founded in 1978 and is headquartered in King of Prussia, Pennsylvania.",
+  "website": "http://www.uhsinc.com"
+}

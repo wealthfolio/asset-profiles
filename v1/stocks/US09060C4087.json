@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BHHR29",
+    "cusip": "09060C408",
+    "isin": "US09060C4087"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US09060C4087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US09060C4087.SG"
+    }
+  ],
+  "name": "BIO-KEY INTERNATIONAL INC",
+  "primary_symbol": "US09060C4087.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BIO-KEY INTERNATIONAL INC develops and markets biometric identification and authentication solutions. Headquartered in Wall, New Jersey, the company offers fingerprint, facial recognition, and palm vein scanning technologies. Their solutions are used for secure access control, identity management, and fraud prevention."
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000HDD757",
+    "cusip": "811054402",
+    "figi": "BBG000HDDCN6",
+    "isin": "US8110544025"
+  },
+  "industry": "Media",
+  "industry_group": "Media & Entertainment",
+  "isin": "US8110544025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQ6B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQ6B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SSP"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SQ6B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SQ6B.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SSP.BK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SCRIPPS CO. A NEW  DL-,01",
+  "primary_symbol": "SQ6B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "The E.W. Scripps Company is a media company that focuses on broadcast television and radio stations. The company also owns several news websites and digital media outlets. Scripps is headquartered in Cincinnati, Ohio.",
+  "website": "http://www.scripps.com"
+}

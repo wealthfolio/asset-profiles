@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA30222R1091"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "CA30222R1091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXROF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1O2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA30222R1091.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EXRO.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Exro Technologies Inc.",
+  "primary_symbol": "EXROF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Exro Technologies Inc. focuses on developing and commercializing Dynamic Power Management (DPM) technology and system architecture for rotating electrical machines. The company's DPM technology is a control system that integrates wiring of the rotating machine coils into the power electronics. Exro Technologies Inc. is headquartered in Calgary, Canada.",
+  "website": "http://www.exro.com"
+}

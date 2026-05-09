@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA04016A1012"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA04016A1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8U.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A8U.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARNGF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "A8U.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A8U.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A8U.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "AR.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Argonaut Gold Inc.",
+  "primary_symbol": "A8U.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Argonaut Gold Inc. engages in the mining, mine development, and mineral exploration activities at gold-bearing mineral properties in North America. The company primarily explores for gold and silver deposits. Its primary assets are the El Castillo mine and San Agustin mine, which together form the El Castillo Complex located in Durango, Mexico; the La Colorada mine located in Sonora, Mexico; the Florida Canyon mine in Nevada, the United States; the Magino project located Ontario, Canada; and the Cerro del Gallo project in Guanajuato, Mexico. The company also holds various other exploration stage projects located in North America. The company is headquartered in Reno, Nevada.",
+  "website": "http://www.argonautgold.com"
+}

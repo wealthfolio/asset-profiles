@@ -1,0 +1,32 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "cusip": "543518104",
+    "isin": "US5435181046"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US5435181046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LOOP"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Loop Industries, Inc.",
+  "primary_symbol": "LOOP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Loop Industries, Inc. focuses on depolymerizing waste polyethylene terephthalate (PET) plastics and polyester fibers into base building blocks. It polymerized monomers into virgin-quality PET plastic for use in food-grade plastic packaging, such as water and carbonated soft drinks bottles, and containers for food and other consumer products; and polyester fibers comprising carpets, clothing, and other polyester textile to consumer goods companies. The company is based in Terrebonne, Canada.",
+  "website": "http://www.loopindustries.com"
+}

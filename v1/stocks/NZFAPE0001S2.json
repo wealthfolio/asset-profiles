@@ -1,0 +1,63 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000CPR0R1",
+    "figi": "BBG000CPR3V0",
+    "isin": "NZFAPE0001S2"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "NZFAPE0001S2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FPLB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FPLB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FSPKF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FPH.AX"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "FPH.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FPLB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FPLB.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "FISHER + PAYKEL HEALTH.",
+  "primary_symbol": "FPLB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fisher & Paykel Healthcare Corporation Limited designs, manufactures, and markets medical device products and systems for use in respiratory care, acute care, and the treatment of obstructive sleep apnea. The company's products are used in hospitals, homes, and other healthcare facilities. Fisher & Paykel Healthcare is headquartered in Auckland, New Zealand.",
+  "website": "http://www.fphcare.com"
+}

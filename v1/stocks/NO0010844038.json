@@ -1,0 +1,68 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00NWBVYZ2",
+    "figi": "BBG00NWBVZ52",
+    "isin": "NO0010844038"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "NO0010844038",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AD5B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AD5B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADEVF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AD5B.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AD5B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AD5B.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ADE.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ADEO.OL"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ADEVINTA ASA",
+  "primary_symbol": "AD5B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Adevinta ASA operates as an online classifieds company in France, Spain, rest of Europe, and internationally. It owns and operates approximately 30 online classified marketplaces in generalist, real estate, cars, consumer goods, jobs, and other categories across a range of Websites and mobile applications in 16 countries. The company was formerly known as Marketplaces International ASA and changed its name to Adevinta ASA in February 2019. The company was incorporated in 2018 and is based in Oslo, Norway. Adevinta ASA is a subsidiary of Schibsted ASA.",
+  "website": "http://www.adevinta.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000R3J8W0",
+    "figi": "BBG000R3JCC3",
+    "isin": "JP3407200009"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "JP3407200009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S5M.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "5726.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S5M.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "OSAKA TITANIUM TECHNO.CO.",
+  "primary_symbol": "S5M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "OSAKA TITANIUM TECHNOLOGIES CO., LTD. manufactures and sells titanium and high-grade silicon products. The company's products are used in aerospace, chemical, energy, and electronics applications. Osaka Titanium Technologies is headquartered in Amagasaki, Japan.",
+  "website": "http://www.osaka-ti.co.jp"
+}

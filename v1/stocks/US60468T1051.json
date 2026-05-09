@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005Y43FV1",
+    "cusip": "60468T105",
+    "figi": "BBG005Y43G12",
+    "isin": "US60468T1051"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US60468T1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "26M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "26M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRTX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "26M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "26M.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MIRATI THERAPEUTICS DL-01",
+  "primary_symbol": "26M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Mirati Therapeutics, Inc. is a biotechnology company focused on developing therapies for cancer by targeting genetic and epigenetic drivers of tumor growth. The company is headquartered in San Diego, California. Their focus is on precision oncology.",
+  "website": "http://www.mirati.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA50117M1068"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA50117M1068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTGDF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA50117M1068.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "KTO.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "K2 Gold Corporation",
+  "primary_symbol": "KTGDF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "K2 Gold Corporation, a junior mineral exploration company, acquires, explores for, and evaluates gold exploration projects in Canada and the United States. The company primarily explores for gold and silver deposits. It has an option to acquire a 100% interest in its flagship Mojave Gold project that covers an area of approximately 5,830 hectares located in California. The company was formerly known as West Melville Metals Inc. and changed its name to K2 Gold Corporation in November 2016. K2 Gold Corporation was incorporated in 2011 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.k2gold.com"
+}

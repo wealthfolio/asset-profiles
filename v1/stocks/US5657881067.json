@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00JC9T3N2",
+    "cusip": "565788106",
+    "figi": "BBG00JC9T3V3",
+    "isin": "US5657881067"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US5657881067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M44.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MARA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M44.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M44.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MARA.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5657881067.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MARATHON DIGITAL HOLDINGS",
+  "primary_symbol": "M44.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Marathon Digital Holdings, Inc. is a digital asset technology company that focuses on mining cryptocurrencies, with a focus on the blockchain ecosystem and the generation of digital assets. They operate large-scale cryptocurrency mining facilities. The company is based in Las Vegas, Nevada.",
+  "website": "http://www.marathondh.com"
+}

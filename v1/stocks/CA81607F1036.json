@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA81607F1036"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA81607F1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWISF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GDT.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SWIS.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GlobeX Data Ltd.",
+  "primary_symbol": "SWISF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Globex Data Ltd. operates as a distributor and license holder of a suite of secure cloud-based storage, document management, encrypted emails, and secure communication tools. It offers DigitalSafe, an encrypted password manager, secure data backup, secure file-share, and secure email; PrivaTalk, a private and secure communications application offering secure chat with self destruct timer, secure voice and video calling and conferencing, secure email, and encrypted file transfer through any mobile device, tablet, or desktop; Sekur, a product for key personnel in large organizations and high net worth individuals geared for users sensitive to privacy and security; and Custodia. The company primarily sells its products through resellers and other distribution channels, such as managed service providers, Internet service providers, and telecommunication companies. It serves consumers, businesses, and governments worldwide. GlobeX Data Ltd. was founded in 2017 and is headquartered in Toronto, Canada.",
+  "website": "http://www.globexdatagroup.com"
+}

@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000QWN8C4",
+    "figi": "BBG000QWNBD6",
+    "isin": "AU000000JHG6"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "AU000000JHG6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HDJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JHG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HDJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HDJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HDJ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HDJA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HDJA.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "JHG.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "JANUS HENDERSON GRP CDIS",
+  "primary_symbol": "HDJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Janus Henderson Group plc is an asset management holding entity. Through its subsidiaries, the firm provides services to institutional, retail clients, and high net worth clients. It manages separate client-focused equity and fixed income portfolios. The firm also manages equity, fixed income, and balanced mutual funds for its clients. It invests in public equity and fixed income markets, as well as invests in real estate and private equity. Janus Henderson Group plc was founded in 1934 and is based in London, United Kingdom with additional offices in Jersey, United Kingdom and Sydney, Australia.",
+  "website": "http://www.janushenderson.com"
+}

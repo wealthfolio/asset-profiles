@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KDY4B0",
+    "figi": "BBG000KDY8V9",
+    "isin": "USN070592100"
+  },
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "USN070592100",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASMF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASMF.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ASMF.DU"
+    }
+  ],
+  "name": "ASML HOLDING NY  EO-,09",
+  "primary_symbol": "ASMF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ASML Holding N.V. is a Dutch multinational corporation that manufactures photolithography systems used to produce integrated circuits. These systems are used by semiconductor manufacturers to create microchips. ASML is headquartered in Veldhoven, Netherlands."
+}

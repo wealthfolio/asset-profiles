@@ -1,0 +1,66 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005239360"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0005239360",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RLS.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRIN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRIN.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRIN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRIN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CRIN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CRIN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "UCG.MI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "UNICREDIT SPA UNICREDIT ORD SHS",
+  "primary_symbol": "0RLS.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "UNICREDIT SPA is an Italian banking group providing a range of financial services to individuals, businesses, and institutions. The bank operates in Italy and other countries in Europe. UNICREDIT SPA is headquartered in Milan, Italy.",
+  "website": "http://www.unicreditgroup.eu"
+}

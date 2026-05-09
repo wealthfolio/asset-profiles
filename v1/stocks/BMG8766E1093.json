@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000TK1XY2",
+    "figi": "BBG000TK1Z40",
+    "isin": "BMG8766E1093"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Transportation",
+  "isin": "BMG8766E1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3T7.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3T7.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TGH.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TGH.BK"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TEXTAINER GROUP HLDGS LTD",
+  "primary_symbol": "3T7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Textainer Group Holdings Limited is one of the world’s largest lessors of intermodal containers, with a fleet of containers owned and managed. The company leases containers to shipping lines and other lessees. Textainer is headquartered in Hamilton, Bermuda.",
+  "website": "http://www.terragen.com.au"
+}

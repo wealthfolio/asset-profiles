@@ -1,0 +1,58 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00YFCRDK2",
+    "figi": "BBG00YFCRDR5",
+    "isin": "NO0010887516"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "NO0010887516",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TE9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TE9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TECFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TECO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010887516.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "TECO.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TECO 2030 ASA",
+  "primary_symbol": "TE9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "TECO 2030 ASA, together with its subsidiaries, operates as an engineering and equipment development company for the maritime industry worldwide. It offers TECO Marine Fuel Cell, a modular hydrogen proton exchange membrane fuel cell system primarily designed for heavy-duty marine applications offering emission free propulsion by using hydrogen as fuel; TECO Future Funnel to avoid dry dock; and TECO Ballast Water Treatment System, which is used to prevent invasive species and health issues. The company was founded in 2019 and is headquartered in Lysaker, Norway.",
+  "website": "http://www.teco2030.no"
+}

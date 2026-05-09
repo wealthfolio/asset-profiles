@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000L78XT8",
+    "cusip": "00808Y307",
+    "figi": "BBG000L7B4Z1",
+    "isin": "US00808Y3071"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US00808Y3071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AEMD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EJU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EJU.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EJU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US00808Y3071.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Aethlon Medical, Inc.",
+  "primary_symbol": "AEMD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Aethlon Medical, Inc., a medical technology company, focuses on developing products to diagnose and treat life and organ threatening diseases in the United States. The company is developing Aethlon Hemopurifier, a clinical-stage immunotherapeutic device that removes exosomes and life-threatening viruses from the human circulatory system. It is also developing TauSome, an exosomal biomarker candidate to diagnose chronic traumatic encephalopathy in living individuals. Aethlon Medical, Inc. has a collaboration with the University of Pittsburgh for studies related to head and neck cancer. The company is based in San Diego, California.",
+  "website": "http://www.aethlonmedical.com"
+}

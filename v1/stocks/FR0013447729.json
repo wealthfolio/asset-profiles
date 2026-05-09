@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00QJ0FK55",
+    "figi": "BBG00QJ0FKG3",
+    "isin": "FR0013447729"
+  },
+  "industry": "Distributors",
+  "industry_group": "Materials",
+  "isin": "FR0013447729",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1VRA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1VRA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1VRA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1VRA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013447729.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "VRLA.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "VRLA.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "VERALLIA SA (PROM.)EO3,38",
+  "primary_symbol": "1VRA.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Verallia SA is a global manufacturer of glass packaging for the food and beverage industry. The company produces glass bottles and jars for a wide range of products including wines, spirits, food, and beverages and is headquartered in Courbevoie, France.",
+  "website": "http://www.verallia.com"
+}

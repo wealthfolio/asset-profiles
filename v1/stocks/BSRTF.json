@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSRTF"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BSR Real Estate Investment Trust",
+  "primary_symbol": "BSRTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "BSR Real Estate Investment Trust is an internally managed, unincorporated, open-ended real estate investment trust established pursuant to a declaration of trust under the laws of the Province of Ontario. The REIT owns a portfolio of multifamily garden-style residential properties located in attractive primary and secondary markets in the Sunbelt region of the United States.",
+  "website": "http://www.bsrreit.com"
+}

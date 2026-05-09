@@ -1,0 +1,58 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00QQ51M84",
+    "figi": "BBG00QQ51MG5",
+    "isin": "IT0005385213"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "IT0005385213",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6NF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6NF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005385213.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NWL.AX"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "NWL.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "NWL.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NEWLAT FOOD S.P.A",
+  "primary_symbol": "6NF.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "NEWLAT FOOD S.P.A is an Italy-based food company that produces and markets a range of food products including milk, dairy products, pasta, bakery products, and baby food. The company operates through various brands and sells its products in Italy and internationally. NEWLAT FOOD is headquartered in Reggio Emilia, Italy.",
+  "website": "http://www.newlat.it"
+}

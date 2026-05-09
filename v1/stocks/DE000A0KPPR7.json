@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "DE000A0KPPR7"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A0KPPR7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTG.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTG.MU"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "NTG.CO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NTG.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NTG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NTG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NTG.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Tortoise Midstream Energy Fund, Inc.",
+  "primary_symbol": "NTG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Tortoise MLP Fund, Inc. is a close ended equity mutual fund launched and managed by Tortoise Capital Advisors L.L.C. It invests in public equity markets. The fund primarily invests in equity securities of MLPs and their affiliates, with an emphasis on natural gas infrastructure Master Limited Partnerships. It employs a fundamental analysis with a bottom up stock picking approach with focus on factors like quantitative, qualitative, and relative value factors to create its portfolio. Tortoise MLP Fund, Inc. was formed on July 27, 2010 is domiciled in United States.",
+  "website": "http://www.tortoiseadvisors.com/ntg.cfm"
+}

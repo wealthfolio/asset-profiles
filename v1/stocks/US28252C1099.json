@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00TDP9RH9",
+    "cusip": "28252C109",
+    "isin": "US28252C1099"
+  },
+  "isin": "US28252C1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US28252C1099.SG"
+    }
+  ],
+  "name": "POLISHED.COM INC",
+  "primary_symbol": "US28252C1099.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

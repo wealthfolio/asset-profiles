@@ -1,0 +1,51 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0003699130"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "BE0003699130",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0EKR.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GI3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GI3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GI3.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "GIMB.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GIMV INVESTERINGSMAATSCHAPPIJ V",
+  "primary_symbol": "0EKR.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "GIMV is a Belgian investment company that provides venture capital and private equity to companies in the Benelux region and surrounding countries. They invest in a variety of sectors including healthcare, life sciences, technology, and sustainable cities. The company is headquartered in Antwerp, Belgium.",
+  "website": "http://www.gimv.com"
+}

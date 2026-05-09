@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000TYXCT9",
+    "cusip": "42226A107",
+    "figi": "BBG006MJJRM6",
+    "isin": "US42226A1079"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US42226A1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HQY"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2HE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2HE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2HE.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HealthEquity, Inc.",
+  "primary_symbol": "HQY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "HealthEquity, Inc. provides technology-enabled services platforms to consumers and employers in the United States. The company offers cloud-based platforms for individuals to make health saving and spending decisions, pay healthcare bills, compare treatment options and prices, receive personalized benefit and clinical information, earn wellness incentives, grow their savings, and make investment choices; and health savings accounts. It also provides mutual fund investment platform; and online-only automated investment advisory services through Advisor, a Web-based tool. In addition, the company offers flexible spending accounts; health reimbursement arrangements; and Consolidated Omnibus Budget Reconciliation Act continuation services, as well as administers pre-tax commuter benefit programs. It serves clients through a direct sales force; benefits brokers and advisors; and a network of health plans, benefits administrators, benefits brokers and consultants, and retirement plan record-keepers. HealthEquity, Inc. was incorporated in 2002 and is headquartered in Draper, Utah.",
+  "website": "http://www.healthequity.com"
+}

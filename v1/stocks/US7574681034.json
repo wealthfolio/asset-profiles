@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "757468103",
+    "isin": "US7574681034"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US7574681034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2RH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2RH.MU"
+    }
+  ],
+  "name": "REDHILL B.S.ADR 10/IL-,01",
+  "primary_symbol": "2RH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "RedHill Biopharma Ltd. is a specialty biopharmaceutical company primarily focused on gastrointestinal diseases. The company develops and commercializes prescription drugs. RedHill Biopharma is headquartered in Tel Aviv, Israel."
+}

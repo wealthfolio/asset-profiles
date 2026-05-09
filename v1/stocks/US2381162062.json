@@ -1,0 +1,54 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00WJT3VD9",
+    "cusip": "238116206",
+    "figi": "BBG00WJT3VL0",
+    "isin": "US2381162062"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US2381162062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTSS"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AQC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AQC.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Datasea Inc.",
+  "primary_symbol": "AQC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Datasea Inc., through its subsidiaries, provides smart security solutions in the People's Republic of China. It develops big data security and smart 3D security platforms, safe campus security systems, scenic area security systems, and public community security systems, as well as epidemic system. The company offers its smart security solutions primarily to schools, tourist or scenic attractions, and public communities through its own sales teams, partner agents, and newly founded operating entities. It also develops and offers education-related technologies to build campus networks, education management systems, education cloud platforms, science education platforms, and other education systems used in schools. The company was formerly known as Rose Rock, Inc. and changed its name to Datasea Inc. in October 2015. Datasea Inc. was incorporated in 2014 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://www.dataseainc.com"
+}

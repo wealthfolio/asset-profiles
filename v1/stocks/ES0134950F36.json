@@ -1,0 +1,46 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "isin": "ES0134950F36"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ES0134950F36",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0K9H.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FFEA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "FAE.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FFEA.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FAES FARMA SA FAES FARMA ORD SH",
+  "primary_symbol": "0K9H.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "FAES FARMA SA is a Spanish pharmaceutical company that develops, manufactures, and markets pharmaceutical products and active pharmaceutical ingredients (APIs). Their product portfolio includes prescription and over-the-counter medications, as well as nutritional supplements. FAES FARMA is headquartered in Leioa, Spain",
+  "website": "http://faesfarma.com"
+}

@@ -1,0 +1,22 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PACHU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Pioneer Acquisition I Corp Units",
+  "primary_symbol": "PACHU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

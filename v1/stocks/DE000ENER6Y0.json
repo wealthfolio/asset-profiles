@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00XMLJX76",
+    "figi": "BBG00XMLJX85",
+    "isin": "DE000ENER6Y0"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Capital Goods",
+  "isin": "DE000ENER6Y0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENR.TI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000ENER6Y0.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ENR.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ENR.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SIEMENS ENERGY",
+  "primary_symbol": "ENR.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Siemens Energy AG is a German energy technology company that provides a wide range of products, solutions, and services for the energy sector. This includes gas and steam turbines, generators, compressors, and related services for power generation. The company is headquartered in Munich, Germany.",
+  "website": "http://www.encounterresources.com.au"
+}

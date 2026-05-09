@@ -1,0 +1,57 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "12637N204",
+    "isin": "US12637N2045"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US12637N2045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMXHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSLLY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CSJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CSJA.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CSL.AX"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CSLN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CSL Limited",
+  "primary_symbol": "CMXHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CSL Limited researches, develops, manufactures, markets, and distributes biopharmaceutical and allied products in Australia, the United States, Germany, the United Kingdom, Switzerland, China, and internationally. The company operates through two segments, CSL Behring and Seqirus. The CSL Behring segment offers plasma therapies for the treatment of immunodeficiency, bleeding disorders, hereditary angioedema, Alpha-1 antitrypsin deficiency, and neurological disorders. This segment also conducts research on plasma and non-plasma therapies; and receives license and royalty from the commercialization of intellectual property. The Seqirus segment manufactures and distributes non-plasma biotherapeutic products; and develops influenza vaccines. CSL Limited was founded in 1916 and is headquartered in Parkville, Australia.",
+  "website": "http://www.csl.com.au"
+}

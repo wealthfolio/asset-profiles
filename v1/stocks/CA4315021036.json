@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG002QBCT69",
+    "figi": "BBG002QBCTF9",
+    "isin": "CA4315021036"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA4315021036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7HIA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7HIA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLRTF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7HIA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA4315021036.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "HEAT.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HILLCREST ENERGY TECH.LTD",
+  "primary_symbol": "7HIA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Hillcrest Energy Technologies Ltd is a clean technology company developing power conversion technologies and control system solutions for next-generation electric machine systems. The company is working to simplify and electrify infrastructure, machines and devices. The company is headquartered in Burnaby, BC, Canada.",
+  "website": "http://www.hillcrestpetroleum.com"
+}

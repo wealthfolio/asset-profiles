@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CBE.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Robertet SA",
+  "primary_symbol": "CBE.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Robertet SA produces perfumes, aromas, and natural products worldwide. Its products primarily include fragrances, organic essential oils, active ingredients, and flavors. The company is headquartered in Grasse, France.",
+  "website": "http://www.robertet.com"
+}

@@ -1,0 +1,36 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "KYG7309C1096"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "KYG7309C1096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6633.TWO"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "6633.KL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Somnics, Inc.",
+  "primary_symbol": "6633.TWO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Somnics, Inc., a medical device company, focuses on developing technologies for the treatment of obstructive sleep apnea (OSA). The company offers iNAP One and iNAP Lite sleep therapy systems, which utilize oral negative pressure technology to treat OSA, a sleep-related breathing disorder. Somnics, Inc. was founded in 2011 and is based in Zhubei, Taiwan.",
+  "website": "http://www.somnics.com"
+}

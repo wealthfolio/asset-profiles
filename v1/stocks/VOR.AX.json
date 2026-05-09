@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VOR.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Vortiv Limited",
+  "primary_symbol": "VOR.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Vortiv Limited, through its subsidiaries, provides cloud and cloud security services in India. The company, through its interest in Transaction Solutions International (India) Private Limited, installs and manages a network of automated teller machines (ATMs) and bill payment systems on behalf of various banks. Vortiv Limited is based in Cottesloe, Australia.",
+  "website": "http://www.vortiv.com"
+}

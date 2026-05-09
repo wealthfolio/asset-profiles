@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00J4X2MM6",
+    "figi": "BBG00J4X2MW5",
+    "isin": "CA94947L1022"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA94947L1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7V.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7V.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA94947L1022.SG"
+    }
+  ],
+  "name": "WELL HEALTH TECHS",
+  "primary_symbol": "W7V.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "WELL Health Technologies Corp. is an omnichannel digital health company whose primary focus is consolidating and modernizing clinical and digital assets within the healthcare sector. The company owns and operates a portfolio of primary healthcare facilities and provides electronic medical records (EMR) software and other digital health solutions. WELL Health Technologies is headquartered in Vancouver, British Columbia, Canada."
+}

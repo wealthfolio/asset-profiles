@@ -1,0 +1,53 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG0074GDK78",
+    "figi": "BBG0074GDKF9",
+    "isin": "IL0011331076"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "IL0011331076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2RW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2RW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RWLK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2RW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2RW.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "REWALK ROBOTICS  IS -,01",
+  "primary_symbol": "2RW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ReWalk Robotics Ltd. develops, manufactures, and markets wearable robotic exoskeletons. These exoskeletons enable individuals with lower limb disabilities, such as spinal cord injuries, to stand and walk again. ReWalk Robotics is headquartered in Marlborough, Massachusetts.",
+  "website": "http://www.rewalk.com"
+}

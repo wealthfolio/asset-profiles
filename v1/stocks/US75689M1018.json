@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000MXH9C1",
+    "cusip": "75689M101",
+    "figi": "BBG000MXJQ31",
+    "isin": "US75689M1018"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US75689M1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRGB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RRN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RRN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RRN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Red Robin Gourmet Burgers, Inc.",
+  "primary_symbol": "RRGB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Red Robin Gourmet Burgers, Inc., together with its subsidiaries, develops, operates, and franchises full-service and casual-dining restaurants. The company's restaurants primarily offer burgers; various appetizers, salads, soups, seafood, and other entrees; and desserts, milkshakes, alcoholic and non-alcoholic specialty drinks, cocktails, wine, and beers. As of March 3, 2021, it operated approximately 540 Red Robin restaurants across the United States and Canada, including locations operating under franchise agreements. The company was founded in 1969 and is based in Greenwood Village, Colorado.",
+  "website": "http://www.redrobin.com"
+}

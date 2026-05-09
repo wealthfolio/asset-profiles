@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000K2RZG8",
+    "cusip": "416515104",
+    "figi": "BBG000K2S3S5",
+    "isin": "US4165151048"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US4165151048",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HFF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HFF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HGH"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "H1IG34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "HFF.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HFF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HFF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HFF.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "HARTFORD FINL SVCS GRP",
+  "primary_symbol": "HFF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Hartford Financial Services Group, Inc. is an American insurance and financial services company. The company provides property and casualty insurance, group benefits, and mutual funds to both individuals and businesses. The Hartford is headquartered in Hartford, Connecticut, USA.",
+  "website": "http://www.thehartford.com"
+}

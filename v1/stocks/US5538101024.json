@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPFFJ1",
+    "cusip": "553810102",
+    "isin": "US5538101024"
+  },
+  "industry_group": "Banks",
+  "isin": "US5538101024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5538101024.SG"
+    }
+  ],
+  "name": "MVB FINANCIAL CORP",
+  "primary_symbol": "US5538101024.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MVB FINANCIAL CORP is a financial holding company that provides community banking services through its subsidiary, MVB Bank. The bank offers a range of deposit accounts, loans, and other financial products to individuals and businesses. MVB Financial Corp. is headquartered in Fairmont, West Virginia."
+}

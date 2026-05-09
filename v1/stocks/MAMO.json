@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAMO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Massimo Group Common Stock",
+  "primary_symbol": "MAMO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Massimo Group is a diversified business management and advisory services company. It offers expertise in real estate, construction, and government contracting. The company is based in Dallas, Texas."
+}

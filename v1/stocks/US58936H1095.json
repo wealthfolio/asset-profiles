@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YLW9JL7",
+    "cusip": "58936H109",
+    "isin": "US58936H1095"
+  },
+  "isin": "US58936H1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US58936H1095.SG"
+    }
+  ],
+  "name": "MERCURITY FINTECH HOLDING IN",
+  "primary_symbol": "US58936H1095.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

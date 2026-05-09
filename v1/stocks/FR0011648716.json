@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG005V1FXV8",
+    "figi": "BBG005V1FY19",
+    "isin": "FR0011648716"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0011648716",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3C1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3C1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COOSF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3C1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3C1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3C1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALCRB.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CARBIOS SA  EO -,70",
+  "primary_symbol": "3C1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Carbios S.A. is a French biotechnology company pioneering new biological solutions to reinvent the life cycle of plastic and textile polymers. The company develops and industrializes enzymatic technologies to depolymerize various plastics, including PET, PLA, and other polymers. Carbios is headquartered in Saint-Beauzire, France.",
+  "website": "http://www.carbios.fr"
+}

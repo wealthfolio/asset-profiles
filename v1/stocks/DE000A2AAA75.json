@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000HH3LW8",
+    "figi": "BBG000HH4VF4",
+    "isin": "DE000A2AAA75"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "DE000A2AAA75",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T3T1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "T3T1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "T3T1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "T3T1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T3T1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SEVEN PRINCIPLES AG O.N.",
+  "primary_symbol": "T3T1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SEVEN PRINCIPLES AG O.N. provides IT consulting and services, focusing on digital transformation and enterprise solutions. The company offers services like cloud computing, data analytics, and cybersecurity. It is based in Germany.",
+  "website": "http://www.7p-group.com"
+}

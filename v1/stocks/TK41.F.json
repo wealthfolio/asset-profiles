@@ -1,0 +1,31 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "composite_figi": "BBG000BLL2N7",
+    "figi": "BBG000BLL319"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TK41.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Tsakos Energy Navigation Limited",
+  "primary_symbol": "TK41.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Tsakos Energy Navigation Limited provides seaborne crude oil and petroleum product transportation services worldwide. The company offers marine transportation services for national, major, and other independent oil companies and refiners under long, medium, and short-term charters. As of April 2, 2021, it operated a fleet of 66 double-hull vessels, comprising of 61 conventional tankers, two LNG carriers, and three suezmax DP2 shuttle tankers. The company was formerly known as MIF Limited and changed its name to Tsakos Energy Navigation Limited in July 2001. Tsakos Energy Navigation Limited was incorporated in 1993 and is based in Athens, Greece.",
+  "website": "http://www.tenn.gr"
+}

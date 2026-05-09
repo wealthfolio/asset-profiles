@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P80MTL4",
+    "cusip": "45166A102",
+    "figi": "BBG00P80MTT6",
+    "isin": "US45166A1025"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45166A1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "30J.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "30J.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDYA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "30J.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "30J.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IDEAYA BIOSCIENCE  DL-,01",
+  "primary_symbol": "30J.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IDEAYA Biosciences, Inc. is a precision medicine oncology company committed to the discovery and development of targeted therapeutics for patient populations selected using molecular diagnostics. The company focuses on genetically defined patient populations. IDEAYA Biosciences is headquartered in South San Francisco, California.",
+  "website": "http://www.ideayabio.com"
+}

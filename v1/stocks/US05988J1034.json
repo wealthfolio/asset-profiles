@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00J88GW13",
+    "cusip": "05988J103",
+    "figi": "BBG00J88GW77",
+    "isin": "US05988J1034"
+  },
+  "industry": "Software",
+  "industry_group": "Telecommunication Services",
+  "isin": "US05988J1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5XB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5XB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BAND"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "5XB.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5XB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5XB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US05988J1034.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BANDWID.INC. CL.A DL-,001",
+  "primary_symbol": "5XB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Bandwidth Inc. is a communications software company that provides cloud-based communications platform-as-a-service (CPaaS) solutions for enterprises. The company offers a range of APIs and services that enable businesses to integrate voice, messaging, and emergency services into their applications and communication systems. Bandwidth is headquartered in Raleigh, North Carolina.",
+  "website": "http://www.bandwidth.com"
+}

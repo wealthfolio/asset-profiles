@@ -1,0 +1,73 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KG3SXK6",
+    "figi": "BBG00KG3SXR9",
+    "isin": "GB00BFMBMT84"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "GB00BFMBMT84",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S94.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S94.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ST"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S3A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S94.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "ST.CN"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "STN.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "STN.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SENSATA TECHN.HLDG LS-,01",
+  "primary_symbol": "S94.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SENSATA TECHN.HLDG LS-,01 is a global industrial technology company and a leading provider of sensor-rich solutions that create insights for customers. Their products include sensors, electrical protection components, and sensor-based solutions used in a wide array of industries, including automotive, industrial, aerospace, and appliance. The company is headquartered in Attleboro, Massachusetts.",
+  "website": "http://www.sensata.com"
+}

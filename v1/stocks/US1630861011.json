@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001YCG9L3",
+    "cusip": "163086101",
+    "figi": "BBG001YCG9S6",
+    "isin": "US1630861011"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US1630861011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2CF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHEF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2CF.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHEFS WAREHOUSE INC.DL-01",
+  "primary_symbol": "2CF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "The Chefs' Warehouse, Inc. is a specialty food distributor that serves fine dining restaurants, hotels, and other foodservice establishments. The company offers a wide range of products, including specialty foods, seafood, meats, and pastry items. The Chefs' Warehouse is headquartered in Ridgefield, Connecticut.",
+  "website": "http://www.chefswarehouse.com"
+}

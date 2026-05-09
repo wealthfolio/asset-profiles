@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000PJSWM5",
+    "figi": "BBG000PJSZX6",
+    "isin": "DE000A0KD0F7"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "DE000A0KD0F7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M4N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M4N.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M4N.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "M4N.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M4N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M4N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M4N.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MUEHLHAN  O.N.",
+  "primary_symbol": "M4N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Muehlhan AG provides industrial services, including surface protection, scaffolding, insulation, and offshore services. They operate in various industries, including shipbuilding, oil and gas, and renewable energy. The company is headquartered in Hamburg, Germany.",
+  "website": "http://www.muehlhan.com"
+}

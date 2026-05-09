@@ -1,0 +1,26 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TIOAW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Tio Tech A Warrants",
+  "primary_symbol": "TIOAW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Tio Tech A Warrants represent the right to purchase shares of Tio Tech A Class A Ordinary Shares. These warrants are typically issued as part of a unit offering in conjunction with the initial public offering of the SPAC. The warrants allow investors to purchase shares at a predetermined price once the SPAC completes its acquisition."
+}

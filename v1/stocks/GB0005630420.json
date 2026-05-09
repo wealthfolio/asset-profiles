@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000PYSRS7",
+    "figi": "BBG000PYSV80",
+    "isin": "GB0005630420"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB0005630420",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MM7.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0005630420.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MER.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MM7.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MEARS GRP PLC  LS-,01",
+  "primary_symbol": "MM7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mears Group PLC is a United Kingdom-based provider of social housing and care services. The company delivers a range of services, including repairs, maintenance, and housing management, to local authorities and registered social landlords throughout the UK.",
+  "website": "http://www.mearsgroup.co.uk"
+}

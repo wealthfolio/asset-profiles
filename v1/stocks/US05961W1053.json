@@ -1,0 +1,64 @@
+{
+  "country": "Argentina",
+  "country_code": "AR",
+  "identifiers": {
+    "composite_figi": "BBG000Q49S74",
+    "cusip": "05961W105",
+    "figi": "BBG000Q49V59",
+    "isin": "US05961W1053"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US05961W1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "B4W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BMA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "B4W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B4W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "B4W.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "BMA.BA"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BMA.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Banco Macro S.A.",
+  "primary_symbol": "B4W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banco Macro S.A. provides various banking products and services to retail and corporate customers in Argentina. It offers various retail banking products and services, such as savings and checking accounts, time deposits, credit and debit cards, consumer finance loans, mortgage loans, automobile loans, overdrafts, credit-related services, home and car insurance coverage, tax collection, utility payments, automated teller machines (ATMs), and money transfers. The company also provides personal loans, document discounts, residential mortgages, overdrafts, pledged loans, and credit card loans to retail customers. In addition, it offers corporate banking products and services, including deposits, lending, check cashing advances and factoring, guaranteed loans, credit lines for financing foreign trade, and cash management services; trust, payroll, and financial agency services, as well as corporate credit cards and other specialty products; and working capital facilities, credit for investment projects, and leasing and foreign trade transactions. Further, the company provides transaction services, such as collection services, payments to suppliers, payroll services, and foreign exchange transactions; information services comprising Datanet and Interpymes services to corporate customers; and Internet and mobile banking services. As of December 31, 2020, it operated through a network of 463 branches, 1,578 ATMs, 960 self-service terminals, and service points. The company was incorporated in 1966 and is headquartered in Buenos Aires, Argentina.",
+  "website": "http://www.macro.com.ar"
+}

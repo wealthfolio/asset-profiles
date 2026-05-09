@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "BTB-UN.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BTB Real Estate Investment Trust",
+  "primary_symbol": "BTB-UN.TO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "BTB is a real estate investment trust listed on the Toronto Stock Exchange. BTB is an important owner of properties in eastern Canada. As at November 10th, 2020, BTB owns 64 retail, office and industrial properties for a total leasable area of approximately 5.3 million square feet and an approximate total asset value as of September 30th, 2020 of approximately of $946M.",
+  "website": "http://www.btbreit.com"
+}

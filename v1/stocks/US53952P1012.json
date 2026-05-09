@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "53952P101",
+    "isin": "US53952P1012"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US53952P1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMPX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US53952P1012.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LMP Automotive Holdings, Inc.",
+  "primary_symbol": "LMPX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LMP Automotive Holdings, Inc., through its subsidiaries, buys, sells, rents and subscribes for, and obtains financing for automobiles online and in person in the United States. It primarily buys pre-owned automobiles primarily through auctions or directly from other automobile dealers, as well as new automobiles from manufacturers and manufacturer distributors at fleet rates. The company was incorporated in 2017 and is headquartered in Fort Lauderdale, Florida.",
+  "website": "http://www.lmpmotors.com"
+}

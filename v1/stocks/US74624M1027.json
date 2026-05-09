@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00212PVZ5",
+    "cusip": "74624M102",
+    "figi": "BBG009S77DZ0",
+    "isin": "US74624M1027"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US74624M1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSTG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Pure Storage, Inc.",
+  "primary_symbol": "PSTG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Pure Storage, Inc. provides technology and data storage solutions in the United States and internationally. The company delivers solutions based on proprietary Purity Operating Environment Software that implements enterprise-class storage services, such as data reduction, encryption, and protection, as well as protocol services, including block, file, and object. Its cloud data infrastructure products include FlashArray, a solution for running block-oriented storage; and FlashBlade, a solution for file and object storage. The company also provides FlashStack and Artificial Intelligence -Ready Infrastructure converged infrastructure solutions; and subscription-based IT and data services, such as Evergreen Storage Subscription and Pure1, Pure as-a-Service, and Cloud Block Store, as well as installation and implementation consulting services. In addition, it offers container data services, such as storage, data protection, data security, and disaster recovery/backup for cloud-native applications. The company was formerly known as OS76, Inc. and changed its name to Pure Storage, Inc. in January 2010. Pure Storage, Inc. was incorporated in 2009 and is headquartered in Mountain View, California.",
+  "website": "http://www.purestorage.com"
+}

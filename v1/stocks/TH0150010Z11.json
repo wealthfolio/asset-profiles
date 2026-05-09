@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BM68Q6",
+    "figi": "BBG000BM6F26",
+    "isin": "TH0150010Z11"
+  },
+  "industry_group": "Banks",
+  "isin": "TH0150010Z11",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTB1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTB1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KTB1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KTB1.SG"
+    }
+  ],
+  "name": "KRUNG THAI -FGN-  BA 5,15",
+  "primary_symbol": "KTB1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Krung Thai Bank PCL is a Thai state-owned bank providing a comprehensive range of banking and financial services to individuals, businesses, and government entities. Its services include deposits, loans, trade finance, investment banking, and insurance. Krung Thai Bank is headquartered in Bangkok, Thailand."
+}

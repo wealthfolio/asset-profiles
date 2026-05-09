@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00ZKX6082",
+    "cusip": "539319202",
+    "figi": "BBG00ZKX60G3",
+    "isin": "US5393192027"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US5393192027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "864.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5393192027.SG"
+    }
+  ],
+  "name": "LIXTE BIOTECHN. HLDGS",
+  "primary_symbol": "864.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Lixte Biotechnology Holdings, based in France, is a biotechnology company focused on developing cancer therapies. They are working on a new approach to cancer treatment using compounds that target specific cellular pathways. The company is headquartered in Paris, France."
+}

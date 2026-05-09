@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BFGMQ9",
+    "cusip": "74837P405",
+    "isin": "US74837P4054"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US74837P4054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US74837P4054.SG"
+    }
+  ],
+  "name": "QUICKLOGIC CORP",
+  "primary_symbol": "US74837P4054.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "QUICKLOGIC CORP is a fabless semiconductor company that designs, develops, and markets low-power, multi-core, Field Programmable Gate Array (FPGA) embedded systems. Headquartered in San Jose, California, the company's FPGAs are used in a variety of applications, including mobile devices, industrial automation, and aerospace and defense. QuickLogic focuses on providing energy-efficient and flexible solutions for embedded systems."
+}

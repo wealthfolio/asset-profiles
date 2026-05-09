@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA7481401007"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA7481401007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CJCFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YXEP.BE"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "QPM.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YXEP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YXEP.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Quebec Precious Metals Corporation",
+  "primary_symbol": "CJCFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Quebec Precious Metals Corporation engages in the acquisition, exploration and development of mining projects in Canada. The company explores for graphite, gold, silver, copper, nickel, and zinc deposits. Its flagship project is the Sakami Gold Project comprising a block of 281 contiguous mineral claims covering an area of 142.5 square kilometers located in the Northwest of Montreal. The company was formerly known as Canada Strategic Metals Inc. and changed its name to Quebec Precious Metals Corporation in July 2018. Quebec Precious Metals Corporation was incorporated in 1984 and is headquartered in Montreal, Canada.",
+  "website": "http://www.qpmcorp.ca"
+}

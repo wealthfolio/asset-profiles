@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "696389105",
+    "isin": "US6963891055"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6963891055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7NSA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7NSA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6963891055.SG"
+    }
+  ],
+  "name": "PALISADE BIO INC. DL 0,01",
+  "primary_symbol": "7NSA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Palisade Bio, Inc. is a biopharmaceutical company focused on developing novel therapeutics to protect and restore intestinal barrier function. They are developing oral formulations of first-in-class therapies to treat gastrointestinal disorders. The company is headquartered in Carlsbad, California."
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG002MZJZ87",
+    "cusip": "576485205",
+    "figi": "BBG002MZJZG8",
+    "isin": "US5764852050"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US5764852050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7MR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7MR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTDR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7MR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7MR.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MATADOR RESOURSES DL -,01",
+  "primary_symbol": "7MR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Matador Resources Company is an independent energy company engaged in the exploration, development, production, and acquisition of oil and natural gas resources. The company primarily operates in the Permian Basin in Southeast New Mexico and West Texas. Matador is headquartered in Dallas, Texas.",
+  "website": "http://www.matadorresources.com"
+}

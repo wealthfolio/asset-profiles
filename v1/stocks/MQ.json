@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MQ"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Marqeta Inc. Class A Common Stock",
+  "primary_symbol": "MQ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Marqeta Inc. operates a card issuing platform that empowers businesses to create and manage payment cards. The platform offers flexible configuration, real-time authorization controls, and data insights. Marqeta is based in the United States."
+}

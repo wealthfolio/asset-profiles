@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG004QGZJP0",
+    "cusip": "38046C109",
+    "figi": "BBG004QGZJW2",
+    "isin": "US38046C1099"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US38046C1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G0G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G0G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOGO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "G0G.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G0G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G0G.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Gogo Inc.",
+  "primary_symbol": "G0G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Gogo Inc., through its subsidiaries, provides inflight broadband connectivity and wireless entertainment services to the aviation industry in the United States and internationally. It operates through three segments: Commercial Aviation North America (CA-NA), Commercial Aviation Rest of World (CA-ROW), and Business Aviation (BA). The CA-NA segment offers inflight connectivity and wireless digital entertainment solutions to commercial airline passengers flying routes that generally begin and end within North America. The CA-ROW segment provides inflight connectivity and wireless digital entertainment solutions to passengers flying on foreign-based commercial airlines and flights outside of North America for North American based commercial airlines. The BA segment offers equipment for inflight connectivity, including voice and data services to the business aviation market. Its services include Gogo Biz, an inflight broadband service that utilizes air-to-ground (ATG) network and ATG spectrum; Passenger Entertainment, an inflight entertainment service; and satellite-based voice and data services through strategic alliances with satellite companies. This segment serves aircraft manufacturers, owners, and operators, as well as government and military entities. Gogo Inc. was founded in 1991 and is headquartered in Chicago, Illinois.",
+  "website": "http://www.gogoair.com"
+}

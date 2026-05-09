@@ -1,0 +1,26 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MLWEY.PA"
+    }
+  ],
+  "name": "Weya SA",
+  "primary_symbol": "MLWEY.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Weya SA provides wood-fired heating solutions. The company provides central-heating installation services. Weya SA was incorporated in 2009 and is based in Malakoff, France.",
+  "website": "http://www.weya.fr"
+}

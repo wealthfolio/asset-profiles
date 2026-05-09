@@ -1,0 +1,41 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "JP3888400003"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "JP3888400003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "5706.TW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MMG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MMG.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Phoenix Tours International, Inc.",
+  "primary_symbol": "5706.TW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Phoenix Tours International, Inc., together with its subsidiaries, provides travel agency services in Taiwan. The company offers foreign group travel, mini and free tour, cruise vacation, international tickets, domestic and international reservations, Taiwan tourism, rail service, online consultation, domestic and international group travel, as well as free travel, passport, and visas for various countries. It also provides Phoenix Portable Cloud App. The company was founded in 1957 and is headquartered in Taipei City, Taiwan.",
+  "website": "http://www.travel.com.tw"
+}

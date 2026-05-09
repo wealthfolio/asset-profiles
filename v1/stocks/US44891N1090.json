@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00VWC8JS9",
+    "cusip": "44891N109",
+    "isin": "US44891N1090"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "US44891N1090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US44891N1090.SG"
+    }
+  ],
+  "name": "IAC/INTERACTIVECORP",
+  "primary_symbol": "US44891N1090.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "IAC/INTERACTIVECORP is a holding company that owns various internet and media businesses across different sectors. Their portfolio includes companies involved in areas like dating, home services, video, and publishing. IAC is headquartered in New York City, New York."
+}

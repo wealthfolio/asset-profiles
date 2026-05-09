@@ -1,0 +1,37 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "cusip": "00972G108",
+    "isin": "US00972G1085"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00972G1085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKTX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLAB.TA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Akari Therapeutics, Plc",
+  "primary_symbol": "AKTX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Akari Therapeutics, Plc, a clinical-stage biopharmaceutical company, focuses on the development and commercialization of treatments for autoinflammatory diseases that involve complement and leukotriene pathways. Its lead product candidate is nomacopan, a second-generation complement inhibitor that is in Phase II clinical trial for the treatment of autoimmune and inflammatory diseases, including paroxysmal nocturnal hemoglobinuria, guillain barr√É¬© syndrome, hematopoietic stem cell transplant-associated thrombotic microangiopathy, and bullous pemphigoid. Akari Therapeutics, Plc is based in London, the United Kingdom.",
+  "website": "http://www.akaritx.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000H24P15",
+    "figi": "BBG000H24TW3",
+    "isin": "AU000000PEK2"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000PEK2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M3U.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PKREF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M3U.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PEK.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PEAK RES LTD",
+  "primary_symbol": "M3U.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Peak Resources Limited engages in the exploration and evaluation of mineral licenses in Tanzania. The company explores for magnet metal neodymium and praseodymium rare earth mixed oxides. It holds 100% interests in the Ngualla project located in southern Tanzania; and Mikuwo and Mlingi projects situated in Tanzania. The company was incorporated in 2005 and is headquartered in Perth, Australia.",
+  "website": "http://www.peakresources.com.au"
+}

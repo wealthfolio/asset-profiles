@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000BTVG21",
+    "figi": "BBG000BTVJN2",
+    "isin": "KYG4100M1050"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG4100M1050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G7C.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3900.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3900.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G7C.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G7C.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GREENTOWN CHINA  HD -,10",
+  "primary_symbol": "G7C.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Greentown China Holdings Limited, an investment holding company, engages in the property development and related business in China. It operates through Property Development, Hotel Operations, Property Investment, and Project Management segments. The company develops and sells residential properties. It also offers investment and asset management; project management; technology research and development; and design and decoration services. In addition, the company operates hotels; and invests in and rents properties, as well as sells construction materials. As of December 31, 2020, its land bank comprised a total gross floor area of approximately 50.79 million square meters. The company was founded in 1995 and is headquartered in Hangzhou, the People's Republic of China.",
+  "website": "http://www.chinagreentown.com"
+}

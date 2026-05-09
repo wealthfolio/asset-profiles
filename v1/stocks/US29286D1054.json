@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000RGHYY4",
+    "cusip": "29286D105",
+    "figi": "BBG000RGJ227",
+    "isin": "US29286D1054"
+  },
+  "isin": "US29286D1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GZFB.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GZFB.SG"
+    }
+  ],
+  "name": "ENGIE ADR/1 EO 1",
+  "primary_symbol": "GZFB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000M1J270",
+    "cusip": "85571B105",
+    "figi": "BBG000M1J3Q7",
+    "isin": "US85571B1052"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US85571B1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STWD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSP.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L9F.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "STWD.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VSP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VSP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VSP.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Starwood Property Trust, Inc.",
+  "primary_symbol": "STWD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Starwood Property Trust, Inc. operates as a real estate investment trust (REIT) in the United States and Europe. It operates through four segments: Commercial and Residential Lending, Infrastructure Lending, Property, and Investing and Servicing segments. The Commercial and Residential Lending segment originates, acquires, finances, and manages commercial and residential first mortgages, non-agency residential mortgages, subordinated mortgages, mezzanine loans, preferred equity, commercial mortgage-backed securities (CMBS), residential mortgage-backed securities, and other real estate and real estate-related debt investments. The Infrastructure lending segment originates, acquires, finances, and manages infrastructure debt investments. The Property segment engages primarily in the acquiring and managing equity interests in stabilized  commercial real estate properties, including multi-family properties. The Investing and Servicing segment manages and works out problem assets; acquires and manages unrated, investment grade, and non-investment grade rated CMBS, including subordinated interests of securitization and re-securitization transactions; originates conduit loans for the primary purpose of selling these loans into securitization transactions; and acquires commercial real estate assets, including properties acquired from CMBS trusts. The company qualifies as a REIT for federal income tax purposes and would not be subject to federal corporate income taxes, if it distributes at least 90% of its taxable income to its stockholders. Starwood Property Trust, Inc. was founded in 2009 and is headquartered in Greenwich, Connecticut.",
+  "website": "http://www.starwoodpropertytrust.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0000031684"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0000031684",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PIEJF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ROTH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "13F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ROTH.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Rothschild & Co SCA",
+  "primary_symbol": "PIEJF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Rothschild & Co SCA provides global advisory, wealth and asset management, and merchant banking services in France, the United Kingdom, the Channel Islands, the Americas, rest of Europe, Switzerland, Australia, Asia, and internationally. The company offers merger and acquisition, strategic advisory, debt advisory and restructuring, equity advisory, and investor advisory services to large and mid-sized corporations, private equity, families, entrepreneurs, and governments. It also provides wealth management services to families, entrepreneurs, foundations, and charities; and asset management services, such as bespoke investment management and advisory services to institutional clients, financial intermediaries, and third-party distributors. In addition, the company offers merchant banking services, including corporate private equity, secondaries, multi-managers funds, co-investments, direct lending, and credit management. Rothschild & Co SCA was founded in 1838 and is headquartered in Paris, France.",
+  "website": "http://www.rothschildandco.com"
+}

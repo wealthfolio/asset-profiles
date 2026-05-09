@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BRF536",
+    "cusip": "759351604",
+    "figi": "BBG000BRF750",
+    "isin": "US7593516047"
+  },
+  "isin": "US7593516047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RGPB.MU"
+    }
+  ],
+  "name": "REINSUR.GRP AM.  DL-,01",
+  "primary_symbol": "RGPB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

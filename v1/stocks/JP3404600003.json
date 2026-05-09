@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C0KXM6",
+    "figi": "BBG000C0L234",
+    "isin": "JP3404600003"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "JP3404600003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUMA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUMA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SUMA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SUMA.SG"
+    }
+  ],
+  "name": "SUMITOMO CORP.",
+  "primary_symbol": "SUMA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sumitomo Corporation is a global trading and investment company involved in various industries, including metals, transportation, infrastructure, media, and real estate. The company facilitates trade, invests in projects, and manages businesses across diverse sectors. Sumitomo Corporation is headquartered in Tokyo, Japan."
+}

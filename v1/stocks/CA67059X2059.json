@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00G6RTJH7",
+    "figi": "BBG00G6RTJP8",
+    "isin": "CA67059X2059"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CA67059X2059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1RNA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1RNA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NRRWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1RNA.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "NUR.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NuRAN Wireless Inc.",
+  "primary_symbol": "1RNA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NuRAN Wireless Inc. engages in the research, development, manufacture, and marketing of digital electronic circuits and wireless telecommunication products in Canada, the United States, Europe, Africa, and internationally. Its products include GSM LiteCell, a GSM base station for rural and roadside coverages, low density villages, remote sites, developing countries/emerging markets, and private networks; OC-2G, a carrier-grade GSM base station; Nexus Core Network, a 2G, 3G, and 4G soft core network for small to medium-sized operations, including regional and rural mobile, as well as enterprise private networks; GSM network-in-a-box solution, which allows the deployment of a GSM network; and network as a service. NuRAN Wireless Inc. was incorporated in 2014 and is based in L√É¬©vis, Canada.",
+  "website": "http://nuranwireless.com"
+}

@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0077ZCD43",
+    "cusip": "94419L101",
+    "figi": "BBG0077ZCDB5",
+    "isin": "US94419L1017"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "US94419L1017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A4A.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1WF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1WF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1WF.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "W.BK"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "W.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Wayfair Inc.",
+  "primary_symbol": "1WF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Wayfair Inc. engages in the e-commerce business in the United States and internationally. It provides approximately twenty-two million products for the home sector under various brands. The company offers online selections of furniture, d√É¬©cor, housewares, and home improvement products through its sites, including Wayfair, Joss & Main, AllModern, Birch Lane, and Perigold brands. Wayfair Inc. was founded in 2002 and is headquartered in Boston, Massachusetts.",
+  "website": "http://www.wayfair.com"
+}

@@ -1,0 +1,26 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGB.MU"
+    }
+  ],
+  "name": "Berchtesgadener Bergbahn AG",
+  "primary_symbol": "BGB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Berchtesgadener Bergbahn AG operates in the leisure industry. The company provides parking, public transportation, and lift services for tourists and vacationers. Berchtesgadener Bergbahn is based in Berchtesgadener, German.",
+  "website": "http://www.jennerbahn.de"
+}

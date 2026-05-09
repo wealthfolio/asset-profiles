@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00JH1NN56",
+    "cusip": "24823R105",
+    "figi": "BBG00JH1NNF5",
+    "isin": "US24823R1059"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US24823R1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4DN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4DN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNLI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4DN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4DN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4DN.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DENALI THERAP.INC. DL-,01",
+  "primary_symbol": "4DN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Denali Therapeutics Inc. is a biotechnology company focused on developing therapies for neurodegenerative diseases. They are developing a portfolio of product candidates engineered to cross the blood-brain barrier and treat diseases like Alzheimer's, Parkinson's, and ALS. The company is headquartered in South San Francisco, California.",
+  "website": "http://www.denalitherapeutics.com"
+}

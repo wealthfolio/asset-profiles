@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FB5S47",
+    "cusip": "552848103",
+    "figi": "BBG000FB5WF6",
+    "isin": "US5528481030"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US5528481030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MGC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MGC.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "MTG.SW"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MGIC INV. CORP.  DL 1",
+  "primary_symbol": "MGC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MGIC Investment Corporation is an American mortgage insurance company. They provide private mortgage insurance to lenders and investors in the United States. The company is headquartered in Milwaukee, Wisconsin.",
+  "website": "http://mtg.mgic.com"
+}

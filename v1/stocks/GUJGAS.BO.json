@@ -1,0 +1,25 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "GUJGAS.BO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Gujarat Gas Limited",
+  "primary_symbol": "GUJGAS.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Gujarat Gas Limited is a city gas distribution company in India. It supplies piped natural gas (PNG) to residential, commercial, and industrial customers, and compressed natural gas (CNG) to vehicles. The company is headquartered in Ahmedabad, India."
+}

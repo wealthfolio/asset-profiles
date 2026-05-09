@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CHPQ30",
+    "figi": "BBG000CHPT52",
+    "isin": "BRELETACNOR6"
+  },
+  "industry_group": "Utilities",
+  "isin": "BRELETACNOR6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L3X.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L3X.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "L3X.SG"
+    }
+  ],
+  "name": "CENTRAIS EL.BR.ELETROBRAS",
+  "primary_symbol": "L3X.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CENTRAIS EL.BR.ELETROBRAS is a Brazilian electric utility company, also known as Eletrobras, engaged in the generation, transmission, and distribution of electricity. Headquartered in Rio de Janeiro, Brazil, Eletrobras operates through various subsidiaries and is a major player in the Brazilian energy sector. Its business model focuses on providing electricity to a large customer base across Brazil."
+}

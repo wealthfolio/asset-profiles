@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "34964C106",
+    "isin": "US34964C1062"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US34964C1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "2FB.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2FB.SG"
+    }
+  ],
+  "name": "FORT.BRAND.HOME+SEC.INC.",
+  "primary_symbol": "2FB.DE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Fortune Brands Home & Security, Inc. is a home and security products company that manufactures and sells products for use in residential home repair, remodeling, new construction, and security applications. The company's product portfolio includes plumbing, cabinets, decorative hardware, and security products, sold under various brands such as Moen, Master Lock, and Therma-Tru. Fortune Brands Home & Security is headquartered in Deerfield, Illinois."
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LHPL95",
+    "figi": "BBG000LHPP41",
+    "isin": "ID1000118201"
+  },
+  "industry_group": "Banks",
+  "isin": "ID1000118201",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BYRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BYRA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BYRA.SG"
+    }
+  ],
+  "name": "PT BANK RAKYAT IND. RP 50",
+  "primary_symbol": "BYRA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PT Bank Rakyat Indonesia (Persero) Tbk (BRI) is an Indonesian bank providing banking services to micro, small and medium enterprises (MSMEs). The bank offers a wide range of products and services including loans, savings accounts, and payment services, with a focus on supporting the growth of Indonesian businesses. BRI is headquartered in Jakarta, Indonesia."
+}

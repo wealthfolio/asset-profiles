@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "AU0000050981"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "AU0000050981",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SEZNL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0SEA.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SZL.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sezzle Inc.",
+  "primary_symbol": "SEZNL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sezzle Inc. operates as a technology-enabled payments company in United States, Canada, India, and Europe. The company provides a payments platform that facilitates payments between consumers with merchants. Its platform enables customers to make online purchases and split the payment for the purchase in four equal interest free payments over six weeks. The company offers its payment solution to online stores, as well as brick-and-mortar retailers. Sezzle Inc. was incorporated in 2016 and is headquartered in Minneapolis, Minnesota.",
+  "website": "http://www.sezzle.com"
+}

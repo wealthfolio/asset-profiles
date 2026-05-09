@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C1Z086",
+    "cusip": "72941H400",
+    "figi": "BBG000C1Z5P6",
+    "isin": "US72941H4002"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US72941H4002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSTV"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XMPA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XMPA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US72941H4002.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XMPA.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Plus Therapeutics, Inc.",
+  "primary_symbol": "PSTV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Plus Therapeutics, Inc., a clinical-stage pharmaceutical company, focuses on the development, manufacture, and commercialization of treatments for patients with cancer and other diseases. Its lead drug candidate is Rhenium NanoLiposomes, a patented radiotherapy for patients with recurrent glioblastoma, which is in the Phase 1 dose-finding clinical trial. The company is also developing DocePLUS, a patented chemotherapy for patients with solid tumors that is in Phase 1 clinical trial; and DoxoPLUS, a generic chemotherapy for patients with ovarian cancer. It has a license agreement with NanoTx, Corp. to develop and commercialize NanoTx's glioblastoma treatment. The company was formerly known as Cytori Therapeutics, Inc. and changed its name to Plus Therapeutics, Inc. in July 2019. Plus Therapeutics, Inc. was founded in 1996 and is headquartered in Austin, Texas.",
+  "website": "http://www.plustherapeutics.com"
+}

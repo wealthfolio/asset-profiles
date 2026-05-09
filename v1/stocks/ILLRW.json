@@ -1,0 +1,25 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILLRW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Triller Group Inc. Warrant",
+  "primary_symbol": "ILLRW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials"
+}

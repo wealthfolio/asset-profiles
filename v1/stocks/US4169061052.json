@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C7VSH6",
+    "cusip": "416906105",
+    "figi": "BBG000C7VW14",
+    "isin": "US4169061052"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US4169061052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HBI.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HBIO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HBI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HBI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HBI.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HARVARD BIOSCIENCE DL-,01",
+  "primary_symbol": "HBI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Harvard Bioscience, Inc. develops, manufactures, and sells technologies, products and services that enable fundamental research, discovery, and pre-clinical testing for drug development. Its products are sold to research laboratories primarily at universities and medical schools, hospitals, and pharmaceutical and biotechnology companies. The company is headquartered in Holliston, Massachusetts.",
+  "website": "http://www.harvardbioscience.com"
+}

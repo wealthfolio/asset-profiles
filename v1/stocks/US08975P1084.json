@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00WHMMPJ2",
+    "cusip": "08975P108",
+    "figi": "BBG00WHMMPR3",
+    "isin": "US08975P1084"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US08975P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BI1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BI1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIGC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BI1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BI1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BI1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US08975P1084.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BIGCOMMERCE HLD. 1 -,0001",
+  "primary_symbol": "BI1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "BigCommerce Holdings, Inc. is a software-as-a-service (SaaS) e-commerce platform that provides tools and services to merchants for building and scaling online stores. The company is headquartered in Austin, Texas.",
+  "website": "http://www.bigcommerce.com"
+}

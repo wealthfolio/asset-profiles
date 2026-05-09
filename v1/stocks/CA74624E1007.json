@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG002DH4QY4",
+    "figi": "BBG002DH4R45",
+    "isin": "CA74624E1007"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA74624E1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L11A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L11A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LRTNF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "L11A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L11A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "L11A.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PGM.V"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PUR.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PURE GOLD MINING",
+  "primary_symbol": "L11A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Pure Gold Mining Inc. engages in the acquisition, exploration, and development of gold, and other precious and base metal properties in Canada. Its principal property is the Pure Gold Red Lake Gold project comprises 251 mining leases, mining patents, and unpatented mining claims covering an area of approximately 4,700 hectares located near Red Lake, Ontario. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.puregoldmining.ca"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00LG7C3V6",
+    "figi": "BBG00LG7C417",
+    "isin": "FR0010193052"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0010193052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2HU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2HU.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0OGG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2HU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2HU.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CATG.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CATANA GROUP SA IN.EO 0,5",
+  "primary_symbol": "2HU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Catana Group SA is a French company specializing in the design, construction, and sale of catamarans. They operate primarily in the leisure sailing and yachting industry. The company is based in Canet-en-Roussillon, France.",
+  "website": "http://www.catanagroup.com"
+}

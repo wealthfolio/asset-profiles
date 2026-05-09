@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BQZMH4",
+    "cusip": "744573106",
+    "figi": "BBG000BQZP41",
+    "isin": "US7445731067"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "isin": "US7445731067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSE.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "P1EG34.SA"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "PSE.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PSE.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PSE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PSE.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PSE.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PSE.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Public Service Enterprise Group Incorporated",
+  "primary_symbol": "PEG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Public Service Enterprise Group Incorporated, through its subsidiaries, operates as an energy company primarily in the Northeastern and Mid-Atlantic United States. It operates through two segments, PSE&G and PSEG Power. The PSE&G segment transmits electricity; distributes electricity and gas to residential, commercial, and industrial customers, as well as invests in solar generation projects, and energy efficiency and related programs; and offers appliance services and repairs. As of December 31, 2020, it had electric transmission and distribution system of 25,000 circuit miles and 860,000  poles; 54 switching stations with an installed capacity of 38,353 megavolt-amperes (MVA), and 245 substations with an installed capacity of 8,647 MVA; four electric distribution headquarters and five electric sub-headquarters; and 18,000 miles of gas mains, 12 gas distribution headquarters, two sub-headquarters, and one meter shop, as well as 58 natural gas metering and regulating stations. The Power segment operates nuclear, gas, oil-fired, and renewable generation assets. It has total generating output was approximately 52,900 gigawatts hours; and owns and operates 467 MW direct current of photovoltaic solar generation facilities. Public Service Enterprise Group Incorporated was incorporated in 1985 and is based in Newark, New Jersey.",
+  "website": "http://www.pseg.com"
+}

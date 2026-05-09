@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000JNDVG8",
+    "figi": "BBG000JNDZB4",
+    "isin": "DE0005759807"
+  },
+  "industry": "IT Services",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005759807",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IXX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IXX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IXX.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005759807.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "IXX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IXX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IXX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IXX.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INIT INNOVATION O.N.",
+  "primary_symbol": "IXX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "INIT Innovation in Traffic Systems SE is a German company that provides intelligent transportation systems (ITS) for public transport. The company offers integrated solutions for planning, dispatching, ticketing, and passenger information. INIT is headquartered in Karlsruhe, Germany.",
+  "website": "http://www.initse.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "GYLD-B.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Gyldendal A/S",
+  "primary_symbol": "GYLD-B.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Gyldendal A/S publishes and sells books in Denmark. The company publishes books of fiction and non-fiction for adults and children, and of materials for teaching at all levels. It also operates book clubs. The company was founded in 1770 and is based in Copenhagen, Denmark.",
+  "website": "http://www.gyldendal.dk"
+}

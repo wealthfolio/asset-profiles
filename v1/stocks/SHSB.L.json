@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SHSB.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Short HSBC ETP",
+  "primary_symbol": "SHSB.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares -1x Short HSBC ETP is an exchange-traded product (ETP) designed to provide investors with a leveraged inverse exposure to the daily performance of HSBC shares. This ETP aims to deliver the opposite of the daily percentage change in the price of HSBC shares, multiplied by a leverage factor of -1. It is structured as a debt instrument and is listed on the London Stock Exchange."
+}

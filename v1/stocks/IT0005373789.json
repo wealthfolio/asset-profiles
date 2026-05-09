@@ -1,0 +1,36 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000QL1KF2",
+    "isin": "IT0005373789"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "IT0005373789",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005373789.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PHIL.MI"
+    }
+  ],
+  "name": "PHILOGEN SPA",
+  "primary_symbol": "IT0005373789.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PHILOGEN SPA is an Italian biotechnology company focused on the discovery and development of innovative biopharmaceuticals for the treatment of diseases with unmet medical needs. The company's lead programs are in oncology and dermatology. The company is headquartered in Siena, Italy.",
+  "website": "http://www.philogen.com"
+}

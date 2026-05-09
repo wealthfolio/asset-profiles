@@ -1,0 +1,63 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000MPYPL3",
+    "figi": "BBG000MPYSZ2",
+    "isin": "NO0010360266"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "NO0010360266",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BV4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BV4.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HDU.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BOUV.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BOUVO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BV4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010360266.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BOUVET ASA  NK 1",
+  "primary_symbol": "BV4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Bouvet ASA is a Norwegian consulting company that provides IT, digital, and advisory services to businesses and organizations. The company works with clients to develop and implement digital solutions that improve their business processes and performance. Bouvet ASA is headquartered in Oslo, Norway.",
+  "website": "http://www.bouvet.no"
+}

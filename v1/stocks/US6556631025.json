@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GJZYX1",
+    "cusip": "655663102",
+    "figi": "BBG000GK0364",
+    "isin": "US6556631025"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US6556631025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ND1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDSN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ND1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ND1.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NORDSON CORP.",
+  "primary_symbol": "ND1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nordson Corporation engineers, manufactures, and markets differentiated products and systems used to dispense, apply, and control adhesives, coatings, polymers, sealants, biomaterials, and other fluids. The company serves a wide variety of end markets including packaging, nonwovens, electronics, medical, appliances, energy, transportation, construction, and general product assembly. Nordson is headquartered in Westlake, Ohio.",
+  "website": "http://www.nordson.com"
+}

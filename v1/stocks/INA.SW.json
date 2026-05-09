@@ -1,0 +1,26 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "INA.SW"
+    }
+  ],
+  "name": "Ina Invest Holding AG",
+  "primary_symbol": "INA.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Ina Invest Holding AG operates as a real estate company in Switzerland. It engages in the development, execution, letting, and management of real estate projects comprising residential, working, and living space. The company is based in Zurich, Switzerland.",
+  "website": "http://www.ina-invest.com"
+}

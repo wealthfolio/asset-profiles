@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BLKK03",
+    "cusip": "444859102",
+    "figi": "BBG000BLKM81",
+    "isin": "US4448591028"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US4448591028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUM.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0J6Z.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "H1UM34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HUM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HUM.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "HUM.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HUM.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Humana Inc.",
+  "primary_symbol": "HUM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Humana Inc., together with its subsidiaries, operates as a health and well-being company in the United States. It operates through Retail, Group and Specialty, and Healthcare Services segments. The company offers medical and supplemental benefit plans to individuals. It also has a contract with Centers for Medicare and Medicaid Services to administer the Limited Income Newly Eligible Transition prescription drug plan program; and contracts with various states to provide Medicaid, dual eligible, and long-term support services benefits. In addition, the company provides commercial fully-insured medical and specialty health insurance benefits comprising dental, vision, and other supplemental health benefits; and administrative services only products to individuals and employer groups, as well as military services, such as TRICARE T2017 East Region contract. Further, it offers pharmacy solutions, provider services, predictive modeling and informatics services, and clinical care services, such as home health and other services to its health plan members, as well as to third parties. As of December 31, 2020, the company had approximately 17 million members in medical benefit plans, as well as approximately 5 million members in specialty products. Humana Inc. was incorporated in 1964 and is headquartered in Louisville, Kentucky.",
+  "website": "http://www.humana.com"
+}

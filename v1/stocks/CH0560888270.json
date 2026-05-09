@@ -1,0 +1,58 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG001Y993B2",
+    "figi": "BBG001Y993J4",
+    "isin": "CH0560888270"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "CH0560888270",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMIA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMIA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMIA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LMIA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LMIA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LMIA.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LION E-MOBILITY AG SF-,13",
+  "primary_symbol": "LMIA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "LION E-Mobility AG, headquartered in Baad Wünnenberg, Germany, focuses on the production and sales of battery packs and battery systems. They primarily serve the electric vehicle and energy storage sectors. The company develops and integrates battery systems for various applications.",
+  "website": "http://www.lionemobility.de"
+}

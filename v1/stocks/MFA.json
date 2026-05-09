@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BL6138",
+    "figi": "BBG000BL62Z1"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MFA Financial, Inc.",
+  "primary_symbol": "MFA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "MFA Financial, Inc., through its subsidiaries, operates as a real estate investment trust (REIT) in the United States. The company invests in residential mortgage assets, including non-agency mortgage-backed securities (MBS), agency MBS, and credit risk transfer securities; residential whole loans, including purchased performing loans, purchased credit deteriorated, and non-performing loans; and mortgage servicing rights related assets. The company has elected to be taxed as a REIT and would not be subject to federal income taxes if it distributes at least 90% of its taxable income to its stockholders. MFA Financial, Inc. was incorporated in 1997 and is headquartered in New York, New York.",
+  "website": "http://www.mfafinancial.com"
+}

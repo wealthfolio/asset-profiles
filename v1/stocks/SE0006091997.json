@@ -1,0 +1,53 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00KJY2GN7",
+    "figi": "BBG00KJY2GV8",
+    "isin": "SE0006091997"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0006091997",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1YR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1YR.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0G8X.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1YR.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "IMMNOV.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "IMMUNOVIA AB",
+  "primary_symbol": "1YR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IMMUNOVIA AB is a Swedish biotechnology company focused on developing and commercializing innovative diagnostics for autoimmune diseases. Their main focus is on rheumatoid arthritis (RA), with products aimed at improving disease management and treatment decisions. The company is headquartered in Uppsala, Sweden.",
+  "website": "http://www.immunovia.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IL2.TI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "iliad S.A.",
+  "primary_symbol": "IL2.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "iliad S.A. provides integrated fixed and mobile telecommunications services in France, Italy, Poland, and internationally. The company offers VoIP, IPTV, and flat-rate calling plans, as well as Freebox, a multiservice box on ADSL. As of December 31, 2020, it had 20 million subscribers in France and 7.2 million subscribers in Italy. The company was founded in 1999 and is based in Paris, France.",
+  "website": "http://www.iliad.fr/en"
+}

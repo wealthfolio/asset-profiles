@@ -1,0 +1,63 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "identifiers": {
+    "composite_figi": "BBG000QX0W25",
+    "figi": "BBG000QX0YV9",
+    "isin": "AT0000827209"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Real Estate",
+  "isin": "AT0000827209",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WFS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WFS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "WFS.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WFS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WFS.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WFS.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "WXF.VI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "WARIMPEX FIN.U.BETEIL. AG",
+  "primary_symbol": "WFS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Warimpex Finanz- und Beteiligungs AG is a real estate development and investment company focused on hotel and office properties in Central and Eastern Europe. The company develops, owns, and manages properties in countries such as Poland, Russia, Hungary, and the Czech Republic. Warimpex is headquartered in Vienna, Austria.",
+  "website": "http://www.warimpex.com"
+}

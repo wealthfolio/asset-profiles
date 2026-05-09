@@ -1,0 +1,64 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00SJ475V6",
+    "cusip": "04626D206",
+    "figi": "BBG00SJ47617",
+    "isin": "US04626D2062"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US04626D2062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A5S0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A5S0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMGDF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARGGY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A5S0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A5SA.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AML.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ASTON MART.LA.UADR LS-001",
+  "primary_symbol": "A5S0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Aston Martin Lagonda Global Holdings plc designs, develops, manufactures, markets, and sells luxury sports cars under the Aston Martin and Lagonda brand names worldwide. It also engages in the sale of parts; servicing and restoration of vehicles; and motorsport activities. The company sells its vehicles through a network of dealers. It has strategic technology agreement with Mercedes-Benz AG. Aston Martin Lagonda Global Holdings plc was incorporated in 2018 and is headquartered in Gaydon, the United Kingdom.",
+  "website": "http://www.astonmartinlagonda.com"
+}

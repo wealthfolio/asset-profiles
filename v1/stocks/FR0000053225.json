@@ -1,0 +1,66 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0000053225"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Media & Entertainment",
+  "isin": "FR0000053225",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MGL.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MMT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MMT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MMT.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MMT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MMT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MMT.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MMT.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "METROPOLE TELEVISION SA METROPO",
+  "primary_symbol": "0MGL.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Métropole Télévision S.A. is a French media company that operates television channels and digital platforms. Its flagship channel is M6, and it owns other channels such as W9 and 6ter. Métropole Télévision is headquartered in Neuilly-sur-Seine, France",
+  "website": "http://www.mfs.com/en-us/individual-investor/product-strategies/closed-end-funds/MMT-mfs-multimarket-income-trust.html#tab-overview"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00WK5DJW4",
+    "cusip": "602566101",
+    "figi": "BBG00WK5DK24",
+    "isin": "US6025661017"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Software & Services",
+  "isin": "US6025661017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MI7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MI7.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MIND.L"
+    }
+  ],
+  "name": "MIND TECHNOL. INC. DL-,01",
+  "primary_symbol": "MI7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "MIND TECHNOL. INC. DL-,01 is a digital transformation and technology consulting company that provides services such as data analytics, cloud computing, and cybersecurity. Headquartered in India, Mind Technology helps businesses modernize their IT infrastructure and improve their digital capabilities. The company serves clients across various industries, including finance, healthcare, and retail.",
+  "website": "http://www.themindgym.com"
+}

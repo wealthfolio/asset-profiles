@@ -1,0 +1,48 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000JHVLC7",
+    "figi": "BBG000JHVPZ3",
+    "isin": "TH0471010Y12"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Materials",
+  "isin": "TH0471010Y12",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPIG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TPIG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TPIG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TPIG.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IRPC PCL -FOREIGN-  BA 1",
+  "primary_symbol": "TPIG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "IRPC PCL is a Thailand-based integrated petrochemical company that manufactures and distributes a range of petrochemical products, including olefins, aromatics, and polymers. The company's products are used in various industries such as packaging, automotive, and construction. IRPC PCL is headquartered in Bangkok, Thailand.",
+  "website": "http://www.irpc.co.th"
+}

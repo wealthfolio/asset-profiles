@@ -1,0 +1,43 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000BM8JT7",
+    "figi": "BBG000BM8MD7",
+    "isin": "BMG8086V1467"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "BMG8086V1467",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SXYA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SXYA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SXYA.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SHENZHEN INTL HLDGS NEW",
+  "primary_symbol": "SXYA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Shenzhen International Holdings Limited is a Hong Kong-based investment holding company with diversified businesses, including logistics infrastructure, toll roads, ports, and environmental protection. The company's business model involves investing in and managing infrastructure projects, primarily in mainland China. Their headquarters are located in Hong Kong.",
+  "website": "http://www.szihl.com"
+}

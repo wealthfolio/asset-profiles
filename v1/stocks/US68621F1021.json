@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00NN98CH1",
+    "cusip": "68621F102",
+    "figi": "BBG00NN98CR0",
+    "isin": "US68621F1021"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US68621F1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2PQ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORGO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2PQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2PQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US68621F1021.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ORGANOGENESIS HLDGS",
+  "primary_symbol": "2PQ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ORGANOGENESIS HLDGS is a regenerative medicine company focused on developing and commercializing solutions for advanced wound care and surgical applications. The company offers a portfolio of bioactive and acellular technologies that help address the body's natural healing processes. Organogenesis Holdings Inc. is headquartered in Canton, Massachusetts.",
+  "website": "http://organogenesis.com"
+}

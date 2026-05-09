@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001J1CY88",
+    "cusip": "68373L406",
+    "figi": "BBG0087J22Q8",
+    "isin": "US68373L4068"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68373L4068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OPGN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A8L.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6502.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "OpGen, Inc.",
+  "primary_symbol": "OPGN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "OpGen, Inc., a precision medicine company, engages in developing molecular information products and services in the United States and internationally. The company utilizes molecular diagnostics and informatics to help combat infectious diseases. It also helps clinicians with information about life threatening infections, enhance patient outcomes, and decrease the spread of infections caused by multidrug-resistant microorganisms. The company's products include Acuitas AMR Gene Panel, a vitro diagnostic test for the detection and identification of various bacterial nucleic acids and genetic determinants of antimicrobial resistance (AMR) from bacterial colonies isolated from any specimen; and QuickFISH and PNA FISH diagnostic test products for the identification of various infectious pathogens, as well as SARS CoV-2 test kits. In addition, it offers Acuitas Lighthouse informatics systems, a cloud-based HIPAA compliant informatics, which combines clinical lab test results with patient and hospital information to provide analytics and insights to enable manage MDROs in the hospital and patient care environment; Unyvero Platform, an automated sample-to-answer molecular diagnostics platform that integrates automated sample preparation, analysis, and identification of disease relevant pathogens and antibiotic resistance markers; and ARES Technology Platform, including ARESdb, which provides next generation sequencing based and artificial intelligence powered, cloud-based bioinformatics solutions to generate AMR profiles, as well as predict antimicrobial susceptibility test results. OpGen, Inc. has a strategic collaboration with the New York State Department of Health to develop a solution to detect, track, and manage antimicrobial-resistant infections at healthcare institutions. The company was incorporated in 2001 and is headquartered in Gaithersburg, Maryland.",
+  "website": "http://www.opgen.com"
+}

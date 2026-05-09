@@ -1,0 +1,41 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0007100359"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "SE0007100359",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R8U.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POX.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "POX.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PANDOX AB PANDOX ORD SHS",
+  "primary_symbol": "0R8U.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "PANDOX AB is a leading hotel property company that owns, manages, and leases hotel properties in Europe. The company's portfolio includes a variety of hotel brands and types, from budget to luxury. PANDOX AB is headquartered in Stockholm, Sweden.",
+  "website": "http://www.pandox.se"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "JP3903000002"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Energy",
+  "isin": "JP3903000002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5711.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUJ"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MUJ.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MUJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MUJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MUJ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ANTERO MIDSTREAM  DL -,01",
+  "primary_symbol": "5711.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Antero Midstream Corporation is a limited partnership formed to own, operate, and develop midstream energy infrastructure. The company focuses on gathering, compressing, processing, and transporting natural gas and natural gas liquids (NGLs) for Antero Resources, primarily operating in the Appalachian Basin. Antero Midstream is headquartered in Denver, Colorado.",
+  "website": "http://www.blackrock.com/investing/products/240267/blackrock-muniholdings-new-jersey-insured-fund-inc-usd-fund"
+}

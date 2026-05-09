@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BRRY76",
+    "figi": "BBG000BRS0J6",
+    "isin": "DE000A254211"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE000A254211",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISHA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISHA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISHA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A254211.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ISHA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ISHA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ISHA.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "INTERSHOP COMM.  INH O.N.",
+  "primary_symbol": "ISHA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Intershop Communications AG provides e-commerce software and solutions for B2B and B2C businesses, headquartered in Jena, Germany. The company's platform enables businesses to create and manage online stores, handle orders and payments, and personalize customer experiences. Intershop serves customers in various industries worldwide.",
+  "website": "http://www.intershop.com"
+}

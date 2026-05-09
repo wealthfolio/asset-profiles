@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000M1R011",
+    "cusip": "81762P102",
+    "figi": "BBG002VH3DV7",
+    "isin": "US81762P1021"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US81762P1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L5N.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4S0.F"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "N1OW34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NOWW.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "SNOW.AS"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SNOW.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "SNOW.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ServiceNow, Inc.",
+  "primary_symbol": "NOW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ServiceNow, Inc. provides enterprise cloud computing solutions that defines, structures, consolidates, manages, and automates services for enterprises worldwide. It operates the Now platform that offers workflow automation, artificial intelligence, machine learning, performance analytics, electronic service catalogs and portals, configuration management systems, data benchmarking, encryption, and collaboration and development tools. The company also provides information technology (IT) service management applications; IT service management product suite for enterprise's employees, customers, and partners; IT business management product suite to manage IT priorities; IT operations management product that connects a customer's physical and cloud-based IT infrastructure; IT Asset Management to automate IT asset lifecycles; and enterprise development operations product for developers' toolchain. In addition, it offers security incident management, threat enrichment intelligence, vulnerability response management, and security incident intelligence sharing security operation products; governance, risk, and compliance product to create policies and controls; human resources, legal, and workplace service delivery products; safe workplace applications; customer service management product; and field service management applications. Further, it provides App Engine product; IntegrationHub enables application to extend workflows; and professional, training, and customer support services. It serves government, financial services, healthcare, telecommunications, manufacturing, IT services, technology, oil and gas, education, and consumer products. It sells its products through direct sales team and resale partners. The company was formerly known as Service-now.com and changed its name to ServiceNow, Inc. in May 2012. The company was incorporated in 2004 and is headquartered in Santa Clara, California.",
+  "website": "http://www.servicenow.com"
+}

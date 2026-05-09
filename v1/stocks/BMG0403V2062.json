@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG0403V2062"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "BMG0403V2062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1104.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FZV1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FZV1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "APAC Resources Limited",
+  "primary_symbol": "1104.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "APAC Resources Limited, an investment holding company, engages in commodity trading and natural resource investment businesses in the People's Republic of China. It operates through Commodity Business; Resource Investment; and Principal Investment and Financial Services segments. The company trades and invests in listed and unlisted securities; provides loan financing services; and invest in loan notes, convertible notes, and other financial assets, as well as invests in and develops mineral resources. It also provides management services; consultancy services in corporate management; and metallurgy technology services. APAC Resources Limited is headquartered in Wan Chai, Hong Kong.",
+  "website": "http://www.apacresources.com"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C18TY4",
+    "figi": "BBG000C19030",
+    "isin": "JP3111200006"
+  },
+  "industry_group": "Materials",
+  "isin": "JP3111200006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASAA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ASAA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ASAA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ASAA.SG"
+    }
+  ],
+  "name": "ASAHI KASEI",
+  "primary_symbol": "ASAA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Asahi Kasei Corporation is a diversified Japanese chemical company that manufactures chemicals, plastics, synthetic rubber, fibers, construction materials, electronics, and healthcare products. The company operates through various business segments, serving a wide range of industries globally. Its headquarters are in Tokyo, Japan."
+}

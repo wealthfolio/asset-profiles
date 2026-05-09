@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG002VX96V1",
+    "cusip": "98420U703",
+    "figi": "BBG002VX9712",
+    "isin": "US98420U7037"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "US98420U7037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "V9G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "V9G.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US98420U7037.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "V9G.DU"
+    }
+  ],
+  "name": "XPRESSPA GROUP  DL-,01",
+  "primary_symbol": "V9G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "XpresSpa Group, Inc. is a health and wellness holding company. Through its subsidiaries, it offers spa services, retail products and operates airport spas in the United States, Canada and the Netherlands. It's headquartered in New York."
+}

@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000RGJY90",
+    "figi": "BBG000RGK0J1",
+    "isin": "KYG4584R1092"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "KYG4584R1092",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4HB.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0196.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4HB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4HB.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HONGHUA GROUP LTD  HD-,10",
+  "primary_symbol": "4HB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Honghua Group Ltd. is a Chinese company that manufactures and sells drilling rigs and equipment for the oil and gas industry. The company also provides engineering and construction services. Honghua Group is headquartered in Chengdu, China.",
+  "website": "http://www.hh-gltd.com"
+}

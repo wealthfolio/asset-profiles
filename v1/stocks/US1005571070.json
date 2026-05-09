@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000MTDNK4",
+    "cusip": "100557107",
+    "figi": "BBG000MTDSN0",
+    "isin": "US1005571070"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US1005571070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBEA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBEA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BBEA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BBEA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SAM.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BOST. BEER CO.INC.A DL-01",
+  "primary_symbol": "BBEA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "The Boston Beer Company, Inc. produces and markets alcoholic beverages, primarily craft beers, hard ciders, and seltzers. The company's brands include Samuel Adams, Twisted Tea, Truly Hard Seltzer, and Angry Orchard Hard Cider, and it is headquartered in Boston, Massachusetts. Boston Beer sells its products through a network of distributors and also directly to consumers at its taprooms.",
+  "website": "http://www.bostonbeer.com"
+}

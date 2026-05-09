@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG0032PMXP1",
+    "figi": "BBG0032PMXW3",
+    "isin": "AU000000RNU8"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000RNU8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RU8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RU8.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RU8.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RNU.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RU8.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "RENASCOR RESOURCES LTD",
+  "primary_symbol": "RU8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Renascor Resources Limited is an Australian exploration company focused on developing its graphite and other mineral projects. The company's flagship project is the Siviour Graphite Project in South Australia. Renascor Resources is based in Adelaide, Australia.",
+  "website": "http://www.renascor.com.au"
+}

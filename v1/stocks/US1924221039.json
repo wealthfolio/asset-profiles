@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BPBVW5",
+    "cusip": "192422103",
+    "figi": "BBG000BPC6F8",
+    "isin": "US1924221039"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US1924221039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGNX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGZ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0I14.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CGNX.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CGZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CGZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CGZ.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Cognex Corporation",
+  "primary_symbol": "CGNX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cognex Corporation provides machine vision products that capture and analyze visual information in order to automate manufacturing and distribution tasks worldwide. Its machine vision products are used to automate the manufacturing and tracking of discrete items, including mobile phones, aspirin bottles, and automobile tires by locating, identifying, inspecting, and measuring them during the manufacturing or distribution process. The company offers VisionPro software, a suite of patented vision tools for advanced programming; Cognex Designer that allows customers to build vision applications with a graphical, flowchart-based programming environment; and Cognex deep learning vision software. It also provides a range of inspection tasks, including part location, identification, measurement, assembly verification, and robotic guidance; and vision sensors for vision applications, such as checking the presence and size of parts; the In-Sight product line of vision systems and sensors. In addition, the company offers ID products comprising DataMan image-based barcode readers and barcode verifiers. It sells its products to consumer electronics, automotive, consumer products, food and beverage, pharmaceuticals, and medical devices industries, as well as through a network of distributors and integrators. The company was founded in 1981 and is headquartered in Natick, Massachusetts.",
+  "website": "http://www.cognex.com"
+}

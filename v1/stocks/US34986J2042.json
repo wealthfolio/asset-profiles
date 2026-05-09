@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG007BQFRM4",
+    "cusip": "34986J204",
+    "figi": "BBG007BQFRT7",
+    "isin": "US34986J2042"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US34986J2042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FPB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FPB.MU"
+    }
+  ],
+  "name": "FORW.PHARMA ADR/14 NEW",
+  "primary_symbol": "1FPB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Forward Pharma A/S is a biopharmaceutical company focused on developing and commercializing innovative therapies for inflammatory and neurological disorders. The company is developing FP187, a proprietary formulation of dimethyl fumarate, for the treatment of multiple sclerosis. Forward Pharma is headquartered in Copenhagen, Denmark."
+}

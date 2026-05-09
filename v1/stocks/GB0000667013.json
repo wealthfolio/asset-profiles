@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BD5HT4",
+    "isin": "GB0000667013"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "GB0000667013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0000667013.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0000667013.SW"
+    }
+  ],
+  "name": "AVON PROTECTION PLC",
+  "primary_symbol": "GB0000667013.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Avon Protection PLC designs, manufactures, and supplies respiratory protection equipment and related products for military, law enforcement, and industrial customers worldwide. Their product line includes respirators, filters, and escape hoods, enhancing user safety in hazardous environments. The company is headquartered in Melksham, United Kingdom."
+}

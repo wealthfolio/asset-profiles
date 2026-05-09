@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BW3253",
+    "figi": "BBG000BW34Q6",
+    "isin": "GB00B082RF11"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB00B082RF11",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTO1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTO1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTON"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B082RF11.SW"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "RTO.JO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RTO1.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "RENTOKIL INITIAL  LS 0,01",
+  "primary_symbol": "RTO1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Rentokil Initial plc provides pest control, hygiene, and workwear services. The company operates globally, offering solutions for homes and businesses to manage pests, maintain hygiene standards, and provide workwear solutions. Rentokil Initial is headquartered in Crawley, United Kingdom.",
+  "website": "http://rightonbrands.com"
+}

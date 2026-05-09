@@ -1,0 +1,63 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000L0N3V9",
+    "figi": "BBG000L0QBY5",
+    "isin": "JP3783420007"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Telecommunication Services",
+  "isin": "JP3783420007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HKTGF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9435.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HIK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HIK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HIK.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HIKARI TSUSHIN INC.",
+  "primary_symbol": "HIK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Hikari Tsushin, Inc. is a Japanese company primarily engaged in providing telecommunications services and operating internet service provider businesses. The company offers various services, including mobile phone sales, broadband internet access, and IT solutions for businesses. Hikari Tsushin is headquartered in Tokyo, Japan.",
+  "website": "http://www.hikari.co.jp"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00JGDWH09",
+    "figi": "BBG00JGDWH63",
+    "isin": "GB00BLDYK618"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Diversified Financials",
+  "isin": "GB00BLDYK618",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1IZ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1IZ1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMT.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STMZF"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SMT.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SMT.L"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SCOTTISH MORTG.INV.LS-,05",
+  "primary_symbol": "1IZ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Scottish Mortgage Investment Trust PLC is an investment trust that invests globally in publicly traded and private companies with long-term growth potential. The trust aims to identify and invest in businesses that are expected to experience significant growth over the long term. TICKER: Scottish Mortgage Investment Trust PLC is an investment trust that invests globally in companies with long-term growth potential, aiming to identify and invest in businesses expected to experience significant growth.",
+  "website": "http://www.smt.co.il"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "isin": "FI4000197934"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "FI4000197934",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RG2.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TK9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TK9.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "TOKMAN.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TOKMANNI GROUP OYJ TOKMANNI GRO",
+  "primary_symbol": "0RG2.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "TOKMANNI GROUP OYJ is a Finnish discount retailer that operates a chain of general merchandise stores. The company offers a wide range of products, including food, clothing, and household goods. TOKMANNI GROUP OYJ is headquartered in Mänttä-Vilppula, Finland.",
+  "website": "http://www.tokmanni.fi"
+}

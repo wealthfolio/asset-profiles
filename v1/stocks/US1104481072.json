@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BF2GR6",
+    "cusip": "110448107",
+    "figi": "BBG000BF2LL1",
+    "isin": "US1104481072"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US1104481072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BMTA.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BMTA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BMTA.SG"
+    }
+  ],
+  "name": "BRIT.AMER.TOBACCO ADR/",
+  "primary_symbol": "BMTA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "British American Tobacco is a global tobacco company that manufactures and sells cigarettes, tobacco and nicotine products. The company's brand portfolio includes well-known cigarette brands like Dunhill, Kent, Lucky Strike, and Pall Mall, as well as newer nicotine products. British American Tobacco operates in numerous countries and is headquartered in London, England."
+}

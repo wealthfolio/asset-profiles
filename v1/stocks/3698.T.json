@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3698.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CRI Middleware Co., Ltd.",
+  "primary_symbol": "3698.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CRI Middleware Co., Ltd. provides audio and video solutions for the gaming industry. The company offers ADX2, a audio middleware, which empowers sound designers and audio programmers; and Sofdec2, a movie solution, including a high-compression video encoder and a versatile playback engine. Its audio and video solutions can be integrated with game engines and supports platforms, from all major consoles to mobile devices. The company was founded in 1983 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.cri-mw.co.jp"
+}

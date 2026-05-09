@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KDYT8C4",
+    "cusip": "384313508",
+    "figi": "BBG00KDYT8H9",
+    "isin": "US3843135084"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "US3843135084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EAF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G6G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G6G.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "G6G.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G6G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G6G.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GrafTech International Ltd.",
+  "primary_symbol": "EAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "GrafTech International Ltd. researches, develops, manufactures, and sells graphite and carbon based products worldwide. It offers graphite electrodes to produce electric arc furnace steel and other ferrous and non-ferrous metals; and petroleum needle coke, a crystalline form of carbon used in the production of graphite electrodes. The company sells its products primarily through direct sales force, independent sales representatives, and distributors. GrafTech International Ltd. was founded in 1886 and is headquartered in Brooklyn Heights, Ohio.",
+  "website": "http://www.graftech.com"
+}

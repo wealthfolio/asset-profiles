@@ -1,0 +1,53 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008B3LQJ2",
+    "figi": "BBG008B3LQQ4",
+    "isin": "GB00BVYVFW23"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Retailing",
+  "isin": "GB00BVYVFW23",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2UA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2UA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUTO"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "AUTO.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AYCP.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AUTO TRADER GRP PLCLS0,01",
+  "primary_symbol": "2UA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Auto Trader Group plc operates the UK's largest digital automotive marketplace for buying and selling new and used vehicles. The company provides online advertising and data services to car retailers and manufacturers. Auto Trader Group is headquartered in Manchester, United Kingdom.",
+  "website": "http://www.autoweb.com"
+}

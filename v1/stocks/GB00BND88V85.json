@@ -1,0 +1,47 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C0MQQ5",
+    "figi": "BBG000C0MTK5",
+    "isin": "GB00BND88V85"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "GB00BND88V85",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BPT"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0S10.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BMI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BMI.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BP Prudhoe Bay Royalty Trust",
+  "primary_symbol": "BPT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "BP Prudhoe Bay Royalty Trust operates as a grantor trust in the United States. The company holds overriding royalty interest in the Prudhoe Bay oil field located on the North Slope of Alaska. The Prudhoe Bay field extends approximately 12 miles by 27 miles and contains approximately 150,000 gross productive acres. BP Prudhoe Bay Royalty Trust was founded in 1989 and is based in Houston, Texas."
+}

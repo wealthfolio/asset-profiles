@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000J4FQB4",
+    "cusip": "576690101",
+    "figi": "BBG000J4FTL7",
+    "isin": "US5766901012"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US5766901012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEM.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTRN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTRN.TA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BEM.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "BEM.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BEM.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BEM.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MATERION CORP.  DL 1",
+  "primary_symbol": "BEM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "MATERION CORP. is a global advanced materials solutions company, with headquarters in Mayfield Heights, Ohio, that serves a variety of industries. They manufacture and supply high-performance alloys, beryllium products, composite materials, and electronic materials. Their business model provides materials and services to industries like aerospace, defense, automotive, and consumer electronics.",
+  "website": "http://materion.com"
+}

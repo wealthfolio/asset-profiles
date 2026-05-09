@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000CJBFY1",
+    "figi": "BBG000CJBK70",
+    "isin": "DE000A2TSU21"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Retailing",
+  "isin": "DE000A2TSU21",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WBAH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WBAH.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WBAH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "WBAH.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WBAH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WBAH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WBAH.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "WILD BUNCH AG O.N.",
+  "primary_symbol": "WBAH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "WILD BUNCH AG O.N. is a film production and distribution company. The company is involved in the production, co-production, acquisition, and distribution of films. Its headquarter location is not readily available.",
+  "website": "http://www.wildbunch.eu"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "United Arab Emirates",
+  "country_code": "AE",
+  "identifiers": {
+    "composite_figi": "BBG00N8C4YB3",
+    "figi": "BBG00N8C4YC2",
+    "isin": "KYG236271055"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "KYG236271055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6SD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG236271055.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SHLF.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Shelf Drilling, Ltd.",
+  "primary_symbol": "6SD.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Shelf Drilling, Ltd., through its subsidiaries, operates as a shallow water offshore drilling contractor in the Middle East, North Africa, the Mediterranean, South East Asia, India, and West Africa. It provides equipment and services for the drilling, completion, maintenance, and decommissioning of oil and natural gas wells. The company serves government owned or controlled energy companies, and integrated oil companies or independent exploration and production companies. As of December 31, 2020, it owned 31 independent-leg cantilever jack-up rigs. The company was incorporated in 2012 and is headquartered in Dubai, the United Arab Emirates.",
+  "website": "http://www.shelfdrilling.com"
+}

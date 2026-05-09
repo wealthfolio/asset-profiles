@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00W6VZXQ5",
+    "figi": "BBG00W6VZXW8",
+    "isin": "JP3673600007"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "JP3673600007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5FA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5FA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5FA.F"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8086.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NIPRO CORP.",
+  "primary_symbol": "5FA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Nipro Corporation is a Japanese medical device manufacturer. Headquartered in Osaka, Japan, Nipro produces and distributes medical devices, pharmaceuticals, and diagnostic products. The company's main products include dialysis equipment, disposable medical devices, and pharmaceutical products for hospitals and clinics.",
+  "website": "http://www.nipro.co.jp"
+}

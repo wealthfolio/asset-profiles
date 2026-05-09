@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BN84F3",
+    "cusip": "74834L100",
+    "figi": "BBG000BN85Z8",
+    "isin": "US74834L1008"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US74834L1008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QDI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QDI.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DGX.MX"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "Q1UE34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "QDI.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "QDI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QDI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QDI.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Quest Diagnostics Incorporated",
+  "primary_symbol": "DGX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Quest Diagnostics Incorporated provides diagnostic testing, information, and services in the United States and internationally. The company develops and delivers diagnostic information services, such as routine testing, non-routine and advanced clinical testing, anatomic pathology testing, and other diagnostic information services. It offers diagnostic information services primarily under the Quest Diagnostics brand, as well as under the AmeriPath, Dermpath Diagnostics, ExamOne, and Quanum brands to patients, clinicians, hospitals, independent delivery networks, health plans, employers, direct contract entities, and accountable care organizations through a network of laboratories, patient service centers, phlebotomists in physician offices, call centers and mobile paramedics, nurses, and other health and wellness professionals. The company also provides risk assessment services for the life insurance industry; and healthcare organizations and clinicians robust information technology solutions. Quest Diagnostics Incorporated was founded in 1967 and is headquartered in Secaucus, New Jersey.",
+  "website": "http://www.questdiagnostics.com"
+}

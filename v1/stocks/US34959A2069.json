@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005ZQ2M65",
+    "cusip": "34959A206",
+    "figi": "BBG005ZQ2MD7",
+    "isin": "US34959A2069"
+  },
+  "isin": "US34959A2069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FVJA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FVJA.F"
+    }
+  ],
+  "name": "FORTESCUE MET.GR.SP.ADR 2",
+  "primary_symbol": "FVJA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

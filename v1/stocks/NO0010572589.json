@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00N9LJC88",
+    "figi": "BBG00N9LJCG9",
+    "isin": "NO0010572589"
+  },
+  "industry": "Insurance",
+  "industry_group": "Energy",
+  "isin": "NO0010572589",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAT.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010572589.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0010572589.SW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAGA.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SAGA.OL"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SAT.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SAT.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SAGA PURE ASA  NK 1",
+  "primary_symbol": "SAT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Saga Pure ASA is an investment company focusing on renewable energy and clean technologies. The company invests in and develops companies within areas such as solar energy, hydrogen, and energy storage. Saga Pure ASA is headquartered in Oslo, Norway.",
+  "website": "http://www.saga.co.uk"
+}

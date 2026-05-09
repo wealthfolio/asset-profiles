@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BV4BB7",
+    "figi": "BBG000BV4DV1",
+    "isin": "HK0669013440"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "HK0669013440",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TIB1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TIB1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TIB1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TIB1.SG"
+    }
+  ],
+  "name": "TECHTRONIC I.SUBD.",
+  "primary_symbol": "TIB1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Techtronic Industries Co. Ltd. designs, manufactures, and markets power tools, outdoor power equipment, hand tools, and floor care products. Its brands include Milwaukee, AEG, Ryobi, Hoover, and Dirt Devil. The company is headquartered in Hong Kong."
+}

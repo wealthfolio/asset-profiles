@@ -1,0 +1,62 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000G7HN07",
+    "figi": "BBG000G7HS60",
+    "isin": "SG1T56930848"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "SG1T56930848",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTHA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTHA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTHA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTHA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RTHA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RTHA.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "WIL.L"
+    }
+  ],
+  "name": "WILMAR INTL LTD.  SD -,50",
+  "primary_symbol": "RTHA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Wilmar International Ltd. is an agribusiness company that operates in the palm oil, oilseeds, grains, and sugar sectors. The company is involved in cultivation, processing, merchandising, and distribution of agricultural products. Wilmar International is headquartered in Singapore.",
+  "website": "http://www.wilmingtonplc.com"
+}

@@ -1,0 +1,26 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GRI.L"
+    }
+  ],
+  "name": "Grainger plc",
+  "primary_symbol": "GRI.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Grainger plc, together with its subsidiaries, owns, develops, manages, and rents residential properties in the United Kingdom. It also provides property and asset management services. The company was founded in 1912 and is headquartered in Newcastle upon Tyne, the United Kingdom.",
+  "website": "http://www.graingerplc.co.uk"
+}

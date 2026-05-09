@@ -1,0 +1,57 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "cusip": "00774W103",
+    "isin": "US00774W1036"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "US00774W1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANNSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANYYY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A44.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A440.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "AENA.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AENA.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Aena S.M.E., S.A.",
+  "primary_symbol": "ANNSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Aena S.M.E., S.A., together with its subsidiaries, operates, maintains, manages, and administers airport infrastructures and heliports in Spain, the United Kingdom, Mexico, Colombia, Cuba, and internationally. The company operates through Airports, Real Estate Services, and International segments. It also operates and manages commercial spaces in airport terminals and car parks network; and rents areas in airport terminals for stores, food and beverage outlets, and advertising. In addition, the company manages industrial and real estate assets, such as land, warehouses, and hangars; and manages cargo centers. It manages 46 airports in Spain; 12 airports in Mexico; 2 airports in Colombia; and 1 airport in the United Kingdom. The company was formerly known as Aena, S.A. and changed its name to Aena S.M.E., S.A. in April 2017. The company was founded in 2010 and is headquartered in Madrid, Spain. Aena S.M.E., S.A. is a subsidiary of ENAIRE.",
+  "website": "http://www.aena.es"
+}

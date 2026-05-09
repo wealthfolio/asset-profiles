@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000KZ4H89",
+    "figi": "BBG000KZ5NW8",
+    "isin": "CA7900141044"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA7900141044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BVU3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LRDJF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BVU3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA7900141044.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "LORD.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ST.JAMES GOLD CORP.",
+  "primary_symbol": "BVU3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "St. James Gold Corp., an exploration stage company, engages in the acquisition, exploration, and development of mineral resource properties in Canada. The company primarily explores for gold. It holds an option to acquire a 100% interest in 29 claims covering an area of 1,791 acres in the Gander gold district in north-central Newfoundland; an option to acquire a 100% interest in 28 claims covering an area of 1,730 acres in central Newfoundland; and an option and joint venture agreement to a 100% interest in the Florin gold project covering approximately 22,000 contiguous acres in the Yukon Territory, Canada. The company was formerly known as Bard Ventures Ltd. and changed its name to St. James Gold Corp. in October 2020. St. James Gold Corp. was founded in 1981 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.stjamesgold.com"
+}

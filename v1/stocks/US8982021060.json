@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006VZ80F9",
+    "cusip": "898202106",
+    "figi": "BBG006VZ80M1",
+    "isin": "US8982021060"
+  },
+  "industry": "Insurance",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US8982021060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRUP"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LH0.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TPW.F"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "TPW.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TPW.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TRUPANION INC.  DL-,01",
+  "primary_symbol": "TPW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Trupanion, Inc. provides medical insurance for cats and dogs in the United States, Canada, and Australia. The company offers a single, comprehensive plan that covers a wide range of veterinary treatments, illnesses, and injuries. Trupanion is headquartered in Seattle, Washington.",
+  "website": "http://www.trupanion.com"
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MF2JBX9",
+    "cusip": "90184D100",
+    "figi": "BBG00MF2JC30",
+    "isin": "US90184D1000"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US90184D1000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ME.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0ME.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TWST"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0ME.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0ME.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0ME.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TWIST BIOSCIENCEDL-,00001",
+  "primary_symbol": "0ME.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Twist Bioscience Corporation manufactures synthetic DNA and DNA products. The company leverages its silicon-based DNA writing platform to enable customers to succeed in diverse fields such as drug discovery, DNA data storage, and antibody development. Twist Bioscience is headquartered in South San Francisco, California",
+  "website": "http://www.twistbioscience.com"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BHNJX6",
+    "cusip": "204409601",
+    "figi": "BBG000BHNMW0",
+    "isin": "US2044096012"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Utilities",
+  "isin": "US2044096012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CID.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CID.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIG.BD"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIG.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CID.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CIG.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CIG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CIG.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CIA EN.GER.ADR PFD NV 1",
+  "primary_symbol": "CID.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CIA EN.GER.ADR PFD NV 1 represents the American Depositary Receipt (ADR) for Companhia Energética de Minas Gerais (CEMIG). CEMIG is a Brazilian power company that generates, transmits, and distributes electricity. The company is based in Belo Horizonte, Brazil.",
+  "website": "http://www.cigpcl.com"
+}

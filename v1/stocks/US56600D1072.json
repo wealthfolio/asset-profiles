@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Y1DFV91",
+    "cusip": "56600D107",
+    "isin": "US56600D1072"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US56600D1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US56600D1072.SG"
+    }
+  ],
+  "name": "MARAVAI LIFESCIENCES HLDGS-A",
+  "primary_symbol": "US56600D1072.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MARAVAI LIFESCIENCES HLDGS-A provides products and services to the life sciences industry, enabling drug development programs. Their offerings include nucleic acids, protein production, and biologics safety testing. The company is headquartered in San Diego, California."
+}

@@ -1,0 +1,177 @@
+{
+  "as_of_date": "2026-07-31",
+  "asset_class_weights": [
+    {
+      "asset_class": "Equity",
+      "weight": 0.999761
+    },
+    {
+      "asset_class": "Cash",
+      "weight": 0.000239
+    }
+  ],
+  "aum_usd": 6690613922.29,
+  "category": "Factors",
+  "category_group": "Information Technology",
+  "country_weights": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "weight": 0.849754
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "weight": 0.054806
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "weight": 0.042449
+    },
+    {
+      "country": "Taiwan, Province of China",
+      "country_code": "TW",
+      "weight": 0.015138
+    },
+    {
+      "country": "Cayman Islands",
+      "country_code": "KY",
+      "weight": 0.014494
+    },
+    {
+      "country": "China",
+      "country_code": "CN",
+      "weight": 0.013096
+    },
+    {
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "weight": 0.008979
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "weight": 0.001286
+    }
+  ],
+  "holdings_count": 47,
+  "issuer": "ARK",
+  "kind": "etf",
+  "listings": [
+    {
+      "currency": "USD",
+      "symbol": "ARKK"
+    }
+  ],
+  "name": "ARK Innovation ETF",
+  "primary_symbol": "ARKK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "public domain",
+    "source": "SEC EDGAR N-PORT",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001579982"
+  },
+  "schema_version": "1.0.0",
+  "sector_weights": [
+    {
+      "sector": "Information Technology",
+      "weight": 0.313034
+    },
+    {
+      "sector": "Health Care",
+      "weight": 0.220282
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "weight": 0.148369
+    },
+    {
+      "sector": "Communications",
+      "weight": 0.147133
+    },
+    {
+      "sector": "Financials",
+      "weight": 0.108674
+    },
+    {
+      "sector": "Industrials",
+      "weight": 0.060329
+    },
+    {
+      "sector": "Unknown",
+      "weight": 0.002178
+    }
+  ],
+  "top_holdings": [
+    {
+      "cusip": "88160R101",
+      "isin": "US88160R1014",
+      "name": "Tesla Inc",
+      "symbol": "TSLA",
+      "weight": 0.108579
+    },
+    {
+      "isin": "CH0334081137",
+      "name": "CRISPR Therapeutics AG",
+      "symbol": "CRSP",
+      "weight": 0.054694
+    },
+    {
+      "cusip": "77543R102",
+      "isin": "US77543R1023",
+      "name": "Roku Inc",
+      "symbol": "ROKU",
+      "weight": 0.049911
+    },
+    {
+      "cusip": "88023B103",
+      "isin": "US88023B1035",
+      "name": "Tempus AI Inc",
+      "symbol": "TEM",
+      "weight": 0.048619
+    },
+    {
+      "cusip": "19260Q107",
+      "isin": "US19260Q1076",
+      "name": "Coinbase Global Inc",
+      "symbol": "COIN",
+      "weight": 0.046134
+    },
+    {
+      "cusip": "82509L107",
+      "isin": "CA82509L1076",
+      "name": "Shopify Inc",
+      "symbol": "SHOP",
+      "weight": 0.042362
+    },
+    {
+      "cusip": "770700102",
+      "isin": "US7707001027",
+      "name": "Robinhood Markets Inc",
+      "symbol": "HOOD",
+      "weight": 0.039899
+    },
+    {
+      "cusip": "007903107",
+      "isin": "US0079031078",
+      "name": "Advanced Micro Devices Inc",
+      "symbol": "AMD",
+      "weight": 0.039671
+    },
+    {
+      "cusip": "880770102",
+      "isin": "US8807701029",
+      "name": "Teradyne Inc",
+      "symbol": "TER",
+      "weight": 0.035632
+    },
+    {
+      "cusip": "07373V105",
+      "isin": "US07373V1052",
+      "name": "Beam Therapeutics Inc",
+      "symbol": "BEAM",
+      "weight": 0.035239
+    }
+  ]
+}

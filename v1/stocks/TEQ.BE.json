@@ -1,0 +1,31 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000CNJKX4",
+    "figi": "BBG000CNKPZ9"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TEQ.BE"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Telenor ASA",
+  "primary_symbol": "TEQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Telenor ASA, together with its subsidiaries, operates as a telecommunication company worldwide. Its principal products and services include mobile communication, fixed line communication, and broadcasting services. The company's mobile communication services comprise voice, data, Internet, and content services, as well as customer equipment and messaging. Its fixed line services consist of telephony, Internet and TV, and leased lines, as well as data and managed services; and broadcasting and data communication services through satellite, terrestrial radio, and TV transmission. The company also provides machine-to-machine communication, as well as internet based services and financial services. Telenor ASA was founded in 1855 and is headquartered in Fornebu, Norway.",
+  "website": "http://www.telenor.com"
+}

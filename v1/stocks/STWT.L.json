@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "STWT.L"
+    }
+  ],
+  "name": "Leverage Shares -1x Twitter ETC",
+  "primary_symbol": "STWT.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares -1x Twitter ETC is an exchange-traded commodity (ETC) designed to provide the inverse (-1x) of the daily performance of Twitter shares. This means the product is designed to increase in value when Twitter's stock price decreases, and vice versa. It's offered by Leverage Shares Public Limited Company."
+}

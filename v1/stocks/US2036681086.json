@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C1W4P2",
+    "cusip": "203668108",
+    "figi": "BBG000C1W7H4",
+    "isin": "US2036681086"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US2036681086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CG5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CG5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CG5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CG5.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COMMUNITY HEALTH SYSTEMS",
+  "primary_symbol": "CG5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Community Health Systems, Inc. is one of the largest publicly traded hospital companies in the United States. It owns and operates general acute care hospitals and affiliated healthcare entities in communities across the country. The company is headquartered in Franklin, Tennessee.",
+  "website": "http://www.chs.net"
+}

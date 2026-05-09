@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KPDBT1",
+    "cusip": "04621X108",
+    "figi": "BBG000KPFHZ9",
+    "isin": "US04621X1081"
+  },
+  "industry_group": "Insurance",
+  "isin": "US04621X1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZAS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZAS.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZAS.DU"
+    }
+  ],
+  "name": "ASSURANT INC.  DL-,01",
+  "primary_symbol": "ZAS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Assurant, Inc. is a global provider of risk management solutions, including insurance, warranty protection, and other related services. They operate in the housing and lifestyle markets, providing solutions for manufactured housing, mortgage lending, and pre-arranged funeral insurance. The company is headquartered in New York, USA."
+}

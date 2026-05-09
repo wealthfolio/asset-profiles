@@ -1,0 +1,53 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG005YV75P6",
+    "figi": "BBG005YV75V9",
+    "isin": "FR0004180578"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0004180578",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9RS.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0MN5.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9RS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9RS.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SWP.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SWORD GROUP SE  EO 1",
+  "primary_symbol": "9RS.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sword Group SE is a technology and consulting company providing IT services and solutions to businesses across various industries. The company offers services in areas such as digital transformation, data management, and software development. Sword Group SE is headquartered in Luxembourg City, Luxembourg.",
+  "website": "http://www.sword-group.com"
+}

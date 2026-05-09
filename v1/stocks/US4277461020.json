@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FJTPR5",
+    "cusip": "427746102",
+    "figi": "BBG000FJTTS6",
+    "isin": "US4277461020"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US4277461020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AXD2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AXD2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRTX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AXD2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AXD2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AXD2.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HERON THERAPEUTICS DL-,01",
+  "primary_symbol": "AXD2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Heron Therapeutics, Inc. is a commercial-stage biotechnology company focused on developing and commercializing novel pharmaceutical products for patients suffering from cancer or pain. The company's products include therapies for chemotherapy-induced nausea and vomiting (CINV) and post-operative pain. Heron Therapeutics is headquartered in San Diego, California.",
+  "website": "http://www.herontx.com"
+}

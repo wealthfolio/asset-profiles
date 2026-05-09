@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG017J18W74",
+    "cusip": "29109X106",
+    "figi": "BBG017J1C4B6",
+    "isin": "US29109X1063"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US29109X1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZPN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AST.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "AZPN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Aspen Technology, Inc.",
+  "primary_symbol": "AZPN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Aspen Technology, Inc., together with its subsidiaries, provides asset optimization solutions in North America, Europe, the Asia Pacific, Latin America, and the Middle East. The company operates in two segments, Subscription and Software, and Services and Other. It offers asset optimization software that optimizes asset design, operations, and maintenance in various industrial environments. The company's software suites include aspenONE Engineering, aspenONE Manufacturing and Supply Chain, and aspenONE Asset Performance that are integrated applications, which allow end users to design process manufacturing environments, monitor operational performances, respond and adapt to operational changes, predict asset reliability and equipment failure, and manage planning and scheduling activities, as well as collaborate across these functions and activities. It also provides software maintenance and support, professional, and training services. The company's customers comprise companies that are engaged in the process and other capital-intensive industries, such as energy, chemicals, engineering, and construction, as well as pharmaceuticals, food and beverage, transportation, power, metals and mining, pulp and paper, and consumer packaged goods. Aspen Technology, Inc. was founded in 1981 and is headquartered in Bedford, Massachusetts.",
+  "website": "http://www.aspentech.com"
+}

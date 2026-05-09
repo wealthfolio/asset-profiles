@@ -1,0 +1,54 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HD6N96",
+    "cusip": "35952H601",
+    "figi": "BBG000HD7VW1",
+    "isin": "US35952H6018"
+  },
+  "industry_group": "Energy",
+  "isin": "US35952H6018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEY2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEY2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FEY2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "FEY2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FEY2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FEY2.SG"
+    }
+  ],
+  "name": "FUELCELL ENERGY  DL-,0001",
+  "primary_symbol": "FEY2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "FuelCell Energy, Inc. designs, manufactures, sells, installs, operates, and services fuel cell power plants. The company's fuel cell power plants convert fuels into electricity through an electrochemical process. FuelCell Energy is headquartered in Danbury, Connecticut."
+}

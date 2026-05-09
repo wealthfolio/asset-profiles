@@ -1,0 +1,58 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG000JHH137",
+    "figi": "BBG000JHH5V7",
+    "isin": "SE0000233934"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "SE0000233934",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRRB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRRB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0H38.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PRRB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PRRB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PRRB.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PRICER AB B  SK-10",
+  "primary_symbol": "PRRB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Pricer AB develops and sells electronic shelf labels (ESLs) and associated infrastructure. Their products enable retailers to digitally manage pricing and product information on store shelves. The company is headquartered in Sweden.",
+  "website": "http://www.pricer.com"
+}

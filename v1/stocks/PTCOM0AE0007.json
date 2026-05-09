@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CCYPG9",
+    "isin": "PTCOM0AE0007"
+  },
+  "isin": "PTCOM0AE0007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "PTCOM0AE0007.SW"
+    }
+  ],
+  "name": "COMPTA EQUIPAMENTO SERV INFO",
+  "primary_symbol": "PTCOM0AE0007.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

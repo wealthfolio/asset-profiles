@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000IRE2"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "AU000000IRE2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRF.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BRF.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IRE.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "IRESS LTD",
+  "primary_symbol": "BRF.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IRESS LTD is an Australian technology company that provides software and information services to the financial services industry. They offer solutions for wealth management, trading, and market data. The company operates in Australia, Asia-Pacific, and other regions.",
+  "website": "http://www.iress.com"
+}

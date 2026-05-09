@@ -1,0 +1,63 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00YHJ5QH4",
+    "figi": "BBG00YHJ5QP5",
+    "isin": "NO0010904923"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Energy",
+  "isin": "NO0010904923",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QJ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QJ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0QJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0QJ.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HPUR.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010904923.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HEXAGON PURUS ASA  NK-,10",
+  "primary_symbol": "0QJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Hexagon Purus ASA develops and manufactures hydrogen systems for fuel cell electric vehicles (FCEVs), compressed natural gas (CNG), biogas, and other gases. The company designs and delivers composite pressure vessels, fuel systems, and related technologies to enable the transition to zero-emission transportation. Hexagon Purus is headquartered in Ålesund, Norway.",
+  "website": "http://hexagongroup.com/hexagon-purus/"
+}

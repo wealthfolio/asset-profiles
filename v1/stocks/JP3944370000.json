@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG004D7JMT1",
+    "figi": "BBG004D7JN00",
+    "isin": "JP3944370000"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3944370000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8EG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8EG.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2931.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8EG.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EUGLENA CO. LTD",
+  "primary_symbol": "8EG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "EUGLENA CO. LTD: Euglena Co., Ltd. is a Japanese biotechnology company that develops and sells health food, cosmetics, and biofuels using Euglena, a type of algae. The company focuses on sustainable and environmentally friendly products derived from Euglena. Euglena Co., Ltd. is headquartered in Tokyo, Japan.",
+  "website": "http://www.euglena.jp"
+}

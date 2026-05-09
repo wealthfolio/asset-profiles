@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FRQFT0",
+    "cusip": "00130H105",
+    "figi": "BBG000FRRLJ7",
+    "isin": "US00130H1059"
+  },
+  "industry_group": "Utilities",
+  "isin": "US00130H1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AES.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AES.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AES.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AES.SG"
+    }
+  ],
+  "name": "AES CORP.  DL-,01",
+  "primary_symbol": "AES.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "The AES Corporation is a global power generation and utility company. AES generates and distributes electricity through various sources, including renewable energy, thermal power, and energy storage. The company is headquartered in Arlington, Virginia."
+}

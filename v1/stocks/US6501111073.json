@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FFC0B3",
+    "cusip": "650111107",
+    "figi": "BBG000FFD4B4",
+    "isin": "US6501111073"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US6501111073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NYT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NYT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NYT.MU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "NYT.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NYT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NYT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NYT.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "The New York Times Company",
+  "primary_symbol": "NYT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "The New York Times Company, together with its subsidiaries, provides news and information for readers and viewers across various platforms worldwide. It offers The New York Times (The Times), a daily and Sunday newspaper in the United States, as well as international edition of The Times; and operates the NYTimes.com Website. The company also transmits articles, graphics, and photographs from The Times and other publications to approximately 1,500 newspapers, magazines, and Websites; licenses electronic databases to resellers in the business, professional, and library markets; and offers magazine licensing, news digests, book development, and rights and permissions. In addition, it engages in the live events business, which hosts physical and virtual live events to connect audiences with journalists and outside thought leaders; operates Wirecutter, a product review and recommendation Website that serves as a guide to technology gear, home products, and other consumer goods; develops mobile applications, including games and Cooking products; prints and distributes products for third parties; and offers other products and services. The company was founded in 1851 and is headquartered in New York, New York.",
+  "website": "http://www.nytco.com"
+}

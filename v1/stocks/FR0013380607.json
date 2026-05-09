@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0013380607"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0013380607",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CACC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2D5.F"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "CRDA34.SA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Credit Acceptance Corporation",
+  "primary_symbol": "CACC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Credit Acceptance Corporation provides financing programs, and related products and services to independent and franchised automobile dealers in the United States. The company advances money to dealers in exchange for the right to service the underlying consumer loans; and buys the consumer loans from the dealers and keeps various amounts collected from the consumers. It is also involved in the business of reinsuring coverage under vehicle service contracts sold to consumers by dealers on vehicles financed by the company. Credit Acceptance Corporation was founded in 1972 and is headquartered in Southfield, Michigan.",
+  "website": "http://www.creditacceptance.com"
+}

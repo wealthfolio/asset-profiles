@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FC6WH1",
+    "cusip": "443304100",
+    "figi": "BBG000FC70F2",
+    "isin": "US4433041005"
+  },
+  "isin": "US4433041005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HUP.SG"
+    }
+  ],
+  "name": "HUANENG PWR H YC 1 ADR/40",
+  "primary_symbol": "HUP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

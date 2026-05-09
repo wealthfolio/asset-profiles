@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "cusip": "128058203",
+    "isin": "US1280582032"
+  },
+  "isin": "US1280582032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8NE2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8NE2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8NE2.SG"
+    }
+  ],
+  "name": "CALADRIUS BIOSC.  DL-,001",
+  "primary_symbol": "8NE2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

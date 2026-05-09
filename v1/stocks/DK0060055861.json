@@ -1,0 +1,66 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "DK0060055861"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "DK0060055861",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0DZ0.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHY.MU"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "CHEMM.CO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CHY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CHY.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CHY.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DK0060055861.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CHEMOMETEC A/S CHEMOMETEC ORD S",
+  "primary_symbol": "0DZ0.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CHEMOMETEC A/S CHEMOMETEC ORD S is a Danish biotech company that develops, manufactures and markets cell counting and analysis instruments. The company provides solutions for cell counting, viability determination, and other cell analysis applications in research and development, with headquarters in Allerod, Denmark.",
+  "website": "http://fundinvestor.calamos.com/ClosedEndFunds/CEFund.aspx?name=CHY"
+}

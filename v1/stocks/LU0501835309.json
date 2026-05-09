@@ -1,0 +1,58 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG000QVZ1C8",
+    "figi": "BBG000QVZ4H7",
+    "isin": "LU0501835309"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "LU0501835309",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCCTF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "COC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "COC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "COC.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "L'OCCITANE INTERNATIONAL",
+  "primary_symbol": "COC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "L'OCCITANE INTERNATIONAL is L'Occitane International SA traded on the Berne exchange. L'Occitane International S.A. is a global retailer of cosmetics and well-being products. The company offers skincare, fragrance, and home products.",
+  "website": "http://group.loccitane.com"
+}

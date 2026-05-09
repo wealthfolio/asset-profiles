@@ -1,0 +1,89 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000NVSBL7",
+    "cusip": "670002401",
+    "figi": "BBG000NVSR05",
+    "isin": "US6700024010"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6700024010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVAX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVV1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVV1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVV1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVV1.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "NVAX.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NVAX.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NVV1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NVV1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NVV1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Novavax, Inc.",
+  "primary_symbol": "NVAX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Novavax, Inc., a biotechnology company, focuses on the discovery, development, and commercialization of vaccines to prevent serious infectious diseases and address health needs. The company's vaccine candidates include NVX-CoV2373, a coronavirus vaccine candidate that is in two Phase III trials, one Phase IIb trial, and one Phase I/II trial; NanoFlu, a nanoparticle seasonal quadrivalent influenza vaccine candidate that is in Phase 3 clinical trial; and ResVax, a respiratory syncytial virus (RSV) fusion (F) protein nanoparticle vaccine candidate. It is also developing RSV F vaccine that is in Phase II clinical trial for older adults (60 years and older), as well as that is in Phase I clinical trial for pediatrics. In addition, the company develops vaccine candidates for the protection against middle east respiratory syndrome, as well as that is in preclinical work associated with severe acute respiratory syndrome; and ebola virus glycoprotein vaccine candidate, as well as COVID-19 vaccine for variant strain. It has a collaboration agreement with Takeda Pharmaceutical Company Limited for the development, manufacturing, and commercialization of NVX-CoV2373, a COVID-19 vaccine candidate. Novavax, Inc. was incorporated in 1987 and is headquartered in Gaithersburg, Maryland.",
+  "website": "http://www.novavax.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000LBHZ05",
+    "figi": "BBG000LBJ2P9",
+    "isin": "GB00B1V9NW54"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GB00B1V9NW54",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FAG.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FAG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B1V9NW54.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HILTON FOOD GROUP PLC",
+  "primary_symbol": "FAG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Hilton Food Group PLC is a food packaging company specializing in supplying major international retailers with packaged meat and food products. Their business model involves long-term partnerships with retailers, focusing on quality, efficiency, and sustainability in their operations, primarily in Europe and Australia. The company is headquartered in Huntingdon, United Kingdom.",
+  "website": "http://www.hiltonfoodgroupplc.com"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FP08G2",
+    "cusip": "641255807",
+    "figi": "BBG000FP0DJ8",
+    "isin": "US6412558073"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US6412558073",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NLZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NLZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NURO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NLZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6412558073.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NEUROMETRIX INC.  DL-0001",
+  "primary_symbol": "NLZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NeuroMetrix, Inc., a healthcare company, develops and markets products for the detection, diagnosis, and monitoring of peripheral nerve and spinal cord disorders. The company develops wearable neuro-stimulation therapeutic devices and point-of-care neuropathy diagnostic tests to address chronic health conditions, including chronic pain, sleep disorders, and diabetes. Its marketed products include Quell, a wearable device for relief of chronic intractable pain, such as nerve pain due to diabetes and lower back problems; DPNCheck, a test used to evaluate systemic neuropathies, such as diabetic peripheral neuropathy; ADVANCE system, a platform for the performance of traditional nerve conduction studies; and SENSUS, a pain therapy device based on transcutaneous electrical nerve stimulation for relief of chronic intractable pain. The company offers its products to consumers, retail merchandisers, direct response TV promoters, health care professionals, managed care organizations, endocrinologists, podiatrists, physicians, neurologists, and physical medicine and rehabilitation centers, as well as primary care, internal medicine, orthopedic, hand, and neurosurgeons. It operates in the United States, Europe, Japan, China, the Middle East, and Mexico. The company has a strategic collaboration with GlaxoSmithKline. NeuroMetrix, Inc. was founded in 1996 and is based in Woburn, Massachusetts.",
+  "website": "http://www.neurometrix.com"
+}

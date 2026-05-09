@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00QQ7VVH7",
+    "figi": "BBG00QQ7VVP8",
+    "isin": "CA00175D1006"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CA00175D1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2Q0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2Q0.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2Q0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2Q0.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "AMPD.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA00175D1006.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AMPD VENTURES INC",
+  "primary_symbol": "2Q0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "AMPD Ventures Inc. is a technology company focused on high-performance computing solutions for digital content creation, gaming, and artificial intelligence. The company provides infrastructure and services tailored to meet the demands of these industries. AMPD Ventures Inc. is headquartered in Vancouver, British Columbia, Canada.",
+  "website": "http://www.ampd.tech"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA09076J1084"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA09076J1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNVCF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8MV.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BHSC.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA09076J1084.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BioHarvest Sciences Inc.",
+  "primary_symbol": "CNVCF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BioHarvest Sciences Inc., together with its subsidiaries, offers nutraceutical super fruits and cannabis verticals in Israel and internationally. Its plant cell growth technology produces the active secondary metabolites without the necessity to grow the plant itself. The company designs, develops, manufactures, and markets Vinia, a red grape powder nutraceutical product; and medical cannabis. BioHarvest Sciences Inc. is based in Vancouver, Canada.",
+  "website": "http://www.bioharvest.com"
+}

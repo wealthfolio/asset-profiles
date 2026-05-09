@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00Y9CJSV3",
+    "figi": "BBG00Y9CJT14",
+    "isin": "KYG009701064"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "KYG009701064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "55U.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "55U.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1163.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "55U.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ADTIGER CORP.LTD.DL-,0005",
+  "primary_symbol": "55U.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Adtiger Corps Ltd., an investment holding company, provides online advertising services in the People's Republic of China and internationally. Its online advertising platform connects advertisers with media publishers. The company provides overseas online advertising services to China-based advertisers. Its advertising platform provides one-stop services to advertisers for their needs of user acquisition, as well as to media publishers for their needs of monetization. The company was founded in 2015 and is headquartered in Beijing, China.",
+  "website": "http://www.adtiger.hk"
+}

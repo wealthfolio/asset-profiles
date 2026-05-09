@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005413510"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "IT0005413510",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SEB.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Sebino S.p.A.",
+  "primary_symbol": "SEB.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sebino S.p.A. engages in the design, development, installation, and maintenance of fire-fighting systems for the detection of fires or intrusions. It also provides security system integration services for smoke detection, anti-intrusion, access control, video surveillance with video analysis, and other systems; and services for system, fire prevention, security, smoke detection, and CCTV. The company was founded in 1979 and is headquartered in Madone, Italy.",
+  "website": "http://www.sebino.eu"
+}

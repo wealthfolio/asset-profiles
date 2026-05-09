@@ -1,0 +1,68 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG003CRP618",
+    "figi": "BBG003CRP672",
+    "isin": "JP3705200008"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "JP3705200008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAPSY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JPNRF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "JAL.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JAL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JAL.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JALA.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "JAPAN AIRLINES CO. LTD",
+  "primary_symbol": "JAL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Japan Airlines Co., Ltd. is a major international airline based in Japan. The company provides passenger and cargo air transportation services to destinations worldwide. Japan Airlines is headquartered in Tokyo, Japan.",
+  "website": "http://www.jal.com/en"
+}

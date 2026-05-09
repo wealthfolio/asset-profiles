@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA8310063091"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA8310063091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLGWF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLNG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "84S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "84S.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SLNG.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SLNG.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SLANG Worldwide Inc.",
+  "primary_symbol": "SLGWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SLANG Worldwide Inc. operates as a cannabis consumer packaged goods company worldwide. It owns, licenses, and/or markets 11 brands which serve flower, inhalable concentrates, and ingestibles, including edibles and pressed pills. The company was formerly known as Fire Cannabis Inc. and changed its name to SLANG Worldwide Inc. in November 2018. SLANG Worldwide Inc. was incorporated in 2017 and is headquartered in Toronto, Canada.",
+  "website": "http://www.slangww.com"
+}

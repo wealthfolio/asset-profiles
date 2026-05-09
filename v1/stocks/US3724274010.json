@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005ZSJX05",
+    "cusip": "372427401",
+    "figi": "BBG005ZSJX69",
+    "isin": "US3724274010"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US3724274010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GBI1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GBI1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GNCA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A51.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GBI1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GBI1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GENOCEA BIOSCIENC.DL-,001",
+  "primary_symbol": "GBI1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Genocea Biosciences, Inc., a biopharmaceutical company, discovers and develops novel cancer immunotherapies. The company uses its proprietary discovery platform, ATLAS, which profiles each patient's CD4+ and CD8+ T cell immune responses to every target or antigen identified by next-generation sequencing of that patient's tumor. Its products include GEN-011, an adoptive T cell therapy using neoantigen-targeted peripheral cells for ATLAS identified anti-tumor antigens that are used to manufacture peripheral blood-derived tumor-specific T cell therapy; and GEN-009, a neoantigen vaccine candidate, delivering adjuvanted synthetic long peptides spanning ATLAS-identified anti-tumor neoantigens. The company was incorporated in 2006 and is based in Cambridge, Massachusetts.",
+  "website": "http://www.genocea.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BCL266",
+    "figi": "BBG000BCL5B3",
+    "isin": "DE0005767909"
+  },
+  "industry": "Water Utilities",
+  "industry_group": "Utilities",
+  "isin": "DE0005767909",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FHW.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FHW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FHW.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FERNHEIZ.NEUKOELLN O.N.",
+  "primary_symbol": "FHW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Fernheizwerk Neuk√É¬∂lln Aktiengesellschaft operates as a district heating supplier. The company generates and distributes heating energy to approximately 40,000 households, as well as various department stores, hotels, other commercial and industrial customers, and public facilities primarily in the district of Neuk√É¬∂lln, Berlin. It also generates electricity; and rents commercial premises. The company was founded in 1911 and is based in Berlin, Germany.",
+  "website": "http://www.fhw-neukoelln.de"
+}

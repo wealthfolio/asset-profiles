@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00YD4G6P4",
+    "cusip": "49705R105",
+    "figi": "BBG00YD4G6V7",
+    "isin": "US49705R1059"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US49705R1059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6KB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KNTE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6KB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6KB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US49705R1059.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Kinnate Biopharma Inc.",
+  "primary_symbol": "6KB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Kinnate Biopharma Inc., a biopharmaceutical company, focuses on the discovery and development of small molecule kinase inhibitors to treat genomically defined cancers. It develops KIN-2787, which is a rapidly accelerated fibrosarcoma inhibitor for the treatment of patients with lung cancer, melanoma, and other solid tumors; KIN-3248 small-molecule kinase inhibitors that target cancer-associated alterations in fibroblast growth factor receptors (FGFR)2 and FGFR3 genes; and small molecule research programs, including a Cyclin-Dependent Kinase 12 inhibitor in its KIN004 program. The company was incorporated in 2018 and is headquartered in San Diego, California.",
+  "website": "http://www.kinnate.com"
+}

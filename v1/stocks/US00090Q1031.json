@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BP9WJ1",
+    "cusip": "00090Q103",
+    "figi": "BBG00JLZ5SD6",
+    "isin": "US00090Q1031"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US00090Q1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADT"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "541.SI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ADT.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ADT Inc.",
+  "primary_symbol": "ADT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ADT Inc. provides security, automation, and smart home solutions to consumer and business customers in the United States. It provides a range of fire detection, fire suppression, video surveillance, and access control systems to residential, commercial, and multi-site customers. The company primarily offers monitored security and automation solutions, including the installation and monitoring of security and premises automation systems designed to detect intrusion, control access, sense movement, smoke, fire, carbon monoxide, flooding, temperature, and other environmental conditions and hazards; and address personal emergencies, such as injuries, medical emergencies, or incapacitation. It also provides interactive and smart home solutions that allow customers to use their smart phones, tablets, and laptops to arm and disarm their security systems, adjust lighting or thermostat levels, and view real-time video of their premises; and create customized and automated schedules for managing lights, thermostats, appliances, garage doors, cameras, and other connected devices, as well as offers monitoring and maintenance services. The company offers its products under the ADT, ADT Pulse, Protection 1, ADT Commercial, and Blue by ADT names. As of December 31, 2020, it operated through a network of approximately 300 sales and service offices, 9 underwriter laboratories listed monitoring centers, 18 sales and customer and field support locations, 4 national sales call centers, and 3 regional distribution centers. The company was formerly known as Prime Security Services Parent, Inc. and changed its name to ADT Inc. in September 2017. ADT Inc. was founded in 1874 and is headquartered in Boca Raton, Florida.",
+  "website": "http://www.adt.com"
+}

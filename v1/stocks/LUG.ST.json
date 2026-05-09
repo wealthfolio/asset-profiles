@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG007RB7SR2",
+    "figi": "BBG007RB7SS1"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LUG.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Lundin Gold Inc.",
+  "primary_symbol": "LUG.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lundin Gold Inc. operates as a mining company in Canada. The company holds interests in 29 metallic mineral concessions and three materials concessions covering an area of approximately 64,609 hectares located in Southeast Ecuador. It primary holds interests in the Fruta del Norte gold project that comprises seven concessions covering an area of approximately 5,566 hectares located near the city of Loja in Ecuador. The company was formerly known as Fortress Minerals Corp. and changed its name to Lundin Gold Inc. in December 2014. Lundin Gold Inc. was incorporated in 1986 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.lundingold.com"
+}

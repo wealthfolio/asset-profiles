@@ -1,0 +1,63 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00GDBZ3V6",
+    "figi": "BBG00GDBZ417",
+    "isin": "BE0974310428"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "BE0974310428",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XFB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XFB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ROZ.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "XFAB.PA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XFB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XFB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XFB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "X-FAB SILICON FOUNDRIES",
+  "primary_symbol": "XFB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "X-FAB SILICON FOUNDRIES is a specialty foundry group manufacturing silicon wafers for analog/mixed-signal, CMOS and specialty technologies. The company focuses on automotive, industrial, medical and other demanding applications. X-FAB is headquartered in Tessenderlo, Belgium.",
+  "website": "http://www.xfab.com"
+}

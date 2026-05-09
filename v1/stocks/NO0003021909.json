@@ -1,0 +1,86 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0003021909"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "NO0003021909",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABGSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DAB.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IZM.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ABG.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ABGO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "ASC.BR"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ASC.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "ASCO.AT"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "DAB.CO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DAB.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0003021909.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ABG Sundal Collier Holding ASA",
+  "primary_symbol": "ABGSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ABG Sundal Collier Holding ASA, together with its subsidiaries, provides investment banking, stock broking, and corporate advisory services in Norway, Sweden, Denmark, and internationally. It operates through three segments: Corporate Financing, M&A and Advisory, and Brokerage and Research. The company offers corporate financing services, including debt advisory and sourcing services, such as loans, factoring, and leasing; and corporate advisory services in the areas of mergers and acquisitions, sales, and financial restructurings. It also provides secondary brokerage and research services in equities, bonds, derivatives, structured products, and FX. The company was founded in 1984 and is headquartered in Oslo, Norway.",
+  "website": "http://www.abgsc.com"
+}

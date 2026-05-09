@@ -1,0 +1,72 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "122017106",
+    "isin": "US1220171060"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US1220171060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BUI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BUI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BURL"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "BUI.BK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BUI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BUI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BUI.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BUI.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "BURL.MX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BlackRock Utilities, Infrastructure & Power Opportunities Trust",
+  "primary_symbol": "BUI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BlackRock Utility, Infrastructure & Power Opportunities Trust is a closed ended equity mutual fund launched by BlackRock, Inc. The fund is managed by BlackRock Advisors, LLC. It invests in public equity markets across the globe. The fund seeks to invest in stocks of companies operating in the utilities and infrastructure sectors. It invests in stocks of companies across diversified market capitalizations. The fund also invests through derivatives, with an emphasis on option writing. The fund was formerly known as BlackRock Utility and Infrastructure Trust. BlackRock Utility, Infrastructure & Power Opportunities Trust was formed on November 22, 2011 and is domiciled in the United States.",
+  "website": "http://www.blackrock.com/investing/products/240173/blackrock-utility-and-infrastructure-trust-fund"
+}

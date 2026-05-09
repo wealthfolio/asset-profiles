@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00YVLPG56",
+    "figi": "BBG00YVLPGG4",
+    "isin": "DE000A2LQ884"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Retailing",
+  "isin": "DE000A2LQ884",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AG1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AG1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AG1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AG1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AG1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AG1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AG1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AG1.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2LQ884.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AUTO1 GROUP SE  INH O.N.",
+  "primary_symbol": "AG1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "AUTO1 Group SE operates a digital platform for buying and selling used cars in Europe. The company connects professional car dealers and consumers, providing a marketplace for trading vehicles. AUTO1 Group SE is headquartered in Berlin, Germany.",
+  "website": "http://www.auto1-group.com"
+}

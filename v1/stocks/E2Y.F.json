@@ -1,0 +1,27 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E2Y.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EEMS Italia SpA",
+  "primary_symbol": "E2Y.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "EEMS Italia SpA operates in the semiconductor and photovoltaic sectors. It offers assembling and testing services for semiconductor and DRAM memories; and engineering, development, and installation services for turnkey photovoltaic systems. The company is based in Cittaducale, Italy.",
+  "website": "http://www.eems.it"
+}

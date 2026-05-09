@@ -1,0 +1,27 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "WILS.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Wilson ASA",
+  "primary_symbol": "WILS.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Wilson ASA, a short sea company, engages in the chartering and operation of vessels in the short sea bulk sector in Europe. It operates through a fleet of 122 vessels in the range of 1500-8500 dwt. The company was founded in 1923 and is based in Bergen, Norway. Wilson ASA is a subsidiary of Caiano AS.",
+  "website": "http://www.wilsonship.no"
+}

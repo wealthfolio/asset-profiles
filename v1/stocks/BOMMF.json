@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOMMF"
+    }
+  ],
+  "name": "DB Base Metals Double Short ETN",
+  "primary_symbol": "BOMMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The DB Base Metals Double Short ETN is an exchange-traded note that seeks to provide inverse exposure to an index of base metals futures contracts. The ETN is designed to provide two times the inverse of the daily performance of the underlying index. Due to its leveraged and inverse nature, it is typically used for short-term trading strategies."
+}

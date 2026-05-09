@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00W6VZLL6",
+    "cusip": "433000106",
+    "figi": "BBG00W6VZLS9",
+    "isin": "US4330001060"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US4330001060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "82W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "82W.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "82W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4330001060.SG"
+    }
+  ],
+  "name": "HIMS+HERS HERS A DL-,0001",
+  "primary_symbol": "82W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Hims & Hers Health, Inc. is a telehealth company that offers a variety of health and wellness products and services online, including personalized treatments for conditions like hair loss, erectile dysfunction, and mental health. The company operates through a direct-to-consumer platform and its headquarters are located in San Francisco, California."
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00188TWG2",
+    "cusip": "69404D108",
+    "figi": "BBG00188TWN4",
+    "isin": "US69404D1081"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US69404D1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P09.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PACB"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P09.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P09.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PAC.BIOSCI.OF CAL.DL-,001",
+  "primary_symbol": "P09.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pacific Biosciences of California (PacBio) is a biotechnology company that designs, develops, and manufactures advanced sequencing systems. The company's Single Molecule, Real-Time (SMRT) technology enables long-read sequencing, which is used for various applications in genomics research, drug discovery, and diagnostics. PacBio is headquartered in Menlo Park, California.",
+  "website": "http://www.pacb.com"
+}

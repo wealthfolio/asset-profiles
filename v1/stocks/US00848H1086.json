@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P2FHKM1",
+    "cusip": "00848H108",
+    "figi": "BBG00P2FHKT4",
+    "isin": "US00848H1086"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00848H1086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0X4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0X4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US00848H1086.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AGEX THERAPEUTI. DL0,0001",
+  "primary_symbol": "0X4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AGEX THERAPEUTI. DL0,0001 is a biotechnology company. The company is focused on developing and commercializing novel therapies for age-related diseases. Its headquarters location and specific business model details are not readily available.",
+  "website": "http://www.agexinc.com"
+}

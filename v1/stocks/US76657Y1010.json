@@ -1,0 +1,59 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000N72RQ8",
+    "cusip": "76657Y101",
+    "figi": "BBG000N72VM3",
+    "isin": "US76657Y1010"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US76657Y1010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3JDA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTMVF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTMVY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3JDA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3JDA.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RMV.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Rightmove plc",
+  "primary_symbol": "3JDA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Rightmove plc, together with its subsidiaries, operates property portals in the United Kingdom. It operates through Agency, New Homes, and Other segments. The Agency segment provides property resale and letting advertising services on its platforms. The New Homes segment provides property advertising services to new home developers and housing associations on its platforms. The Other segment offers overseas and commercial property advertising services; and non-property advertising services that include third party advertising and data services. The company also provides tenant references and rent guarantee insurance services to landlords. It serves estate agents, lettings agents, and new homes developers. Rightmove plc was founded in 2000 and is based in Milton Keynes, the United Kingdom.",
+  "website": "http://plc.rightmove.co.uk"
+}

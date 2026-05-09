@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00HMKFRN2",
+    "cusip": "650194103",
+    "figi": "BBG00HMKFRV3",
+    "isin": "US6501941032"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "US6501941032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N1K.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N1K.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "N1K.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N1K.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6501941032.SG"
+    }
+  ],
+  "name": "NEWAGE INC.  -,001",
+  "primary_symbol": "N1K.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "NewAge, Inc. is a consumer products company that develops, markets, and sells a portfolio of healthy lifestyle brands. The company's products include beverages, nutritional supplements, and personal care items. NewAge, Inc. is headquartered in American Fork, Utah."
+}

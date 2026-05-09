@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG006994RH5",
+    "figi": "BBG006994RN8",
+    "isin": "GB0007669376"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "GB0007669376",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1IV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STJPF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "STJ.L"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ST.JAMES'S PLACE  LS-,15",
+  "primary_symbol": "1IV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "St. James's Place plc is a wealth management company providing financial advice and investment management services to individuals and businesses. The company offers a range of products, including pensions, investments, and insurance, primarily in the UK. TICKER: St. James's Place plc is a wealth management company providing financial advice and investment management services to individuals and businesses, offering a range of products primarily in the UK.",
+  "website": "http://www.sjp.co.uk"
+}

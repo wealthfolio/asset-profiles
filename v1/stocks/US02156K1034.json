@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00H1LP2H4",
+    "cusip": "02156K103",
+    "figi": "BBG00H1LP2P5",
+    "isin": "US02156K1034"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US02156K1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "15PA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "15PA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATUS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "15PA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "15PA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALTICE USA  CL.A  DL-,01",
+  "primary_symbol": "15PA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "ALTICE USA CL.A DL-,01 is a telecommunications and media company in the United States. Altice USA provides broadband, video, mobile, and advertising services to residential and business customers. The company's headquarters are located in New York, NY.",
+  "website": "http://www.alticeusa.com"
+}

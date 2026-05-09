@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000J2HBJ1",
+    "figi": "BBG000J2HFL9",
+    "isin": "GB0031852162"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB0031852162",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JI5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JUBPF"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "JBL.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JI5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JI5.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "JLP.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "JUBILEE METALS GR. LS-,01",
+  "primary_symbol": "JI5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Jubilee Metals Group PLC is a metals processing and recovery company focused on surface retreatment and metal extraction projects. The company specializes in the recovery of platinum group metals (PGMs), chrome, lead, zinc, and other metals from tailings, waste materials, and slag. Jubilee Metals Group operates primarily in South Africa and Zambia.",
+  "website": "http://www.jubileemetalsgroup.com"
+}

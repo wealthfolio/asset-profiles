@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C1RDC2",
+    "figi": "BBG000C1RH60",
+    "isin": "JP3811000003"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "JP3811000003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FJK.BE"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "5803.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FJK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FJK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FJK.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FUJIKURA LTD",
+  "primary_symbol": "FJK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FUJIKURA LTD is a Japanese manufacturer of electric power and telecommunication cables, fiber optic products, and related equipment. They also produce electronic components and automotive wiring harnesses. Fujikura is headquartered in Tokyo, Japan.",
+  "website": "http://www.fujikura.co.jp"
+}

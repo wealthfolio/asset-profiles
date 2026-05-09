@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BXXGH4",
+    "figi": "BBG000BXXKC0",
+    "isin": "ID1000058407"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "ID1000058407",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UTY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UTY.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UTY.SG"
+    }
+  ],
+  "name": "UTD TRACTORS  RP  250",
+  "primary_symbol": "UTY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "United Tractors PT is an Indonesian company engaged in heavy equipment distribution, mining contracting, and coal mining. The company distributes Komatsu heavy equipment and provides mining services. United Tractors also operates coal mines in Indonesia."
+}

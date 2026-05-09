@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00LNM1TP7",
+    "figi": "BBG00LNM1TV0",
+    "isin": "DE000A2NB7S2"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Real Estate",
+  "isin": "DE000A2NB7S2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRU.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2NB7S2.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE000A2NB7S2.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TRU.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TRU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TRU.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TRAUMHAUS AG  INH O.N.",
+  "primary_symbol": "TRU.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "TRAUMHAUS AG is a real estate company focused on residential properties. It likely buys, sells, and manages real estate assets. The company is based in Germany.",
+  "website": "http://www.traumhaus-familie.de"
+}

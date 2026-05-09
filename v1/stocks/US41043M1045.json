@@ -1,0 +1,47 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "cusip": "41043M104",
+    "isin": "US41043M1045"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "US41043M1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLPPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLPPY"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0101.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AOP.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Hang Lung Properties Limited",
+  "primary_symbol": "HLPPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Hang Lung Properties Limited, an investment holding company, engages in the property investment, development, and management activities in Hong Kong and Mainland China. The company operates through Property Leasing and Property Sales segments. The company is involved in the property leasing business; and development and sale of properties. Its investment properties portfolio includes shopping malls, office, residential, serviced apartment, hotel, and car parking properties, as well as industrial premises. The company also engages in the apartment operating and management; car parking and project management; and property agency activities. In addition, it provides management and financial services. The company was incorporated in 1949 and is headquartered in Central, Hong Kong. Hang Lung Properties Limited is a subsidiary of Hang Lung Group Limited.",
+  "website": "http://www.hanglung.com"
+}

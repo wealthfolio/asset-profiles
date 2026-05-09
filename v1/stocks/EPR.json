@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BSZYR3",
+    "figi": "BBG000BT0137"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EPR"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "EPR Properties",
+  "primary_symbol": "EPR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "EPR Properties is a leading experiential net lease real estate investment trust (REIT), specializing in select enduring experiential properties in the real estate industry. We focus on real estate venues which create value by facilitating out of home leisure and recreation experiences where consumers choose to spend their discretionary time and money. We have nearly $6.7 billion in total investments across 44 states. We adhere to rigorous underwriting and investing criteria centered on key industry, property and tenant level cash flow standards. We believe our focused approach provides a competitive advantage and the potential for stable and attractive returns.",
+  "website": "http://www.eprkc.com"
+}

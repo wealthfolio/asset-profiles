@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "BMG524401079"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "BMG524401079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRYPF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0683.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KR3.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Kerry Properties Limited",
+  "primary_symbol": "KRYPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Kerry Properties Limited, an investment holding company, engages in the development, investment, management, and trading of properties in Hong Kong, the People's Republic of China, and the Asia Pacific region. The company also owns and operates hotels; and offers logistics and freight forwarding, consultancy, administrative support, project management, financial, IT system and consultancy, estate agency, and construction services. In addition, it is involved in the warehouse operations, as well as operation of restaurants, recreation parks, and ice rinks. The company was incorporated in 1978 and is headquartered in Quarry Bay, Hong Kong. Kerry Properties Limited is a subsidiary of Kerry Group Limited.",
+  "website": "http://www.kerryprops.com"
+}

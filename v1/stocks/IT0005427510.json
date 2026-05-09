@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005427510"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0005427510",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "MTS.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MiT Sim S.p.A.",
+  "primary_symbol": "MTS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MiT Sim S.p.A., an intermediary, offers investment services to SMEs. The company serves clients in raising capital through the financial market and offers specialist service once listed. It provides global coordinator services for IPOs; intermediary services for performing market making functions, as well as produces research reports; equity research services; and order reception and transmission services. The company is based in Milan, Italy.",
+  "website": "http://www.mitsim.it"
+}

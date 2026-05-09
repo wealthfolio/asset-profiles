@@ -1,0 +1,43 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000GJKG57",
+    "figi": "BBG000GJKKP6",
+    "isin": "KYG9877S1021"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "KYG9877S1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YDAB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG9877S1021.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YDAB.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "YUE DA INTL HLDGS HD -,10",
+  "primary_symbol": "YDAB.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Yue Da International Holdings Limited, an investment holding company, operates in the factoring business in the People's Republic of China. It offers trade finance, sales ledger management, customer credit rating, accounts receivable management and collection, credit risk guarantee, and supply chain management services. The company was formerly known as Yue Da Mining Holdings Limited and changed its name to Yue Da International Holdings Limited in December 2018. Yue Da International Holdings Limited was incorporated in 2001 and is headquartered in Sheung Wan, Hong Kong. Yue Da International Holdings Limited is a subsidiary of Yue Da Capital (H.K.) Limited.",
+  "website": "http://www.yueda.com.hk"
+}

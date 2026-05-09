@@ -1,0 +1,22 @@
+{
+  "country": "Cayman Islands",
+  "country_code": "KY",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAMM"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Namib Minerals Ordinary Shares",
+  "primary_symbol": "NAMM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

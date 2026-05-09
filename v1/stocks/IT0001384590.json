@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000HP6981",
+    "figi": "BBG000HP7JC3",
+    "isin": "IT0001384590"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0001384590",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3A1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3A1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AEF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0GY8.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3A1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3A1.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AEF.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "AEF.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AEFFE S.P.A.  EO -,25",
+  "primary_symbol": "3A1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Aeffe S.p.A. designs, manufactures, and distributes fashion and luxury goods, primarily clothing and footwear. The company's brand portfolio includes Alberta Ferretti, Philosophy di Lorenzo Serafini, Moschino, and Pollini. Aeffe is headquartered in San Giovanni in Marignano, Italy.",
+  "website": "http://www.aberdeench.com"
+}

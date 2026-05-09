@@ -1,0 +1,27 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "01R.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DataWalk S.A.",
+  "primary_symbol": "01R.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DataWalk S.A. operates as a software company in Poland. The company offers DataWalk, a software platform for data blending, analysis, and investigations. Its solutions include anti-money laundering, bank fraud, insurance fraud, intelligence analysis software, law enforcement, procurement fraud, analytics sandbox, and rapid deployment data analysis platform. The company is based in Wroclaw, Poland.",
+  "website": "http://www.datawalk.pl"
+}

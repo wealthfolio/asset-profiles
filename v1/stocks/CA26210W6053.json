@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "CA26210W6053"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "CA26210W6053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ABB.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "ABB.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "ABB.NS"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "ABBA.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Aussie Broadband Limited",
+  "primary_symbol": "ABB.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Aussie Broadband Limited provides telecommunications services to homes and businesses in Australia. The company offers national broadband network (NBN) subscription plans and bundles to residential homes, small businesses, not-for-profits, corporate/enterprises, and managed service providers. It also provides a range of other telecommunications services, including Voice over Internet Protocol, mobile plans, and entertainment bundles; and sells mobile phone plans, Fetch TV subscriptions, and other telecommunication products and services. In addition, the company offers businesses a range of services and solutions, such as multi-handset phone systems, voice connectivity, security, redundancy, and private networks; and support packages, which include 24x7 enterprise support, uptime guarantees, and NBN enhanced service level guarantees. As of June 30, 2020, it served approximately 243,000 residential connections. The company was founded in 2008 and is headquartered in Morwell, Victoria.",
+  "website": "http://www.aussiebroadband.com.au"
+}

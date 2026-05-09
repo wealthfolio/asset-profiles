@@ -1,0 +1,26 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "HREIT.BK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Hemaraj Leasehold Real Estate Investment Trust",
+  "primary_symbol": "HREIT.BK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Hemaraj Leasehold Real Estate Investment Trust is a real estate investment trust (REIT) in Thailand. The REIT invests in leasehold rights in industrial properties within industrial estates developed by Hemaraj Land And Development PLC. It aims to generate income for its unitholders through rental and related services.",
+  "website": "http://www.hemarajreit.com"
+}

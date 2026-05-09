@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA1671012039"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA1671012039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMAUF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "CBG.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CLL1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CLL1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Chibougamau Independent Mines Inc.",
+  "primary_symbol": "CMAUF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Chibougamau Independent Mines Inc. engages in the acquisition, exploration, and development of natural resource properties in Canada. It focuses on copper, gold, zinc, silver, iron, titanium, and vanadium deposits located in Chibougamau mining district, Quebec. The company holds twelve exploration properties. Chibougamau Independent Mines Inc. was incorporated in 2010 and is headquartered in Rouyn-Noranda, Canada.",
+  "website": "http://www.chibougamaumines.com"
+}

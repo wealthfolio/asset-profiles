@@ -1,0 +1,51 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE0006851603"
+  },
+  "industry": "Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "DE0006851603",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OLG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OLG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OLG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OLG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OLG.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VERALLIA DTLD AG  O.N.",
+  "primary_symbol": "OLG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Verallia Deutschland AG is a manufacturer of glass packaging for the food and beverage industries. They produce a wide range of glass bottles and jars for various products. The company is based in Germany.",
+  "website": "http://de.verallia.com"
+}

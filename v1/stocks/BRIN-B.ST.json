@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "BRIN-B.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Brinova Fastigheter AB (publ)",
+  "primary_symbol": "BRIN-B.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Brinova Fastigheter AB (publ) operates as a real estate company in southern Sweden. It develops, operates, and manages residential and community properties. The company is headquartered in Helsingborg, Sweden.",
+  "website": "http://www.brinova.se"
+}

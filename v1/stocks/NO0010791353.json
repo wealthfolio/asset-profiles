@@ -1,0 +1,68 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00N8TXML9",
+    "figi": "BBG00N8TXMR3",
+    "isin": "NO0010791353"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "NO0010791353",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MP2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPZZF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A27.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MP2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MP2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MP2.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "MPCC.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "MPCCO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MPC CONTAINER SHIPS  NK 1",
+  "primary_symbol": "MP2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "MPC Container Ships ASA is a container shipping company owning and operating a fleet of container vessels. The company is headquartered in Hamburg, Germany.",
+  "website": "http://www.mpc-container.com"
+}

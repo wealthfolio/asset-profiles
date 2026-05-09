@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG0108LF5X9",
+    "figi": "BBG0108LF621",
+    "isin": "NO0010920945"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Energy",
+  "isin": "NO0010920945",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "36R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HYN.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HYN.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HYN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010920945.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Hynion AS",
+  "primary_symbol": "36R.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Hynion AS, through its subsidiary, Hynion Sverige AB, operates as a hydrogen fuel company in Norway and Sweden. The company designs, builds, and operates hydrogen fueling stations. It operates three hydrogen stations in Oslo and Porsgrunn, Norway, as well as in Gothenburg, Sweden. The company was incorporated in 2019 and is based in B√É¬¶rum, Norway.",
+  "website": "http://www.hynion.com"
+}

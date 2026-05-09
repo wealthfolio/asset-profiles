@@ -1,0 +1,56 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0015988019"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "SE0015988019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RH0.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDRBF"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "NIBE-B.ST"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NIBEB.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NJBC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NJBC.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NIBE INDUSTRIER AB NIBE INDUSTR",
+  "primary_symbol": "0RH0.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NIBE INDUSTRIER AB is a Swedish industrial group that manufactures and markets heating products, heat pumps, and other energy-efficient solutions. The company's products are used in residential, commercial, and industrial applications. NIBE INDUSTRIER AB is headquartered in Markaryd, Sweden.",
+  "website": "http://www.nibe.com"
+}

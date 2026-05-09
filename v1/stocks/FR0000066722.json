@@ -1,0 +1,68 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000G7HRG1",
+    "figi": "BBG000G7HW52",
+    "isin": "FR0000066722"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0000066722",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GUL.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NB2.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "GUI.PA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GUL.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GUL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GUL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GUL.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GUILLEMOT CORP.INH.EO-,77",
+  "primary_symbol": "GUL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Guillemot Corporation designs and manufactures interactive entertainment hardware and accessories. The company offers a variety of products including gaming headsets, racing wheels, and game controllers under the Thrustmaster and Hercules brands. Guillemot Corporation is headquartered in France.",
+  "website": "http://www.guillemot.com"
+}

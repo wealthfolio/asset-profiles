@@ -1,0 +1,41 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "isin": "AU000000SEK6"
+  },
+  "industry": "Household Products",
+  "industry_group": "Software & Services",
+  "isin": "AU000000SEK6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLD.HM"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "SEK.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SLD.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SEEK LTD",
+  "primary_symbol": "SLD.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SEEK Ltd. is an online employment marketplace. The company connects job seekers with employers, offering recruitment advertising and related services. SEEK is headquartered in Melbourne, Australia.",
+  "website": "http://www.seeka.co.nz"
+}

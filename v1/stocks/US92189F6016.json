@@ -1,0 +1,37 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "92189F601",
+    "isin": "US92189F6016"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US92189F6016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NLR.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NLR.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SPARC TECHNOLOGIES LTD.",
+  "primary_symbol": "NLR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sparc Technologies Limited focuses on developing and commercialising graphene based technologies for large industrial markets for marine and protective coatings, and environmental remediation. The company was incorporated in 1984 and is headquartered in Kent Town, Australia.",
+  "website": "http://sparctechnologies.com.au"
+}

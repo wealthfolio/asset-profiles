@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0080SPHV1",
+    "cusip": "819047101",
+    "figi": "BBG0080SPJ10",
+    "isin": "US8190471016"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US8190471016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9SH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9SH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHAK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L5R.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9SH.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SHAK.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Shake Shack Inc.",
+  "primary_symbol": "9SH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Shake Shack Inc. owns, operates, and licenses Shake Shack restaurants (Shacks) in the United States and internationally. Its Shacks offers hamburgers, hot dogs, chicken, crinkle cut fries, shakes, frozen custard, beer, wine, and other products. As of December 30, 2020, it operated 311 Shacks, including 183 domestic company-operated Shacks, 22 domestic licensed Shacks, and 106 international licensed Shacks. Shake Shack Inc. was founded in 2001 and is headquartered in New York, New York.",
+  "website": "http://www.shakeshack.com"
+}

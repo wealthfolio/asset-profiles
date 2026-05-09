@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00JGHVZJ1",
+    "cusip": "23131L107",
+    "figi": "BBG00JGHVZP4",
+    "isin": "US23131L1070"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "US23131L1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CURO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CGE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CGE.SG"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "CGE.SN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CURO Group Holdings Corp.",
+  "primary_symbol": "CGE.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CURO Group Holdings Corp., a diversified consumer finance company, provides consumer finance products to a range of underbanked consumers in the United States and Canada. The company offers unsecured installment loans, secured installment loans, open-end loans, and single-pay loans, as well as ancillary financial products, including check cashing, proprietary reloadable prepaid debit cards, demand deposit accounts, credit protection insurance, retail installment sales, and money transfer services. It also provides loans through online. The company was formerly known as Speedy Group Holdings Corp. and changed its name to CURO Group Holdings Corp. in May 2016. CURO Group Holdings Corp. was founded in 1997 and is headquartered in Wichita, Kansas.",
+  "website": "http://www.curo.com"
+}

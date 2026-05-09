@@ -1,0 +1,54 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000S2QT39",
+    "cusip": "87656Y406",
+    "figi": "BBG000S2QWT4",
+    "isin": "US87656Y4061"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US87656Y4061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HWHG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HWHG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTST.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HWHG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HWHG.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TATA STEEL GDR REGS IR 10",
+  "primary_symbol": "HWHG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "TATA STEEL LIMITED GDR (EACH RE) refers to Global Depositary Receipts (GDRs) representing shares of Tata Steel Limited. These GDRs are traded on the Tel Aviv Stock Exchange. Tata Steel is a multinational steel manufacturing company headquartered in Mumbai, India.",
+  "website": "http://www.tatasteel.com"
+}

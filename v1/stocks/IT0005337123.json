@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "29415B103",
+    "isin": "IT0005337123"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "IT0005337123",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "EVA.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005337123.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Askoll Eva SpA",
+  "primary_symbol": "EVA.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Askoll Eva SpA engages in the manufacture and sale of electric vehicles in Italy. It provides pedal-assisted bikes, electric scooters, and accessories. The company is based in Dueville, Italy. Askoll Eva SpA is a subsidiary of Askoll Holding S.r.l.",
+  "website": "http://www.askollelectric.com"
+}

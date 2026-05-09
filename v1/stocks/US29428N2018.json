@@ -1,0 +1,77 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "cusip": "29428N201",
+    "isin": "US29428N2018"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US29428N2018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECXA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EPGNF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EPGNY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QXH.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ECX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ECX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ECX.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Epigenomics AG",
+  "primary_symbol": "ECX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Epigenomics AG, a molecular diagnostics company, focuses on blood testing for the early detection of cancer. Its lead product is Epi proColon(R), a blood-based test for the early detection of colorectal cancer in the United States, Europe, China. The company's products also include Hepatocellular carcinoma Blood Test, a blood test for cirrhotic patients at high-risk for the development of hepatocellular carcinoma; Epi proLung, a liquid biopsy test for lung cancer detection; and Epi BiSKit, a pre-analytical tool, which provides a set of reagents for the preparation of bisulfite-converted DNA. Its research and development activities identify suitable biomarkers in human tissue and developing and patenting the corresponding in vitro diagnostic tests. Epigenomics AG was founded in 1998 and is headquartered in Berlin, Germany.",
+  "website": "http://www.epigenomics.com"
+}

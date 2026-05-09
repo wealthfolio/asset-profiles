@@ -1,0 +1,54 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LFMVX3",
+    "cusip": "767204100",
+    "figi": "BBG000LFP0T3",
+    "isin": "US7672041008"
+  },
+  "industry_group": "Materials",
+  "isin": "US7672041008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIOA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIOA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIOA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RIOA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RIOA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RIOA.SG"
+    }
+  ],
+  "name": "RIO TINTO PLC LS-10 ADR 1",
+  "primary_symbol": "RIOA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Rio Tinto PLC is a global mining group that focuses on finding, mining, and processing the Earth's mineral resources. The company's products include iron ore, aluminum, copper, diamonds, and energy products. Rio Tinto is headquartered in London, UK and Melbourne, Australia."
+}

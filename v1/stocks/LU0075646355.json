@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "LU0075646355"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "LU0075646355",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0OGK.IL"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "LU0075646355.SW"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SOC.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SUBSEA 7 SA SUBSEA 7 ORD SHS",
+  "primary_symbol": "0OGK.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SUBSEA 7 SA is a Luxembourg-based company that provides subsea engineering, construction, and services to the offshore energy industry. The company's services include project management, engineering, procurement, fabrication, installation, and commissioning of subsea infrastructure. Its headquarters are located in Luxembourg City, Luxembourg.",
+  "website": "http://www.sonoragoldcorp.com"
+}

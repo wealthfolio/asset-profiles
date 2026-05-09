@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1YSL1",
+    "figi": "BBG000C1YWN0",
+    "isin": "JP3223800008"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3223800008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KLI1.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KLI1.DU"
+    }
+  ],
+  "name": "KAWASAKI KISEN",
+  "primary_symbol": "KLI1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kawasaki Kisen Kaisha, Ltd., also known as \"K\" Line, is a Japanese shipping company. It operates a fleet of vessels engaged in container shipping, dry bulk shipping, car carrier services, and energy transportation. Kawasaki Kisen Kaisha, Ltd. is headquartered in Tokyo, Japan."
+}

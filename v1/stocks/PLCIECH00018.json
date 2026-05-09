@@ -1,0 +1,43 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00DP7ZL67",
+    "figi": "BBG00DP7ZLC0",
+    "isin": "PLCIECH00018"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "PLCIECH00018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CHX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CHX.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CIECH S.A.  ZY 5",
+  "primary_symbol": "CHX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Ciech S.A. is a chemical company that produces soda ash, sodium bicarbonate, salt, agro products, and other chemicals. The company is based in Poland.",
+  "website": "http://www.ciechgroup.com"
+}

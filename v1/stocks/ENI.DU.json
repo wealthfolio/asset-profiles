@@ -1,0 +1,27 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ENI.DU"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Eni S.p.A.",
+  "primary_symbol": "ENI.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Eni S.p.A. is an Italian multinational energy company headquartered in Rome. It operates across the entire oil and gas value chain, including exploration, production, refining, distribution, and marketing. Additionally, Eni has expanded into renewable energy and sustainable development initiatives.",
+  "website": "https://www.eni.com/"
+}

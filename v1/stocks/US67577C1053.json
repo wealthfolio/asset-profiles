@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00194VJB1",
+    "cusip": "67577C105",
+    "isin": "US67577C1053"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US67577C1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US67577C1053.SG"
+    }
+  ],
+  "name": "OCUGEN INC",
+  "primary_symbol": "US67577C1053.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "OCUGEN INC is a biopharmaceutical company focused on developing gene therapies to cure blindness diseases. Headquartered in Malvern, Pennsylvania, the company is developing a pipeline of innovative therapies for diseases such as retinitis pigmentosa, dry age-related macular degeneration, and diabetic retinopathy. Ocugen's goal is to restore vision and improve the quality of life for individuals with inherited and age-related eye diseases."
+}

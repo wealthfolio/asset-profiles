@@ -1,0 +1,31 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "isin": "ZAE000298253"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "ZAE000298253",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "NPH.NZ"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Napier Port Holdings Limited",
+  "primary_symbol": "NPH.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Napier Port Holdings Limited provides various port services in the Napier Port. It offers marine, general cargo, container, port pack, and depot services. The company was founded in 1875 and is based in Napier, New Zealand. Napier Port Holdings Limited is a subsidiary of Hawke's Bay Regional Investment Company Limited.",
+  "website": "http://www.napierport.co.nz"
+}

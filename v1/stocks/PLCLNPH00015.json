@@ -1,0 +1,38 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRD7H6",
+    "figi": "BBG00ZHRD7N9",
+    "isin": "PLCLNPH00015"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "PLCLNPH00015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8RP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8RP.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CELON PHARMA S.A. ZY-,10",
+  "primary_symbol": "8RP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Celon Pharma S.A., an integrated pharmaceutical company, researches, manufactures, and markets drugs to treat cancers, neurological diseases, diabetes, and other metabolic disorders. The company was founded in 2002 and is based in Lomianki, Poland. Celon Pharma S.A. is a subsidiary of Glatton Sp. z o.o.",
+  "website": "http://www.celonpharma.com"
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00XK4DF62",
+    "figi": "BBG00ZMHSVV7",
+    "isin": "CA98422W2022"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA98422W2022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "XIGM.CN"
+    }
+  ],
+  "name": "Xigem Technologies Corporation",
+  "primary_symbol": "XIGM.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Xigem Technologies Corporation was incorporated in 2020 and is based in Toronto, Canada.",
+  "website": "http://www.xigemtechnologies.com"
+}

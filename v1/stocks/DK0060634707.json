@@ -1,0 +1,63 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00KDZ1SQ2",
+    "figi": "BBG00KDZ1SX4",
+    "isin": "DK0060634707"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "DK0060634707",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0R6Z.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0R1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DK0060634707.SG"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "RBREW.CO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "RBREWN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ROYAL UNIBREW NAM.  DK 2",
+  "primary_symbol": "0R1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Royal Unibrew A/S is a Danish brewery and beverage company that produces and markets beer, soft drinks, and other beverages. The company's portfolio includes brands such as Faxe Kondi, Ceres, and Albani, operating in several markets across Europe, Africa, and the Americas. Royal Unibrew is headquartered in Faxe, Denmark.",
+  "website": "http://www.royalunibrew.com"
+}

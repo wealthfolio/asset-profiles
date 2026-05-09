@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CBSM.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Societe Centrale des Bois et des Scieries de la Manche S.A.",
+  "primary_symbol": "CBSM.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Societe Centrale des Bois et Scieries de la Manche engages in the ownership, management, and lease of real estate properties in France. It leases offices, business properties, mixed activity locations, and residences. The company is based in Paris, France.",
+  "website": "http://www.scbsm.fr"
+}

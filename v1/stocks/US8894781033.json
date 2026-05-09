@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JPYKP4",
+    "cusip": "889478103",
+    "figi": "BBG000JPYPP3",
+    "isin": "US8894781033"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Retailing",
+  "isin": "US8894781033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLK.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOL"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LFS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TLK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TLK.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "TOL.ST"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TOLL BROTHERS  DL -,01",
+  "primary_symbol": "TLK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Toll Brothers is a luxury home builder that designs, builds, and markets single-family detached and attached homes in suburban communities and urban areas. The company caters to move-up, empty-nester, active-adult, and second-home buyers across the United States. Toll Brothers is headquartered in Fort Washington, Pennsylvania.",
+  "website": "http://www.tollbrothers.com"
+}

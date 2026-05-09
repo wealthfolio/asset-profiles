@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG002030NC4",
+    "cusip": "302492103",
+    "figi": "BBG00ZMJVV21",
+    "isin": "US3024921039"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US3024921039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLYW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Flywire Corporation",
+  "primary_symbol": "FLYW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Flywire Corporation operates as a payment enablement and software company in the United States and internationally. Its payment platform and network, and vertical-specific software help clients to get paid and help their customers to pay. The company's platform facilitates payment flows across multiple currencies, payment types, and payment options; and provides direct connections to alternative payment methods, such as Alipay, Boleto, PayPal/Venmo, and Trustly. It serves education, healthcare, travel, and business to business organizations. Flywire Corporation was formerly known as peerTransfer Corporation and changed its name to Flywire Corporation in December 2016. The company was incorporated in 2009 and is based in Boston, Massachusetts.",
+  "website": "http://www.flywire.com"
+}

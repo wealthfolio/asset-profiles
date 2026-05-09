@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG002B0JJV6",
+    "cusip": "62857J201",
+    "isin": "US62857J2015"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US62857J2015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US62857J2015.SG"
+    }
+  ],
+  "name": "MYOMO INC",
+  "primary_symbol": "US62857J2015.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MYOMO INC is a medical robotics company that develops and commercializes myoelectric orthotics for individuals with neuromuscular conditions. Their MyoPro device is a powered arm brace that can help restore function to paralyzed or weakened arms and hands. Myomo Inc. is headquartered in Cambridge, Massachusetts."
+}

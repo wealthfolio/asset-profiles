@@ -1,0 +1,46 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BFZZM640"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "GB00BFZZM640",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCPPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFOR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BFZZM640.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SFOR.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "S4 Capital plc",
+  "primary_symbol": "SCPPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "S4 Capital plc, together with its subsidiaries, operates as a digital advertising and marketing services company in the Americas, Europe and the Middle East, and the Asia Pacific. It operates through First-Party Data Practice, Content, and Programmatic segments. The company offers contents, campaigns, and assets for paid, social, and earned media, such as digital platforms and apps, as well as brand activations. It provides campaign management analytics, creative production and ad serving, platform and systems integration and transition, and training and education services. The company is headquartered in London, the United Kingdom.",
+  "website": "http://www.s4capital.com"
+}

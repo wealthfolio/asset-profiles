@@ -1,0 +1,69 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG000T5QV18",
+    "cusip": "55933J203",
+    "figi": "BBG001731VN8",
+    "isin": "US55933J2033"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US55933J2033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMG.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L45.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SCQA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SMG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SMG.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Magnachip Semiconductor Corporation",
+  "primary_symbol": "MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Magnachip Semiconductor Corporation, together with its subsidiaries, designs, manufactures, and supplies analog and mixed-signal semiconductor platform solutions for communications, Internet of Things, consumer, industrial, and automotive applications. It provides display solutions, including source and gate drivers, and timing controllers that cover a range of flat panel displays used in mobile communications, automotives, entertainment devices, notebook PCs, monitors and liquid crystal displays, organic light emitting diodes, and micro light emitting diode (LED) televisions. The company also offers metal oxide semiconductor field effect transistors, insulated-gate bipolar transistors, AC-DC converters, DC-DC converters, LED drivers, switching regulators, linear regulators, and power management integrated circuits for a range of devices comprising televisions, smartphones, mobile phones, wearable devices, desktop PCs, notebooks, tablet PCs, and other consumer electronics, as well as for power suppliers, e-bike, photovoltaic inverter, LED lighting, motor drive, and home appliances. It serves consumer, computing, and industrial electronics original equipment manufacturers, original design manufacturers, and electronics manufacturing services companies, as well as subsystem designers in Korea, the Asia Pacific, the United States, Europe, and internationally. The company sells its products through a direct sales force, as well as through a network of agents and representatives; and distributors. Magnachip Semiconductor Corporation is based in Luxembourg, Luxembourg.",
+  "website": "http://www.magnachip.com"
+}

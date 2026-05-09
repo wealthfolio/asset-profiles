@@ -1,0 +1,78 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00175N1R1",
+    "figi": "BBG00175N1Y3",
+    "isin": "CNE100000PP1"
+  },
+  "industry": "Machinery",
+  "industry_group": "Energy",
+  "isin": "CNE100000PP1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CXGH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CXGH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XJNGF"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "002202.SZ"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2208.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2208.T"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "2208.TW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CXGH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CXGH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CXGH.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "XINJIANG GOLDW.SC.+T.H",
+  "primary_symbol": "CXGH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Xinjiang Goldwind Science & Technology Co., Ltd. is a Chinese wind turbine manufacturer. The company designs, manufactures, and markets wind turbine generators and provides wind power solutions. Xinjiang Goldwind is headquartered in Urumqi, Xinjiang, China.",
+  "website": "http://www.goldwind.com.cn/"
+}

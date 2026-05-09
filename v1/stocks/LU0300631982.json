@@ -1,0 +1,31 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "LU0300631982"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "LU0300631982",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "INCLU.BR"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Inclusio SA",
+  "primary_symbol": "INCLU.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Inclusio SA operates as a real estate company in Belgium. It focuses on affordable rental housing, housing for disabled, and social infrastructures. The company is based in Brussels, Belgium.",
+  "website": "http://www.inclusio.be"
+}

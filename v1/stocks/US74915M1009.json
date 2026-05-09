@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000Q8WVT8",
+    "cusip": "74915M100",
+    "figi": "BBG000Q8WZ64",
+    "isin": "US74915M1009"
+  },
+  "industry_group": "Retailing",
+  "isin": "US74915M1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LB3A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LB3A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "LB3A.AS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LB3A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LB3A.SG"
+    }
+  ],
+  "name": "QURATE RETAIL INC. QVC A",
+  "primary_symbol": "LB3A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Qurate Retail, Inc. engages in video and online commerce industries through its subsidiaries. It operates through segments like QxH, which includes QVC and HSN, and Zulily, an online retailer. The company is headquartered in Englewood, Colorado."
+}

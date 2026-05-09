@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WHNJDJ1",
+    "figi": "BBG00WHNJDP4",
+    "isin": "SE0012570448"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0012570448",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5J6.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5J6.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "OSSD.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0012570448.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "OSSDSIGN AB",
+  "primary_symbol": "5J6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "OssDsign AB (publ) designs, manufactures, and sells implants and material technology for bone regeneration in Sweden, Germany, the United States, the United Kingdom, rest of Europe, and internationally. Its products include OSSDSIGN cranial, an implant solution for cranioplasty patients, as well as related accessories; OSSDSIGN facial to treat patients with complex facial skeletal defects; and OSSDSIGN Cranioplug for bone flap fixation and burr hole coverage, as well as nanosynthetic bone graft substitute for treating skeletal defect. The company was incorporated in 2011 and is headquartered in Uppsala, Sweden.",
+  "website": "http://www.ossdsign.com"
+}

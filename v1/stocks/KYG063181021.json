@@ -1,0 +1,58 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000W256J0",
+    "figi": "BBG000W257K6",
+    "isin": "KYG063181021"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "KYG063181021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6AH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AUDYF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1717.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "1717.T"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "1717.TW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6AH.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "AUSNUTRIA DAI.HUNA.HD-,10",
+  "primary_symbol": "6AH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Ausnutria Dairy (Huna) is a company focused on infant milk formula and nutritional products. They develop, produce, and market premium dairy products for infants and young children. The company's brands are sold in various markets globally.",
+  "website": "http://www.ausnutria.com.hk"
+}

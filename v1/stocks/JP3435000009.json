@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1M7G6",
+    "figi": "BBG000C1MD46",
+    "isin": "JP3435000009"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "JP3435000009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SON1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SON1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SON1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SON1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SON1.SG"
+    }
+  ],
+  "name": "SONY GROUP CORP.",
+  "primary_symbol": "SON1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "SONY GROUP CORP. is a global entertainment, technology, and gaming conglomerate. It operates in diverse sectors including electronics, entertainment (music and pictures), gaming (PlayStation), and financial services. The company is headquartered in Tokyo, Japan."
+}

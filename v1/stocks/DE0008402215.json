@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000MDN4R3",
+    "figi": "BBG000MDN9Y4",
+    "isin": "DE0008402215"
+  },
+  "industry_group": "Insurance",
+  "isin": "DE0008402215",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HNR1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HNR1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HNR1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HNR1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HNR1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HNR1.SG"
+    }
+  ],
+  "name": "HANNOVER RUECK SE NA O.N.",
+  "primary_symbol": "HNR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hannover Rück SE is a reinsurance company that provides services and products for covering various risks. The company operates globally, offering traditional reinsurance, as well as structured reinsurance and other risk transfer solutions. Hannover Rück SE is headquartered in Hannover, Germany."
+}

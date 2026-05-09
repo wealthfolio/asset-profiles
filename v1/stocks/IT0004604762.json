@@ -1,0 +1,51 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "IT0004604762"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0004604762",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NJ5.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFLM"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "SFL.BO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SFL.MI"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "SFL.NS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SAFILO GROUP SPA SAFILO GROUP O",
+  "primary_symbol": "0NJ5.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Safilo Group SpA designs, manufactures, and distributes eyewear. It has a portfolio of owned and licensed brands. The company is headquartered in Padua, Italy.",
+  "website": "http://www.dnadynamicsinc.com"
+}

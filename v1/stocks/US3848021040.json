@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BKR1D6",
+    "cusip": "384802104",
+    "figi": "BBG000BKR342",
+    "isin": "US3848021040"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "US3848021040",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GWW"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GWW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GWW.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IZI.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "G1WW34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "GWW.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GWW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GWW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GWW.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "W.W. Grainger, Inc.",
+  "primary_symbol": "GWW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "W.W. Grainger, Inc. distributes maintenance, repair, and operating (MRO) products and services in the United States, Canada, and internationally. The company provides material handling equipment, safety and security supplies, lighting and electrical products, power and hand tools, pumps and plumbing supplies, cleaning and maintenance supplies, and metalworking tools. It also offers inventory management and technical support services. The company provides its products through sales and service representatives, catalogs, and electronic and ecommerce channels. It serves small and mid-sized businesses, large corporations, government entities, and other institutions. W.W. Grainger, Inc. was founded in 1927 and is headquartered in Lake Forest, Illinois.",
+  "website": "http://www.grainger.com"
+}

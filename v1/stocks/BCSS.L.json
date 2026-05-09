@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BCSS.L"
+    }
+  ],
+  "name": "LEVERAGE SHARES PUBLIC LIMITED",
+  "primary_symbol": "BCSS.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "LEVERAGE SHARES PUBLIC LIMITED is a provider of leveraged and inverse exchange-traded products (ETPs). The company offers ETPs that track the performance of various underlying assets, such as individual stocks or indices, with a multiple of their daily returns (e.g., 2x, 3x, -1x). These products are designed for short-term trading and involve a high degree of risk."
+}

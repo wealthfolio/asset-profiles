@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BJ8YJ2",
+    "figi": "BBG000BJ8Z27",
+    "isin": "FR0013247244"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "FR0013247244",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALADO.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "Y2A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "Y2A.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Adomos S.A.",
+  "primary_symbol": "ALADO.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Adomos S.A. distributes investment real estate assets through the Internet in France. It offers real estate investment services, such as conducting property studies, selecting real estate programs, issuing loan offers, handling administrative duties, leasing management, rate guarantee services, etc. The company also publishes real estate ads in free publications and on the Internet. Adomos S.A. was founded in 1999 and is based in Paris, France.",
+  "website": "http://www.adomos.com"
+}

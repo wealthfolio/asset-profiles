@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA64151W1023"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA64151W1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GDSKF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NZN.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nevada Zinc Corporation",
+  "primary_symbol": "GDSKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nevada Zinc Corporation, a mineral exploration company, acquires, explores for, and develops mineral properties in the United States. The company primarily explores for zinc and lead. Its flagship property is the 100% owned Lone Mountain zinc project comprising 202 claims covering an area of approximately 4,000 acres located in Nevada. The company was formerly known as Goldspike Exploration Inc. and changed its name to Nevada Zinc Corporation in March 2015. Nevada Zinc Corporation was incorporated in 2010 and is headquartered in Toronto, Canada.",
+  "website": "http://www.nevadazinc.com"
+}

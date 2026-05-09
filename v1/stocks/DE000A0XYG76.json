@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000DDY0Z0",
+    "figi": "BBG000DDY4B8",
+    "isin": "DE000A0XYG76"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "DE000A0XYG76",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DR0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DR0.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DR0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DR0.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DR0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DR0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DR0.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "DT.ROHSTOFF AG NA O.N.",
+  "primary_symbol": "DR0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Deutsche Rohstoff AG, together with its subsidiaries, engages in the exploration and production of crude oil, and natural gas primarily in North America, Australia, and Europe. It also explores for and develops metal properties, including gold, copper, rare earth elements, tungsten, and tin. The company was founded in 2006 and is based in Mannheim, Germany.",
+  "website": "http://rohstoff.de"
+}

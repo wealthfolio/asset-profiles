@@ -1,0 +1,52 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "191459205",
+    "isin": "US1914592050"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US1914592050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHEOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHEOY"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "COH.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OC5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OC50.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Cochlear Limited",
+  "primary_symbol": "CHEOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Cochlear Limited provides implantable hearing solutions in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company offers cochlear implants, including Nucleus 7, Nucleus 6, Nucleus CP802, and Kanso sound processors; and Baha bone conduction implants, such as Baha attract system, Baha connect system, Baha softband, Baha soundarc, Baha 5 sound processor, and Baha sound processor. It also provides Cochlear true wireless accessories comprising mini microphones, phone clips, and TV streamers; Nucleus water-safe accessories; and training and development services. Cochlear Limited was founded in 1981 and is headquartered in Sydney, Australia.",
+  "website": "http://www.cochlear.com"
+}

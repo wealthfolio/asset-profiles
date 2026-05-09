@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000GMG2"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "AU000000GMG2",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GMGSF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "GMG.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MY4.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Goodman Group",
+  "primary_symbol": "GMGSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Goodman Group is an integrated property group with operations throughout Australia, New Zealand, Asia, Continental Europe, the United Kingdom, North America and Brazil. Goodman Group, comprised of the stapled entities Goodman Limited, Goodman Industrial Trust and Goodman Logistics (HK) Limited, is the largest industrial property group listed on the Australian Securities Exchange and one of the largest listed specialist investment managers of industrial property and business space globally. Goodman's global property expertise, integrated own+develop+manage customer service offering and significant investment management platform ensures it creates innovative property solutions that meet the individual requirements of its customers, while seeking to deliver long-term returns for investors.",
+  "website": "http://www.goodman.com"
+}

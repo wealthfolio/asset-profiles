@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C2YCD3",
+    "figi": "BBG000C2YFX4",
+    "isin": "AU000000HVN7"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Retailing",
+  "isin": "AU000000HVN7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HNN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HNN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HNN.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "HVN.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HARVEY NORMAN HLDGS",
+  "primary_symbol": "HNN.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Harvey Norman Holdings Limited is an Australian retailer that franchises and operates retail stores selling furniture, bedding, computers, communications, and consumer electrical products. The company operates through franchised complexes and company-operated stores. Harvey Norman Holdings Limited is headquartered in Sydney, Australia.",
+  "website": "http://www.harveynormanholdings.com.au"
+}

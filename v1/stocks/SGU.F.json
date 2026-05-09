@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SGU.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Sino-German United AG",
+  "primary_symbol": "SGU.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sino-German United AG operates a trading and service company in Germany and the People's Republic of China. The company was founded in 2016 and is based in Munich, Germany.",
+  "website": "http://www.sgu-ag.de"
+}

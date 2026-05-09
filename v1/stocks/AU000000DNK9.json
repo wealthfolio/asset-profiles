@@ -1,0 +1,71 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000DNK9"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "AU000000DNK9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DNKLY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBMSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SO3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SO3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SO3.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DNK.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DNK.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SO3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SO3.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Danakali Limited",
+  "primary_symbol": "DNKLY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Danakali Limited engages in the exploration of minerals in Eritrea, East Africa. It focuses on the development of the Colluli potash project located in the Danakil Depression region of Eritrea. The company was formerly known as South Boulder Mines Ltd. and changed its name to Danakali Limited in June 2015. Danakali Limited was incorporated in 2001 and is headquartered in Perth, Australia.",
+  "website": "http://www.danakali.com.au"
+}

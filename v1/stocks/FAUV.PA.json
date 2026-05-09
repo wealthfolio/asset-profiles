@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Road & Rail",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "FAUV.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Fauvet-Girel",
+  "primary_symbol": "FAUV.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fauvet-Girel engages in container leasing for rail freight in France. The company is based in Suresnes, France. Fauvet-Girel is a subsidiary of Bernard Krief Consultants SA.",
+  "website": "http://www.fauvet-girel.fr"
+}

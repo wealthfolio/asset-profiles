@@ -1,0 +1,27 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "PYS.NZ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PaySauce Limited",
+  "primary_symbol": "PYS.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "PaySauce Limited provides cloud based employment solutions software to small and medium-sized businesses in New Zealand. It offers mobile timesheets, payroll calculations, banking integration, PAYE filing, labor costing, automated general ledger entries, and digital employment contract services. The company also provides management consulting services. It serves forestry, horticulture, SMEs, retail and service, and tech companies, as well as manufacturers, farmers, traders, charities, and accountants. The company was founded in 2015 and is headquartered in Lower Hutt, New Zealand.",
+  "website": "http://www.paysauce.com"
+}

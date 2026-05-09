@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000QWM2M7",
+    "figi": "BBG000QWM4D3",
+    "isin": "CA1520061021"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA1520061021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGAU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOU.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0UP5.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CG.TO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GOU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GOU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GOU.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Centerra Gold Inc.",
+  "primary_symbol": "CGAU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Centerra Gold Inc., a gold mining company, engages in the acquisition, exploration, development, and operation of gold and copper properties in North America, Asia, and internationally. Its flagship projects include the 100% owned Kumtor gold mine located in the Kyrgyz Republic; the Mount Milligan gold-copper mine located in British Columbia, Canada; and the √É¬ñks√É¬ºt Gold Mine located in Turkey. The company was incorporated in 2002 and is headquartered in Toronto, Canada.",
+  "website": "http://www.centerragold.com"
+}

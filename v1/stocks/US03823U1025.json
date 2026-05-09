@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "03823U102",
+    "isin": "US03823U1025"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US03823U1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAOI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A59.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A59.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Applied Optoelectronics, Inc.",
+  "primary_symbol": "AAOI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Applied Optoelectronics, Inc. designs, manufactures, and sells various fiber-optic networking products worldwide. It offers optical modules, lasers, subassemblies, transmitters and transceivers, and turn-key equipment, as well as headend, node, and distribution equipment. The company sells its products to internet data center operators, cable television and telecom equipment manufacturers, and internet service providers through its direct and indirect sales channels. Applied Optoelectronics, Inc. was incorporated in 1997 and is headquartered in Sugar Land, Texas.",
+  "website": "http://www.ao-inc.com"
+}

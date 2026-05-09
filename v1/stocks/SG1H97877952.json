@@ -1,0 +1,48 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F3YZ56",
+    "figi": "BBG000F3Z276",
+    "isin": "SG1H97877952"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Capital Goods",
+  "isin": "SG1H97877952",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S8N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S8N.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S8N.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMM"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SEMBCORP MARINE  SD-,10",
+  "primary_symbol": "S8N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sembcorp Marine Ltd provides engineering solutions to the global offshore, marine and energy industries. The company offers a wide range of services, including rig building, ship repair, and offshore platform construction. Sembcorp Marine is headquartered in Singapore.",
+  "website": "http://www.salientmlpfund.com/smm_overview.html"
+}

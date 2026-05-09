@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "DE000A0MVLS8"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A0MVLS8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETG"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETG.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETG.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ETG.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ETG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ETG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ETG.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Eaton Vance Tax-Advantaged Global Dividend Income Fund",
+  "primary_symbol": "ETG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Eaton Vance Tax-Advantaged Global Dividend Income Fund is a closed ended equity mutual fund launched and managed by Eaton Vance Management. The fund invests in public equity markets across the globe. It seeks to invest in stocks of companies operating across diversified sectors. The fund primarily invests in dividend paying value stocks of companies. It employs fundamental analysis to create its portfolio. The fund benchmarks the performance of its portfolio against the MSCI World Index. Eaton Vance Tax-Advantaged Global Dividend Income Fund was formed on November 14, 2003 and is domiciled in the United States.",
+  "website": "http://funds.eatonvance.com/Tax-Advantaged-Global-Dividend-Income-Fund-ETG.php"
+}

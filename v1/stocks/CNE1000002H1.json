@@ -1,0 +1,78 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000Q0ZWQ3",
+    "figi": "BBG000Q0ZYK5",
+    "isin": "CNE1000002H1"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "CNE1000002H1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6T.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6T.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CICHF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CICHY"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "C6T.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C6T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C6T.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C6TB.F"
+    }
+  ],
+  "market_cap_band": "Mega Cap",
+  "name": "CHINA CONSTR. BANK H YC 1",
+  "primary_symbol": "C6T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CHINA CONSTR. BANK H YC 1 is likely a share class of China Construction Bank Corporation, one of the largest state-owned commercial banks in China, providing a wide range of banking and financial services including corporate and personal banking, investment banking, and asset management. The bank is headquartered in Beijing, China.",
+  "website": "http://www.ccb.com"
+}

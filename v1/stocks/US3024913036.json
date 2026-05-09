@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BJP882",
+    "cusip": "302491303",
+    "figi": "BBG000BJPBC0",
+    "isin": "US3024913036"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "US3024913036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FMQ.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "F1MC34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FMQ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FMQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FMQ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FMC Corporation",
+  "primary_symbol": "FMC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "FMC Corporation, an agricultural sciences company, provides crop protection, plant health, precision agriculture, and professional pest and turf management products. The company develop, markets, and sells crop protection chemicals that include insecticides, herbicides, and fungicides that are used in agriculture to enhance crop yield and quality by controlling a range of insects, weeds, and disease, as well as in non-agricultural markets for pest control. It also offers biologicals products, such as bionematicides under the Quartzo and Presence names. The company sells herbicides under the Authority, Boral, Centium, Command, and Gamit brands, as well as Isoflex active herbicide ingredients; Rynaxypyr and Cyazypyr active ingredients; and insecticides under the Talstar and Hero brands, as well as flutriafol-based fungicides. It sells its products through independent distributors and co-ops, and national and regional distributors, as well as sells directly to growers. The company operates in North America, Latin America, Europe, the Middle East, Africa, and Asia. FMC Corporation was founded in 1883 and is headquartered in Philadelphia, Pennsylvania.",
+  "website": "http://www.fmc.com"
+}

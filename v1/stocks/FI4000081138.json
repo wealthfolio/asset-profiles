@@ -1,0 +1,53 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00KHPQRY6",
+    "figi": "BBG00KHPQS47",
+    "isin": "FI4000081138"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Capital Goods",
+  "isin": "FI4000081138",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L7G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L7G.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RFZ.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L7G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "LEHTO.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LEHTO GROUP OYJ",
+  "primary_symbol": "L7G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "LEHTO GROUP OYJ is a Finnish construction company that specializes in cost-effective and fast-paced building. The company designs and builds various types of properties, including residential, commercial, and industrial buildings. Lehto Group is headquartered in Kempele, Finland.",
+  "website": "http://www.lehto.fi"
+}

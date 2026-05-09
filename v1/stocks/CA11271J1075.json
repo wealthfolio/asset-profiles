@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "CA11271J1075"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "CA11271J1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKAA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKAA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BKAA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BKAA.SG"
+    }
+  ],
+  "name": "BROOKFIELD ASSET MAN.A LV",
+  "primary_symbol": "BKAA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Brookfield Asset Management is a global alternative asset manager focused on real estate, infrastructure, renewable power, and private equity. The company manages assets on behalf of institutional and retail investors, providing investment solutions and operating expertise. Brookfield Asset Management is headquartered in Toronto, Canada."
+}

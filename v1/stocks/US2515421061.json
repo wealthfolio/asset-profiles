@@ -1,0 +1,67 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "cusip": "251542106",
+    "isin": "US2515421061"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US2515421061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DBOEF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DBOEY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "63DA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DB1.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DB1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "DB1.MI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DB1N.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "DBO.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Deutsche Borse AG",
+  "primary_symbol": "DBOEF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Deutsche B√É¬∂rse AG operates as an exchange organization in Europe, the United States, and the Asia-Pacific. The company operates through seven segments: Eurex (Financial Derivatives), EEX (Commodities), 360T (Foreign Exchange), Xetra (Cash Equities), Clearstream (Post-Trading), IFS (Investment Fund Services), and Qontigo (index and analytics business). The company engages in the electronic trading of derivatives, electricity and gas products, emission rights, and foreign exchange; operating of Eurex Repo over the counter (OTC) trading platform and electronic clearing architecture; and operating as a central counterparty for on-and-off exchange derivatives, repo transactions, and OTC and exchange-traded derivatives. It also operates in the cash market through Xetra, B√É¬∂rse Frankfurt, and Tradegate trading venues; operates as a central counterparty for equities and bonds; and provides listing services. In addition, the company offers custody and settlement services for securities; investment fund services; global securities financing services; and global securities finance and collateral management, as well as secured money, market transaction, and repos and securities lending transaction services. Further, it develops and markets indices, as well as portfolio management and risk analysis software; markets licenses for trading and market signals; provides technology and reporting solutions for external customers; and offers link-up of trading participants. Deutsche B√É¬∂rse AG was founded in 1585 and is headquartered in Eschborn, Germany.",
+  "website": "http://www.deutsche-boerse.com"
+}

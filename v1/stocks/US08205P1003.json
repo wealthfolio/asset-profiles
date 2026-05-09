@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00T1NLQK1",
+    "cusip": "08205P100",
+    "figi": "BBG00T1NLQR4",
+    "isin": "US08205P1003"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US08205P1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJ93.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJ93.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNTC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BJ93.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US08205P1003.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Benitec Biopharma Inc.",
+  "primary_symbol": "BJ93.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Benitec Biopharma Inc., a development-stage biotechnology company, focuses on the development of novel genetic medicines. The company develops DNA-directed RNA interference based therapeutics for chronic and life-threatening human conditions. It is developing BB-301, an adeno-associated virus based gene therapy agent for treating oculopharyngeal muscular dystrophy and chronic hepatitis B virus infection. The company was founded in 1995 and is headquartered in Hayward, California.",
+  "website": "http://www.benitec.com"
+}

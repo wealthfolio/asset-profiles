@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BY9789",
+    "figi": "BBG000BY9HR6",
+    "isin": "FR0000064784"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0000064784",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FFP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FFP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FFP.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "FFP.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "PEUG.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PEUGEOT INVEST S.A.  EO 1",
+  "primary_symbol": "FFP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "FFP Soci√É¬©t√É¬© anonyme is a publicly owned investment manager. The firm invests in private equity and real estate funds. The firm also invests in governance, social and environmental protection. FFP Soci√É¬©t√É¬© anonyme was founded in 1929 and is based in Paris, France.",
+  "website": "http://www.groupe-ffp.fr/en"
+}

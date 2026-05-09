@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00W5F9H67",
+    "figi": "BBG00W5F9HC0",
+    "isin": "JP3547670004"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "JP3547670004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "59R.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TEMPF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2181.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "59R.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "59R.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PERSOL HOLDINGS CO. LTD.",
+  "primary_symbol": "59R.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "PERSOL HOLDINGS CO., LTD. is a comprehensive human resources service company based in Japan, offering services such as temporary staffing, permanent placement, outsourcing, and career consulting. They aim to solve labor and employment issues across various industries, connecting individuals and organizations to foster growth. The company's headquarters are located in Tokyo, Japan.",
+  "website": "http://www.persol-group.co.jp"
+}

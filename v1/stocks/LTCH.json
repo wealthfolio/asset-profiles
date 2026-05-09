@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTCH"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Latch Inc. Common Stock",
+  "primary_symbol": "LTCH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Latch, Inc. provides a full-building enterprise software-as-a-service (SaaS) platform to enable seamless access, control, and management of properties. The company’s product allows building owners and residents to manage access, deliveries, and smart home devices through a single platform. Latch is headquartered in New York, NY."
+}

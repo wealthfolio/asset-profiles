@@ -1,0 +1,38 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000RWKBV8",
+    "figi": "BBG000RWKD80",
+    "isin": "HK0817039453"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "HK0817039453",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3F5.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3F5.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CHINA JINMAO HLDGS GR.LTD",
+  "primary_symbol": "3F5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "China Jinmao Holdings Group Limited is a property developer and operator in China. The company focuses on developing and operating high-end properties, including hotels, office buildings, and residential developments. China Jinmao is headquartered in Hong Kong.",
+  "website": "http://www.chinajinmao.cn"
+}

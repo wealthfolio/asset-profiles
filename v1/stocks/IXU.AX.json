@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "IXU.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IXUP Limited",
+  "primary_symbol": "IXU.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IXUP Limited engages in the development and commercialization of software in Australia. The company provides a secure and private data analytics and collaboration platform that offers data insights, as well as prevents loss and misuse of identifiable data. The company was founded in 2011 and is based in Parramatta, Australia.",
+  "website": "http://www.ixup.com"
+}

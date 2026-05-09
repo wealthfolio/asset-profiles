@@ -1,0 +1,73 @@
+{
+  "country": "Estonia",
+  "country_code": "EE",
+  "identifiers": {
+    "composite_figi": "BBG000BYY8B5",
+    "figi": "BBG000BYYBR1",
+    "isin": "GB0031274896"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "GB0031274896",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MA6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MA6.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MA6.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MA6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MKS.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MA6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MA6.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MKS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MKS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MARKS SPENCER GRP  LS-,25",
+  "primary_symbol": "MA6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Marks & Spencer Group plc is a British retailer that sells clothing, home products, and food products. The company operates through its retail stores and online channels, with a focus on providing quality and stylish products to its customers. Marks & Spencer is headquartered in London, United Kingdom",
+  "website": "http://group.merko.ee"
+}

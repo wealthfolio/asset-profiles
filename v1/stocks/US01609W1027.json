@@ -1,0 +1,67 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG0073XLZW2",
+    "cusip": "01609W102",
+    "figi": "BBG0073XM021",
+    "isin": "US01609W1027"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US01609W1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AHLA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AHLA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AHLA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AHLA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AHLA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AHLA.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "BABA.BO"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "BABAD.BA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ALIBABA GR.HLDG SP.ADR 1",
+  "primary_symbol": "AHLA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Alibaba Group Holding Limited is a technology company focusing on e-commerce, retail, internet, and technology. It operates online marketplaces like Taobao and Tmall, as well as providing cloud computing services through Alibaba Cloud. The company is headquartered in Hangzhou, China."
+}

@@ -1,0 +1,25 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BITF"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Bitfarms Ltd. Common Stock",
+  "primary_symbol": "BITF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Bitfarms Ltd. is a Bitcoin mining company that operates facilities in North America. The company focuses on acquiring, developing, and operating vertically integrated mining farms powered by renewable energy sources."
+}

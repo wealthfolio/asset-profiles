@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00SML5BQ9",
+    "cusip": "03966V107",
+    "figi": "BBG00SML5BX1",
+    "isin": "US03966V1070"
+  },
+  "industry": "Machinery",
+  "industry_group": "Materials",
+  "isin": "US03966V1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47I.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47I.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "47I.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARNC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "47I.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "47I.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ARNC1.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US03966V1070.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ARCONIC CORP.  DL-,01",
+  "primary_symbol": "47I.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Arconic Corporation is an industrial company that manufactures and sells aluminum sheet, plate, extrusions, and architectural products. The company serves a variety of industries, including aerospace, automotive, and commercial transportation. Arconic Corporation is headquartered in Pittsburgh, Pennsylvania.",
+  "website": "http://www.arconic.com"
+}

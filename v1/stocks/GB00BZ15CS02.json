@@ -1,0 +1,46 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BZ15CS02"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "GB00BZ15CS02",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARBKF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARBN.AQ"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ARB.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "ARBN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Argo Blockchain plc",
+  "primary_symbol": "ARBKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Argo Blockchain plc, together with its subsidiary, Argo Blockchain Canada Holdings Inc., engages in the crypto asset mining services worldwide. The company was formerly known as GoSun Blockchain Limited and changed its name to Argo Blockchain plc in December 2017. The company was founded in 2017 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.argoblockchain.com"
+}

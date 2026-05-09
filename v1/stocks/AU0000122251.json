@@ -1,0 +1,38 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000RGJTQ2",
+    "figi": "BBG000RGJV41",
+    "isin": "AU0000122251"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU0000122251",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4EA.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "QPM.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Queensland Pacific Metals Limited",
+  "primary_symbol": "4EA.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Queensland Pacific Metals Limited is an Australian company focused on developing a modern battery metals refinery. They are aiming to produce nickel sulfate, cobalt sulfate, high-purity alumina and other by-products from refinery. The company is based in Australia.",
+  "website": "http://www.qpmetals.com.au"
+}

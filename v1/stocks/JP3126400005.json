@@ -1,0 +1,46 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "JP3126400005"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "JP3126400005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6770.TWO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ALE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ALE.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Powerchip Semiconductor Manufacturing Corp.",
+  "primary_symbol": "6770.TWO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Powerchip Semiconductor Manufacturing Corporation provides chip design and manufacturing services. It offers foundry, design, overhaul, manufacturing, and memory wafer testing services. The company was formerly known as Maxchip Electronics Corp and changed its name to Powerchip Semiconductor Manufacturing Corporation in September 2018. Powerchip Semiconductor Manufacturing Corporation was founded in 2008 and is headquartered in Hsinchu, Taiwan. Powerchip Semiconductor Manufacturing Corp. operates as a subsidiary of Powerchip Technology Corporation.",
+  "website": "http://www.powerchip.com"
+}

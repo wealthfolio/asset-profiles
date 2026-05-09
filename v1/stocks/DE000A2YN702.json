@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BFQQQ9",
+    "figi": "BBG000BFQTF5",
+    "isin": "DE000A2YN702"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "DE000A2YN702",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMDK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMDK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UMDK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2YN702.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "UMDK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UMDK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UMDK.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "UMT UTD MOB.TECHN. O.N.",
+  "primary_symbol": "UMDK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "UMT UNITED MOBILITY TECHNOLOGY AG is a German company that provides technology and consulting services for the mobile payment and loyalty industries. They develop and implement mobile payment solutions, loyalty programs, and other digital services for businesses. Headquartered in Munich, Germany, UMT focuses on enabling businesses to engage with their customers through mobile technology.",
+  "website": "http://www.umt.ag"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000C1ZYS0",
+    "figi": "BBG000C201V4",
+    "isin": "HK1093012172"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "HK1093012172",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CVG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CVG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CVG.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CVG.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CVG.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CVG.TO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CSPC PHARMACEUT.GR.",
+  "primary_symbol": "CVG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CSPC Pharmaceutical Group Limited is a pharmaceutical company engaged in the research, development, manufacturing, and sales of pharmaceutical products in China. The company's product portfolio includes finished drugs and active pharmaceutical ingredients. CSPC Pharmaceutical Group is headquartered in Hong Kong.",
+  "website": "http://convergenze.it"
+}

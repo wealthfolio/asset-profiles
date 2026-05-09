@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BTC2N0",
+    "cusip": "82312B106",
+    "figi": "BBG000BTCBR6",
+    "isin": "US82312B1061"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US82312B1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHEN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SH9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SH9.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Shenandoah Telecommunications Company",
+  "primary_symbol": "SHEN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Shenandoah Telecommunications Company, together with its subsidiaries, provides a range of broadband communication services and cell tower colocation space in the Mid-Atlantic portion of the United States. Its Broadband segment offers broadband, video, and voice services to residential and commercial customers in Virginia, West Virginia, Maryland, Pennsylvania, and Kentucky, via hybrid fiber coaxial cable under the Shentel brand, fiber optic services under the Glo Fiber brand, and fixed wireless network services under the Beam brand name. This segment also leases fiber and provides Ethernet and wavelength fiber optic services; and voice and digital subscriber line telephone services. The company's Tower segment owns 225 cell towers and leases colocation space on the towers. Shenandoah Telecommunications Company was founded in 1902 and is based in Edinburg, Virginia.",
+  "website": "http://www.shentel.com"
+}

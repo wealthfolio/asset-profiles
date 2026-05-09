@@ -1,0 +1,53 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000H2NB24",
+    "figi": "BBG000H2NGM1",
+    "isin": "CA1208311029"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA1208311029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BNE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BNE.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BNE.SI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BURCON NUTRASCIENCE CORP.",
+  "primary_symbol": "BNE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Burcon NutraScience Corporation is a Canada-based company focused on the development of plant-based proteins. The company has developed a portfolio of composition, application, and process patents related to the extraction and purification of plant proteins. Burcon aims to provide sustainable and high-quality plant-based protein ingredients for the food and beverage industries.",
+  "website": "http://www.kencanaagri.com"
+}

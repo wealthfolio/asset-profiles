@@ -1,0 +1,73 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000H8G1D9",
+    "figi": "BBG000H8G5C1",
+    "isin": "CNE1000002J7"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "CNE1000002J7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6G.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6G.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C6G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CICOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CICOY"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "601919.SS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C6G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C6G.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "COSCO SHIP.HLDG.CO.H YC 1",
+  "primary_symbol": "C6G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "COSCO SHIPPING Holdings Co., Ltd. is a container shipping company. The company is based in Shanghai, China.",
+  "website": "http://hold.coscoshipping.com"
+}

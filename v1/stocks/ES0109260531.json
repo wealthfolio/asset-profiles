@@ -1,0 +1,71 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "ES0109260531"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ES0109260531",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMPE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APR.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NO6.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "AMP.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "APH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "APR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "APR.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Ampio Pharmaceuticals, Inc.",
+  "primary_symbol": "AMPE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Ampio Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the development of immunology-based therapies for the treatment of prevalent inflammatory conditions in the United States. Its product pipeline includes AP-013, an intra-articular injection, which is in phase III clinical trial for the treatment of osteoarthritis of the knee; AP-016, an intravenous treatment that is in Phase I/II clinical trial for COVID-19 patients with respiratory illness; and AP-014, an inhaled treatment that is in Phase I clinical trial for COVID-19 induced respiratory distress. The company is headquartered in Englewood, Colorado.",
+  "website": "http://www.ampiopharma.com"
+}

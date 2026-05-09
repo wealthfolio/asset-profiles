@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00RPXLDQ0",
+    "figi": "BBG00RPXLDX2",
+    "isin": "DE000A2PXQD4"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Transportation",
+  "isin": "DE000A2PXQD4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9TS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9TS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "9TS.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9TS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9TS.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TUBESOLAR AG  INH O.N.",
+  "primary_symbol": "9TS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "TUBESOLAR AG is a German company focused on the development, production, and marketing of photovoltaic modules. The company offers thin-film silicon solar modules for various applications, including rooftop installations and solar power plants, aiming to provide efficient and cost-effective solar energy solutions. Tubesolar AG is headquartered in Augsburg, Germany.",
+  "website": "http://www.tubesolar.de"
+}

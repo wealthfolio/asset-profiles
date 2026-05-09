@@ -1,0 +1,54 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00F7SVGQ9",
+    "cusip": "36165L108",
+    "figi": "BBG00F7SVGX1",
+    "isin": "US36165L1089"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Software & Services",
+  "isin": "US36165L1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G40.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G40.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "G40.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G40.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "GDS.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GDS HLDGS LTD.CL.A ADR/8",
+  "primary_symbol": "G40.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "GDS Holdings Limited is a data center company in China, developing and operating high-performance data centers. It provides colocation and managed services and is headquartered in Shanghai. These data centers cater to cloud service providers, large internet companies, financial institutions, and enterprise customers.",
+  "website": "http://www.ramsaygds.fr"
+}

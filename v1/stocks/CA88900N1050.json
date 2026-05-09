@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00R0MHJ56",
+    "figi": "BBG00R0MHJC8",
+    "isin": "CA88900N1050"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Diversified Financials",
+  "isin": "CA88900N1050",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TV3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TV3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA88900N1050.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TOC.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TV3.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TOCVAN VENTURES C",
+  "primary_symbol": "TV3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "TOCVAN VENTURES C is likely a venture capital or investment company. It probably invests in or provides funding to other companies. Specific details are unavailable.",
+  "website": "http://www.tocvan.com"
+}

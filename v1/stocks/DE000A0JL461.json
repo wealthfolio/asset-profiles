@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BVW3Z8",
+    "figi": "BBG000BVW7J7",
+    "isin": "DE000A0JL461"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A0JL461",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I7N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I7N.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "I7N.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "I7N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I7N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I7N.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ITN NANOVATION",
+  "primary_symbol": "I7N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ItN Nanovation AG, a nanotechnology company, develops and sells water filtration systems for industrial customers in Germany and internationally. The company offers membrane sheet and modules, multichannel pressurized ceramics, membrane towers, and membrane racks. Its products are used in various applications, including drinking water, membrane, oil and gas fields, reclaimed water, high temperature municipal and industrial waste water, food and beverage, textile and dyeing wastewater, iron and steel, pharmaceutical wastewater, arsenic removal, and radium removal. The company was founded in 2000 and is based in Saarbr√É¬ºcken, Germany.",
+  "website": "http://www.itn-nanovation.com"
+}

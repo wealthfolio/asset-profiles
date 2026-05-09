@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BFQ843",
+    "figi": "BBG000BFQC17",
+    "isin": "DE0005654933"
+  },
+  "industry": "Building Products",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "DE0005654933",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIN3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIN3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EIN3.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0N9F.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EIN3.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EIN3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EIN3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EIN3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EINHELL GERMANY VZO O.N.",
+  "primary_symbol": "EIN3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Einhell Germany AG designs, manufactures, and sells tools and garden equipment. The company offers a broad range of products for home and garden use. The company's headquarters are located in Landau an der Isar, Germany.",
+  "website": "http://www.einhell.com"
+}

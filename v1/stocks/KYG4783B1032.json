@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00XP6SDL4",
+    "figi": "BBG00XP6SDS7",
+    "isin": "KYG4783B1032"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "KYG4783B1032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "33C.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "33C.F"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "9969.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9969.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG4783B1032.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "INNOCARE PHARMA LTD",
+  "primary_symbol": "33C.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Innovent Biologics, Inc. is a biopharmaceutical company engaged in the discovery, development, manufacturing and commercialization of high-quality biopharmaceutical products. The company focuses on oncology, immunology, ophthalmology, and other major therapeutic areas. Innovent Biologics is headquartered in Suzhou, China.",
+  "website": "http://www.innocarepharma.com"
+}

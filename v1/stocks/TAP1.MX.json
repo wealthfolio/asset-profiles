@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00NKVCL71",
+    "figi": "BBG00NKVCL71"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "TAP1.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Molson Coors Beverage Company",
+  "primary_symbol": "TAP1.MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Molson Coors Beverage Company manufactures, markets, and sells beer and other malt beverage products in the United States, Canada, Europe, and internationally. The company was formerly known as Molson Coors Brewing Company and changed its name to Molson Coors Beverage Company in January 2020. Molson Coors Beverage Company was founded in 1774 and is headquartered in Chicago, Illinois.",
+  "website": "http://www.molsoncoors.com"
+}

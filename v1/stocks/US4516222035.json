@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004YSSTM4",
+    "cusip": "451622203",
+    "isin": "US4516222035"
+  },
+  "isin": "US4516222035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4516222035.SG"
+    }
+  ],
+  "name": "IDEAL POWER INC",
+  "primary_symbol": "US4516222035.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

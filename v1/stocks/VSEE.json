@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSEE"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VSee Health Inc. Common Stock",
+  "primary_symbol": "VSEE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "VSee Health Inc. is a telehealth company that provides secure video conferencing and remote patient monitoring solutions. Their platform enables healthcare providers to connect with patients remotely for consultations and care management. VSee Health Inc. is based in Sunnyvale, California."
+}

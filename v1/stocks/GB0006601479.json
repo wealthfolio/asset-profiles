@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000D80SW0",
+    "figi": "BBG000D80WZ8",
+    "isin": "GB0006601479"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "GB0006601479",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCQ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "OBC.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OBC.SG"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "OBCL.BO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RCQ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RCQ.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ONLINE BLOCKCH.PLC LS-,05",
+  "primary_symbol": "RCQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Online Blockchain Plc, together with its subsidiaries, operates as a block chain company in the United Kingdom. The company operates in two segments, Faucet Subscription and Provision of Management Services. It also works as an incubator and investor in technology companies, including internet and information businesses, developers, administrators, and custodians of block chains and cryptocurrencies. The company was formerly known as On-line plc and changed its name to Online Blockchain Plc in December 2017. Online Blockchain Plc was incorporated in 1996 and is based in Ongar, the United Kingdom.",
+  "website": "http://www.onlineblockchain.io"
+}

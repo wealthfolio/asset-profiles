@@ -1,0 +1,42 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "84860W300",
+    "isin": "US84860W3007"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US84860W3007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SRC.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SRC.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SRC.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Yojee Limited",
+  "primary_symbol": "SRC.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Yojee Limited provides cloud-based software as a service (SaaS) logistics platform in the Asia-Pacific region. Its logistics platform manages, tracks, and optimizes freight movements. The company serves third-party logistics providers and logistics companies. Yojee Limited is based in Subiaco, Australia.",
+  "website": "http://yojee.com"
+}

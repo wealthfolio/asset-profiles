@@ -1,0 +1,46 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0974288202"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "BE0974288202",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RD8.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5XR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5XR.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "XIOR.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "XIOR STUDENT HOUSING NV XIOR OR",
+  "primary_symbol": "0RD8.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "XIOR STUDENT HOUSING NV is a Belgian real estate investment trust (REIT) specializing in student housing. The company owns and manages student accommodation properties in Belgium, the Netherlands, Spain, Portugal and other European countries. XIOR STUDENT HOUSING NV is headquartered in Antwerp, Belgium.",
+  "website": "http://www.xior.be"
+}

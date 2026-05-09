@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "cusip": "109199109",
+    "isin": "US1091991091"
+  },
+  "isin": "US1091991091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSK.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BSK.MU"
+    }
+  ],
+  "name": "BR.SCH.ED.HLD.SP.ADR CL.A",
+  "primary_symbol": "BSK.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

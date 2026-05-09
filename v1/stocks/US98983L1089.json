@@ -1,0 +1,47 @@
+{
+  "country": "Lithuania",
+  "country_code": "LT",
+  "identifiers": {
+    "cusip": "98983L108",
+    "isin": "US98983L1089"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US98983L1089",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZWS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZWS.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZWS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZWS.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TELIA LIETUVA EO -,29",
+  "primary_symbol": "ZWS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Telia Lietuva, AB is a telecommunications company in Lithuania. The company provides fixed-line and mobile telecommunications services, as well as internet and television services. Telia Lietuva is based in Vilnius, Lithuania.",
+  "website": "http://www.telia.lt"
+}

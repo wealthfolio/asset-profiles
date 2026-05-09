@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU0000018236"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU0000018236",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NICMF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NIC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NM5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NM5.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PNM.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Nickel Mines Limited",
+  "primary_symbol": "NICMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nickel Mines Limited produces and sells nickel pig iron used in the production of stainless steel. It holds an 80% interest in the Hengjaya Mineralindo Nickel Mine that covers an area of 5,983 hectares located in the Morowali Regency of Central Sulawesi, Indonesia. It also holds 80% interest in Ranger Nickel project. The company was incorporated in 2007 and is based in Sydney, Australia.",
+  "website": "http://www.nickelmines.com.au"
+}

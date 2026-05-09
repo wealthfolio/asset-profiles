@@ -1,0 +1,54 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CKS6S7",
+    "figi": "BBG000CKSBM2",
+    "isin": "ES0173516115"
+  },
+  "industry_group": "Energy",
+  "isin": "ES0173516115",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REP.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REP.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "REP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "REP.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "REPSOL S.A. INH.  EO 1",
+  "primary_symbol": "REP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Repsol S.A. is an integrated global energy company with operations across the entire oil and gas value chain. The company engages in exploration, production, refining, marketing, and renewable energy. Repsol is headquartered in Madrid, Spain."
+}

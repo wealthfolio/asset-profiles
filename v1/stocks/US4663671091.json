@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GZYVY1",
+    "cusip": "466367109",
+    "figi": "BBG000H01G76",
+    "isin": "US4663671091"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US4663671091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JACK"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JBX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JBX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JBX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JBX.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Jack in the Box Inc.",
+  "primary_symbol": "JACK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Jack in the Box Inc. operates and franchises Jack in the Box quick-service restaurants. As of September 27, 2020, it operated and franchised 2,241 Jack in the Box quick-service restaurants primarily in the western and southern United States, including one in Guam. The company was founded in 1951 and is headquartered in San Diego, California.",
+  "website": "http://www.jackintheboxinc.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00NV5MZM7",
+    "figi": "BBG00NV5MZS1",
+    "isin": "KYG5313A1013"
+  },
+  "industry": "Household Products",
+  "industry_group": "Media & Entertainment",
+  "isin": "KYG5313A1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KTD.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1797.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KTD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KTD.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KOOLEARN TECHN. DL-,00002",
+  "primary_symbol": "KTD.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Koolearn Technology Holding Limited is a Chinese online education company that provides online courses and educational products to students. They offer courses in various subjects, including K-12 curriculum, test preparation, and vocational skills training. The company is headquartered in Beijing, China.",
+  "website": "http://www.koolearn.hk"
+}

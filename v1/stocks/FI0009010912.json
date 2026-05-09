@@ -1,0 +1,53 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00LZMP4B8",
+    "figi": "BBG00LZMP4H2",
+    "isin": "FI0009010912"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FI0009010912",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R0V.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KFH.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FI0009010912.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R0V.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "REG1V.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Revenio Group Oyj",
+  "primary_symbol": "R0V.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Revenio Group Oyj, a health technology company, designs, manufactures, and sells medical instruments for the early detection of glaucoma, diabetic retinopathy, and macular degeneration in Finland, Italy, rest of Europe, the United States, and internationally. The company offers ic100 and ic200 tonometers; Icare HOME, a device for self-measurement of eye pressure; Icare TONOVET Plus tonometers for animals; fundus imaging devices comprising EIDON, DRS, and DRSplus; MAIA, a microperimeter to measure the effectiveness of drugs for retinal disease treatment; COMPASS, which provides fundus perimetry with true-color confocal retinal images; and Ventica, to examine the variability in tidal breathing in children. It is also developing Cutica, a hyperspectral camera for dermatologists to detect skin cancers. Revenio Group Oyj is based in Vantaa, Finland.",
+  "website": "http://www.reveniogroup.fi"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DFWYX5",
+    "figi": "BBG000DFX1Y5",
+    "isin": "FR0013505062"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FR0013505062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TNM2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TNM2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013505062.SG"
+    }
+  ],
+  "name": "TECHNICOLOR INH. EO 0,01",
+  "primary_symbol": "TNM2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Technicolor SA, headquartered in Paris, France, provides visual effects, animation, and post-production services to the entertainment industry. They also develop and license technologies for media and entertainment. The company operates through various divisions, serving film, television, advertising, and gaming clients."
+}

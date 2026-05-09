@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000L0BP16",
+    "cusip": "86272C103",
+    "figi": "BBG000L0BTM5",
+    "isin": "US86272C1036"
+  },
+  "industry": "Household Products",
+  "industry_group": "Consumer Services",
+  "isin": "US86272C1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STRA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SQE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SQE.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STRATEGIC EDUCAT.  DL-,01",
+  "primary_symbol": "SQE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Strategic Education, Inc. provides post-secondary education services. The company owns and operates institutions that offer degree programs and professional training. The company is headquartered in Herndon, Virginia.",
+  "website": "http://www.strategiceducation.com"
+}

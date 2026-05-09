@@ -1,0 +1,56 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0974349814"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "BE0974349814",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MU2.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WDPSF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPHB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WPHB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "WDP.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WPHB.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WAREHOUSES DE PAUW COMM VA WARE",
+  "primary_symbol": "0MU2.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Warehouses De Pauw Comm VA (WDP) is a Belgian real estate investment trust (REIT) that invests in logistics and semi-industrial properties. It leases properties to businesses in Belgium, the Netherlands, France, and Romania. The company is headquartered in Wolvertem, Belgium.",
+  "website": "http://www.wdp.eu"
+}

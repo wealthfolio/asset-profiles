@@ -1,0 +1,26 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LATGU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LatAmGrowth SPAC Unit",
+  "primary_symbol": "LATGU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "LatAmGrowth SPAC Unit represents a unit consisting of one Class A ordinary share and one-half of one warrant of LatAmGrowth SPAC. LatAmGrowth SPAC is a special purpose acquisition company (SPAC). The unit is issued to investors as part of the initial public offering."
+}

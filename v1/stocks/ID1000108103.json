@@ -1,0 +1,43 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000QGLTV4",
+    "figi": "BBG000QGLXG2",
+    "isin": "ID1000108103"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "ID1000108103",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0JM.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0JM.SG"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "JSMR.JK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "JASA MARGA (PERSERO)RP500",
+  "primary_symbol": "0JM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "JASA MARGA (PERSERO)RP500 is an Indonesian toll road operator. They develop, operate, and maintain toll roads across Indonesia. Jasa Marga plays a vital role in Indonesia's infrastructure development by providing efficient transportation networks.",
+  "website": "http://www.jasamarga.com"
+}

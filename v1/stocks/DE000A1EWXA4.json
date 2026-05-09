@@ -1,0 +1,48 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG001PBVZ94",
+    "figi": "BBG001PBVZL0",
+    "isin": "DE000A1EWXA4"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Capital Goods",
+  "isin": "DE000A1EWXA4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABO.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ABO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "ABO.BR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ABO.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CLEARVISE AG INH O.N.",
+  "primary_symbol": "ABO.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CLEARVISE AG INH O.N. is a company which likely provides consulting services. The company is based in Germany.",
+  "website": "http://www.buergerwindaktie.de"
+}

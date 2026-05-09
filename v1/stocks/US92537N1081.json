@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00L2B8KW8",
+    "cusip": "92537N108",
+    "isin": "US92537N1081"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US92537N1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US92537N1081.SG"
+    }
+  ],
+  "name": "VERTIV HOLDINGS CO",
+  "primary_symbol": "US92537N1081.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "VERTIV HOLDINGS CO provides infrastructure solutions for data centers, communication networks, and commercial and industrial environments. The company offers power, thermal management, and IT infrastructure solutions, with headquarters in Columbus, Ohio. Vertiv aims to ensure continuity and optimization for its customers' critical infrastructure."
+}

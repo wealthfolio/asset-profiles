@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSLMU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Consilium Acquisition Corp I Ltd. Unit",
+  "primary_symbol": "CSLMU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Consilium Acquisition Corp I Ltd. Unit represents a combination of securities, typically consisting of one share of common stock and a fraction of a warrant. This unit is offered during the initial public offering (IPO) of the special purpose acquisition company (SPAC). Upon separation, the unit's components (stock and warrant) trade individually."
+}

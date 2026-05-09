@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA8473811005"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8473811005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPMTF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQH.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA8473811005.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SPMT.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SQH.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Spearmint Resources Inc.",
+  "primary_symbol": "SPMTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Spearmint Resources Inc., an exploration stage company, acquires, explores, and evaluates mineral properties in Canada and the United States. The company explores for gold, platinum, palladium, copper, nickel, vanadium, and cesium. Its flagship property is the Clayton Valley Lithium Clay project comprising 2 claim blocks totaling 1,160 acres in Nevada. The company was formerly known as Indefinitely Capital Corp. and changed its name to Spearmint Resources Inc. in February 2012. Spearmint Resources Inc. was incorporated in 2009 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.spearmintresources.ca"
+}

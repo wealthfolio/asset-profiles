@@ -1,0 +1,72 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "cusip": "23290P105",
+    "isin": "US23290P1057"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US23290P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MHP.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTNOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTNOY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NK1A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NK1A.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "DNO.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "DNOO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NK1A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NK1A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DNO ASA",
+  "primary_symbol": "0MHP.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "DNO ASA engages in the exploration, development, and production of oil and gas assets in the Middle East and the North Sea. Its flagship project is the Tawke field that is located in the Kurdistan region of Iraq. As of December 31, 2020, its proven reserves consisted of 201.0 million barrels of oil equivalent (MMboe); proven and probable reserves included 332.3 MMboe; and proven, probable, and possible reserves consisted of 506.8 MMboe. The company was founded in 1971 and is headquartered in Oslo, Norway.",
+  "website": "http://www.dno.no"
+}

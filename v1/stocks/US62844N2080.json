@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00TC8ZZP2",
+    "cusip": "62844N208",
+    "isin": "US62844N2080"
+  },
+  "industry_group": "Retailing",
+  "isin": "US62844N2080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US62844N2080.SG"
+    }
+  ],
+  "name": "MY SIZE INC",
+  "primary_symbol": "US62844N2080.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MY SIZE INC is a developer and vendor of e-commerce solutions, specializing in apparel sizing. They developed a mobile app to allow consumers to accurately measure themselves using their smartphone and get personalized size recommendations. My Size Inc. is headquartered in Airport City, Israel."
+}

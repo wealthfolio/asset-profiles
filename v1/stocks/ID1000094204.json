@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BXVZ84",
+    "figi": "BBG000BXW2F8",
+    "isin": "ID1000094204"
+  },
+  "industry_group": "Banks",
+  "isin": "ID1000094204",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HX9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HX9.MU"
+    }
+  ],
+  "name": "PT BK DANAMON TBK RP50000",
+  "primary_symbol": "HX9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PT Bank Danamon Indonesia Tbk is an Indonesian bank providing a range of financial services including consumer banking, small and medium enterprise (SME) banking, commercial banking, and automotive financing. The bank also offers Sharia-compliant banking services and wealth management. Bank Danamon is headquartered in Jakarta, Indonesia."
+}

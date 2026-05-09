@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00N8TY1W2",
+    "figi": "BBG00N8TY214",
+    "isin": "NO0010689326"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NO0010689326",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TA5.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RIS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TA5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TA5.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "TRVX.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TARGOVAX ASA  NK -,10",
+  "primary_symbol": "TA5.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Targovax ASA, a clinical stage immuno-oncology company, engages in the development of immune activators to target hard-to-treat solid tumors. Its lead product candidate is ONCOS-102, which is in Phase I/II clinical studies for the treatment of mesothelioma, melanoma, and colorectal cancer. The company is also developing neoantigen cancer vaccines targeting tumors with oncogenic RAS√Ç¬ñmutations. In addition, it is developing ONCOS-211 for next generation ONCOS viruses. The company has collaboration agreements with Cancer Research Institute and Ludwig Cancer Research to develop ONCOS-102 for colorectal cancer with peritoneal carcinomatosis; Valo Therapeutics to develop mutant RAS neoantigen coating of ONCOS viruses using PeptiCRAd technology; and Papyrus Therapeutics to develop novel ONCOS viruses with Receptor Tyrosine Kinase inhibitor functionality. Targovax ASA was incorporated in 2010 and is based in Lysaker, Norway.",
+  "website": "http://www.targovax.com"
+}

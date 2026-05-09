@@ -1,0 +1,36 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000BYM169",
+    "isin": "GB0004762810"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Capital Goods",
+  "isin": "GB0004762810",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0004762810.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "JSG.L"
+    }
+  ],
+  "name": "JOHNSON SERVICE GROUP PLC",
+  "primary_symbol": "GB0004762810.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Johnson Service Group PLC is a textile services provider specializing in workwear, linen, and laundry services for various industries, including hospitality, healthcare, and manufacturing. The company provides rental, cleaning, and maintenance services for textiles. Johnson Service Group is headquartered in Preston Brook, United Kingdom.",
+  "website": "http://www.jsg.com"
+}

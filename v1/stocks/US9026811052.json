@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000NSJQL1",
+    "cusip": "902681105",
+    "figi": "BBG000NSJV67",
+    "isin": "US9026811052"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "US9026811052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3U6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UGI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UGI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3U6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3U6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3U6.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UGI.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "UGI CORP.",
+  "primary_symbol": "3U6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "UGI Corporation is a distributor and marketer of energy products and services. The company distributes propane and fuel oil to residential, commercial, and industrial customers. UGI is headquartered in King of Prussia, Pennsylvania.",
+  "website": "http://www.ugicorp.com"
+}

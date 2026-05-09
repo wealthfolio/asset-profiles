@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KK7R677",
+    "cusip": "810648105",
+    "figi": "BBG00KK7R6F8",
+    "isin": "US8106481059"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US8106481059",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2SX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2SX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCPH"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2SX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2SX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US8106481059.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SCPHARMACEUTIC. DL -,0001",
+  "primary_symbol": "2SX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Scpharmaceuticals Inc. is a biopharmaceutical company that develops and commercializes products focused on preventing infections at home, in hospitals, and in other healthcare settings. The company markets anti-infective products. SCPHARMACEUTICALS is headquartered in Burlington, Massachusetts.",
+  "website": "http://www.scpharmaceuticals.com"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPJ0L7",
+    "figi": "BBG000BPJ2T5",
+    "isin": "SG1S04926220"
+  },
+  "industry_group": "Banks",
+  "isin": "SG1S04926220",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCBA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCBA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OCBA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OCBA.SG"
+    }
+  ],
+  "name": "OVERS.-CHINESE  SD-,50",
+  "primary_symbol": "OCBA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Oversea-Chinese Banking Corporation (OCBC) is a Singaporean multinational banking and financial services corporation. It provides a range of commercial banking, specialist financial and wealth management services. OCBC is headquartered in Singapore."
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000K3QGB4",
+    "cusip": "546347105",
+    "figi": "BBG000K3SN18",
+    "isin": "US5463471053"
+  },
+  "industry": "Building Products",
+  "industry_group": "Materials",
+  "isin": "US5463471053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LP3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LPX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LP3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LP3.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LOUIS. PAC. CORP.  DL 1",
+  "primary_symbol": "LP3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "LOUIS. PAC. CORP. DL 1 is Louisiana-Pacific Corporation (LP), a manufacturer of building products. The company manufactures engineered wood building products, including oriented strand board (OSB), siding, and other wood products. The headquarters is in Nashville, Tennessee.",
+  "website": "http://www.lpcorp.com"
+}

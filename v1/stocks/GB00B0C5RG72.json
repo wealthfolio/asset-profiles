@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BWRFG6",
+    "isin": "GB00B0C5RG72"
+  },
+  "industry_group": "Software & Services",
+  "isin": "GB00B0C5RG72",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B0C5RG72.SG"
+    }
+  ],
+  "name": "CHECKIT PLC",
+  "primary_symbol": "GB00B0C5RG72.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CHECKIT PLC provides real-time monitoring and automation solutions for operational compliance. Their business model revolves around providing monitoring solutions to businesses, mainly in food retail and healthcare, generating revenue through subscriptions and hardware sales. The company is headquartered in Cambridge, UK."
+}

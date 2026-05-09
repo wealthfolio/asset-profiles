@@ -1,0 +1,23 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MLHBB.PA"
+    }
+  ],
+  "name": "Financiere Hoche Bains-Les-Bains SA",
+  "primary_symbol": "MLHBB.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials"
+}

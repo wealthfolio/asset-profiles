@@ -1,0 +1,42 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "682151303",
+    "isin": "US6821513032"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US6821513032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OMRNY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "6645.T"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "OMRNN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "OMRON Corporation",
+  "primary_symbol": "OMRNY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "OMRON Corporation engages in industrial automation, electronic and mechanical components, social systems, and healthcare businesses worldwide. The company's Industrial Automation Business offers sensors, switches, safety and control components, relays, automation systems, motion/drives, robotics, energy conservation support/environment measure equipment, and power supplies. Its Electronic and Mechanical Components Business provides relays, switches, connectors, sensors, and components/units for amusement equipment. The company's Social Systems, Solutions and Service Business offers terminals and systems, including PV inverters and storage batteries; railway station systems, such as automated ticket gates and ticket vending machines, traffic and road management systems, payment systems, and UPS that protect equipment from unexpected power disruption; and transport management systems and infrastructure monitoring systems, as wells provides a range of solutions comprising software development and maintenance services to support the social infrastructure. Its Healthcare Business offers blood pressure monitors, nebulizers, electrotherapy TENS devices, digital thermometers, body composition monitors, and other products, such as activity monitors, AEDs, etc. The company was formerly known as OMRON Tateisi Electronics Co. and changed its name to OMRON Corporation in January 1990. OMRON Corporation was founded in 1933 and is headquartered in Kyoto, Japan.",
+  "website": "http://www.omron.com"
+}

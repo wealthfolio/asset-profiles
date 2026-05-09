@@ -1,0 +1,22 @@
+{
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "RBRL11.SA"
+    }
+  ],
+  "name": "RBR Log FII",
+  "primary_symbol": "RBRL11.SA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "RBR Log FII is a Brazilian real estate investment fund (FII). It invests in logistics properties to generate income. The fund is traded on the B3 stock exchange."
+}

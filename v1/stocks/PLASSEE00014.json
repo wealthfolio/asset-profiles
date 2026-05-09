@@ -1,0 +1,38 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRC1H0",
+    "figi": "BBG00ZHRC1N3",
+    "isin": "PLASSEE00014"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "PLASSEE00014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7T8.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7T8.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ASSECO STH EAST.EUR.ZY 10",
+  "primary_symbol": "7T8.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Asseco South Eastern Europe S.A. is a software company providing IT solutions for various sectors, including banking, public administration, and healthcare. They offer a range of services, including software development, implementation, and maintenance, primarily in the South Eastern European region. The company is headquartered in Poland.",
+  "website": "http://see.asseco.com"
+}

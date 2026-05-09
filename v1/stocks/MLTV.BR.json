@@ -1,0 +1,26 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "MLTV.BR"
+    }
+  ],
+  "name": "Choice NV",
+  "primary_symbol": "MLTV.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Choice NV operates as a social media TV guide in Belgium. The company is a group purchasing platform with services comprising Internet and TV. It provides services to consumers to make their own selection from online video and available channels. The company was founded in 2020 and is based in Lubbeek, Belgium.",
+  "website": "http://www.choice.be"
+}

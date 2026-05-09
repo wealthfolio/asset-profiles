@@ -1,0 +1,59 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000HGNXH9",
+    "cusip": "82706C108",
+    "figi": "BBG000HGP0W2",
+    "isin": "US82706C1080"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US82706C1080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9M.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SIMO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S9M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S9M.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SIMON.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SILICON MOTION T. ADR/4",
+  "primary_symbol": "S9M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SILICON MOTION T. ADR/4 is a global leader in NAND flash controllers for solid state storage devices and specialty RFICs. They design, develop, and market high-performance, low-power semiconductor solutions for the mobile storage and data center markets. Silicon Motion Technology Corporation is headquartered in Taipei, Taiwan.",
+  "website": "http://www.siliconmotion.com"
+}

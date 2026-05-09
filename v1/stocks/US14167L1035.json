@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00HBHJPN1",
+    "cusip": "14167L103",
+    "figi": "BBG00HBHJPV2",
+    "isin": "US14167L1035"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US14167L1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1K9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1K9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDNA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "1K9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1K9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1K9.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CAREDX INC.  DL-,001",
+  "primary_symbol": "1K9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CareDx, Inc. is a molecular diagnostics company focused on transplant patient care, providing solutions for organ transplant recipients. Their products include AlloSure and AlloMap, which monitor organ health and detect potential rejection episodes. TICKER: CareDx, Inc. is a molecular diagnostics company focused on transplant patient care, providing solutions like AlloSure and AlloMap to monitor organ health and detect rejection episodes.",
+  "website": "http://www.caredx.com"
+}

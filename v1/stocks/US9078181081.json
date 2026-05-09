@@ -1,0 +1,114 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BW3299",
+    "cusip": "907818108",
+    "figi": "BBG000BW3413",
+    "isin": "US9078181081"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Transportation",
+  "isin": "US9078181081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNP.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNP.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNP.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNPA"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "UNP.BA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "UNP.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UNP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UNP.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "UNP.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UNP.SG"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "UNP.SN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "UNPC.VI"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "UNPD.BA"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "UPAC34.SA"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Union Pacific Corporation",
+  "primary_symbol": "UNP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Union Pacific Corporation, through its subsidiary, Union Pacific Railroad Company, engages in the railroad business in the United States. The company offers transportation services for grain and grain products, fertilizers, food and refrigerated products, and coal and renewables to grain processors, animal feeders, ethanol producers, and other agricultural users; coal and sand, petroleum, and liquid petroleum gases; and construction products, industrial chemicals, plastics, forest products, specialized products, metals and ores, and soda ash, as well as finished automobiles, automotive parts, and merchandise in intermodal containers. As of December 31, 2020, its rail network included 32,313 route miles connecting Pacific Coast and Gulf Coast ports with the Midwest and Eastern United States gateways. The company was founded in 1862 and is headquartered in Omaha, Nebraska.",
+  "website": "http://www.up.com"
+}

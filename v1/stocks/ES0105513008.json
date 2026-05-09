@@ -1,0 +1,48 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG00Y0DHS15",
+    "figi": "BBG00Y0DHS60",
+    "isin": "ES0105513008"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Capital Goods",
+  "isin": "ES0105513008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5PZ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5PZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ES0105513008.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "SOL.MC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SOLTEC POWER HOLD. EO-,25",
+  "primary_symbol": "5PZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Soltec Power Holdings, S.A. is a Spanish company specializing in integrated photovoltaic solar energy solutions. The company manufactures and supplies solar trackers and provides construction and engineering services for solar power plants. Soltec Power Holdings is headquartered in Murcia, Spain.",
+  "website": "http://www.soltecpowerholdings.com"
+}

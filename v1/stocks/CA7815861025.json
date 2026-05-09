@@ -1,0 +1,48 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000FGTCQ1",
+    "figi": "BBG000FGVLC3",
+    "isin": "CA7815861025"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA7815861025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C8Q.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RFXRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C8Q.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RUN-H.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "RUNNING FOX RESOURCE CORP",
+  "primary_symbol": "C8Q.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Running Fox Resource Corp. does not have significant operations. It is involved in reviewing, optioning, or acquiring suitable projects in Canada and the United States. The company was incorporated in 1981 and is based in Arvada, Colorado.",
+  "website": "http://runningfoxresource.com"
+}

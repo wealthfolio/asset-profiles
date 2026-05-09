@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C4PLF7",
+    "cusip": "680223104",
+    "figi": "BBG000C4PNM5",
+    "isin": "US6802231042"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US6802231042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORJ.MU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "ORI.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ORJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ORJ.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Old Republic International Corporation",
+  "primary_symbol": "ORI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Old Republic International Corporation, through its subsidiaries, engages in the insurance underwriting and related services business primarily in the United States and Canada. The company operates through three segments: General Insurance, Title Insurance, and the Republic Financial Indemnity Group Run-off Business. The General Insurance segment offers automobile extended warranty, aviation, commercial automobile, commercial multi-peril, general liability, home warranty, inland marine, travel accident, and workers' compensation insurance products; and financial indemnity products for specialty coverages, including errors and omissions, fidelity, guaranteed asset protection, and surety. This segment provides its insurance products to businesses, government, and other institutions in transportation, commercial construction, healthcare, education, retail and wholesale trade, forest products, energy, general manufacturing, and financial services industries. The Title Insurance segment offers lenders' and owners' title insurance policies to real estate purchasers and investors based upon searches of the public records. This segment also provides escrow closing and construction disbursement services; and real estate information products, national default management services, and various other services pertaining to real estate transfers and loan transactions. The Republic Financial Indemnity Group Run-off Business segment offers private mortgage insurance coverage that protects mortgage lenders and investors from default related losses on residential mortgage loans made primarily to homebuyers. Old Republic International Corporation was founded in 1923 and is based in Chicago, Illinois.",
+  "website": "http://www.oldrepublic.com"
+}

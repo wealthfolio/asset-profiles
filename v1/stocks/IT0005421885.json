@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005421885"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "IT0005421885",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ESI.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ESI S.p.A.",
+  "primary_symbol": "ESI.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "ESI S.p.A. engages in the renewable energy business primarily in Italy. The company's business covers engineering, procurement, and construction, as well as system integration activities. It focuses on various market segments, such as photovoltaic, off-grid, mini-grid, hybrid, and storage systems, as well as wind power plants. The company was founded in 2018 and is headquartered in Formello, Italy.",
+  "website": "http://www.esi-spa.com"
+}

@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Consumer Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CCVAJ"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Country Club of Virginia Inc.",
+  "primary_symbol": "CCVAJ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Country Club of Virginia Inc. is a private, member-owned country club offering golf, tennis, swimming, and social activities to its members. The club provides dining, banquet, and event facilities as well as pro shops for golf and tennis. Its primary location is in Richmond, Virginia.",
+  "website": "http://www.theccv.org"
+}

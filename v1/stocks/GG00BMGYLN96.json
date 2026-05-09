@@ -1,0 +1,58 @@
+{
+  "country": "Guernsey",
+  "country_code": "GG",
+  "identifiers": {
+    "composite_figi": "BBG004FJ52G6",
+    "figi": "BBG004FJ52L0",
+    "isin": "GG00BMGYLN96"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "GG00BMGYLN96",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BUR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9BFA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9BFA.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BUR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BUR.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GG00BMGYLN96.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Burford Capital Limited",
+  "primary_symbol": "BUR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Burford Capital Limited, together with its subsidiaries, provides investment capital, asset management, financing, and risk solutions for the legal sector in Guernsey and internationally. The company offers law firm and business solutions, including litigation finance, portfolio financing, risk management, insurance, asset recovery, international arbitration, insolvency and bankruptcy, competition and antitrust, intellectual property, and post-settlement and monetization solutions, as well as legal finance and advisory services. The company was incorporated in 2009 and is based in Saint Peter Port, Guernsey.",
+  "website": "http://www.burfordcapital.com"
+}

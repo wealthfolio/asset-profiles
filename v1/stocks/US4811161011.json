@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00FX3JPC4",
+    "cusip": "481116101",
+    "figi": "BBG00FX3JPK5",
+    "isin": "US4811161011"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US4811161011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "21J.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "21J.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JNCE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "21J.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "21J.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JOUNCE THERAP. DL-,001",
+  "primary_symbol": "21J.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Jounce Therapeutics, Inc., a clinical-stage immunotherapy company, develops therapies for the treatment of cancer. The company develops vopratelimab, a clinical-stage monoclonal antibody, which is in Phase II clinical trial that binds to and activates the Inducible T cell CO-Stimulator, a protein on the surface of T cells found in various solid tumors. It is also developing JTX-4014, an anti-PD-1 antibody for combination therapy; JTX-8064, an antibody that binds to leukocyte immunoglobulin like receptor B2, which is a cell surface receptor expressed on macrophages; and JTX-1811, an anti-CCR8 monoclonal antibody designed to selectively deplete intra-tumoral T regulatory cells in the tumor microenvironment. Jounce Therapeutics, Inc. was incorporated in 2012 and is headquartered in Cambridge, Massachusetts.",
+  "website": "http://jouncetx.com"
+}

@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA25675T1075"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "CA25675T1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLMAF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DR3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DR3.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "DOL.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DR3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DR3.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Dollarama Inc.",
+  "primary_symbol": "DLMAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Dollarama Inc. operates a chain of dollar stores in Canada. Its stores offer general merchandise, consumables, and seasonal items. The company also offers products online. As of January 31, 2021, it operated 1,355 stores. The company was formerly known as Dollarama Capital Corporation and changed its name to Dollarama Inc. in September 2009. Dollarama Inc. was founded in 1992 and is headquartered in Montreal, Canada.",
+  "website": "http://www.dollarama.com"
+}

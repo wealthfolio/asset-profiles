@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00DBB2XP2",
+    "figi": "BBG00DBB2XX3",
+    "isin": "FR0013183985"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0013183985",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G49N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G49N.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSGTF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RIM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G49N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G49N.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SIGHT.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GENSIGHT BIOLOG. EO -,025",
+  "primary_symbol": "G49N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Gensight Biologics is a French biopharmaceutical company focused on developing gene therapies for the treatment of rare neuro-ophthalmological diseases. The company's pipeline includes product candidates for Leber Hereditary Optic Neuropathy (LHON) and Retinitis Pigmentosa (RP). Gensight Biologics aims to improve the lives of patients with vision-threatening conditions through innovative gene therapies.",
+  "website": "http://www.gensight-biologics.com"
+}

@@ -1,0 +1,77 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "cusip": "79547H106",
+    "isin": "US79547H1068"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US79547H1068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0FWY.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEP.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SALRF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SALRY"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JEP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JEP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JEP.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SALM.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "SALMO.OL"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SalMar ASA",
+  "primary_symbol": "0FWY.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "SalMar ASA, an aquaculture company, produces and sells farmed salmon in Asia, the United States, Canada, Norway, rest of Europe, and internationally. It is involved in the broodfish, lumpfish, and smolt production; and marine-phase farming, harvesting, packaging, processing, and sale of farmed salmon. The company sells its products to importers/exporters, processing companies, and retail chains through in-house sales force and/or through partners. The company was founded in 1991 and is headquartered in Kverva, Norway.",
+  "website": "http://www.salmar.no"
+}

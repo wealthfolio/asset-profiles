@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00PBGPM28",
+    "figi": "BBG00PBGPM73",
+    "isin": "GB00BJDQQ870"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "GB00BJDQQ870",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5WS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOSGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5WS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5WS.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "WOSG.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "WATCH.O.SWITZ.GR.LS-,0125",
+  "primary_symbol": "5WS.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Watches of Switzerland Group PLC operates as a retailer of luxury watches in the United States and the United Kingdom. It offers luxury watches and jewelry; fashion and classic watches and jewelry; and gifts. The company operates 113 stores in the United Kingdom and 22 stores in the United States, as well as through five transactional websites under the Mono-Brand Boutiques, Watches of Switzerland, Mappin & Webb, Goldsmiths, and Mayors brand names. The company was incorporated in 2019 and is headquartered in Leicester, the United Kingdom.",
+  "website": "http://www.thewosgroupplc.com"
+}

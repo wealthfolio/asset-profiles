@@ -1,0 +1,78 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG001D06BV7",
+    "figi": "BBG001D06C18",
+    "isin": "CA7063271034"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Energy",
+  "isin": "CA7063271034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P5P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PPL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "P5P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P5P.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PPL.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "PPL.BO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PPL.F"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "PPL.NS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PPL.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PEMBINA PIPELINE CORP.",
+  "primary_symbol": "P5P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Pembina Pipeline Corporation is a Canadian company that provides transportation and midstream services for energy producers. Their services include pipelines, gas processing plants, and fractionation facilities. Pembina Pipeline is headquartered in Calgary, Alberta, Canada.",
+  "website": "http://pureprofile.investorportal.com.au"
+}

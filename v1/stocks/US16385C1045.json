@@ -1,0 +1,32 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "cusip": "16385C104",
+    "isin": "US16385C1045"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US16385C1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMMB"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Chemomab Therapeutics Ltd.",
+  "primary_symbol": "CMMB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Chemomab Therapeutics Ltd. engages in the research and development of biological drugs for the treatment of inflammatory and fibrotic diseases. The company was formerly known as Anchiano Therapeutics Ltd. and changed its name to Chemomab Therapeutics Ltd. in March 16, 2021. Chemomab Therapeutics Ltd. was incorporated in 2011 and is based in Tel Aviv, Israel.",
+  "website": "http://www.chemomab.com"
+}

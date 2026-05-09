@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4434.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Serverworks Co.,Ltd.",
+  "primary_symbol": "4434.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Serverworks Co.,Ltd. operates as a cloud integrator that provides integration business and service specialized for Amazon Web Services (AWS). The company is involved in planning, development, and operation of systems utilizing cloud computing; and AWS migration support and re-sale services. It also offers Cloud Automator, a service that automates AWS operations. The company was founded in 2000 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.serverworks.co.jp"
+}

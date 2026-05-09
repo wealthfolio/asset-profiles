@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000RKR4R8",
+    "cusip": "80007P869",
+    "figi": "BBG000RKR5X8",
+    "isin": "US80007P8692"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US80007P8692",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SA2D.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SandRidge Energy, Inc.",
+  "primary_symbol": "SD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SandRidge Energy, Inc. engages in the acquisition, development, and production of oil and natural gas primarily in the United States Mid-Continent. As of December 31, 2020, it holds interest in approximately 380,000 net leasehold acres in Oklahoma and Kansas, as well as total proved developed reserves of 33.4 million barrels of oil equivalent. The company was incorporated in 2006 and is headquartered in Oklahoma City, Oklahoma. On May 16, 2016, SandRidge Energy, Inc. and its direct and indirect subsidiaries filed voluntary petitions for reorganization under Chapter 11 of the United States Bankruptcy Code in the United States Bankruptcy Court for the Southern District of Texas.",
+  "website": "http://www.sandridgeenergy.com"
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA91702V1013"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA91702V1013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "URCCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UROY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA91702V1013.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "URC.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Uranium Royalty Corp.",
+  "primary_symbol": "URCCF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Uranium Royalty Corp. operates as a pure-play uranium royalty company. It acquires, accumulates, and manages a portfolio of geographically diversified uranium interests. The company has royalty interests in the Diabase project located in Saskatchewan, Canada; the Anderson project, the Slick Rock project, and the Workman Creek project; and the Langer Heinrich uranium project in Namibia. It also holds royalty interests in the Church Rock, Dewey-Burdock, Lance, Roca Honda, Reno Creek, Roughrider, and Michelin Projects. The company was incorporated in 2017 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.uraniumroyalty.com"
+}

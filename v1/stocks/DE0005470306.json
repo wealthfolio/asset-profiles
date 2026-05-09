@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BNZT31",
+    "figi": "BBG000BNZXM1",
+    "isin": "DE0005470306"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "DE0005470306",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVD.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVD.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVD.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EVD.DU"
+    }
+  ],
+  "name": "CTS EVENTIM KGAA",
+  "primary_symbol": "EVD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "CTS Eventim KGaA is a leading international provider of ticketing services and live entertainment. The company operates ticketing platforms and organizes live events, including concerts, festivals, and sports events. CTS Eventim is headquartered in Munich, Germany."
+}

@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00JBBPRZ6",
+    "cusip": "456237106",
+    "figi": "BBG00JBBPSH4",
+    "isin": "US4562371066"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US4562371066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ILPT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1QY.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Industrial Logistics Properties Trust",
+  "primary_symbol": "ILPT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "ILPT is a real estate investment trust, or REIT, that owns and leases industrial and logistics properties throughout the United States. ILPT is managed by the operating subsidiary of The RMR Group Inc. (Nasdaq: RMR), an alternative asset management company that is headquartered in Newton, MA.",
+  "website": "http://www.ilptreit.com"
+}

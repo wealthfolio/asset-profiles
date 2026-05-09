@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG004WG63P0",
+    "figi": "BBG004WG63Q9",
+    "isin": "CA65340P1062"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA65340P1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NXE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0V9D.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6NE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6NE.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NXE.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NexGen Energy Ltd.",
+  "primary_symbol": "NXE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NexGen Energy Ltd., an exploration and development stage company, engages in the acquisition, exploration, and evaluation and development of uranium properties in Canada. Its principal asset is the Rook I project that consists of 32 contiguous mineral claims totaling an area of 35,065 hectares located in the Athabasca Basin, Saskatchewan. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.nexgenenergy.ca"
+}

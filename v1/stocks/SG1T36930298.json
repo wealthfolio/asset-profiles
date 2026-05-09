@@ -1,0 +1,63 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "composite_figi": "BBG000M4J639",
+    "figi": "BBG000M4J9M2",
+    "isin": "SG1T36930298"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "SG1T36930298",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7E.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7E.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7E.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N7E.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "N7E.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N7E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "N7E.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NATURAL COOL HLDGS LTD",
+  "primary_symbol": "N7E.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NATURAL COOL HLDGS LTD is an air-conditioning and mechanical ventilation (ACMV) systems provider, offering installation, maintenance, and repair services. The company caters to residential, commercial, and industrial clients in Singapore. It also engages in trading of ACMV equipment and parts.",
+  "website": "http://www.natcool.com"
+}

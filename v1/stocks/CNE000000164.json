@@ -1,0 +1,31 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "CNE000000164"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "CNE000000164",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "000006.SZ"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Shenzhen Zhenye (Group) Co.,Ltd.",
+  "primary_symbol": "000006.SZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Shenzhen Zhenye (Group) Co.,Ltd. engages in the development, management, and rental of real estate properties in China. The company provides residence, commercial properties, villas, etc. It is also involved in the shantytowns transformation and distinctive town construction activities. The company was founded in 1989 and is based in Shenzhen, China.",
+  "website": "http://www.zhenye.com"
+}

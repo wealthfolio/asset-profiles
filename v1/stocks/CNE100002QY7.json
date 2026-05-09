@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00HTKLD40",
+    "figi": "BBG00HTKLDB2",
+    "isin": "CNE100002QY7"
+  },
+  "industry_group": "Insurance",
+  "isin": "CNE100002QY7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1ZO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1ZO.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1ZO.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ZHONGAN ONL.P+C INS. YC1",
+  "primary_symbol": "1ZO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "ZhongAn Online P & C Insurance Co., Ltd. is a Chinese online-only insurance company that offers a range of insurance products and services through its digital platform. They utilize technology to provide customized and innovative insurance solutions. The company is headquartered in Shanghai, China."
+}

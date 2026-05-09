@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005378143"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0005378143",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PTR.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Pattern S.p.A.",
+  "primary_symbol": "PTR.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Pattern S.p.A. engages in the design and engineering of garments for women and men. It designs and processes coats, jackets, and other item of clothing. The company was founded in 2000 and is based in Collegno, Italy.",
+  "website": "http://www.pattern.it"
+}

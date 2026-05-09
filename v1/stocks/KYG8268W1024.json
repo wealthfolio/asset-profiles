@@ -1,0 +1,48 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000R93Z90",
+    "figi": "BBG000R942P4",
+    "isin": "KYG8268W1024"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Energy",
+  "isin": "KYG8268W1024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3FV.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0757.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3FV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3FV.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SOLARGIGA ENERGY H. HD-01",
+  "primary_symbol": "3FV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Solargiga Energy Holdings Limited is a vertically integrated manufacturer of silicon ingots, wafers, and solar modules. The company's products are used in solar power generation systems. Solargiga Energy is headquartered in Hong Kong.",
+  "website": "http://www.solargiga.com"
+}

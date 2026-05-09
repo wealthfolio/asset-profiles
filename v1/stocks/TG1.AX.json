@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TG1.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TechGen Metals Ltd",
+  "primary_symbol": "TG1.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "TechGen Metals Limited engages in the exploration of gold and copper projects in Western Australia. Its projects are located in Yilgarn Craton, Paterson Orogen, and the Ashburton basin. The company was incorporated in 2018 and is based in Perth, Australia.",
+  "website": "http://www.techgenmetals.com.au"
+}

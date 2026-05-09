@@ -1,0 +1,58 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00JH85DJ8",
+    "figi": "BBG00JH85DR9",
+    "isin": "SE0005877560"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "SE0005877560",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1HR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1HR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1HR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1HR.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SES.AX"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SES.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SCANDIN.ENVIRO SYSTEMS AB",
+  "primary_symbol": "1HR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SCANDIN.ENVIRO SYSTEMS AB develops and commercializes technology for recovering valuable materials from end-of-life tires. Their patented pyrolysis process allows for the extraction of carbon black, oil, and gas, which can be reused in new products. TICKER: SCANDIN.ENVIRO SYSTEMS AB develops and commercializes technology for recovering valuable materials from end-of-life tires, extracting carbon black, oil, and gas through a patented pyrolysis process.",
+  "website": "http://www.envirosystems.se"
+}

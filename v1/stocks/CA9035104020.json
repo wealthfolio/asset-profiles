@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA9035104020"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Materials",
+  "isin": "CA9035104020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UGE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UGE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UGEIF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "UGE.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HPQ-SILICON RES",
+  "primary_symbol": "UGE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "HPQ-Silicon Resources Inc. is a Canadian company focused on becoming a vertically integrated producer of silicon solutions and specialty chemical products. They are developing a process to transform quartz into silicon and other high-value materials. The company aims to supply various industries with advanced silicon materials.",
+  "website": "http://www.ugei.com"
+}

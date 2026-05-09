@@ -1,0 +1,37 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "cusip": "25525P107",
+    "isin": "US25525P1075"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US25525P1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "DHC.CN"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "SNF.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Deer Horn Capital Inc.",
+  "primary_symbol": "DHC.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Deer Horn Capital Inc. engages in the acquisition, exploration, and evaluation of mineral properties in Canada. It primarily explores for silver, tellurium, gold, copper, tungsten, copper porphyry, bismuth, lead, zinc, and molybdenum. The company principally holds a 50% interest in the Deer Horn Property covering 5,133 hectares located in north western British Columbia. The company was formerly known as Deer Horn Metals Inc. and changed its name to Deer Horn Capital Inc. in 2014. Deer Horn Capital Inc. was incorporated in 2004 and is headquartered in Delta, Canada.",
+  "website": "http://www.deerhorncapital.ca"
+}

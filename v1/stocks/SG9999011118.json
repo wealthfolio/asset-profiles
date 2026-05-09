@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00YTZ4XV5",
+    "figi": "BBG00YTZ4Y07",
+    "isin": "SG9999011118"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Energy",
+  "isin": "SG9999011118",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7K8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SMAYF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7K8.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAE.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SG9999011118.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SIMEC ATLANTIS ENERGY(DI)",
+  "primary_symbol": "7K8.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SIMEC Atlantis Energy Limited is a global sustainable energy company. They are involved in the generation of renewable energy through projects such as tidal power, hydro power, and waste-to-energy. The company is headquartered in Edinburgh, Scotland.",
+  "website": "http://www.simecatlantis.com"
+}

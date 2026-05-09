@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SGS.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "cash.life AG",
+  "primary_symbol": "SGS.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "cash.life AG operates as a buyer and seller of life insurance policies. The company was founded in 1984 and is headquartered in Berlin, Germany.",
+  "website": "http://www.cashlife.de"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00LGM7D10",
+    "figi": "BBG00LGM7D74",
+    "isin": "SE0008348072"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "SE0008348072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2FZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2FZ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2FZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2FZ.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ALELIO.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ALELION ENERG SYST AB",
+  "primary_symbol": "2FZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Alelion Energy Systems AB (publ) manufactures and sells lithium-ion batteries for forklifts and industrial applications. It offers forklift batteries with lithium-ion technology under the EasyPower name for logistics industry; and tailored batteries under the SmartPower name for automobile industry. The company was founded in 2006 and is based in G√É¬∂teborg, Sweden.",
+  "website": "http://www.alelion.com"
+}

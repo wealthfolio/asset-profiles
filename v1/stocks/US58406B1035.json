@@ -1,0 +1,49 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00FRS5JZ0",
+    "cusip": "58406B103",
+    "figi": "BBG00FRS5K50",
+    "isin": "US58406B1035"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US58406B1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "73M0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDVL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "73M0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US58406B1035.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MEDAVAIL HOLDINGS DL-,001",
+  "primary_symbol": "73M0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MedAvail Holdings, Inc. operates as a technology enabled pharmacy company that embeds automated pharmacy services directly into clinics and other points of care through its proprietary technology. The company provides turnkey services through its proprietary robotic dispensing platform, the MedAvail MedCenter, and home delivery operations. It also operates SpotRx, a telehealth platform that delivers remote pharmacist consultations through an on-site dispensing kiosk, supplemented with home delivery. MedAvail Holdings, Inc. is based in Mississauga, Canada.",
+  "website": "http://www.medavail.com"
+}

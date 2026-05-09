@@ -1,0 +1,27 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "EAB.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EAB Group Oyj",
+  "primary_symbol": "EAB.HE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "EAB Group Oyj is a publicly owned investment manager. The firm provides its services to private customers, companies and institutions. It manages mutual funds and special investment funds. The firm primarily invests in equity and fixed income, with a few investments in real estate. EAB Group Oyj is based in Finland.",
+  "website": "http://www.eabgroup.fi"
+}

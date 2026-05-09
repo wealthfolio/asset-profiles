@@ -1,0 +1,36 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA85859H1055"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "CA85859H1055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNVVF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "STEP.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STEP Energy Services Ltd.",
+  "primary_symbol": "SNVVF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "STEP Energy Services Ltd., an oilfield service company, provides integrated coiled tubing, fracturing, and wireline solutions to service oil and natural gas wells in Canada and the United States. It also provides chemical laboratory solutions; fluid pumping services for coiled tubing operations and standalone projects; and nitrogen pumping solutions, as well as cased hole wireline and open hole wireline services. STEP Energy Services Ltd. was incorporated in 2011 and is headquartered in Calgary, Canada.",
+  "website": "http://www.stepenergyservices.com"
+}

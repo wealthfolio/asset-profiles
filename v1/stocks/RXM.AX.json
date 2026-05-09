@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RXM.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Rex Minerals Limited",
+  "primary_symbol": "RXM.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Rex Minerals Limited engages in the exploration, evaluation, and development of mineral properties in Australia. The company explores for copper, gold, and iron ore deposits. Its flagship project is the Hillside project located in Yorke Peninsula, South Australia. The company was incorporated in 2007 and is based in Melbourne, Australia.",
+  "website": "http://www.rexminerals.com.au"
+}

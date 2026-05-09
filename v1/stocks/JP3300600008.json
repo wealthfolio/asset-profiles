@@ -1,0 +1,46 @@
+{
+  "identifiers": {
+    "isin": "JP3300600008"
+  },
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "JP3300600008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KPI1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KPI1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KPI1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KPI1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KPI1.SG"
+    }
+  ],
+  "name": "KONICA MINOLTA INC.",
+  "primary_symbol": "KPI1.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Konica Minolta, Inc. is a Japanese technology company that provides services and solutions for the digital workplace. The company manufactures and sells office equipment, such as multi-functional peripherals (MFPs), printers, and production print systems. They are also involved in the development and marketing of optical devices, healthcare systems, and industrial printing solutions, and is headquartered in Tokyo, Japan."
+}

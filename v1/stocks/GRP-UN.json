@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GRP-UN"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Granite Real Estate Investment Trust",
+  "primary_symbol": "GRP-UN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Granite is a Canadian-based REIT engaged in the acquisition, development, ownership and management of logistics, warehouse and industrial properties in North America and Europe. Granite owns 108 investment properties representing approximately 45.3 million square feet of leasable area.",
+  "website": "http://www.granitereit.com"
+}

@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "XS2297551454"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Diversified Financials",
+  "isin": "XS2297551454",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BAES.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BAES.PA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BAS.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "BAS.BR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BAS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "SBA.AS"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SBA.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Leverage Shares -1x Short Boeing ETP",
+  "primary_symbol": "BAES.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Product (ETP) that aims to provide the inverse (-1x) of the daily performance of Boeing shares. ETPs like this are typically used for short-term trading strategies and are not designed for long-term investment.",
+  "website": "http://www.bassoil.com.au"
+}

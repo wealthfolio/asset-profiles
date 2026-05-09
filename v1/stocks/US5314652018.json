@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005DKMKF4",
+    "cusip": "531465201",
+    "isin": "US5314652018"
+  },
+  "isin": "US5314652018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5314652018.SG"
+    }
+  ],
+  "name": "LIBERTY TRIPADVISOR HDG-B",
+  "primary_symbol": "US5314652018.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

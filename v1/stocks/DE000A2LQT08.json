@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000C2G085",
+    "figi": "BBG000C2G2X3",
+    "isin": "DE000A2LQT08"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Real Estate",
+  "isin": "DE000A2LQT08",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBHK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBHK.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BBH.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BBHK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BBHK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BBHK.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DT.BALATON AG  INH O.N.",
+  "primary_symbol": "BBHK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "DT.BALATON AG is a German investment company focusing on real estate and private equity investments. The company invests in undervalued assets, aiming to increase their value through active management and development. It's headquartered in Heidelberg, Germany.",
+  "website": "http://www.deutsche-balaton.de"
+}

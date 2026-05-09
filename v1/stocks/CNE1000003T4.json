@@ -1,0 +1,48 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000LNQS50",
+    "figi": "BBG000LNRY74",
+    "isin": "CNE1000003T4"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CNE1000003T4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNJ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NNJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NNJ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NANJING PANDA ELEC. H YC1",
+  "primary_symbol": "NNJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Nanjing Panda Electronics Co., Ltd. manufactures and sells electronic products. The company's products include televisions, communication equipment, and electronic components. Nanjing Panda Electronics is based in Nanjing, China.",
+  "website": "http://www.panda.cn"
+}

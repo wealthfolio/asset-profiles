@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000NZY927",
+    "figi": "BBG000NZZF04",
+    "isin": "AU000000ANO7"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "AU000000ANO7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BBJ.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ANO.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BBJ.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ADVANCE NANOTEK LTD.",
+  "primary_symbol": "BBJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Advance Nanotek Limited is an Australian company that develops and manufactures innovative products using advanced nanotechnology. The company is known for its zinc oxide dispersion products used in sunscreens and other cosmetic applications, and is headquartered in Helensvale, Australia. Advance Nanotek also supplies materials to the industrial, medical, and electronic sectors.",
+  "website": "http://www.advancenanotek.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Malta",
+  "country_code": "MT",
+  "identifiers": {
+    "composite_figi": "BBG001XSCM70",
+    "figi": "BBG001XSCMF1",
+    "isin": "SE0018538068"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "SE0018538068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M8G.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "M8G.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M8G.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M8G.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "M8G.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MEDIA AND GAMES INV. EO 1",
+  "primary_symbol": "M8G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Media and Games Invest SE (MGI) is a gaming company that invests in and operates companies in the games and media sectors. Their business model involves acquiring and scaling gaming studios and media platforms, generating revenue through game sales, advertising, and other related services. The company is headquartered in Stockholm, Sweden",
+  "website": "http://www.mgi.group"
+}

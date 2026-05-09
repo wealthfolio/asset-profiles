@@ -1,0 +1,25 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PRMI"
+    }
+  ],
+  "name": "Priam Properties Inc.",
+  "primary_symbol": "PRMI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Priam Capital is a self-administered and self-managed real estate investment company focused on acquiring, improving, owning and managing multi-tenant office properties in high-growth urban nodes in the Midwest and Southeast United States within target markets, which we define as MSAs, other than the major markets, that have populations of at least one million people.",
+  "website": "http://www.priamproperties.com"
+}

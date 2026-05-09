@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00H2MNYJ1",
+    "cusip": "09523Q200",
+    "figi": "BBG00H2MNYQ3",
+    "isin": "US09523Q2003"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US09523Q2003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13WA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13WA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APRN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "13WA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US09523Q2003.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BLUE APRON HL CL.A -,0001",
+  "primary_symbol": "13WA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Blue Apron Holdings, Inc. is a meal kit company that delivers original recipes and fresh, pre-portioned ingredients to customers’ doorsteps. The company offers a variety of meal options that cater to different dietary preferences and cooking skill levels. Blue Apron is headquartered in New York, New York.",
+  "website": "http://www.blueapron.com"
+}

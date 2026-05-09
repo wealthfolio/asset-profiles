@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00WGGNLM0",
+    "figi": "BBG00WGGNLT3",
+    "isin": "SE0012481570"
+  },
+  "industry_group": "Materials",
+  "isin": "SE0012481570",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EBM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EBM.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EBM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0012481570.SG"
+    }
+  ],
+  "name": "EUROBATTERY MINERALS AB",
+  "primary_symbol": "EBM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Eurobattery Minerals AB is a Swedish mining company focused on the exploration, development, and extraction of battery minerals, such as nickel, cobalt, copper, and lithium, crucial for the production of electric vehicle batteries. The company aims to contribute to a sustainable supply chain for the growing battery market in Europe."
+}

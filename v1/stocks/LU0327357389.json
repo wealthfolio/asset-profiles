@@ -1,0 +1,53 @@
+{
+  "country": "Ukraine",
+  "country_code": "UA",
+  "identifiers": {
+    "composite_figi": "BBG00328M0H0",
+    "figi": "BBG00328M0P1",
+    "isin": "LU0327357389"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "LU0327357389",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0KE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0KE.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0KE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0KE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0KE.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KERNEL HLDG S.A.",
+  "primary_symbol": "0KE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Kernel Holding S.A. is a diversified agribusiness company operating in Ukraine and other countries, primarily involved in the production and export of sunflower oil, agricultural products, and grain. It is one of the largest sunflower oil producers in the world, and is involved in farming, crushing, and grain handling. The company is headquartered in Luxembourg",
+  "website": "http://www.kernel.ua"
+}

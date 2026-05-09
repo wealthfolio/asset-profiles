@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CL5K45",
+    "cusip": "101121101",
+    "figi": "BBG000CL6Q32",
+    "isin": "US1011211018"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US1011211018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BO9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BO9.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BO9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BO9.SG"
+    }
+  ],
+  "name": "BOSTON PROPERTIES DL-,01",
+  "primary_symbol": "BO9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Boston Properties, Inc. is a real estate investment trust (REIT) that develops, owns, and manages Class A office properties in select markets in the United States. The company focuses on a few gateway markets, including Boston, New York, San Francisco, and Washington, D.C. Its headquarters are located in Boston, Massachusetts."
+}

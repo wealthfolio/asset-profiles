@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DTH814",
+    "figi": "BBG000DTJH94",
+    "isin": "CA31447P1009"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA31447P1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FENC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RV41.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FRX.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "FRX.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RV41.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RV41.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Fennec Pharmaceuticals Inc.",
+  "primary_symbol": "FENC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fennec Pharmaceuticals Inc., a biopharmaceutical company, develops product candidates for use in the treatment of cancer in the United States. Its lead product PEDMARK, a formulation of Sodium Thiosulfate, which has completed the Phase III clinical trial for the prevention of cisplatin induced hearing loss or ototoxicity in children. The company was formerly known as Adherex Technologies Inc. and changed its name to Fennec Pharmaceuticals Inc. in September 2014. Fennec Pharmaceuticals Inc. was incorporated in 1996 and is based in Research Triangle Park, North Carolina.",
+  "website": "http://www.fennecpharma.com"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00DY6DRZ8",
+    "cusip": "67059N108",
+    "figi": "BBG00DY6DS59",
+    "isin": "US67059N1081"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US67059N1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTNX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0K9O.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0NU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0NU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0NU.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "NUTANIX INC. A",
+  "primary_symbol": "0NU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Nutanix Inc. is a cloud computing company that provides hyperconverged infrastructure (HCI) solutions. Its Enterprise Cloud OS software integrates compute, virtualization, storage, networking, and security to deliver a unified infrastructure stack. Nutanix is headquartered in San Jose, California.",
+  "website": "http://www.nutanix.com"
+}

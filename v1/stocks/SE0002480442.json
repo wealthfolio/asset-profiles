@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YHXYSN0",
+    "figi": "BBG00YHXYST4",
+    "isin": "SE0002480442"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "SE0002480442",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9EE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZNZNF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9EE.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ZZ-B.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ZINZINO AB B",
+  "primary_symbol": "9EE.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Zinzino AB is a direct sales company that develops, manufactures, and sells health and wellness products. Their products include nutritional supplements, skincare, and coffee. The company is based in Gothenburg, Sweden.",
+  "website": "http://www.zinzino.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000CN15T1",
+    "figi": "BBG000CN2CF0",
+    "isin": "DE0005492938"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005492938",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MZX.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MZX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MZX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MZX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MZX.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MASTERFLEX O.N.",
+  "primary_symbol": "MZX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Masterflex SE develops, manufactures, and markets high-performance plastic hoses and connection systems. The company's products are used in various industries including machinery, medical technology, and food processing. Masterflex SE is headquartered in Gelsenkirchen, Germany.",
+  "website": "http://www.masterflexgroup.com"
+}

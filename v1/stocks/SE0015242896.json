@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YLVXT94",
+    "figi": "BBG00YLVXTH5",
+    "isin": "SE0015242896"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "SE0015242896",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3JE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3JE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3JE.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "BIOGAS.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SC.BIOGAS FUELS INTL.O.N.",
+  "primary_symbol": "3JE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Scandinavian Biogas Fuels International AB (publ), through its subsidiaries, produces and sells biogas in Sweden, South Korea, and Norway. Its products include biogas used in heat production, upgraded and liquid biogas used as vehicle fuel, and bio-fertilizer as a substitute for artificial fertilizer. The company was incorporated in 1995 and is headquartered in Stockholm, Sweden.",
+  "website": "http://scandinavianbiogas.com"
+}

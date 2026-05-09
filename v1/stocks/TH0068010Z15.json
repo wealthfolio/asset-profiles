@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BN83L8",
+    "figi": "BBG000BN86B2",
+    "isin": "TH0068010Z15"
+  },
+  "industry_group": "Banks",
+  "isin": "TH0068010Z15",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TMLF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TMLF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TMLF.SG"
+    }
+  ],
+  "name": "TMBTHANACHART-FGN- BA-,95",
+  "primary_symbol": "TMLF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "TMB Bank PCL provides a range of banking and financial services to individuals, SMEs, and corporate clients in Thailand. The bank offers deposit accounts, loans, credit cards, and other financial products, as well as investment and insurance services. TMB Bank is headquartered in Bangkok, Thailand."
+}

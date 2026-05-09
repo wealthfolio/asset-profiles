@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BL4LN4",
+    "figi": "BBG000BL4QL5",
+    "isin": "SG1R89002252"
+  },
+  "industry_group": "Real Estate",
+  "isin": "SG1R89002252",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CDE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CDE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CDE.SG"
+    }
+  ],
+  "name": "CITY DEV.  SD-,50",
+  "primary_symbol": "CDE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "City Developments Limited (CDL) is a Singapore-based international real estate operating company. It develops properties and invests in real estate across diverse segments, including residential, commercial, and hospitality. CDL has a global presence with a focus on Asia, Europe, and North America."
+}

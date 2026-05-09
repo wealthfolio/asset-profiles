@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00X8R7Z40",
+    "cusip": "86646P103",
+    "figi": "BBG00X8R7ZB2",
+    "isin": "US86646P1030"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US86646P1030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SU5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SU5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUMO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SU5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SU5.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SUMO.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US86646P1030.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SUMO LOGIC INC. O.N.",
+  "primary_symbol": "SU5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SUMO LOGIC INC. is a cloud-based machine data analytics company that provides real-time insights from log and metric data. The company's platform helps organizations monitor, troubleshoot, and secure their applications and infrastructure. Sumo Logic is headquartered in Redwood City, California.",
+  "website": "http://www.sumologic.com"
+}

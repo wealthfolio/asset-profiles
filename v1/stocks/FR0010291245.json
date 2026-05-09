@@ -1,0 +1,68 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00LGML3H9",
+    "figi": "BBG00LGML3N2",
+    "isin": "FR0010291245"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0010291245",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I3Q.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISDCF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QAU.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0010291245.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I3Q.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I3Q.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VMX.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "VMX.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VERIMATRIX SA  EO -,40",
+  "primary_symbol": "I3Q.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Verimatrix SA provides security and business intelligence solutions that protect content, applications, and devices across multiple markets. Headquartered in France, the company offers software and services to manage and monetize digital content across various platforms. Their solutions include anti-piracy, revenue security, and data analytics.",
+  "website": "http://www.verimatrix.com"
+}

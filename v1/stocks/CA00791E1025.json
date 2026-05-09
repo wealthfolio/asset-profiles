@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA00791E1025"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA00791E1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADVZF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AZC.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ADZN.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AZC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA00791E1025.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Adventus Mining Corporation",
+  "primary_symbol": "ADVZF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Adventus Mining Corporation engages in the exploration and development of mineral properties in Ecuador, Canada, and Ireland. The company explores for gold, silver, molybdenum, zinc, copper, lead, and tungsten deposits. Its flagship project is the Curipamba property covering an area of 21,500 hectares located in Ecuador. The company was formerly known as Adventus Zinc Corporation and changed its name to Adventus Mining Corporation in June 2019. Adventus Mining Corporation was incorporated in 2016 and is headquartered in Toronto, Canada.",
+  "website": "http://www.adventusmining.com"
+}

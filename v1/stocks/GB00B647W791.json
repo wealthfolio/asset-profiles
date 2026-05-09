@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG001MJW5J4",
+    "figi": "BBG001MJW5P7",
+    "isin": "GB00B647W791"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00B647W791",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SAVNF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AME.AX"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "AME.JO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SAV.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SAV.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAV.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SAV.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SAVANNAH RES PLC  LS -,01",
+  "primary_symbol": "SAV.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Savannah Resources Plc explores for and develops mineral properties in Portugal, Mozambique, Finland, and Oman. The company explores for lithium, copper, and mineral sand properties. Its flagship property is the Mina do Barroso lithium project located in Portugal. The company was formerly known as African Mining and Exploration plc and changed its name to Savannah Resources Plc in September 2013. Savannah Resources Plc was incorporated in 2010 and is based in London, the United Kingdom.",
+  "website": "http://www.savannahresources.com"
+}

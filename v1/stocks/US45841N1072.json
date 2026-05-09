@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000LV0836",
+    "cusip": "45841N107",
+    "figi": "BBG000LV1PQ2",
+    "isin": "US45841N1072"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US45841N1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IBKR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KY6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KY6.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "IBKR.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KY6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KY6.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Interactive Brokers Group, Inc.",
+  "primary_symbol": "IBKR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Interactive Brokers Group, Inc. operates as an automated electronic broker worldwide. It specializes in executing and clearing trades in stocks, options, futures, foreign exchange instruments, bonds, mutual funds, and exchange traded funds (ETFs). The company custodies and services accounts for hedge and mutual funds, ETFs, registered investment advisors, proprietary trading groups, introducing brokers, and individual investors. In addition, it offers custody, prime brokerage, securities, and margin lending services. The company serves institutional and individual customers through approximately 135 electronic exchanges and market centers. Interactive Brokers Group, Inc. was founded in 1977 and is headquartered in Greenwich, Connecticut.",
+  "website": "http://www.interactivebrokers.com"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BGCCC8",
+    "cusip": "502175102",
+    "figi": "BBG000BGCFK2",
+    "isin": "US5021751020"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US5021751020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LTP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LTP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LTP.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LTC Properties, Inc.",
+  "primary_symbol": "LTC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "LTC is a real estate investment trust (REIT) investing in seniors housing and health care properties primarily through sale-leasebacks, mortgage financing, joint-ventures and structured finance solutions including preferred equity and mezzanine lending. LTC holds 181 investments in 27 states with 29 operating partners. The portfolio is comprised of approximately 50% seniors housing and 50% skilled nursing properties.",
+  "website": "http://www.LTCreit.com"
+}

@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Q9B5CC3",
+    "cusip": "29415F104",
+    "figi": "BBG00Q9B5CR7",
+    "isin": "US29415F1049"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US29415F1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "0HV.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0HV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0HV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US29415F1049.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ENVISTA HOLDINGS  DL-,01",
+  "primary_symbol": "0HV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Envista Holdings Corporation is a global family of more than 30 trusted dental brands, united by a shared purpose: to partner with professionals to improve lives. Envista serves customers worldwide with a broad range of dental consumables, equipment, and technology. Envista Holdings Corporation is headquartered in Brea, California.",
+  "website": "http://www.envistaco.com"
+}

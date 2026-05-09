@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BCVMH9",
+    "figi": "BBG000BCVP91",
+    "isin": "CA13645T1003"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Transportation",
+  "isin": "CA13645T1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PC8.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CP.TO"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CPN.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CPN.BK"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "CPRL34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PC8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PC8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PC8.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Canadian Pacific Railway Limited",
+  "primary_symbol": "CP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Canadian Pacific Railway Limited, together with its subsidiaries, owns and operates a transcontinental freight railway in Canada and the United States. The company transports bulk commodities, including grain, coal, potash, fertilizers, and sulphur; and merchandise freight, such as energy, chemicals and plastics, metals, minerals and consumer, automotive, and forest products. It also transports intermodal traffic comprising retail goods in overseas containers. The company offers rail and intermodal transportation services through a network of approximately 13,000 miles serving business centers in Quebec and British Columbia, Canada; and the United States Northeast and Midwest regions. Canadian Pacific Railway Limited was founded in 1881 and is headquartered in Calgary, Canada.",
+  "website": "http://www.cpr.ca"
+}

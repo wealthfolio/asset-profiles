@@ -1,0 +1,24 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WBTMU"
+    }
+  ],
+  "name": "Westbrook-Thompson Overriding Royalty Trust",
+  "primary_symbol": "WBTMU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Westbrook-Thompson Overriding Royalty Trust is a grantor trust that holds an overriding royalty interest in oil and gas properties. The trust distributes income generated from the production and sale of hydrocarbons from these properties to its unitholders. It's activities are related to the oil and gas industry."
+}

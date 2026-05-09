@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000Q9TVP4",
+    "figi": "BBG000Q9TYX9",
+    "isin": "DE0005470405"
+  },
+  "industry_group": "Materials",
+  "isin": "DE0005470405",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXS.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXS.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LXS.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LXS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LXS.SG"
+    }
+  ],
+  "name": "LANXESS AG",
+  "primary_symbol": "LXS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "LANXESS AG is a German specialty chemicals company that develops, manufactures, and markets chemical intermediates, additives, specialty chemicals, and plastics. Its products are used in a wide range of industries, including automotive, construction, and agriculture. The company is headquartered in Cologne, Germany."
+}

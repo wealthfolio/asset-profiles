@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003LR1865",
+    "cusip": "68620A203",
+    "figi": "BBG003LR18D7",
+    "isin": "US68620A2033"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68620A2033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4OR1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4OR1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ONVO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0R02.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "4OR1.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4OR1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US68620A2033.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ORGANOVO HLDGS  DL-,01",
+  "primary_symbol": "4OR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Organovo Holdings, Inc. is a biotechnology company focused on developing and commercializing 3D bioprinted tissues for medical research and therapeutic applications. The company's technology enables the creation of functional human tissues for drug discovery, toxicology testing, and eventually, therapeutic implants. Organovo Holdings is headquartered in San Diego, California.",
+  "website": "http://www.organovo.com"
+}

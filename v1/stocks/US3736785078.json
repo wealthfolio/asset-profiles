@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XPQNQ36",
+    "cusip": "373678507",
+    "figi": "BBG00XPQNQ90",
+    "isin": "US3736785078"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US3736785078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E8L.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US3736785078.SG"
+    }
+  ],
+  "name": "GEOVAX LABS NEW  DL -,001",
+  "primary_symbol": "E8L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "GeoVax Labs, Inc. is a biotechnology company developing human vaccines. The company's vaccine platform supports development of vaccines to prevent, and, in some cases, treat cancers and infectious diseases. GeoVax Labs is headquartered in Smyrna, Georgia."
+}

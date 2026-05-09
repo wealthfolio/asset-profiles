@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA76151P1018"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA76151P1018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RVLGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "76V.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "76V.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "RVG.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Revival Gold Inc.",
+  "primary_symbol": "RVLGF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Revival Gold Inc. engages in the exploration and development of gold properties in the United States. It holds a 100% interest in the Beartrack-Arnett Gold Project located in Lemhi County, Idaho; and a 51% interest in the Diamond Mountain Phosphate Project located in Uintah County, Utah. The company was formerly known as Strata Minerals Inc. and changed its name to Revival Gold Inc. in July 2017. Revival Gold Inc. was incorporated in 2008 and is headquartered in Toronto, Canada.",
+  "website": "http://revival-gold.com"
+}

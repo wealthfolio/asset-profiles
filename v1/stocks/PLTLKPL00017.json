@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00328MJF1",
+    "figi": "BBG00328MJM3",
+    "isin": "PLTLKPL00017"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "PLTLKPL00017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPA1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPA1.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "OPL.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TPA1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TPA1.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ORANGE POLSKA SA A  ZY 3",
+  "primary_symbol": "TPA1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Orange Polska S.A. is a Polish telecommunications provider. The company offers mobile and fixed-line telephone services, internet access, and digital television. Orange Polska is headquartered in Warsaw, Poland.",
+  "website": "http://www.opyl.ai"
+}

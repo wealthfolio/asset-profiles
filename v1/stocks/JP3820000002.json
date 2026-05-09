@@ -1,0 +1,53 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "composite_figi": "BBG000BWXJH0",
+    "figi": "BBG000BWXNP2",
+    "isin": "JP3820000002"
+  },
+  "industry": "Household Products",
+  "industry_group": "Capital Goods",
+  "isin": "JP3820000002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FJE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FJE.MU"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "6504.TW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FJE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FJE.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FUJI ELECTRIC CO. LTD.",
+  "primary_symbol": "FJE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FUJI ELECTRIC CO. LTD. is a Japanese electrical equipment manufacturer, providing power electronics, semiconductors, factory automation, and power generation systems. The company also offers services related to these products. Fuji Electric is headquartered in Tokyo, Japan.",
+  "website": "http://www.e-nonwoven.com.tw"
+}

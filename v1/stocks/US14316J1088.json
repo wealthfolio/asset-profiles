@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG002YX2YT7",
+    "cusip": "14316J108",
+    "figi": "BBG002YX2YZ0",
+    "isin": "US14316J1088"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US14316J1088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3VU.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US14316J1088.SG"
+    }
+  ],
+  "name": "CARLYLE GROUP INC.",
+  "primary_symbol": "3VU.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Carlyle Group Inc. is a global investment firm that invests private equity, real assets, and credit. The firm manages funds on behalf of institutions, pension funds, and high-net-worth individuals. The Carlyle Group is headquartered in Washington, D.C."
+}

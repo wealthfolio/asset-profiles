@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "930752100",
+    "isin": "US9307521008"
+  },
+  "industry_group": "Software & Services",
+  "isin": "US9307521008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1OW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1OW.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US9307521008.SG"
+    }
+  ],
+  "name": "WAITR HLDGS A  DL-,0001",
+  "primary_symbol": "1OW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Waitr Holdings Inc. operates an online ordering and delivery platform for restaurants. The company provides services in the United States, connecting customers with local restaurants for food delivery and takeout. Waitr is headquartered in Lafayette, Louisiana."
+}

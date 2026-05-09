@@ -1,0 +1,25 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MYNA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Mynaric AG American Depository Shares",
+  "primary_symbol": "MYNA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Mynaric AG is a German aerospace company that develops and manufactures laser communication technologies. The company focuses on providing data transmission solutions for aerospace applications. Mynaric is headquartered in Gilching, Germany."
+}

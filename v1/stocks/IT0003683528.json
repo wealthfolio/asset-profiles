@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG0018FFL20",
+    "isin": "IT0003683528"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "IT0003683528",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003683528.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "OJM.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "OPENJOBMETIS SPA AGENZIA PER",
+  "primary_symbol": "IT0003683528.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "OPENJOBMETIS SPA AGENZIA PER is an Italian employment agency providing temporary and permanent staffing solutions. They offer services such as recruitment, selection, training, and outplacement. The company is based in Gallarate, Italy.",
+  "website": "http://www.openjobmetis.it"
+}

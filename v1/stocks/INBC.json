@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INBC"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "InBankshares, Corp",
+  "primary_symbol": "INBC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "InBankshares, Corp operates as a bank holding company. The company, formerly known as FFP Group, Inc, is headquartered in Denver, Colorado.",
+  "website": "http://inbank.com"
+}

@@ -1,0 +1,37 @@
+{
+  "identifiers": {
+    "cusip": "04522R101",
+    "isin": "US04522R1014"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US04522R1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7A9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7A9.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7A9.F"
+    }
+  ],
+  "name": "ASLAN PHARMACEUT. ADR/5",
+  "primary_symbol": "7A9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ASLAN Pharmaceuticals is a clinical-stage immunology company developing innovative treatments targeting key pathways in inflammatory disease. The company focuses on novel monoclonal antibodies and other biologics. ASLAN Pharmaceuticals is headquartered in Singapore."
+}

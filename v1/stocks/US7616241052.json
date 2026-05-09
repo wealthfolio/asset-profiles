@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "761624105",
+    "isin": "US7616241052"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US7616241052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AREC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RX3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RX3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RX3.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "American Resources Corporation",
+  "primary_symbol": "AREC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "American Resources Corporation supplies raw materials for the global infrastructure marketplace. The company offers metallurgical coal and coal used in pulverized coal injection that are essential building blocks in the steel manufacturing process. It has a portfolio of operations located in the Central Appalachian basin of eastern Kentucky and southern West Virginia. The company was founded in 2006 and is headquartered in Fishers, Indiana.",
+  "website": "http://www.americanresourcescorp.com"
+}

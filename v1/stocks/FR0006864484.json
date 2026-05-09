@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000DJGDL4",
+    "figi": "BBG000DJGJ22",
+    "isin": "FR0006864484"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FR0006864484",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LPE.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0006864484.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LPE.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LPE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "LPE.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LPE.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LAURENT-PERR. INH.EO 3,80",
+  "primary_symbol": "LPE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "LAURENT-PERR. INH.EO 3,80 is likely a share of the champagne house Laurent-Perrier, which produces and sells various champagne brands. The company is based in Tours-sur-Marne, France. They are one of the largest champagne houses in the world.",
+  "website": "http://www.localityenergy.com.au"
+}

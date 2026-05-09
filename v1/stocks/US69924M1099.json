@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008GVW518",
+    "cusip": "69924M109",
+    "figi": "BBG008GVW572",
+    "isin": "US69924M1099"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US69924M1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P9G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P9G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PZG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P9G.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P9G.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PARAMOUNT GOLD NEV. DL-01",
+  "primary_symbol": "P9G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "PARAMOUNT GOLD NEVADA CORP. is a gold exploration company focused on acquiring and developing gold properties in Nevada. The company seeks to identify and advance promising gold prospects.",
+  "website": "http://www.paramountnevada.com"
+}

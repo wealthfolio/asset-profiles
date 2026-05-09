@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000R86K47",
+    "figi": "BBG000R86LQ1",
+    "isin": "CA00829Q1019"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA00829Q1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AOIFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AFZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AFZ.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "AOI.ST"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "AOI.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Africa Oil Corp.",
+  "primary_symbol": "AFZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Africa Oil Corp., together with its subsidiaries, operates as an oil and gas exploration and development company in Kenya, Nigeria, and South Africa. The company holds interests in producing and development assets in deep-water Nigeria and development assets in Kenya. It also has a portfolio of exploration assets in Guyana, Kenya, Namibia, Nigeria, South Africa, Ethiopia, and in the Senegal Guinea Bissau Joint Development Zone. The company was formerly known as Canmex Minerals Corporation and changed its name to Africa Oil Corp. in August 2007. Africa Oil Corp. was incorporated in 1983 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.africaoilcorp.com"
+}

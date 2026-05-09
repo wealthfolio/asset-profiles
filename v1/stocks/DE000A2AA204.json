@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BYP2J0",
+    "figi": "BBG000BYP4Q8",
+    "isin": "DE000A2AA204"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A2AA204",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DFTK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DFTK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "DFTK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DFTK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DFTK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DFTK.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DF DT.FORFAIT AG  NA O.N.",
+  "primary_symbol": "DFTK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "DF Deutsche Forfait AG is a German financial services company that specializes in providing forfaiting and trade finance solutions. They purchase export receivables from companies, assuming the risk of non-payment. DF Deutsche Forfait AG is based in Cologne, Germany.",
+  "website": "http://www.dfag.de"
+}

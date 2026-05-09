@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000BJVDL9",
+    "isin": "IT0003153415"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Energy",
+  "isin": "IT0003153415",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003153415.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SRG.MI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SNAM SPA",
+  "primary_symbol": "IT0003153415.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Snam S.p.A. is an Italian natural gas infrastructure company. The company operates natural gas transmission, storage, and regasification facilities. Snam is headquartered in San Donato Milanese, Italy.",
+  "website": "http://www.snam.it"
+}

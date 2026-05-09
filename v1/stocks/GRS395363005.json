@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000D5SB71",
+    "figi": "BBG000D5SF63",
+    "isin": "GRS395363005"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GRS395363005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HEE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HEE.SG"
+    }
+  ],
+  "name": "HELLEN.EX.-ATHENS ST. NA.",
+  "primary_symbol": "HEE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hellenic Exchanges - Athens Stock Exchange S.A. is the company that operates the Athens Stock Exchange, providing trading, clearing, and settlement services for securities in Greece. The company also offers data and technology solutions for financial markets. It is headquartered in Athens, Greece."
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00G7CFX01",
+    "cusip": "92672L107",
+    "figi": "BBG00G7CFX56",
+    "isin": "US92672L1070"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US92672L1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6L9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VRAY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6L9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6L9.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VIEWRAY INC.",
+  "primary_symbol": "6L9.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ViewRay, Inc. designs, manufactures, and markets radiation therapy systems that integrate MRI technology to provide clinicians with real-time imaging during cancer treatment, with headquarters in Oakwood Village, Ohio.",
+  "website": "http://www.viewray.com"
+}

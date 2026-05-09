@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00LYLGGS6",
+    "figi": "BBG00LYLGGZ8",
+    "isin": "CNE1000031C1"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "CNE1000031C1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "690D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "690D.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "690D.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "690D.SG"
+    }
+  ],
+  "name": "HAIER SMART HOME CO.D YC1",
+  "primary_symbol": "690D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "HAIER SMART HOME CO.D YC1 is a global home appliance company that designs, develops, manufactures, and sells a wide range of household appliances. Its products include refrigerators, washing machines, air conditioners, and other smart home devices, focusing on innovation and user experience. The company is headquartered in Qingdao, China."
+}

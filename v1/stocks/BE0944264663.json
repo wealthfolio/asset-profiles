@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BQ34V3",
+    "isin": "BE0944264663"
+  },
+  "isin": "BE0944264663",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "BE0944264663.BR"
+    }
+  ],
+  "name": "SCR-SIBELCO NV - AUC",
+  "primary_symbol": "BE0944264663.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

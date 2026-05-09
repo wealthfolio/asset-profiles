@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C4D1V6",
+    "figi": "BBG000C4D413",
+    "isin": "CNE1000002T6"
+  },
+  "industry_group": "Transportation",
+  "isin": "CNE1000002T6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZNHH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZNHH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZNHH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZNHH.SG"
+    }
+  ],
+  "name": "CHINA STHN AIRL.CO. H YC1",
+  "primary_symbol": "ZNHH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CHINA STHN AIRL.CO. H YC1 represents H shares of China Southern Airlines, one of China's major airlines, traded on the Hong Kong Stock Exchange. China Southern Airlines operates a large fleet of aircraft, providing passenger and cargo services across domestic and international routes. The company is headquartered in Guangzhou, China."
+}

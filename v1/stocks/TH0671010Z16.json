@@ -1,0 +1,43 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000PR5Z45",
+    "figi": "BBG000PR6354",
+    "isin": "TH0671010Z16"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Consumer Services",
+  "isin": "TH0671010Z16",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MJG1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MJG1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MJG1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MAJOR CINEPLEX -FGN- BA 1",
+  "primary_symbol": "MJG1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MAJOR CINEPLEX -FGN- BA 1 is a cinema operator in Thailand. The company operates a chain of movie theaters under various brands. Major Cineplex is headquartered in Bangkok, Thailand.",
+  "website": "http://www.majorcineplex.com"
+}

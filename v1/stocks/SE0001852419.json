@@ -1,0 +1,56 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0001852419"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "SE0001852419",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MWK.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L5E.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L5E.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "L5E.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LIAB.ST"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SE0001852419.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LINDAB INTERNATIONAL AB LINDAB",
+  "primary_symbol": "0MWK.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Lindab International AB develops, manufactures, and distributes products and system solutions for ventilation and building products. It operates in Europe and other regions. The company is headquartered in Grevie, Sweden.",
+  "website": "http://www.lindabgroup.com"
+}

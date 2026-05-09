@@ -1,0 +1,22 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "STIIAM.CO"
+    }
+  ],
+  "name": "Storebrand Indeks - Alle Markeder",
+  "primary_symbol": "STIIAM.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Storebrand Indeks - Alle Markeder is an index fund managed by Storebrand Asset Management, a Norwegian asset manager; the fund seeks to replicate the performance of a broad global equity market index, providing investors with diversified exposure to developed and emerging markets; the fund aims to provide long-term capital appreciation by tracking the market index."
+}

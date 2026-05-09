@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000RJ6W38",
+    "figi": "BBG000RJ6XM5",
+    "isin": "TH0902010014"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "TH0902010014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T6W.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T6W.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "T6W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T6W.SG"
+    }
+  ],
+  "name": "THAI BEVERAGE  -FGN- BA 1",
+  "primary_symbol": "T6W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "THAI BEVERAGE -FGN- BA 1 is a leading beverage company in Southeast Asia, producing and distributing a wide range of alcoholic and non-alcoholic beverages. The company's portfolio includes beer, spirits, soft drinks, and packaged water, with brands such as Chang beer, Ruang Kao whisky, and Oishi green tea. Thai Beverage is headquartered in Bangkok, Thailand."
+}

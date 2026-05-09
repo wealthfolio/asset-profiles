@@ -1,0 +1,73 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000GDJ4V0",
+    "figi": "BBG000GDJ8D1",
+    "isin": "DE0005754402"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Software & Services",
+  "isin": "DE0005754402",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSX.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSX.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005754402.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LSX.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "LSX.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LSX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LSX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LSX.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LS TELCOM AG",
+  "primary_symbol": "LSX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LS telcom AG provides solutions for spectrum management, radio monitoring, and test and measurement to government regulators, mobile network operators, and other industry stakeholders. The company's products and services help customers optimize their use of radio frequency spectrum and ensure regulatory compliance. LS telcom AG is headquartered in Lichtenau, Germany.",
+  "website": "http://www.lionselection.com.au"
+}

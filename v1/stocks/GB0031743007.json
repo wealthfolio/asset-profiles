@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BYJMD9",
+    "figi": "BBG000BYJPP9",
+    "isin": "GB0031743007"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "GB0031743007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BB2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BB2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BB2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BB2.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BB2.DU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0031743007.SW"
+    }
+  ],
+  "name": "BURBERRY GROUP  LS-,0005",
+  "primary_symbol": "BB2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Burberry Group plc is a British luxury fashion company that designs, manufactures, and distributes clothing, accessories, fragrances, and cosmetics. The company operates through retail, wholesale, and licensing channels, and is headquartered in London, United Kingdom. Burberry is known for its iconic trench coats, distinctive check pattern, and high-end fashion products."
+}

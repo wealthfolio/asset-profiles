@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA46016U1084"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA46016U1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPCFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPT.BE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "IPCO.ST"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "IPCO.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IPT.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "International Petroleum Corporation",
+  "primary_symbol": "IPCFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "International Petroleum Corporation explores for, develops, and produces oil and gas. The company holds interests in a portfolio of oil and gas assets located in Canada, Malaysia, and France. As at December 31, 2020, it had a proved and probable reserves of 272 million barrels of oil equivalents. International Petroleum Corporation was incorporated in 2017 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.international-petroleum.com"
+}

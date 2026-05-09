@@ -1,0 +1,53 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000BPT063",
+    "figi": "BBG000BPT358",
+    "isin": "NL0013995087"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "NL0013995087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3PC.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HY2.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3PC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CEM.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NL0013995087.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CEMENTIR HOLDING N.V. EO1",
+  "primary_symbol": "3PC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Cementir Holding N.V. is a global cement producer and supplier of building materials. The company produces cement, ready-mix concrete, and aggregates. Cementir Holding is headquartered in Rome, Italy.",
+  "website": "http://www.cementirholding.com"
+}

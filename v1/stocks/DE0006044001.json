@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BM1H27",
+    "figi": "BBG000BM1JW0",
+    "isin": "DE0006044001"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE0006044001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAK.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MAK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MAK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MAK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MAK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MATERNUS-KLI.AG O.N.",
+  "primary_symbol": "MAK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Maternus-Kliniken Aktiengesellschaft operates retirement and nursing homes, rehabilitation clinics, and various service companies that operate in the field of geriatric care and rehabilitation medicine. The company also provides emergency call, assisted living, rehabilitation, and follow-up treatment services, as well as domestic, inpatient, short term, and handicapped care services. It operates approximately 23 facilities in Germany. The company was founded in 1877 and is headquartered in Berlin, Germany.",
+  "website": "http://www.maternus.de"
+}

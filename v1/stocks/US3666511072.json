@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BKC0L5",
+    "cusip": "366651107",
+    "figi": "BBG000BKC2X8",
+    "isin": "US3666511072"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US3666511072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GGRA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IT"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ITV.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "G1AR34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GGRA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GGRA.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "IT.BK"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "GARTNER INC. DL -,0005",
+  "primary_symbol": "GGRA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Gartner, Inc. operates as a research and advisory company in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Research, Conferences, and Consulting. The Research segment offers objective insights and advice on the priorities of various leaders in a range of functional areas of the enterprise through reports, briefings, proprietary tools, access to research expert, peer networking services, and membership programs that enable clients to drive organizational performance. This segment delivers its research primarily through a subscription service. The Conferences segment offers business professionals in an organization the opportunity to learn, share, and network. The Consulting segment offers market research, custom analysis, and on-the-ground support services. This segment also offers actionable solutions for IT-related priorities, including IT cost optimization, digital transformation, and IT sourcing optimization. Gartner, Inc. was founded in 1979 and is headquartered in Stamford, Connecticut.",
+  "website": "http://www.gartner.com"
+}

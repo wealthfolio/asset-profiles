@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG000BV42H1",
+    "figi": "BBG000BV44P8",
+    "isin": "SE0000190126"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0000190126",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IDVA.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IDVA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IDVA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IDVA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "INDUSTRIV. A FR.",
+  "primary_symbol": "IDVA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Industrivarden AB is a Swedish investment company that manages a portfolio of listed companies, primarily in the Nordic region. The company aims to generate long-term value growth through active ownership in its portfolio companies. Industrivarden is headquartered in Stockholm, Sweden.",
+  "website": "http://www.industrivarden.se/en-GB"
+}

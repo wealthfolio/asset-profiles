@@ -1,0 +1,41 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0003593044"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "BE0003593044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0J3X.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "COFB.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "COFB.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "COFINIMMO SA COFINIMMO REIT ORD",
+  "primary_symbol": "0J3X.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Cofinimmo SA is a Belgian real estate investment trust (REIT) that invests in high-quality properties in major European cities. The company's portfolio includes offices, healthcare properties, and distribution centers. Cofinimmo SA is headquartered in Brussels, Belgium.",
+  "website": "http://www.cofinimmo.com"
+}

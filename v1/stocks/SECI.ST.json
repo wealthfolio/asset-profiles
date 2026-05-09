@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SECI.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SECITS Holding AB (publ)",
+  "primary_symbol": "SECI.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SECITS Holding AB (publ) provides camera surveillance solutions in Sweden. The company offers camera surveillance, bank security, and process monitoring services. It also provides CloudView, a cloud based camera service; customers financing for camera systems; and develops technology solutions to manage security solutions and business intelligence in store, bank, office, or warehouse. The company is based in Handen, Sweden.",
+  "website": "http://www.secits.se"
+}

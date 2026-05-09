@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QJT8R1",
+    "cusip": "690732102",
+    "figi": "BBG000QJTBQ5",
+    "isin": "US6907321029"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US6907321029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6OM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OMI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6OM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6OM.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "OWENS + MINOR  DL 2",
+  "primary_symbol": "6OM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Owens & Minor, Inc. is a global healthcare logistics company that connects manufacturers to healthcare providers, offering supply chain solutions and a portfolio of products for patient care, headquartered in Mechanicsville, Virginia.",
+  "website": "http://www.owens-minor.com"
+}

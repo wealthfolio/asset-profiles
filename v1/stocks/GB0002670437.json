@@ -1,0 +1,46 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB0002670437"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "GB0002670437",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEITF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5H8.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DVO.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0002670437.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Devro plc",
+  "primary_symbol": "DEITF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Devro plc, together with its subsidiaries, manufactures and supplies collagen casings primarily in the United Kingdom. It offers edible and non-edible collagen casings, films, and plastic casings for use in the production of a range of sausages and other meat products. The company sells its products to food manufacturers through distributors and agents. It also operates in Latin America, Russia and the East, the Middle East and Africa, South East Asia, China, North America, Continental Europe, Ireland, Japan, Australia, and New Zealand. The company was incorporated in 1991 and is based in Chryston, the United Kingdom.",
+  "website": "http://www.devro.com"
+}

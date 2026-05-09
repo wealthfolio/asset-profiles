@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WZR.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Wisr Limited",
+  "primary_symbol": "WZR.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Wisr Limited engages in the lending business in Australia. It offers personal loans for 3, 5, and 7-year maturities to consumers, then on-sells these loans to retail, wholesale, and institutional investors. Wisr Limited was incorporated in 1966 and is based in The Rocks, Australia.",
+  "website": "http://www.wisr.com.au"
+}

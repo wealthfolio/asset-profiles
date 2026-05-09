@@ -1,0 +1,68 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000QVB429",
+    "figi": "BBG000QVB5N3",
+    "isin": "AU000000IPL1"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Materials",
+  "isin": "AU000000IPL1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I5P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I5P.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I5P.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPL.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "I5P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I5P.SG"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "IPL.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IPL.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INCITEC PIVOT",
+  "primary_symbol": "I5P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "INCITEC PIVOT is an Australian-based global manufacturer of fertilizers, explosives, and chemicals. The company operates through two segments: Dyno Nobel, which manufactures and supplies explosives, and Incitec Pivot Fertilisers, which produces and distributes fertilizers. Incitec Pivot is headquartered in Melbourne, Australia.",
+  "website": "http://www.investoreproperty.co.nz"
+}

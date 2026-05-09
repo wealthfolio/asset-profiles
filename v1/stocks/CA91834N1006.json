@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00NHWD6T1",
+    "figi": "BBG00NHWD700",
+    "isin": "CA91834N1006"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA91834N1006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5VS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5VS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VSBGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5VS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5VS.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5VS.SI"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "VSBY.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VSBLTY GROUPE TECH.",
+  "primary_symbol": "5VS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "VSBLTY Groupe Technologies Corp. is a technology company that provides software and hardware solutions for retail analytics and security. The company's products use artificial intelligence and machine learning to provide insights into consumer behavior and enhance security measures. VSBLTY is headquartered in Philadelphia, Pennsylvania.",
+  "website": "http://vsblty.net"
+}

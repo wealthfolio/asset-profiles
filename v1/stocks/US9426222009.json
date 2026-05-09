@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000JNH0Q1",
+    "cusip": "942622200",
+    "figi": "BBG000JNJ5Z8",
+    "isin": "US9426222009"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US9426222009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WC3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WC3.SG"
+    }
+  ],
+  "name": "WATSCO INC. A  DL-,50",
+  "primary_symbol": "WC3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Watsco, Inc. is a distributor of air conditioning, heating, and refrigeration equipment and related parts and supplies. The company serves contractors in the HVAC/R industry. Watsco, Inc. is headquartered in Miami, Florida, USA."
+}

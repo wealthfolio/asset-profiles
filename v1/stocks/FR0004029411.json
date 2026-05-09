@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00ZHCZ339",
+    "figi": "BBG00ZHCZ384",
+    "isin": "FR0004029411"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0004029411",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5UP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5UP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALKEY.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "KEYRUS S.A. EO -,25",
+  "primary_symbol": "5UP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Keyrus S.A. is an international consulting and technology company specializing in data intelligence, digital transformation, and management consulting. They provide services to help organizations leverage data and technology to improve business performance. Keyrus is headquartered in Levallois-Perret, France.",
+  "website": "http://www.keyrus.com"
+}

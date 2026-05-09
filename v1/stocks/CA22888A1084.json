@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA22888A1084"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA22888A1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKTPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BR02.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BR02.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CRUZ.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cruz Cobalt Corp.",
+  "primary_symbol": "BKTPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Cruz Cobalt Corp., an exploration stage company, engages in the acquisition and exploration of mineral properties. The company explores for cobalt and lithium properties. It holds interests in various projects located in British Columbia and Ontario, Canada, as well as in Idaho and Nevada, the United States. The company was formerly known as Cruz Capital Corp. and changed its name to Cruz Cobalt Corp. in February 2017. Cruz Cobalt Corp. is headquartered in Vancouver, Canada.",
+  "website": "http://www.cruzcobaltcorp.com"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BVZHH4",
+    "figi": "BBG000BVZMB9",
+    "isin": "JP3893200000"
+  },
+  "industry_group": "Real Estate",
+  "isin": "JP3893200000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MFU.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MFU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MFU.SG"
+    }
+  ],
+  "name": "MITSUI FUDOSAN LTD",
+  "primary_symbol": "MFU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Mitsui Fudosan Co., Ltd. is a Japanese real estate company. They are involved in the development, leasing, and management of various properties, including office buildings, commercial facilities, and residential properties. The company is headquartered in Tokyo, Japan."
+}

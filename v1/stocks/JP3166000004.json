@@ -1,0 +1,51 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "JP3166000004"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "JP3166000004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EAR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EAR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EAR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EAR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EAR.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Eargo, Inc.",
+  "primary_symbol": "EAR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Eargo, Inc., a medical device company, develops and sells hearing aids to assist people with hearing loss in the United States. It sells its products through online stores. The company was formerly known as Aria Innovations, Inc. and changed its name to Eargo, Inc. in November 2014. Eargo, Inc. was founded in 2010 and is headquartered in San Jose, California.",
+  "website": "http://eargo.com"
+}

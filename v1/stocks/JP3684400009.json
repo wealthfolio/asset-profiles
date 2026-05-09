@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C1KLH6",
+    "figi": "BBG000C1KPS5",
+    "isin": "JP3684400009"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "JP3684400009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NB5.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3110.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NB5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NB5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NB5.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NITTO BOSEKI",
+  "primary_symbol": "NB5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nitto Boseki Co., Ltd. is a Japanese company with diversified business segments including textiles, glass fiber, medical, and environmental fields. The company produces textiles, glass fiber products for various industries, diagnostic reagents and instruments, and environmental solutions. It has its headquarters in Japan.",
+  "website": "http://www.nittobo.co.jp"
+}

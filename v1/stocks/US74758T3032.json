@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003GQL4M2",
+    "cusip": "74758T303",
+    "figi": "BBG003GQL4T5",
+    "isin": "US74758T3032"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US74758T3032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3L7A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3L7A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QLYS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3L7A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3L7A.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "QUALYS INC.  DL -,001",
+  "primary_symbol": "3L7A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Qualys, Inc. provides cloud-based security and compliance solutions that enable organizations to identify security risks to their IT infrastructure. The Qualys Cloud Platform provides visibility and automates a wide range of security operations. The company is headquartered in Foster City, California.",
+  "website": "http://www.qualys.com"
+}

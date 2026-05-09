@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLTH"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cue Health Inc. Common Stock",
+  "primary_symbol": "HLTH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cue Health Inc. is a healthcare technology company that develops and manufactures diagnostic products for professional and consumer use, including a molecular point-of-care testing platform. Their products allow individuals to access lab-quality results at home or in clinical settings. Cue Health Inc. is based in San Diego, California."
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C22DG3",
+    "figi": "BBG000C22HY4",
+    "isin": "JP3270000007"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3270000007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KWI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KWI.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KWI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KWI.DU"
+    }
+  ],
+  "name": "KURITA WATER IND.",
+  "primary_symbol": "KWI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kurita Water Industries Ltd. provides water treatment solutions including chemicals, equipment, engineering, and services. They cater to various industries helping to optimize water usage, reduce waste, and improve process efficiency and the company's headquarters are in Tokyo, Japan."
+}

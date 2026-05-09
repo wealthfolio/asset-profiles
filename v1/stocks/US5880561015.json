@@ -1,0 +1,54 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000FHKDW9",
+    "cusip": "588056101",
+    "figi": "BBG000FHLKN2",
+    "isin": "US5880561015"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "US5880561015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AEZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AEZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MERC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AEZ.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MERC.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MERCER INTL INC.  DL 1",
+  "primary_symbol": "AEZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mercer International Inc. is a global pulp producer with operations in North America, Europe and Australia. The company manufactures and sells NBSK pulp, fluff pulp and also produces bio-energy from renewable resources. Mercer International is headquartered in Vancouver, Canada.",
+  "website": "http://www.mercerint.com"
+}

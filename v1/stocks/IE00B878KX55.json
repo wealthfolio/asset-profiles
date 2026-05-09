@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YHL3PQ3",
+    "figi": "BBG00YHL3PX5",
+    "isin": "IE00B878KX55"
+  },
+  "isin": "IE00B878KX55",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3DEL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3DEL.MU"
+    }
+  ],
+  "name": "WITR MU.AS.I.LEVD.ETP2062",
+  "primary_symbol": "3DEL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

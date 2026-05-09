@@ -1,0 +1,81 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "isin": "PTBCP0AM0015"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "PTBCP0AM0015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RJN.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BCPN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BCPN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BPCGF"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "BCP.BK"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "BCP.BO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "BCP.LS"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "BCP.NS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BCPN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BCPN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BCPN.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BANCO COMERCIAL PORTUGUES SA BA",
+  "primary_symbol": "0RJN.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BANCO COMERCIAL PORTUGUES SA is a Portuguese bank providing a range of financial services to individuals, businesses, and institutions. The bank operates primarily in Portugal and Poland. BANCO COMERCIAL PORTUGUES SA is headquartered in Porto, Portugal.",
+  "website": "http://ind.millenniumbcp.pt"
+}

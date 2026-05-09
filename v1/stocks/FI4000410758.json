@@ -1,0 +1,46 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "isin": "FI4000410758"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FI4000410758",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0A3B.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "49U.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "49U.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "MUSTI.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MUSTI GROUP OYJ MUSTI GROUP ORD",
+  "primary_symbol": "0A3B.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "MUSTI GROUP OYJ MUSTI GROUP ORD is a Nordic pet care company that offers a wide range of pet food, accessories, and services. The company operates retail stores and online channels, providing products and services for pet owners in the Nordic region with headquarters in Helsinki, Finland.",
+  "website": "http://www.mustigroup.com"
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004RWRPS6",
+    "figi": "BBG004RWRPZ8",
+    "isin": "JP3336560002"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3336560002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7SN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7SN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7SN.SG"
+    }
+  ],
+  "name": "SUNTORY BEVERAG.+FOOD LTD",
+  "primary_symbol": "7SN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Suntory Beverage & Food Ltd. is a Japanese beverage company, a subsidiary of Suntory Holdings. It manufactures and sells a wide range of beverages, including soft drinks, bottled water, tea, and coffee. The company operates globally and owns various brands."
+}

@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00JDV0M15",
+    "cusip": "05684B107",
+    "figi": "BBG00M6PK729",
+    "isin": "US05684B1070"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US05684B1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BCSF"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Bain Capital Specialty Finance, Inc.",
+  "primary_symbol": "BCSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Bain Capital Specialty Finance, Inc. operates as a business development company (BDC) specializing in direct loans to middle-market companies. The fund seeks to invest in senior investments with a first or second lien on collateral, senior first lien, stretch senior, senior second lien, unitranche, mezzanine debt, junior securities, other junior investments, and secondary purchases of assets or portfolios that primarily consist of middle-market corporate debt. It typically invests in companies with EBITDA between $10 million and $150 million.",
+  "website": "http://www.baincapital.com"
+}

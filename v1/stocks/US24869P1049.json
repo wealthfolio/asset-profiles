@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000F4N062",
+    "cusip": "24869P104",
+    "figi": "BBG000F4P435",
+    "isin": "US24869P1049"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US24869P1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DE8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DENN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DE8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE8.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DENNY'S CORP  DL-,01",
+  "primary_symbol": "DE8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "DENNY'S CORP is a full-service restaurant chain that offers a variety of breakfast, lunch, and dinner items. They operate and franchise restaurants under the Denny's brand, providing a casual dining experience. The company is headquartered in Spartanburg, South Carolina, USA.",
+  "website": "http://www.dennys.com"
+}

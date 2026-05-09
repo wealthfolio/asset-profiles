@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "550057.KS"
+    }
+  ],
+  "name": "QV KOSPI Vol Matching Strangle",
+  "primary_symbol": "550057.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Note (ETN) that employs a KOSPI Volatility Matching Strangle strategy. The ETN likely aims to generate returns by selling both call and put options on the KOSPI index while managing the volatility exposure. It is issued by QV."
+}

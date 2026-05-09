@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000NB1NP0",
+    "figi": "BBG000NB2V17",
+    "isin": "NZAIAE0002S6"
+  },
+  "industry_group": "Transportation",
+  "isin": "NZAIAE0002S6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZTA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BZTA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BZTA.SG"
+    }
+  ],
+  "name": "AUCKLD INTL AIRPORT O.N.",
+  "primary_symbol": "BZTA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Auckland International Airport Limited owns and operates the Auckland Airport. The airport provides aeronautical services, processing passengers and cargo, and develops land for property and infrastructure. It is headquartered in Auckland, New Zealand."
+}

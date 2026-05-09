@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00F38S4K4",
+    "figi": "BBG00F38S4R7",
+    "isin": "GB00BD3VFW73"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "GB00BD3VFW73",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2CV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2CV.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "2CV.DU"
+    }
+  ],
+  "name": "CONVATEC GROUP WI LS -,10",
+  "primary_symbol": "2CV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Convatec Group Plc is a global medical products and technologies company. They develop, manufacture, and market products for ostomy care, wound care, continence and critical care, and infusion devices. Convatec Group Plc is headquartered in Reading, United Kingdom."
+}

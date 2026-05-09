@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZNPLX8",
+    "figi": "BBG00XZNPM20",
+    "isin": "NO0010895667"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "NO0010895667",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P99.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010895667.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PSKY.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PatientSky Group AS",
+  "primary_symbol": "P99.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "PatientSky Group AS provides Software-as-a-Service (SaaS), Platform-as-a-Service (PaaS), and value added services to healthcare providers and their patients in Norway, Denmark, and Finland. It offers PatientSky 360 platform, a low-code development platform that allows vendors to interact intra-platform and reuse applications across customers, as well as platform-as-a-service partner program that provides a white labeling of the platform's modules and app. The company was founded in 2014 and is headquartered in Oslo, Norway.",
+  "website": "http://www.patientsky.com"
+}

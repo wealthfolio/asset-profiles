@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C5G9K5",
+    "figi": "BBG000C5GFG6",
+    "isin": "JP3224200000"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3224200000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KHE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KHE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KHE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KHE.SG"
+    }
+  ],
+  "name": "KAWASAKI HEAVY IND.",
+  "primary_symbol": "KHE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kawasaki Heavy Industries, Ltd. is a Japanese multinational corporation that manufactures a wide range of products including motorcycles, heavy machinery, aerospace equipment, and ships. The company operates through various segments, serving diverse industries globally. Kawasaki Heavy Industries is headquartered in Tokyo, Japan."
+}

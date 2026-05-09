@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CZ7F07",
+    "figi": "BBG000CZ8K23",
+    "isin": "JP3788600009"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3788600009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIA1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIA1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HIA1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HIA1.SG"
+    }
+  ],
+  "name": "HITACHI LTD",
+  "primary_symbol": "HIA1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hitachi Ltd. is a Japanese multinational conglomerate company operating in various sectors, including information technology, energy, industry, mobility, and smart life. The company provides a wide range of products, systems, and services, such as power generation systems, industrial machinery, healthcare solutions, and IT services, with its headquarters in Tokyo, Japan. Hitachi aims to improve people's lives and contribute to a sustainable society through its innovative technologies and solutions."
+}

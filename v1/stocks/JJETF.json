@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JJETF"
+    }
+  ],
+  "name": "iPath Bloomberg Energy Subindex Total Return(SM) ETN",
+  "primary_symbol": "JJETF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "iPath Bloomberg Energy Subindex Total Return ETN is an exchange-traded note providing exposure to a basket of energy commodities. The ETN tracks the Bloomberg Energy Subindex Total Return. The ETN offers investors a way to gain exposure to the energy commodity market."
+}

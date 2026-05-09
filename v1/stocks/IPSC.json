@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IPSC"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Century Therapeutics Inc. Common Stock",
+  "primary_symbol": "IPSC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Century Therapeutics Inc. is a biotechnology company focused on developing allogeneic cell therapies for cancer. The company uses its platform to engineer cells to resist tumor microenvironment suppression, drive cell persistence, and enhance anti-tumor activity. Century Therapeutics is headquartered in Philadelphia, PA."
+}

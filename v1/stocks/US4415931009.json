@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG009T2PXM0",
+    "cusip": "441593100",
+    "figi": "BBG009T2PXT3",
+    "isin": "US4415931009"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US4415931009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2HL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2HL.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLI.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2HL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4415931009.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "HOULIHAN LOKEY A  DL-,001",
+  "primary_symbol": "2HL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Houlihan Lokey, Inc. is an investment bank that provides mergers and acquisitions, financial restructuring, valuation, and other financial advisory services. The company serves corporations, institutions, and governments worldwide. Houlihan Lokey is headquartered in Los Angeles, California.",
+  "website": "http://www.hl.com"
+}

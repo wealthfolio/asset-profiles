@@ -1,0 +1,27 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IJX.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Vastned Belgium",
+  "primary_symbol": "IJX.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Vastned Retail Belgium is a public regulated real estate company (RREC), the shares of which are listed on Euronext Brussels (VASTB). Vastned Retail Belgium invests exclusively in Belgian commercial real estate, more specifically in prime retail properties located on the best shopping streets in the major cities of Antwerp, Brussels, Ghent and Bruges. Furthermore, the real estate portfolio consists of inner-city shops outside of the premium cities, high-end retail parks and retail warehouses.",
+  "website": "http://www.vastned.be"
+}

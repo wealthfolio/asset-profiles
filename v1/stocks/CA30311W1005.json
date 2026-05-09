@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "isin": "CA30311W1005"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "CA30311W1005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4WR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4WR.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4WR.DU"
+    }
+  ],
+  "name": "FACEDRIVEINC.",
+  "primary_symbol": "4WR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "FACEDRIVEINC. is an electric vehicle subscription service company providing access to EVs on a flexible basis. The company's business model revolves around offering a \"mobility-as-a-service\" solution, allowing customers to subscribe to EVs for a set period without long-term commitments."
+}

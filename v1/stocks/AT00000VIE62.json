@@ -1,0 +1,61 @@
+{
+  "identifiers": {
+    "isin": "AT00000VIE62"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "AT00000VIE62",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLW1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLW1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FLU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FLU.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FLW1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FLW1.SG"
+    }
+  ],
+  "name": "FLUOR CORP. (NEW)  DL-,01",
+  "primary_symbol": "FLU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Fluor Corporation provides engineering, procurement, construction, and maintenance services to various industries. The company operates through its Energy Solutions, Urban Solutions, and Mining segments, offering project management, construction, and operations support. Fluor is headquartered in Irving, Texas, and has a global presence."
+}

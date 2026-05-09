@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000M65C54",
+    "cusip": "705573103",
+    "figi": "BBG000M65G37",
+    "isin": "US7055731035"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US7055731035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEGA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KGS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PEA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PEA.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PEGASYSTEMS  DL-,01",
+  "primary_symbol": "PEA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Pegasystems Inc. develops, markets, and supports software applications for customer relationship management and business process management. The company's software helps organizations automate and streamline their business processes. The company is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.pega.com"
+}

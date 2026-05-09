@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "AU000000MPL3"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "AU000000MPL3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPV"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPV.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MPL.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "MPL.BO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MPL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MPV.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Barings Participation Investors",
+  "primary_symbol": "MPV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Barings Participation Investors is a closed ended fixed income mutual fund launched and managed by Barings LLC. The fund invests in the fixed income markets of the United States. It primarily invests in below-investment grade, long-term corporate debt obligations which are directly purchased from its issuers. The fund also seeks to invest in warrants, conversion rights, or other equity related instruments. It benchmarks the performance of its portfolio against Standard and Poor's Industrials Composite, Russell 2000 Index, Lehman Brothers U.S. High Yield Index, and Lehman Brothers Intermediate U.S. Credit Index. The fund was formerly known as Babson Capital Participation Investors. Barings Participation Investors was formed on April 7, 1988 and is domiciled in the United States.",
+  "website": "http://www.babsoncapital.com/mpv"
+}

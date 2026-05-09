@@ -1,0 +1,43 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00KH7FK37",
+    "figi": "BBG00KH7FK91",
+    "isin": "FI4000292438"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FI4000292438",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "28Q.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "28Q.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "28Q.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALTIA OYJ",
+  "primary_symbol": "28Q.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Altia Oyj is a Nordic alcoholic beverage company that produces, markets, and distributes a portfolio of spirits and wines. The company's brands include Koskenkorva Vodka and Larsen Cognac. Altia is headquartered in Helsinki, Finland.",
+  "website": "http://www.altiagroup.com"
+}

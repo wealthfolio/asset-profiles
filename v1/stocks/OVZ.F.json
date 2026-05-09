@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OVZ.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Ovzon AB (publ)",
+  "primary_symbol": "OVZ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Ovzon AB (publ) provides satellite based mobile broadband services in Sweden and internationally. Its services are used in live broadcast, wildlife preservation, drone operation, border security, and disaster management applications, as well as in government and defense sectors. The company was founded in 2006 and is headquartered in Solna, Sweden.",
+  "website": "http://www.ovzon.com"
+}

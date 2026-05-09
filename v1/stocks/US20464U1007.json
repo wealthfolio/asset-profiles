@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00J5SXTH3",
+    "cusip": "20464U100",
+    "figi": "BBG00ZSDNQM6",
+    "isin": "US20464U1007"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US20464U1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COMP"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Compass, Inc.",
+  "primary_symbol": "COMP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Urban Compass, Inc., doing business as Compass, operates as a real estate brokerage company. It also offers an online platform and application to buy, rent, and sell real estate properties. The company was founded in 2012 and is based in New York, New York.",
+  "website": "http://www.compass.com"
+}

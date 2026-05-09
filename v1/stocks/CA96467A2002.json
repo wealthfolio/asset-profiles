@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG001870422",
+    "figi": "BBG001870486",
+    "isin": "CA96467A2002"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA96467A2002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "J6I.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "J6I.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPGYF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WCP.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "J6I.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "J6I.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "J6I.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "WCP.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Whitecap Resources Inc.",
+  "primary_symbol": "J6I.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Whitecap Resources Inc., oil and gas company, acquires and develops petroleum and natural gas properties in Canada. Its principal properties are located in West Central Alberta, Northwest Alberta and British Columbia, Southeast Saskatchewan, West Central Saskatchewan, and Southwest Saskatchewan. As of February 24, 2021, it had a total proved plus probable reserves of 507,287 thousand barrels of oil equivalent. Whitecap Resources Inc. is headquartered in Calgary, Canada.",
+  "website": "http://www.wcap.ca"
+}

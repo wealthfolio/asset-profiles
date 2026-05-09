@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00H3MJDK9",
+    "isin": "GB00BG0TSD71"
+  },
+  "isin": "GB00BG0TSD71",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BG0TSD71.SG"
+    }
+  ],
+  "name": "GETBUSY PLC",
+  "primary_symbol": "GB00BG0TSD71.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

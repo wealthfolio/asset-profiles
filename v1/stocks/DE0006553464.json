@@ -1,0 +1,48 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000PLNYF9",
+    "figi": "BBG000PLP2M9",
+    "isin": "DE0006553464"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "DE0006553464",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNV6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNV6.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MNV6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MNV6.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MAINOVA AG O.N.",
+  "primary_symbol": "MNV6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Mainova AG is a German utility company. The company supplies electricity, gas, water, and heat to customers in the Frankfurt region. The company is headquartered in Frankfurt, Germany.",
+  "website": "http://www.mainova.de"
+}

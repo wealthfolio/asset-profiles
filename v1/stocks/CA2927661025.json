@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000R9Y8Q7",
+    "figi": "BBG000R9YFT8",
+    "isin": "CA2927661025"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA2927661025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E17.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ERF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "E17.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E17.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E17.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ERF.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ENERPLUS CORP.",
+  "primary_symbol": "E17.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Enerplus Corporation is an independent North American oil and gas producer focused on creating value through responsible energy development. The company's assets are primarily located in the Bakken and Three Forks formations in North Dakota, and the Marcellus Formation in Pennsylvania, with its headquarters in Calgary, Alberta, Canada. Enerplus explores for, develops, and produces crude oil, natural gas, and natural gas liquids.",
+  "website": "http://www.enerplus.com"
+}

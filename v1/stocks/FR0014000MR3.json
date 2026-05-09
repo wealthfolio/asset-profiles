@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BMF3F9",
+    "figi": "BBG000BMF608",
+    "isin": "FR0014000MR3"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0014000MR3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESF0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESF0.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESF0.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESF0.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ERF.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ESF0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0014000MR3.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EUROFINS SCI.INH.EO 0,01",
+  "primary_symbol": "ESF0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Eurofins Scientific SE is a global laboratory testing company. It provides testing and support services to the pharmaceutical, food, environmental, and consumer products industries. Eurofins Scientific is headquartered in Luxembourg City, Luxembourg.",
+  "website": "http://www.elanorinvestors.com/ERF"
+}

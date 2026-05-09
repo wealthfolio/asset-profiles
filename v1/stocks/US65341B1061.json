@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG006JNW321",
+    "cusip": "65341B106",
+    "figi": "BBG006JNW367",
+    "isin": "US65341B1061"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "US65341B1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NEP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NEP.HM"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "NEP.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US65341B1061.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NextEra Energy Partners, LP",
+  "primary_symbol": "NEP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "NextEra Energy Partners, LP acquires, owns, and manages contracted clean energy projects in the United States. The company owns a portfolio of contracted renewable generation assets consisting of wind and solar projects, as well as contracted natural gas pipeline assets. NextEra Energy Partners, LP was incorporated in 2014 and is headquartered in Juno Beach, Florida.",
+  "website": "http://www.investor.nexteraenergypartners.com"
+}

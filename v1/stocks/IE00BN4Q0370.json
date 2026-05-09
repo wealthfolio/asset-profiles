@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "IE00BN4Q0370"
+  },
+  "industry_group": "Energy",
+  "isin": "IE00BN4Q0370",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOPA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOPA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WOPA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WOPA.DU"
+    }
+  ],
+  "name": "WOODSIDE PET.",
+  "primary_symbol": "WOPA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Woodside Energy Group Ltd. is an Australian oil and gas company engaged in exploration, development, production, and marketing of hydrocarbons. The company has operations in Australia and internationally, producing natural gas, oil, and condensate. Woodside Energy Group is headquartered in Perth, Australia."
+}

@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BSRKZ3",
+    "figi": "BBG000BSRNB3",
+    "isin": "GB0006731235"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GB0006731235",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFO1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFO1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AFO1.DU"
+    }
+  ],
+  "name": "ASSOC. BR. FOODS LS-,0568",
+  "primary_symbol": "AFO1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Associated British Foods plc is a diversified international food, ingredients and retail group with operations in Europe, Africa, the Americas, Asia and Australia. The company manufactures and sells a range of food products, including sugar, grocery, ingredients and agriculture. Associated British Foods also operates the Primark retail chain."
+}

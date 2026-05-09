@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003GH4CQ9",
+    "cusip": "98138H101",
+    "figi": "BBG003GH4CX1",
+    "isin": "US98138H1014"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US98138H1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7D.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7D.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7D.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WDAY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0M18.L"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "W1DA34.SA"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "W7D.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "W7D.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "W7D.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "WDAY.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "WORKDAY INC.CL.A  DL-,001",
+  "primary_symbol": "W7D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Workday, Inc. is a cloud-based provider of enterprise resource planning (ERP) software, specializing in human capital management (HCM), finance, and planning applications. The company's software is used by businesses to manage their workforce, finances, and operations. Workday is headquartered in Pleasanton, California, USA.",
+  "website": "http://www.workday.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000RZZ860",
+    "figi": "BBG000RZZ9S4",
+    "isin": "KYG6427W1042"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "KYG6427W1042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3ND.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3ND.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0777.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3ND.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3ND.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NETDRAGON WEBS.HLDG.DL-01",
+  "primary_symbol": "3ND.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "NetDragon Websoft Holdings Limited is a Chinese company that develops and operates massively multiplayer online games (MMORPGs) and mobile games. The company also has a presence in online education. NetDragon Websoft is headquartered in Fuzhou, China.",
+  "website": "http://www.netdragon.com"
+}

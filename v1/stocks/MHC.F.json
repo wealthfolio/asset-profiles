@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MHC.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MegaChips Corporation",
+  "primary_symbol": "MHC.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "MegaChips Corporation provides chip solutions in Japan. The company offers application specific integrated circuits; MEMS timing devices; automotive ethernet PHY; wired communication networks; and LCD timing controllers for various input and output interfaces, such as HDTVs and smart devices. MegaChips Corporation was incorporated in 1967 and is headquartered in Osaka, Japan.",
+  "website": "http://www.megachips.co.jp"
+}

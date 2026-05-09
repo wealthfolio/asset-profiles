@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BJFX33",
+    "figi": "BBG000BJG061",
+    "isin": "DE000A1TNWJ4"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A1TNWJ4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPCK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPCK.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPCK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPCK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MPCK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MPCK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MPCK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MPCK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MPC MUENCH.PET.CAP.",
+  "primary_symbol": "MPCK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MPC M√É¬ºnchmeyer Petersen Capital AG is a publicly owned investment manager. The firm engages in the development, marketing, and management of investment products for private investors. Its product range comprises various yield-oriented and tax-optimized investments in the areas of shipping, real estate, and infrastructure. It operates in Germany, Austria, Switzerland, Netherlands, and . MPC M√É¬ºnchmeyer Petersen Capital AG was founded in 1994 and is headquartered in Hamburg, Germany.",
+  "website": "http://www.mpc-capital.de"
+}

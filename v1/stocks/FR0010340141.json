@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000Q3GXL1",
+    "figi": "BBG000Q3H194",
+    "isin": "FR0010340141"
+  },
+  "industry_group": "Transportation",
+  "isin": "FR0010340141",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7L.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W7L.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "W7L.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "W7L.SG"
+    }
+  ],
+  "name": "AEROP.DE PARIS SA INH.EO3",
+  "primary_symbol": "W7L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Aéroports de Paris SA, also known as Groupe ADP, designs, develops and operates airports, including Charles de Gaulle Airport, Orly Airport, and Le Bourget Airport, near Paris. The company provides airport management services, including passenger handling, baggage handling, and retail operations. Aéroports de Paris is headquartered in Paris, France."
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00F0S5X51",
+    "figi": "BBG00F0S5XB4",
+    "isin": "JP3247010006"
+  },
+  "industry": "Road & Rail",
+  "industry_group": "Transportation",
+  "isin": "JP3247010006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9142.F"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9142.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KRH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KRH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KRH.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KYUSHU RAILWAY COMPANY",
+  "primary_symbol": "KRH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kyushu Railway Company, also known as JR Kyushu, is a Japanese railway operator. The company operates railway lines in the Kyushu region of Japan and offers passenger and freight transportation services. Additionally, they are involved in other businesses such as real estate and retail.",
+  "website": "http://www.jrkyushu.co.jp"
+}

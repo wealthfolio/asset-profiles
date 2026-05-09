@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00MH8HKZ4",
+    "cusip": "28414H103",
+    "figi": "BBG00MH8HL55",
+    "isin": "US28414H1032"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US28414H1032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5EA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5EA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "5EA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5EA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5EA.SG"
+    }
+  ],
+  "name": "ELANCO ANIMAL HEALTH.",
+  "primary_symbol": "5EA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Elanco Animal Health Incorporated is a global animal health company that develops and markets products and services to improve animal health and protein production. Headquartered in Greenfield, Indiana, Elanco provides solutions for livestock and companion animals, including vaccines, parasiticides, and antibiotics. Their business focuses on enhancing animal well-being and supporting the food supply."
+}

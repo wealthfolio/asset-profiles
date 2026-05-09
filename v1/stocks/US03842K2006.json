@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "03842K200",
+    "isin": "US03842K2006"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US03842K2006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AQB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W8NB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W8NB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "W8NB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "W8NB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "W8NB.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AquaBounty Technologies, Inc.",
+  "primary_symbol": "AQB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "AquaBounty Technologies, Inc., a biotechnology company, focuses on improving productivity in the commercial aquaculture industry in the United States and Canada. It offers AquAdvantage Salmon, a bioengineered Atlantic salmon for human consumption; and sells conventional Atlantic salmon, salmon eggs, fry, and byproducts. The company was formerly known as Aqua Bounty Farms, Inc. and changed its name to AquaBounty Technologies, Inc. in June 2004. AquaBounty Technologies, Inc. was incorporated in 1991 and is headquartered in Maynard, Massachusetts.",
+  "website": "http://www.aquabounty.com"
+}

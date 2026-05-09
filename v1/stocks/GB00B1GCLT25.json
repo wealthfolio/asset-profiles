@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "GB00B1GCLT25"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Energy",
+  "isin": "GB00B1GCLT25",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POLR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XZF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XZF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B1GCLT25.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "POLR.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XZF.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Polar Petroleum Corp.",
+  "primary_symbol": "POLR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Polar Petroleum Corp., an exploration stage company, focuses on the exploration, development, and production of oil and natural gas in the United States. It owns interests in 29 oil and gas land leases covering approximately 66,061 acres located in the North Slope region of the State of Alaska. The company was formerly known as Post Data, Inc. and changed its name to Polar Petroleum Corp. in November 2012. Polar Petroleum Corp. was founded in 2011 and is based in Anchorage, Alaska.",
+  "website": "http://www.polarpetro.com"
+}

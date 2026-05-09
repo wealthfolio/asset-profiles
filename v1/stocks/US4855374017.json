@@ -1,0 +1,47 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "485537401",
+    "isin": "US4855374017"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US4855374017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAOCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KAOOY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4452.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KAO.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Kao Corporation",
+  "primary_symbol": "KAOCF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Kao Corporation develops and sells cosmetic, skin/hair care, human health care, fabric and home care, and chemical products. It offers face, body, and oral care products; and bath healthcare products, haircare products, hair styling agents, hair coloring agents, clothing and cloth care products, kitchen care products, homecare items, food and sanitary products, thermal supplies, and pet supplies, and other products. The company also offers chemical products, such as oil and fat products; functional material products, including surfactants; and specialty chemicals products, such as toners and toner binders. The company was formerly known as Kao Soap Co., Ltd. and changed its name to Kao Corporation in 1982. Kao Corporation was founded in 1887 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.kao.com/jp/"
+}

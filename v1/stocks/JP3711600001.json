@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BZ0SC4",
+    "figi": "BBG002HQ9R55",
+    "isin": "JP3711600001"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "JP3711600001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPX.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4091.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NPX.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NIPPON SANSO HOLDINGS",
+  "primary_symbol": "NPX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NIPPON SANSO HOLDINGS is a global company that manufactures and supplies industrial gases, medical gases, and related equipment. They operate in various segments, including gas, chemicals, and engineering, serving industries such as electronics, steel, chemicals, food, and healthcare. The company is headquartered in Tokyo, Japan.",
+  "website": "http://www.nipponsanso-hd.co.jp"
+}

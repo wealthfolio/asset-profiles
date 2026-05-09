@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000TBYFR3",
+    "cusip": "72651A207",
+    "isin": "US72651A2078"
+  },
+  "industry_group": "Energy",
+  "isin": "US72651A2078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US72651A2078.SG"
+    }
+  ],
+  "name": "PLAINS GP HOLDINGS LP-CL A",
+  "primary_symbol": "US72651A2078.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "PLAINS GP HOLDINGS LP-CL A is a limited partnership that owns and operates midstream energy infrastructure and provides logistics services for crude oil, natural gas, and natural gas liquids (NGL). The company is headquartered in Houston, Texas. Plains GP Holdings LP manages and controls Plains All American Pipeline, L.P."
+}

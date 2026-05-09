@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00T6TH560",
+    "figi": "BBG00T6TH5F0",
+    "isin": "CA09238B3083"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "CA09238B3083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0JJ0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0JJ0.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLRZF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0JJ0.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "BLR.CN"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BLR.SI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA09238B3083.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Blackhawk Growth Corp.",
+  "primary_symbol": "0JJ0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Blackhawk Growth Corp. is a publicly owned investment manager. It invests in public equity and fixed income markets across North America. It focuses on investing in cannabis and CBD industries, in both Canada and the United States. The company was formerly known as Blackhawk Resource Corp. Blackhawk Growth Corp. was incorporated in 1986 and is based in Calgary, Canada.",
+  "website": "http://www.blackhawkcorp.ca"
+}

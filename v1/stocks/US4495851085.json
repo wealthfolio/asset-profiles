@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00PNR1BT2",
+    "cusip": "449585108",
+    "figi": "BBG00Q26HK03",
+    "isin": "US4495851085"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US4495851085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IGMS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4495851085.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IGM Biosciences, Inc.",
+  "primary_symbol": "IGMS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IGM Biosciences, Inc., a biotechnology company, develops Immunoglobulin M (IgM) antibodies for the treatment of multiple diseases. Its lead product candidate is IGM-2323, a bispecific IgM antibody that is in Phase 1 clinical trials to treat patients with relapsed/refractory B cell Non-Hodgkin's lymphoma (NHL). The company is also developing IGM-8444, an IgM antibody, which is in Phase 1 clinical trials for the treatment of patients with solid cancers and NHL; and IGM-7354, is a bispecific IgM antibody delivering interleukin-15 cytokines to PD-L1 expressing cells for use in the treatment of patients with solid and hematologic malignancies. It has a strategic research and license agreement with AbCellera to discover and develop IgM antibodies; and license agreement with AvantGen Inc. for various antibodies against the SARS-CoV-2 virus. The company was formerly known as Palingen, Inc. and changed its name to IGM Biosciences, Inc. in 2010. IGM Biosciences, Inc. was incorporated in 1993 and is headquartered in Mountain View, California.",
+  "website": "http://igmbio.com"
+}

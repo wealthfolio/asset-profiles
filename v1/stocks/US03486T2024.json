@@ -1,0 +1,72 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "cusip": "03486T202",
+    "isin": "US03486T2024"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US03486T2024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AGPPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANGPY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPH1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RPH1.MU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "AMS.JO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RPH1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RPH1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RPH1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RPHA.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Anglo American Platinum Limited",
+  "primary_symbol": "AGPPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Anglo American Platinum Limited engages in the production and sale of platinum group metals, base metals, and precious metals in South Africa and internationally. It produces platinum, palladium, rhodium, ruthenium, iridium, and osmium, as well as nickel, copper, cobalt sulphate, sodium sulphate, chrome, and gold. The company was formerly known as Anglo Platinum Ltd. and changed its name to Anglo American Platinum Limited in May 2011. The company was incorporated in 1946 and is headquartered in Johannesburg, South Africa. Anglo American Platinum Limited is a subsidiary of Anglo American South Africa Investments Proprietary Limited.",
+  "website": "http://www.angloamericanplatinum.com"
+}

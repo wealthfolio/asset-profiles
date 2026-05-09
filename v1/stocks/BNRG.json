@@ -1,0 +1,25 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNRG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Brenmiller Energy Ltd Ordinary Shares",
+  "primary_symbol": "BNRG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Brenmiller Energy Ltd. develops and provides energy storage systems that enable the efficient and cost-effective use of renewable energy sources. Their thermal energy storage solutions are designed to store electricity as heat and deliver it on demand for various applications. The company is headquartered in Rosh HaAyin, Israel."
+}

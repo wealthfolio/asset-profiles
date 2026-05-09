@@ -1,0 +1,45 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "IE00BKTWZ782"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "IE00BKTWZ782",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNFL.TA"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "NFLS.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SNFE.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SNFL.L"
+    }
+  ],
+  "name": "Sunflower Sustainable Investments Ltd",
+  "primary_symbol": "SNFL.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Sunflower Sustainable Investments Ltd operates in the renewable energy sector. It holds a portfolio of PV plants in Israel, Spain, and Italy; and holds and constructs wind farms in Poland and Finland. The company has a portfolio of approximately 81 MW power projects. Sunflower Sustainable Investments Ltd was founded in 1995 and is based in Givatayim, Israel.",
+  "website": "http://www.sunflower-sit.com"
+}

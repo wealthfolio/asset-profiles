@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C1SNL9",
+    "cusip": "420261109",
+    "figi": "BBG000C1SQG8",
+    "isin": "US4202611095"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US4202611095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HWK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HWKN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HWK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4202611095.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HAWKINS INC.  DL-,05",
+  "primary_symbol": "HWK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Hawkins, Inc. is a specialty chemical and ingredients company. The company provides chemicals, blending, and other services for a variety of industries including industrial, water treatment, and health and nutrition. Hawkins is headquartered in Roseville, Minnesota.",
+  "website": "http://www.hawkinsinc.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "industry": "Multi-Utilities",
+  "industry_group": "Utilities",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "CGEGAS.SN"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CGE Gas Natural S.A.",
+  "primary_symbol": "CGEGAS.SN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CGE Gas Natural S.A. distributes and transports natural gas in Chile and Argentina. The company is based in Santiago, Chile. CGE Gas Natural S.A. is a subsidiary of Naturgy Energy Group S.A.",
+  "website": "http://www.gasnaturalchile.cl"
+}

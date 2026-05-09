@@ -1,0 +1,26 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "NCS.JO"
+    }
+  ],
+  "name": "Nictus Limited",
+  "primary_symbol": "NCS.JO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Nictus Limited, together with its subsidiaries, operates as a retailer of household furniture, electrical appliances, and home electronics under the Nictus Furnishers brand in South Africa. The company also provides short-term insurance under the Corporate Guarantee brand. It operates three furniture retail stores. The company is headquartered in Sandton, South Africa.",
+  "website": "http://www.nictuslimited.co.za"
+}

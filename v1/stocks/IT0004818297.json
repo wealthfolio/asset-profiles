@@ -1,0 +1,36 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004818297"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "IT0004818297",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "EUK.MI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0004818297.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "EuKedos S.p.A.",
+  "primary_symbol": "EUK.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "EuKedos S.p.A. provides managed and long-term care services in Italy. The company offers residential social care services to elderly, self-sufficient, or incapacitated adults. It manages healthcare and assistance residences with 1,345 beds in the North and Central Italy, primarily located in Lombardy, Piedmont, Abruzzo, Valle D'Aosta, and Emilia Romagna. EuKedos S.p.A. is based in Florence, Italy.",
+  "website": "http://www.eukedos.it"
+}

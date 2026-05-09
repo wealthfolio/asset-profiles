@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG005C9FQQ3",
+    "cusip": "36472T109",
+    "isin": "US36472T1097"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "US36472T1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US36472T1097.SG"
+    }
+  ],
+  "name": "GANNETT CO INC",
+  "primary_symbol": "US36472T1097.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "GANNETT CO INC is a media company that publishes newspapers and digital media across the United States. Their publications include USA TODAY and numerous local newspapers. The company is headquartered in McLean, Virginia."
+}

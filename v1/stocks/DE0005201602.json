@@ -1,0 +1,68 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "composite_figi": "BBG000DB3MC5",
+    "figi": "BBG000DB3Q72",
+    "isin": "DE0005201602"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "DE0005201602",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEZ.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEZ.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEZ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BEZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BEZ.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "BEZ.SI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005201602.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BERENTZEN-GRP.AG",
+  "primary_symbol": "BEZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Berentzen-Gruppe AG is a German beverage company that produces and markets a variety of alcoholic and non-alcoholic beverages. Their product portfolio includes spirits, liqueurs, and fruit juices, which are sold both domestically and internationally. The company is headquartered in Haselünne, Germany.",
+  "website": "http://www.bkmgroup.com.sg"
+}

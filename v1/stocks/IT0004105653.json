@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004105653"
+  },
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0004105653",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CNF.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Conafi S.p.A.",
+  "primary_symbol": "CNF.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Conafi S.p.A., together with its subsidiaries, provides various loan products in Italy. It offers loans with reimbursement by assignment of fifth salary for employees of state and public or private company; loans with reimbursement by assignment of fifth pension for pensioners; and financing with reimbursement by means of a payment delegation mainly for permanent, state, and public or private permanent employees. Conafi S.p.A. was founded in 1988 and is based in Turin, Italy.",
+  "website": "http://www.conafi.it"
+}

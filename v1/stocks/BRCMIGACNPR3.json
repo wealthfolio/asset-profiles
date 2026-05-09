@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C7WZT6",
+    "figi": "BBG000C7X2N4",
+    "isin": "BRCMIGACNPR3"
+  },
+  "industry_group": "Utilities",
+  "isin": "BRCMIGACNPR3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIDA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CIDA.SG"
+    }
+  ],
+  "name": "CIA EN.GE.PFD-CEMIGRB-",
+  "primary_symbol": "CIDA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CIA EN.GE.PFD-CEMIGRB- represents the preferred shares of Companhia Energética de Minas Gerais (CEMIG), a Brazilian power company involved in electricity generation, transmission, and distribution. CEMIG is based in Belo Horizonte, Brazil."
+}

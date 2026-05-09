@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LGDSTK1",
+    "figi": "BBG00LGDSTR4",
+    "isin": "GB0008711763"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Capital Goods",
+  "isin": "GB0008711763",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7TT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7TT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTGPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TTG.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "TTG.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TT ELECTRON.  LS-,25",
+  "primary_symbol": "7TT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "TT Electronics plc is a global provider of engineered electronics for performance-critical applications. The company designs and manufactures sensors, power management devices, and connectivity solutions. TT Electronics serves the industrial, medical, aerospace and defense markets.",
+  "website": "http://www.ttelectronics.com"
+}

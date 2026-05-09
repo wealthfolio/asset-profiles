@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BNX429",
+    "figi": "BBG000BNX5Q0",
+    "isin": "JP3951600000"
+  },
+  "industry_group": "Household & Personal Products",
+  "isin": "JP3951600000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UN4.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UN4.SG"
+    }
+  ],
+  "name": "UNICHARM CORP.",
+  "primary_symbol": "UN4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Unicharm Corporation manufactures and sells personal care products, such as diapers, feminine care products, and pet care products. The company's brands include MamyPoko, Sofy, and Lifree. Unicharm is headquartered in Tokyo, Japan."
+}

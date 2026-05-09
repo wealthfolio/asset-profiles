@@ -1,0 +1,23 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "STIINM.CO"
+    }
+  ],
+  "name": "Storebrand Indeks - Nye Markeder",
+  "primary_symbol": "STIINM.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Storebrand Indeks - Nye Markeder is an index fund managed by Storebrand Asset Management; it seeks to replicate the performance of equity markets in developing countries (emerging markets); the fund aims to provide long-term capital appreciation by mirroring the performance of its benchmark index.",
+  "website": "http://www.storebrand.no/web/sbfondWeb.nsf/wFonderISIN/NO0010611130"
+}

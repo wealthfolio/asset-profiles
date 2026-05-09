@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00LNC1KS5",
+    "figi": "BBG00LNC1KZ7",
+    "isin": "SE0001662222"
+  },
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "SE0001662222",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRZA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HRZA.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SE0001662222.SW"
+    }
+  ],
+  "name": "HUSQVARNA NAM. A  SK 100",
+  "primary_symbol": "HRZA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Husqvarna AB is a global manufacturer of outdoor power products, including chainsaws, trimmers, lawnmowers, and garden tractors. They also produce construction equipment such as concrete saws and demolition robots. The company is headquartered in Stockholm, Sweden."
+}

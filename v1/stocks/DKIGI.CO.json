@@ -1,0 +1,21 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "DKIGI.CO"
+    }
+  ],
+  "name": "Danske Invest Global Indeks KL",
+  "primary_symbol": "DKIGI.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Danske Invest Global Indeks KL is a global equity index fund. It aims to replicate the performance of a broad global equity market index, providing investors with diversified exposure to stocks from around the world. The fund is managed by Danske Invest."
+}

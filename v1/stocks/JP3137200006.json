@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BX0H33",
+    "figi": "BBG000BX0KM5",
+    "isin": "JP3137200006"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Transportation",
+  "isin": "JP3137200006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISU.MU"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "7202.KL"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ISU.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ISU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ISU.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ISUZU MOTORS LTD",
+  "primary_symbol": "ISU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Isuzu Motors Ltd. is a Japanese commercial vehicle and diesel engine manufacturing company headquartered in Tokyo, Japan. They are known for producing trucks, buses, and diesel engines for various applications. Isuzu also has a significant presence in the pickup truck market, particularly in Southeast Asia and other regions.",
+  "website": "http://www.iselect.com.au"
+}

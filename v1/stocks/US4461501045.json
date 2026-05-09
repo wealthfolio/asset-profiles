@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GCLX45",
+    "cusip": "446150104",
+    "figi": "BBG000GCM1C5",
+    "isin": "US4461501045"
+  },
+  "industry_group": "Banks",
+  "isin": "US4461501045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HU3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HU3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HU3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HU3.SG"
+    }
+  ],
+  "name": "HUNTINGTON BANCSHS DL-,01",
+  "primary_symbol": "HU3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Huntington Bancshares Incorporated is a regional bank holding company. The company provides commercial banking, consumer banking, and wealth management services. Huntington Bancshares is headquartered in Columbus, Ohio."
+}

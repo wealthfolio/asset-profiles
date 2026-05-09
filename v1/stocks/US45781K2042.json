@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00QKZCB77",
+    "cusip": "45781K204",
+    "figi": "BBG00QKZCB86",
+    "isin": "US45781K2042"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45781K2042",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IDDA.F"
+    }
+  ],
+  "name": "INNATE PHARMA SP.ADR/1",
+  "primary_symbol": "IDDA.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Innate Pharma S.A. is a biotechnology company specializing in the discovery and development of first-in-class immunotherapies for cancer. The company's focus is on activating the innate immune system to fight cancer. Innate Pharma is headquartered in Marseille, France."
+}

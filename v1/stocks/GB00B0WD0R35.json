@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C5TR12",
+    "figi": "BBG000C5TTW4",
+    "isin": "GB00B0WD0R35"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00B0WD0R35",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S8F.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLGGF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S8F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S8F.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SOLG.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "SOLG.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SolGold Plc",
+  "primary_symbol": "S8F.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SolGold Plc, together with its subsidiaries, engages in the exploration of mineral properties in Ecuador, Australia, and Solomon Islands. The company primarily explores for gold, copper, and silver deposits. Its flagship project is the Alpala project that covers an area of approximately 50 square kilometers located in Imbabura province, Northern Ecuador, as well as holds tenements across central and southeast Queensland, Australia and Solomon Islands. The company was formerly known as Solomon Gold plc and changed its name to SolGold plc in May 2012. SolGold Plc was incorporated in 2005 and is headquartered in Brisbane, Australia.",
+  "website": "http://www.solgold.com.au"
+}

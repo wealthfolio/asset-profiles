@@ -1,0 +1,38 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BFYYY4",
+    "figi": "BBG000BFYZR9",
+    "isin": "AU000000UUL6"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "AU000000UUL6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EZX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EZX.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Ultima United Limited",
+  "primary_symbol": "EZX.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Ultima United Limited engages in property development business in Australia. It develops residential apartment projects in Cannington and Bentley, Western Australia. The company was formerly known as United Uranium Limited and changed its name to Ultima United Limited in November 2014. Ultima United Limited was founded in 2007 is based in Como, Australia.",
+  "website": "http://www.ultimaunited.com"
+}

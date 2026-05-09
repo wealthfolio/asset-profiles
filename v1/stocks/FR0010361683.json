@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0010361683"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "FR0010361683",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INDI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INRE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "INDI.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "indie Semiconductor, Inc.",
+  "primary_symbol": "INDI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "indie Semiconductor, Inc. provides automotive semiconductors and software solutions. It offers its solution for advanced driver assistance systems, including light detection and ranging, connected car, user experience, and electrification applications. The company was founded in 2007 and is headquartered in Aliso Viejo, California.",
+  "website": "http://www.indiesemi.com"
+}

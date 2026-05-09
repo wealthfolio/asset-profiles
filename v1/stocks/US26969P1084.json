@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00475BBS5",
+    "cusip": "26969P108",
+    "figi": "BBG00475BBZ7",
+    "isin": "US26969P1084"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "US26969P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E5M.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "E5M.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E5M.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EXP.AX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "EAGLE MATLS  DL -,01",
+  "primary_symbol": "E5M.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Eagle Materials Inc. produces and distributes construction materials in the United States. The company's primary products include cement, gypsum wallboard, recycled paperboard, and aggregates, with its headquarters in Dallas, Texas. Eagle Materials serves the residential, commercial, and infrastructure construction industries.",
+  "website": "http://www.eaglematerials.com"
+}

@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00NS1NRM7",
+    "cusip": "90069K104",
+    "isin": "US90069K1043"
+  },
+  "industry_group": "Energy",
+  "isin": "US90069K1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US90069K1043.SG"
+    }
+  ],
+  "name": "MICROVAST HOLDINGS INC",
+  "primary_symbol": "US90069K1043.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "MICROVAST HOLDINGS INC designs, manufactures, and sells lithium-ion batteries and energy storage systems. The company focuses on electric vehicle and energy storage applications, with headquarters in Huzhou, China. Microvast Holdings aims to provide advanced battery solutions for the growing electric vehicle and energy storage markets."
+}

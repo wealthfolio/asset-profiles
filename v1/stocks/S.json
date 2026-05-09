@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SentinelOne Inc. Class A Common Stock",
+  "primary_symbol": "S",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "SentinelOne Inc. is a cybersecurity company that provides an AI-powered extended detection and response (XDR) platform. The company's technology protects endpoints, cloud workloads, and IoT devices from cyberattacks. SentinelOne is headquartered in Mountain View, California."
+}

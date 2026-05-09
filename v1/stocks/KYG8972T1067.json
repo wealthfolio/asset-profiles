@@ -1,0 +1,58 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000C26LS8",
+    "figi": "BBG000C26PK7",
+    "isin": "KYG8972T1067"
+  },
+  "industry": "Gas Utilities",
+  "industry_group": "Utilities",
+  "isin": "KYG8972T1067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TGASF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1083.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PGJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PGJ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TOWNGAS CHINA CO.  HD-,10",
+  "primary_symbol": "PGJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Towngas China Company Limited is a Hong Kong-based company that engages in the distribution and sale of piped gas, as well as the operation of gas-related businesses in mainland China. The company develops and operates gas pipeline networks and provides gas to residential, commercial, and industrial customers. Towngas China is a subsidiary of The Hong Kong and China Gas Company Limited.",
+  "website": "http://www.towngaschina.com"
+}

@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BYFLZ1",
+    "figi": "BBG000BYFQ99",
+    "isin": "AU000000ORI1"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000ORI1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ICA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ICA.SG"
+    }
+  ],
+  "name": "ORICA LTD.",
+  "primary_symbol": "ICA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Orica Limited is an Australian-based company that provides mining and infrastructure solutions. It is one of the world’s largest suppliers of commercial explosives and blasting systems to the mining and infrastructure industries. The company's headquarters are in Melbourne, Australia."
+}

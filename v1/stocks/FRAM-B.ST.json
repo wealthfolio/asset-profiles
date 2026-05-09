@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "FRAM-B.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Fram Skandinavien AB",
+  "primary_symbol": "FRAM-B.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Fram Skandinavien AB operates as an IT custom software development and distribution company in Southeast Asia and Northern Europe. It offers e-commerce engineering, core Web engineering, mobile Web engineering, and data management and processing, as well as other digital marketing services. Fram Skandinavien AB was founded in 1893 and is based in Uppsala, Sweden.",
+  "website": "http://www.wearefram.com"
+}

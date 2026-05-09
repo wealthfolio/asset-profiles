@@ -1,0 +1,24 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "PLP.NZ"
+    }
+  ],
+  "name": "Private Land And Property Fund",
+  "primary_symbol": "PLP.NZ",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "The Private Land and Property Fund invests in private land and property assets in New Zealand. It aims to provide investors with access to this asset class, generating returns through rental income and capital appreciation. The fund is managed by an experienced investment team."
+}

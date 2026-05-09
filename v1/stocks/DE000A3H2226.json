@@ -1,0 +1,31 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00YJRWMD7",
+    "figi": "BBG00YJRWMG4",
+    "isin": "DE000A3H2226"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "DE000A3H2226",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8HC.DU"
+    }
+  ],
+  "name": "Cogia AG",
+  "primary_symbol": "8HC.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Cogia AG provides monitoring and analysis technologies using AI-based and patented semantic solutions in the areas of customer experience and big data analytics. The company is based in Frankfurt, Germany."
+}

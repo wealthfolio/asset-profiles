@@ -1,0 +1,46 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "isin": "NL0011832811"
+  },
+  "industry": "Household Products",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "NL0011832811",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RHZ.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5FF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5FF.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "FFARM.AS"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FORFARMERS NV FORFARMERS ORD SH",
+  "primary_symbol": "0RHZ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "FORFARMERS NV is a Dutch agricultural cooperative that provides products and services to farmers. The cooperative offers animal feed, fertilizers, seeds, and other agricultural inputs. FORFARMERS NV is headquartered in Barneveld, Netherlands.",
+  "website": "http://www.forfarmersgroup.eu"
+}

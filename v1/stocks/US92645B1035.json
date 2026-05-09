@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0074JPF34",
+    "cusip": "92645B103",
+    "figi": "BBG00JR5Y3S3",
+    "isin": "US92645B1035"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US92645B1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VCTR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VCTR.TA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Victory Capital Holdings, Inc.",
+  "primary_symbol": "VCTR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Victory Capital Holdings, Inc., together with its subsidiaries, operates as an asset management company worldwide. It offers investment management, fund administration, fund compliance, fund transfer agent, and fund distribution services. The company provides specialized investment strategies to institutions, intermediaries, retirement platforms, and individual investors. As of December 31, 2020, its franchises and solutions platform managed a set of 117 investment strategies for a range of institutional and retail clients, and direct investors. Victory Capital has strategic alliance with Xavier University of Louisiana. Victory Capital Holdings, Inc. was founded in 2013 and is headquartered in San Antonio, Texas.",
+  "website": "http://www.vcm.com"
+}

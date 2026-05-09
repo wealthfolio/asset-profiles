@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "HDP.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Les Hotels de Paris SA",
+  "primary_symbol": "HDP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Les H√É¬¥tels de Paris SA operates and manages 3-star, 4-star, and 5-star hotels in Paris, France. It operates 21 hotels. The company was founded in 1992 and is headquartered in Paris, France.",
+  "website": "http://www.leshotelsdeparis.com"
+}

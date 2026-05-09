@@ -1,0 +1,39 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG001M32Y18",
+    "cusip": "90138A103",
+    "figi": "BBG001M4BC14",
+    "isin": "US90138A1034"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US90138A1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VNET"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VNET.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "21Vianet Group, Inc.",
+  "primary_symbol": "VNET",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "21Vianet Group, Inc., an investment holding company, provides hosting and related services to Internet companies, government entities, blue-chip enterprises, and small-to mid-sized enterprises in the People's Republic of China. It offers hosting and related services to house servers and networking equipment in its data centers, and connects them through a data transmission network. The company's hosting and related services include managed hosting services that offer data center space to house its customers' servers and networking equipment, and provide tailored server administration services; and interconnectivity services that enable customers to connect their servers with internet backbones and other networks through its border gateway protocol network or single-line, dual-line, or multiple-line network. Its hosting and related services also comprise cloud services that enable businesses to run their applications over the internet using its IT infrastructure; virtual private network services; hybrid IT Services, which provide customers with a complete package of infrastructure service offerings; and other value-added services, such as firewall, server load balancing, data backup and recovery, data center management, server management, and backup server services. In addition, the company provides traffic charts and analysis, gateway monitoring for servers, domain name system setup, defense mechanism against distributed denial of service attacks, basic setting of switches and routers, and virus protections; and managed network service. As of December 31, 2020, it operated 32 self-built data centers housing 49,876 cabinets and 52 partnered data centers housing with 3,677 cabinets. It has a strategic partnership with Microsoft Corporation. 21Vianet Group, Inc. was founded in 1999 and is headquartered in Beijing, the People's Republic of China.",
+  "website": "http://www.21vianet.com"
+}

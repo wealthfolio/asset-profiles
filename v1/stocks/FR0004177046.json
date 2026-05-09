@@ -1,0 +1,41 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0004177046"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "FR0004177046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0GT7.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7ME.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "METEX.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "METabolic EXplorer S.A.",
+  "primary_symbol": "0GT7.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "METabolic EXplorer S.A., an industrial biochemical company, engages in the development and industrial of industrial fermentation processes as alternatives to petrochemical processes worldwide. Its functional ingredients of natural origin are used in the formulation of cosmetics and nutrition-animal health products and as intermediates for the synthesis of biomaterials. The company was founded in 1999 and is based in Saint-Beauzire, France.",
+  "website": "http://www.metabolic-explorer.com"
+}

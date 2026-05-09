@@ -1,0 +1,53 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000VJK420",
+    "figi": "BBG000VJK554",
+    "isin": "CA8520662088"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "CA8520662088",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A781.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SII"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A781.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA8520662088.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "SII.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sprott Inc.",
+  "primary_symbol": "A781.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sprott Inc. is a publicly owned asset management holding company. Through its subsidiaries, the firm provides asset management, portfolio management, wealth management, fund management, and administrative and consulting services to its clients. It offers mutual funds, hedge funds, and offshore funds, along with managed accounts. Further, the firm also provides broker-dealer activities. Sprott Inc. was formed on February 13, 2008 and is based in Toronto, Canada.",
+  "website": "http://www.sprott.com"
+}

@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "00973N102",
+    "isin": "US00973N1028"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US00973N1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AKTS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AVH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AVH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AVH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AVH.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Akoustis Technologies, Inc.",
+  "primary_symbol": "AKTS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Akoustis Technologies, Inc., through its subsidiary, Akoustis, Inc., develops, designs, manufactures, and sells radio frequency (RF) filter products for the mobile wireless device industry in the United States. It operates through two segments, Foundry Fabrication Services and RF Filters. The Foundry Fabrication Services segment provides engineering review services; and semiconductor wafer-manufacturing and microelectromechanical systems foundry services. The RF Filters segment consists of amplifier and filter products. It offers RF filters for mobile wireless devices, such as smartphones and tablets, cellular infrastructure equipment, Wi-Fi customer premise equipment, military and defense applications. The company was incorporated in 2013 and is headquartered in Huntersville, North Carolina.",
+  "website": "http://www.akoustis.com"
+}

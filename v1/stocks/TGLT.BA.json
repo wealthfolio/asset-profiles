@@ -1,0 +1,27 @@
+{
+  "country": "Argentina",
+  "country_code": "AR",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "TGLT.BA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TGLT S.A.",
+  "primary_symbol": "TGLT.BA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "TGLT S.A. operates as a residential real estate development company. The company is developing 10 projects in Argentina and Uruguay with a sellable area of approximately 600,000 square meters. It serves high and medium income segments. The company was founded in 2005 and is based in Palermo, Argentina.",
+  "website": "http://www.tglt.com"
+}

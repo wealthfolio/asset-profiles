@@ -1,0 +1,42 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00ZV0SMH0",
+    "figi": "BBG00ZV0SMJ8",
+    "isin": "CA62973P1071"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA62973P1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9PZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA62973P1071.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "NSJ.CN"
+    }
+  ],
+  "name": "NSJ Gold Corp.",
+  "primary_symbol": "9PZ.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NSJ Gold Corp. engages in identifying, developing, and exploring gold and copper mines in Arizona. It holds an option to acquire a 100% interest in the Golden Hills Project with 94 unpatented and 7 patented mining claims located in La Paz County, Arizona. The company was formerly known as NSJ Mining Corp. and changed its name to NSJ Gold Corp. in August 2020. NSJ Gold Corp. was incorporated in 2020 and is headquartered in Surrey, Canada.",
+  "website": "http://nsjgold.com"
+}

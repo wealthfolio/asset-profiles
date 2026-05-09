@@ -1,0 +1,41 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "CH1129538448"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Real Estate",
+  "isin": "CH1129538448",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "POLY.TA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "POLY.JK"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "POLY.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Polygon Real Estate Ltd",
+  "primary_symbol": "POLY.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Polygon Real Estate Ltd engages in the real estate business. It initiates, develops, acquires, establishes, and leases commercial buildings, as well as rents land assets. The company was formerly known as Polygon Matzbeat Textile Haifa Ltd. and changed its name to Polygon Real Estate Ltd in November 1998. Polygon Real Estate Ltd was incorporated in 1962 and is based in Petah Tikva, Israel.",
+  "website": "http://www.asiapacificfibers.com"
+}

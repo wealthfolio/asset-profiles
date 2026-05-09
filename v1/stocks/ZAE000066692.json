@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPHZK3",
+    "figi": "BBG000BPJ2J6",
+    "isin": "ZAE000066692"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ZAE000066692",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LDZA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LDZA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LDZA.SG"
+    }
+  ],
+  "name": "ASPEN PHARMACARE H. NEW",
+  "primary_symbol": "LDZA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Aspen Pharmacare Holdings Limited is a global specialty and branded multinational pharmaceutical company. The company manufactures and supplies a broad range of branded and generic pharmaceuticals. It is headquartered in Durban, South Africa."
+}

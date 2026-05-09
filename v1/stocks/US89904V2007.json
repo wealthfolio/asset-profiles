@@ -1,0 +1,32 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "89904V200",
+    "isin": "US89904V2007"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US89904V2007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TUEM"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Tuesday Morning Corporation",
+  "primary_symbol": "TUEM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Tuesday Morning Corporation operates as an off-price retailer in the United States. The company offers various products, such as upscale home textiles, home furnishings, housewares, gourmet food products, pet supplies, bath and body products, toys, and seasonal d√É¬©cor products. As of June 30, 2020, it operated approximately 685 stores in 39 states. The company was founded in 1974 and is headquartered in Dallas, Texas.",
+  "website": "http://www.tuesdaymorning.com"
+}

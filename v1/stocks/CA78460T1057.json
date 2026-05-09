@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000K094K6",
+    "figi": "BBG000K099W2",
+    "isin": "CA78460T1057"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "CA78460T1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LAV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNCAF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LAV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LAV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LAV.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SNC.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SNC.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "SNC.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SNC - LAVALIN GRP",
+  "primary_symbol": "LAV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SNC-Lavalin Group Inc. is a global engineering, procurement, and construction company. The company provides a range of services, including project management, engineering design, and construction for various industries. SNC-Lavalin is headquartered in Montreal, Quebec, Canada.",
+  "website": "http://www.snclavalin.com"
+}

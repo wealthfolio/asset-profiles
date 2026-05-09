@@ -1,0 +1,51 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000VML1"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000VML1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VJF.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VJF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VTMXF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VJF.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "VML.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VITAL METALS LIMITED",
+  "primary_symbol": "VJF.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Vital Metals Limited explores for and develops rare earths, technology metals, and gold projects in Canada, Africa, and Germany. It holds 100% interest in the Nechalacho rare earths project located at Nechalacho in the Northwest Territories of Canada. The company was incorporated in 2004 and is headquartered in Sydney, Australia.",
+  "website": "http://www.vitalmetals.com.au"
+}

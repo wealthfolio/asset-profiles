@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00HQ77DS2",
+    "cusip": "141788109",
+    "figi": "BBG00HQ77GD1",
+    "isin": "US1417881091"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US1417881091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CARG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0C6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0C6.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CarGurus, Inc.",
+  "primary_symbol": "CARG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CarGurus, Inc. operates an online automotive marketplace connecting buyers and sellers of new and used cars in the United States and internationally. The company provides consumers an online automotive marketplace where they can search for new and used car listings from its dealers, as well as sell their car in the United States marketplace. Its marketplace connects dealers to a large audience of informed and engaged consumers. The company operates online marketplaces under the CarGurus brand in Canada and the United Kingdom; and the Autolist and PistonHeads online marketplaces as independent brands in the United States and the United Kingdom. CarGurus, Inc. was founded in 2005 and is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.cargurus.com"
+}

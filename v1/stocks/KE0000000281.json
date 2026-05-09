@@ -1,0 +1,31 @@
+{
+  "country": "Kenya",
+  "country_code": "KE",
+  "identifiers": {
+    "composite_figi": "BBG000BFT5D6",
+    "isin": "KE0000000281"
+  },
+  "industry": "Food Products",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "KE0000000281",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KE0000000281"
+    }
+  ],
+  "name": "KAKUZI",
+  "primary_symbol": "KE0000000281",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Trading on both the Nairobi and London Stock Exchange, we engage in the cultivation, manufacture and marketing of a variety of agricultural products.",
+  "website": "https://www.kakuzi.co.ke/"
+}

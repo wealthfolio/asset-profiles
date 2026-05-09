@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DNBK89",
+    "cusip": "205768302",
+    "figi": "BBG000DNBMJ3",
+    "isin": "US2057683029"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US2057683029",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CX91.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CX91.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Comstock Resources, Inc.",
+  "primary_symbol": "CRK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Comstock Resources, Inc., an independent energy company, engages in the acquisition, exploration for, development, and production of oil and natural gas primarily in Texas, Louisiana, and North Dakota. As of December 31, 2020, the company had 5.6 trillion cubic feet of natural gas equivalent and 17 million barrels of oil equivalent of proved reserves. It also owns interests in 2,864 producing oil and natural gas wells. Comstock Resources, Inc. was founded in 1983 and is headquartered in Frisco, Texas.",
+  "website": "http://www.comstockresources.com"
+}

@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG002WQX7Z2",
+    "cusip": "636274409",
+    "figi": "BBG002WQX871",
+    "isin": "US6362744095"
+  },
+  "industry_group": "Utilities",
+  "isin": "US6362744095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNGD.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNGD.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNGD.MU"
+    }
+  ],
+  "name": "NATL GRID PLC ADR/5",
+  "primary_symbol": "NNGD.HA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "National Grid plc is an international electricity and gas company, delivering energy across Great Britain and the northeastern United States. It owns and operates regulated electricity and gas networks. The company is headquartered in London, United Kingdom."
+}

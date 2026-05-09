@@ -1,0 +1,25 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HUBCW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Hub Cyber Security Ltd. Warrant 2/27/28",
+  "primary_symbol": "HUBCW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This ticker represents a warrant to purchase shares of Hub Cyber Security Ltd."
+}

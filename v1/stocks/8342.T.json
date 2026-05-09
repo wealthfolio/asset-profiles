@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8342.T"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "The Aomori Bank, Ltd.",
+  "primary_symbol": "8342.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Aomori Bank, Ltd. provides various banking products and services. The company offers various deposits and loans. It operates a network of 97 offices. The Aomori Bank, Ltd. was founded in 1879 and is headquartered in Aomori, Japan.",
+  "website": "http://www.a-bank.jp"
+}

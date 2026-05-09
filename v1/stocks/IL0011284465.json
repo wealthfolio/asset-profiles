@@ -1,0 +1,53 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG0065XJ472",
+    "figi": "BBG0065XJ4F3",
+    "isin": "IL0011284465"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IL0011284465",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "P55.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLSQF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "P55.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "P55.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PLUS.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Plus500 Ltd.",
+  "primary_symbol": "P55.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Plus500 Ltd. develops and operates an online and mobile trading platform for individual customers to trade contracts for difference (CFDs). The company's online trading and mobile platform allows its customers to trade CFDs on approximately 2,500 underlying financial instruments, including equities, indices, commodities, options, exchange-traded funds, cryptocurrencies, shares, and foreign exchange in approximately 50 countries in 32 languages. Its trading platform is accessible from various operating systems, such as Windows, iOS, Android, and Surface, as well as web browsers. The company was formerly known as Investsoft Ltd. and changed its name to Plus500 Ltd. in June 2012. Plus500 Ltd. was incorporated in 2008 and is headquartered in Haifa, Israel.",
+  "website": "http://www.plus500.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00328LP22",
+    "figi": "BBG00328LPB2",
+    "isin": "PLJSW0000015"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "PLJSW0000015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "J2S.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "J2S.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "J2S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "J2S.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "JASTRZEBSKA SPOL.WEGL.ZY5",
+  "primary_symbol": "J2S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Jastrzębska Spółka Węglowa S.A. (JSW) is a Polish hard coking coal producer. The company's core business is the extraction and sale of hard coking coal used for steel production. JSW is headquartered in Jastrzębie-Zdrój, Poland.",
+  "website": "http://www.jsw.pl"
+}

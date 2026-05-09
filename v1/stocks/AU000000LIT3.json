@@ -1,0 +1,61 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000LIT3"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000LIT3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LMMFF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LIT.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "LIT.BK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "LIT.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "LIT.LS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "LIT.MI"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LITCF.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Lithium Australia NL",
+  "primary_symbol": "LMMFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lithium Australia NL primarily engages in the acquisition, exploration, and development of lithium properties. It operates through Tenement Exploration and Evaluation; and Processing Technology segments. The company holds interests in various projects located in Western Australia, Queensland, Northern Territory, and South Australia in Australia; Canada; and Germany. It also engages in the development of processing technology for lithium extraction; and battery material research and development activities. The company was formerly known as Cobre Montana NL and changed its name to Lithium Australia NL in July 2015. Lithium Australia NL was incorporated in 2007 and is based in West Perth, Australia.",
+  "website": "http://lithium-au.com"
+}

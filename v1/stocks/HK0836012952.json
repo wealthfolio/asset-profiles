@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C4NRQ4",
+    "figi": "BBG000C4NV30",
+    "isin": "HK0836012952"
+  },
+  "industry_group": "Utilities",
+  "isin": "HK0836012952",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRP.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CRP.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CRP.SG"
+    }
+  ],
+  "name": "CHINA RES POWER HLDGS",
+  "primary_symbol": "CRP.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "China Resources Power Holdings Company Limited is an investment holding company that is primarily engaged in the development, operation and management of power plants. The company is based in Hong Kong. Its power plants include coal-fired, wind, hydro, and gas-fired power plants."
+}

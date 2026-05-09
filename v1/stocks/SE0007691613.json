@@ -1,0 +1,56 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0007691613"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "SE0007691613",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RCO.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D00.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D00.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D00.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "D00.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "DOM.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DOMETIC GROUP AB (PUBL) DOMETIC",
+  "primary_symbol": "0RCO.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "DOMETIC GROUP AB is a global provider of branded solutions for mobile living in the areas of Climate, Hygiene & Sanitation and Food & Beverage. The company manufactures and markets products for recreational vehicles, marine, and professional vehicles. DOMETIC GROUP AB is headquartered in Solna, Sweden.",
+  "website": "http://www.dometic.com"
+}

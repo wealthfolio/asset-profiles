@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GGW3M0",
+    "figi": "BBG000GGW7Z7",
+    "isin": "AU000000BXB1"
+  },
+  "industry_group": "Transportation",
+  "isin": "AU000000BXB1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R1H.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "R1H.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "R1H.SG"
+    }
+  ],
+  "name": "BRAMBLES LTD",
+  "primary_symbol": "R1H.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Brambles Limited provides supply-chain logistics solutions using reusable pallets, crates, and containers. They operate a circular business model, pooling assets and sharing them across multiple customers, primarily in the fast-moving consumer goods, fresh produce, beverage, retail, and manufacturing industries. The company is headquartered in Sydney, Australia."
+}

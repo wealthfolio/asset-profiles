@@ -1,0 +1,69 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000K1T0N7",
+    "cusip": "110122108",
+    "figi": "BBG000K1T5H3",
+    "isin": "US1101221083"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US1101221083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRM.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRM.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BRM.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BMY.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BRM.DU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "BRM.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BRM.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BRISTOL-MYERS SQUIBBDL-10",
+  "primary_symbol": "BRM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BRISTOL-MYERS SQUIBBDL-10 refers to Bristol-Myers Squibb, a global biopharmaceutical company engaged in the discovery, development, licensing, manufacturing, marketing, distribution and sale of biopharmaceutical products. The company focuses on areas such as oncology, hematology, immunology, cardiovascular and neuroscience. Bristol-Myers Squibb is headquartered in New York City.",
+  "website": "http://www.bloomsbury.com"
+}

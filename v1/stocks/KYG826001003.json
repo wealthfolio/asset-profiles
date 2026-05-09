@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG826001003"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG826001003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOHOF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0410.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "45S.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SOHO China Limited",
+  "primary_symbol": "SOHOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "SOHO China Limited, together with its subsidiaries, engages in the real estate development, and property leasing and management activities in People's Republic of China. It also operates serviced hotels. SOHO China Limited was founded in 1995 and is headquartered in Beijing, China.",
+  "website": "http://www.sohochina.com"
+}

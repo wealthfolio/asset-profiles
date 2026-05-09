@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00CGDWPZ8",
+    "figi": "BBG00CGDWQ59",
+    "isin": "CA64112G1054"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA64112G1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "26N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "26N.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NTTCF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "26N.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "26N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "26N.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "NC.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "NC.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NetCents Technology Inc.",
+  "primary_symbol": "26N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NetCents Technology Inc. provides electronic digital payment services in Canada and Europe. Its platform allows clients and merchants to manage electronic payments through various devices and currencies. The company provides cryptocurrency ecommerce payments, in-store payments, instant settlements, as well as card and exchange services. It also allow users to purchase digital currency, such as Bitcoin, Ethereum, and Litecoin. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.net-cents.com"
+}

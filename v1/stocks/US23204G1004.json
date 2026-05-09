@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XP7ZZH0",
+    "cusip": "23204G100",
+    "figi": "BBG00XP7ZZP1",
+    "isin": "US23204G1004"
+  },
+  "industry_group": "Banks",
+  "isin": "US23204G1004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "334.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "334.F"
+    }
+  ],
+  "name": "CUSTOMERS BANCORP VTG DL1",
+  "primary_symbol": "334.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Customers Bancorp, Inc. is a bank holding company that provides financial products and services to small businesses, commercial clients, and consumers, headquartered in West Reading, Pennsylvania. The bank offers commercial and consumer banking services. Their focus is on providing customer-centric banking solutions and digital innovation."
+}

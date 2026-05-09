@@ -1,0 +1,43 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C4SRV3",
+    "figi": "BBG000C4ST85",
+    "isin": "JP3190800007"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "JP3190800007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OKN.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8609.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OKN.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "OKASAN SECS GROUP INC.",
+  "primary_symbol": "OKN.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "OKASAN Securities Group Inc. is a Japanese financial services company providing securities brokerage, investment banking, and asset management services to individual and institutional clients. Headquartered in Tokyo, it operates through a network of branches across Japan. The company also offers research and advisory services.",
+  "website": "http://www.okasan.jp"
+}

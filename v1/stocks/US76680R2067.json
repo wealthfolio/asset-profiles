@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005CHXFD3",
+    "cusip": "76680R206",
+    "figi": "BBG005CHXFL4",
+    "isin": "US76680R2067"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US76680R2067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3RCA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3RCA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RNG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0V50.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "3RCA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3RCA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3RCA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3RCA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "RNG.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "RINGCENTRAL A  DL-,0001",
+  "primary_symbol": "3RCA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "RingCentral, Inc. is a leading provider of cloud-based communications and collaboration solutions for businesses. RingCentral offers voice, video, messaging, and collaboration capabilities through its unified platform. The company is headquartered in Belmont, California.",
+  "website": "http://www.ringcentral.com"
+}

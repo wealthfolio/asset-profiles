@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA65118M1032"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA65118M1032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NCAUF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PI8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PI8.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA65118M1032.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "NCAU.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PI8.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Newcore Gold Ltd.",
+  "primary_symbol": "NCAUF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Newcore Gold Ltd., a mineral exploration and mine development company, engages in the acquisition, advancement, and development of precious mineral properties in Ghana. It holds 100% interest in the Enchi gold project located in southwest Ghana. The company was formerly known as Pinecrest Resources Ltd. and changed its name to Newcore Gold Ltd. in August 2020. Newcore Gold Ltd. was incorporated in 2010 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.newcoregold.com"
+}

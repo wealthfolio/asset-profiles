@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QKG.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Schweizerische Nationalbank",
+  "primary_symbol": "0QKG.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Schweizerische Nationalbank, an independent central bank, provides banking services to the Swiss Confederation. The company implements its monetary policy by steering the interest rate level on the money market; supplies the Swiss economy with banknotes and coins commensurate with demand for payment purposes; distributes banknotes and coins; facilitates and secures the operation of cashless payment systems; and manages the currency reserves. It also analyses the sources of risk to the financial system and identifies areas where action is needed, and oversees financial market infrastructures, as well as facilitates the creation and implementation of a regulatory framework for the financial sector; and participates in international monetary cooperation and provides technical assistance. In addition, the company processes payments on behalf of the confederation; issues money market debt register claims and confederation bonds; handles the custody of securities; and carries out foreign exchange transactions. Further, it compiles statistical data on banks and financial markets, the balance of payments, direct investment, the international investment position, and the Swiss financial accounts. The company was founded in 1907 and is headquartered in Berne, Switzerland.",
+  "website": "http://www.snb.ch"
+}

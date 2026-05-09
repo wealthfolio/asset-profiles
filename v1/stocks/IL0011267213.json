@@ -1,0 +1,73 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG003P9Y6F9",
+    "figi": "BBG003P9Y6M1",
+    "isin": "IL0011267213"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Transportation",
+  "isin": "IL0011267213",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCY.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCY.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCY.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SSYS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SCY.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SCY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SCY.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SSYSN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STRATASYS LTD",
+  "primary_symbol": "SCY.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Stratasys Ltd. is a manufacturer of 3D printing systems and materials. The company's technology is used to create prototypes, manufacturing tools, and end parts. The company is headquartered in Rehovot, Israel and Eden Prairie, Minnesota.",
+  "website": "http://www.stratasys.com"
+}

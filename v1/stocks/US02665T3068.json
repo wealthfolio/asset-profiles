@@ -1,0 +1,39 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG004XRKDL1",
+    "cusip": "02665T306",
+    "figi": "BBG004XRKDR5",
+    "isin": "US02665T3068"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US02665T3068",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A4XA.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AMH.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AMERN HOME.4 RENT A DL-01",
+  "primary_symbol": "A4XA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Amcil Limited is a publicly owned investment manager. The firm primarily manages separate client focused equity portfolios for its clients. It invests in the public equity markets of Australia. The firm invests in growth and value stocks of large cap and small cap companies to create its portfolios. Amcil Limited was founded in 1996 and is based in Melbourne, Australia.",
+  "website": "http://www.amcil.com.au"
+}

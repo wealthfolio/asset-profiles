@@ -1,0 +1,46 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "identifiers": {
+    "isin": "SG2D00968206"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "SG2D00968206",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HCTPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "H09.SG"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "NS8U.SI"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "P7VU.SI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Hutchison Port Holdings Trust",
+  "primary_symbol": "HCTPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hutchison Port Holdings Trust invests in, develops, operates, and manages deep-water container ports in Guangdong Province of the People's Republic of China, Hong Kong, and Macau. It also invests in other types of port assets, including river ports; and undertakes various port ancillary services, such as freight forwarding, supply chain management, warehousing, and distribution services. Hutchison Port Holdings Trust was founded in 2011 and is based in Singapore.",
+  "website": "http://www.hphtrust.com"
+}

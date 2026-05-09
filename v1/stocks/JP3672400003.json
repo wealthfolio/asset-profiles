@@ -1,0 +1,67 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000BWFDR2",
+    "figi": "BBG000BWFHJ2",
+    "isin": "JP3672400003"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Automobiles & Components",
+  "isin": "JP3672400003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NISA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NISA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NISA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NISA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NISA.TA"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "7201.KL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NISA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NISA.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NISSAN MOTOR",
+  "primary_symbol": "NISA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer. They produce a wide range of vehicles, including passenger cars, commercial vehicles, and electric vehicles. Nissan is headquartered in Yokohama, Japan."
+}

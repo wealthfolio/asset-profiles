@@ -1,0 +1,23 @@
+{
+  "country": "Singapore",
+  "country_code": "SG",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VFSWW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VinFast Auto Ltd. Warrant",
+  "primary_symbol": "VFSWW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "VinFast Auto Ltd. Warrant is a warrant to purchase shares of VinFast Auto Ltd., a Vietnamese electric vehicle manufacturer. The warrant gives the holder the right, but not the obligation, to buy VinFast shares at a specified price within a certain period. VinFast is headquartered in Singapore."
+}

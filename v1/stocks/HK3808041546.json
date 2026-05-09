@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000TXLYJ7",
+    "figi": "BBG000TXM0K8",
+    "isin": "HK3808041546"
+  },
+  "industry": "Machinery",
+  "industry_group": "Transportation",
+  "isin": "HK3808041546",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4SK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4SK.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3808.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4SK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4SK.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SINOTRUK HONG KONG",
+  "primary_symbol": "4SK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sinotruk (Hong Kong) Limited manufactures and sells heavy-duty trucks and related components. Its products include a wide range of trucks for various applications, engines, and other automotive parts. The company is headquartered in Hong Kong.",
+  "website": "http://www.sinotruk.com"
+}

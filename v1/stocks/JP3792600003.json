@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BXR2W5",
+    "figi": "BBG000BXR5T2",
+    "isin": "JP3792600003"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "JP3792600003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HMO.MU"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "7205.KL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HMO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HMO.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HINO MOTORS LTD",
+  "primary_symbol": "HMO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Hino Motors, Ltd. manufactures and sells commercial vehicles, including trucks and buses, as well as industrial engines and automotive parts. The company also provides related services, such as maintenance and repair. Hino Motors, Ltd. is headquartered in Hino, Tokyo, Japan."
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "XS2286604181"
+  },
+  "industry": "Thrifts & Mortgage Finance",
+  "industry_group": "Diversified Financials",
+  "isin": "XS2286604181",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F6H.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F6H.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F6H.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FAR EAST HORIZON",
+  "primary_symbol": "F6H.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Far East Horizon Limited is a financial services company based in Hong Kong. It primarily provides financial leasing, investment, and advisory services to various industries in China, including healthcare, education, and infrastructure. The company aims to support the development of these industries through its financial solutions.",
+  "website": "http://www.fehorizon.com"
+}

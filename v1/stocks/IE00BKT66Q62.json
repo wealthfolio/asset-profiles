@@ -1,0 +1,46 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "isin": "IE00BKT66Q62"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Diversified Financials",
+  "isin": "IE00BKT66Q62",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AMDS.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAMD.L"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "SAME.JK"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SAME.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Leverage Shares -1x Advanced Micro Devices ETC",
+  "primary_symbol": "AMDS.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares -1x Advanced Micro Devices ETC is an exchange-traded product (ETP) designed to provide investors with inverse exposure to the daily performance of Advanced Micro Devices (AMD) shares. It uses leverage to magnify returns (or losses) relative to the underlying AMD stock. The ETP is managed by Leverage Shares, a public limited company.",
+  "website": "http://www.omni-hospitals.com"
+}

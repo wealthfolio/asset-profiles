@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LGC3H53",
+    "cusip": "01671P100",
+    "figi": "BBG00LGC3HD4",
+    "isin": "US01671P1003"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US01671P1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "37Z.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "37Z.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALLK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "37Z.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "37Z.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "37Z.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Allakos Inc.",
+  "primary_symbol": "37Z.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Allakos Inc. operates as a clinical stage biopharmaceutical company. The company's lead monoclonal antibody is lirentelimab (AK002), which is in a Phase III study for the treatment of eosinophilic gastritis and/or eosinophilic duodenitis; and a Phase II/III study for the treatment of eosinophilic esophagitis. The is also developing lirentelimab (AK002) for the treatment of mast cell gastrointestinal disease, severe allergic conjunctivitis, chronic urticaria, and indolent systemic mastocytosis. Allakos Inc. was incorporated in 2012 and is headquartered in Redwood City, California.",
+  "website": "http://www.allakos.com"
+}

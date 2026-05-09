@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BSSC62",
+    "figi": "BBG000BSSFT0",
+    "isin": "DK0060079531"
+  },
+  "industry_group": "Transportation",
+  "isin": "DK0060079531",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DS81.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DS81.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DK0060079531.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DS81.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DS81.SG"
+    }
+  ],
+  "name": "DSV PANALPINA BONUS-AKT.",
+  "primary_symbol": "DS81.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "DSV A/S is a global transport and logistics company that provides supply chain management solutions. The company offers air and sea freight, road transport, warehousing, and distribution services. DSV is headquartered in Hedehusene, Denmark."
+}

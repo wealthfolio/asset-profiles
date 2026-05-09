@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000K8NCY0",
+    "figi": "BBG000K8NGR9",
+    "isin": "AU000000WKT6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000WKT6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N6D.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N6D.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WKT.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WALKABOUT RESOURCES LTD",
+  "primary_symbol": "N6D.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "WALKABOUT RESOURCES LTD is a resource exploration and development company focused on graphite and other minerals. The company is developing the Lindi Jumbo Graphite Project in Tanzania, aiming to become a significant graphite producer. The company is based in Australia.",
+  "website": "http://www.wkt.com.au"
+}

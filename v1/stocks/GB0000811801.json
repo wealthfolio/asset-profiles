@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GNN5N9",
+    "figi": "BBG000GNN8T7",
+    "isin": "GB0000811801"
+  },
+  "industry_group": "Real Estate",
+  "isin": "GB0000811801",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3BA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3BA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3BA.DU"
+    }
+  ],
+  "name": "BARRATT DEV. PLC  LS-,10",
+  "primary_symbol": "3BA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Barratt Developments PLC is a residential property developer in the United Kingdom. The company builds and sells homes under the Barratt Homes, David Wilson Homes, and Barratt London brands. Barratt Developments is headquartered in Coalville, Leicestershire, UK."
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "composite_figi": "BBG000TXLM21",
+    "figi": "BBG000TXLNR2",
+    "isin": "GRS496003005"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Energy",
+  "isin": "GRS496003005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "44T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "44T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TREAF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "TENERGY.AT"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "TERNA ENERGY SAEO 0,30",
+  "primary_symbol": "44T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "TERNA ENERGY SAEO is a Greek renewable energy company. The company develops, constructs, owns, and operates renewable energy projects, including wind farms, solar parks, and hydroelectric plants. Its headquarters are located in Athens, Greece.",
+  "website": "http://www.terna-energy.com"
+}

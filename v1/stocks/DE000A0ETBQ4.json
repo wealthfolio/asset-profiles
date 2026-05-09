@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000CS5P76",
+    "figi": "BBG000CS5SX1",
+    "isin": "DE000A0ETBQ4"
+  },
+  "industry": "Machinery",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A0ETBQ4",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MBB.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MBB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MBB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MBB SE O.N.",
+  "primary_symbol": "MBB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MBB SE is a German-based investment company that focuses on acquiring and managing medium-sized, family-owned industrial companies. The company operates as a generalist investor, targeting businesses with strong market positions and growth potential across various sectors. MBB SE is headquartered in Berlin, Germany.",
+  "website": "http://www.mbb.com/en.html"
+}

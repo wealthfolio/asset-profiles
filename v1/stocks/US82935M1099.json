@@ -1,0 +1,48 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000BMYZV9",
+    "cusip": "82935M109",
+    "figi": "BBG000BMZ312",
+    "isin": "US82935M1099"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Energy",
+  "isin": "US82935M1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SHI.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SHI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SHI.SG"
+    }
+  ],
+  "name": "SINOPEC SHAN H YC1ADR/100",
+  "primary_symbol": "SHI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "China Petroleum & Chemical Corporation (Sinopec) is an energy and chemical company based in China. The company is involved in oil and gas exploration, refining, and marketing, as well as the production of petrochemicals and chemical products. Sinopec is headquartered in Beijing, China.",
+  "website": "http://www.sigplc.com"
+}

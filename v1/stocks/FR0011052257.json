@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00JZBRYQ3",
+    "figi": "BBG00JZBRYR2",
+    "isin": "FR0011052257"
+  },
+  "industry": "Multi-Utilities",
+  "industry_group": "Materials",
+  "isin": "FR0011052257",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1DK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1DK.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALGBE.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GLOBAL BIOENERGIES EO-,05",
+  "primary_symbol": "1DK.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Global Bioenergies is a company developing a process to convert renewable resources into isobutene, a key building block for various products. The company aims to produce renewable isobutene for use in fuels, plastics, and cosmetics. Global Bioenergies is headquartered in Evry, France.",
+  "website": "http://www.global-bioenergies.com"
+}

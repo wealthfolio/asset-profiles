@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA00831V2057"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA00831V2057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAGFF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "AAG.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AAG.VI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Aftermath Silver Ltd.",
+  "primary_symbol": "AAGFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Aftermath Silver Ltd., a junior exploration company, acquires, explores, and develops mineral properties. It holds interest in the Cachinal De La Sierra silver-gold project and Challacollo silver-gold project located in Chile; and Berenguela silver-copper project located in Puno, Peru. The company was formerly known as Full Metal Zinc Ltd. and changed its name to Aftermath Silver Ltd. in April 2014. Aftermath Silver Ltd. was incorporated in 2011 and is headquartered in Vancouver, Canada.",
+  "website": "http://aftermathsilver.com"
+}

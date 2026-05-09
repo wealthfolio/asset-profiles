@@ -1,0 +1,34 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00NSBGFJ3",
+    "cusip": "73757R102",
+    "figi": "BBG00NSBGFN8",
+    "isin": "US73757R1023"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US73757R1023",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSTL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Postal Realty Trust, Inc.",
+  "primary_symbol": "PSTL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Postal Realty Trust, Inc. is an internally managed real estate investment trust that owns and manages over 1,000 properties leased to the USPS. The Company believes it is one of the largest owners and managers of properties leased to the USPS.",
+  "website": "http://www.postalrealtytrust.com"
+}

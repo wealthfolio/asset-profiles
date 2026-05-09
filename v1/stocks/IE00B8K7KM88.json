@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YHL54C3",
+    "figi": "BBG00YHL54K4",
+    "isin": "IE00B8K7KM88"
+  },
+  "isin": "IE00B8K7KM88",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "US9S.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "US9S.MU"
+    }
+  ],
+  "name": "WITR MU.AS.I.RUSS.ETP2062",
+  "primary_symbol": "US9S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

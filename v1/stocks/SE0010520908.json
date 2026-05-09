@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WM2Y8K3",
+    "figi": "BBG00WM2Y8Q7",
+    "isin": "SE0010520908"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "SE0010520908",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MHK.MU"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "MAGI.ST"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MHK.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MHK.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MAG Interactive AB (publ)",
+  "primary_symbol": "MHK.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "MAG Interactive AB (publ) develops and publishes mobile games worldwide. The company provides casual and social games. It distributes its games through virtual app stores for Android and iOS operating systems. The company was founded in 2010 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.maginteractive.com"
+}

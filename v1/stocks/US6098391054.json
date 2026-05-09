@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C30L48",
+    "cusip": "609839105",
+    "figi": "BBG000C30VQ2",
+    "isin": "US6098391054"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US6098391054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPWR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NQG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NQG.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MPWR.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NQG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NQG.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Monolithic Power Systems, Inc.",
+  "primary_symbol": "MPWR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Monolithic Power Systems, Inc. designs, develops, and markets integrated power semiconductor solutions and power delivery architectures for computing and storage, automotive, industrial, communications, and consumer applications markets. It offers direct current (DC) to DC integrated circuits (ICs) that are used to convert and control voltages of various electronic systems, such as portable electronic devices, wireless LAN access points, computers and notebooks, monitors, infotainment applications, and medical equipment. The company also provides lighting control ICs for backlighting that are used in systems, which provide the light source for LCD panels in notebook computers, monitors, car navigation systems, and televisions, as well as for general illumination products. The company sells its products through third-party distributors, and value-added resellers, as well as directly to original equipment manufacturers, original design manufacturers, electronic manufacturing service providers, and other end customers in China, Taiwan, Europe, South Korea, Southeast Asia, Japan, the United States, and internationally. Monolithic Power Systems, Inc. was incorporated in 1997 and is headquartered in Kirkland, Washington.",
+  "website": "http://www.monolithicpower.com"
+}

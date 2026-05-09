@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R121N7",
+    "figi": "BBG000R122T9",
+    "isin": "GB00B15KXX56"
+  },
+  "industry_group": "Materials",
+  "isin": "GB00B15KXX56",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "BULLP.PA"
+    }
+  ],
+  "name": "WisdomTree Gold",
+  "primary_symbol": "BULLP.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "WisdomTree Gold is an exchange-traded commodity (ETC) designed to track the performance of gold. The ETC provides investors with exposure to gold prices without the need to physically hold the metal. It is issued by WisdomTree."
+}

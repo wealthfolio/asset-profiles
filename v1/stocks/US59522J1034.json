@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C24PM7",
+    "cusip": "59522J103",
+    "figi": "BBG000C24QZ1",
+    "isin": "US59522J1034"
+  },
+  "industry_group": "Real Estate",
+  "isin": "US59522J1034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M2K.SG"
+    }
+  ],
+  "name": "MID-AMERICA APARTM. COMM. INC.R",
+  "primary_symbol": "M2K.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Mid-America Apartment Communities, Inc. is a real estate investment trust (REIT) that focuses on the acquisition, development, redevelopment, and management of apartment communities. They primarily operate in the Sunbelt region of the United States. The company is headquartered in Memphis, Tennessee."
+}

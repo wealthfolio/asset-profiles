@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00PBV8282",
+    "figi": "BBG00PBV8291",
+    "isin": "NO0010833262"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "NO0010833262",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "36K.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KCC.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KCCO.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Klaveness Combination Carriers ASA",
+  "primary_symbol": "36K.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Klaveness Combination Carriers ASA owns and operates combination carriers in Norway, the Far East, the Middle East, Australia, Brazil, and North America. The company operates in two segments, CABU and CLEANBU. Its vessels transport caustic coda solution, floating fertilizer, molasses, and various types of dry cargo, as well as petroleum products, heavy liquid cargoes, and various types of dry bulk products, such as alumina, bauxite. Iron ore, salt, and coal. Its fleet consists of 17 vessels. The company was founded in 1952 and is headquartered in Oslo, Norway. Klaveness Combination Carriers ASA is a subsidiary of Klaveness Ship Holding AS.",
+  "website": "http://www.combinationcarriers.com"
+}

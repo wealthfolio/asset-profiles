@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA23343T1049"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "CA23343T1049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGTHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D0G.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "DGTL.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "DGTL Holdings Inc.",
+  "primary_symbol": "DGTHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "DGTL Holdings Inc. incubates digital media and advertising technology companies using artificial intelligence in Canada and internationally. The company accelerates commercialized enterprise level software as-a-service companies through capitalization structures, including investment, mergers and acquisitions, earn outs, and licensing structures. It offers IAM and Create Marketplace that allows brands to scan, identify, profile, prequalify, geo-locate, and connect and command the social media content creators in real time.The company was formerly known as Conscience Capital Inc. and changed its name to DGTL Holdings Inc. in July 2020. DGTL Holdings Inc. was incorporated in 2018 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.dgtlinc.com"
+}

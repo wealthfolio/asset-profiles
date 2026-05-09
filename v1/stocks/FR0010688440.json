@@ -1,0 +1,33 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000BBNJJ5",
+    "figi": "BBG000BBNJS5",
+    "isin": "FR0010688440"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "FR0010688440",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALWED.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Wedia SA",
+  "primary_symbol": "ALWED.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Wedia SA provides marketing resource management solutions. The company offers digital asset management, digital experience management, distributed marketing management, and project and content management solutions. It also provides project consulting and implementation, indexing, artificial intelligence, enterprise video platform, interactive experience, Software as a Service and technology, and connection services. Wedia SA was founded in 2001 and is based in Paris, France.",
+  "website": "http://www.wedia-group.com"
+}

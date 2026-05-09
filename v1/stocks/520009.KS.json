@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "520009.KS"
+    }
+  ],
+  "name": "MiraeAsset Leverage Crude Futur",
+  "primary_symbol": "520009.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "MiraeAsset Leverage Crude Futur is an Exchange Traded Note (ETN) managed by Mirae Asset Daewoo Co., Ltd, providing leveraged exposure to crude oil futures. This ETN seeks to amplify the daily returns of crude oil futures, offering investors the potential for higher gains but also greater risk. It is listed on the Korea Exchange."
+}

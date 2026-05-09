@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG007J27QJ4",
+    "cusip": "19249H103",
+    "figi": "BBG007J27QP7",
+    "isin": "US19249H1032"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US19249H1032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8C5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHRS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8C5.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8C5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "8C5.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "COHERUS BIOSCIEN.DL-,0001",
+  "primary_symbol": "8C5.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "COHERUS BIOSCIEN.DL-,0001: Coherus BioSciences, Inc. is a commercial-stage biopharmaceutical company focused on the research, development and commercialization of biosimilars. The company's portfolio includes biosimilar versions of various biologic drugs, addressing oncology and immunology markets. Coherus BioSciences is headquartered in Redwood City, California.",
+  "website": "http://www.coherus.com"
+}

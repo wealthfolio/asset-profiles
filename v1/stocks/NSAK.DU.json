@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NSAK.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "OTI Greentech AG",
+  "primary_symbol": "NSAK.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "OTI Greentech AG offers cleantech chemicals, other products, and services for the maritime, infrastructure, and oil and gas industries worldwide. The company also provides ECOSOLUT products for the maritime sector. The company is headquartered in Berlin, Germany.",
+  "website": "http://www.oti.ag"
+}

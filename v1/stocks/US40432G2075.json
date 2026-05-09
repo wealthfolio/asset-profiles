@@ -1,0 +1,54 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "composite_figi": "BBG000P2D7J7",
+    "cusip": "40432G207",
+    "figi": "BBG000P2DC88",
+    "isin": "US40432G2075"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US40432G2075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HTJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HTJ.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HTJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HTJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HTJ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "HTC CORP. GDR REG S/4",
+  "primary_symbol": "HTJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "HTC Corporation is a Taiwanese consumer electronics company that designs, manufactures, and markets smartphones, virtual reality devices, and other technology products. The company's products are sold under the HTC brand. HTC Corporation is headquartered in Taoyuan City, Taiwan.",
+  "website": "http://www.htc.com"
+}

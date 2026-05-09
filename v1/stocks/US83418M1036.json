@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GSNVRR0",
+    "cusip": "83418M103",
+    "figi": "BBG00GSNVRX3",
+    "isin": "US83418M1036"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "US83418M1036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "68S.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "68S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US83418M1036.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SOLARIS OILFIELD A DL-,01",
+  "primary_symbol": "68S.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Solaris Oilfield Infrastructure, Inc. designs, manufactures, and rents mobile proppant and chemical management systems to unload, store, and deliver proppant and chemicals at oil and natural gas well sites in the United States. The company also provides trained personnel and last mile proppant logistics services; transloading and forward staging storage services; and digital inventory software under the Solaris Lens and Railtronix names. It serves oil and natural gas exploration and production, and oilfield service companies. Solaris Oilfield Infrastructure, Inc. was founded in 2014 and is headquartered in Houston, Texas.",
+  "website": "http://www.solarisoilfield.com"
+}

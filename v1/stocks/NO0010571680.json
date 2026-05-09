@@ -1,0 +1,68 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000R59T87",
+    "figi": "BBG000R59X33",
+    "isin": "NO0010571680"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "NO0010571680",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WNL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WNL.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0N0B.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010571680.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "WAWI.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "WAWIO.OL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WNL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WNL.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WALLENIUS WILHEL. NK 0,52",
+  "primary_symbol": "WNL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Wallenius Wilhelmsen ASA is a Norwegian/Swedish shipping company specializing in RoRo (Roll-on/Roll-off) shipping and vehicle transportation. They provide transportation services for cars, trucks, and other rolling cargo worldwide. The company is headquartered in Oslo, Norway.",
+  "website": "http://www.walleniuswilhelmsen.com"
+}

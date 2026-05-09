@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C52W38",
+    "figi": "BBG000C53153",
+    "isin": "JP3405400007"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "JP3405400007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SSM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SSM1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SSM1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SSM1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SSM1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SUMITOMO HEAVY",
+  "primary_symbol": "SSM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sumitomo Heavy Industries, Ltd. manufactures and sells industrial machinery, construction machinery, and ships. They offer a wide range of products including power transmission equipment, material handling systems, and defense equipment. The company is headquartered in Tokyo, Japan.",
+  "website": "http://www.shi.co.jp/index.html"
+}

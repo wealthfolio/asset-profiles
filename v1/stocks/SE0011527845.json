@@ -1,0 +1,33 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00JXRCDW5",
+    "figi": "BBG00MJLWLZ4",
+    "isin": "SE0011527845"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0011527845",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "QLINEA.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Q-linea AB (publ)",
+  "primary_symbol": "QLINEA.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Q-linea AB (publ), an innovative infection diagnostics company, researches, develops, manufactures, and sells instruments and consumables for infection diagnostics in Sweden. It offers inventive systems for in vitro diagnostics systems for infectious diseases. The company's lead product candidate is ASTar, an antibiotic susceptibility testing system used for positive blood cultures. It develops and delivers solutions for healthcare providers. Q-linea AB (publ) was founded in 2008 and is headquartered in Uppsala, Sweden.",
+  "website": "http://www.qlinea.com"
+}

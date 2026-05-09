@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000J13P89",
+    "figi": "BBG000J14V76",
+    "isin": "BE0003820371"
+  },
+  "industry": "Software",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "BE0003820371",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5E1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5E1.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BE0003820371.SW"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "EVS.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "EVS BROADCAST EQUIPMNT SA",
+  "primary_symbol": "5E1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "EVS Broadcast Equipment SA, headquartered in Liège, Belgium, designs, develops, and manufactures live video production systems for broadcast and media organizations. Their products include video servers, replay systems, and software applications for live production, media asset management, and content delivery. EVS's solutions are used in a variety of live sports, entertainment, and news productions worldwide.",
+  "website": "http://www.envirosuite.com"
+}

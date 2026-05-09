@@ -1,0 +1,73 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00TW5HX80",
+    "figi": "BBG00TW5HXW3",
+    "isin": "SE0010441584"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0010441584",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CALT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CLTEF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LC8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LC8.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A5R.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "CALTX.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LC8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LC8A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0010441584.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Calliditas Therapeutics AB (publ)",
+  "primary_symbol": "CALT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Calliditas Therapeutics AB (publ) operates as a biopharmaceutical company in Stockholm, Sweden. It focuses on identifying, developing, and commercializing pharmaceutical products for patients with unmet medical needs. The company's lead product candidate is Nefecon, a novel oral formulation of budesonide potent local immunosuppressant for the treatment of the autoimmune renal disease IgA nephropathy. Calliditas Therapeutics AB (publ) also intends to take Nefecon through a global Phase 3 study to commercialization. Calliditas Therapeutics AB (publ) was founded in 2004 and is headquartered in Stockholm, Sweden.",
+  "website": "http://www.calliditas.se"
+}

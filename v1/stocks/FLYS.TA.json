@@ -1,0 +1,23 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FLYS.TA"
+    }
+  ],
+  "name": "Flying Spark Ltd.",
+  "primary_symbol": "FLYS.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "The Flying Spark Ltd produces protein powder from fruit fly larvae. Its products include protein powder and oil. The company was founded in 2015 and is based in Ashdod, Israel.",
+  "website": "http://www.flyingspark.com"
+}

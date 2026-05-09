@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG008P19Y17",
+    "cusip": "18539C204",
+    "figi": "BBG008P19Y62",
+    "isin": "US18539C2044"
+  },
+  "industry_group": "Energy",
+  "isin": "US18539C2044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NY41.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NY41.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NY41.SG"
+    }
+  ],
+  "name": "CLEARWAY ENERGY C  DL-,01",
+  "primary_symbol": "NY41.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Clearway Energy, Inc. is an energy company headquartered in Princeton, New Jersey. They own and operate infrastructure assets with a focus on long-term contracts. The company's portfolio primarily includes renewable energy and conventional power generation facilities."
+}

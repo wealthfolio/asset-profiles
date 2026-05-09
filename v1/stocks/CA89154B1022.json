@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00K9P7VX8",
+    "figi": "BBG00K9P7W39",
+    "isin": "CA89154B1022"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "CA89154B1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5O7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOT.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOTZF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "TOT.AX"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "TOT.BA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "TOT.MI"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "TOT.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TOTAL ENERGY SERVS INC.",
+  "primary_symbol": "5O7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "TOTALENERGIES is a global multi-energy company that produces and markets energies on a global scale: oil and biofuels, natural gas and green gases, renewables and electricity. The company is committed to energy that is ever more affordable, cleaner, more reliable and accessible to as many people as possible. Its headquarters are in Paris, France.",
+  "website": "http://www.totalenergy.ca"
+}

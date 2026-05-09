@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C2R1B7",
+    "isin": "MX01OR010004"
+  },
+  "isin": "MX01OR010004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MX01OR010004.SG"
+    }
+  ],
+  "name": "ORBIA ADVANCE CORP SAB DE CV",
+  "primary_symbol": "MX01OR010004.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

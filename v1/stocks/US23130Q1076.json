@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00WS6RLR0",
+    "cusip": "23130Q107",
+    "figi": "BBG00WS6RLX3",
+    "isin": "US23130Q1076"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "US23130Q1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3QT1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3QT1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US23130Q1076.SG"
+    }
+  ],
+  "name": "CURIOSITYSTREAM A -,0001",
+  "primary_symbol": "3QT1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CuriosityStream Inc. is a streaming service that offers documentary and nonfiction content. The company provides subscribers access to a library of factual entertainment programming. CuriosityStream is headquartered in Silver Spring, Maryland."
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FLZNT6",
+    "figi": "BBG000FLZSQ8",
+    "isin": "GRS260333000"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "GRS260333000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OTE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OTE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OTE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OTE.SG"
+    }
+  ],
+  "name": "HELLENIC TELEC. ORG. NAM.",
+  "primary_symbol": "OTE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Hellenic Telecommunications Organization S.A. (OTE) is the incumbent telecommunications provider in Greece. The company offers a range of services, including fixed and mobile telephony, internet access, and television services. OTE is headquartered in Athens, Greece."
+}

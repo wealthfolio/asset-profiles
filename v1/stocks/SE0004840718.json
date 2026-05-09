@@ -1,0 +1,58 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00FGPLWC6",
+    "figi": "BBG00FGPLWK7",
+    "isin": "SE0004840718"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "SE0004840718",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3XV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XVIPF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RKL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3XV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0004840718.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "XVIVO.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "XVIVO PERFUSION AB",
+  "primary_symbol": "3XV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "XVIVO PERFUSION AB is a medical technology company specializing in solutions for organ preservation and perfusion. The company develops and markets products used in transplantation to improve the viability and quality of organs. Its headquarters are located in Gothenburg, Sweden.",
+  "website": "http://www.xvivoperfusion.com"
+}

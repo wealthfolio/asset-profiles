@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00YLVQ5P6",
+    "cusip": "619718307",
+    "isin": "US6197183071"
+  },
+  "isin": "US6197183071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US6197183071.SG"
+    }
+  ],
+  "name": "PERASO INC",
+  "primary_symbol": "US6197183071.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

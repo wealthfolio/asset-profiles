@@ -1,0 +1,41 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "isin": "PTSEM0AM0004"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Capital Goods",
+  "isin": "PTSEM0AM0004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IE9.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "SEM.LS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SQQ1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SEMAPA SOCIEDADE DE INVESTIMENT",
+  "primary_symbol": "0IE9.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SEMAPA - Sociedade de Investimento e Gestão, SGPS, S.A. is a Portuguese investment company with holdings in cement, environment, pulp & paper, and tourism sectors. The company manages a portfolio of industrial and service businesses. SEMAPA is headquartered in Lisbon, Portugal.",
+  "website": "http://www.semapa.pt"
+}

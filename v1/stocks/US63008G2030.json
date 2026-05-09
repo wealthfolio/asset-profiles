@@ -1,0 +1,44 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00DVVT2N7",
+    "cusip": "63008G203",
+    "figi": "BBG00DVVT2V8",
+    "isin": "US63008G2030"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US63008G2030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2N5B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2N5B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNDM"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NANODIMENSION ADR 50 DL1",
+  "primary_symbol": "2N5B.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Nano Dimension is an Israeli company that focuses on 3D printing electronics. Their primary product is the DragonFly Pro system, which allows for rapid prototyping of multilayer printed circuit boards (PCBs). The company is headquartered in Ness Ziona, Israel.",
+  "website": "http://www.nano-di.com"
+}

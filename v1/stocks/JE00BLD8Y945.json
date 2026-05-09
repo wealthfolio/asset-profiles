@@ -1,0 +1,73 @@
+{
+  "country": "Jersey",
+  "country_code": "JE",
+  "identifiers": {
+    "composite_figi": "BBG00ZLFYX50",
+    "figi": "BBG00ZLFYXD1",
+    "isin": "JE00BLD8Y945"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "JE00BLD8Y945",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3TW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3TW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNSRF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3TW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3TW.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "CS.ST"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CSS.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CSS.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JE00BLD8Y945.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "COINSHARES I. LS-000247",
+  "primary_symbol": "3TW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CoinShares International Limited is a digital asset investment firm. The company offers a range of investment products and services focused on cryptocurrencies and blockchain technology. CoinShares is headquartered in Jersey, Channel Islands.",
+  "website": "http://www.coinshares.com"
+}

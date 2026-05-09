@@ -1,0 +1,42 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG00K1GHD92",
+    "figi": "BBG00K1GHDH3",
+    "isin": "CH0396131929"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CH0396131929",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ROR.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ROR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "ROR1.VI"
+    }
+  ],
+  "name": "SUNMIRROR AG  SF 1",
+  "primary_symbol": "ROR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "SunMirror AG operates as a natural resources mining company. It focuses on the exploration for gold and other metals and minerals. The company is based in Zug, Switzerland.",
+  "website": "http://www.sunmirror.ch"
+}

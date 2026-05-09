@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000FLCPN2",
+    "cusip": "808513105",
+    "figi": "BBG000FLCVK2",
+    "isin": "US8085131055"
+  },
+  "industry": "Software",
+  "industry_group": "Banks",
+  "isin": "US8085131055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWG.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SWG.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SWG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SWG.SG"
+    }
+  ],
+  "name": "CHARLES SCHWAB CORP.DL-01",
+  "primary_symbol": "SWG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Charles Schwab Corporation is a savings and brokerage holding company engaged in wealth management, securities brokerage, banking, asset management and financial advisory services. The company provides financial services to individuals and institutions through its subsidiaries. Charles Schwab is headquartered in San Francisco, California.",
+  "website": "http://shearwatergroup.com"
+}

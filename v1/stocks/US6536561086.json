@@ -1,0 +1,64 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000KC17R4",
+    "cusip": "653656108",
+    "figi": "BBG000KC1NY1",
+    "isin": "US6536561086"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US6536561086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NICE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NICE.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSY.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSY.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "N1IC34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NSY.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NSY.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NICE Ltd.",
+  "primary_symbol": "NICE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NICE Ltd. provides enterprise software solutions worldwide. The company operates in two segments, Customer Engagement, and Financial Crime and Compliance. It offers CXone, a cloud native open platform that supports contact centers ranging from small single sites to distributed remote agents and enterprises; and a digital-first omnichannel customer engagement platform that supports various digital and self-service channels, which allows organizations to add and integrate new and emerging channels. The company also provides AI driven smarter processes, agile workforce engagement, and customer experience management solutions. In addition, it offers NICE platform, a financial crime and compliance solution that handles various process, including detection, investigation, remediation, and reporting; and X-Sight, a cloud-based financial crime risk management platform-as-a-service. Further, the company provides professional service and support at various stages of the technology lifecycle, including defining requirements, planning, design, implementation, customization, optimization, maintenance, and ongoing support. NICE Ltd. sells its solutions directly to customers, as well as indirectly through selected partners. The company was formerly known as NICE-Systems Ltd. and changed its name to NICE Ltd. in June 2016. NICE Ltd. was founded in 1986 and is based in Ra'anana, Israel.",
+  "website": "http://www.nice.com"
+}

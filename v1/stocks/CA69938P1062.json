@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA69938P1062"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA69938P1062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PTNYF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "PKG.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PT0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PT0.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ParcelPal Technology Inc.",
+  "primary_symbol": "PTNYF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ParcelPal Technology Inc. provides on-demand local delivery services in Canada. The Company offers ParcelPal, a streamlined mobile application for retail, restaurants, and liquor stores that enable consumers to shop at local merchants. It also provides online ecommerce integrations, an iOS application, open web portal for B2B shipments, and various API integration capabilities. The company was formerly known as Plus8 Global Ventures, Ltd. ParcelPal Technology Inc. was incorporated in 1997 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.parcelpal.com"
+}

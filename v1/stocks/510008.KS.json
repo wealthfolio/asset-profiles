@@ -1,0 +1,22 @@
+{
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "510008.KS"
+    }
+  ],
+  "name": "Daishin Iron Ore Futures ETN(H)",
+  "primary_symbol": "510008.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Daishin Iron Ore Futures ETN(H) is an Exchange Traded Note that tracks the performance of iron ore futures contracts. The \"(H)\" likely indicates that it is hedged against currency fluctuations. It is offered by Daishin Securities in South Korea."
+}

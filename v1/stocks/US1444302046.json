@@ -1,0 +1,92 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "cusip": "144430204",
+    "isin": "US1444302046"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "US1444302046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0NPH.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRERF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRRFY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CA.PA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CAN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CAP.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CAR.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CAR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CAR1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CAR1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "CARR.VI"
+    },
+    {
+      "currency": "TRY",
+      "exchange_mic": "XIST",
+      "symbol": "CRFSA.IS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CRR.MI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Carrefour SA",
+  "primary_symbol": "0NPH.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Carrefour SA operates stores in various formats and channels in France, Spain, Italy, Belgium, Poland, Romania, Brazil, Argentina, and Taiwan. The company operates hypermarkets, convenience stores, supermarkets, cash and carry stores, and hypercash stores; e-commerce sites and m-commerce channels; and service stations. Its stores offer fresh produce; local products; consumer goods; and non-food products, including small household goods, textiles, and home appliances. The company is also involved in banking, insurance, property development, and franchise activities; the provision of travel agency services; and the rental of shopping malls. Carrefour SA was founded in 1959 and is based in Massy, France.",
+  "website": "http://www.carrefour.com"
+}

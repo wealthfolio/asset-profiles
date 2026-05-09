@@ -1,0 +1,33 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000Q8RYL6",
+    "figi": "BBG000Q8S093",
+    "isin": "DE0005492276"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "DE0005492276",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2GI.MU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GIEAG Immobilien AG",
+  "primary_symbol": "2GI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "GIEAG Immobilien AG develops commercial and residential properties in southern Germany. The company develops properties in the areas of office, retail, and logistics. It also invests in residential properties. The company was founded in 1999 and is based in Munich, Germany.",
+  "website": "http://www.gieag.de"
+}

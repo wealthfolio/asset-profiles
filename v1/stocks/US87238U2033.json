@@ -1,0 +1,44 @@
+{
+  "country": "Cyprus",
+  "country_code": "CY",
+  "identifiers": {
+    "composite_figi": "BBG005N1N157",
+    "cusip": "87238U203",
+    "figi": "BBG005N1N1C9",
+    "isin": "US87238U2033"
+  },
+  "industry": "Banks",
+  "industry_group": "Diversified Financials",
+  "isin": "US87238U2033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13T1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13T1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TCSG.ME"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TCS GROUP HOL.GDR REG S 1",
+  "primary_symbol": "13T1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "TCS Group Holding PLC is an online financial services provider in Russia. The company operates through its online bank, Tinkoff Bank, offering a range of products including credit cards, deposit accounts, and investment services. TCS Group Holding PLC is headquartered in Moscow, Russia.",
+  "website": "http://www.tcsgh.com.cy"
+}

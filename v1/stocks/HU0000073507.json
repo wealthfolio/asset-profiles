@@ -1,0 +1,40 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DM7XW1",
+    "figi": "BBG000DM8196",
+    "isin": "HU0000073507"
+  },
+  "isin": "HU0000073507",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGYB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGYB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTEL.BD"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MGYB.SG"
+    }
+  ],
+  "name": "MAGYAR TELEK.T.NA A UF100",
+  "primary_symbol": "MGYB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

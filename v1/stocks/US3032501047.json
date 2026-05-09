@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000DW76Y6",
+    "cusip": "303250104",
+    "figi": "BBG000DW7B75",
+    "isin": "US3032501047"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US3032501047",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FICO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRI.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0TIQ.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "FRI.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FRI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FRI.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Fair Isaac Corporation",
+  "primary_symbol": "FICO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Fair Isaac Corporation develops analytic, software, and data management products and services that enable businesses to automate, enhance, and connect decisions in North America, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. The company offers analytical solutions, credit scoring, and credit account management products and services to banks, credit reporting agencies, credit card processing agencies, insurers, retailers, healthcare organizations, and public agencies. It operates through three segments: Applications, Scores, and Decision Management Software. The Applications segment offers pre-configured decision management applications designed for various business problems or processes, such as marketing, account origination, customer management, fraud, financial crimes compliance, collection, and insurance claims management, as well as associated professional services. The Scores segment provides business-to-business scoring solutions and services, including myFICO solutions for consumers that give clients access to analytics to be integrated into their transaction streams and decision-making processes, as well as associated professional services. The Decision Management Software segment offers analytic and decision management software tools through FICO Decision Management Suite, as well as associated professional services. Fair Isaac Corporation markets its products and services primarily through its direct sales organization; indirect channels; subsidiary sales organizations; and resellers and independent distributors, as well as online. The company was formerly known as Fair Isaac & Company, Inc. and changed its name to Fair Isaac Corporation in July 1992. Fair Isaac Corporation was founded in 1956 and is headquartered in San Jose, California.",
+  "website": "http://www.fico.com"
+}

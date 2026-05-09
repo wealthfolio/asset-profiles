@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00YG9CTV7",
+    "cusip": "44888K209",
+    "figi": "BBG00YG9CV15",
+    "isin": "US44888K2096"
+  },
+  "industry": "Machinery",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "US44888K2096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TUA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5TUA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HYFM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5TUA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US44888K2096.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HYDROFARM HLD. GRP -,0001",
+  "primary_symbol": "5TUA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Hydrofarm Holdings Group, Inc. is a manufacturer and distributor of hydroponics equipment and supplies, including lighting, climate control, nutrients, and growing media. The company serves the North American market, catering to both commercial and consumer growers. Hydrofarm is headquartered in Fairless Hills, Pennsylvania.",
+  "website": "http://www.hydrofarm.com"
+}

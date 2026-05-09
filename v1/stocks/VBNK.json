@@ -1,0 +1,25 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VBNK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "VersaBank Common Shares",
+  "primary_symbol": "VBNK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "VersaBank is a Canadian Schedule I chartered bank operating under an “e-branchless” model. They primarily focus on providing deposit and lending services through alternative channels, including a network of brokers and other financial intermediaries. The bank is headquartered in London, Ontario, Canada."
+}

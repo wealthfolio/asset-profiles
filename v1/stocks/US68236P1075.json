@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000KFHP90",
+    "cusip": "68236P107",
+    "figi": "BBG000KFHT01",
+    "isin": "US68236P1075"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US68236P1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTU2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTU2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ONCT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GTU2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US68236P1075.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ONCTERNAL THERAP.  DL-,01",
+  "primary_symbol": "GTU2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Oncternal Therapeutics, Inc., a clinical-stage biopharmaceutical company, focuses on the development of oncology therapies for cancers with critical unmet medical need. Its pipeline includes cirmtuzumab, an investigational monoclonal antibody that is being evaluated in a Phase 1/2 clinical trial in combination with ibrutinib for the treatment of patients with B-cell lymphoid malignancies, including mantle cell lymphoma and chronic lymphocytic leukemia. The company also develops a chimeric antigen receptor T cell therapy that targets Receptor tyrosine kinase-like Orphan Receptor 1, which is in preclinical development as a potential treatment for hematologic cancers and solid tumors. In addition, it is developing TK216, an investigational small molecule that inhibits the E26 Transformation Specific family of oncoproteins. Oncternal Therapeutics, Inc. has license agreements with the Regents of the University of California; Georgetown University; Shanghai Pharmaceutical (USA) Inc.; Selexis S.A.; and University of Tennessee Research Foundation. The company is headquartered in San Diego, California.",
+  "website": "http://www.oncternal.com"
+}

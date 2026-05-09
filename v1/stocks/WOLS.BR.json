@@ -1,0 +1,27 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "WOLS.BR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Woluwe Shopping Center",
+  "primary_symbol": "WOLS.BR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Woluwe Shopping Center operates real estate properties, primarily shopping centers in Brussels. The company is based in Brussels, Belgium.",
+  "website": "http://www.thewshopping.be"
+}

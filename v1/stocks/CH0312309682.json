@@ -1,0 +1,33 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG000BLXMC2",
+    "figi": "BBG006M6YXG1",
+    "isin": "CH0312309682"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "CH0312309682",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "ZUBN.SW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Zublin Immobilien Holding AG",
+  "primary_symbol": "ZUBN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Z√É¬ºblin Immobilien was founded in 1912 as a construction and development company, and over the years evolved into an internationally oriented real estate company with broad competence. Successfully restructured since 2014, the company is financially stable and owns a well performing Swiss portfolio.",
+  "website": "http://www.zueblin.ch"
+}

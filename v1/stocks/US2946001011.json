@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00K53L394",
+    "cusip": "294600101",
+    "figi": "BBG00K53L3D9",
+    "isin": "US2946001011"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US2946001011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ETRN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "37W.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Equitrans Midstream Corporation",
+  "primary_symbol": "ETRN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Equitrans Midstream Corporation owns, operates, acquires, and develops natural gas gathering, transmission and storage, and water services assets in the Appalachian Basin. It operates through three segments: Gathering System, Transmission and Storage System, and Water Service System. The Gathering System segment include 1,130 miles of high-pressure gathering lines with compression of approximately 485,000 horsepower and multiple interconnect points; and approximately 910 miles of Federal Energy Regulatory Commission (FERC) low-pressure gathering lines. The Transmission and Storage System segment comprises 950 miles of FERC regulated interstate pipeline that connects to seven interstate pipelines and local distribution companies. The Water Service System segment include two independent systems comprised approximately 200 miles of pipeline that deliver fresh water from the Monongahela River, the Ohio River, local reservoirs, and various regional waterways. Equitrans Midstream Corporation was incorporated in 2018 and is headquartered in Canonsburg, Pennsylvania.",
+  "website": "http://www.equitransmidstream.com"
+}

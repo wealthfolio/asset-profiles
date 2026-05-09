@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BDGCS4",
+    "figi": "BBG000BDGGQ7",
+    "isin": "GB00B0SWJX34"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Diversified Financials",
+  "isin": "GB00B0SWJX34",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LS4C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LS4C.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LSE.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LS4C.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LS4C.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LSE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LSE.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LONDON STOCK EXCHANGE",
+  "primary_symbol": "LS4C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "LONDON STOCK EXCHANGE is a global financial markets infrastructure and data provider. The company operates stock exchanges, fixed income trading platforms, and provides market data and analytics. The London Stock Exchange Group is headquartered in London, United Kingdom.",
+  "website": "http://www.equusmining.com"
+}

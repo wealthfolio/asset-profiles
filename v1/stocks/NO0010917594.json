@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZHQT996",
+    "figi": "BBG00ZHQT9G8",
+    "isin": "NO0010917594"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NO0010917594",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8U5.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A7V.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "CIRCA.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010917594.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Circa Group AS",
+  "primary_symbol": "8U5.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Circa Group AS engages in production and sale of biochemicals from waste biomass. Its products include Levoglucosenone, a valuable platform molecule; Cyrene, a chiral dipolar aprotic solvent from renewable cellulose; and Laiscent, a nature identical molecule. The company was founded in 2006 and is based in Oslo, Norway.",
+  "website": "http://circa-group.com"
+}

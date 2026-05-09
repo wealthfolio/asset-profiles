@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG006N4FB83",
+    "figi": "BBG006N4FB92",
+    "isin": "FR0000062796"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FR0000062796",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9VP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9VP.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "VRAP.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VRANKEN-POMM.MON.INH.EO15",
+  "primary_symbol": "9VP.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "VRANKEN-POMMERY MONOPOLE is a French company specializing in the production and distribution of champagne and wines. Their portfolio includes renowned champagne brands such as Vranken, Pommery, and Heidsieck Monopole, along with wines from various regions. The company's headquarters are located in Reims, France.",
+  "website": "http://www.vranken.fr"
+}

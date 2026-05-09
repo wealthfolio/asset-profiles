@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "isin": "FR0010869495"
+  },
+  "industry_group": "Materials",
+  "isin": "FR0010869495",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSD.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DSD.F"
+    }
+  ],
+  "name": "DEEP-SOUTH RES.INC.  O.N.",
+  "primary_symbol": "DSD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Deep-South Resources Inc. is a Canadian mineral exploration company focused on the acquisition, exploration, and development of mineral properties. The company is actively exploring for copper and other base metals in Africa. Deep-South Resources is headquartered in Vancouver, Canada."
+}

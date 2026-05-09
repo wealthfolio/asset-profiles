@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z924FD6",
+    "figi": "BBG00Z924FK8",
+    "isin": "FR0010424697"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "FR0010424697",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "99Q.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "99Q.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALENT.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0010424697.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ENTREPARTICULIERS  EO-,10",
+  "primary_symbol": "99Q.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "SA Entreparticuliers.com operates a Website that provides information to individuals for the sale and rent of apartments, land, houses, or villas in France. The company was founded in 2000 and is based in Paris, France.",
+  "website": "http://www.entreparticuliers.com"
+}

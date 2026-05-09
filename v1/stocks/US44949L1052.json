@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BJ0Y64",
+    "cusip": "44949L105",
+    "isin": "US44949L1052"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US44949L1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US44949L1052.SG"
+    }
+  ],
+  "name": "IEC ELECTRONICS CORP",
+  "primary_symbol": "US44949L1052.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "IEC ELECTRONICS CORP is an electronics manufacturing services (EMS) provider specializing in complex, high-reliability applications. They offer design, manufacturing, and testing services to customers in the medical, industrial, aerospace, and defense sectors. The company is headquartered in Newark, New York."
+}

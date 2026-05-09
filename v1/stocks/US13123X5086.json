@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JH30V3",
+    "cusip": "13123X508",
+    "figi": "BBG000JH35N1",
+    "isin": "US13123X5086"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US13123X5086",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE51.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CPE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CE51.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "CPE.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US13123X5086.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CALLON PETROLEUM (DEL.)",
+  "primary_symbol": "CE51.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Callon Petroleum Company is an independent oil and natural gas company focused on the acquisition, exploration, and development of high-return properties in the Permian Basin. They are headquartered in Houston, Texas. Their business model centers on drilling, completion, and production activities in the Permian Basin.",
+  "website": "http://www.callon.com"
+}

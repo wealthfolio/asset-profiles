@@ -1,0 +1,41 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "CA49601P1045"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "CA49601P1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JKPTF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GYS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JP7.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Gamesys Group plc",
+  "primary_symbol": "JKPTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Gamesys Group plc, through its subsidiaries, operates online casino and bingo-led brands in the United Kingdom, Asia, Europe, and internationally. It offers bingo, casino, and other games under the Jackpotjoy, Starspins, Virgin Games, Heart Bingo, Botemania, Rainbow Riches, Virgin Casino, Monopoly Casino, Vera&John, InterCasino, and Solid Gaming brands to its players. The company was founded in 2014 and is based in London, the United Kingdom.",
+  "website": "http://www.gamesysgroup.com"
+}

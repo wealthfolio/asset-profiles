@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CGWSJ3",
+    "cusip": "63633D104",
+    "figi": "BBG000CGWVM2",
+    "isin": "US63633D1046"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "US63633D1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NHI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WX6.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WX6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WX6.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "National Health Investors, Inc.",
+  "primary_symbol": "NHI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Incorporated in 1991, National Health Investors, Inc. (NYSE: NHI) is a real estate investment trust specializing in sale-leaseback, joint-venture, mortgage and mezzanine financing of need-driven and discretionary senior housing and medical investments. NHI's portfolio consists of independent, assisted and memory care communities, entrance-fee retirement communities, skilled nursing facilities, medical office buildings and specialty hospitals.",
+  "website": "http://www.nhireit.com"
+}

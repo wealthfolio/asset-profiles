@@ -1,0 +1,47 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "cusip": "29429L105",
+    "isin": "US29429L1052"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US29429L1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EPOKY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3AD.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EPI-A.ST"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "EPI-B.ST"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Epiroc AB (publ)",
+  "primary_symbol": "EPOKY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Epiroc AB, together with its subsidiaries, develops and produces equipment, consumables, and service for use in surface and underground mining, infrastructure, civil engineering, well drilling, or geotechnical worldwide. It operates through two segments, Equipment & Service, and Tools & Attachments. The Equipment & Service segment provides equipment and solutions for rock drilling, mechanical rock excavation, rock reinforcement, loading and haulage, ventilation systems, exploration drilling, and drilling equipment for water, energy, oil and gas, as well as related spare parts, services, and solutions. The Tools & Attachments segment offers rock drilling tools and hydraulic attachments that are used primarily for drilling, demolition, recycling, and rock excavation; and related services and spare parts. It also provides, reverse circulation, drill rigs, dimensional stone, and water well drill rigs, as well as loaders and trucks; and aftermarket services. The company was founded in 1873 and is headquartered in Nacka, Sweden.",
+  "website": "http://www.epirocgroup.com"
+}

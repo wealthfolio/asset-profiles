@@ -1,0 +1,41 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "KYG2161A1195"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food & Staples Retailing",
+  "isin": "KYG2161A1195",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "46C1.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3838.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "46C1.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "China Starch Holdings Limited",
+  "primary_symbol": "46C1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "China Starch Holdings Limited, an investment holding company, manufactures and sells cornstarch, lysine, starch-based sweetener, modified starch, and ancillary corn-based and corn-refined products in the People's Republic of China. The company operates through two segments, Upstream Products, and Fermented and Downstream Products. It also researches, develops, manufactures, and sells food additives, feeds, amino acids, and related products; and glucose, maltose, dextrin, animal feed additives, food-grade enzymes, biobased materials, and related products. The company was incorporated in 2006 and is headquartered in Causeway Bay, Hong Kong. China Starch Holdings Limited is a subsidiary of Merry Boom Group Limited.",
+  "website": "http://www.chinastarch.com.hk"
+}

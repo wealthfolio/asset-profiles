@@ -1,0 +1,27 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALCUR.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Arcure S.A.",
+  "primary_symbol": "ALCUR.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Arcure S.A. develops detection solutions for enhancing the autonomy of industrial machinery worldwide. The company provides Blaxtair, which offers solutions for securing the perimeter around mobile industrial machinery and robots. It also offers Omega, a smart and robust stereoscopic camera that calculates the disparity map and provides metadata to the user. Arcure S.A. was founded in 2009 and is headquartered in Pantin, France.",
+  "website": "http://www.arcure.net"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG00XKLQBY8",
+    "figi": "BBG00XKLQBZ7",
+    "isin": "BE0974371032"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "BE0974371032",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "60Z.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BE0974371032.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "UPG.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "UnifiedPost Group S.A.",
+  "primary_symbol": "60Z.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "UnifiedPost Group operates and develops a cloud-based platform for administrative and financial services in Belgium. It allows connections between its customers, suppliers, customers, and other parties along the financial value chain. The company offers document, identity, payment, and finance and service solutions. It serves corporate and government customers; small and medium-sized enterprises; and agricultural, accounting, interim, and construction sectors. The company was founded in 2001 and is headquartered in La Hulpe, Belgium.",
+  "website": "http://www.unifiedpost.com"
+}

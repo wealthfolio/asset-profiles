@@ -1,0 +1,74 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG0018J9W16",
+    "cusip": "551073307",
+    "figi": "BBG0018J9W70",
+    "isin": "US5510733075"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US5510733075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYIC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYIC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYSCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYSDY"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A2N.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "LYC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LYI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LYIC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LYIC.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LYNAS RARE EAR. SP. ADR 1",
+  "primary_symbol": "LYIC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lynas Rare Earths Limited is a rare earths mining and processing company. It focuses on the extraction and processing of rare earth minerals, particularly neodymium and praseodymium. The company's operations are based in Australia and Malaysia.",
+  "website": "http://www.lynascorp.com"
+}

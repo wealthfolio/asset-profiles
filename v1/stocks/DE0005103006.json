@@ -1,0 +1,68 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BSC8H6",
+    "figi": "BBG000BSCBT6",
+    "isin": "DE0005103006"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Telecommunication Services",
+  "isin": "DE0005103006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADV.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADV.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ADV.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ADV.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ADV.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ADV.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ADV.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ADVA OPT.NETW.SE  O.N.",
+  "primary_symbol": "ADV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "ADVA Optical Networking SE is a German telecommunications equipment vendor that provides network solutions for data transmission. They offer hardware and software for optical and Ethernet-based networking. The company is headquartered in Munich, Germany.",
+  "website": "http://www.ardiden.com.au"
+}

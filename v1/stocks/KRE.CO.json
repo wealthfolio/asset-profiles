@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "KRE.CO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Kreditbanken A/S",
+  "primary_symbol": "KRE.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Kreditbanken A/S provides various banking products and services to private and business customers in Denmark. The company offers savings accounts; and loan, budget, pension, and investment products, as well as online and mobile banking services. It also provides payment cards and insurance products. Kreditbanken A/S was founded in 1926 and is based in Aabenraa, Denmark.",
+  "website": "http://www.kreditbanken.dk"
+}

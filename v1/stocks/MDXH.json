@@ -1,0 +1,25 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry_group": "Health Care Equipment & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MDXH"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MDxHealth SA American Depositary Shares",
+  "primary_symbol": "MDXH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MDxHealth SA is a molecular diagnostics company that develops and commercializes epigenetic tests for cancer detection and management. Their tests provide clinicians with actionable information to improve patient outcomes in areas such as prostate cancer. The company is headquartered in Herstal, Belgium, with US operations in Irvine, California."
+}

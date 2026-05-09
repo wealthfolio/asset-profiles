@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00QDJRS23",
+    "cusip": "759419104",
+    "figi": "BBG00QDJRS78",
+    "isin": "US7594191048"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US7594191048",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "38E.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REKR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "38E.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US7594191048.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "REKOR SYSTEMS INC. DL-,01",
+  "primary_symbol": "38E.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Rekor Systems, Inc. provides real-time roadway intelligence solutions. They use artificial intelligence to convert raw video into actionable insights, enabling transportation agencies, law enforcement, and commercial businesses to improve safety, efficiency, and asset utilization. The company is headquartered in Columbia, Maryland.",
+  "website": "http://www.rekor.ai"
+}

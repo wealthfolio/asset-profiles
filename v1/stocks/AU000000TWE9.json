@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001P9GTT8",
+    "figi": "BBG001P9GV04",
+    "isin": "AU000000TWE9"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "AU000000TWE9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "T7W.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "T7W.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "T7W.SG"
+    }
+  ],
+  "name": "TREASURY WINE ESTATES LTD",
+  "primary_symbol": "T7W.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "TREASURY WINE ESTATES LTD is a global wine company that produces and markets a portfolio of wine brands from vineyards in Australia, the United States, and other regions. The company's brands include Penfolds, Wolf Blass, Beringer, and Lindeman's, and it distributes its products through retail channels and direct-to-consumer sales. Treasury Wine Estates is headquartered in Melbourne, Australia."
+}

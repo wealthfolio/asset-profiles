@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4752.T"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Showa System Engineering Corporation",
+  "primary_symbol": "4752.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Showa System Engineering Corporation engages in the development, operation, and consulting of information systems. It also offers system integration and BPO entry services. The company serves customers in a range of industries comprising finance, manufacturing, distribution, and service industries. Showa System Engineering Corporation was founded in 1966 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.showa-sys-eng.co.jp"
+}

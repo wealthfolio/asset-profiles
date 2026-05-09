@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CPW406",
+    "figi": "BBG000CPW781",
+    "isin": "IT0004931496"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Telecommunication Services",
+  "isin": "IT0004931496",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HPI2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RZSMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HPI2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HPI2.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "RCS.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "RCS MEDIAGROUP  EO 1",
+  "primary_symbol": "HPI2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "PIMCO Strategic Global Government Fund, Inc. is a closed-ended fixed income mutual fund launched and managed by Allianz Global Investors Fund Management LLC. The fund is co-managed by Pacific Investment Management Company LLC. It invests in fixed income markets across the globe. The fund primarily invests in government securities, including bonds issued or guaranteed by the United States or foreign governments, by their agencies, authorities or instrumentalities, or by supranational entities. It employs fundamental analysis with a focus on top down stock picking approach to create its portfolio. PIMCO Strategic Global Government Fund, Inc. was formed on February 24, 1994 and is domiciled in the United States.",
+  "website": "http://www.allianzinvestors.com/Products/pages/373.aspx"
+}

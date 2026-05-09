@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIFF"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Firefly Neuroscience Inc. Common Stock",
+  "primary_symbol": "AIFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Firefly Neuroscience Inc. is a company focused on developing and commercializing advanced neuroscientific solutions for diagnosing and treating neurological and psychiatric disorders. Their core technology involves using EEG (electroencephalography) to measure brain activity and employing AI algorithms to analyze the data. The company aims to provide clinicians with objective and personalized tools for mental health assessment and treatment."
+}

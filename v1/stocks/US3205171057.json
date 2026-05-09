@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000G8PV53",
+    "cusip": "320517105",
+    "figi": "BBG000G8PZX3",
+    "isin": "US3205171057"
+  },
+  "industry_group": "Banks",
+  "isin": "US3205171057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FT2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FT2.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FT2.DU"
+    }
+  ],
+  "name": "FIRST HORIZON  DL-,625",
+  "primary_symbol": "FT2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "First Horizon Corporation is a financial services company offering a range of banking services. The company provides commercial, retail, and investment services to individuals and businesses. First Horizon is headquartered in Memphis, Tennessee"
+}

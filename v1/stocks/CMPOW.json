@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CMPOW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CompoSecure Inc. Warrant",
+  "primary_symbol": "CMPOW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "CompoSecure Inc. Warrant represents the right to purchase shares of CompoSecure Inc. common stock at a specified price within a specified period. Warrants are often issued as part of a unit offering or as compensation. The terms of the warrant are outlined in the warrant agreement."
+}

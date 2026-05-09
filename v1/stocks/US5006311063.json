@@ -1,0 +1,64 @@
+{
+  "country": "Korea, Republic of",
+  "country_code": "KR",
+  "identifiers": {
+    "composite_figi": "BBG000BCWG90",
+    "cusip": "500631106",
+    "figi": "BBG000BCWJG6",
+    "isin": "US5006311063"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "US5006311063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KEP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOP.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KO9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KOP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KOP.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Korea Electric Power Corporation",
+  "primary_symbol": "KEP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Korea Electric Power Corporation, an integrated electric utility company, generates, transmits, and distributes electricity in South Korea and internationally. The company operates through Transmission and Distribution, Electric Power Generation (Nuclear), Electric Power Generation (Non-nuclear), Plant Maintenance & Engineering Service, and Others segments. It generates power from nuclear, coal, oil, liquefied natural gas, internal combustion, combined-cycle, integrated gasification combined cycle, hydro, wind, solar, fuel cell, biogas, and other sources. As of December 31, 2020, the company had a total of 697 generation units, including nuclear, thermal, hydroelectric, and internal combustion units with an installed generation capacity of 83,854 megawatts. Its transmission system consisted of 34,664 circuit kilometers of lines of 765 kilovolts and others, including high-voltage direct current lines, as well as 877 substations with an installed transformer capacity of 336,926 megavolt-amperes; and distribution system included 129,789 megavolt-amperes of transformer capacity and 9,787,967 units of support with a total line length of 514,779 circuit kilometers. The company provides electricity to residential, commercial, educational, industrial, agricultural, street lighting, and overnight power usage. It also offers fly ashes recycling, utility plant maintenance and engineering, resources development, electric power information technology, facility maintenance, electric meter reading, security, information, and communication line leasing services, as well as sells nuclear fuel. Korea Electric Power Corporation was founded in 1961 and is headquartered in Naju-si, South Korea.",
+  "website": "http://home.kepco.co.kr"
+}

@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C0ZCX4",
+    "cusip": "452521107",
+    "figi": "BBG000C0ZRY0",
+    "isin": "US4525211078"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US4525211078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMMR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMV"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IMV.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5IV1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IMV.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IMV.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "IMV.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Immersion Corporation",
+  "primary_symbol": "IMMR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Immersion Corporation, together with its subsidiaries, creates, designs, develops, and licenses haptic technologies that allow people to use their sense of touch to engage with and experience various digital products in North America, Europe, and Asia. The company provides technology, patent, and combined licenses. It also provides software development kits (SDKs) comprising tools, integration software, and effect libraries that allow for the design, encoding, and playback of tactile effects in content. In addition, the company offers reference designs and SDKs; and licenses its patents to implement the licensed software to customers. Further, the company offers engineering and integration services, design kits for actuators, mounting suggestions, controller boards, software libraries, programming examples, and documentation. The company offers its products to mobile communications, wearables, and consumer electronics; console and PC gaming; automotive; and medical markets. Immersion Corporation was incorporated in 1993 and is based in San Francisco, California.",
+  "website": "http://www.immersion.com"
+}

@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BVR730",
+    "figi": "BBG000BVR9L6",
+    "isin": "AU000000NCM7"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000NCM7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NMA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NMA.SG"
+    }
+  ],
+  "name": "NEWCREST MNG LTD",
+  "primary_symbol": "NMA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NEWCREST MINING LTD. Registered is an Australian gold mining company. It explores for, develops, and operates gold and copper mines. Newcrest Mining has operations in Australia, Canada, and Papua New Guinea."
+}

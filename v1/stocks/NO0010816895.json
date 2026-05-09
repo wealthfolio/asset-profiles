@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00PH844N0",
+    "figi": "BBG00PH844P8",
+    "isin": "NO0010816895"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "NO0010816895",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3SX.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "OKEA.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "OKEA ASA",
+  "primary_symbol": "3SX.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "OKEA ASA, an oil and gas company, engages in the development and production of oil and gas in the Norwegian continental shelf. It holds interests 44.56% in Draugen, 12% in Gj√É¬∏a, and 0.55% in Ivar Aasen licenses. The company also has 18 exploration licenses with prospects being evaluated for drilling. The company was incorporated in 2015 and is headquartered in Trondheim, Norway.",
+  "website": "http://okea.no"
+}

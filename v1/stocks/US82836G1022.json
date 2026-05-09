@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00V1KTJL9",
+    "cusip": "82836G102",
+    "figi": "BBG00V1KTJR3",
+    "isin": "US82836G1022"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US82836G1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "19W.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SBOW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "19W.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SilverBow Resources, Inc.",
+  "primary_symbol": "19W.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SilverBow Resources, Inc., an oil and gas company, acquires and develops assets in the Eagle Ford shale located in South Texas. As of December 31, 2020, it had proved reserves of 1,106 billion cubic feet of natural gas equivalent. The company was formerly known as Swift Energy Company and changed its name to SilverBow Resources, Inc. in May 2017. SilverBow Resources, Inc. was founded in 1979 and is headquartered in Houston, Texas.",
+  "website": "http://www.sbow.com"
+}

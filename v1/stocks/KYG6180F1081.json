@@ -1,0 +1,43 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00Y6S30H5",
+    "figi": "BBG00Y6S30N8",
+    "isin": "KYG6180F1081"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "KYG6180F1081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MIF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MNSO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MNSON.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MINISO Group Holding Limited",
+  "primary_symbol": "MIF.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "MINISO Group Holding Limited, an investment holding company, engages in the retail and wholesale of lifestyle products in China, Asia, the Americas, and Europe. The company offers products in various categories, including home decor products, small electronics, textiles, accessories, beauty tools, toys, cosmetics, personal care products, snacks, fragrances and perfumes, and stationeries and gifts under the MINISO and WonderLife brand names. As of June 30, 2020, it operated a network of approximately 4,200 MINISO stores, as well as online sales channels. The company was founded in 2013 and is based in Guangzhou, China.",
+  "website": "http://www.miniso.com"
+}

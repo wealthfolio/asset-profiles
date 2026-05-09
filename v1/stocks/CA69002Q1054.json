@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA69002Q1054"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA69002Q1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRG1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MRG1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OCGSF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MRG.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MRG1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MRG1.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "OCG.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Outcrop Gold Corp.",
+  "primary_symbol": "MRG1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Outcrop Gold Corp. engages in the acquisition and exploration of mineral properties in Colombia. It primarily explores for gold, silver, and copper deposits. The company's flagship property is the Santa Ana project covering an area of approximately 25,000 hectares located in northern Tolima Department, Colombia. The company was formerly known as Miranda Gold Corp. and changed its name to Outcrop Gold Corp. in February 2019. Outcrop Gold Corp. was founded in 1993 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.outcropgoldcorp.com"
+}

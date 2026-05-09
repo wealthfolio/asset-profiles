@@ -1,0 +1,72 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "cusip": "459348108",
+    "isin": "US4593481082"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US4593481082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BABWF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ICAGY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INR.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INRA.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "IAG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "IAG.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "IAG.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "INR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "INRA.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "International Consolidated Airlines Group, S.A.",
+  "primary_symbol": "BABWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "International Consolidated Airlines Group, S.A., together with its subsidiaries, engages in the provision of passenger and cargo transportation services in the United Kingdom, Spain, Ireland, the United States, and rest of the world. The company operates under the British Airways, Iberia, Vueling, Aer Lingus, and LEVEL brands. It operates a fleet of 533 aircraft flying to 279 destinations. International Consolidated Airlines Group, S.A., was incorporated in 2009 and is based in Madrid, Spain.",
+  "website": "http://www.iairgroup.com"
+}

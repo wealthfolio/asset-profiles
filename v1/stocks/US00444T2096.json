@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "00444T209",
+    "isin": "US00444T2096"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00444T2096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "R5X.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AcelRx Pharmaceuticals, Inc.",
+  "primary_symbol": "ACRX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "AcelRx Pharmaceuticals, Inc., a specialty pharmaceutical company, focuses on the development and commercialization of therapies for the treatment of acute pain. The company's lead product candidate is DSUVIA, a 30 mcg sufentanil sublingual tablet for the treatment of moderate-to-severe acute pain. It also develops ZALVISO, a pre-programmed and patient-controlled analgesia system that allows hospital patients with moderate-to-severe acute pain to self-dose with sufentanil sublingual tablets to manage their pain. The company was formerly known as SuRx, Inc. and changed its name to AcelRx Pharmaceuticals, Inc. in August 2006. AcelRx Pharmaceuticals, Inc. was founded in 2005 and is headquartered in Redwood City, California.",
+  "website": "http://www.acelrx.com"
+}

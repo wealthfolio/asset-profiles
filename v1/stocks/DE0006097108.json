@@ -1,0 +1,53 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BH1TJ4",
+    "figi": "BBG000BH1Y94",
+    "isin": "DE0006097108"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "DE0006097108",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IFS.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IFS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IFS.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IFS.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "INFAS HLDG AG  O.N.",
+  "primary_symbol": "IFS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Infas Holding AG, through its subsidiaries, provides market and social research services. It is involved in the sampling, data collection and processing, analysis, and implementation advisory services; and provides IT solutions in geo marketing. The company offers its research services primarily in education, labor market, family research, health, mobility, regional research, and other areas. Infas Holding AG was founded in 1959 and is based in Bonn, Germany.",
+  "website": "http://www.infas-holding.de"
+}

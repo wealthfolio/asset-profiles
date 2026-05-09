@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00VW52V49",
+    "cusip": "44891N208",
+    "figi": "BBG00VW52VB1",
+    "isin": "US44891N2080"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "US44891N2080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4LRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4LRA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IAC"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "4LRA.DU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "I1AC34.SA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "IAC INTERACTIVEC.DL-,0001",
+  "primary_symbol": "4LRA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "IAC/InterActiveCorp is a media and internet company that owns and operates various digital brands and businesses. The company's portfolio includes brands in categories such as dating, home services, and media. IAC is headquartered in New York, New York.",
+  "website": "http://www.iac.com"
+}

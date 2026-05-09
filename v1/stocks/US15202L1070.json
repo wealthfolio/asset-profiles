@@ -1,0 +1,42 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "15202L107",
+    "isin": "US15202L1070"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "US15202L1070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSR.HM"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CSR.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "CSR.BK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CSR LTD",
+  "primary_symbol": "CSR.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "CSR Limited is an Australian construction materials company that manufactures and supplies products such as cement, concrete, aggregates, and plasterboard. The company operates primarily in Australia and New Zealand. CSR Limited is headquartered in Sydney, Australia.",
+  "website": "http://www.csr.com.au"
+}

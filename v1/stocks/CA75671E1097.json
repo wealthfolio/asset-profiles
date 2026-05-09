@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00VDG0T34",
+    "figi": "BBG00VDG0T98",
+    "isin": "CA75671E1097"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA75671E1097",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4YX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4YX.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRUFF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4YX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA75671E1097.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TRIP.CN"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Red Light Holland Corp.",
+  "primary_symbol": "4YX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Red Light Holland Corp. engages in the production, cultivation, and sale of magic truffles to the legal recreational market in the Netherlands. It sells its products under the iMicrodose brand name through smart shops operators and an advanced e-commerce platform, iMicrodose.nl. The company was incorporated in 1982 and is based in Toronto, Ontario.",
+  "website": "http://www.redlighttruffles.com"
+}

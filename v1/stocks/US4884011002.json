@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000H3GDJ8",
+    "cusip": "488401100",
+    "figi": "BBG000H3HJ95",
+    "isin": "US4884011002"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US4884011002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KMPR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UI2.MU"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "KMPR34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "UI2.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Kemper Corporation",
+  "primary_symbol": "KMPR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Kemper Corporation, a diversified insurance holding company, provides property and casualty, and life and health insurance in the United States. The company operates through three segments: Specialty Property & Casualty Insurance, Preferred Property & Casualty Insurance, and Life & Health Insurance. It provides automobile, homeowners, renters, fire, umbrella, general liability, and other types of property and casualty insurance to individuals; and commercial automobile insurance to businesses. The company also offers life insurance, including permanent and term insurance, as well as supplemental accident and health insurance products; and Medicare supplement insurance, fixed hospital indemnity, home health care, specified disease, and accident-only plans to individuals in rural, suburban, and urban areas. The company distributes its products through independent agents and brokers. The company was formerly known as Unitrin, Inc. and changed its name to Kemper Corporation in August 2011. Kemper Corporation was founded in 1990 and is headquartered in Chicago, Illinois.",
+  "website": "http://www.kemper.com"
+}

@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GCBQM1",
+    "cusip": "989701107",
+    "figi": "BBG000GCCYJ7",
+    "isin": "US9897011071"
+  },
+  "industry_group": "Banks",
+  "isin": "US9897011071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZB1.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZB1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZB1.SG"
+    }
+  ],
+  "name": "ZIONS BANCORPORATION N.A.",
+  "primary_symbol": "ZB1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Zions Bancorporation, N.A. is a bank holding company that provides a range of financial products and services. The company's offerings include commercial banking, retail banking, and wealth management services. Zions Bancorporation is headquartered in Salt Lake City, Utah."
+}

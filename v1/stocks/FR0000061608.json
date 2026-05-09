@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000LWYBG6",
+    "figi": "BBG000LWYHB8",
+    "isin": "FR0000061608"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "FR0000061608",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DJX.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALPDX.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DJX.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PISCINES DESJO.INH.EO",
+  "primary_symbol": "DJX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Piscines Desjoyaux SA designs, manufactures, and markets swimming pools and its derivatives. It also constructs public pools, paving, and swimming pool edges, as well as pool-related equipment, such as solar covers, showers, safety barriers, cover rollers, etc. In addition, the company manages properties. Piscines Desjoyaux SA was founded in 1966 and is based in La Fouillouse, France. Piscines Desjoyaux SA is a subsidiary of Desjoyaux Finance SAS.",
+  "website": "http://www.desjoyaux.com"
+}

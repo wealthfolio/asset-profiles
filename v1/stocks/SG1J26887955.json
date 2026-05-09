@@ -1,0 +1,53 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000CXGK10",
+    "figi": "BBG000CXGPN5",
+    "isin": "SG1J26887955"
+  },
+  "industry": "IT Services",
+  "industry_group": "Diversified Financials",
+  "isin": "SG1J26887955",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOU.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SOU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SOU.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SOU.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SINGAPORE EXCHANGE SD-,01",
+  "primary_symbol": "SOU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "SINGAPORE EXCHANGE SD-,01 is the holding company for Singapore Exchange (SGX), which operates securities and derivatives markets. SGX also provides listing, trading, clearing, settlement, and depository services. The company is headquartered in Singapore.",
+  "website": "http://www.sourcesense.com"
+}

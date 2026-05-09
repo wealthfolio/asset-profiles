@@ -1,0 +1,68 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000C3BS14",
+    "figi": "BBG000C3BVV4",
+    "isin": "DE0005209589"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Software & Services",
+  "isin": "DE0005209589",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A6T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A6T.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A6T.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A6T.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "A6T.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "A6T.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A6T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A6T.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ARTEC TECHNOLOGIES O.N.",
+  "primary_symbol": "A6T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Artec Technologies AG is a German company that develops and markets software and hardware solutions for capturing, analyzing, and managing multimedia data, particularly in the fields of audio and video surveillance. The company's products are used for security, monitoring, and intelligence purposes. Artec Technologies is headquartered in Diepholz, Germany.",
+  "website": "http://www.artec.de"
+}

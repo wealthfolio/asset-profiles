@@ -1,0 +1,48 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG0045X2TH9",
+    "figi": "BBG0045X2TP0",
+    "isin": "PLARTPR00012"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "PLARTPR00012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A0P.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A0P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "A0P.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "ARP.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ARCTIC PAPER SA  ZY 1",
+  "primary_symbol": "A0P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Arctic Paper S.A. is a European paper manufacturer specializing in high-quality graphic papers. The company produces coated and uncoated fine papers used for printing applications such as books, magazines, and advertising materials. Arctic Paper S.A. is headquartered in Kostrzyn nad Odrą, Poland.",
+  "website": "http://www.arcticpaper.com"
+}

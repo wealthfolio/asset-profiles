@@ -1,0 +1,63 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000D11ZQ5",
+    "figi": "BBG000D123G6",
+    "isin": "AU000000CLA6"
+  },
+  "industry": "Software",
+  "industry_group": "Materials",
+  "isin": "AU000000CLA6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FX8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FX8.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CER.L"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CLA.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "CLAL.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FX8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FX8.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CELSIUS RESOURCES LTD.",
+  "primary_symbol": "FX8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Celsius Resources Limited is an Australian-based resources company focused on the exploration and development of mineral projects. The company's primary focus is on copper and gold projects. Celsius Resources is based in Perth, Australia.",
+  "website": "http://www.cerillion.com"
+}

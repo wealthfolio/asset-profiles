@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "isin": "XS2297550217"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "XS2297550217",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PYP3.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "PYP3.PA"
+    }
+  ],
+  "name": "Leverage Shares 3x PayPal ETP",
+  "primary_symbol": "PYP3.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Leverage Shares 3x PayPal ETP is an exchange-traded product designed to provide three times the daily performance of PayPal Holdings Inc. This ETP uses leverage to amplify returns (and losses) based on the underlying asset, PayPal, and is managed by Leverage Shares."
+}

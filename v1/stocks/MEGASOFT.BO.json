@@ -1,0 +1,25 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "MEGASOFT.BO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Megasoft Limited",
+  "primary_symbol": "MEGASOFT.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Megasoft Limited provides IT services and solutions, including application development, infrastructure management, and consulting. The company caters to various industries. Megasoft is based in India."
+}

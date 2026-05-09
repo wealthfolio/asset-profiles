@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA69002L1067"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA69002L1067",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OZBKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA69002L1067.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "OZ.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S600.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Outback Goldfields Corp.",
+  "primary_symbol": "OZBKF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Outback Goldfields Corp. engages in the acquisition and exploration of gold properties in Canada. It holds interests in a package of gold projects located around the Fosterville gold mine in Victoria, Australia. The company was formerly known as Skarb Exploration Corp. and changed its name to Outback Goldfields Corp. in December 2020. Outback Goldfields Corp. was founded in 2018 and is based in Vancouver, Canada.",
+  "website": "http://outbackgoldfields.com"
+}

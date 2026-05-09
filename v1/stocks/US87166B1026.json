@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG008HKB1W9",
+    "cusip": "87166B102",
+    "figi": "BBG008HKB211",
+    "isin": "US87166B1026"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US87166B1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8IN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYNH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8IN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US87166B1026.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SYNEOS HEALTH A  DL-,01",
+  "primary_symbol": "8IN.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SYNEOS HEALTH A  DL-,01: Syneos Health, Inc. is a fully integrated biopharmaceutical solutions organization, offering clinical development and commercialization services. They provide services to pharmaceutical, biotechnology, and medical device companies. Syneos Health is headquartered in Morrisville, North Carolina.",
+  "website": "http://www.syneoshealth.com"
+}

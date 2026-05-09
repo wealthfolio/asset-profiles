@@ -1,0 +1,76 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "JP3183200009"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "JP3183200009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JPXGY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSCUF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSK"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSK.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KDI.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OK3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OSK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OSK.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OSKU.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Japan Exchange Group, Inc.",
+  "primary_symbol": "JPXGY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Japan Exchange Group, Inc. provides and operates markets for exchange-traded financial instruments in Japan. The company offers market facilities for securities, securities index futures, and securities options trading, as well as financial instruments obligation assumption services; and publicizes market quotations and facilitates fairness of securities trading. It is also involved in self-regulatory operations, including listing examination, listed company compliance, market surveillance, and examination and inspection of participants. In addition, the company offers clearing and settlement services through a central counterparty, as well as information services. Japan Exchange Group, Inc. was founded in 1949 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.jpx.co.jp"
+}

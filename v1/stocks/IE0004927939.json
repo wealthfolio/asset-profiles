@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BQ4L62",
+    "figi": "BBG002S5DQG4",
+    "isin": "IE0004927939"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "IE0004927939",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRX.MU"
+    }
+  ],
+  "name": "KINGSPAN GRP PLC  EO-,13",
+  "primary_symbol": "KRX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Kingspan Group plc is a global leader in high-performance insulation and building envelope solutions. The company manufactures and supplies insulation, building fabric, and related products for the construction industry. The company is headquartered in Kingscourt, Ireland."
+}

@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000BJ8676",
+    "figi": "BBG000BJ89Z9",
+    "isin": "GB00BV9FP302"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "GB00BV9FP302",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COUD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COUD.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CCC.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "CCC.ST"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "CCCL.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "CCCL.NS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "COUD.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "COUD.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "COMPUTACENTER  LS-,075555",
+  "primary_symbol": "COUD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Computacenter plc is an IT service provider offering services such as consulting, cloud services, and infrastructure support. The company works with clients in both the private and public sectors. Computacenter is headquartered in Hatfield, UK.",
+  "website": "http://www.computacenter.com"
+}

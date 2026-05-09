@@ -1,0 +1,49 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00ZTZ8JX7",
+    "cusip": "680710100",
+    "figi": "BBG00ZTZ8K28",
+    "isin": "US6807101000"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US6807101000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6XA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OLK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6XA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6XA.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "OLINK HOLDING AB SP.ADS/1",
+  "primary_symbol": "6XA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Olink Holding AB develops, manufactures, and sells a range of products and services for human protein biomarker discovery. The company offers solutions to help researchers and clinicians gain insights into real-time human biology by providing comprehensive protein biomarker data. Olink Holding AB is headquartered in Uppsala, Sweden.",
+  "website": "http://www.olink.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00YCP47L3",
+    "figi": "BBG00YCP47R7",
+    "isin": "LU2263803020"
+  },
+  "industry": "Interactive Media & Services",
+  "industry_group": "Media & Entertainment",
+  "isin": "LU2263803020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N9G.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NGMS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "N9G.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N9G.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NeoGames S.A.",
+  "primary_symbol": "N9G.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "NeoGames S.A. provides a suite of iLottery technology solutions worldwide. The company offers various technology platforms, a range of value-added services, and a game studio that provides a portfolio of draw based games and instant tickets through personal computers, smartphones, and handheld devices. It also develops and operates online lotteries and games that allows lottery operators to distribute lottery products through online sales channels using the company's technology. In addition, the company offers software development and platforms sub-licensing services; and regulation and compliance, payment processing, risk management, player relationship management, and player value optimization services. NeoGames S.A. was incorporated on 2014 and is headquartered in Tel Aviv, Israel.",
+  "website": "http://neogames.com"
+}

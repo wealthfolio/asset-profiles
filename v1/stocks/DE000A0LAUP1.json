@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000NG4X83",
+    "figi": "BBG000NG50Y5",
+    "isin": "DE000A0LAUP1"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "DE000A0LAUP1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE2.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE2.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE2.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0DXG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CE2.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CE2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CE2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CE2.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CROPENERGIES AG",
+  "primary_symbol": "CE2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "CropEnergies AG is a German company that produces renewable ethanol for fuel and other applications. They use sustainable raw materials to produce ethanol for the fuel sector as well as for use in the food, beverage, and cosmetics industries. CropEnergies is headquartered in Mannheim, Germany.",
+  "website": "http://www.cropenergies.com"
+}

@@ -1,0 +1,74 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000J9QXG1",
+    "cusip": "84265V105",
+    "figi": "BBG000J9R1L4",
+    "isin": "US84265V1052"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US84265V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PCU.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SCCO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PCU.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PCU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PCU.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "SCCO.BA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "SCCO.JK"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "SCCO.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SOUTHERN COPPER  DL-,01",
+  "primary_symbol": "PCU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Southern Copper Corporation is a copper mining company that produces copper, molybdenum, zinc, lead, and silver. The company operates mines and smelters in Peru and Mexico. The company is headquartered in Phoenix, Arizona.",
+  "website": "http://www.southerncoppercorp.com"
+}

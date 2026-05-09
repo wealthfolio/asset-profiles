@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000D28412",
+    "figi": "BBG000D286C5",
+    "isin": "DE000A168205"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A168205",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SVE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SVE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SVE.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SVE.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SVE.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SVE.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SVE.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SHAREHOLD.VAL.BET.NA O.N.",
+  "primary_symbol": "SVE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Shareholder Value Beteiligungen AG is a publicly owned investment manager. The firm provides its services to Institutional and private investors. It also manages various funds. The firm invests in europe-wide small cap stocks markets of German-speaking region. Shareholder Value Beteiligungen AG was founded in 1999 and is based in Frankfurt, Germany.",
+  "website": "http://www.shareholdervalue.de"
+}

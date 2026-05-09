@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG001CSBBW0",
+    "figi": "BBG001CSBC03",
+    "isin": "ES0114820113"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "ES0114820113",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VOC"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VON.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VON.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0KDD.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "VOC.MC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VON.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "VOC Energy Trust",
+  "primary_symbol": "VOC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "VOC Energy Trust acquires and holds a term net profits interest of the net proceeds from production and sale of the interests in oil and natural gas properties in the states of Kansas and Texas. The company has an 80% term net profits interest of the net proceeds on the underlying properties. As of December 31, 2020, its underlying properties had interests in 470.3 net producing wells and 84,332 net acres; and had proved reserves of approximately 3.1 million barrels of oil equivalent (MMBoe) attributable to the portion of the Kansas underlying properties, and approximately 3.1 MMBoe attributable to the Texas underlying properties. VOC Energy Trust was incorporated in 2010 and is based in Houston, Texas.",
+  "website": "http://www.vocento.com"
+}

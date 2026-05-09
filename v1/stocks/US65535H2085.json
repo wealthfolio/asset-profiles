@@ -1,0 +1,57 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "65535H208",
+    "isin": "US65535H2085"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Banks",
+  "isin": "US65535H2085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NMR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSEA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSEA.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NMR.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NMR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NSEA.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NOVA MEASURING INSTR.LTD.",
+  "primary_symbol": "NMR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "NOMURA HLDGS ADR/1 O.N. represents American Depositary Receipts for Nomura Holdings, a global financial services group. Nomura offers investment banking, securities, and investment management services to clients worldwide from its headquarters in Tokyo.",
+  "website": "http://nmresources.com.au"
+}

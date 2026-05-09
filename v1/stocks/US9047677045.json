@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R734B0",
+    "cusip": "904767704",
+    "figi": "BBG000R736R8",
+    "isin": "US9047677045"
+  },
+  "industry_group": "Household & Personal Products",
+  "isin": "US9047677045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNVA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNVA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UNVA.DU"
+    }
+  ],
+  "name": "UNILEVER ADR/1 LS-,031111",
+  "primary_symbol": "UNVA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "UNILEVER ADR/1 LS-,031111 represents American Depositary Receipts (ADRs) for Unilever, a global consumer goods company. Unilever manufactures and sells a wide range of products in food, home care, beauty, and personal care categories. The company's headquarters are in London, UK and Rotterdam, Netherlands."
+}

@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GP9J05",
+    "cusip": "969904101",
+    "figi": "BBG000GP9M35",
+    "isin": "US9699041011"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US9699041011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WM1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WM1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WM1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WM1.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "WSM.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "WILLIAMS-SONOMA INC.DL-01",
+  "primary_symbol": "WM1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Williams-Sonoma Inc. is a specialty retailer of home furnishings and cookware. The company operates retail stores and e-commerce websites under brands such as Williams Sonoma, Pottery Barn, and West Elm. Williams-Sonoma Inc. is headquartered in San Francisco, California.",
+  "website": "http://www.williams-sonomainc.com"
+}

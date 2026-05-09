@@ -1,0 +1,48 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRH9S6",
+    "figi": "BBG00ZHRH9Y9",
+    "isin": "PLLVTSF00010"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "PLLVTSF00010",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "886.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QTE.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "886.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLLVTSF00010.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LIVECHAT SOFTW.A,B ZY-,02",
+  "primary_symbol": "886.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LiveChat Software S.A. is a Polish company that develops and provides live chat and help desk software for businesses. Their platform allows businesses to communicate with customers in real-time through their websites. The company is headquartered in Wroclaw, Poland.",
+  "website": "http://investor.livechatinc.com"
+}

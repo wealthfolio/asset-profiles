@@ -1,0 +1,26 @@
+{
+  "identifiers": {
+    "isin": "IE00BKT66K01"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "IE00BKT66K01",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MU2.L"
+    }
+  ],
+  "name": "Leverage Shares 2x Micron Technology ETC",
+  "primary_symbol": "MU2.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "This is an Exchange Traded Commodity (ETC) that provides leveraged exposure to the daily performance of Micron Technology shares. Leverage Shares provides investors with a way to magnify returns, but also magnifies risk. The headquarters are in London."
+}

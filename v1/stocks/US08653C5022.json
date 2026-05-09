@@ -1,0 +1,44 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00H1H9511",
+    "cusip": "08653C502",
+    "figi": "BBG00H1H9548",
+    "isin": "US08653C5022"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "US08653C5022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEST"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "BEST.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BEST.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BEST Inc.",
+  "primary_symbol": "BEST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BEST Inc. operates as a smart supply chain service provider in the People's Republic of China. Its proprietary technology platform BEST Cloud enables its ecosystem participants to operate their businesses through various SaaS-based applications. The company applies its technologies to a range of applications, such as network and route optimization, swap bodies, sorting line automation, smart warehouses, and store management. It offers integrated services and solutions across the supply chain, including warehouse management, order fulfillment, express delivery, freight, and other services for multinational and corporate customers, as well as small and medium enterprises. The company also provides express delivery services; and door-to-door integrated cross-border supply chain services to and from China, including international express, less-than-truckload, fulfillment, and freight forwarding through its network, and transportation and warehouse partners. In addition, it operates real-time bidding platform to source truckload capacity from independent transportation service providers and agents; and offers online merchandise sourcing and store management services for convenience stores, as well as B2C services, such as parcel pick-up and drop-off, and bill payment services. Further, BEST Inc. provides various value-added services, including customized financial services, including fleet and equipment leases; and centralized sourcing of products and services, such as bulk procurement of trucks and accessories. The company was founded in 2007 and is headquartered in Hangzhou, the People's Republic of China.",
+  "website": "http://www.best-inc.com"
+}

@@ -1,0 +1,55 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "isin": "PLPEKAO00016"
+  },
+  "industry_group": "Banks",
+  "isin": "PLPEKAO00016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0DP0.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKPKF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BP1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BP1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BP1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BP1.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "BANK POLSKA KASA OPIEKI SA BANK",
+  "primary_symbol": "0DP0.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BANK POLSKA KASA OPIEKI SA BANK is a Polish bank that offers a range of financial services to individuals and businesses. The bank provides retail and corporate banking products, including loans, deposits, and investment services, with headquarters in Warsaw, Poland.",
+  "website": "http://www.pekao.com.pl"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00WHNGL15",
+    "figi": "BBG00WHNGL60",
+    "isin": "GB00BF8J3Z99"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "GB00BF8J3Z99",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5I4.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BKKVF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5I4.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BAKK.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BF8J3Z99.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BAKKAVOR GRP PLC LS -,1",
+  "primary_symbol": "5I4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Bakkavor Group plc is a leading international food manufacturing company specializing in fresh prepared foods. The company's products include ready meals, salads, desserts, and pizzas, supplied to major retailers. Bakkavor is headquartered in London, United Kingdom.",
+  "website": "http://www.bakkavor.com"
+}

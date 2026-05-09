@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "09075P105",
+    "isin": "US09075P1057"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US09075P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BTAI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BX2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BX2.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BX2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BX2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US09075P1057.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BioXcel Therapeutics, Inc.",
+  "primary_symbol": "BTAI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BioXcel Therapeutics, Inc., a clinical stage biopharmaceutical company, focuses on artificial intelligence-based drug development in the fields of neuroscience and immuno-oncology in the United States. The company is involved in developing BXCL501, a sublingual thin film formulation of adrenergic receptor agonist dexmedetomidine for the treatment of agitation resulting from neurological and psychiatric disorders; and BXCL701, an immune activator for the treatment of prostate and pancreatic cancers, and solid tumors. BioXcel Therapeutics, Inc. has a collaboration with collaboration with the VA Connecticut Healthcare System and the Yale University Medical School for patients suffering from post-traumatic stress disorder related to alcohol and substance abuse disorder. The company was incorporated in 2017 and is headquartered in New Haven, Connecticut.",
+  "website": "http://www.bioxceltherapeutics.com"
+}

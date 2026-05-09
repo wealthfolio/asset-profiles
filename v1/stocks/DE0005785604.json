@@ -1,0 +1,83 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000BS3BJ7",
+    "figi": "BBG000BS3DH5",
+    "isin": "DE0005785604"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "DE0005785604",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRE.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRE.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRE.TI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FRE.DU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "FRE.NZ"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FREN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FREN.F"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "FREN.JK"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FREN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FRESENIUS SE+CO.KGAA O.N.",
+  "primary_symbol": "FRE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "FRESENIUS SE+CO.KGAA O.N. is a global healthcare group offering products and services for dialysis, hospitals, and outpatient medical care. The company operates through four business segments: Fresenius Medical Care, Fresenius Kabi, Fresenius Helios, and Fresenius Vamed. FRESENIUS SE+CO.KGAA is headquartered in Bad Homburg, Germany.",
+  "website": "http://www.freightways.co.nz"
+}

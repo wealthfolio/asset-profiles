@@ -1,0 +1,27 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GSL-PB"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Global Ship Lease, Inc.",
+  "primary_symbol": "GSL-PB",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Global Ship Lease, Inc. owns and charters containerships of various sizes under fixed-rate charters to container shipping companies. As of March 10, 2021, it owned 43 mid-sized and smaller containerships with an aggregate capacity of 245,280 twenty-foot equivalent units. The company is based in London, the United Kingdom.",
+  "website": "http://www.globalshiplease.com"
+}

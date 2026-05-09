@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0010296061"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "FR0010296061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTUR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTUR.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USAP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USAU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DTUR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DTUR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "US6.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "U.S. Gold Corp.",
+  "primary_symbol": "DTUR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "U.S. Gold Corp. focuses gold exploration and development company. It holds interest in the CK Gold Project located in Southeast Wyoming. The company also has internets in the Keystone and Maggie Creek exploration properties located on the Cortez and Carlin Trends in Nevada, as well as the Challis Gold Project located in Idaho. The company is based in Elko, Nevada.",
+  "website": "http://www.usgoldcorp.gold"
+}

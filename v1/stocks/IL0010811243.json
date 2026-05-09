@@ -1,0 +1,58 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG000C3Q5D5",
+    "figi": "BBG000C3Q885",
+    "isin": "IL0010811243"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "IL0010811243",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EB2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EB2.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESLT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ESLT.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EB2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EB2.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ELBIT SYS LTD",
+  "primary_symbol": "EB2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Elbit Systems Ltd. is an Israeli defense electronics company engaged in a wide range of programs throughout the world. The company develops and supplies airborne, land and naval systems, command, control, communications, computers, intelligence, surveillance and reconnaissance (C4ISR), unmanned aircraft systems (UAS), advanced electro-optics, electro-optic space systems, electronic warfare suites, signal intelligence (SIGINT) systems, data links and communications systems and radios.",
+  "website": "http://elbitsystems.com"
+}

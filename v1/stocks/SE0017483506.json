@@ -1,0 +1,36 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0017483506"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "SE0017483506",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0RP5.IL"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "INSTAL.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INSTALCO INTRESSENTER AB INSTAL",
+  "primary_symbol": "0RP5.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "INSTALCO INTRESSENTER AB is a Swedish installation company that provides technical installations and services in the areas of heating, plumbing, ventilation, electrical, and security. The company operates through a decentralized model, acquiring and developing local installation businesses. INSTALCO INTRESSENTER AB is headquartered in Stockholm, Sweden.",
+  "website": "http://instalco.se"
+}

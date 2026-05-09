@@ -1,0 +1,46 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "DE000A1DAHH0"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Materials",
+  "isin": "DE000A1DAHH0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MPT.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BNR"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BNR.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BNR.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BRENNTAG AG BRENNTAG ORD SHS",
+  "primary_symbol": "0MPT.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Brenntag AG is a global chemical distributor. The company distributes industrial and specialty chemicals and provides value-added services to various industries. The company is headquartered in Essen, Germany.",
+  "website": "http://www.brbiotech.com"
+}

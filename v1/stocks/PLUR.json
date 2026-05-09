@@ -1,0 +1,26 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLUR"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Pluri Inc. Common Stock",
+  "primary_symbol": "PLUR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Pluri Inc., formerly Pluri Stemcells Inc., is a biotechnology company focused on cell-based therapeutics. The company is developing cell therapy products for regenerative medicine and other indications using its 3D cell expansion technology. Pluri is headquartered in Haifa, Israel."
+}

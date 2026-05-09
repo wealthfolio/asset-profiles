@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00LTQFGR3",
+    "figi": "BBG00LTQFGX6",
+    "isin": "FR0013230612"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "FR0013230612",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7TI.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RP0.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7TI.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7TI.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "TKO.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TIKEHAU CAP. S.C.A. EO 12",
+  "primary_symbol": "7TI.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Tikehau Capital is a global alternative asset management group. They manage various investment strategies, including private debt, real estate, private equity, and multi-asset solutions. Tikehau Capital provides investment services to institutional and private clients.",
+  "website": "http://www.tikehaucapital.com"
+}

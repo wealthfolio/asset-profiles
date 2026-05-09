@@ -1,0 +1,27 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "WIRTEK.CO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "WirTek A/S",
+  "primary_symbol": "WIRTEK.CO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "WirTek A/S, an IT outsourcing company, provides software solutions and electronic equipment products in Denmark. The company offers software engineering services, such as product engineering, system architecture and design, software development, quality assurance, and product re-engineering services; and electronic equipment services that builds, tests, and integrates embedded systems and devices. WirTek A/S was incorporated in 2001 and is headquartered in Aalborg, Denmark.",
+  "website": "http://www.wirtek.com"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA00791P1071"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA00791P1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AAVVF"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "AAV.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "AAV.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Advantage Energy Ltd.",
+  "primary_symbol": "AAVVF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Advantage Oil & Gas Ltd., together with its subsidiaries, acquires, exploits, develops, and produces crude oil, and natural gas and liquids in the Province of Alberta, Canada. The company focuses on the development and production of its Montney natural gas and liquids resource that includes 216 net sections of land in Glacier, Pipestone/Wembley, Progress, and Valhalla, Alberta. It provides natural gas and natural gas liquids primarily through marketing companies. The company was founded in 2001 and is headquartered in Calgary, Canada.",
+  "website": "http://www.advantageog.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRJCB5",
+    "figi": "BBG00ZHRJCH9",
+    "isin": "PLPLSEP00013"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "PLPLSEP00013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "06Y.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PEP.HA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "06Y.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "POLENERGIA S.A. ZY 2",
+  "primary_symbol": "06Y.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "PepsiCo Inc. is a global food and beverage company that manufactures, markets, and sells a wide range of products, including beverages, snacks, and foods. Its portfolio includes brands like Pepsi-Cola, Frito-Lay, Gatorade, and Quaker. The company is headquartered in Purchase, New York.",
+  "website": "http://www.polenergia.pl"
+}

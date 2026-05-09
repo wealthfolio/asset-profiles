@@ -1,0 +1,56 @@
+{
+  "country": "Turkey",
+  "identifiers": {
+    "cusip": "90010R109",
+    "isin": "US90010R1095"
+  },
+  "industry": "Airlines",
+  "industry_group": "Transportation",
+  "isin": "US90010R1095",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKHVY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TU5A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TU5A.MU"
+    },
+    {
+      "currency": "TRY",
+      "exchange_mic": "XIST",
+      "symbol": "THYAO.IS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TU5A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TU5A.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Turk Hava Yollari Anonim Ortakligi",
+  "primary_symbol": "TKHVY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "T√É¬ºrk Hava Yollari Anonim Ortakligi provides air transport and aircraft technical maintenance services in Turkey and internationally. The company offers domestic and international passenger and cargo air transportation services; and repair and maintenance, and technical and infrastructure support services related to aviation sector, as well as catering, and aviation ground handling services. It is also involved in training, airport operation and investment activities; manufacturing and trading of cabin interior accessories and aircraft seats; and trading of aviation fuel. The company was founded in 1933 and is headquartered in Istanbul, Turkey.",
+  "website": "http://www.turkishairlines.com"
+}

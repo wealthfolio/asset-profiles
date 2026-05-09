@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000R5JTQ6",
+    "cusip": "293306106",
+    "figi": "BBG000R5JXQ7",
+    "isin": "US2933061069"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "US2933061069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4EG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4EG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4EG.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ENGLOBAL  DL-,001",
+  "primary_symbol": "4EG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "EnGlobal Corporation provides engineering, design, and automation services to the energy industry and other sectors. The company offers services like process engineering, automation, and construction management. EnGlobal is headquartered in Houston, Texas.",
+  "website": "http://www.englobal.com"
+}

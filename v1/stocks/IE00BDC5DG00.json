@@ -1,0 +1,53 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG000C40FY6",
+    "figi": "BBG000C40HW4",
+    "isin": "IE00BDC5DG00"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "IE00BDC5DG00",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEVA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JEVA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JEVA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XDUB",
+      "symbol": "KMR.IR"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "KMR.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KENMARE RES PLC  EO-,001",
+  "primary_symbol": "JEVA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Kenmare Resources plc is an Irish mining company that operates the Moma Titanium Minerals Mine in Mozambique. The company extracts and processes heavy mineral sands, producing ilmenite, zircon, and rutile, which are used in various industrial applications. Kenmare Resources is headquartered in Dublin, Ireland.",
+  "website": "http://www.kenmareresources.com"
+}

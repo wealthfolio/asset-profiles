@@ -1,0 +1,31 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "cusip": "30214U102",
+    "isin": "US30214U1025"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US30214U1025",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXPO.TA"
+    }
+  ],
+  "name": "Export Investment Co. Ltd.",
+  "primary_symbol": "EXPO.TA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Export Investment Co. Ltd. operates as the holding company for Bank of Jerusalem that provides various commercial banking products and services in Israel. The company accepts various deposits, such as long-term or short-term deposits, savings plans, and checking accounts. Its loan products include loans, personal loans, foreign currency loans, and mortgages. The company also offers capital market services comprising trading, investment advisory, individual retirement account, and forex. It operates 18 branches. The company was incorporated in 1963 and is based in Tel Aviv, Israel.",
+  "website": "http://www.bankjerusalem.co.il"
+}

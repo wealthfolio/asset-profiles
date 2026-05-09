@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "LU1681039480"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "LU1681039480",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "REAL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6RR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "REAL.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "The RealReal, Inc.",
+  "primary_symbol": "REAL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "The RealReal, Inc. operates an online marketplace for consigned luxury goods. It offers various product categories, including women's, men's, kids', jewelry, and watches, as well as home and art products. The company was founded in 2011 and is headquartered in San Francisco, California.",
+  "website": "http://www.therealreal.com"
+}

@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BZD6K9",
+    "figi": "BBG000BZD9X9",
+    "isin": "DE000A12UP37"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Software & Services",
+  "isin": "DE000A12UP37",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NC5A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NC5A.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NC5A.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QY2.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE000A12UP37.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NC5A.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NC5A.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NC5A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NC5A.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NORCOM INF.TECHN. INH ON",
+  "primary_symbol": "NC5A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NorCom Information Technology GmbH & Co. KGaA provides software and consulting services, primarily focusing on solutions for product data management (PDM) and engineering data management (EDM). The company serves customers in industries such as automotive, aerospace, and manufacturing. It is based in Munich, Germany.",
+  "website": "http://www.norcom.de"
+}

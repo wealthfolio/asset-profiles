@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00Y1SQLL4",
+    "figi": "BBG00Y1SQLS7",
+    "isin": "SE0014808838"
+  },
+  "industry": "Paper & Forest Products",
+  "industry_group": "Materials",
+  "isin": "SE0014808838",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPH.BE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "NPAPER.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NPH.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NORDIC PAPER HOLDING AB",
+  "primary_symbol": "NPH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NORDIC PAPER HOLDING AB is a specialty paper manufacturer based in Sweden, producing kraft paper and natural greaseproof paper for various applications including food packaging and industrial use. The company focuses on sustainable paper production with a strong emphasis on environmental responsibility. Its headquarters are located in Sweden.",
+  "website": "http://www.nordic-paper.com"
+}

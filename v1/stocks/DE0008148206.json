@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000D54YD0",
+    "figi": "BBG000D563B8",
+    "isin": "DE0008148206"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "DE0008148206",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBK.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MBK.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "MBK.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "MBK.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MBK.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MERKUR PRIV.BK INH O.N.",
+  "primary_symbol": "MBK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Metal Bank Limited engages in the exploration and development of mineral properties. Its key projects are the 8 Mile, Eidsvold, and Triumph gold projects situated in the northern New England Fold Belt of central Queensland. The company was incorporated in 2007 and is based in Sydney, Australia.",
+  "website": "http://www.metalbank.com.au"
+}

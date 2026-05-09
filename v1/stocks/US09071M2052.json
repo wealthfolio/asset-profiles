@@ -1,0 +1,52 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "cusip": "09071M205",
+    "isin": "US09071M2052"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US09071M2052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLRX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BLRX.TA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YP2A.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YP2A.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YP2A.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BioLineRx Ltd.",
+  "primary_symbol": "BLRX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BioLineRx Ltd., a clinical-stage biopharmaceutical development company, focuses on oncology. Its development pipeline consists of clinical-stage therapeutic candidates, which include BL-8040, a peptide for the treatment of solid tumors, hematological malignancies, and stem cell mobilization; AGI-134, an immuno-oncology agent in the development for solid tumors; and BL-5010, a customized, proprietary, pen-like applicator for the non-surgical removal of skin lesions. The company has collaboration agreement with MSD for the cancer immunotherapy field; MD Anderson Cancer Center to investigate the combination of BL-8040 with KEYTRUDA (pembrolizumab) in pancreatic cancer; and Genentech Inc. to investigate the combination of BL-8040 for solid tumors. BioLineRx Ltd. was founded in 2003 and is headquartered in Hevel Modi'in, Israel.",
+  "website": "http://www.biolinerx.com"
+}

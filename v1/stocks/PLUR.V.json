@@ -1,0 +1,27 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PLUR.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Plurilock Security Inc.",
+  "primary_symbol": "PLUR.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Plurilock Security Solutions Inc., an identity-centric cybersecurity company, provides multi-factor authentication solutions using behavioral-biometric, environmental, and contextual technologies. The company offers Plurilock ADAPT, an augmented behavioral biometrics, which provides out-of-band multi-factor authentication by analyzing identity signals; and Plurilock DEFEND, a patented behavioral biometrics that recognizes users by the way they work. It serves financial services, healthcare, critical infrastructure, and government and military industries. The company is headquartered in Victoria, Canada.",
+  "website": "http://www.plurilock.com"
+}

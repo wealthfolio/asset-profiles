@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005KM08B7",
+    "cusip": "50187T106",
+    "figi": "BBG005KM08J9",
+    "isin": "US50187T1060"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Consumer Services",
+  "isin": "US50187T1060",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LG1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LG1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LGIH"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LG1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LG1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LG1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LGI HOMES INC.  DL-,01",
+  "primary_symbol": "LG1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LGI Homes, Inc. is a homebuilder engaged in the design and construction of entry-level homes in growing markets across the United States. Their business model focuses on providing affordable, quality homes to first-time homebuyers. The company is headquartered in The Woodlands, Texas.",
+  "website": "http://www.lgihomes.com"
+}

@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BDNCX0",
+    "isin": "GB00B61TVQ02"
+  },
+  "industry_group": "Automobiles & Components",
+  "isin": "GB00B61TVQ02",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B61TVQ02.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B61TVQ02.SW"
+    }
+  ],
+  "name": "INCHCAPE PLC",
+  "primary_symbol": "GB00B61TVQ02.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "INCHCAPE PLC is an automotive distributor and retailer. Their business model involves distributing and retailing vehicles, as well as providing aftersales services, generating revenue through vehicle sales, service contracts, and finance commissions. The company is headquartered in London, UK."
+}

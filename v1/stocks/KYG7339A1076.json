@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00YTRWCF6",
+    "figi": "BBG00YTRWCL9",
+    "isin": "KYG7339A1076"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG7339A1076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RDH.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "9993.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9993.T"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RDH.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RDH.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Radiance Holdings (Group) Company Limited",
+  "primary_symbol": "RDH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Radiance Holdings (Group) Company Limited operates as a real estate development company in China. The company develops and sells residential and commercial properties. It also engages in leasing commercial properties; and provision of management consulting services. Radiance Holdings (Group) Company Limited was founded in 1996 and is headquartered in Beijing, China.",
+  "website": "http://www.radiance.com.cn"
+}

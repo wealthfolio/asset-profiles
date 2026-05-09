@@ -1,0 +1,49 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG001NBKTB9",
+    "cusip": "817323207",
+    "figi": "BBG001NBKTJ1",
+    "isin": "US8173232070"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US8173232070",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6SQB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6SQB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQNS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6SQB.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SEQUANS COMMNUN.S.ADR NEW",
+  "primary_symbol": "6SQB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sequans Communications S.A. is a French fabless semiconductor company that designs, develops, and markets 5G and 4G chips for massive IoT applications. The company offers solutions for broadband and critical IoT applications, serving various industries. Sequans Communications is headquartered in Paris, France.",
+  "website": "http://www.sequans.com"
+}

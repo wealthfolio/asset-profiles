@@ -1,0 +1,48 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG00WHNJS17",
+    "figi": "BBG00WHNJS62",
+    "isin": "FI4000425848"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "FI4000425848",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5J4.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5J4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "SAVOH.HE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SAVOS.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SAVOSOLAR PLC A",
+  "primary_symbol": "5J4.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Savosolar Oyj, together with its subsidiaries, designs and supplies solar thermal systems primarily in Europe. The company produces flat plate collectors, collector fields, and turnkey solar thermal systems. Its products are used in district heating, industrial process heating, and hot water and space heating applications. The company was founded in 2009 and is based in Mikkeli, Finland.",
+  "website": "http://savosolar.com/fi"
+}

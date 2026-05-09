@@ -1,0 +1,53 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "composite_figi": "BBG000PND5G8",
+    "figi": "BBG000PND729",
+    "isin": "ID1000102205"
+  },
+  "industry": "Trading Companies & Distributors",
+  "industry_group": "Capital Goods",
+  "isin": "ID1000102205",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HX1A.MU"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "HEXA.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "HEXA.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HX1A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HX1A.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HEXINDO ADIPERKASA RP 100",
+  "primary_symbol": "HX1A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "PT Hexindo Adiperkasa Tbk engages in the sale, rental, and maintenance of heavy equipment, primarily focusing on construction, mining, and plantation sectors in Indonesia; it offers a range of products including excavators, bulldozers, and wheel loaders. The company also provides after-sales services such as spare parts supply and technical support. Hexindo Adiperkasa is headquartered in Jakarta, Indonesia.",
+  "website": "http://www.hexindo-tbk.co.id"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00YFCQ2M5",
+    "figi": "BBG00YFCQ2S9",
+    "isin": "CH1102728750"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "CH1102728750",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D0A.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DADA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "DADA.JK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Dada Nexus Limited",
+  "primary_symbol": "D0A.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Dada Nexus Limited operates platform of local on-demand retail and delivery in China. It operates JDDJ, a local on-demand retail platform for consumers, retailers, and brand owners; and Dada Now, a local on-demand delivery platform for merchants and individual senders in various industries and product categories. The company was incorporated in 2014 and is headquartered in Shanghai, the People's Republic of China.",
+  "website": "http://about.imdada.cn"
+}

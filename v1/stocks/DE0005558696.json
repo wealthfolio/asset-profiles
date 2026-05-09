@@ -1,0 +1,73 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BL1Y04",
+    "figi": "BBG000BL21Q7",
+    "isin": "DE0005558696"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "DE0005558696",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGN.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGN.TI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NFG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PGN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PGN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PGN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PGN.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PARAGON KGAA  INH O.N.",
+  "primary_symbol": "PGN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "paragon GmbH & Co. KGaA is a German automotive supplier that develops, manufactures, and sells automotive electronics, body kinematic systems, and e-mobility solutions. The company's products include sensors, acoustic systems, and digital instrument clusters. Paragon is headquartered in Delbrück, Germany.",
+  "website": "http://www.paragon.ag"
+}

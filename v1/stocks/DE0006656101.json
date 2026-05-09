@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BQ9FM2",
+    "figi": "BBG000BQ9JC5",
+    "isin": "DE0006656101"
+  },
+  "industry_group": "Banks",
+  "isin": "DE0006656101",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MWB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MWB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MWB.SG"
+    }
+  ],
+  "name": "MWB FAIRTRADE WPHDLSBK AG",
+  "primary_symbol": "MWB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "mwb fairtrade Wertpapierhandelsbank AG is a German bank providing financial services to private and institutional clients. It focuses on securities trading, asset management, and investment advisory services. The bank is headquartered in Gräfelfing, Germany."
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C30B22",
+    "figi": "BBG000C30CR3",
+    "isin": "CNE100000593"
+  },
+  "industry_group": "Insurance",
+  "isin": "CNE100000593",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PJC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PJC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PJC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PJC.SG"
+    }
+  ],
+  "name": "PICC PROPERTY+CASU. H YC1",
+  "primary_symbol": "PJC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "PICC Property and Casualty Company Limited is a leading property and casualty insurer in China. The company provides a wide range of insurance products and services, including motor vehicle insurance, commercial property insurance, cargo insurance, and liability insurance. The company is based in Beijing, China."
+}

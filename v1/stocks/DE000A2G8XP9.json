@@ -1,0 +1,43 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00LPZK1F7",
+    "figi": "BBG00MTKNPR5",
+    "isin": "DE000A2G8XP9"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "DE000A2G8XP9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EBE.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "EBE.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EBE.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "aifinyo AG",
+  "primary_symbol": "EBE.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "aifinyo AG operates as a technology-oriented financial service provider in Germany. The company offers financing solutions for startups, freelancers, and medium-sized companies. It offers factoring solutions, including individual factoring, factoring for freelancers and the self-employed, and full service factoring; finetrading solutions consisting of purchase, warehouse, and project financing; leasing solutions comprising hire purchase, sale and lease back, and full amortization leasing; and debt collection. The company was formerly known as Elbe Finanzgruppe AG and changed its name to aifinyo AG in July 2019. The company is headquartered in Dresden, Germany.",
+  "website": "http://www.aifinyo.de"
+}

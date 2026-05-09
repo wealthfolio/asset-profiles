@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000KSMLN9",
+    "cusip": "443787205",
+    "figi": "BBG000KSP5B4",
+    "isin": "US4437872058"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US4437872058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HSON"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HDH1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Hudson Global, Inc.",
+  "primary_symbol": "HSON",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hudson Global, Inc. provides talent solutions for mid-to-large-cap multinational companies and government agencies under the Hudson RPO brand in the Americas, the Asia Pacific, and Europe. It offers recruitment process outsourcing (RPO) services, such as complete recruitment outsourcing, project-based outsourcing, contingent workforce solutions, and recruitment consulting for clients' permanent staff hires; and RPO contracting services, including outsourced professional contract staffing and managed services. The company was formerly known as Hudson Highland Group, Inc. and changed its name to Hudson Global, Inc. in April 2012. Hudson Global, Inc. was founded in 1999 and is headquartered in Old Greenwich, Connecticut.",
+  "website": "http://www.hudsonrpo.com"
+}

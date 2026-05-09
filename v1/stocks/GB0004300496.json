@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000F5YJT1",
+    "figi": "BBG000F5YMT4",
+    "isin": "GB0004300496"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Materials",
+  "isin": "GB0004300496",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RTZ.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PAF.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "PAF.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PAN.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PAN AFRICAN RES  LS -,01",
+  "primary_symbol": "RTZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Pan African Resources PLC is a gold producer with operations in South Africa. The company engages in exploration, development, and operation of gold mines. Pan African Resources is headquartered in Johannesburg, South Africa.",
+  "website": "http://www.pmcapital.com.au/listed-investment-company/paf"
+}

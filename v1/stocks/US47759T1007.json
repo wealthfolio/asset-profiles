@@ -1,0 +1,82 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "cusip": "47759T100",
+    "isin": "US47759T1007"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US47759T1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0JOX.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JKS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZJS1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZJS1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZJS1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZJS1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "JKS.VI"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "JKSN.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZJS1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZJS1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZJS1.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "JINKOSOLAR HOLDING CO LTD JINKO",
+  "primary_symbol": "0JOX.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "JinkoSolar Holding Co., Ltd. is a global leader in the solar industry, manufacturing and distributing solar products and providing solar solutions and services. Their offerings include silicon wafers, solar cells, solar modules, and complete solar power systems, sold under its own brand. The company is headquartered in Shanghai, China",
+  "website": "http://www.jinkosolar.com"
+}

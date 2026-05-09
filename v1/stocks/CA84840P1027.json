@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA84840P1027"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA84840P1027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPEYF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2JS.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "SPEY.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SPEY RESOURCES CORP",
+  "primary_symbol": "SPEYF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Spey Resources Corp. engages in the acquisition, exploration, and development of mineral properties in Canada. It holds an option to acquire a 100% undivided interest in the Silver Basin project located in the Revelstoke Mining Division of British Columbia; and the Kaslo Silver property situated in southern British Columbia. The company was incorporated in 2017 and is headquartered in North Vancouver, Canada.",
+  "website": "http://www.speyresources.ca"
+}

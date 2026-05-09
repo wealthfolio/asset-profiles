@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GT91D2",
+    "cusip": "95082P105",
+    "figi": "BBG000GT9552",
+    "isin": "US95082P1057"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US95082P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WP7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WP7.SG"
+    }
+  ],
+  "name": "WESCO INTL INC.  DL-,01",
+  "primary_symbol": "WP7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "WESCO International Inc. is a multinational distribution and services company, providing electrical, industrial, and communications maintenance, repair and operating (MRO) and original equipment manufacturer (OEM) products, construction materials, and supply chain management services. They serve customers in various industries, including industrial, construction, utility, and government sectors. WESCO International Inc. is headquartered in Pittsburgh, Pennsylvania."
+}

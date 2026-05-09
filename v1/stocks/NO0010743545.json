@@ -1,0 +1,38 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00B45YNS1",
+    "figi": "BBG00B45YNW6",
+    "isin": "NO0010743545"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "NO0010743545",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KID.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "KIDO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Kid ASA",
+  "primary_symbol": "KID.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Kid ASA, together with its subsidiaries, operates as a home textile retailer in Norway. It designs, sources, markets, and sells a range of home and interior products, including textiles, curtains, bed linens, and other interior products. The company provides its products under the Kid, Dekosol, and Nordun brands. As of December 31, 2019, it operated 144 stores, as well as an online sales platform. Kid ASA also offers logistics services. The company was formerly known as Nordisk Tekstil Holding AS. Kid ASA was founded in 1937 and is headquartered in Lier, Norway.",
+  "website": "http://www.kid.no"
+}

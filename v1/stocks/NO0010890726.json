@@ -1,0 +1,56 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "isin": "NO0010890726"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "NO0010890726",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6H5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6H5.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PMGMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6H5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010890726.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "PMG.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Play Magnus AS",
+  "primary_symbol": "6H5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Play Magnus AS operates in the chess industry worldwide. The company engages in the development of chess related applications, content, and events. It offers e-learning and entertainment services under the chess24, Chessable, CoChess, iChess, the Play Magnus App Suite, and the Champions Chess Tour brands. It also organizes chess competitions through online. Play Magnus AS was founded in 2013 and is headquartered in Oslo, Norway.",
+  "website": "http://www.playmagnusgroup.com"
+}

@@ -1,0 +1,47 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00328L143",
+    "figi": "BBG00328L1B5",
+    "isin": "PLGTC0000037"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Real Estate",
+  "isin": "PLGTC0000037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G91.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G91.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G91.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GTC.L"
+    }
+  ],
+  "name": "GLOBE TRADE CENTRE ZY 0,1",
+  "primary_symbol": "G91.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "GLOBE TRADE CENTRE ZY 0,1 is likely a ticker for Globe Trade Centre S.A., a real estate company focused on property development and investment in Central and Eastern Europe, but the limited information provided prevents a more detailed description. Headquartered in Warsaw, Poland, the company develops and manages office and retail properties.",
+  "website": "http://www.getech.com"
+}

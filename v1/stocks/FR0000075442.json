@@ -1,0 +1,53 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00LGLH607",
+    "figi": "BBG00LGLH652",
+    "isin": "FR0000075442"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "FR0000075442",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6CE.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0F2N.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6CE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "6CE.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALLDL.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "GROUPE LDLC SA IN.EO 0,18",
+  "primary_symbol": "6CE.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "GROUPE LDLC SA is a French retailer specializing in computer hardware, software, and high-tech products. The company operates through a network of stores and an online platform, offering a wide range of IT products and services. It is headquartered in France.",
+  "website": "http://www.groupe-ldlc.com"
+}

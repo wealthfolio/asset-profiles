@@ -1,0 +1,115 @@
+{
+  "as_of_date": "2026-10-31",
+  "asset_class_weights": [
+    {
+      "asset_class": "Cash",
+      "weight": 0.948563
+    },
+    {
+      "asset_class": "Commodity Derivative",
+      "weight": 0.051437
+    }
+  ],
+  "aum_usd": 675938696.59,
+  "category": "Mid Cap",
+  "category_group": "Financials",
+  "country_weights": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "weight": 0.982444
+    },
+    {
+      "country": "Australia",
+      "country_code": "AU",
+      "weight": 0.012615
+    },
+    {
+      "country": "Singapore",
+      "country_code": "SG",
+      "weight": 0.004941
+    }
+  ],
+  "holdings_count": 26,
+  "issuer": "SSGA",
+  "kind": "etf",
+  "listings": [
+    {
+      "currency": "USD",
+      "symbol": "KRE"
+    }
+  ],
+  "name": "SPDR S&P Regional Banking ETF",
+  "primary_symbol": "KRE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "public domain",
+    "source": "SEC EDGAR N-PORT",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001064642"
+  },
+  "schema_version": "1.0.0",
+  "sector_weights": [
+    {
+      "sector": "Unknown",
+      "weight": 1.0
+    }
+  ],
+  "top_holdings": [
+    {
+      "cusip": "857492706",
+      "isin": "US8574927062",
+      "name": "State Street Global Advisors",
+      "weight": 0.76963
+    },
+    {
+      "cusip": "912797RV1",
+      "isin": "US912797RV15",
+      "name": "United States Treasury",
+      "weight": 0.044635
+    },
+    {
+      "cusip": "912797SR9",
+      "isin": "US912797SR93",
+      "name": "United States Treasury",
+      "weight": 0.029545
+    },
+    {
+      "cusip": "912797SZ1",
+      "isin": "US912797SZ10",
+      "name": "United States Treasury",
+      "weight": 0.028092
+    },
+    {
+      "cusip": "857492706",
+      "isin": "US8574927062",
+      "name": "State Street Global Advisors",
+      "weight": 0.018784
+    },
+    {
+      "cusip": "912797SB4",
+      "isin": "US912797SB42",
+      "name": "United States Treasury",
+      "weight": 0.018117
+    },
+    {
+      "cusip": "912797SJ7",
+      "isin": "US912797SJ77",
+      "name": "United States Treasury",
+      "weight": 0.015151
+    },
+    {
+      "cusip": "912797TB3",
+      "isin": "US912797TB33",
+      "name": "United States Treasury",
+      "weight": 0.015151
+    },
+    {
+      "name": "JPMorgan Securities LLC",
+      "weight": 0.015001
+    },
+    {
+      "name": "Citibank NA",
+      "weight": 0.008944
+    }
+  ]
+}

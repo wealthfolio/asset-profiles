@@ -1,0 +1,73 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00SXHXDF3",
+    "figi": "BBG00SXHXDN4",
+    "isin": "CA3001442019"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA3001442019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5EG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5EG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVER"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVGUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5EG.F"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5EG.SI"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "EVER.BK"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EVER.MX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "EVER.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Evergold Corp.",
+  "primary_symbol": "5EG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Evergold Corp. engages in the acquisition, exploration, and development of mineral properties in Canada. The company primarily explores for gold, silver, and copper deposits. Its flagship properties include 100% owned the Snoball property covering an area of 3,545 hectares located in the Liard Mining Division of northwestern British Columbia; and the Golden Lion property covering an area of 5,099 hectares located in Toodoggone region of northcentral British Columbia. The company was incorporated in 2015 and is headquartered in Toronto, Canada.",
+  "website": "http://www.evergoldcorp.ca"
+}

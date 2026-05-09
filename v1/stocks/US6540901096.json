@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LDZ1V2",
+    "cusip": "654090109",
+    "figi": "BBG000LDZ687",
+    "isin": "US6540901096"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "US6540901096",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NIB1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NIB1.MU"
+    }
+  ],
+  "name": "NIDEC CORP.SPONS.ADR/1/4",
+  "primary_symbol": "NIB1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nidec Corporation is a Japanese manufacturer of electric motors. The company produces a wide range of motors, including small precision motors, medium-sized motors, and large motors. Nidec's motors are used in a variety of applications, including hard disk drives, home appliances, and automobiles. The company is headquartered in Kyoto, Japan."
+}

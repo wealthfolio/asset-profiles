@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IRNT"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IronNet Inc. Common Stock",
+  "primary_symbol": "IRNT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IronNet, Inc. is a cybersecurity company that provides collective defense solutions through its IronDefense platform. The company offers network detection and response (NDR) capabilities to help organizations detect and respond to cyber threats. IronNet is headquartered in McLean, Virginia."
+}

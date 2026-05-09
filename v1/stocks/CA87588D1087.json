@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "CA87588D1087"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA87588D1087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "DW8.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "TTX.CN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TTX.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Digital Wine Ventures Limited",
+  "primary_symbol": "DW8.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Digital Wine Ventures Limited operates as a wine distribution company in Australia. The company operates WINEDEPOT, a cloud-based technology platform to sell wine. It also offers wine storage services. The company was formerly known as Dawine Limited. Digital Wine Ventures Limited is based in Sydney, Australia.",
+  "website": "http://www.digitalwine.ventures"
+}

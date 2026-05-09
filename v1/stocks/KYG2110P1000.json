@@ -1,0 +1,53 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000QZH3Z0",
+    "figi": "BBG000QZH5R4",
+    "isin": "KYG2110P1000"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "KYG2110P1000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C1S.BE"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "2877.HK"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2877.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C1S.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C1S.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHINA SHINEWAY PHAR.HD-10",
+  "primary_symbol": "C1S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "China Shineway Pharmaceutical Group Limited, an investment holding company, engages in the research and development, manufacture, and trade of Chinese medicines in the People's Republic of China and Hong Kong. The company offers modern Chinese medicines in the form of soft capsules, granules, and injections in various therapeutic areas, including cardio-cerebrovascular, antiviral, orthopedics, pediatrics, gynecology, neurology, gastroenterology, ophthalmology, oncology, and immunology. It also trades in agricultural products. The company was incorporated in 2004 and is headquartered in Shijiazhuang, the People's Republic of China. China Shineway Pharmaceutical Group Limited is a subsidiary of Forway Investment Limited.",
+  "website": "http://www.shineway.com"
+}

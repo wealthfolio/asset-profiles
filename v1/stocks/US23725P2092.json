@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG003V5P7K2",
+    "cusip": "23725P209",
+    "isin": "US23725P2092"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US23725P2092",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US23725P2092.SG"
+    }
+  ],
+  "name": "DARIOHEALTH CORP",
+  "primary_symbol": "US23725P2092.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "DARIOHEALTH CORP develops and markets digital health solutions for chronic disease management. Their Dario platform provides users with tools and support for managing diabetes, hypertension, weight management, and behavioral health. The company is headquartered in Mountian View, California."
+}

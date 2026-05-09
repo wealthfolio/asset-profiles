@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00G599ND5",
+    "figi": "BBG00G599NL6",
+    "isin": "CA46500E1079"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA46500E1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I01.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I01.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ISENF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I01.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I01.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "ISO.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IsoEnergy Ltd.",
+  "primary_symbol": "I01.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "IsoEnergy Ltd. engages in the acquisition, development, evaluation, and exploration of uranium mineral properties. It primarily holds 100% interest in the Larocque East, Geiger, Thorburn Lake, and Radio properties in the Athabasca Basin of Saskatchewan, Canada, as well as interests in various other properties. The company was incorporated in 2016 and is headquartered in Vancouver, Canada. IsoEnergy Ltd. is a subsidiary of NexGen Energy Ltd.",
+  "website": "http://www.isoenergy.ca"
+}

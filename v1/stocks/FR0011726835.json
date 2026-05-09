@@ -1,0 +1,56 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "FR0011726835"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Transportation",
+  "isin": "FR0011726835",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QT5.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9TG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9TG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2G6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9TG.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GAZTRANSPORT ET TECHNIGAZ SA GA",
+  "primary_symbol": "0QT5.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Gaztransport et Technigaz SA (GTT) is a French engineering company specializing in membrane containment systems for the maritime transportation and storage of liquefied natural gas (LNG). The company designs and licenses its technologies for use in LNG carriers, onshore storage tanks, and other related applications. GTT is headquartered in Saint-Rémy-lès-Chevreuse, France.",
+  "website": "http://www.gtt.net"
+}

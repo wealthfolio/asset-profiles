@@ -1,0 +1,58 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BFZJJ3",
+    "figi": "BBG000BFZM88",
+    "isin": "FR0000125007"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Capital Goods",
+  "isin": "FR0000125007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOB.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOB.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "COD.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GOB.DU"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ST GOBAIN  EO 4",
+  "primary_symbol": "GOB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Saint-Gobain designs, manufactures, and distributes materials and solutions for the construction, mobility, healthcare, and other industrial markets. The company's product portfolio includes flat glass, high-performance materials, construction products, and innovative solutions for sustainable building. Saint-Gobain is headquartered in Courbevoie, France.",
+  "website": "http://www.codaminerals.com"
+}

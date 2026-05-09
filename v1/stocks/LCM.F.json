@@ -1,0 +1,31 @@
+{
+  "country": "Monaco",
+  "country_code": "MC",
+  "identifiers": {
+    "composite_figi": "BBG0019VJ4D6",
+    "figi": "BBG0019VJ4F4"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LCM.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Costamare Inc.",
+  "primary_symbol": "LCM.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Costamare Inc. owns and charters containerships to liner companies worldwide. As of February 19, 2021, it had a fleet of 77 containerships with a total capacity of approximately 555,810 twenty foot equivalent units, including 1 vessel under construction and 4 second hand vessels. The company was founded in 1974 and is based in Monaco.",
+  "website": "http://www.costamare.com"
+}

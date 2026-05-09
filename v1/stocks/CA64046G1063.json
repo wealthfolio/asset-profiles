@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00JLXDQQ2",
+    "figi": "BBG00JLXDQX4",
+    "isin": "CA64046G1063"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "CA64046G1063",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N14.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOPMF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N14.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "NEO.TO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NEO PERFORM.MAT.",
+  "primary_symbol": "N14.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NEO Performance Materials Inc. is a specialty materials manufacturer, producing rare earth and rare metal-based functional materials. The company's products are used in a wide range of applications, including automotive, electronics, and energy-saving technologies. NEO Performance Materials Inc. is headquartered in Toronto, Canada.",
+  "website": "http://www.neomaterials.com"
+}

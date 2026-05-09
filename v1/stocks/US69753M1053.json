@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00NX9HGV5",
+    "cusip": "69753M105",
+    "figi": "BBG00NX9HH16",
+    "isin": "US69753M1053"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US69753M1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PH8.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PH8.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PLMR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PH8.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PH8.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "PALOMAR HLDGS  DL-,0001",
+  "primary_symbol": "PH8.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Palomar Holdings, Inc. is a specialty insurance company that focuses on the provision of catastrophe insurance coverage. The company offers earthquake, wind, and flood insurance products to residential and commercial customers. Palomar Holdings is headquartered in La Jolla, California.",
+  "website": "http://plmr.com"
+}

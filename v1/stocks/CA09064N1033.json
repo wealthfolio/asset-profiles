@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA09064N1033"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA09064N1033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BIOAF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "107.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "BTI.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Bioasis Technologies Inc.",
+  "primary_symbol": "BIOAF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Bioasis Technologies Inc., a development stage biopharmaceutical company, engages in the research and development of products for the diagnosis and treatment of neurological diseases and disorders. It is developing xB3, a platform technology for the delivery of therapeutics across the blood-brain barrier (BBB); and the treatment of central nervous system disorders, including brain cancers, and metabolic and neurodegenerative diseases. The company's in-house development programs develop symptomatic and disease-modifying treatments for brain metastases (xB3-002), glioblastoma (xB3-002), and neurodegenerative diseases (xB3-007). Bioasis Technologies Inc. has a research collaboration with Aposense Ltd. to focus on the delivery of siRNA into the brain. The company was founded in 2007 and is based in New Haven, Connecticut.",
+  "website": "http://www.bioasis.us"
+}

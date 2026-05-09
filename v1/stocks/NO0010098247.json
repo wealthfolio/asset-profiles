@@ -1,0 +1,63 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000SJX0X4",
+    "figi": "BBG000SJX3X8",
+    "isin": "NO0010098247"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "NO0010098247",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PGT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STRO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0JEZ.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PGT.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PSI.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S09.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "STRO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "STRONGPOINT ASA  NK 0,62",
+  "primary_symbol": "PGT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "StrongPoint ASA is a retail technology company that provides solutions for in-store efficiency, security, and customer experience. The company offers cash management, self-checkout, and electronic shelf labeling systems. StrongPoint is headquartered in Raelingen, Norway.",
+  "website": "http://www.sutrobio.com"
+}

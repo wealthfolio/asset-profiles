@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "30063P105",
+    "isin": "US30063P1057"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US30063P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXAS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EXK.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EXK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EXK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EXK.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Exact Sciences Corporation",
+  "primary_symbol": "EXAS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Exact Sciences Corporation provides cancer screening and diagnostic test products in the United States and internationally. The company offers Cologuard, a non-invasive stool-based DNA screening test to detect DNA and hemoglobin biomarkers associated with colorectal cancer and pre-cancer. It also provides Oncotype DX, a gene expression tests for breast, prostate, and colon cancers; Oncotype MAP, a tissue test delivering tumor profiling to aid therapy selection for patients with advanced, metastatic, refractory, or recurrent cancer; Oncotype DX AR-V7 Nucleus Detect Test, a liquid-based test for advanced stage prostate cancer; and Covid-19 testing services. The company's pipeline products focus on enhancing the Cologuard test's performance characteristics and developing blood and other fluid-based tests. It has license agreements with MAYO Foundation for Medical Education and Research; and Hologic, Inc. Exact Sciences Corporation was incorporated in 1995 and is headquartered in Madison, Wisconsin.",
+  "website": "http://www.exactsciences.com"
+}

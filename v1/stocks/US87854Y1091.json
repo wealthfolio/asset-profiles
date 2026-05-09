@@ -1,0 +1,47 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "cusip": "87854Y109",
+    "isin": "US87854Y1091"
+  },
+  "industry": "Energy Equipment & Services",
+  "industry_group": "Energy",
+  "isin": "US87854Y1091",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THNPF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "THNPY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "68F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "TE.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Technip Energies N.V.",
+  "primary_symbol": "THNPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Technip Energies B.V. operates as an engineering & technology company for the energy transition in Europe, Russia, the Asia Pacific, Africa, the Middle East, and the Americas. It focuses on the study, engineering, procurement, construction, and project management of various onshore and offshore facilities related to gas monetization, refining, and chemical processing from biofuels and hydrocarbons. The company was incorporated in 2019 and is headquartered in Paris, France.",
+  "website": "http://www.technipenergies.com"
+}

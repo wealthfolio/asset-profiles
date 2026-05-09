@@ -1,0 +1,36 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "KYG373041055"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "KYG373041055",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "52J.F"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "6968.HK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Ganglong China Property Group Limited",
+  "primary_symbol": "52J.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Ganglong China Property Group Limited engages in the development and sale of residential properties in the People's Republic of China. Its property development projects include retail units, car parks, and ancillary areas. The company was founded in 2007 and is headquartered in Shanghai, China.",
+  "website": "http://www.glchina.group"
+}

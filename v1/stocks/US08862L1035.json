@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "08862L103",
+    "isin": "US08862L1035"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US08862L1035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XAIR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US08862L1035.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Beyond Air, Inc.",
+  "primary_symbol": "XAIR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Beyond Air, Inc., a clinical-stage medical device and biopharmaceutical company, develops inhaled nitric oxide (NO) to treat respiratory infections, and gaseous NO to treat solid tumors. The company is developing LungFit system, a NO generator and delivery system, which is in clinical trials for the treatment of lung infections, persistent pulmonary hypertension of the newborn, severe acute respiratory syndrome coronavirus 2, bronchiolitis, and nontuberculous mycobacteria.The company was formerly known as AIT Therapeutics, Inc. and changed its name to Beyond Air, Inc. in June 2019. The company is based in Garden City, New York.",
+  "website": "http://www.beyondair.net"
+}

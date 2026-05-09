@@ -1,0 +1,63 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BFB812",
+    "figi": "BBG000BFBC04",
+    "isin": "FR0000120693"
+  },
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FR0000120693",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PER.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PER.CR"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PER.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PER.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PER.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000120693.SW"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PER.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PER.SG"
+    }
+  ],
+  "name": "PERNOD-RICARD  O.N.",
+  "primary_symbol": "PER.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Pernod Ricard S.A. is a global alcoholic beverage company that produces and distributes a wide range of premium wines and spirits. Its portfolio includes brands such as Absolut Vodka, Chivas Regal, Jameson Irish Whiskey, and Martell Cognac. The company is headquartered in Paris, France."
+}

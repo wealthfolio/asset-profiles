@@ -1,0 +1,43 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0076WG2V1",
+    "figi": "BBG007PMX0W6",
+    "isin": "CA76131D1033"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "CA76131D1033",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QSR"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "QSR.TO"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "QSRN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Restaurant Brands International Inc.",
+  "primary_symbol": "QSR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Restaurant Brands International Inc. owns, operates, and franchises quick service restaurants under the Tim Hortons (TH), Burger King (BK), and Popeyes (PLK) brands. The company operates through three segments: TH, BK, and PLK. Its restaurants offer blend coffee, tea, espresso-based hot and cold specialty drinks, donuts, Timbits, bagels, muffins, cookies and pastries, grilled paninis, classic sandwiches, wraps, soups, hamburgers, chicken and other specialty sandwiches, french fries, soft drinks, chicken, chicken tenders, fried shrimp and other seafood, red beans and rice, and other food items. As of December 31, 2020, the company owned or franchised a total of 4,949 TH restaurants, 18,625 BK restaurants, and 3,451 PLK restaurants in approximately 100 countries worldwide and U.S. territories. Restaurant Brands International Inc. was founded in 1954 and is headquartered in Toronto, Canada.",
+  "website": "http://www.rbi.com"
+}

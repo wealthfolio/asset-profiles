@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CLY591",
+    "figi": "BBG000CLY626",
+    "isin": "AU000000NUF3"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000NUF3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NUF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NUF.SG"
+    }
+  ],
+  "name": "NUFARM LTD.",
+  "primary_symbol": "NUF.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Nufarm Ltd is an Australian agricultural chemical company that develops, manufactures, and sells crop protection solutions and seed technologies. Its products include herbicides, insecticides, and fungicides, used to protect crops from weeds, pests, and diseases. The company is headquartered in Melbourne, Australia."
+}

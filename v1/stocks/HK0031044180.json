@@ -1,0 +1,46 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "isin": "HK0031044180"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "HK0031044180",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHAEF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CIOC.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CIOC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CIOC.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "China Aerospace International Holdings Limited",
+  "primary_symbol": "CHAEF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "China Aerospace International Holdings Limited, an investment holding company, engages in hi-tech manufacturing business in the People's Republic of China. The company distributes plastic and metal products and molds, liquid crystal displays and modules, printed circuit boards, intelligent battery chargers, and electronic components. It is also involved in the provision of property investment and management, and treasury services; electroplating of metals; and distribution of packing products. The company was incorporated in 1975 and is based in Hung Hom, Hong Kong, and is considered a Red Chip company due to its listing on the Hong Kong Stock Exchange.",
+  "website": "http://www.casil-group.com"
+}

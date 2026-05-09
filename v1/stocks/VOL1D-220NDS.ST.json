@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "VOL1D-220NDS.ST"
+    }
+  ],
+  "name": "Volvo. AB ser. B KO 1(220)",
+  "primary_symbol": "VOL1D-220NDS.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Volvo. AB ser. B KO 1(220) represents a call option on Volvo AB series B shares with a strike price of 220 SEK. A call option gives the holder the right, but not the obligation, to purchase Volvo AB series B shares at the strike price before the expiration date. Volvo AB is a Swedish manufacturer of trucks, buses, construction equipment, and marine and industrial engines."
+}

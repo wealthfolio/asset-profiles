@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JFCC69",
+    "cusip": "87968A104",
+    "figi": "BBG000JFCGT5",
+    "isin": "US87968A1043"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "US87968A1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPLN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TELL"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LE3.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MPLN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MPLN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MPLN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "TELL.AT"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Tellurian Inc.",
+  "primary_symbol": "MPLN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Tellurian Inc. engages in the natural gas business worldwide. The company is developing a portfolio of natural gas production, liquefied natural gas (LNG) marketing, and infrastructure assets that includes an approximately 27.6 million tonnes per annum LNG terminal facility and an associated pipeline in southwest Louisiana. It owns interests in 9,373 net acres of natural gas production assets, and 72 producing wells located in the Haynesville Shale trend of northern Louisiana. The company was founded in 2016 and is headquartered in Houston, Texas.",
+  "website": "http://www.tellurianinc.com"
+}

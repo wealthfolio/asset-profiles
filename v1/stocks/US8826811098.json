@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QB92Z4",
+    "cusip": "882681109",
+    "figi": "BBG000QB9532",
+    "isin": "US8826811098"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US8826811098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ROW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ROW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TXRH"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ROW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ROW.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "TEXAS ROADHOUSE DL-,001",
+  "primary_symbol": "ROW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Texas Roadhouse Inc. operates a chain of casual dining restaurants specializing in steaks. The restaurant chain offers a casual, family-friendly atmosphere. Texas Roadhouse is headquartered in Louisville, Kentucky.",
+  "website": "http://www.texasroadhouse.com"
+}

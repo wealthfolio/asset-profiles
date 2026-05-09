@@ -1,0 +1,46 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0006220018"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "SE0006220018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QXM.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5IW.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5IW.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "INWI.ST"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "INWIDO AB (PUBL) INWIDO ORD SHS",
+  "primary_symbol": "0QXM.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Inwido AB is a Swedish company that manufactures and sells windows and doors, primarily in Europe. The company operates through a number of brands, offering a range of products for both residential and commercial buildings. Inwido is headquartered in Malmö, Sweden.",
+  "website": "http://www.inwido.com"
+}

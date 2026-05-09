@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000R6F5P1",
+    "figi": "BBG000R6F768",
+    "isin": "GB00B06QFB75"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "GB00B06QFB75",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I5G.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IGG.BE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "I5G.DU"
+    }
+  ],
+  "name": "IG GROUP HLDGS PLC",
+  "primary_symbol": "I5G.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "IG GROUP HLDGS PLC is a global leader in online trading and investments, providing access to opportunities in financial markets. The company offers a range of trading products and platforms, including contracts for difference (CFDs), spread betting, and share dealing. IG Group is headquartered in London, United Kingdom."
+}

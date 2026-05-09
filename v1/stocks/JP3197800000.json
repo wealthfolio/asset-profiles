@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C1YZK6",
+    "figi": "BBG000C1Z1H4",
+    "isin": "JP3197800000"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3197800000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OMR1.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OMR1.SG"
+    }
+  ],
+  "name": "OMRON CORP.",
+  "primary_symbol": "OMR1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "OMRON Corporation is a Japanese electronics company that manufactures and sells automation components, equipment and systems. The company operates in industrial automation, healthcare, social systems and solutions, and electronic and mechanical components. Omron's headquarters are located in Kyoto, Japan."
+}

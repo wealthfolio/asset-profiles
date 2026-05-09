@@ -1,0 +1,56 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0010570767"
+  },
+  "industry": "Food & Staples Retailing",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CH0010570767",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QP1.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COCXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LDSVF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QKN.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "LISN.SW"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "LISP.SW"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CHOCOLADEFABRIKEN LINDT & SPRUE",
+  "primary_symbol": "0QP1.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Chocoladefabriken Lindt & Sprüngli AG is a Swiss chocolatier and confectionery company known for its high-quality chocolate products. The company manufactures and markets a wide range of chocolate bars, pralines, truffles, and other confectionery items under the Lindt and Sprüngli brands. Lindt & Sprüngli is headquartered in Kilchberg, Switzerland.",
+  "website": "http://www.lindt-spruengli.com"
+}

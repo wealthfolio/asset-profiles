@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "WARN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Warteck Invest AG",
+  "primary_symbol": "WARN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Warteck Invest AG is involved in the rental of real estate properties such as apartments in Switzerland. Its portfolio includes 56 properties spread across 11 cantons. Warteck Invest AG is based in Basel and Switzerland.",
+  "website": "http://www.warteck-invest.ch"
+}

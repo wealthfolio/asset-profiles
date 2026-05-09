@@ -1,0 +1,43 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00YHXY2Y5",
+    "figi": "BBG00YHXY337",
+    "isin": "SE0008966014"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "SE0008966014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6WZ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6WZ.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SAXG.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SAXLUND GROUP AB",
+  "primary_symbol": "6WZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SAXLUND GROUP AB is a Swedish company specializing in industrial automation and robotics. The company provides solutions for various industries to improve efficiency and productivity. Saxlund Group is located in Sweden.",
+  "website": "http://www.saxlund.se"
+}

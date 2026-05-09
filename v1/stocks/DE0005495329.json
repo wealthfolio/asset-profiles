@@ -1,0 +1,27 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DRJPP2",
+    "isin": "DE0005495329"
+  },
+  "industry_group": "Consumer Services",
+  "isin": "DE0005495329",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0005495329.SW"
+    }
+  ],
+  "name": "HOLIDAYCHECK GROUP AG",
+  "primary_symbol": "DE0005495329.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "HolidayCheck Group AG operates an online travel portal. The portal allows users to search for and book hotels, cruises, and other travel-related services. HolidayCheck Group is headquartered in Bottighofen, Switzerland."
+}

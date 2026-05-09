@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000P1B7C8",
+    "cusip": "60783X104",
+    "isin": "US60783X1046"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US60783X1046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US60783X1046.SG"
+    }
+  ],
+  "name": "MODIVCARE INC",
+  "primary_symbol": "US60783X1046.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "MODIVCARE INC provides technology-enabled healthcare services, focusing on non-emergency medical transportation, personal care, and remote patient monitoring. The company connects patients with healthcare services and supports their access to care. ModivCare is headquartered in Denver, Colorado."
+}

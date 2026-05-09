@@ -1,0 +1,52 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00Q7474K8",
+    "cusip": "92838Y100",
+    "figi": "BBG00Q747598",
+    "isin": "US92838Y1001"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US92838Y1001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AIO.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AIO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AIO.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund",
+  "primary_symbol": "AIO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund is a closed-end management investment company. The Fund's investment objective is to seek a high level of total return with a primary emphasis on current income. The Fund invests in equity and debt securities of technology and artificial intelligence companies."
+}

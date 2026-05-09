@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00BCQJ2X3",
+    "cusip": "75134P303",
+    "figi": "BBG00FP308Q6",
+    "isin": "US75134P3038"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US75134P3038",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "METC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5R0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "5R0.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Ramaco Resources, Inc.",
+  "primary_symbol": "METC",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Ramaco Resources, Inc. produces and sells metallurgical coal. The company's development portfolio includes the Elk Creek project consisting of approximately 20,166 acres of controlled mineral and 25 seams located in southern West Virginia; the Berwind property comprising approximately 31,200 acres of controlled mineral and an area of Squire Jim seam coal deposits, which is situated on the border of West Virginia and Virginia; the Knox Creek property consisting of approximately 62,100 acres of controlled mineral that is located in Virginia; and the RAM Mine property comprising approximately 1,570 acres of controlled mineral, which is situated in southwestern Pennsylvania. The company serves blast furnace steel mills and coke plants in the United States, as well as international metallurgical coal consumers. The company was founded in 2015 and is headquartered in Lexington, Kentucky.",
+  "website": "http://www.ramacoresources.com"
+}

@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000DBD8Q0",
+    "isin": "DE0006911324"
+  },
+  "isin": "DE0006911324",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE0006911324.SW"
+    }
+  ],
+  "name": "AGIV REAL ESTATE AG-NEW",
+  "primary_symbol": "DE0006911324.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

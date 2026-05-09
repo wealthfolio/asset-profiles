@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005CNC5S9",
+    "cusip": "31189P102",
+    "figi": "BBG005CNC5Z1",
+    "isin": "US31189P1021"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US31189P1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F6T.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F6T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FATE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F6T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F6T.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FATE THERAPEUTICS DL-,001",
+  "primary_symbol": "F6T.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fate Therapeutics, Inc. is a clinical-stage biopharmaceutical company dedicated to the development of programmed cellular immunotherapies for cancer. The company utilizes its proprietary induced pluripotent stem cell (iPSC) platform to develop off-the-shelf cell therapies designed to target cancer cells. Fate Therapeutics is headquartered in San Diego, California.",
+  "website": "http://www.fatetherapeutics.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "TALK.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TalkPool AG",
+  "primary_symbol": "TALK.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "TalkPool AG provides a range of network design, engineering, implementation, and managed services designs for telecommunications operators, system vendors, and prime contractors in Switzerland and internationally. It enables the Internet-of-Things (IoT) ecosystem by providing professional services and solutions comprising a comprehensive range of design, creation, and realization of IoT solutions and products. The company was founded in 2000 and is based in Chur, Switzerland.",
+  "website": "http://talkpool.com"
+}

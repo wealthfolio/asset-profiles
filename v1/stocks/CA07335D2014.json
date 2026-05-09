@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA07335D2014"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA07335D2014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CRFTF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CRFT.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZZD1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BC Craft Supply Co. Ltd.",
+  "primary_symbol": "CRFTF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "BC Craft Supply Co. Ltd., together with its subsidiaries, engages in the production and distribution of licensed craft cannabis and craft cannabis related products for recreational and medical purposes. The company was formerly known as Pasha Brands Ltd. and changed its name to BC Craft Supply Co. Ltd. in May 2020. BC Craft Supply Co. Ltd. is based in Vancouver, Canada.",
+  "website": "http://bccraftsupply.ca"
+}

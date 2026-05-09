@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000DVTNJ4",
+    "figi": "BBG000DVVSZ2",
+    "isin": "AU000000CWY3"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "AU000000CWY3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TG9.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CWY.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TG9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TG9.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CLEANAWAY WASTE MNGMT",
+  "primary_symbol": "TG9.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Cleanaway Waste Management Limited is an Australian waste management company that provides services including collection, recycling, treatment, and disposal of waste. They serve households, businesses, and government entities across Australia. The company's headquarters are in Melbourne, Australia.",
+  "website": "http://www.cleanaway.com.au"
+}

@@ -1,0 +1,41 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "DE000A0LD2U1"
+  },
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "isin": "DE000A0LD2U1",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ALSRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AOX.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "AOX.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "alstria office REIT-AG",
+  "primary_symbol": "ALSRF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "alstria office REIT AG is the leading real-estate operator focusing solely on German office property in selected German markets. Our strategy is based on the ownership and an active management of our properties throughout their entire life cycle, strong added-value services to our customers and deep knowledge of the markets in which we operate. alstria strives for sustainable long-term value creation while taking advantage of short-term arbitrage of inefficiencies in the real estate markets. As of September 30, 2020, the portfolio comprises 110 buildings with a lettable area of 1.4 million square meters and a total portfolio value of EUR 4.4 billion.",
+  "website": "http://www.alstria.com"
+}

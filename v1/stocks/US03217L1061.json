@@ -1,0 +1,49 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG00Q9V0R86",
+    "cusip": "03217L106",
+    "figi": "BBG00Q9V0RV0",
+    "isin": "US03217L1061"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03217L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMYT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3N9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3N9A.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AMYT.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Amryt Pharma plc",
+  "primary_symbol": "AMYT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Amryt Pharma plc, a commercial-stage biopharmaceutical company, develops and commercializes novel therapeutics to treat patients suffering from serious and life-threatening rare diseases. The company offers Lomitapide for the treatment of homozygous familial hypercholesterolemia; and Metreleptin for the treatment of generalized and partial lipodystrophy. It also develops FILSUVEZ drug candidate, which is in Phase 3 EASE trial for the treatment of severe epidermolysis bullosa (EB), a rare and genetic skin disease; and AP103 that is in preclinical stage for the treatment of patients with recessive dystrophic EB, a subset of EB. The company sells its products in the Americas, Europe, and the Middle East. Amryt Pharma plc was founded in 2015 and is headquartered in Dublin, Ireland.",
+  "website": "http://www.amrytpharma.com"
+}

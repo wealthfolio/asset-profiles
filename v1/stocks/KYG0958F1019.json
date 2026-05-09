@@ -1,0 +1,35 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C0J647",
+    "figi": "BBG000C0J9P8",
+    "isin": "KYG0958F1019"
+  },
+  "isin": "KYG0958F1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJEB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BJEB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BJEB.DU"
+    }
+  ],
+  "name": "BEIJING ENTERPRISES",
+  "primary_symbol": "BJEB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

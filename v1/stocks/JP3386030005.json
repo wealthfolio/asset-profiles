@@ -1,0 +1,56 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "isin": "JP3386030005"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "JP3386030005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JFEEF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JFR"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "5411.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "JFR.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JFR.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JFR.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "JFE Holdings, Inc.",
+  "primary_symbol": "JFEEF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "JFE Holdings, Inc., through its subsidiaries, engages in steel, engineering, and trading businesses in Japan and internationally. The company's Steel segment produces and sells various steel products, processed steel products, and raw materials, as well as operates in the transportation, facility maintenance, and construction businesses. Its Engineering segment engages in the construction of energy, urban environment, steel structures and industrial machinery, recycling, and electricity retailing projects. The company's Trading segment purchases, processes, and sells steel products, raw materials for steel production, nonferrous metal products, food, etc. JFE Holdings, Inc. was founded in 2002 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.jfe-holdings.co.jp"
+}

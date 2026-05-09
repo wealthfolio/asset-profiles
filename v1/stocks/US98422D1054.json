@@ -1,0 +1,39 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00WKJG3M7",
+    "cusip": "98422D105",
+    "figi": "BBG00WKJG3Y4",
+    "isin": "US98422D1054"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US98422D1054",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XPEV"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "XPEVN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "XPeng Inc.",
+  "primary_symbol": "XPEV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "XPeng Inc. designs, develops, manufactures, and markets smart electric vehicles in the People's Republic of China. It offers SUVs under the G3 name; and four-door sports sedan under the P7 name. The company also provides sales contract, maintenance, super charging, vehicle leasing, and ride-hailing services. XPeng Inc. was founded in 2015 and is headquartered in Guangzhou, the People's Republic of China.",
+  "website": "http://www.xiaopeng.com"
+}

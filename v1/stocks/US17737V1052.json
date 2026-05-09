@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG001KLZL76",
+    "cusip": "17737V105",
+    "isin": "US17737V1052"
+  },
+  "isin": "US17737V1052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US17737V1052.SG"
+    }
+  ],
+  "name": "CITRINE GLOBAL CORP",
+  "primary_symbol": "US17737V1052.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

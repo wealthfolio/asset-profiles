@@ -1,0 +1,58 @@
+{
+  "country": "Portugal",
+  "country_code": "PT",
+  "identifiers": {
+    "composite_figi": "BBG0014SCCQ3",
+    "figi": "BBG0014SCCX5",
+    "isin": "PTTD10AM0000"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Capital Goods",
+  "isin": "PTTD10AM0000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TXC2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TXC2.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XLIS",
+      "symbol": "TDSA.LS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TXC2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TXC2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TXC2.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TEIXEIRA DUARTE EO 0,50",
+  "primary_symbol": "TXC2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Teixeira Duarte is a Portuguese group operating in construction, concessions and services, real estate, hospitality, distribution and automobile. The construction division undertakes infrastructure, building and civil engineering projects, and has its headquarters in Lisbon, Portugal. The company operates internationally, with a significant presence in several countries.",
+  "website": "http://www.teixeiraduarte.pt"
+}

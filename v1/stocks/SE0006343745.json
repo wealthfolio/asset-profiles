@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00WHNKL92",
+    "figi": "BBG00WHNKLG4",
+    "isin": "SE0006343745"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0006343745",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5JA1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5JA1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0006343745.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SPRINT.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SPRINT BIOSCIENCE AB",
+  "primary_symbol": "5JA1.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Sprint Bioscience AB (publ) develops pharmaceutical products in the areas of cancer and metabolism. It engages in developing VPS34, a drug candidate for the treatment of various types of cancer; and PIP4K2, a drug candidate for the treatment of cancer. The company also focuses on research of products for the treatment of tumor metabolism and type 2 diabetes. Sprint Bioscience AB (publ) was founded in 2009 and is based in Huddinge, Sweden.",
+  "website": "http://www.sprintbioscience.com"
+}

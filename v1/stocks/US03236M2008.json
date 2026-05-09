@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0016VVS15",
+    "cusip": "03236M200",
+    "figi": "BBG0016VVS79",
+    "isin": "US03236M2008"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03236M2008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3A01.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3A01.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMRS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3A01.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3A01.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3A01.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AMYRIS BIOTECHN. DL-,0001",
+  "primary_symbol": "3A01.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Amyris, Inc. is a synthetic biotechnology company. It uses its technology platform to engineer microbes to produce a variety of molecules used in flavors, fragrances, cosmetics ingredients, and other specialty chemical products. The company is headquartered in Emeryville, California.",
+  "website": "http://www.amyris.com"
+}

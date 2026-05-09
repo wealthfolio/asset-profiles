@@ -1,0 +1,74 @@
+{
+  "country": "Brazil",
+  "country_code": "BR",
+  "identifiers": {
+    "composite_figi": "BBG000BBLG58",
+    "cusip": "465562106",
+    "figi": "BBG000BBLKF8",
+    "isin": "US4655621062"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US4655621062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BVXB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BVXB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITUB"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BVXB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BVXB.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "ITUB.BA"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "ITUB3.SA"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "ITUB4.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ITUBN.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "ITAU UNIBCO HLDG ADR PFD1",
+  "primary_symbol": "BVXB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Itau Unibanco Holding S.A. is a Brazilian financial services company providing a range of banking products and services to individuals and corporate clients. The company operates in retail banking, wholesale banking, and asset management. Itau Unibanco is headquartered in Sao Paulo, Brazil.",
+  "website": "http://www.itau.com.br"
+}

@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BXT422",
+    "cusip": "56035L104",
+    "figi": "BBG000BXT663",
+    "isin": "US56035L1044"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US56035L1044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MAIN"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "MAIN.JK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Main Street Capital Corporation",
+  "primary_symbol": "MAIN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Main Street Capital Corporation is a private equity firm specializes in equity capital to lower middle market companies. The firm also provides debt capital to middle market companies for acquisitions, management buyouts, growth financings, recapitalizations and refinancing. The firm seeks to partner with entrepreneurs, business owners and management teams and generally provides \"one stop\" financing alternatives within its lower middle market portfolio. The firm typically invests in lower middle market companies generally with annual revenues between $10 million and $150 million. The firm's middle market debt investments are made in businesses that are generally larger in size than its lower middle market portfolio companies. It makes majority and minority equity investments. Main Street Capital Corporation was founded in 2007 and is based in Houston, Texas.",
+  "website": "http://www.mainstcapital.com"
+}

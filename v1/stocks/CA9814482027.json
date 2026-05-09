@@ -1,0 +1,33 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000QQXQY2",
+    "figi": "BBG000QQXT58",
+    "isin": "CA9814482027"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA9814482027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "WCU.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "World Copper Ltd.",
+  "primary_symbol": "WCU.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Wealth Copper Ltd. engages in copper mining operations. The company is based in British Columbia, Canada. Wealth Copper Ltd. operates as a subsidiary of Wealth Minerals Ltd.",
+  "website": "http://www.worldcopperltd.com"
+}

@@ -1,0 +1,76 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "isin": "DE000A2YNT30"
+  },
+  "industry": "Software",
+  "industry_group": "Insurance",
+  "isin": "DE000A2YNT30",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACT"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACT.MU"
+    },
+    {
+      "currency": "DKK",
+      "exchange_mic": "XCSE",
+      "symbol": "ACT.CO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ACT.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ACT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ACT.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ACT.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ACT.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A2YNT30.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Enact Holdings, Inc.",
+  "primary_symbol": "ACT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Enact Holdings, Inc., formerly known as Genworth Mortgage Holdings, Inc., is a mortgage insurance company providing private mortgage insurance in the United States. The company's mortgage insurance products protect lenders against losses from borrower defaults. Enact Holdings, Inc. is headquartered in Raleigh, North Carolina.",
+  "website": "http://www.decideact.net"
+}

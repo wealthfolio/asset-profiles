@@ -1,0 +1,58 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000BPRZ95",
+    "figi": "BBG000BPS144",
+    "isin": "IT0000076536"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "IT0000076536",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GEF.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GEF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GEF.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SO.MI"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SOM.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SOM.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SOGEFI SPA  EO 0,52",
+  "primary_symbol": "GEF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Sogefi S.p.A. designs, develops and produces systems and components for the automotive industry. The company operates through two business units: Filtration and Suspensions components. Sogefi has its head office in Italy.",
+  "website": "http://www.sogefigroup.com"
+}

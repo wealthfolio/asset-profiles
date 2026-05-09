@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00JQCFSG8",
+    "cusip": "30233M503",
+    "isin": "US30233M5031"
+  },
+  "isin": "US30233M5031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US30233M5031.SG"
+    }
+  ],
+  "name": "EYEGATE PHARMACEUTICALS",
+  "primary_symbol": "US30233M5031.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

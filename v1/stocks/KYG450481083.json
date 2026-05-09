@@ -1,0 +1,48 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000FP64H4",
+    "figi": "BBG000FP7964",
+    "isin": "KYG450481083"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "KYG450481083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XYUA.MU"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "3389.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XYUA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XYUA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HENGDELI HLDG.SUB.HD-,005",
+  "primary_symbol": "XYUA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Hengdeli Holdings Limited, together with its subsidiaries, engages in the manufacture of watch accessories and packaging products. It is also involved in the design, production, and decoration of commercial spaces. The company was founded in 1957 and is headquartered in Tsim Sha Tsui, Hong Kong.",
+  "website": "http://www.hengdeligroup.com"
+}

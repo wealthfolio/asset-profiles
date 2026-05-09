@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AQX.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Alice Queen Limited",
+  "primary_symbol": "AQX.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Alice Queen Limited engages in the mineral exploration activities in Australia. The company explores for gold and copper deposits. Its flagship property is the Horn Island project located in the Torres Strait, Queensland. The company is based in South Yarra, Australia.",
+  "website": "http://www.alicequeen.com.au"
+}

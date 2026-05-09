@@ -1,0 +1,30 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Y19J9K2",
+    "figi": "BBG00Y19J9Q6",
+    "isin": "XS2188788140"
+  },
+  "isin": "XS2188788140",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N1U0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "N1U0.F"
+    }
+  ],
+  "name": "NEW ORIENTAL EDU.+TECH.G.",
+  "primary_symbol": "N1U0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BKMH55",
+    "figi": "BBG000BKML56",
+    "isin": "HK0012000102"
+  },
+  "industry_group": "Real Estate",
+  "isin": "HK0012000102",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HLD.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HLD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HLD.SG"
+    }
+  ],
+  "name": "HENDERSON LD DEV.",
+  "primary_symbol": "HLD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Henderson Land Development Company Limited is a property development and investment company in Hong Kong. The company develops residential, commercial, and industrial properties. Henderson Land Development is headquartered in Hong Kong."
+}

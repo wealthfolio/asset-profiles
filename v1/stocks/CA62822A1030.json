@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00QFVPJS8",
+    "figi": "BBG00QFVPJZ0",
+    "isin": "CA62822A1030"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "CA62822A1030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0C0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGROF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0C0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA62822A1030.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "MGRO.CN"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "MGRO.JK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MUSTGROW BIOLOGICS CORP",
+  "primary_symbol": "0C0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "MustGrow Biologics Corp., an agricultural biotech company, develops natural biopesticide products from mustard seed. It provides natural bio-pesticide that acts as a pre-plant treatment for soil borne pests and diseases. The company also distributes other biopesticide and biofertility products. It serves fruit and vegetables, and cannabis and hemp industries. The company was formerly known as Duport Capital Ltd. and changed its name to MustGrow Biologics Corp. in March 2018. MustGrow Biologics Corp. was incorporated in 2014 and is headquartered in Saskatoon, Canada.",
+  "website": "http://www.mustgrow.ca"
+}

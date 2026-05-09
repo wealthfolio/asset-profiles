@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HHD2D0",
+    "cusip": "541440103",
+    "isin": "US5414401035"
+  },
+  "isin": "US5414401035",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US5414401035.SG"
+    }
+  ],
+  "name": "LOGIQ INC",
+  "primary_symbol": "US5414401035.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

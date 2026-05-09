@@ -1,0 +1,47 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "86959X107",
+    "isin": "US86959X1072"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US86959X1072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SZKMF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SZKMY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7269.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SUK.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Suzuki Motor Corporation",
+  "primary_symbol": "SZKMF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Suzuki Motor Corporation manufactures and sells automobiles, motorcycles, and marine products in Japan, rest of Asia, Europe, and internationally. It offers mini-vehicles, sub-compact vehicles, standard-sized vehicles, all-terrain vehicles, outboard motors, motorized wheelchairs, electro senior vehicles, and houses. The company was founded in 1909 and is headquartered in Hamamatsu, Japan.",
+  "website": "http://www.globalsuzuki.com"
+}

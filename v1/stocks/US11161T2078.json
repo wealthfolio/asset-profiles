@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JRCDZ9",
+    "cusip": "11161T207",
+    "figi": "BBG000JRCK56",
+    "isin": "US11161T2078"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US11161T2078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9IRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9IRA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BWEN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9IRA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "9IRA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "BROADWIND INC.  DL-,001",
+  "primary_symbol": "9IRA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Broadwind, Inc. provides technologically advanced solutions to complex manufacturing challenges, primarily serving the energy, industrial, and infrastructure markets. The company specializes in manufacturing components for wind turbines, as well as providing heavy fabrication services. Broadwind is headquartered in Cicero, Illinois.",
+  "website": "http://www.bwen.com"
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00L999V88",
+    "cusip": "90338N202",
+    "figi": "BBG00L999VF0",
+    "isin": "US90338N2027"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Transportation",
+  "isin": "US90338N2027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7S3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "USX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7S3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US90338N2027.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "U.S.XPRESS ENT. A DL-,01",
+  "primary_symbol": "7S3.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "U.S. Xpress Enterprises, Inc. is a truckload carrier providing transportation services throughout North America. They offer a variety of services, including expedited, dedicated, and brokerage options. The company is headquartered in Chattanooga, Tennessee, USA.",
+  "website": "http://www.usxpress.com"
+}

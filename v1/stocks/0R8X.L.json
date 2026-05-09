@@ -1,0 +1,26 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0R8X.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Plazza AG",
+  "primary_symbol": "0R8X.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Plazza AG plans, develops, manages, and markets real estate properties and projects in Switzerland. It has a portfolio of residential, commercial, and office buildings, as well as garage/parking spaces. The company also provides property management services. Plazza AG is based in Zurich, Switzerland.",
+  "website": "http://www.plazza.ch"
+}

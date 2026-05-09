@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00GH38GD1",
+    "figi": "BBG00GH38GL2",
+    "isin": "CA05335P1099"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA05335P1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3KF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3KF.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CBWTF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3KF.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3KF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3KF.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "XLY.TO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "XLY.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "AUXLY CANNABIS GRP",
+  "primary_symbol": "3KF.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Auxly Cannabis Group Inc. is a Canadian cannabis company focused on the development and sale of cannabis products. They cultivate and manufacture cannabis products and also invest in other cannabis companies. The company is headquartered in Toronto, Canada.",
+  "website": "http://auxly.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "industry": "Consumer Finance",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "MICRO.BK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Micro Leasing Public Company Limited",
+  "primary_symbol": "MICRO.BK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Micro Leasing Public Company Limited provides hire-purchase finance for six-wheel and ten-wheel trucks in Thailand. The company was founded in 1994 and is headquartered in Nakhon Pathom, Thailand.",
+  "website": "http://www.microleasingplc.com"
+}

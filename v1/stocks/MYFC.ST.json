@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "MYFC.ST"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "myFC Holding AB (publ)",
+  "primary_symbol": "MYFC.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "myFC Holding AB (Publ) develops, produces, and sells micro fuel cells for portable electronics applications in Sweden, rest of the European Union, and internationally. It offers its products for mobile devices, portable mobility devices, and vehicles. The company is headquartered in Stockholm, Sweden.",
+  "website": "http://www.myfc.se"
+}

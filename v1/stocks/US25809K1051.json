@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG005D7QCJ3",
+    "cusip": "25809K105",
+    "figi": "BBG00S1N9ML5",
+    "isin": "US25809K1051"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US25809K1051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DASH"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DASH.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "DoorDash, Inc.",
+  "primary_symbol": "DASH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "DoorDash, Inc. operates a logistics platform that connects merchants, consumers, and dashers in the United States and internationally. It operates DoorDash marketplace, which provides an array of services that enable merchants to solve mission-critical challenges, such as customer acquisition, delivery, insights and analytics, merchandising, payment processing, and customer support; and offers DoorDash Drive, a white-label logistics service; DoorDash Storefront that enables merchants to offer consumers on-demand access to e-commerce. The company was formerly known as Palo Alto Delivery Inc. and changed its name to DoorDash, Inc. in 2015. DoorDash, Inc. was founded in 2013 and is headquartered in San Francisco, California.",
+  "website": "http://www.doordash.com"
+}

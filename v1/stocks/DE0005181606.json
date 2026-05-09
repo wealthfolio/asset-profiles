@@ -1,0 +1,47 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG002BLV5W5",
+    "figi": "BBG002CY4645",
+    "isin": "DE0005181606"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "DE0005181606",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WFA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "WFA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WFA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WFA.F"
+    }
+  ],
+  "name": "WENG FINE ART AG NA O.N.",
+  "primary_symbol": "WFA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "WENG Fine Art AG is an art trading company focused on buying and selling high-quality works of art, including paintings, sculptures, and prints. The company operates both online and through traditional channels, catering to collectors, museums, and investors. The headquarters are located in Germany.",
+  "website": "http://www.wengfineart.com"
+}

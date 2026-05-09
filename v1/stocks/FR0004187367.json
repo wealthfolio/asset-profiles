@@ -1,0 +1,33 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000G49218",
+    "figi": "BBG000G49272",
+    "isin": "FR0004187367"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0004187367",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALFRE.PA"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Freelance.com SA",
+  "primary_symbol": "ALFRE.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Freelance.com SA provides intermediation between companies and intellectual providers in France, Germany, Britain, Morocco, Switzerland, and Singapore. It offers outsourcing managing, talent acquisition and umbrella company arrangement, and verifying service provider compliance services. The company was founded in 1995 and is headquartered in Paris, France.",
+  "website": "http://www.freelance.com"
+}

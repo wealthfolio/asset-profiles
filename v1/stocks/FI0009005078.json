@@ -1,0 +1,56 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "isin": "FI0009005078"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Automobiles & Components",
+  "isin": "FI0009005078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0FNZ.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009005078.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PNS.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PNS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PNS.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "PON1V.HE"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Ponsse Oyj",
+  "primary_symbol": "0FNZ.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Ponsse Oyj, together with its subsidiaries, develops, manufactures, and sells cut-to-length forest machines Northern Europe, Central and Southern Europe, Russia and Asia, and North and South America. Its products include harvesters, forwarders, harvester heads, and dual machines. The company also offers information system products, such as forest machine and wood procurement systems; and simulators. In addition, it provides spare parts; and used machines. Ponsse Oyj was founded in 1970 and is headquartered in Vierem√É¬§, Finland.",
+  "website": "http://www.ponsse.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NAUT"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Nautilus Biotechnology, Inc.",
+  "primary_symbol": "NAUT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Nautilus Biotechnology, Inc., a development stage life sciences company, engages in creating a platform technology for quantifying and unlocking the complexity of the proteome. It operates Nautilus Proteomic Analysis Platform, an integrated single-molecule protein analysis platform that leverages a nanofabricated, large-scale, single-molecule protein array, multi-cycle imaging, and machine learning analysis to potentially identify and quantify the proteome. The company was incorporated in 2016 and is headquartered in Seattle, Washington.",
+  "website": "http://www.nautilus.bio"
+}

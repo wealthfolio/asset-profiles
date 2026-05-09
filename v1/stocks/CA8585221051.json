@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA8585221051"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA8585221051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "STZHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S0K.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "STLC.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Stelco Holdings Inc.",
+  "primary_symbol": "STZHF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Stelco Holdings Inc. produces and sells various steel products in Canada, the United States, and internationally. The company provides flat-rolled value-added steel, including coated, pre-painted, cold-rolled, and hot-rolled steel products, as well as pig iron and metallurgical coke. It sells its products to customers in the appliance, automotive, energy, construction, pipe, and tube industries, as well as to various steel service centers. The company was founded in 1910 and is headquartered in Hamilton, Canada.",
+  "website": "http://www.stelco.com"
+}

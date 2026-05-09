@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000JCV1K3",
+    "cusip": "879369106",
+    "figi": "BBG000JCV515",
+    "isin": "US8793691069"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US8793691069",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TBH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TFX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TBH.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TBH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TBH.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TELEFLEX INC.  DL 1",
+  "primary_symbol": "TBH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "TELEFLEX INC. DL 1 is a global provider of medical devices for critical care, surgical, and interventional procedures. The company designs, develops, manufactures, and supplies single-use medical devices. Teleflex is headquartered in Wayne, Pennsylvania.",
+  "website": "http://www.teleflex.com"
+}

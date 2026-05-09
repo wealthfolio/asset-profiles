@@ -1,0 +1,58 @@
+{
+  "country": "Finland",
+  "country_code": "FI",
+  "identifiers": {
+    "composite_figi": "BBG000BRFC59",
+    "figi": "BBG000BRFFZ9",
+    "isin": "FI0009000251"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Retailing",
+  "isin": "FI0009000251",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SOMB.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0MW2.L"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FI0009000251.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SOMB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SOMB.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XHEL",
+      "symbol": "STOCKA.HE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "STOCKMANN OYJ B  EO 2",
+  "primary_symbol": "SOMB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "STOCKMANN OYJ B EO 2 is a Finnish company operating department stores and fashion retail chains. The company's main business is retail with a broad range of products across fashion, home, beauty, and food. The company is headquartered in Helsinki, Finland.",
+  "website": "http://www.stockmanngroup.com"
+}

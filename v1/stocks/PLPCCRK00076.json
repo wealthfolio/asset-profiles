@@ -1,0 +1,38 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRK591",
+    "figi": "BBG00ZHRK5G3",
+    "isin": "PLPCCRK00076"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "PLPCCRK00076",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "229.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "229.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "PCC ROKITA S.A. B  ZY 1",
+  "primary_symbol": "229.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "PCC Rokita SA manufactures and distributes a wide range of chemical products. The company's products include polyols, chlorine, and other specialty chemicals used in various industries. Its headquarters is located in Brzeg Dolny, Poland.",
+  "website": "http://www.pcc.rokita.pl"
+}

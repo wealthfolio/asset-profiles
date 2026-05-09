@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005546103"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "IT0005546103",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CYB.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Cyberoo S.p.A.",
+  "primary_symbol": "CYB.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cyberoo S.p.A. provides cyber security, smart monitoring, and managed services. The company offers Cyber Security Suite, a platform that provides a range of services to protect companies from various types of cyber attacks; and managed services, including datacenter, cloud, and device management services. It also provides Titaan, a system behavior analyzer that collects and correlates the logs of services, applications, virtual servers, server infrastructure, and network assets in a user-friendly dashboard. The company is headquartered in Reggio Emilia, Italy.",
+  "website": "http://cyberoo.com"
+}

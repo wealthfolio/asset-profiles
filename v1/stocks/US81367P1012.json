@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "cusip": "81367P101",
+    "isin": "US81367P1012"
+  },
+  "industry_group": "Retailing",
+  "isin": "US81367P1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1S8.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1S8.SG"
+    }
+  ],
+  "name": "SECOO HLDG UNSP.ADR/1/2",
+  "primary_symbol": "1S8.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Secoo Holding Limited is an online retailer of luxury products and services in China. The company operates an integrated online and offline platform, offering a wide selection of luxury goods, including apparel, accessories, and lifestyle products, and is headquartered in Beijing, China."
+}

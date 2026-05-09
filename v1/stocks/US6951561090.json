@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C8JL01",
+    "cusip": "695156109",
+    "figi": "BBG000C8KQ53",
+    "isin": "US6951561090"
+  },
+  "industry": "Distributors",
+  "industry_group": "Materials",
+  "isin": "US6951561090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PKA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PKG"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "P1KG34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PKA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PKA.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "PACKAGING CORP. OF AMER.",
+  "primary_symbol": "PKA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Packaging Corporation of America (PCA) is a manufacturer of containerboard and corrugated packaging products. Headquartered in Lake Forest, Illinois, PCA operates mills and plants across the United States. They supply corrugated packaging solutions for various industries, including food, beverage, and e-commerce.",
+  "website": "http://www.packagingcorp.com"
+}

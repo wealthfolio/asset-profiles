@@ -1,0 +1,32 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "85208T107",
+    "isin": "US85208T1079"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "US85208T1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CXM.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Centrex Metals Limited",
+  "primary_symbol": "CXM.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Centrex Metals Limited operates as a mineral exploration company in Australia. The company explores for phosphate, potash, zinc, lead, gold, and copper deposits. Its flagship property is the Ardmore phosphate rock project located to the south of Mount Isa in North West Queensland. The company was incorporated in 2001 and is headquartered in Adelaide, Australia.",
+  "website": "http://www.centrexmetals.com.au"
+}

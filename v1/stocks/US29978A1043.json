@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00DW3D282",
+    "cusip": "29978A104",
+    "figi": "BBG00DW3D2F4",
+    "isin": "US29978A1043"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US29978A1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2E7.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVBG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A6C.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2E7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2E7.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EVBG.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EVERBRIDGE INC  DL-,001",
+  "primary_symbol": "2E7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Everbridge, Inc. provides enterprise software applications that automate and accelerate an organization’s operational response to critical events. Their platform enables organizations to manage critical events such as natural disasters, terrorist attacks, and IT outages. Everbridge is headquartered in Burlington, Massachusetts.",
+  "website": "http://www.everbridge.com"
+}

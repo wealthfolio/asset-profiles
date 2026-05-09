@@ -1,0 +1,63 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000R0SQJ1",
+    "figi": "BBG000R0SV82",
+    "isin": "CA71385D1078"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA71385D1078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4PC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4PC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PYNKF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4PC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA71385D1078.SG"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "PINK.PR"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "PINK.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "PERIMETER MED.IMAG.AI",
+  "primary_symbol": "4PC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Perimeter Medical Imaging AI, Inc. is a medical technology company focused on developing, commercializing, and validating advanced imaging tools that allow surgeons and pathologists to visualize microscopic tissue structures during surgery. The company's products aim to improve surgical outcomes and reduce the need for repeat surgeries. Perimeter Medical Imaging AI is headquartered in Toronto, Canada.",
+  "website": "http://www.perimetermed.com"
+}

@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "92556V106",
+    "isin": "IT0003127898"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "IT0003127898",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "VIA.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Vianini S.p.A.",
+  "primary_symbol": "VIA.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Vianini S.p.A. engages in the development, sale, leasing, and maintenance of real estate properties. Its real estate portfolio includes apartments located in residential areas. The company was formerly known as Vianini Industria S.p.A. The company was founded in 1892 and is based in Rome, Italy.",
+  "website": "http://www.vianinispa.com"
+}

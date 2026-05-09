@@ -1,0 +1,25 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "88D.MU"
+    }
+  ],
+  "name": "WR Wohnraum AG",
+  "primary_symbol": "88D.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "WR Wohnraum AG is a German real estate company focused on the acquisition, development, and management of residential properties. They primarily invest in properties located in Germany. The company is based in Munich, Germany.",
+  "website": "http://www.wohnraum.ag"
+}

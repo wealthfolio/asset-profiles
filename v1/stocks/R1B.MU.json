@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "R1B.MU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Rubean AG",
+  "primary_symbol": "R1B.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Rubean AG develops software for financial markets in Germany. The company offers PhonePOS, a mobile point-of-sale (POS) solution that enables a smartphone to accept contactless card payments; and RubeanTag, a communication circle between POS terminal, customer phone, and payment service provider. It also provides RubeanSign, a consumer-focused application designed to streamline mobile and on-line transactions, payments, purchases, money transfers, etc.; and DRubeans, a platform that connects various work stations, such as PCs and thin client terminals with various peripheral devices comprising printers and automated teller safes. Rubean AG is based in Munich, Germany.",
+  "website": "http://www.rubean.com"
+}

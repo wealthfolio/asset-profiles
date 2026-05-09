@@ -1,0 +1,46 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "AU000000WEC5"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000WEC5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WECFF"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WEC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XPK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XPK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "White Energy Company Limited",
+  "primary_symbol": "WECFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "White Energy Company Limited engages in coal technology, coal mining, and exploration businesses in Australia, Indonesia, China, Singapore, South Africa, Mauritius, the United States, and the United Kingdom. The company holds license for the Binderless Coal Briquetting technology, which processes poor quality coal into a higher quality product. White Energy Company Limited is headquartered in Brisbane, Australia.",
+  "website": "http://www.whiteenergyco.com"
+}

@@ -1,0 +1,61 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "isin": "IT0004764699"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0004764699",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0Q7S.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8BU.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8BU.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8BU.DU"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "BC.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BC.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BCM.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BRUNELLO CUCINELLI SPA BRUNELLO",
+  "primary_symbol": "0Q7S.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "BRUNELLO CUCINELLI SPA is an Italian fashion company specializing in luxury clothing and accessories. The company is known for its cashmere knitwear and sophisticated style. Its headquarters are located in Solomeo, Italy.",
+  "website": "http://www.boutiquecorporation.com"
+}

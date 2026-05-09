@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "IE00BKTW9M13"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "IE00BKTW9M13",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "MSFS.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SMSE.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SMSF.L"
+    }
+  ],
+  "market_cap_band": "Mega Cap",
+  "name": "Leverage Shares -1x Microsoft ETC",
+  "primary_symbol": "MSFS.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Leverage Shares -1x Microsoft ETC is an exchange-traded commodity (ETC) designed to provide inverse leveraged exposure to the daily performance of Microsoft shares. The ETC aims to deliver the opposite of the daily percentage change in the price of Microsoft stock. Investors use this ETC to gain short-term exposure to declines in Microsoft's price.",
+  "website": "http://www.microsoft.com"
+}

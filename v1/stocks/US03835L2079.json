@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00DLXF4Y3",
+    "cusip": "03835L207",
+    "figi": "BBG00DLXF5B5",
+    "isin": "US03835L2079"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03835L2079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AP8N.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AP8N.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APVO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AP8N.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US03835L2079.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "APTEVO THERAP.INC.DL-,001",
+  "primary_symbol": "AP8N.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Aptevo Therapeutics Inc. is a biotechnology company focused on developing novel immuno-oncology therapeutics and bispecific antibody therapeutics. They utilize their proprietary ADAPTIR and ADAPTIR-Flex platforms to generate product candidates. The company is headquartered in Seattle, Washington.",
+  "website": "http://www.aptevotherapeutics.com"
+}

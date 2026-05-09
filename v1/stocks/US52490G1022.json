@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XC9C3R5",
+    "cusip": "52490G102",
+    "figi": "BBG00XC9C3Y7",
+    "isin": "US52490G1022"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US52490G1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9LB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9LB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9LB.DU"
+    }
+  ],
+  "name": "LEGEND BIOTECH SP.ADS/2",
+  "primary_symbol": "9LB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Legend Biotech Corporation is a global biotechnology company dedicated to developing, manufacturing, and commercializing novel cell therapies for oncology and other indications. The company focuses on innovative approaches to develop therapies for cancer, especially CAR-T cell therapies. Legend Biotech Corporation is headquartered in Somerset, New Jersey."
+}

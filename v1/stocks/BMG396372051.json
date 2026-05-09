@@ -1,0 +1,68 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG000BP83H8",
+    "figi": "BBG000BP8CW1",
+    "isin": "BMG396372051"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "BMG396372051",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GOGL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KT31.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KT31.MU"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "GOGL.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "GOGLO.OL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KT31.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KT31.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KT31.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Golden Ocean Group Limited",
+  "primary_symbol": "GOGL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Golden Ocean Group Limited, a shipping company, owns and operates a fleet of dry bulk vessels comprising Newcastlemax, Capesize, Panamax, and Ultramax vessels worldwide. It owns and operates dry bulk vessels in the spot and time charter markets. The company transports bulk commodities, such as ores, coal, grains, and fertilizers. As of March 18, 2021, it owned a fleet of 67 dry bulk vessels. Golden Ocean Group Limited is based in Hamilton, Bermuda.",
+  "website": "http://www.goldenocean.bm"
+}

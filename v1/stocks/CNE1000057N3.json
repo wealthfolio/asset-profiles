@@ -1,0 +1,41 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "isin": "CNE1000057N3"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "CNE1000057N3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "600801.SS"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "6655.TW"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "900933.SS"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Huaxin Cement Co., Ltd.",
+  "primary_symbol": "600801.SS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Huaxin Cement Co., Ltd., together with its subsidiaries, manufactures and sells cement in China and internationally. It also provides RMX products and aggregates, as well as cement technical services. In addition, the company is involved in the research, manufacture, installation, and maintenance of cement equipment; and cement import and export trade activities. Further, it engages in the cement kiln co-processing of waste materials; EPC for cement projects; equipment business; and project contracting business related to cement kiln co-processing technology, cement-based high-tech building materials, etc. The company was founded in 1907 and is based in Wuhan, China.",
+  "website": "http://www.huaxincem.com"
+}

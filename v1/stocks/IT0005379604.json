@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005379604"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "IT0005379604",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "CFV.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Confinvest F.L. S.p.A.",
+  "primary_symbol": "CFV.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Confinvest F.L. S.p.A. engages in the gold coins and ingots brokerage business in Italy. It sells gold coins and ingots; invests in physical gold; and offers physical gold accumulation plans, as well as physical gold custody services. The company was founded in 1983 and is headquartered in Milan, Italy.",
+  "website": "http://www.confinvest.it"
+}

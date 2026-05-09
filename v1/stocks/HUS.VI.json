@@ -1,0 +1,27 @@
+{
+  "country": "Austria",
+  "country_code": "AT",
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "HUS.VI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Hutter & Schrantz AG",
+  "primary_symbol": "HUS.VI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Hutter & Schrantz AG operates as a wire processing company worldwide. It provides ceiling systems, industrial screens, steel springs, and technical fabrics. The company was founded in 1824 and is based in Vienna, Austria.",
+  "website": "http://www.hutterschrantz.at"
+}

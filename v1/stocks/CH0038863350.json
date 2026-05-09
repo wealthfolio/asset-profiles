@@ -1,0 +1,34 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "isin": "CH0038863350"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CH0038863350",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QR4.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NSTR.TA"
+    }
+  ],
+  "name": "NESTLE SA NESTLE ORD SHS",
+  "primary_symbol": "0QR4.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Nestlé S.A. is a multinational food and beverage company that manufactures and markets a wide range of products, including baby food, coffee, confectionery, dairy products, ice cream, and pet food. The company's portfolio includes brands such as Nescafé, KitKat, Maggi, and Purina, operating through various business segments worldwide. Nestlé is headquartered in Vevey, Switzerland."
+}

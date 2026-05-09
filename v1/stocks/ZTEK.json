@@ -1,0 +1,25 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZTEK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Zentek Ltd. Common Stock",
+  "primary_symbol": "ZTEK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Zentek Ltd. is a Canadian company focused on developing and commercializing innovative nanotechnologies, particularly related to graphene. Their primary product is ZenGUARD™, an antimicrobial coating for personal protective equipment (PPE) and other applications. The company is headquartered in Guelph, Ontario, Canada."
+}

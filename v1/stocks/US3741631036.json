@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GX1891",
+    "cusip": "374163103",
+    "figi": "BBG000GX2QD5",
+    "isin": "US3741631036"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US3741631036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GERN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GON.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GON.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0IV3.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "GON.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GON.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GON.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Geron Corporation",
+  "primary_symbol": "GERN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Geron Corporation, a late-stage clinical biopharmaceutical company, focuses on the development and commercialization of therapeutics for hematologic myeloid malignancies. It develops imetelstat, a telomerase inhibitor that is in Phase 3 clinical trials, which inhibits the uncontrolled proliferation of malignant stem and progenitor cells in hematologic myeloid malignancies for the treatment of low or intermediate-1 risk myelodysplastic syndromes and intermediate-2 or high-risk myelofibrosis. The company was incorporated in 1990 and is headquartered in Foster City, California.",
+  "website": "http://www.geron.com"
+}

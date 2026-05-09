@@ -1,0 +1,21 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2XD.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Harmony Merger Corp.",
+  "primary_symbol": "2XD.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "Harmony Merger Corp. is a special purpose acquisition company (SPAC). It was created to merge with another company, effectively taking that company public."
+}

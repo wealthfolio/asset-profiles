@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000H0YTV5",
+    "isin": "GB0006886666"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "GB0006886666",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB0006886666.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB0006886666.SW"
+    }
+  ],
+  "name": "EUROMONEY INSTL INVESTOR PLC",
+  "primary_symbol": "GB0006886666.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Euromoney Institutional Investor PLC is a global business-to-business media group focused on providing essential information, data, and events to the banking, finance, and legal industries. The company's brands include Euromoney, Institutional Investor, and Legal Week. Euromoney Institutional Investor is headquartered in London, United Kingdom."
+}

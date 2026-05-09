@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG0087HM2Z0",
+    "figi": "BBG0087HM360",
+    "isin": "DE000A12UPJ7"
+  },
+  "industry": "Household Products",
+  "industry_group": "Media & Entertainment",
+  "isin": "DE000A12UPJ7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PAL.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "PAL.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "PAL.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PAL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PAL.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PAL.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PANTAFLIX AG  INH. O.N.",
+  "primary_symbol": "PAL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "PANTAFLIX AG is a media and entertainment company that operates a video-on-demand platform. They offer a range of content including films, series, and documentaries. The company is headquartered in Germany.",
+  "website": "http://www.pallapharma.com"
+}

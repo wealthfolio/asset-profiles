@@ -1,0 +1,48 @@
+{
+  "country": "Denmark",
+  "country_code": "DK",
+  "identifiers": {
+    "composite_figi": "BBG00YCYQCS2",
+    "figi": "BBG00YCYQCY5",
+    "isin": "DK0061412772"
+  },
+  "industry": "Marine",
+  "industry_group": "Capital Goods",
+  "isin": "DK0061412772",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CA2.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CA2.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CA2.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "CADLR.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CADELER A/S  DK 1",
+  "primary_symbol": "CA2.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Cadeler A/S is a company specializing in offshore wind turbine installation and maintenance services. They operate globally with a fleet of specialized vessels. The company is headquartered in Denmark.",
+  "website": "http://www.cadeler.com"
+}

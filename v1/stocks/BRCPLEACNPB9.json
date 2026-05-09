@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000PV76G5",
+    "figi": "BBG000PV7942",
+    "isin": "BRCPLEACNPB9"
+  },
+  "industry_group": "Utilities",
+  "isin": "BRCPLEACNPB9",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ELPA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ELPA.SG"
+    }
+  ],
+  "name": "CIA PARANAENSE EN. PFD B",
+  "primary_symbol": "ELPA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "CIA Paranaense de Energia (Copel) is a Brazilian power company that generates, transmits, distributes, and sells electricity. The company operates hydroelectric, thermal, and wind power plants. Copel is headquartered in Curitiba, Brazil."
+}

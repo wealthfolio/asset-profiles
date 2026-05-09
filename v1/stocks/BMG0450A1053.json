@@ -1,0 +1,34 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "isin": "BMG0450A1053"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "BMG0450A1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "ACGL.BO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BMG0450A1053.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Automobile Corporation of Goa Limited",
+  "primary_symbol": "ACGL.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Automobile Corporation of Goa Limited manufactures sheet metal components, bus bodies and pressed parts. The company primarily serves the automotive industry. Automobile Corporation of Goa Limited is headquartered in Goa, India."
+}

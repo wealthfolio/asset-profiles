@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "LP60.VI"
+    }
+  ],
+  "name": "EB OE TL.Z./CA IMMO",
+  "primary_symbol": "LP60.VI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "EB OE TL.Z./CA IMMO is likely a tracker certificate related to CA Immobilien Anlagen AG. Tracker certificates are securities that track the performance of an underlying asset, in this case, CA Immo. CA Immo is an Austrian real estate company."
+}

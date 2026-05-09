@@ -1,0 +1,43 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C24QK7",
+    "figi": "BBG000C24SR6",
+    "isin": "JP3901200000"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "isin": "JP3901200000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MPX.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MPX.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MPX.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MITSUBISHI PAPER M.",
+  "primary_symbol": "MPX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Mustera Property Group Limited, together with its subsidiaries, operates as a property investment and development company in Australia. It acquires, invests in, develops, rents, and sells residential, commercial, industrial and retail, and mixed-use properties. The company also engages in the management activities. Mustera Property Group Limited was incorporated in 2010 and is based in North Fremantle, Australia.",
+  "website": "http://www.mustera.com.au"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "composite_figi": "BBG000BN0Y47",
+    "figi": "BBG000BN15V9",
+    "isin": "MHY816691064"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY816691064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GASS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S6W.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S6W.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "StealthGas Inc.",
+  "primary_symbol": "GASS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "StealthGas Inc., together with its subsidiaries, provides seaborne transportation services to liquefied petroleum gas (LPG) producers and users internationally. It also provides crude oil and product carriers chartered to oil producers, refiners, and commodities traders. The company's carriers carry various petroleum gas products in liquefied form, including propane, butane, butadiene, isopropane, propylene, and vinyl chloride monomer; and refined petroleum products, such as gasoline, diesel, fuel oil, and jet fuel, as well as edible oils and chemicals. As of April 1, 2021, it had a fleet of 50 vessels comprising 46 LPG carriers with a total capacity of 436,692 cubic meters; three medium range product carriers with a total capacity of 140,000 deadweight tons (dwt); and one Aframax crude oil tanker with a total capacity of 115,804 dwt. StealthGas Inc. was incorporated in 2004 and is based in Athens, Greece.",
+  "website": "http://www.stealthgas.com"
+}

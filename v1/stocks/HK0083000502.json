@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BFW524",
+    "figi": "BBG000BFW8R1",
+    "isin": "HK0083000502"
+  },
+  "industry_group": "Real Estate",
+  "isin": "HK0083000502",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNO.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SNO.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SNO.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SNO.SG"
+    }
+  ],
+  "name": "SINO LD CO.",
+  "primary_symbol": "SNO.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Sino Land Company Limited is a property developer in Hong Kong. The company develops residential, office, industrial and retail properties for sale and investment. It's based in Hong Kong."
+}

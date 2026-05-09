@@ -1,0 +1,24 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "ACME.CN"
+    }
+  ],
+  "name": "ACME Lithium Inc.",
+  "primary_symbol": "ACME.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ACME Lithium Inc., a technology company, specializes in the digital customer acquisition in Canada. The company manages and optimizes its customers digital marketing campaigns by using a proprietary inquiry management platform and database of international prospects. It serves higher education institutions that promote campus and online degree programs to consumers through digital media, such as websites, mobile apps, social media networks, and direct e-mails. The company was incorporated in 2017 and is based in Vancouver, Canada."
+}

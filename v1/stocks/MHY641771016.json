@@ -1,0 +1,51 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "identifiers": {
+    "isin": "MHY641771016"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "MHY641771016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OKENF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7OK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MHY641771016.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "OET.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "OETO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Okeanis Eco Tankers Corp.",
+  "primary_symbol": "OKENF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Okeanis Eco Tankers Corp. owns, charters out, and operates tanker vessels. The company also offers commercial shipping services. As of February 12, 2021, its fleet comprised 17 vessels, including three Aframax/LR2 vessels, six Suezmax vessels, and eight VLCC vessels. The company was incorporated in 2018 and is based in Piraeus, Greece.",
+  "website": "http://www.okeanisecotankers.com"
+}

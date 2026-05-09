@@ -1,0 +1,56 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "isin": "PLCFRPT00013"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "PLCFRPT00013",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0MNQ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CP9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CP9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYFWF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CP9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CP9.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CYFROWY POLSAT SA CYFROWY POLSA",
+  "primary_symbol": "0MNQ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Cyfrowy Polsat S.A. is a Polish media and telecommunications company. It provides pay television, internet, and mobile telephony services. The company is headquartered in Warsaw, Poland.",
+  "website": "http://www.cyfrowypolsat.pl"
+}

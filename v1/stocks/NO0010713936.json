@@ -1,0 +1,53 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00XZNRDD6",
+    "figi": "BBG00XZNRDL7",
+    "isin": "NO0010713936"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Capital Goods",
+  "isin": "NO0010713936",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6I4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6I4.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "6I4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010713936.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ZAP.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ZAPTEC AS NK -,00625",
+  "primary_symbol": "6I4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ZAPTEC AS develops, produces, and sells electric vehicle charging systems, focusing on simplicity, safety, and user-friendliness for homes, businesses, and public charging stations, headquartered in Stavanger, Norway.",
+  "website": "http://zaptec.com"
+}

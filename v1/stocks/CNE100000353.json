@@ -1,0 +1,63 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000JN97M9",
+    "figi": "BBG000JN9C48",
+    "isin": "CNE100000353"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Retailing",
+  "isin": "CNE100000353",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GKE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HISEF"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHE",
+      "symbol": "000921.SZ"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0921.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GKE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GKE.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "HISENSE HOME APP.GR.H YC1",
+  "primary_symbol": "GKE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "HISENSE HOME APP.GR.H YC1 is part of Hisense, a major Chinese multinational conglomerate specializing in electronics and home appliances. The company manufactures and markets a wide range of products including televisions, refrigerators, air conditioners, washing machines, and other consumer electronics. Hisense is headquartered in Qingdao, China.",
+  "website": "http://hxjd.hisense.cn"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG000BQZ769",
+    "figi": "BBG000BQZBL3",
+    "isin": "LU1618151879"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "LU1618151879",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TGHN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TGHN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TGHN.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TGHN.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TGHN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TGHN.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LOGWIN AG NAM. O.N.",
+  "primary_symbol": "TGHN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Logwin AG is a logistics company that provides transportation and warehousing solutions. They offer a wide range of services, including air and sea freight, overland transport, and contract logistics. The company is headquartered in Grevenmacher, Luxembourg.",
+  "website": "http://www.logwin-logistics.com"
+}

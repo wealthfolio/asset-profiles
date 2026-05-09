@@ -1,0 +1,37 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00LJMC689",
+    "isin": "IT0005337172"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "IT0005337172",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0005337172.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SGC.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SG CO SOCIETA BENEFIT SPA",
+  "primary_symbol": "IT0005337172.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SG Company S.p.A. provides live and digital communication services for B2B, B2C, and BTL markets. The company was founded in 2000 and is based in Milan, Italy.",
+  "website": "http://www.sg-company.it"
+}

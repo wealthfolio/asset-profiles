@@ -1,0 +1,43 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00PC21SL0",
+    "figi": "BBG00PC21SM9",
+    "isin": "NO0010851603"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "NO0010851603",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7UM.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ULTI.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ULTIO.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Ultimovacs ASA",
+  "primary_symbol": "7UM.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Ultimovacs ASA, a pharmaceutical company, develops immunotherapies for various cancers. The company engages in performing a clinical development program with clinical trials in Europe and the United States. Its lead product candidate is UV1, a peptide-based vaccine, which completed Phase I clinical trial that induces T cell response against the universal cancer antigen telomerase. The company was founded in 2011 and is headquartered in Oslo, Norway.",
+  "website": "http://www.ultimovacs.com"
+}

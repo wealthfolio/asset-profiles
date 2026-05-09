@@ -1,0 +1,140 @@
+{
+  "as_of_date": "2026-08-31",
+  "asset_class_weights": [
+    {
+      "asset_class": "Fixed Income",
+      "weight": 0.818105
+    },
+    {
+      "asset_class": "Cash",
+      "weight": 0.181895
+    }
+  ],
+  "aum_usd": 486695178.44,
+  "category": "Large Cap",
+  "category_group": "Equities",
+  "country_weights": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "weight": 0.769744
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "weight": 0.086924
+    },
+    {
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "weight": 0.034522
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "weight": 0.033599
+    },
+    {
+      "country": "Japan",
+      "country_code": "JP",
+      "weight": 0.02764
+    },
+    {
+      "country": "Jersey",
+      "country_code": "JE",
+      "weight": 0.016532
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "weight": 0.015596
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "weight": 0.015443
+    }
+  ],
+  "holdings_count": 93,
+  "issuer": "Invesco",
+  "kind": "etf",
+  "listings": [
+    {
+      "currency": "USD",
+      "symbol": "RSP"
+    }
+  ],
+  "name": "Invesco S&P 500 Equal Weight ETF",
+  "primary_symbol": "RSP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "public domain",
+    "source": "SEC EDGAR N-PORT",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001378872"
+  },
+  "schema_version": "1.0.0",
+  "sector_weights": [
+    {
+      "sector": "Unknown",
+      "weight": 1.0
+    }
+  ],
+  "top_holdings": [
+    {
+      "name": "Invesco Private Prime Fund",
+      "weight": 0.129271
+    },
+    {
+      "name": "Invesco Private Government Fund",
+      "weight": 0.0496
+    },
+    {
+      "cusip": "36168QAQ7",
+      "isin": "US36168QAQ73",
+      "name": "GFL Environmental Inc.",
+      "weight": 0.038636
+    },
+    {
+      "cusip": "695114DF2",
+      "isin": "US695114DF26",
+      "name": "PacifiCorp",
+      "weight": 0.037157
+    },
+    {
+      "cusip": "92857WBQ2",
+      "isin": "US92857WBQ24",
+      "name": "Vodafone Group PLC",
+      "weight": 0.03304
+    },
+    {
+      "cusip": "43990FAA6",
+      "isin": "US43990FAA66",
+      "name": "Horizon Mutual Holdings, Inc.",
+      "weight": 0.027925
+    },
+    {
+      "cusip": "918204BC1",
+      "isin": "US918204BC10",
+      "name": "V.F. Corp.",
+      "weight": 0.02148
+    },
+    {
+      "cusip": "44701QBE1",
+      "isin": "US44701QBE17",
+      "name": "Huntsman International LLC",
+      "weight": 0.019647
+    },
+    {
+      "cusip": "78413KAB8",
+      "isin": "US78413KAB89",
+      "name": "SES Americom Inc.",
+      "weight": 0.01914
+    },
+    {
+      "cusip": "03837AAD2",
+      "isin": "US03837AAD28",
+      "name": "Aptiv Swiss Holdings Ltd.",
+      "weight": 0.016257
+    }
+  ]
+}

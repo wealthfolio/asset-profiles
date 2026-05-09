@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00CTDLCB1",
+    "figi": "BBG00CTDLCH5",
+    "isin": "GB00BYYW3C20"
+  },
+  "industry": "Construction Materials",
+  "industry_group": "Materials",
+  "isin": "GB00BYYW3C20",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "F0T.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FTTRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "F0T.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "F0T.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "FORT.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Forterra plc",
+  "primary_symbol": "F0T.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Forterra plc manufactures and sells masonry products in the United Kingdom. It operates through three segments: Bricks, Blocks, and Bespoke Products. The company offers bricks; aircrete and aggregate blocks; and bespoke products comprising precast concrete flooring, concrete block paving, and chimney and roofing components, as well as other building products under the London Brick, Butterley Brick, Ecostock, Cradley, Thermalite, Conbloc, Bison Precast, Jetfloor, Red Bank, and Formpave brand names. It serves builders' merchants, residential homebuilders, specialized brick merchants, contractors, and subcontractors. The company was incorporated in 2016 and is headquartered in Northampton, the United Kingdom.",
+  "website": "http://forterraplc.co.uk"
+}

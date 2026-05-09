@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BSF0P1",
+    "figi": "BBG000BSF4P3",
+    "isin": "JP3932000007"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "JP3932000007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YEC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "YEC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YEC.SG"
+    }
+  ],
+  "name": "YASKAWA EL. CORP.",
+  "primary_symbol": "YEC.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "YASKAWA EL. CORP. is a Japanese manufacturer of industrial robots, motion control equipment, and system engineering solutions. The company's products are used in various industries, including automotive, electronics, and logistics. Yaskawa Electric Corporation is headquartered in Kitakyushu, Japan."
+}

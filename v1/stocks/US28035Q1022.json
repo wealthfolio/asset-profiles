@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BT09Z5",
+    "cusip": "28035Q102",
+    "figi": "BBG000BT0CQ8",
+    "isin": "US28035Q1022"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US28035Q1022",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EGZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EPC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EGZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "EGZ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "EDGEWELL PERS.CARE DL-,01",
+  "primary_symbol": "EGZ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Edgewell Personal Care Company is a manufacturer and marketer of personal care products, including shaving products, sun and skin care products, and feminine care products. Its brands include Schick, Wilkinson Sword, Banana Boat, Hawaiian Tropic, and Playtex. The company is headquartered in Shelton, Connecticut.",
+  "website": "http://edgewell.com"
+}

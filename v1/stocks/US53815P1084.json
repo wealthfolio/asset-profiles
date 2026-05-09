@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BB4HM6",
+    "cusip": "53815P108",
+    "figi": "BBG000BB4L10",
+    "isin": "US53815P1084"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "US53815P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAMP"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XIM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XIM.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XIM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XIM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XIM.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LiveRamp Holdings, Inc.",
+  "primary_symbol": "RAMP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LiveRamp Holdings, Inc., a technology company, provides enterprise data connectivity platform solutions in the United States, Europe, and the Asia-Pacific. The company offers IdentityLink, a true people-based identifier that provides onboarding, identity resolution, data network, and measurement and analytics solutions. It serves financial, insurance and investment services, retail, automotive, telecommunications, high tech, consumer packaged goods, healthcare, travel, entertainment, non-profit, and government industries. LiveRamp Holdings, Inc. has collaboration with The Trade Desk, Inc. The company was formerly known as Acxiom Holdings, Inc. and changed its name to LiveRamp Holdings, Inc. in October 2018. LiveRamp Holdings, Inc. is headquartered in San Francisco, California.",
+  "website": "http://www.liveramp.com"
+}

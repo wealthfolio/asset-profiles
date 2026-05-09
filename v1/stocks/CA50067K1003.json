@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00DDQR768",
+    "figi": "BBG00DDQR7D0",
+    "isin": "CA50067K1003"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA50067K1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUS.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EUS.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KOREF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA50067K1003.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EUS.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EUS.F"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "KORE.BO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "KORE.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "KORE Mining Ltd.",
+  "primary_symbol": "EUS.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "KORE Mining Ltd. engages in the exploration, development, and evaluation of mineral resource properties. It primary focuses on two 100% owned gold projects, including the Imperial project that consists of 654 claims covering an area of approximately 5,721 acres located in Imperial County, southeastern California; and the Long Valley gold development project, which comprises 95 mining claims that cover an area of approximately 1,800 acres located in Mono County, east-central California. The company is headquartered in Vancouver, Canada.",
+  "website": "http://www.koremining.com"
+}

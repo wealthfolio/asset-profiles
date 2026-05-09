@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CYCUW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Cycurion Inc. Warrant",
+  "primary_symbol": "CYCUW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cycurion Inc. Warrant represents the right to purchase shares of Cycurion Inc. at a specified price within a certain timeframe. The warrant is a derivative security linked to the underlying common stock of Cycurion Inc."
+}

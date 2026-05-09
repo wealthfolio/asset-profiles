@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z6QQ3Q5",
+    "figi": "BBG00Z6QQ3W8",
+    "isin": "FR0011464452"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "FR0011464452",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6W5.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6W5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALSGD.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0011464452.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SPINEGUARD  EO -,05",
+  "primary_symbol": "6W5.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "SpineGuard SA is a French medical technology company that designs, develops, and markets devices used to enhance the safety and efficiency of spinal surgeries. The company's PediGuard technology provides real-time feedback to surgeons during pedicle screw placement, reducing the risk of complications. SpineGuard is headquartered in Paris, France.",
+  "website": "http://www.spineguard.com"
+}

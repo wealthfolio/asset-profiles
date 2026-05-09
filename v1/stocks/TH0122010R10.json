@@ -1,0 +1,43 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "composite_figi": "BBG000BX3ZS3",
+    "figi": "BBG000BX4278",
+    "isin": "TH0122010R10"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "TH0122010R10",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NVPA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NVPA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NVPA.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "KCE Electronics Public Company Limited",
+  "primary_symbol": "NVPA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "KCE Electronics Public Company Limited, together with its subsidiaries, manufactures and distributes electric printed circuit boards (PCBs) under the KCE trademark worldwide. The company's PCBs manufactured from copper clad laminate are used in various applications, including automotive, industrial, computer, and telecom systems. It also manufactures and distributes chemicals products, and prepreg and laminate products. The company was formerly known as Kuang Charoen Electronics Company Limited. KCE Electronics Public Company Limited was founded in 1982 and is headquartered in Bangkok, Thailand.",
+  "website": "http://www.kce.co.th"
+}

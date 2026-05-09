@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Q9V0ZT5",
+    "figi": "BBG00Q9V1002",
+    "isin": "CA29385B1094"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "CA29385B1094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2AV.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA29385B1094.SG"
+    }
+  ],
+  "name": "ENTHUSIAST GAMING HLDG",
+  "primary_symbol": "2AV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Enthusiast Gaming Holdings Inc. is a media and entertainment company building the largest platform of communities for gamers and esports fans. They create and acquire gaming content, operate esports teams, and host live gaming events. Enthusiast Gaming is headquartered in Toronto, Canada."
+}

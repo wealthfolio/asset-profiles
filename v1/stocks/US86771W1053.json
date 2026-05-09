@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG009R0DYR2",
+    "cusip": "86771W105",
+    "figi": "BBG009R0DYY4",
+    "isin": "US86771W1053"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US86771W1053",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3S9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3S9.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RUN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A4S.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "3S9.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "3S9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3S9.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "3S9.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RUN.F"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "RUN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Sunrun Inc.",
+  "primary_symbol": "3S9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sunrun Inc. engages in the design, development, installation, sale, ownership, and maintenance of residential solar energy systems in the United States. It also sells solar energy systems and products, such as panels and racking; and solar leads generated to customers. In addition, the company offers battery storage along with solar energy systems. Its primary customers are residential homeowners. The company markets and sells its products through direct-to-consumer approach across online, retail, mass media, digital media, canvassing, field marketing, and referral channels, as well as its partner network. Sunrun Inc. was founded in 2007 and is headquartered in San Francisco, California.",
+  "website": "http://www.sunrun.com"
+}

@@ -1,0 +1,58 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00W5DX543",
+    "figi": "BBG00W5DX5B5",
+    "isin": "NO0010785967"
+  },
+  "industry": "Transportation Infrastructure",
+  "industry_group": "Energy",
+  "isin": "NO0010785967",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "49Q.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "49Q.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QNTFF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "49Q.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010785967.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "QFUEL.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "QUANTAFUEL AS  NK -,01",
+  "primary_symbol": "49Q.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Quantafuel ASA is a technology company converting plastic waste into valuable products. They use a chemical recycling process to transform plastic waste into fuels and chemicals. Quantafuel ASA is headquartered in Oslo, Norway.",
+  "website": "http://www.quantafuel.com"
+}

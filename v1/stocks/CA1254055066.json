@@ -1,0 +1,46 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA1254055066"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA1254055066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CGXEF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GXCN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GXCN.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "OYL.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "CGX Energy Inc.",
+  "primary_symbol": "CGXEF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "CGX Energy Inc., an oil and gas exploration company, explores for and evaluates petroleum and natural gas properties in Guyana, South America. It holds interests in three petroleum agreements and petroleum prospecting licenses, including Corentyne, Berbice, and Demerara blocks that cover an area of approximately 11,005.2 square kilometers located in offshore and onshore Guyana. The company also develops deep water port project in Guyana. CGX Energy Inc. was incorporated in 1998 and is headquartered in Toronto, Canada.",
+  "website": "http://www.cgxenergy.com"
+}

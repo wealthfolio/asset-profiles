@@ -1,0 +1,52 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000C4R837",
+    "figi": "BBG000C4RBL0",
+    "isin": "SE0000695876"
+  },
+  "industry": "Software",
+  "industry_group": "Capital Goods",
+  "isin": "SE0000695876",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AA9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AA9.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AA9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AA9.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ALFA.L"
+    }
+  ],
+  "name": "ALFA LAVAL AB  SK 2,5",
+  "primary_symbol": "AA9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Alfa Laval AB is a Swedish company specializing in heat transfer, separation, and fluid handling technologies. The company provides products and solutions for various industries, including food and beverage, marine, and energy. Alfa Laval is headquartered in Lund, Sweden.",
+  "website": "http://www.alfasystems.com"
+}

@@ -1,0 +1,35 @@
+{
+  "country": "Turkey",
+  "identifiers": {
+    "isin": "LU1190417599"
+  },
+  "industry": "Software",
+  "industry_group": "Diversified Financials",
+  "isin": "LU1190417599",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SMART.BK"
+    },
+    {
+      "currency": "TRY",
+      "exchange_mic": "XIST",
+      "symbol": "SMART.IS"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "MFC Smart Fixed Income Fund",
+  "primary_symbol": "SMART.BK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MFC Smart Fixed Income Fund is a mutual fund investing in fixed income instruments. The fund aims to generate returns through investments in a diversified portfolio of bonds and other debt securities. It is managed by MFC Asset Management Public Company Limited in Thailand.",
+  "website": "http://www.smartiks.com.tr"
+}

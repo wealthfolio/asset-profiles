@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005001554"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "IT0005001554",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "TB.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Triboo S.p.A.",
+  "primary_symbol": "TB.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Triboo S.p.A. provides e-commerce and digital advertising services worldwide. It offers digital consulting, marketing, and integration and development services; and e-commerce management, content development, audience and monetization, and training services. The company is based in Milan, Italy. Triboo S.p.A. is a subsidiary of Compagnia Digitale Italiana Spa.",
+  "website": "http://www.triboo.com"
+}

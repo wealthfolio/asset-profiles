@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GF7SVJ3",
+    "figi": "BBG00GF7SVQ5",
+    "isin": "CA45074T1021"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA45074T1021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2IA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2IA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ITHUF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2IA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2IA.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "IAN.CN"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IANTHUS CAPITAL HLDGS INC",
+  "primary_symbol": "2IA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Ianthus Capital Holdings Inc. is a company that invests in and operates businesses related to the cannabis industry. The company focuses on acquiring, developing, and managing licensed cannabis operations in the United States. The company is headquartered in New York, NY.",
+  "website": "http://www.ianthus.com"
+}

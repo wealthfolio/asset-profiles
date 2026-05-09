@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "NL0006294274"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "NL0006294274",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ENX"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ENX.AX"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "ENX.JO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Eaton Vance New York Municipal Bond Fund",
+  "primary_symbol": "ENX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Eaton Vance New York Municipal Bond Fund is a close-ended fixed income mutual fund launched and managed by Eaton Vance Management. The fund invests in the fixed income market of United States. It invests primarily in high grade municipal obligations comprising of various industries, such as general obligations, hospital, electric utilities, transportation, water and sewer, public education, and private education. Eaton Vance New York Municipal Bond Fund was formed in 2002 and is domiciled in United States.",
+  "website": "http://funds.eatonvance.com/New-York-Municipal-Bond-Fund-ENX.php"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000C19SB0",
+    "figi": "BBG000C19VJ5",
+    "isin": "DE000A289B07"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Software & Services",
+  "isin": "DE000A289B07",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLIK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLIK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TLIK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000A289B07.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "TLIK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TLIK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TLIK.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TELES AG INFORM.TECH. ON",
+  "primary_symbol": "TLIK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "TELES AG Informationstechnologien is a Germany-based company that develops and markets telecommunications solutions, primarily focusing on voice-over-IP (VoIP) technology for carriers and enterprises. Their products include softswitches, media gateways, session border controllers, and related software applications. The company is headquartered in Berlin, Germany.",
+  "website": "http://www.teles.com"
+}

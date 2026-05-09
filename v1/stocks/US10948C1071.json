@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00LC109T6",
+    "cusip": "10948C107",
+    "figi": "BBG00LC10B02",
+    "isin": "US10948C1071"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US10948C1071",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BV"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7BV.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BRIGHTVIEW HLDGS  DL-,01",
+  "primary_symbol": "7BV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BrightView Holdings, Inc. provides commercial landscaping services. The company offers landscape maintenance, landscape development, tree care, and other services to commercial clients across the United States. BrightView is headquartered in Plymouth Meeting, Pennsylvania.",
+  "website": "http://www.brightview.com"
+}

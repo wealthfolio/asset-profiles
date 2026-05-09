@@ -1,0 +1,25 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "INDIANB.BO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Indian Bank",
+  "primary_symbol": "INDIANB.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Indian Bank is an Indian public sector bank providing a range of banking and financial services. The bank has a network of branches across India and offers services such as deposits, loans, and insurance. Indian Bank is headquartered in Chennai, India."
+}

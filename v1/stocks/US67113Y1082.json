@@ -1,0 +1,28 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0055838H6",
+    "cusip": "67113Y108",
+    "isin": "US67113Y1082"
+  },
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US67113Y1082",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US67113Y1082.SG"
+    }
+  ],
+  "name": "NUWELLIS INC",
+  "primary_symbol": "US67113Y1082.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NUWELLIS INC is a medical device company focused on developing, manufacturing, and commercializing a portfolio of products targeting fluid overload. Headquartered in Eden Prairie, Minnesota, their Aquadex FlexFlow system removes excess fluid from patients suffering from fluid overload. The company aims to improve outcomes and reduce healthcare costs associated with fluid management."
+}

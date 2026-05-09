@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005038002"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "IT0005038002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "GO.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "GO internet S.p.A.",
+  "primary_symbol": "GO.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "GO internet S.p.A. operates as an Internet service provider in the Marche and Emilia Romagna regions in Italy. It offers Internet and voice connection services using WiMAX/LTE wireless technologies; and telephone services through the VoIP protocol. The company also offers ultra-broadband connections. It serves families and businesses. The company was founded in 2002 and is based in Gubbio, Italy.",
+  "website": "http://www.gointernet.it"
+}

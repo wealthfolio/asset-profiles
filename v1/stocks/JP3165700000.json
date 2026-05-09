@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000KNZJ60",
+    "figi": "BBG000KP1RC7",
+    "isin": "JP3165700000"
+  },
+  "industry_group": "Software & Services",
+  "isin": "JP3165700000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NT5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NT5.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JP3165700000.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NT5.DU"
+    }
+  ],
+  "name": "NTT DATA CORP.",
+  "primary_symbol": "NT5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "NTT DATA CORP. is a global IT services provider headquartered in Tokyo, Japan. The company offers a broad range of services including consulting, system integration, and IT outsourcing to clients worldwide."
+}

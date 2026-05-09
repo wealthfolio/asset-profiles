@@ -1,0 +1,43 @@
+{
+  "country": "Iceland",
+  "country_code": "IS",
+  "identifiers": {
+    "composite_figi": "BBG00YDD0K07",
+    "figi": "BBG00YDD0K52",
+    "isin": "NO0010724701"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "NO0010724701",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I6X.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I6X.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ISLAX.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Icelandic Salmon AS",
+  "primary_symbol": "I6X.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Icelandic Salmon AS engages in salmon farming and production activities in the Westfjords, Iceland. The company was formerly known as Arnarlax AS and changed its name to Icelandic Salmon AS in October 2020. Icelandic Salmon AS was founded in 2009 and is based in B√É¬≠ldudalur, Iceland. Icelandic Salmon AS is a subsidiary of SalMar ASA.",
+  "website": "http://www.arnarlax.is/is"
+}

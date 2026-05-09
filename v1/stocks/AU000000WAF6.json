@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG00D5YD5S5",
+    "figi": "BBG00D5YD5Y8",
+    "isin": "AU000000WAF6"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "AU000000WAF6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "W25.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WFRSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "W25.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "W25.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "WAF.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "WEST AFRICAN RES LTD",
+  "primary_symbol": "W25.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "West African Resources Ltd is an Australian gold mining company focused on developing and operating its Sanbrado Gold Project in Burkina Faso. The company is engaged in gold production and exploration activities. West African Resources is headquartered in Perth, Australia.",
+  "website": "http://www.westafricanresources.com"
+}

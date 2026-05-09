@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000C4R9R9",
+    "figi": "BBG000C4RGG5",
+    "isin": "DE0005408686"
+  },
+  "industry": "Insurance",
+  "industry_group": "Diversified Financials",
+  "isin": "DE0005408686",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVV3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VVV3.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "VVV3.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "VVV3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "VVV3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "VVV3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "OEKOWORLD AG VZNA O.N.",
+  "primary_symbol": "VVV3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "OEKOWORLD AG is a German asset management company focused on sustainable and ethical investments. They offer various investment funds that meet specific environmental, social, and governance (ESG) criteria. The company is headquartered in Germany.",
+  "website": "http://www.oekoworld.com"
+}

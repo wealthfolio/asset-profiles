@@ -1,0 +1,47 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "86558P109",
+    "isin": "US86558P1093"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US86558P1093",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUMCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SUOPY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "3436.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S3X.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Sumco Corporation",
+  "primary_symbol": "SUMCF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sumco Corporation, together with its subsidiaries, manufactures and sells silicon wafers for the semiconductor industry primarily in Japan, North America, Asia, and Europe. It provides monocrystalline ingots, as well as polished, annealed, epitaxial, junction isolated, silicon-on-insulator, and reclaimed polished wafers. The company was formerly known as Sumitomo Mitsubishi Silicon Corp. and changed its name to Sumco Corporation in August 2005. Sumco Corporation was founded in 1999 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.sumcosi.com"
+}

@@ -1,0 +1,43 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG001Y3X9B5",
+    "figi": "BBG001Y3X9C4",
+    "isin": "GB00B4X1RC86"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "GB00B4X1RC86",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SMC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SMC.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SMS.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Smart Metering Systems plc",
+  "primary_symbol": "SMC.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Smart Metering Systems plc, together with its subsidiaries, installs, operates, and manages meter and energy infrastructure assets, and related data services in the United Kingdom. It operates through three segments: Asset Management, Asset Installation, and Energy Management. The company engages in the regulated management of gas meters, electric meters, and ADM devices. It also installs domestic, industrial, and commercial gas meters and electricity meters, as well as provides energy consultancy services. In addition, the company provides data management, gas utility connections, funding, gas and electric third-party asset management, electricity utility connections and management, engineer training and development, software development, and renewable asset management, as well as administrative services. The company was formerly known as UK Smart Metering Group Limited and changed its name to Smart Metering Systems plc in June 2011. Smart Metering Systems plc was founded in 1995 and is headquartered in Glasgow, the United Kingdom.",
+  "website": "http://www.sms-plc.com"
+}

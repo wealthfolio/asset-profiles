@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LVOXW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LiveVox Holdings Inc. Warrant",
+  "primary_symbol": "LVOXW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LiveVox Holdings Inc. Warrant represents the right to purchase shares of LiveVox Holdings Inc. common stock at a specified price and date. Warrant terms are detailed in the warrant agreement."
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Mongolia",
+  "country_code": "MN",
+  "identifiers": {
+    "isin": "KYG6264V1361"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "KYG6264V1361",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MOGLF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0975.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "29X2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG6264V1361.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Mongolian Mining Corporation",
+  "primary_symbol": "MOGLF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Mongolian Mining Corporation engages in the mining, processing, transportation, and sale of coking coal products. It owns and operates the Ukhaa Khudag and the Baruun Naran open-pit coking coal mines located in South Gobi province of Mongolia. The company also engages in the railway project management, airport operation and management, water exploration and supply management, and power supply project management activities; and trading of coal and machinery equipment. It sells its products primarily in China. The company was incorporated in 2010 and is headquartered in Ulaanbaatar, Mongolia.",
+  "website": "http://www.mmc.mn"
+}

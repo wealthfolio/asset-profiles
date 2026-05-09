@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTSTW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Data Storage Corporation Warrant",
+  "primary_symbol": "DTSTW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Data Storage Corporation is a provider of business continuity, disaster recovery, and data storage solutions. The company offers services such as cloud infrastructure, managed services, and cyber security. Data Storage Corporation is headquartered in Melville, New York."
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00DYJZBD5",
+    "cusip": "49714P108",
+    "figi": "BBG00DYJZBL6",
+    "isin": "US49714P1084"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US49714P1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KCH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KCH.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KNSL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KCH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KCH.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KINSALE CAP.GRP.INC. -,01",
+  "primary_symbol": "KCH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "KINSALE CAP.GRP.INC. is a specialty insurance company focused on the excess and surplus lines market. They provide a range of property and casualty insurance products. The company is headquartered in Richmond, Virginia.",
+  "website": "http://www.kinsalecapitalgroup.com"
+}

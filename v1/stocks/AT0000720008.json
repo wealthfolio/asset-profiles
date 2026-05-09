@@ -1,0 +1,31 @@
+{
+  "identifiers": {
+    "isin": "AT0000720008"
+  },
+  "industry_group": "Capital Goods",
+  "isin": "AT0000720008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKA1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKA1.MU"
+    }
+  ],
+  "name": "THYSSENKRUPP SPONS.ADR 1",
+  "primary_symbol": "TKA1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ThyssenKrupp AG is a German industrial conglomerate focused on steel production, engineering, and technology solutions. The company operates in various sectors, including automotive, construction, and industrial components. ThyssenKrupp is headquartered in Essen, Germany."
+}

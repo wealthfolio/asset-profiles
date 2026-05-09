@@ -1,0 +1,41 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "isin": "FR0013199916"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0013199916",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "SO.BK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "SO.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SOT.DE"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Siamrajathanee Public Company Limited",
+  "primary_symbol": "SO.BK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Siamrajathanee Public Company Limited provides various outsourcing services to public and private sectors in Thailand. It operates through two segments, Outsourcing Services and Rental Services. The company offers personnel management services, including drivers, office workers, and technicians, as well as Academy, a professional driver training course; Valet parking, a parking service; Drive4U, a private chauffeur service; and training services. It also offers car rental services; Mr.Journey, a shuttle van for wheelchair users; online document management systems; data recording, invoice registration, and scanning services; landscape management; and tree trimming services. The company was founded in 1976 and is headquartered in Phra Pradaeng, Thailand.",
+  "website": "http://www.siamrajathanee.co.th"
+}

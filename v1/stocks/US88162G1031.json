@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000GWF7K7",
+    "cusip": "88162G103",
+    "figi": "BBG000GWGFK8",
+    "isin": "US88162G1031"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US88162G1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TT6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TT6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TTEK"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TT6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TT6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TT6.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TETRA TECH INC.  DL-,01",
+  "primary_symbol": "TT6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Tetra Tech, Inc. provides consulting and engineering services worldwide. The company offers services in water, environment, infrastructure, resource management, energy, and international development, with headquarters in Pasadena, California. Tetra Tech serves government and commercial clients.",
+  "website": "http://www.tetratech.com"
+}

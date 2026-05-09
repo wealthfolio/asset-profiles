@@ -1,0 +1,48 @@
+{
+  "country": "Bermuda",
+  "country_code": "BM",
+  "identifiers": {
+    "composite_figi": "BBG00KVSR8X6",
+    "figi": "BBG00KVSR900",
+    "isin": "BMG1466R1732"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "BMG1466R1732",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BORR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "B2WP.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BORR.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BORRO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Borr Drilling Limited",
+  "primary_symbol": "BORR",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Borr Drilling Limited operates as an offshore drilling contractor to the oil and gas industry worldwide. It owns, contracts, and operates jack-up rigs for operations in shallow-water areas, including the provision of related equipment and work crews to conduct oil and gas drilling and workover operations for exploration and production. The company serves oil and gas exploration and production companies, such as integrated oil companies, state-owned national oil companies, and independent oil and gas companies. As of December 31, 2020, it operated a fleet of 24 jack-up drilling rigs. The company was formerly known as Magni Drilling Limited and changed its name to Borr Drilling Limited in December 2016. Borr Drilling Limited was incorporated in 2016 and is based in Hamilton, Bermuda.",
+  "website": "http://www.borrdrilling.com"
+}

@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "EPH.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Eastern Property Holdings Limited",
+  "primary_symbol": "EPH.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Eastern Property Holdings Ltd. is an investment company listed on SIX Swiss Exchange which holds interest in office, residential and retail properties. EPH is managed by Valartis International Ltd. a wholly-owned subsidiary of Valartis Group AG.",
+  "website": "http://www.easternpropertyholdings.com"
+}

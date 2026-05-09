@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG00QJ8CLR5",
+    "figi": "BBG00QJ8CLY7",
+    "isin": "CA22630V1031"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA22630V1031",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CE7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CE7.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CRS.AX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "CRS.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CRS.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CRESTVIEW EXPLORATION INC",
+  "primary_symbol": "CE7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Crestview Exploration Inc. engages in the acquisition and exploration of the mineral properties in North America. It primarily explores for gold and silver deposits. The company's flagship project the Rock Creek Project that comprises 74 unpatented lode mining claims located in Elko County, north-central Nevada. Crestview Exploration Inc. was incorporated in 2017 and is based in Calgary, Canada.",
+  "website": "http://www.crestviewexploration.com"
+}

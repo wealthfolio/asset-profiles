@@ -1,0 +1,68 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000K268J8",
+    "cusip": "949746101",
+    "figi": "BBG000K26DD3",
+    "isin": "US9497461015"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Banks",
+  "isin": "US9497461015",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWT.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWT.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NWT.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NWT.DU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "NWT.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NWT.SG"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "WFCCL.SN"
+    }
+  ],
+  "name": "WELLS FARGO + CO.DL 1,666",
+  "primary_symbol": "NWT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Wells Fargo & Company is a diversified financial services company providing banking, investment and mortgage products and services, as well as consumer and commercial finance, through banking locations and offices across the United States. Headquartered in San Francisco, California, the company serves individuals, businesses and institutions. Wells Fargo focuses on meeting customers’ financial needs and building long-term relationships.",
+  "website": "http://www.newmarksecurity.com"
+}

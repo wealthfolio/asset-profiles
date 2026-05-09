@@ -1,0 +1,43 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG00YHXYVD4",
+    "figi": "BBG00YHXYVK6",
+    "isin": "SE0010869487"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "SE0010869487",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "979.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "979.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0010869487.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ZUTEC HOLDING AB",
+  "primary_symbol": "979.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "ZUTEC HOLDING AB provides cloud-based software solutions for the construction industry. Their platform helps manage project information, documentation, and workflows. The company is based in Sweden.",
+  "website": "http://www.zutec.com"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00ZL575X2",
+    "cusip": "67181A107",
+    "figi": "BBG00ZL57624",
+    "isin": "US67181A1079"
+  },
+  "industry": "Health Care Equipment & Supplies",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US67181A1079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HE6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OSH"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HE6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HE6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US67181A1079.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "OAK STR.HEALTH  DL-,001",
+  "primary_symbol": "HE6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Oak Street Health, Inc., together with its subsidiaries, offers healthcare services to the patients in the United States. The company operates primary care centers for Medicare beneficiaries. As of December 31, 2020, it operated 79 centers in Illinois, Indiana, Michigan, Mississippi, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, Tennessee, and Texas. The company was founded in 2012 and is headquartered in Chicago, Illinois.",
+  "website": "http://www.oakstreethealth.com"
+}

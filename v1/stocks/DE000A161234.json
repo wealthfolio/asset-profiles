@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004HQMCQ6",
+    "isin": "DE000A161234"
+  },
+  "isin": "DE000A161234",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "DE000A161234.SW"
+    }
+  ],
+  "name": "EKOTECHNIKA AG",
+  "primary_symbol": "DE000A161234.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

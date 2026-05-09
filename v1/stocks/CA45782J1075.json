@@ -1,0 +1,41 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "CA45782J1075"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "CA45782J1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MINE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IMC.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "MINE.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Minerco, Inc.",
+  "primary_symbol": "MINE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Minerco, Inc. is focused on the research, development, production, and distribution of psilocybin mushroom products. The company is involved in the emerging market for psychedelic medicines. Minerco is based in the United States.",
+  "website": "http://minercoinc.com"
+}

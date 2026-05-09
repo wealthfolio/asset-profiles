@@ -1,0 +1,38 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00ZGX00S1",
+    "figi": "BBG00ZGX00Y4",
+    "isin": "SE0012729937"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "SE0012729937",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5V0.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5V0.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ECOCLIME GRP AB B",
+  "primary_symbol": "5V0.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "ECOCLIME GRP AB B is a Swedish cleantech company that develops and sells energy-efficient climate systems. Their technology focuses on using waste heat and renewable energy sources to provide cooling and heating solutions for buildings and industries. The company is headquartered in Sweden.",
+  "website": "http://www.ecoclime.se"
+}

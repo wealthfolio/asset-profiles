@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00J2CPYM3",
+    "cusip": "24344T101",
+    "figi": "BBG00J2CPYS7",
+    "isin": "US24344T1016"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US24344T1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "D05.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DCPH"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "D05.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "D05.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US24344T1016.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DECIPHERA PHARMAC. DL-,01",
+  "primary_symbol": "D05.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Deciphera Pharmaceuticals, Inc. is a biopharmaceutical company focused on discovering, developing, and commercializing important new medicines to improve the lives of people with cancer. The company is headquartered in Waltham, Massachusetts. Their primary focus is kinase inhibitor therapies.",
+  "website": "http://www.deciphera.com"
+}

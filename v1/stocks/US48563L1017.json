@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG01015XWC5",
+    "cusip": "48563L101",
+    "figi": "BBG01015XWJ8",
+    "isin": "US48563L1017"
+  },
+  "industry": "Distributors",
+  "industry_group": "Retailing",
+  "isin": "US48563L1017",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0WJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US48563L1017.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Karat Packaging Inc.",
+  "primary_symbol": "0WJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Karat Packaging Inc. manufactures and distributes single-use disposable products in plastic, paper, biopolymer-based and other compostable forms primarily used in restaurants and foodservice areas. It offers food and take-out containers, bags, tableware, cups, lids, cutlery, and straws under the Karat and Karat Earth names. The company offers its products to domestic and regional distributors, restaurant chains, retail establishments, and online customers. It also provides new product development, design, printing, and logistics services. Karat Packaging Inc. was founded in 2000 and is headquartered in Chino, California.",
+  "website": "http://www.karatpackaging.com"
+}

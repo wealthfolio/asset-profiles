@@ -1,0 +1,58 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000HJTKL0",
+    "figi": "BBG000HJTPL9",
+    "isin": "DE0005557508"
+  },
+  "industry_group": "Telecommunication Services",
+  "isin": "DE0005557508",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTE.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTE.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTE.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTE.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTE.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DTEL.BD"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "DTE.DU"
+    }
+  ],
+  "name": "DT.TELEKOM AG NA",
+  "primary_symbol": "DTE.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Deutsche Telekom AG is a telecommunications company that provides a range of services, including fixed-network, mobile communications, internet, and television. They operate in Europe and the United States, offering communication and IT solutions to consumers and businesses. The company is headquartered in Bonn, Germany."
+}

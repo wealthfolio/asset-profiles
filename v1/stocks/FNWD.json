@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FNWD"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Finward Bancorp Common Stock",
+  "primary_symbol": "FNWD",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Finward Bancorp is the holding company for Peoples Bank, which provides community banking services. The bank offers a range of financial products and services, including personal and business banking, loans, and wealth management. Finward Bancorp is headquartered in Munster, Indiana."
+}

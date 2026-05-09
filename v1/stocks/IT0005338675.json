@@ -1,0 +1,32 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "83587W205",
+    "isin": "IT0005338675"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "IT0005338675",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "SOS.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SosTravel.com S.P.A.",
+  "primary_symbol": "SOS.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "SosTravel.com S.P.A. operates sostravel App that offers information on flight info, airport info, lost and found concierge, health travel insurance, lost luggage concierge, and travel concierge services. The company was founded in 2017 and is based in Gallarate, Italy.",
+  "website": "http://www.sostravel.com"
+}

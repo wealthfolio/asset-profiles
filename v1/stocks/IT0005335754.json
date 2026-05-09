@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005335754"
+  },
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "isin": "IT0005335754",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "FUM.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Franchi Umberto Marmi S.p.A.",
+  "primary_symbol": "FUM.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Franchi Umberto Marmi SPA engages in the extraction and supply of marbles. The company was founded in 1971 and is based in Carrara, Italy.",
+  "website": "http://www.franchigroup.it"
+}

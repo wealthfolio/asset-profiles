@@ -1,0 +1,132 @@
+{
+  "as_of_date": "2026-11-30",
+  "asset_class_weights": [
+    {
+      "asset_class": "Equity",
+      "weight": 0.974116
+    },
+    {
+      "asset_class": "Cash",
+      "weight": 0.025884
+    }
+  ],
+  "aum_usd": 2735758784.05,
+  "category": "Large Cap",
+  "category_group": "Information Technology",
+  "country_weights": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "weight": 0.931735
+    },
+    {
+      "country": "Canada",
+      "country_code": "CA",
+      "weight": 0.050342
+    },
+    {
+      "country": "Bermuda",
+      "country_code": "BM",
+      "weight": 0.010976
+    },
+    {
+      "country": "Marshall Islands",
+      "country_code": "MH",
+      "weight": 0.006947
+    }
+  ],
+  "holdings_count": 50,
+  "issuer": "Invesco",
+  "kind": "etf",
+  "listings": [
+    {
+      "currency": "USD",
+      "symbol": "QQQM"
+    }
+  ],
+  "name": "Invesco NASDAQ 100 ETF",
+  "primary_symbol": "QQQM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "public domain",
+    "source": "SEC EDGAR N-PORT",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000826644"
+  },
+  "schema_version": "1.0.0",
+  "sector_weights": [
+    {
+      "sector": "Unknown",
+      "weight": 0.792051
+    },
+    {
+      "sector": "Energy",
+      "weight": 0.201002
+    },
+    {
+      "sector": "Industrials",
+      "weight": 0.006947
+    }
+  ],
+  "top_holdings": [
+    {
+      "cusip": "55336V100",
+      "isin": "US55336V1008",
+      "name": "MPLX L.P.",
+      "weight": 0.062919
+    },
+    {
+      "cusip": "958669103",
+      "isin": "US9586691035",
+      "name": "Western Midstream Partners, L.P.",
+      "weight": 0.062507
+    },
+    {
+      "cusip": "29273V100",
+      "isin": "US29273V1008",
+      "name": "Energy Transfer L.P.",
+      "weight": 0.062023
+    },
+    {
+      "cusip": "03957W106",
+      "isin": "US03957W1062",
+      "name": "Archrock, Inc.",
+      "weight": 0.054896
+    },
+    {
+      "cusip": "87612G101",
+      "isin": "US87612G1013",
+      "name": "Targa Resources Corp.",
+      "weight": 0.050925
+    },
+    {
+      "cusip": "969457100",
+      "isin": "US9694571004",
+      "name": "Williams Cos., Inc. (The)",
+      "weight": 0.049123
+    },
+    {
+      "cusip": "682680103",
+      "isin": "US6826801036",
+      "name": "ONEOK, Inc.",
+      "weight": 0.04751
+    },
+    {
+      "cusip": "726503105",
+      "isin": "US7265031051",
+      "name": "Plains All American Pipeline, L.P.",
+      "weight": 0.04746
+    },
+    {
+      "cusip": "371927104",
+      "isin": "US3719271047",
+      "name": "Genesis Energy, L.P.",
+      "weight": 0.047147
+    },
+    {
+      "cusip": "49456B101",
+      "isin": "US49456B1017",
+      "name": "Kinder Morgan, Inc.",
+      "weight": 0.046247
+    }
+  ]
+}

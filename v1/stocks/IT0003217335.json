@@ -1,0 +1,36 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0003217335"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "IT0003217335",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BO.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BOR.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Borgosesia S.p.A.",
+  "primary_symbol": "BO.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Borgosesia S.p.A. primarily invests in non-performing and alternative assets. The company invests in real estate and non-real estate assets. It also manages alternative assets on behalf of third-party investors. Borgosesia S.p.A. was founded in 1873 and is headquartered in Biella, Italy.",
+  "website": "http://www.borgosesiaspa.com"
+}

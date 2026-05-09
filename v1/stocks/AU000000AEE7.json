@@ -1,0 +1,61 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "AU000000AEE7"
+  },
+  "industry": "Electric Utilities",
+  "industry_group": "Utilities",
+  "isin": "AU000000AEE7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AEE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AURA.TA"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "A1EE34.SA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "AE4.DE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AE4.F"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "AEE.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "AURA.L"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Ameren Corporation",
+  "primary_symbol": "AEE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Ameren Corporation, together with its subsidiaries, operates as a public utility holding company in the United States. It operates through four segments: Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois Natural Gas, and Ameren Transmission. The company engages in the rate-regulated electric generation, transmission, and distribution activities; and rate-regulated natural gas distribution and transmission businesses. It primarily generates electricity through coal, nuclear, and natural gas, as well as renewable sources, such as hydroelectric, wind, methane gas, and solar. The company serves residential, commercial, and industrial customers. The company was founded in 1881 and is headquartered in St. Louis, Missouri.",
+  "website": "http://www.ameren.com"
+}

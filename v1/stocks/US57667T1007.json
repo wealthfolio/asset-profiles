@@ -1,0 +1,64 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "composite_figi": "BBG006Q7W2K0",
+    "cusip": "57667T100",
+    "figi": "BBG006Q7W2R3",
+    "isin": "US57667T1007"
+  },
+  "industry": "Software",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US57667T1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "06MA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "06MA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MTLS"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "06MA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "06MA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "06MA.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MTLSN.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MATERIALISE SP.ADR 1",
+  "primary_symbol": "06MA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Materialise NV provides 3D printing and additive manufacturing solutions. They offer software and services for medical and industrial applications. The company is headquartered in Leuven, Belgium.",
+  "website": "http://www.materialise.com"
+}

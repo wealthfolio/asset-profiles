@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000C0J8Z9",
+    "cusip": "848574109",
+    "figi": "BBG000C0JCM4",
+    "isin": "US8485741099"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Capital Goods",
+  "isin": "US8485741099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9Q.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "S9Q.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SPR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "S9Q.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S9Q.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SPR.L"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "SPIRIT AERO.HLDGS A DL-01",
+  "primary_symbol": "S9Q.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SPIRIT AERO.HLDGS A DL-01 is one of the world's largest tier-one manufacturers of aerostructures for commercial airplanes, defense platforms, and business/regional jets. They design and build fuselages, pylons, nacelles, and wing components. Spirit AeroSystems is headquartered in Wichita, Kansas.",
+  "website": "http://www.spiritaero.com"
+}

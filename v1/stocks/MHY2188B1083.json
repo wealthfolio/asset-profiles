@@ -1,0 +1,48 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG005LZLGB6",
+    "figi": "BBG005LZLGJ8",
+    "isin": "MHY2188B1083"
+  },
+  "industry": "Beverages",
+  "industry_group": "Energy",
+  "isin": "MHY2188B1083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DGL.MU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "DGL.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DGL.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DYNAGAS LNG PTN.UTS DL-01",
+  "primary_symbol": "DGL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Dynagas LNG Partners LP is a limited partnership focused on owning and operating LNG carriers. They transport liquefied natural gas under multi-year charters. Dynagas LNG Partners is based in Athens, Greece.",
+  "website": "http://www.delegat.com"
+}

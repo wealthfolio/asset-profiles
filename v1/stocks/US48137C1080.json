@@ -1,0 +1,62 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "cusip": "48137C108",
+    "isin": "US48137C1080"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "isin": "US48137C1080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JBARF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JBAXY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JGE1.BE"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BAER.SW"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BAERE.SW"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "BAERN.MX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JGE1.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Julius Bar Gruppe AG",
+  "primary_symbol": "JBARF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Julius B√É¬§r Gruppe AG provides wealth management solutions in Switzerland, Europe, Asia, and South America. Its solutions include discretionary mandates, investment advisory mandates, securities execution and advisory, foreign exchange and precious metals, family office services, Lombard lending, structured products, global custody, real estate advisory and financing, and wealth planning. The company also operates an open product and service platform. Julius B√É¬§r Gruppe AG was founded in 1890 and is headquartered in Zurich, Switzerland.",
+  "website": "http://www.juliusbaer.com"
+}

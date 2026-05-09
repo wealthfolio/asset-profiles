@@ -1,0 +1,59 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG006HDVSL0",
+    "cusip": "89977P106",
+    "figi": "BBG006HDVSS3",
+    "isin": "US89977P1066"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "US89977P1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0TUA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0TUA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOUR"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "0TUA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "0TUA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "0TUA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TUNIU SP.ADR 1  DL-,0001",
+  "primary_symbol": "0TUA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Tuniu Corporation is a China-based online travel agency that offers a wide selection of travel products and services including packaged tours, hotel bookings, and transportation tickets. The company primarily caters to the leisure travel market in China. Tuniu is headquartered in Nanjing, China.",
+  "website": "http://www.tuniu.com"
+}

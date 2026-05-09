@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG00W6W11M4",
+    "figi": "BBG00W6W11S8",
+    "isin": "JP3429300001"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "JP3429300001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "5F7.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "5F7.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "5F7.F"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "5F7.SI"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7550.T"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "ZENSHO HOLDINGS CO. LTD.",
+  "primary_symbol": "5F7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Zensho Holdings Co., Ltd. is a Japanese restaurant chain operator. Headquartered in Tokyo, Japan, it operates various restaurant brands, including Sukiya (beef bowl), Nakau (udon and donburi), and Coco's (family restaurant). The company's business model focuses on providing affordable and casual dining experiences.",
+  "website": "http://www.zensho.co.jp"
+}

@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BR82H6",
+    "figi": "BBG000BR85T6",
+    "isin": "AT0000831706"
+  },
+  "industry_group": "Materials",
+  "isin": "AT0000831706",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIB.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WIB.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "WIB.DU"
+    }
+  ],
+  "name": "WIENERBERGER",
+  "primary_symbol": "WIB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Wienerberger AG is a global producer of bricks, roof tiles, concrete pavers, and pipe systems. The company's products are used in residential, commercial, and infrastructure construction projects. Wienerberger is headquartered in Vienna, Austria."
+}

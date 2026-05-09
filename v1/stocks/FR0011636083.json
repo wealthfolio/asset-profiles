@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00Z72DLN4",
+    "figi": "BBG00Z72DLP2",
+    "isin": "FR0011636083"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "FR0011636083",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8JB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALNLF.PA"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Neolife SA",
+  "primary_symbol": "8JB.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Neolife SA provides building solutions. Its solutions enable architects, landscapists, design offices, and building technicians to meet environmental specification packages for HQE (France), BREEAM, and LEED projects for individual and multi-unit housing, commercial buildings, and urban spaces. The company also offers claddings, insulated facade systems, outdoor joineries, covering systems, partitions and linings, movable walls, terrace decking and systems, and privacy screens. In addition, it provides fencings, water walls, street furniture, walkways and other landscaping features, garages, carports, summer houses/conservatories, and recycled materials. The company was incorporated in 2012 and is headquartered in Limonest, France.",
+  "website": "http://www.neolife.fr"
+}

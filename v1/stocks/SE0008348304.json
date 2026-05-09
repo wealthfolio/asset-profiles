@@ -1,0 +1,46 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0008348304"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Transportation",
+  "isin": "SE0008348304",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0GE8.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1G2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "1G2.SG"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "GOMX.ST"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "GomSpace Group AB (publ)",
+  "primary_symbol": "0GE8.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "GomSpace Group AB (publ), through its subsidiaries, designs, develops, integrates, and manufactures nanosatellites for the academic, defense, government, and commercial markets. It offers mission payloads in the areas of software defined radio, aircraft tracking, ship tracking, ADS-B patch antenna, and optical earth observation; and power and communication systems, command and data handling products, and attitude and orbit control systems, as well as ground systems and various ready to integrate structures. The company's products are used in global tracking, Internet of things, communication, defense and security, remote sensing, and science mission applications. It operates in Denmark, Sweden, Europe, the United States, Asia, and internationally. The company was formerly known as GS Sweden AB and changed its name to GomSpace Group AB (publ) in June 2017. GomSpace Group AB (publ) was founded in 2007 and is based in Uppsala, Sweden.",
+  "website": "http://www.gomspace.com"
+}

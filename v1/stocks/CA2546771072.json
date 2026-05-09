@@ -1,0 +1,41 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA2546771072"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA2546771072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSVSF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA2546771072.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "DSV.V"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Discovery Silver Corp.",
+  "primary_symbol": "DSVSF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Discovery Silver Corp., a mineral exploration company, engages in the exploration and development of polymetallic deposits primarily in Mexico. The company explores for silver, zinc, and lead deposits. Its flagship property is the Cordero silver project, which covers an area of approximately of 35,000 hectares located in the Chihuahua state, Mexico. It also focuses on the high-grade silver-zinc-lead deposits with a land package of approximately 150,000 hectares in northern Coahuila state, Mexico. The company was formerly known as Discovery Metals Corp. and changed its name to Discovery Silver Corp. Discovery Silver Corp. was incorporated in 1986 and is headquartered in Toronto, Canada.",
+  "website": "http://discoverysilver.com"
+}

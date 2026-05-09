@@ -1,0 +1,38 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG00YY98TZ8",
+    "figi": "BBG00YY9K5Y7",
+    "isin": "NL0015268814"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "NL0015268814",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "MPCES.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NL0015268814.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MPC Energy Solutions N.V.",
+  "primary_symbol": "MPCES.OL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "MPC Energy Solutions NV develop, construct, distribute, own, and operate renewable energy assets globally. The company offers sustainable energy and primarily focuses on low-carbon energy infrastructure, including solar assets, wind assets, hybrid assets, and energy efficiency solutions. The company is based in Amsterdam, Netherlands.",
+  "website": "http://www.mpc-energysolutions.com"
+}

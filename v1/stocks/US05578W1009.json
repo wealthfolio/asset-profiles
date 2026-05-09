@@ -1,0 +1,52 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "cusip": "05578W100",
+    "isin": "US05578W1009"
+  },
+  "industry": "Air Freight & Logistics",
+  "industry_group": "Transportation",
+  "isin": "US05578W1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BPOSY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "13B.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "BPOS.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "BPOST.BR"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "BPOSTN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "bpost SA/NV",
+  "primary_symbol": "BPOSY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "bpost SA/NV, together with its subsidiaries, provides mail and parcel services in Belgium, rest of Europe, the United States, and internationally. The company operates through Mail & Retail Solutions, and Parcels & Logistics segments. Its mail and parcels services include collection, transport, sorting, and distribution of addressed and non-addressed mail, printed documents, newspapers, and parcels, as well as e-commerce logistics, express delivery, proximity and convenience, document management, and related services. The company also offers transactional mails, advertising mails, press, domestic and international parcels, logistic solutions, value-added services, international mails, banking and financial products, insurance, and distribution products. It serves private and public customers. The company is headquartered in Brussels, Belgium.",
+  "website": "http://www.bpost.be"
+}

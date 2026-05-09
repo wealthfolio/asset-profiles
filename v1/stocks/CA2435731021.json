@@ -1,0 +1,68 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000H1VHH8",
+    "figi": "BBG000H1VMP8",
+    "isin": "CA2435731021"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA2435731021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A1U1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "A1U1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DKL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DKLRF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "A1U1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA2435731021.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "DKL.L"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "DKL.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Decklar Resources Inc.",
+  "primary_symbol": "A1U1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Decklar Resources, Inc. operates as an independent international oil and gas company. The company focuses on appraisal and development in the West African region. It holds interests in the Oza Oil Field that covers an area of 20 square kilometers located onshore in the northern part of Oil Mining Lease 11 in Nigeria's Eastern Niger Delta. The company was formerly known as Asian Mineral Resources Limited and changed its name to Decklar Resources, Inc. in September 2020. The company was incorporated in 2004 and is based in Toronto, Canada.",
+  "website": "http://www.decklarresources.com"
+}

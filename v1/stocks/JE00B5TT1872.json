@@ -1,0 +1,73 @@
+{
+  "country": "Jersey",
+  "country_code": "JE",
+  "identifiers": {
+    "composite_figi": "BBG000CHBFL9",
+    "figi": "BBG000CHBJB2",
+    "isin": "JE00B5TT1872"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "JE00B5TT1872",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7CT.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7CT.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CEE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CELTF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7CT.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7CT.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7CT.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "CEE.TO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CEY.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Centamin plc",
+  "primary_symbol": "7CT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Centamin plc engages in the exploration, mining, and development of precious metals in Egypt, Burkina Faso, C√É¬¥te d'Ivoire, Jersey, the United Kingdom, and Australia. The company explores for gold ore deposits. Its principal asset is the Sukari Gold Mine project, which covers an area of approximately 160 square kilometers located in the Eastern Desert of Egypt. Centamin plc was incorporated in 2011 and is headquartered in Saint Helier, Jersey.",
+  "website": "http://www.centamin.com"
+}

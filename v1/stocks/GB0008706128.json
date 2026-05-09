@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C94Q86",
+    "figi": "BBG000C94T26",
+    "isin": "GB0008706128"
+  },
+  "industry_group": "Banks",
+  "isin": "GB0008706128",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLD.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLD.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LLD.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LLD.DU"
+    }
+  ],
+  "name": "LLOYDS BKG GRP  LS-,10",
+  "primary_symbol": "LLD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Lloyds Banking Group is a British financial services organisation offering a wide range of banking and financial services including retail banking, commercial banking, life, pensions and insurance. The Group has a large presence in the UK and offers services through brands including Lloyds Bank, Halifax, Bank of Scotland and Scottish Widows. Headquartered in London, Lloyds Banking Group focuses on serving UK customers."
+}

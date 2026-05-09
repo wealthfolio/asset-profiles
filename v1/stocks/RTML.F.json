@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RTML.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Camerit AG",
+  "primary_symbol": "RTML.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hesse Newman Capital AG provides financial investment services in Germany. It primarily offers funds, and invests in a single or diversified and managed portfolio of real estate properties. The company is based in Hamburg, Germany.\n Hesse Newman Capital AG  operates as a subsidiary of SBW Schweizer Beteiligungs - Werte AG.",
+  "website": "http://www.hesse-newman.de"
+}

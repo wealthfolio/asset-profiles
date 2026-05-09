@@ -1,0 +1,27 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "ISN.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Intershop Holding AG",
+  "primary_symbol": "ISN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Intershop Holding AG, a real estate company, focuses on the purchase, development, and sale of real estate in Switzerland. The company engages in the rental of office, and commercial and retail space. It also develops properties. The company was founded in 1962 and is headquartered in Zurich, Switzerland.",
+  "website": "http://www.intershop.ch"
+}

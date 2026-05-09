@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00YLZ2BN2",
+    "figi": "BBG00YLZ2BV3",
+    "isin": "NO0010907090"
+  },
+  "industry": "Aerospace & Defense",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "NO0010907090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8VH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8VH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010907090.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NUMND.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NORDIC UNMANNED AS NK 1",
+  "primary_symbol": "8VH.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "NORDIC UNMANNED ASA is a company that provides drone-based services and solutions. They offer drone inspections, surveillance, and data collection services for various industries. NORDIC UNMANNED ASA is headquartered in Sandnes, Norway.",
+  "website": "http://www.nordicunmanned.com"
+}

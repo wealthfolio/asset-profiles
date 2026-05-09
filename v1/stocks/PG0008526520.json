@@ -1,0 +1,61 @@
+{
+  "country": "Papua New Guinea",
+  "country_code": "PG",
+  "identifiers": {
+    "isin": "PG0008526520"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "PG0008526520",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOCOF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOU1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BOU1.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BOC.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BOU1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BOU1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BOU1.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Bougainville Copper Limited",
+  "primary_symbol": "BOCOF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Bougainville Copper Limited focuses on exploration operations in Papua New Guinea. It holds interests in Panguna Project. The company is based in Port Moresby, Papua New Guinea.",
+  "website": "http://www.bcl.com.pg"
+}

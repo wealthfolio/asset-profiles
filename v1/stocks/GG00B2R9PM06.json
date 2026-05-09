@@ -1,0 +1,53 @@
+{
+  "country": "Guernsey",
+  "country_code": "GG",
+  "identifiers": {
+    "composite_figi": "BBG000FYCWF8",
+    "figi": "BBG000FYF1K7",
+    "isin": "GG00B2R9PM06"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "GG00B2R9PM06",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "C62.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OIGLF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "C62.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "C62.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CHAR.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CHARIOT OIL + GAS  LS-,01",
+  "primary_symbol": "C62.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Chariot Oil & Gas Limited is an independent oil and gas exploration company. It is focused on projects in Africa and South America.",
+  "website": "http://www.chariotoilandgas.com"
+}

@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000QTFNC7",
+    "cusip": "14713L102",
+    "figi": "BBG00JB0RQV4",
+    "isin": "US14713L1026"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US14713L1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CASA"
+    },
+    {
+      "currency": "TRY",
+      "exchange_mic": "XIST",
+      "symbol": "CASA.IS"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Casa Systems, Inc.",
+  "primary_symbol": "CASA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Casa Systems, Inc., a communications technology company, provides solutions for next-generation centralized, distributed, and virtualized architectures for cable broadband, fixed-line broadband, and wireless networks in North America, Latin America, the Asia-Pacific, Europe, the Middle East, and Africa. It offers converged cable access platforms; wireless network core products, such as virtual evolved packet and 5G core products, and security and wireless gateways, as well as small cell solutions and fixed wireless access devices; and optical access solutions, virtualized broadband network gateway router and multiservice routers, fiber-to-the-distribution-point devices, and residential broadband gateways; and machine-to-machine and industrial internet of things routers. The company was founded in 2003 and is headquartered in Andover, Massachusetts.",
+  "website": "http://www.casa-systems.com"
+}

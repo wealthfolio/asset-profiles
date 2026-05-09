@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005425365"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "IT0005425365",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PMT.MI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Promotica S.p.A.",
+  "primary_symbol": "PMT.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Promotica S.p.A. operates in the loyalty marketing sector in Italy. It designs, organizes, and manages promotional operations and campaigns. The company was founded in 2003 and is headquartered in Desenzano del Garda, Italy.",
+  "website": "http://www.promotica.it"
+}

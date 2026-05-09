@@ -1,0 +1,27 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "DINEA.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DINE, S.A.B. de C.V.",
+  "primary_symbol": "DINEA.MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "DINE, S.A.B. de C.V. operates as a real estate development company primarily in Mexico. It primarily develops residential and tourism development, as well as corporate and commercial property projects. The company was founded in 1978 and is based in Mexico City, Mexico.",
+  "website": "http://www.dine.com.mx"
+}

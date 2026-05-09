@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000QMBWG2",
+    "isin": "GB00B8GRBX01"
+  },
+  "isin": "GB00B8GRBX01",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B8GRBX01.SG"
+    }
+  ],
+  "name": "CLOUDCOCO GROUP PLC",
+  "primary_symbol": "GB00B8GRBX01.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

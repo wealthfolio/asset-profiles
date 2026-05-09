@@ -1,0 +1,36 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000L4JC73",
+    "cusip": "344419106",
+    "figi": "BBG000L4KJ94",
+    "isin": "US3444191064"
+  },
+  "isin": "US3444191064",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FOMA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FOMA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FOMA.SG"
+    }
+  ],
+  "name": "FOM.ECO.MEX.S.D.CV ADR/10",
+  "primary_symbol": "FOMA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

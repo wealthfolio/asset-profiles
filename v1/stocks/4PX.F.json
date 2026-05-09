@@ -1,0 +1,27 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4PX.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Reevo S.P.A.",
+  "primary_symbol": "4PX.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Reevo S.P.A. provides cloud, cyber security, and hybrid cloud services to protect and store the corporate assets in its digital safe in Italy. The company is headquartered in Brugherio, Italy.",
+  "website": "http://www.reevo.it"
+}

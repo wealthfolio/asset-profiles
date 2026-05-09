@@ -1,0 +1,25 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L1A.HM"
+    }
+  ],
+  "name": "Lena Beteiligungs AG",
+  "primary_symbol": "L1A.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Lena Beteiligungs AG is a publicly owned investment manager. It provides its services to institutional investors. It invests in listed companies from various branches with focus on secondary stocks. Lena Beteiligungs AG is based in Oldenburg, Germany.",
+  "website": "http://www.lena-ag.de"
+}

@@ -1,0 +1,66 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "isin": "BE0974274061"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Consumer Services",
+  "isin": "BE0974274061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QV7.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KIN"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KPSN.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "17K.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "KIN.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "KIN.BR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KPSN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KPSN.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "KINEPOLIS GROUP NV KINEPOLIS OR",
+  "primary_symbol": "0QV7.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Kinepolis Group NV is a Belgian cinema operator that operates a network of movie theaters across Europe. The company provides a movie-going experience with multiple screens, comfortable seating, and advanced audio-visual technology. Kinepolis Group is headquartered in Ghent, Belgium.",
+  "website": "http://www.kindredbio.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG0018PXVD4",
+    "figi": "BBG0018PXVK6",
+    "isin": "ZAE000149936"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "ZAE000149936",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7BF.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7BF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "7BF.SG"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "RBP.JO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ROYAL BAFOKENG PLA.RC-,01",
+  "primary_symbol": "7BF.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Royal Bafokeng Platinum Limited is a South African platinum group metals producer. The company mines, processes, and sells platinum group metals, primarily platinum, palladium, rhodium, and gold. The company is based in Johannesburg, South Africa.",
+  "website": "http://www.bafokengplatinum.co.za"
+}

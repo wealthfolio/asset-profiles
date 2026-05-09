@@ -1,0 +1,41 @@
+{
+  "identifiers": {
+    "isin": "AU000000SPL0"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000SPL0",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PQ6.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PQ6.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PQ6.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PQ6.SG"
+    }
+  ],
+  "name": "STARPHARMA HOLDINGS LTD.",
+  "primary_symbol": "PQ6.HM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Starpharma Holdings Limited is an Australian biopharmaceutical company that develops and commercializes pharmaceutical and medical products based on its proprietary DEP® drug delivery technology. Their lead product is VivaGel® (SPL7013) for the treatment and prevention of bacterial vaginosis (BV). The company is headquartered in Melbourne, Australia."
+}

@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C0XHQ3",
+    "figi": "BBG000C0XLV8",
+    "isin": "AU000000CUV3"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "AU000000CUV3",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UR9.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UR9.HM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CUV.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "UR9.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "UR9.SG"
+    }
+  ],
+  "name": "CLINUVEL PHARMACEUTICALS",
+  "primary_symbol": "UR9.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "CLINUVEL PHARMACEUTICALS is a biopharmaceutical company focused on developing and commercializing treatments for genetic, metabolic, and dermatological disorders. Their lead product is SCENESSE, used for the prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP). Clinuvel Pharmaceuticals is headquartered in Melbourne, Australia."
+}

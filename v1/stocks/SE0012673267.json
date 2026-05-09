@@ -1,0 +1,58 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00BKYC7L6",
+    "figi": "BBG00BKYC7S9",
+    "isin": "SE0012673267"
+  },
+  "industry": "Hotels, Restaurants & Leisure",
+  "industry_group": "Consumer Services",
+  "isin": "SE0012673267",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E3G1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "E3G1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EVGGF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "E3G1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "E3G1.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "EVON.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "EVOLUTION AB (PU) SK-,003",
+  "primary_symbol": "E3G1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Evolution AB is a Swedish developer and provider of online casino solutions, offering live casino games and game show content to operators worldwide. The company's products include live roulette, blackjack, baccarat, and other casino games streamed in real-time, and is headquartered in Stockholm, Sweden. Evolution aims to provide engaging and innovative live casino experiences.",
+  "website": "http://www.evolutiongaming.com"
+}

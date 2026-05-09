@@ -1,0 +1,51 @@
+{
+  "identifiers": {
+    "isin": "BE0974268972"
+  },
+  "industry_group": "Transportation",
+  "isin": "BE0974268972",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0QF5.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13B.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "13B.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "13B.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "13B.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "BE0974268972.SW"
+    }
+  ],
+  "name": "BPOST SA BPOST ORD SHS",
+  "primary_symbol": "0QF5.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Bpost SA is a Belgian postal operator providing postal services, parcel delivery, direct marketing services, banking, and insurance services. The company operates both domestically and internationally, offering solutions for e-commerce and logistics. Bpost is headquartered in Brussels, Belgium."
+}

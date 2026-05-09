@@ -1,0 +1,27 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "KLED.ST"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Kungsleden AB (publ)",
+  "primary_symbol": "KLED.ST",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Kungsleden are people that create places and experiences for people. By developing and managing attractive and sustainable places, we offer people better and more inspiring work experience. We are a long-term property owner focused on commercial properties in Sweden's growth regions. As of 30 September 2020, we owned 211 properties with total value of SEK 39,872 million.",
+  "website": "http://www.kungsleden.se"
+}

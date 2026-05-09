@@ -1,0 +1,53 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG000JX7ZG4",
+    "figi": "BBG000JX83R2",
+    "isin": "IT0003850929"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "IT0003850929",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "EP4A.BE"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0NFS.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "EP4A.F"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0003850929.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "PRT.MI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ESPRINET S.P.A.  EO -,15",
+  "primary_symbol": "EP4A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Esprinet S.p.A. is an Italian company that distributes IT products and consumer electronics to retailers, resellers, and system integrators. They offer a wide range of products from various manufacturers. The company is headquartered in Vimercate, Italy.",
+  "website": "http://www.esprinet.com"
+}

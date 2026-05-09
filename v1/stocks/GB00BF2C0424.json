@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00W042070",
+    "figi": "BBG00W0420F1",
+    "isin": "GB00BF2C0424"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "GB00BF2C0424",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "52Y.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "52Y.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "52Y.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BF2C0424.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "VDTK.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "VERDITEK PLC LS-,0004",
+  "primary_symbol": "52Y.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Verditek PLC operates as a clean technology company in the United Kingdom, rest of Europe, and the United States. It manufactures and commercializes solar technologies in the clean energy, CO2 emission reduction, deodorization markets. The company's solar modules are used in various applications, such as transportation, real estate, consumer retail, and telecom sectors, as well as in caravans and holiday homes, solar carports and electric vehicle charging, hotel, safari, glamping, and corporate events. It also develops filtration technologies. The company was incorporated in 2016 and is based in London, the United Kingdom.",
+  "website": "http://verditek.com"
+}

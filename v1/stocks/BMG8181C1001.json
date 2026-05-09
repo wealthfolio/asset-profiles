@@ -1,0 +1,53 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000CJBW38",
+    "figi": "BBG000CJCZ49",
+    "isin": "BMG8181C1001"
+  },
+  "industry": "Electronic Equipment, Instruments & Components",
+  "industry_group": "Consumer Durables & Apparel",
+  "isin": "BMG8181C1001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KYW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWDHF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "0751.HK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "KYW.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYW.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "SKYWORTH GROUP LTD.HD-,10",
+  "primary_symbol": "KYW.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "SKYWORTH GROUP LTD.HD-,10 is a Chinese holding company with its subsidiaries principally engaged in the design, manufacture, and marketing of consumer electronic products, including televisions, set-top boxes, and white goods. The company also provides property development and property management services. Skyworth Group is headquartered in Hong Kong.",
+  "website": "http://www.skyworth.com"
+}

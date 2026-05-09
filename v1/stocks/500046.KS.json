@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "500046.KS"
+    }
+  ],
+  "name": "Shinhan K200 Mthly Short Strang",
+  "primary_symbol": "500046.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Shinhan K200 Mthly Short Strang is a structured product or strategy, likely offered by Shinhan Investment Corporation, based on the KOSPI 200 index and utilizing a monthly short straddle strategy. This involves selling both a call and a put option on the KOSPI 200 with the same strike price and expiration date, aiming to profit from low volatility."
+}

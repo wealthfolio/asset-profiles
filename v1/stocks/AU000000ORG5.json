@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C3WKR0",
+    "figi": "BBG000C3WNS3",
+    "isin": "AU000000ORG5"
+  },
+  "industry_group": "Energy",
+  "isin": "AU000000ORG5",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORL.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORL.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ORL.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ORL.SG"
+    }
+  ],
+  "name": "ORIGIN ENERGY LTD.",
+  "primary_symbol": "ORL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Origin Energy Limited is an Australian integrated energy company focused on gas and electricity. Origin explores for and produces natural gas, generates electricity from various sources, and retails energy to residential and business customers. Origin Energy is headquartered in Sydney, Australia."
+}

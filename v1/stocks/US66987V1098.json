@@ -1,0 +1,48 @@
+{
+  "country": "South Africa",
+  "country_code": "ZA",
+  "identifiers": {
+    "composite_figi": "BBG000NDLR75",
+    "cusip": "66987V109",
+    "figi": "BBG000NDLVG6",
+    "isin": "US66987V1098"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US66987V1098",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOTA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NOTA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NOTA.DU"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "NVS.JO"
+    }
+  ],
+  "name": "NOVARTIS NAM. ADR 1",
+  "primary_symbol": "NOTA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Novartis AG is a global healthcare company headquartered in Basel, Switzerland. They research, develop, manufacture, and market a broad range of innovative medicines and healthcare products. Their business is divided into innovative medicines and generics (Sandoz) divisions.",
+  "website": "http://www.novus.holdings"
+}

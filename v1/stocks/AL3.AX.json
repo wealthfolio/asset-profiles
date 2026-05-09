@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Building Products",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AL3.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "AML3D Limited",
+  "primary_symbol": "AL3.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "AML3D Limited provides contract manufacturing services to the aerospace, marine, defense, oil and gas, mining, and general manufacturing sectors in Australia, Singapore, Japan, and Europe. It produces metal components and structures through automated wire-fed 3D printing technology. AML3D Limited was founded in 2014 and is headquartered in Edinburgh, Australia.",
+  "website": "http://www.aml3d.com"
+}

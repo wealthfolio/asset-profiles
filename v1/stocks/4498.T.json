@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4498.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Cybertrust Japan Co., Ltd.",
+  "primary_symbol": "4498.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Cybertrust Japan Co., Ltd. engages in the certification authority and security, IoT, and Linux/OSS businesses in Japan. It offers commercial digital authentication services covering SSL/TLS server certificate, client certificate, web security service, and vulnerability testing; secure IoT platform that allow users to manage the security status of IoT devices throughout their lifecycle from the semiconductor design to the disposal process stage; and Linux OS/integrated monitoring tool and backup software services. The company was founded in 2000 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.cybertrust.co.jp"
+}

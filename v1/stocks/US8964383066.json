@@ -1,0 +1,59 @@
+{
+  "country": "Ireland",
+  "country_code": "IE",
+  "identifiers": {
+    "composite_figi": "BBG000DZZZF5",
+    "cusip": "896438306",
+    "figi": "BBG000F002F1",
+    "isin": "US8964383066"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US8964383066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRBA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRBA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRIB"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TRBA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TRBA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TRBA.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TRINITY BIOTEC.ADR NEW A",
+  "primary_symbol": "TRBA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Trinity Biotech plc is a biotechnology company focused on the development, manufacture and marketing of diagnostic products. The company's products are used in clinical laboratories and point-of-care settings. Trinity Biotech is headquartered in Bray, Ireland.",
+  "website": "http://www.trinitybiotech.com"
+}

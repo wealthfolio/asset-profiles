@@ -1,0 +1,64 @@
+{
+  "country": "Chile",
+  "country_code": "CL",
+  "identifiers": {
+    "composite_figi": "BBG000BRSD26",
+    "cusip": "833635105",
+    "figi": "BBG000BRSHH1",
+    "isin": "US8336351056"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US8336351056",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "QYM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SQM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "QYM.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "QYM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "QYM.SG"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "SQM-A.SN"
+    },
+    {
+      "currency": "CLP",
+      "exchange_mic": "XSGO",
+      "symbol": "SQM-B.SN"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "SOC. QUIMICA MIN.ADR B 1",
+  "primary_symbol": "QYM.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Sociedad Quimica y Minera de Chile S.A. (SQM) produces and distributes specialty plant nutrients, iodine and its derivatives, lithium and its derivatives, potassium chloride and potassium sulfate, and industrial chemicals. The company has its headquarters in Santiago, Chile.",
+  "website": "http://www.sqm.com"
+}

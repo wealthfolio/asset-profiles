@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG009BHS9P3",
+    "cusip": "03783C100",
+    "figi": "BBG009BHS9W5",
+    "isin": "US03783C1009"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US03783C1009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4P0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4P0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4P0.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "APPFOLIO INC. A  DL-,0001",
+  "primary_symbol": "4P0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "AppFolio, Inc. provides cloud-based business solutions for the real estate and legal industries. The company offers property management software and legal practice management software. AppFolio is headquartered in Santa Barbara, California.",
+  "website": "http://www.appfolioinc.com"
+}

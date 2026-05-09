@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0046L1KL9",
+    "cusip": "860897107",
+    "figi": "BBG00J058WZ9",
+    "isin": "US8608971078"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "US8608971078",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SFIX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SYJ.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0L9X.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SYJ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SYJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SYJ.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Stitch Fix, Inc.",
+  "primary_symbol": "SFIX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Stitch Fix, Inc. sells a range of apparel, shoes, and accessories through its Website and mobile application in the United States. It offers denim, dresses, blouses, skirts, shoes, jewelry, and handbags for men, women, and kids under the Stitch Fix brand. The company was formerly known as rack habit inc. and changed its name to Stitch Fix, Inc. in October 2011. Stitch Fix, Inc. was founded in 2011 and is headquartered in San Francisco, California.",
+  "website": "http://www.stitchfix.com"
+}

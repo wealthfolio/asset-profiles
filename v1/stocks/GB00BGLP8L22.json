@@ -1,0 +1,31 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "GB00BGLP8L22"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "GB00BGLP8L22",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "IMI.V"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "International Millennium Mining Corp.",
+  "primary_symbol": "IMI.V",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "International Millennium Mining Corp. engages in the acquisition, exploration, and evaluation of mineral properties in Canada and the United States. The company primarily explores for silver and gold deposits. It holds 100% interest in the Silver Peak (Nivloc) property consisting of 211 claims covering an area of approximately 4,000 contiguous acres located in southwest Nevada. International Millennium Mining Corp. is based in New Westminster, Canada.",
+  "website": "http://www.immc.ca"
+}

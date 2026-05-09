@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000L01Z42",
+    "cusip": "48251W104",
+    "figi": "BBG000L024P7",
+    "isin": "US48251W1045"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "US48251W1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KR51.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KR51.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "KR51.DU"
+    }
+  ],
+  "name": "KKR + CO. INC.  O.N.",
+  "primary_symbol": "KR51.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "KKR & Co. Inc. is a global investment firm that manages multiple alternative asset classes, including private equity, energy, infrastructure, real estate, and credit. The firm sponsors investment funds that make investments in a variety of industries and geographies. The company is headquartered in New York City, New York."
+}

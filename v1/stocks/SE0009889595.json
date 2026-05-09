@@ -1,0 +1,24 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00GZT1L22",
+    "isin": "SE0009889595"
+  },
+  "isin": "SE0009889595",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0009889595.SG"
+    }
+  ],
+  "name": "SENSEC HOLDING AB",
+  "primary_symbol": "SE0009889595.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

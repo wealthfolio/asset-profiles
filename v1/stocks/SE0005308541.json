@@ -1,0 +1,36 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0005308541"
+  },
+  "industry": "Machinery",
+  "industry_group": "Energy",
+  "isin": "SE0005308541",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0G6W.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7X9.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "SaltX Technology Holding AB",
+  "primary_symbol": "0G6W.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "SaltX Technology Holding AB develops and sells patented thermochemical energy storage solution based on nano-coated salt under the SaltX brand. It serves engineering, procurement, and construction industries; original equipment manufacturers; and end customers, such as energy companies, industries, and municipalities. The company was founded in 2001 and is headquartered in Hagersten, Sweden.",
+  "website": "http://www.saltxtechnology.com"
+}

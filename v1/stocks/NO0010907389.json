@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG00ZHQT2H2",
+    "figi": "BBG00ZHQT2N5",
+    "isin": "NO0010907389"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "NO0010907389",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "7XH.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7XH.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010907389.SG"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "RANA.OL"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Rana Gruber AS",
+  "primary_symbol": "7XH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Rana Gruber AS engages in the mining, production, and sale of iron ore concentrate primarily to steel producers and the chemical industry. The company also offers micronized iron oxides and related products to paint manufactures, and building and automotive industries. It offers its products under the Mo i Rana Concentrates and Colorana brands. The company also exports its products worldwide. Rana Gruber AS was founded in 1937 and is headquartered in Mo i Rana, Norway. Rana Gruber AS is a subsidiary of LNS Mining AS.",
+  "website": "http://ranagruber.no"
+}

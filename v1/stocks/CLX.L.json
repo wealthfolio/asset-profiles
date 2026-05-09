@@ -1,0 +1,26 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry": "Communications Equipment",
+  "industry_group": "Technology Hardware & Equipment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CLX.L"
+    }
+  ],
+  "name": "Calnex Solutions Plc",
+  "primary_symbol": "CLX.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Calnex Solutions Limited provides test and measurement products for telecommunication networks. It offers Paragon that enables users to capture real-world packet delay variation profiles from their existing network and replay those profiles in a controlled lab environment; and Paragon-X, which measures the accuracy of the recovered time of day (ToD) and frequency (MTIE/TDEV) to the specified limits. The company also provides Paragon-m, a field tool to test and prove ToD and frequency (E1, T1, or other frequencies) accuracy to nanoseconds in the network; and IP/Ethernet network emulators, which provide delay and inline impairment network emulation for operators, equipment manufacturers, applications developers, and test laboratories. It offers its products to prove new technologies that are developed and deployed for new mobile backhaul, carrier Ethernet, and packet transport networks. The company was founded in 2006 and is based in Linlithgow, United Kingdom.",
+  "website": "http://www.calnexsol.com"
+}

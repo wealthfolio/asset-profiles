@@ -1,0 +1,63 @@
+{
+  "country": "Mauritius",
+  "country_code": "MU",
+  "identifiers": {
+    "composite_figi": "BBG000KSH7D7",
+    "figi": "BBG000KSJDP9",
+    "isin": "MU0456S00006"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "MU0456S00006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "21L.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "21L.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AFMJF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "21L.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "21L.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "AFM.V"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "APH.JO"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "ALPHAMIN RES CORP.",
+  "primary_symbol": "21L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Alphamin Resources Corp. is a tin mining company focused on the development and operation of the Bisie tin mine in the Democratic Republic of Congo (DRC). They are involved in the exploration, development, and production of tin concentrate. The company is headquartered in Ebene, Mauritius.",
+  "website": "http://www.alphaminresources.com"
+}

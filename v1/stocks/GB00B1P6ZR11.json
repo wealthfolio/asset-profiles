@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000C98WY0",
+    "figi": "BBG000C98Z73",
+    "isin": "GB00B1P6ZR11"
+  },
+  "industry": "Internet & Direct Marketing Retail",
+  "industry_group": "Retailing",
+  "isin": "GB00B1P6ZR11",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGUA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BGUA.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "BWNG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00B1P6ZR11.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GB00B1P6ZR11.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BROWN GRP PLC CONS.",
+  "primary_symbol": "BGUA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "N Brown Group plc operates as a digital fashion retailer in the United Kingdom. The company offers a range of clothing, footwear, and homeware products for men, women, and kids under the JD Williams, Simply Be, Jacamo, Oxendales, Figleaves, House of Bath, High and Mighty, Fasion World, Premier Man, Slimma, Diva, Dannimac, and Ambrose Wilson brands. It also provides financial services. The company was founded in 1859 and is headquartered in Manchester, the United Kingdom.",
+  "website": "http://www.nbrown.co.uk"
+}

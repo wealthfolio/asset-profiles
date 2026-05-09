@@ -1,0 +1,59 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000CPXKH1",
+    "cusip": "45665G303",
+    "figi": "BBG000CPXN76",
+    "isin": "US45665G3039"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45665G3039",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I3F.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "I3F.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INFI"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "I3F.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I3F.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I3F.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "INFINITY PHARMAC. DL-,001",
+  "primary_symbol": "I3F.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Infinity Pharmaceuticals, Inc., a biopharmaceutical company, focuses on developing novel medicines for people with cancer. Its product candidate is IPI-549, an orally administered clinical-stage immuno-oncology product candidate that inhibits the enzyme phosphoinositide-3-kinase-gamma, which is in Phase 1/1b clinical trials for the treatment of triple negative breast cancer, solid tumors, and ovarian cancer. The company has strategic alliances with Intellikine, Inc. to discover, develop, and commercialize pharmaceutical products targeting the delta and/or gamma isoforms of PI3K; Verastem, Inc. to research, develop, commercialize, and manufacture duvelisib and products containing duvelisib; and PellePharm, Inc. to develop and commercialize rights to its hedgehog inhibitor program, IPI-926, a clinical-stage product candidate, as well as collaboration agreements with Arcus Biosciences, Inc., F. Hoffmann-La Roche Ltd., and Bristol Myers Squibb Company. Infinity Pharmaceuticals, Inc. was incorporated in 2000 and is headquartered in Cambridge, Massachusetts.",
+  "website": "http://www.infi.com"
+}

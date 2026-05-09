@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG00VTXGQ11",
+    "figi": "BBG00VTXGQ66",
+    "isin": "FR0013286259"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "FR0013286259",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3VG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3VG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALTHX.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FR0013286259.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "THERANEXUS EO -,25",
+  "primary_symbol": "3VG.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "THERANEXUS EO -,25 is a biotechnology company specializing in the discovery and development of therapeutic solutions for neurological diseases, focusing on precision medicine. Headquartered in France, the company aims to improve the lives of patients suffering from debilitating conditions by identifying and validating novel drug candidates. Theranexus leverages its expertise in neuronal networks and advanced technologies to develop targeted therapies for unmet medical needs.",
+  "website": "http://www.theranexus.com"
+}

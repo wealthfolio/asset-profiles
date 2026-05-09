@@ -1,0 +1,51 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "isin": "SE0000806994"
+  },
+  "industry": "Construction & Engineering",
+  "industry_group": "Diversified Financials",
+  "isin": "SE0000806994",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JMM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JMM.BE"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "JM.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JMM.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JMM.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Nuveen Multi-Market Income Fund",
+  "primary_symbol": "JMM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Nuveen Multi-Market Income Fund is a closed-end investment fund managed by Nuveen Asset Management. The fund seeks to generate income by investing in a portfolio of multi-sector debt securities. The fund is based in the United States.",
+  "website": "http://www.jm.se"
+}

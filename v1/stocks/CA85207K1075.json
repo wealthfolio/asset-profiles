@@ -1,0 +1,44 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG0015XH000",
+    "figi": "BBG0015XH082",
+    "isin": "CA85207K1075"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "CA85207K1075",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PSLV"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "PSLV-U.TO"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "PSLV.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "S2S.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Sprott Physical Silver Trust",
+  "primary_symbol": "PSLV",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Sprott Physical Silver Trust is a closed-end fund that invests primarily in physical silver bullion. The trust offers investors a convenient way to gain exposure to silver without the complexities of buying and storing physical metal. Sprott Physical Silver Trust is based in Toronto, Canada."
+}

@@ -1,0 +1,22 @@
+{
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SCP.L"
+    }
+  ],
+  "name": "Schroder UK Mid Cap",
+  "primary_symbol": "SCP.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Schroder UK Mid Cap Fund aims to provide a total return by investing in UK mid-capitalisation companies. It invests primarily in companies listed on the London Stock Exchange which are constituents of the FTSE 250 Index. The fund is managed by Schroders Investment Management."
+}

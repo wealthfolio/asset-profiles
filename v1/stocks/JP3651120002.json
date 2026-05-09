@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000RFX4V7",
+    "figi": "BBG000RFX8D8",
+    "isin": "JP3651120002"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "JP3651120002",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3NQ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3NQ.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3NQ.F"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "4571.T"
+    },
+    {
+      "currency": "TWD",
+      "exchange_mic": "XTAI",
+      "symbol": "4571.TW"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NANOCARRIER CO. LTD",
+  "primary_symbol": "3NQ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "NanoCarrier Co., Ltd. is a Japanese biopharmaceutical company developing nanomedicines for cancer treatment. The company's proprietary nanotechnology platform delivers drugs directly to tumor cells. NanoCarrier is headquartered in Kashiwa, Chiba, Japan.",
+  "website": "http://www.nanocarrier.co.jp"
+}

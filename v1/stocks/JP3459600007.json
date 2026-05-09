@@ -1,0 +1,53 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000C3RL21",
+    "figi": "BBG000C3RP40",
+    "isin": "JP3459600007"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "JP3459600007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TAX.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2531.T"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TAX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "TAX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TAX.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TAKARA HLDGS",
+  "primary_symbol": "TAX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "TAKARA HOLDINGS INC. is a Japanese company involved in biotechnology, alcohol beverages, and real estate businesses. They produce sake, shochu, and other alcoholic beverages, as well as providing gene therapy and bio-related products. The company is headquartered in Kyoto, Japan.",
+  "website": "http://www.takara.co.jp"
+}

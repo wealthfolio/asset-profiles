@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00F412FG6",
+    "cusip": "91381U200",
+    "figi": "BBG00KJXM4V5",
+    "isin": "US91381U2006"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US91381U2006",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UBX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9U9.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Unity Biotechnology, Inc.",
+  "primary_symbol": "UBX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Unity Biotechnology, Inc., a biotechnology company, engages in the research and development of therapeutics to slow, halt, or reverse diseases of aging. The company's lead drug candidate include UBX1325, which is Phase I clinical trial for the treatment of age-related diseases of the eye, including age-related macular degeneration, diabetic macular edema, and diabetic retinopathy. It is also developing UBX1967 for the treatment of ophthalmologic diseases; UBX2050, a human anti-Tie2 agonist monoclonal antibody for the treatment of age-related eye diseases; and UBX2089, a a-Klotho hormone drug candidate for multiple neurology indications. The company was formerly known as Forge, Inc. and changed its name to Unity Biotechnology, Inc. in January 2015. Unity Biotechnology, Inc. was incorporated in 2009 and is headquartered in South San Francisco, California.",
+  "website": "http://www.unitybiotechnology.com"
+}

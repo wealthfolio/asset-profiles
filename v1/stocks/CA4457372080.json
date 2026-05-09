@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA4457372080"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "CA4457372080",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HOILF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RWPM.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RWPM.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "HOC.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RWPM.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Hunter Technology Corp.",
+  "primary_symbol": "HOILF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Hunter Oil Corp. acquires and develops crude oil and natural gas properties. The company was formerly known as Enhanced Oil Resources Inc. and changed its name to Hunter Oil Corp. in August 2016. Hunter Oil Corp. was incorporated in 1980 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.huntertechnology.com"
+}

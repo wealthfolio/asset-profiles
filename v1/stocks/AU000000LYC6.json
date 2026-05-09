@@ -1,0 +1,48 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPRDS3",
+    "figi": "BBG000BPRHS4",
+    "isin": "AU000000LYC6"
+  },
+  "industry_group": "Materials",
+  "isin": "AU000000LYC6",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYI.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYI.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYI.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "LYI.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LYI.SG"
+    }
+  ],
+  "name": "LYNAS RARE EARTHS LTD.",
+  "primary_symbol": "LYI.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Lynas Rare Earths Ltd. is an Australian rare earths company that is involved in the mining, separation, and refining of rare earth minerals. The company extracts rare earths from its Mount Weld mine in Western Australia and processes them at its separation plant in Malaysia. Lynas is a major producer of neodymium and praseodymium, which are used in the production of permanent magnets."
+}

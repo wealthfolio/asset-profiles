@@ -1,0 +1,53 @@
+{
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "identifiers": {
+    "composite_figi": "BBG000CNWN72",
+    "figi": "BBG000CNXT14",
+    "isin": "JP3967200001"
+  },
+  "industry": "Electrical Equipment",
+  "industry_group": "Software & Services",
+  "isin": "JP3967200001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RAK.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "RAK.DU"
+    },
+    {
+      "currency": "NZD",
+      "exchange_mic": "XNZE",
+      "symbol": "RAK.NZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RAK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "RAKUTEN GROUP INC.",
+  "primary_symbol": "RAK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Rakuten Group, Inc. is a Japanese e-commerce and online retailing company that operates a diverse range of internet services. Their offerings include e-commerce, fintech, digital content, communications, and sports. Headquartered in Tokyo, Japan, Rakuten is a global leader in internet services.",
+  "website": "http://www.rakon.com"
+}

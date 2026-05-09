@@ -1,0 +1,32 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG004LN45X5",
+    "isin": "NO0010633951"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "NO0010633951",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NO0010633951.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "NO0010633951.SW"
+    }
+  ],
+  "name": "B2 HOLDING ASA",
+  "primary_symbol": "NO0010633951.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "B2Holding ASA is a debt purchase and collection company. The company acquires and manages portfolios of non-performing loans (NPLs) across Europe. B2Holding ASA is headquartered in Oslo, Norway."
+}

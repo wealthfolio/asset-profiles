@@ -1,0 +1,94 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BYVJ33",
+    "cusip": "655572105",
+    "figi": "BBG000BYVMZ1",
+    "isin": "US6555721058"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US6555721058",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDX1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDX1.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDX1.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDX1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NDX1.TI"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NRDXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NRXXY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NDX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "NDX1.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NDX1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NDX1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NDX1.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "NDX1.VI"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Nordex SE",
+  "primary_symbol": "NDX1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Nordex SE, together with its subsidiaries, develops, manufactures, and distributes multi-megawatt onshore wind turbines worldwide. It operates through Projects and Services segments. The company provides project development services, as well as acquires rights and creates the infrastructure required to construct wind power systems at suitable locations. In addition, it offers maintenance and remote monitoring services for wind farms, as well as spare parts, and repair and technical enhancement services for existing turbines. The company was incorporated in 1985 and is headquartered in Hamburg, Germany.",
+  "website": "http://www.nordex-online.com"
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Poland",
+  "country_code": "PL",
+  "identifiers": {
+    "composite_figi": "BBG00ZHRJ423",
+    "figi": "BBG00ZHRJ478",
+    "isin": "PLTOYA000011"
+  },
+  "industry": "Building Products",
+  "industry_group": "Retailing",
+  "isin": "PLTOYA000011",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6PJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TOA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6PJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLTOYA000011.SG"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "TOA.BK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "TOYA S.A.  ZY -,10",
+  "primary_symbol": "6PJ.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "TOYA S.A. ZY -,10 is a Polish manufacturer and distributor of hand tools, power tools, and related products. The company offers a wide range of products for professional and DIY users. TOYA S.A. is based in Wrocław, Poland.",
+  "website": "http://yato.com"
+}

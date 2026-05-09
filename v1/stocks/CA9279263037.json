@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000HPYB30",
+    "figi": "BBG000HPYG48",
+    "isin": "CA9279263037"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA9279263037",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEJ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JEJ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VGZ"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JEJ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JEJ.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "VGZ.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Vista Gold Corp.",
+  "primary_symbol": "JEJ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Vista Gold Corp., together with its subsidiaries, engages in the evaluation, acquisition, exploration, and advancement of gold exploration and development projects primarily in Australia. The company's flagship asset is the Mt Todd gold project located in Northern Territory. Vista Gold Corp. was founded in 1983 and is headquartered in Littleton, Colorado.",
+  "website": "http://www.vistagold.com"
+}

@@ -1,0 +1,39 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00GGXGNN1",
+    "cusip": "109199208",
+    "figi": "BBG00GGXGR61",
+    "isin": "US1091992081"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "US1091992081",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BEDU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BSK.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Bright Scholar Education Holdings Limited",
+  "primary_symbol": "BEDU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Bright Scholar Education Holdings Limited, an education service provider, operates and provides K-12 schools and complementary education services in China and internationally. Its schools comprise international and bilingual schools, and kindergartens. The company also offers a range of complementary education services, including international camps and after-school programs, as well as international education consulting services. As of August 31, 2020, it operated 94 schools across 12 provinces in China, as well as 8 schools internationally with a total student capacity of 75,311 students. Bright Scholar Education Holdings Limited was founded in 1994 and is based in Foshan, China.",
+  "website": "http://www.brightscholar.com"
+}

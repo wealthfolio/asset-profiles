@@ -1,0 +1,47 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "cusip": "48667L106",
+    "isin": "US48667L1061"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "US48667L1061",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDDIF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KDDIY"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "9433.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DIP.F"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "KDDI Corporation",
+  "primary_symbol": "KDDIF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "KDDI Corporation provides telecommunications services in Japan and internationally. It operates through four segments: Personal Services, Life Design Services, Business Services, and Global Services. The Personal Services segment offers mobile services under the au and MVNO brands; fixed-line services under the au Hikari brand; and FTTH services, CATV services, and others. It also provides non-telecommunications services, such as the au WALLET Market product sales services through au shops; energy services under the au Denki brand; and education services under the AEON brand. The Life Design Services segment offers online and offline value-added non-telecommunications services; subscription services, such as thedigital content of au Smart Pass/au Smart Pass Premium; commerce services under the au Wowman brand; and other services, as well as insurance and other services in the financing business. The Business Services segment offers mobile services using devices that include smartphones and tablets, as well as networks, applications, and cloud services to a range ofcorporate customers, which comprise small and other corporations. It also provides various services in the IoT sector. The Global Services segment offers telecommunication services, ICT Solutions, data center services, and others for individuals and corporate customers. It is also involved in construction and maintenance of facilities, call center operations, and researchand development of technologies. KDDI Corporation has a mobile payment alliance agreement with Merpay, Inc., LINE Pay Corporation, and NTT DOCOMO, INC. for merchant stores. The company was founded in 1953 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.kddi.com"
+}

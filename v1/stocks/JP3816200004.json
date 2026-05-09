@@ -1,0 +1,33 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000M14B49",
+    "figi": "BBG000M14C38",
+    "isin": "JP3816200004"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "JP3816200004",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FUP.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Fuji Pharma Co., Ltd.",
+  "primary_symbol": "FUP.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fuji Pharma Co., Ltd. engages in the research and development, manufacture, and marketing of pharmaceutical products in Japan and internationally. The company offers hormone medicines for obstetrics and gynecology therapies, as well as injectable drugs, such as radiopharmaceutical products. It also provides medical care for women; in vitro diagnostics, acute medical care products, and curative medicines; and information regarding pharmaceuticals and health. The company was founded in 1965 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.fujipharma.jp"
+}

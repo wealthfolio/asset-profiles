@@ -1,0 +1,61 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA02156G1028"
+  },
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "industry_group": "Utilities",
+  "isin": "CA02156G1028",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATRWF"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "7VZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7VZ.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "ARR.AX"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "ARR.L"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "ARR.OL"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "ARR.TO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Altius Renewable Royalties Corp.",
+  "primary_symbol": "ATRWF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "Altius Renewable Royalties Corp., a renewable energy royalty company, invests in and acquires and manages portfolio of diversified renewable energy royalties for renewable power developers, operators, and originators. The company provides tailored royalty-based financing solutions to the renewable power market. It primarily operates wind and solar projects. The company was incorporated in 2018 and is headquartered in St. John's, Canada. Altius Renewable Royalties Corp. is a subsidiary of Altius Royalty Corporation.",
+  "website": "http://www.arr.energy"
+}

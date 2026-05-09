@@ -1,0 +1,31 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00886WZZ9",
+    "figi": "BBG00RV8M7F2"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "EXL.DU"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Exasol AG",
+  "primary_symbol": "EXL.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Exasol AG, a technology company, develops database for analytics and data warehousing worldwide. Its products include Exasol Community Edition, a database solution for commercial and private/academic use; Exasol One, a database that manages up to 1TB of data on a single node for small and medium-sized businesses or individual departments within enterprise organizations; and Exasol Enterprise Cluster, a database solution that provides scalability and enterprise-level support. The company also offers cloud analytics, business intelligence (BI) acceleration, BI to data analytics, analytics on big data, enterprise data warehousing, and data science solutions; and professional services, such as operations support, product support and consulting, and training services. It provides solutions for retail, financial, and sports analytics. Exasol AG was founded in 2000 and is headquartered in Nuremberg, Germany.",
+  "website": "http://www.exasol.com"
+}

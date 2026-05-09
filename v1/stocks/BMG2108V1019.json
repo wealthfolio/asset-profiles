@@ -1,0 +1,48 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "identifiers": {
+    "composite_figi": "BBG000BTWVT8",
+    "figi": "BBG000BTWXQ7",
+    "isin": "BMG2108V1019"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "BMG2108V1019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ORG.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ORG.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ORG.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CHINA ORIENTAL GRP HD-,10",
+  "primary_symbol": "ORG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "China Oriental Group Company Limited is a steel manufacturer in China. It primarily produces hot-rolled coils, cold-rolled coils, and galvanized products. The company's headquarters are located in Hong Kong.",
+  "website": "http://www.chinaorientalgroup.com"
+}

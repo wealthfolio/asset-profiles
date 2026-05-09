@@ -1,0 +1,63 @@
+{
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "identifiers": {
+    "composite_figi": "BBG006W3TSB9",
+    "figi": "BBG006W3TSJ1",
+    "isin": "LU0974299876"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "LU0974299876",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2G2.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GLOB"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0RIX.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2G2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2G2.SG"
+    },
+    {
+      "currency": "ARS",
+      "exchange_mic": "XBUE",
+      "symbol": "GLNT.BA"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "GLOB.JK"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "GLOBANT SA NOM.  DL 1,20",
+  "primary_symbol": "2G2.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Globant S.A. is a technology services company that focuses on delivering digital transformation solutions. The company provides software development, IT consulting, and digital marketing services, helping clients to innovate and modernize their businesses. Globant S.A. is headquartered in Luxembourg.",
+  "website": "http://www.globant.com"
+}

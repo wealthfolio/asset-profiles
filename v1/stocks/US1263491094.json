@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000G3TQV2",
+    "cusip": "126349109",
+    "figi": "BBG000G3W483",
+    "isin": "US1263491094"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US1263491094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSGS"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CSN.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CSN.F"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CSG Systems International, Inc.",
+  "primary_symbol": "CSGS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "CSG Systems International, Inc. provides revenue management, customer experience, and payment solutions primarily to the communications industry in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers Advanced Convergent Platform, a private cloud-based platform; related customer communications management solutions, including field force automation, analytics, electronic bill presentment, ACH, etc. for processing voice, SMS/text, print, and e-mail messages; and cloud-based integrated suite of solutions for range of industries. The company also provides managed services; and professional services to implement, configure, and maintain its solutions, as well as licenses various solutions, such as mediation, partner management, rating, and charging. It serves financial services, healthcare, media and entertainment companies, and government markets. The company was incorporated in 1994 and is headquartered in Greenwood Village, Colorado.",
+  "website": "http://www.csgi.com"
+}

@@ -1,0 +1,38 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000FGT5D0",
+    "figi": "BBG000FGT620",
+    "isin": "FR0004030708"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "FR0004030708",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALDUB.PA"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0004030708.SW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Encres Dubuit",
+  "primary_symbol": "ALDUB.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Encres Dubuit formulates, manufactures, and sells technical and industrial inks for screen printing, pad printing, and digital printing worldwide. The company offers color matching and management services for various types of inks, as well as technical support services. Its products are used in various other applications, including cards, give-aways/offices, glasses, house and electrical appliances, industrial and graphic applications, lab products, labels, membrane switches and overlays, optical discs, packaging, sign/information systems, securities ink, touch panels, and special products, as well as for the automotive, electronics, beverage, and luggage and textile industries. Encres Dubuit was founded in 1970 and is headquartered in Mitry-Mory, France.",
+  "website": "http://www.encresdubuit.com"
+}

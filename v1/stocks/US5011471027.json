@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00MDVCTS1",
+    "cusip": "501147102",
+    "figi": "BBG00MDVCTZ3",
+    "isin": "US5011471027"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US5011471027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4KB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4KB.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KRYS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4KB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4KB.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "KRYSTAL BIOTECH DL-,00001",
+  "primary_symbol": "4KB.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Krystal Biotech, Inc. is a gene therapy company focused on developing and commercializing treatments for rare diseases. The company's technology platform is based on gene delivery using modified herpes simplex virus type 1 (HSV-1) vectors. Krystal Biotech is headquartered in Pittsburgh, Pennsylvania.",
+  "website": "http://www.krystalbio.com"
+}

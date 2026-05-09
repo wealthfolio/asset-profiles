@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8421.T"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Shinkin Central Bank",
+  "primary_symbol": "8421.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Shinkin Central Bank, a financial institution, operates as a central bank for Shinkin banks in Japan. The company provides various products and services, such as deposits, debentures, lending, market fund management, trading operations, clearing, and trust services. It also offers securities dealing, brokerage, and underwriting services, as well as securities investment and consulting services; asset management services; guarantees for unsecured personal loans; investment banking, merger and acquisition brokerage, and corporate business consulting services; and data processing services. As of March 31, 2020, the company had 255 banks. Shinkin Central Bank was founded in 1950 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.shinkin-central-bank.jp"
+}

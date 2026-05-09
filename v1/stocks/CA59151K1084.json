@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000C16MS8",
+    "figi": "BBG000C16WM2",
+    "isin": "CA59151K1084"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "CA59151K1084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEOH"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MX5.MU"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "MEOHN.MX"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MX.TO"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MX5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MX5.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Methanex Corporation",
+  "primary_symbol": "MEOH",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Methanex Corporation produces and supplies methanol in North America, the Asia Pacific, Europe, and South America. The company also purchases methanol produced by others under methanol offtake contracts and on the spot market. In addition, it owns and leases storage and terminal facilities. The company owns and manages a fleet of approximately 30 ocean-going vessels. It serves chemical and petrochemical producers. The company was incorporated in 1968 and is headquartered in Vancouver, Canada.",
+  "website": "http://www.methanex.com"
+}

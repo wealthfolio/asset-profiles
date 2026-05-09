@@ -1,0 +1,40 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000LX15P3",
+    "figi": "BBG000LX19B0",
+    "isin": "CA6076771014"
+  },
+  "isin": "CA6076771014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L3O.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "L3O.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA6076771014.SG"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "L3O.DU"
+    }
+  ],
+  "name": "MODERN PLANT BASED FOODS",
+  "primary_symbol": "L3O.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

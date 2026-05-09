@@ -1,0 +1,83 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000WFDW23",
+    "figi": "BBG00NL23ZV6",
+    "isin": "DE000TRAT0N7"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "DE000TRAT0N7",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8TRA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8TRA.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8TRA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8TRA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TRATF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "8TRA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "8TRA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "8TRA.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "8TRA.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "8TRA.VI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DE000TRAT0N7.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Traton SE",
+  "primary_symbol": "8TRA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Traton SE manufactures commercial vehicles worldwide. It operates through Industrial Business and Financial Services segments. The company offers light and heavy-duty commercial vehicles, such as trucks and bus chassis; vans; construction vehicles; city buses; and intercity and travel coaches, as well as spare parts and services. It also provides a cloud-based platform for freight transportation under the RIO brand name. The company offers its products and services under the MAN, Scania, and Volkswagen Caminh√É¬µes e √É¬înibus brands. In addition, it provides a range of financial solutions, including dealer and customer finance, leasing, and insurance products. The company was founded in 2015 and is based in Munich, Germany. Traton SE operates as a subsidiary of Volkswagen Finance Luxemburg S.A.",
+  "website": "http://www.traton.com"
+}

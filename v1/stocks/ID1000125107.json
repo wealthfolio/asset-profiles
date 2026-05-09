@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BXWCC9",
+    "figi": "BBG000BXWFY8",
+    "isin": "ID1000125107"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ID1000125107",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCLA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LCLA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LCLA.SG"
+    }
+  ],
+  "name": "KALBE FARMA  RP 10",
+  "primary_symbol": "LCLA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Kalbe Farma, PT is a pharmaceutical company in Indonesia, manufacturing and marketing prescription pharmaceuticals, over-the-counter drugs, nutritional products, and medical devices. It also engages in research and development activities. Kalbe Farma is headquartered in Jakarta, Indonesia."
+}

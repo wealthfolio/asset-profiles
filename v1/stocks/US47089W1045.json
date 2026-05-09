@@ -1,0 +1,62 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "47089W104",
+    "isin": "US47089W1045"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US47089W1045",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "JAN.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "JAN.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "JAN.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "JAN.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JAN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US47089W1045.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "JAPAN ASIA INV.",
+  "primary_symbol": "JAN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Janison Education Group Limited engages in licensing, hosting, and supporting online student assessment and e-learning software solutions in Australia and internationally. The company operates in two segments, Assessment and Learning. The Assessment segment implements and operates a platform for the provision of digital exam authoring, testing, and marking to national education departments, tertiary institutions, and independent educational institutions. The Learning segment operates a learning management platform that manages the content and learning programs for corporate and government clients, as well as offers content development services. The company was formerly known as HJB Corporation Ltd. and changed its name to Janison Education Group Limited in December 2017. Janison Education Group Limited was founded in 1998 and is headquartered in Sydney, Australia.",
+  "website": "http://www.janison.com"
+}

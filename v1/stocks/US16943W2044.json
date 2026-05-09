@@ -1,0 +1,25 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000D5F435",
+    "cusip": "16943W204",
+    "isin": "US16943W2044"
+  },
+  "isin": "US16943W2044",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US16943W2044.SG"
+    }
+  ],
+  "name": "CHINA GREEN AGRICULTURE INC",
+  "primary_symbol": "US16943W2044.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

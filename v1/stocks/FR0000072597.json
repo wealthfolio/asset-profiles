@@ -1,0 +1,43 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000D9RXN8",
+    "figi": "BBG000D9RZ08",
+    "isin": "FR0000072597"
+  },
+  "industry": "IT Services",
+  "industry_group": "Software & Services",
+  "isin": "FR0000072597",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ALITL.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IL8.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IL8.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IT Link SA",
+  "primary_symbol": "ALITL.PA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IT Link SA provides digitalization solutions in France. The company offers sensors, actuators, and embedded intelligence systems; Internet of things (IoT) and industrial connected systems; dependability and critical systems analysis; data intelligence systems, including scientific and industrial big data; business information systems and web interfaces; mobile applications; connected systems engineering services; and co-construction dynamics and tools. It serves automotive, energy, defense, aerospace, telecom and IOT, public transportation, services and retail, health and biomedical, and media and entertainment sectors. The company is based in Le Kremlin-Bic√É¬™tre, France.",
+  "website": "http://www.itlink.fr"
+}

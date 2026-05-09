@@ -1,0 +1,27 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FGPN.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Ambac Financial Group, Inc.",
+  "primary_symbol": "FGPN.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Ambac Financial Group, Inc., a financial services holding company, provides financial guarantees in the United States, the United Kingdom, Italy, Austria, Australia, France, and Internationally. It offers financial guarantee insurance policies; and credit derivative contracts and interest rate derivative transactions. The company was incorporated in 1991 and is headquartered in New York, New York.",
+  "website": "http://www.ambac.com"
+}

@@ -1,0 +1,37 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "79400X305",
+    "isin": "US79400X3052"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US79400X3052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLRX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FP11.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Salarius Pharmaceuticals, Inc.",
+  "primary_symbol": "SLRX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Salarius Pharmaceuticals, Inc., a clinical-stage biotechnology company, focuses on developing epigenetic-based cancer treatments. The company's lead candidate is Seclidemstat (SP-2577), which is in Phase I/II clinical trial for the treatment of advanced solid tumors, including prostate, breast, and ovarian cancers, as well as Ewing sarcoma. It has a strategic partnership with The University of Utah Research Foundation for the exclusive license with respect to patent rights protecting SP-2577 and related compounds; HLB Life Sciences to develop, produce, manufacture, use, and sell the drug in South Korea; and Cancer Prevention and Research Institute of Texas for product development activities. Salarius Pharmaceuticals, Inc. is headquartered in Houston, Texas.",
+  "website": "http://www.salariuspharma.com"
+}

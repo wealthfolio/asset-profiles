@@ -1,0 +1,26 @@
+{
+  "country": "Greece",
+  "country_code": "GR",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XATH",
+      "symbol": "BRIQ.AT"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BriQ Properties Real Estate Investment Company",
+  "primary_symbol": "BRIQ.AT",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "BriQ Properties Real Estate Investment Company is a real estate investment company focused on acquiring and managing properties in Greece. The company aims to generate income and capital appreciation through its real estate portfolio. The company is based in Greece.",
+  "website": "http://www.briqproperties.gr"
+}

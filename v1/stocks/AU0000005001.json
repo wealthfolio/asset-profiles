@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00KL4NTK2",
+    "figi": "BBG00KL4NTR5",
+    "isin": "AU0000005001"
+  },
+  "industry_group": "Materials",
+  "isin": "AU0000005001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COQA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "COQA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "COQA.SG"
+    }
+  ],
+  "name": "COPPER MOUNT.MIN. CDI",
+  "primary_symbol": "COQA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Copper Mountain Mining Corporation is a copper mining company focused on operating the Copper Mountain mine in British Columbia, Canada. The company engages in the exploration, development, and operation of copper mines. They produce copper concentrates and are headquartered in Vancouver, Canada."
+}

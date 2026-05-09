@@ -1,0 +1,38 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000G077W3",
+    "figi": "BBG000G08FX3",
+    "isin": "JP3711200000"
+  },
+  "industry_group": "Banks",
+  "isin": "JP3711200000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AON.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AON.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AON.DU"
+    }
+  ],
+  "name": "AOZORA BANK LTD",
+  "primary_symbol": "AON.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Aozora Bank, Ltd. is a Japanese bank that provides various financial services to corporate and retail clients. Their services include lending, deposit-taking, and investment banking. The bank is headquartered in Japan."
+}

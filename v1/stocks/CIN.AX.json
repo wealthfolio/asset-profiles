@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CIN.AX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Carlton Investments Limited",
+  "primary_symbol": "CIN.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Carlton Investments Limited is a publicly owned asset management holding company. Through its subsidiaries, the firm manages separate client-focused equity portfolios. It invests in the public equity markets of Australia through its subsidiaries. Carlton Investments Limited was founded in 1928 and is based in Sydney, Australia.",
+  "website": "http://www.carltoninvestments.com.au"
+}

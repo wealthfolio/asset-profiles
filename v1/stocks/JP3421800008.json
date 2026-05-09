@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000C224M6",
+    "figi": "BBG000C22847",
+    "isin": "JP3421800008"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "JP3421800008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XSC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XSC.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XSC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XSC.SG"
+    }
+  ],
+  "name": "SECOM CO. LTD",
+  "primary_symbol": "XSC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "SECOM Co., Ltd. provides security services, including online security, security systems, and fire protection, as well as medical and insurance services. The company also engages in real estate development and information and communication technology services. SECOM is headquartered in Tokyo, Japan."
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000JGFQ18",
+    "figi": "BBG000JGFT94",
+    "isin": "HK0291001490"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "HK0291001490",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHK.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CHK.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "CHK.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CHK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CHK.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "CHINA RES BEER (HLDGS)CO.",
+  "primary_symbol": "CHK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "China Resources Beer (Holdings) Co. Ltd. is a Chinese brewery and beverage company, known for its Snow beer brand, which is one of the world's best-selling beer brands. The company is engaged in the production, distribution, and marketing of beer products. China Resources Beer is headquartered in Hong Kong.",
+  "website": "http://www.cohibaminerals.com.au"
+}

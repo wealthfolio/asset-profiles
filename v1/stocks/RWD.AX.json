@@ -1,0 +1,27 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "RWD.AX"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Reward Minerals Ltd",
+  "primary_symbol": "RWD.AX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Reward Minerals Ltd engages in the exploration and development of mineral properties in Australia. Its flagship project is its 100% owned Lake Disappointment sulphate of Potash Project that includes approximately 5,000 square kilometers of granted tenements located in the Little Sandy Desert, Western Australia. The company is headquartered in Nedlands, Australia.",
+  "website": "http://www.rewardminerals.com"
+}

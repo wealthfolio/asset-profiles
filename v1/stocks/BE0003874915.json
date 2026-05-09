@@ -1,0 +1,56 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "identifiers": {
+    "isin": "BE0003874915"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "BE0003874915",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0HNZ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARSUF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RCUS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "4A5.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "4A5.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XBRU",
+      "symbol": "FAGR.BR"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Fagron NV",
+  "primary_symbol": "0HNZ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Fagron NV, a pharmaceutical compounding company, provides personalized pharmaceutical care to hospitals, pharmacies, clinics, and patients. It prepares personalized ready-to-use medication in its sterile and non-sterile compounding facilities. The company also innovates concepts, vehicles, and formulations for pharmaceutical compounding. In addition, it offers pharmaceutical raw materials, equipment, and supplies that pharmacists need to prepare medication in the pharmacy. Further, the company develops, manufactures, and supplies mixing equipment that pharmacists can use for the compounding of semi-solid dermatological formulations. It has operations in Europe, the Americas, the Middle East, and Africa, as well as Asia and the Pacific. The company was formerly known as Arseus NV and changed its name to Fagron NV in January 2015. Fagron NV was founded in 1990 and is based in Nazareth, Belgium.",
+  "website": "http://www.fagron.com"
+}

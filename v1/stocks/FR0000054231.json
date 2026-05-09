@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000JVFML2",
+    "figi": "BBG000JVFQS6",
+    "isin": "FR0000054231"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "FR0000054231",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HIH.MU"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000054231.SW"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "HCO.P.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "HCO.PA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "HIH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HIH.SG"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "HIH.V"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "HIGH CO. INH.  EO-,50",
+  "primary_symbol": "HIH.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "High Co SA is a French company specializing in retail marketing and communication services. The company provides services such as in-store media, digital marketing, and data analytics to retailers and brands. High Co is headquartered in Aix-en-Provence, France.",
+  "website": "http://www.highco.com"
+}

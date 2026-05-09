@@ -1,0 +1,53 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG000QY7Z47",
+    "figi": "BBG000QY82F7",
+    "isin": "GB00BN31ZD89"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "GB00BN31ZD89",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BQB1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BQB1.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BQB1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BQB1.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "YGEN.L"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "YOURGENE HEALTH  LS 0,001",
+  "primary_symbol": "BQB1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "YOURGENE HEALTH LS 0,001 is a molecular diagnostics company that develops and commercializes genetic tests and services. It offers non-invasive prenatal testing (NIPT), cystic fibrosis screening, and other genetic screening solutions. The company is headquartered in Manchester, UK.",
+  "website": "http://www.yourgene-health.com"
+}

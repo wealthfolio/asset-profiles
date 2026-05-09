@@ -1,0 +1,189 @@
+{
+  "as_of_date": "2026-09-30",
+  "asset_class_weights": [
+    {
+      "asset_class": "Equity",
+      "weight": 1.0
+    }
+  ],
+  "aum_usd": 714279299480.88,
+  "category": "Large Cap",
+  "category_group": "Alternatives",
+  "country_weights": [
+    {
+      "country": "United States",
+      "country_code": "US",
+      "weight": 0.971633
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "weight": 0.019944
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "weight": 0.00273
+    },
+    {
+      "country": "Liberia",
+      "country_code": "LR",
+      "weight": 0.001206
+    },
+    {
+      "country": "Bermuda",
+      "country_code": "BM",
+      "weight": 0.001204
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "weight": 0.001128
+    },
+    {
+      "country": "Curaçao",
+      "country_code": "CW",
+      "weight": 0.00098
+    },
+    {
+      "country": "Jersey",
+      "country_code": "JE",
+      "weight": 0.00061
+    },
+    {
+      "country": "Panama",
+      "country_code": "PA",
+      "weight": 0.000567
+    }
+  ],
+  "holdings_count": 503,
+  "issuer": "SSGA",
+  "kind": "etf",
+  "listings": [
+    {
+      "currency": "USD",
+      "symbol": "SPY"
+    }
+  ],
+  "name": "SPDR S&P 500 ETF Trust",
+  "primary_symbol": "SPY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "public domain",
+    "source": "SEC EDGAR N-PORT",
+    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000884394"
+  },
+  "schema_version": "1.0.0",
+  "sector_weights": [
+    {
+      "sector": "Unknown",
+      "weight": 0.27752
+    },
+    {
+      "sector": "Information Technology",
+      "weight": 0.255293
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "weight": 0.102681
+    },
+    {
+      "sector": "Health Care",
+      "weight": 0.089738
+    },
+    {
+      "sector": "Financials",
+      "weight": 0.0767
+    },
+    {
+      "sector": "Industrials",
+      "weight": 0.074924
+    },
+    {
+      "sector": "Consumer Staples",
+      "weight": 0.046414
+    },
+    {
+      "sector": "Materials",
+      "weight": 0.01837
+    },
+    {
+      "sector": "Utilities",
+      "weight": 0.017285
+    },
+    {
+      "sector": "Energy",
+      "weight": 0.016594
+    },
+    {
+      "sector": "Communications",
+      "weight": 0.013241
+    },
+    {
+      "sector": "Real Estate",
+      "weight": 0.011239
+    }
+  ],
+  "top_holdings": [
+    {
+      "cusip": "67066G104",
+      "isin": "US67066G1040",
+      "name": "NVIDIA Corp",
+      "weight": 0.077307
+    },
+    {
+      "cusip": "037833100",
+      "isin": "US0378331005",
+      "name": "Apple Inc",
+      "weight": 0.068524
+    },
+    {
+      "cusip": "594918104",
+      "isin": "US5949181045",
+      "name": "Microsoft Corp",
+      "weight": 0.061315
+    },
+    {
+      "cusip": "023135106",
+      "isin": "US0231351067",
+      "name": "Amazon.com Inc",
+      "weight": 0.038303
+    },
+    {
+      "cusip": "02079K305",
+      "isin": "US02079K3059",
+      "name": "Alphabet Inc",
+      "weight": 0.031066
+    },
+    {
+      "cusip": "11135F101",
+      "isin": "US11135F1012",
+      "name": "Broadcom Inc",
+      "weight": 0.02788
+    },
+    {
+      "cusip": "02079K107",
+      "isin": "US02079K1079",
+      "name": "Alphabet Inc",
+      "weight": 0.024891
+    },
+    {
+      "cusip": "30303M102",
+      "isin": "US30303M1027",
+      "name": "Meta Platforms Inc",
+      "weight": 0.024523
+    },
+    {
+      "cusip": "88160R101",
+      "isin": "US88160R1014",
+      "name": "Tesla Inc",
+      "weight": 0.021556
+    },
+    {
+      "cusip": "084670702",
+      "isin": "US0846707026",
+      "name": "Berkshire Hathaway Inc",
+      "weight": 0.015723
+    }
+  ]
+}

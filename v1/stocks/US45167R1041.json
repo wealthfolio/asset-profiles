@@ -1,0 +1,54 @@
+{
+  "country": "Netherlands",
+  "country_code": "NL",
+  "identifiers": {
+    "composite_figi": "BBG000J7SZF9",
+    "cusip": "45167R104",
+    "figi": "BBG000J7V4M6",
+    "isin": "US45167R1041"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Capital Goods",
+  "isin": "US45167R1041",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ID7.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ID7.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XAMS",
+      "symbol": "IEX.AS"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "IEX.BO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "IEX.NS"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IDEX CORP.  DL-,01",
+  "primary_symbol": "ID7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "IDEX Corporation is a global fluidics leader specializing in highly engineered solutions in areas such as health & science, safety, and fire & rescue. Headquartered in Lake Forest, Illinois, the company designs, manufactures and distributes a range of products, including pumps, valves, and other fluid handling components. IDEX serves a wide array of industries.",
+  "website": "http://www.iexgroup.nl"
+}

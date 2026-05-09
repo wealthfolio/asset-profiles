@@ -1,0 +1,39 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00MV6XBZ4",
+    "cusip": "874060205",
+    "figi": "BBG00MV6XC55",
+    "isin": "US8740602052"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US8740602052",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKDA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TKDA.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "TKDA.DU"
+    }
+  ],
+  "name": "TAKEDA PHARM.SPON.ADR/1/2",
+  "primary_symbol": "TKDA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Takeda Pharmaceutical Company Limited is a global, values-based, R&D-driven biopharmaceutical leader committed to discovering and delivering life-transforming treatments, guided by our commitment to patients, our people and the planet. The company focuses on several therapeutic areas, including oncology, rare diseases, neuroscience, gastroenterology (GI) and plasma-derived therapies (PDT). Takeda is headquartered in Tokyo, Japan."
+}

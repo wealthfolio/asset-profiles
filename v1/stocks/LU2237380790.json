@@ -1,0 +1,53 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00XTRYYF8",
+    "figi": "BBG00XTRYYM0",
+    "isin": "LU2237380790"
+  },
+  "industry_group": "Retailing",
+  "isin": "LU2237380790",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AL0.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AL0.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AL0.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "AL0.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "AL0.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LU2237380790.SG"
+    }
+  ],
+  "name": "ALLEGRO.EU  ZY -,01",
+  "primary_symbol": "AL0.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Allegro.eu S.A. operates an online marketplace in Poland. The company connects buyers and sellers, offering a wide range of products, including electronics, fashion, and home goods. Allegro.eu is headquartered in Luxembourg."
+}

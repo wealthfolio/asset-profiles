@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00Z74J1G6",
+    "figi": "BBG00Z74J1M9",
+    "isin": "PLSTRWI00019"
+  },
+  "industry_group": "Software & Services",
+  "isin": "PLSTRWI00019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4T6.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PLSTRWI00019.SG"
+    }
+  ],
+  "name": "STARWARD INDUSTRIES -,13",
+  "primary_symbol": "4T6.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "STARWARD INDUSTRIES SA is a Polish video game developer focused on creating narrative-driven adventure games for PC and consoles. They specialize in creating atmospheric experiences with a focus on storytelling and immersive worlds. The company is based in Krakow, Poland."
+}

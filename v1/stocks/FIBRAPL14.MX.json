@@ -1,0 +1,27 @@
+{
+  "country": "Mexico",
+  "country_code": "MX",
+  "industry": "Equity Real Estate Investment Trusts (REITs)",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "FIBRAPL14.MX"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "FIBRA Prologis",
+  "primary_symbol": "FIBRAPL14.MX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "FIBRA Prologis is a leading owner and operator of Class-A industrial real estate in Mexico. As of December 31, 2020, FIBRA Prologis was comprised of 205 logistics and manufacturing facilities in six industrial markets in Mexico totaling 40.2 million square feet (3.7 million square meters) of gross leasable area.",
+  "website": "http://www.fibraprologis.com"
+}

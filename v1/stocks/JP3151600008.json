@@ -1,0 +1,61 @@
+{
+  "country": "Taiwan, Province of China",
+  "country_code": "TW",
+  "identifiers": {
+    "isin": "JP3151600008"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "JP3151600008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "8088.TWO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IWA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IWTNF"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "8088.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IWA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IWA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "IWA.VI"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Panram International Corp.",
+  "primary_symbol": "8088.TWO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Panram International Corp. provides electronic manufacturing services in Taiwan. The company offers services, such as ODM and OEM services, as well as product design, raw material procurement, logistic management, transportation, product testing, and RMA services. Its products include DRAM modules; flash memory products, such as pen drives and fingerprint drives; I/O products; keyboards, touch panel control boards, and VGA cards; and embedded storage products, touch screen controllers, and card readers. The company also provides SSDs, SD/microSD cards and USB modules, FDM modules, conformal coatings, and anti-sulfur modules. Panram International Corp. was founded in 1994 and is based in Taipei City, Taiwan.",
+  "website": "http://www.panram.com.tw"
+}

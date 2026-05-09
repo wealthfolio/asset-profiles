@@ -1,0 +1,46 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "identifiers": {
+    "composite_figi": "BBG000N8CWZ4",
+    "figi": "BBG000N8D0N6",
+    "isin": "GB0003452173"
+  },
+  "industry_group": "Transportation",
+  "isin": "GB0003452173",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FGR.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FGR.HA"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "FGP.BO"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FGR.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FIRSTGRP PLC  LS-,05",
+  "primary_symbol": "FGR.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FirstGroup plc is a British transport group operating bus and rail services in the United Kingdom and North America. They provide passenger transport solutions. The company is headquartered in Aberdeen, Scotland."
+}

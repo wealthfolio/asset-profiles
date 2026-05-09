@@ -1,0 +1,36 @@
+{
+  "country": "Guernsey",
+  "country_code": "GG",
+  "identifiers": {
+    "isin": "GG00BMXNVC81"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "GG00BMXNVC81",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RHILF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "RHM.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Round Hill Music Royalty Fund Limited",
+  "primary_symbol": "RHILF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Round Hill Music Royalty Fund Limited invests in music copyright assets. It intends to invest in small to medium sized catalogues that are diversified by artist, genre, decade, and royalty type. The company was incorporated in 2020 and is based in Saint Peter Port, the Channel Islands.",
+  "website": "http://www.roundhillmusicroyaltyfund.com"
+}

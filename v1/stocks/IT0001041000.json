@@ -1,0 +1,41 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0001041000"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "IT0001041000",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BDB.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "BDBR.MI"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "IT0001041000.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Banco di Desio e della Brianza S.p.A.",
+  "primary_symbol": "BDB.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Banco di Desio e della Brianza S.p.A. provides banking products and services in Italy. It provides deposit products and loans. The company also offers financial, banking, and payment services; documentary credit, leasing, and factoring services; financial, insurance, and asset management products; and debit and credit cards. Banco di Desio e della Brianza S.p.A. was founded in 1909 and is based in Desio, Italy.",
+  "website": "http://www.bancodesio.it"
+}

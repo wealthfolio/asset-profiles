@@ -1,0 +1,58 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00LGDTP28",
+    "figi": "BBG00LGDTP82",
+    "isin": "GB00B4T7HX10"
+  },
+  "industry": "Household Products",
+  "industry_group": "Software & Services",
+  "isin": "GB00B4T7HX10",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTG.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTG.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTTHF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LTG.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "LTG.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "LTG.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LEARNING TECH.GR.LS-00375",
+  "primary_symbol": "LTG.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "LEARNING TECH.GR.LS-00375 is Learning Technologies Group plc, a digital learning and talent management company. It provides services such as e-learning, training, and consulting to organizations worldwide. The headquarters are in London, UK.",
+  "website": "http://www.ltgplc.com"
+}

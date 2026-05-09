@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00DGZ2H06",
+    "cusip": "87266J104",
+    "figi": "BBG00DGZ2H60",
+    "isin": "US87266J1043"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "US87266J1043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GX6.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GX6.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TPIC"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "GX6.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GX6.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TPI COMPOSITES INC. ,-01",
+  "primary_symbol": "GX6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "TPI Composites, Inc. is a global manufacturer of composite wind blades for the wind energy market. The company manufactures wind blades for turbine manufacturers and also provides field service inspection, repair, and related services. TPI Composites, Inc. is headquartered in Scottsdale, Arizona.",
+  "website": "http://www.tpicomposites.com"
+}

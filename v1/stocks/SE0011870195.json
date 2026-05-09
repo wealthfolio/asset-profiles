@@ -1,0 +1,53 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00MRYD3L3",
+    "figi": "BBG00MRYD3S6",
+    "isin": "SE0011870195"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "SE0011870195",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTX.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LTX.MU"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LIME.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "LTX.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0011870195.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "LIME TECHNOLOGIES",
+  "primary_symbol": "LTX.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Lime Technologies is a CRM and sales software company that helps businesses manage customer relationships and improve sales performance. Their solutions include CRM, sales automation, and marketing automation tools. The company is based in Lund, Sweden.",
+  "website": "http://www.lime-technologies.com"
+}

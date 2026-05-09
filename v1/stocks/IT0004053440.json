@@ -1,0 +1,56 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0004053440"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "IT0004053440",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0E3C.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DLGCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DT8A.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "DAL.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DT8A.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DT8A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "DATALOGIC SPA DATALOGIC ORD SHS",
+  "primary_symbol": "0E3C.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "DATALOGIC SPA is an Italy-based company that designs, manufactures, and sells bar code readers, data capture mobile computers, radio-frequency identification (RFID) systems, vision systems and laser marking systems. Their products are used in retail, manufacturing, transportation and logistics, and healthcare industries. The company is headquartered in Calderara di Reno, Italy.",
+  "website": "http://www.datalogic.com"
+}

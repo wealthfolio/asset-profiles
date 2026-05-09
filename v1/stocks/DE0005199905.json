@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000C2B838",
+    "figi": "BBG000C2BBH6",
+    "isin": "DE0005199905"
+  },
+  "industry": "Household Durables",
+  "industry_group": "Retailing",
+  "isin": "DE0005199905",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECK.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECK.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ECK.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "ECK.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ECK.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ECK.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ECK.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "LUDW.BECK A.RATHAUSECK",
+  "primary_symbol": "ECK.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "LUDWIG BECK am Rathauseck - Textilhaus Feldmeier AG operates as a department store primarily in Munich, Germany, offering a wide range of fashion, accessories, beauty products, and home goods. The company focuses on providing a premium shopping experience.",
+  "website": "http://www.ludwigbeck.de"
+}

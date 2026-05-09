@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000TQYSY4",
+    "cusip": "538034109",
+    "figi": "BBG000TQYW20",
+    "isin": "US5380341090"
+  },
+  "industry": "Entertainment",
+  "industry_group": "Media & Entertainment",
+  "isin": "US5380341090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3LN.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "3LN.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LYV"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "L1YV34.SA"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "LYV.MX"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "LIVE NATION ENTMT.DL -,01",
+  "primary_symbol": "3LN.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Live Nation Entertainment, Inc. is a global entertainment company that promotes, operates, and manages live entertainment venues. It operates through segments like concerts, ticketing, and sponsorship & advertising. The company is headquartered in Beverly Hills, California.",
+  "website": "http://www.livenationentertainment.com"
+}

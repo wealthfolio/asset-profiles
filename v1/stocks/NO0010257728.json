@@ -1,0 +1,48 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000QV4JM2",
+    "figi": "BBG000QV4M54",
+    "isin": "NO0010257728"
+  },
+  "industry": "Marine",
+  "industry_group": "Transportation",
+  "isin": "NO0010257728",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "H4S.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "H4S.F"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HAVI.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "HAVIO.OL"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "HAVILA SHIPPING  NK 1",
+  "primary_symbol": "H4S.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Havila Shipping ASA is a Norwegian offshore service company that provides supply and subsea operations services to the offshore oil and gas industry. The company operates a fleet of platform supply vessels, anchor handling tug supply vessels, and subsea construction vessels. Havila Shipping is headquartered in Fosnavåg, Norway.",
+  "website": "http://www.havilashipping.no"
+}

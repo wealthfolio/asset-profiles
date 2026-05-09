@@ -1,0 +1,53 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00GSKV5D9",
+    "figi": "BBG00GSKV5L0",
+    "isin": "US3621LQ1099"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US3621LQ1099",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G1H.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "G1H.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GTHX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "G1H.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "G1H.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "G1 THERAPEUTICS  DL-,0001",
+  "primary_symbol": "G1H.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "G1 Therapeutics, Inc. is a biopharmaceutical company focused on the discovery, development, and commercialization of small molecule therapeutics to address unmet needs in oncology; their lead product is trilaciclib, a CDK4/6 inhibitor; the company is headquartered in Research Triangle Park, North Carolina.",
+  "website": "http://www.g1therapeutics.com"
+}

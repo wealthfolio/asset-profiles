@@ -1,0 +1,69 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BLMZK6",
+    "cusip": "143130102",
+    "figi": "BBG000BLN1T1",
+    "isin": "US1431301027"
+  },
+  "industry": "Automobiles",
+  "industry_group": "Automobiles & Components",
+  "isin": "US1431301027",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "KMX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XA4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "XA4.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0HTQ.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "KMX.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "XA4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "XA4.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "XA4.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "CarMax, Inc.",
+  "primary_symbol": "KMX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "CarMax, Inc., through its subsidiaries, operates as a retailer of used vehicles in the United States. The company operates in two segments, CarMax Sales Operations and CarMax Auto Finance. It offers customers a range of makes and models of used vehicles, including domestic, imported, and luxury vehicles; vehicles that do not meet its retail standards to licensed dealers through on-site wholesale auctions; and extended protection plans to customers at the time of sale. The company also provides reconditioning and vehicle repair services; and financing alternatives for retail customers across a range of credit spectrum through its CarMax Auto Finance and arrangements with various financial institutions. As of February 29, 2020, it operated approximately 216 stores and 2 new car franchises. CarMax, Inc. was founded in 1993 and is based in Richmond, Virginia.",
+  "website": "http://www.carmax.com"
+}

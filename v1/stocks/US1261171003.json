@@ -1,0 +1,54 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BFYB47",
+    "cusip": "126117100",
+    "figi": "BBG000BFYCD5",
+    "isin": "US1261171003"
+  },
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "isin": "US1261171003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNH.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CNH.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CNH.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CNH.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "CNA Financial Corporation",
+  "primary_symbol": "CNA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "CNA Financial Corporation provides commercial property and casualty insurance products primarily in the United States. It operates through Specialty, Commercial, International, Life & Group, and Corporate & Other segments. The company offers professional liability coverages and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; directors and officers, employment practices, fiduciary, and fidelity coverages to small and mid-size firms, public and privately held firms, and not-for-profit organizations; professional and general liability, as well as associated standard property and casualty coverages for healthcare industry; surety and fidelity bonds; and warranty and alternative risks products. It also provides property insurance products, such as property, marine, boiler, and machinery coverages; casualty insurance products comprising workers' compensation, general and product liability, commercial auto, and umbrella coverages; specialized loss-sensitive insurance programs and total risk management services; and run-off long term care policies. In addition, the company offers long-tail exposures comprising commercial automobile liability, workers compensation, general and medical professional liability, other professional and management liability, and assumed reinsurance run-off and products liability; and short-tail exposures, such as property, commercial automobile physical damage, marine, surety, and warranty. It markets its products through independent agents, brokers, and general underwriters to small, medium, and large businesses; insurance companies; associations; professionals; and other groups in the marine, oil and gas, construction, manufacturing, life science, property, financial services, healthcare, and technology industries. The company was founded in 1853 and is headquartered in Chicago, Illinois. CNA Financial Corporation is a subsidiary of Loews Corporation.",
+  "website": "http://www.cna.com"
+}

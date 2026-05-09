@@ -1,0 +1,39 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KLHTJY4",
+    "cusip": "86633R302",
+    "figi": "BBG00KLHTK80",
+    "isin": "US86633R3021"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US86633R3021",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WISA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SUE1.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Summit Wireless Technologies, Inc.",
+  "primary_symbol": "WISA",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Summit Wireless Technologies, Inc., a technology company, develops, manufactures, and sells modules and integrated circuits for home entertainment and wireless audio market in the United States, Europe, and the Asia Pacific. It offers TX modules for integration into televisions, audio-visual receivers, media hubs, and USB or HDMI dongles; and speaker systems. The company sells its products directly to original equipment manufacturers. The company was formerly known as Summit Semiconductor, Inc. and changed its name to Summit Wireless Technologies, Inc. in September 2018. Summit Semiconductor, Inc. was incorporated in 2010 and is headquartered in San Jose, California.",
+  "website": "http://www.summitwireless.com"
+}

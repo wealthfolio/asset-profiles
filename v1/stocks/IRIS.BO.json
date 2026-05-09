@@ -1,0 +1,25 @@
+{
+  "country": "India",
+  "country_code": "IN",
+  "industry_group": "Software & Services",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "IRIS.BO"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "IRIS Business Services Limited",
+  "primary_symbol": "IRIS.BO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "IRIS Business Services Limited provides technology-driven solutions for regulatory reporting, data management, and analytics, primarily serving financial institutions globally. The company's services include XBRL reporting, data quality management, and risk analytics, helping clients comply with regulatory requirements and improve business decision-making. Headquartered in India, IRIS Business Services leverages its expertise in data and technology to deliver efficient and scalable solutions."
+}

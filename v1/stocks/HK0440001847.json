@@ -1,0 +1,33 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BQNST1",
+    "figi": "BBG000BQNXX5",
+    "isin": "HK0440001847"
+  },
+  "industry_group": "Diversified Financials",
+  "isin": "HK0440001847",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DSR.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DSR.SG"
+    }
+  ],
+  "name": "DAH SING FINL HLDGS",
+  "primary_symbol": "DSR.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Dah Sing Financial Holdings Limited is a financial services group based in Hong Kong, providing banking, insurance, and other financial products and services. The group operates primarily in Hong Kong and Mainland China. Dah Sing Financial Holdings is headquartered in Hong Kong."
+}

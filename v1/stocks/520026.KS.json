@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "520026.KS"
+    }
+  ],
+  "name": "MiraeAsset KOSPI ShortStrangle",
+  "primary_symbol": "520026.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "MiraeAsset KOSPI ShortStrangle is an Exchange Traded Note (ETN) managed by Mirae Asset Daewoo Co., Ltd, employing a short strangle strategy on the KOSPI index. A short strangle involves selling both a call and a put option on the same underlying asset, with different strike prices. It is listed on the Korea Exchange."
+}

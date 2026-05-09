@@ -1,0 +1,34 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00PQM8124",
+    "cusip": "45254U101",
+    "figi": "BBG00PQM8188",
+    "isin": "US45254U1016"
+  },
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US45254U1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANWA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ANWA.MU"
+    }
+  ],
+  "name": "IMMURON LTD SPON.ADR 40",
+  "primary_symbol": "ANWA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "IMMURON LTD SPON.ADR 40 represents American Depositary Receipts (ADRs) of Immuron Ltd. Each ADR represents a specified number of ordinary shares of Immuron Ltd. The company is focused on developing and commercializing bovine colostrum-derived products for gut health."
+}

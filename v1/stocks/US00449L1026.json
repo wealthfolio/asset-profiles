@@ -1,0 +1,49 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "composite_figi": "BBG00ZXX35J8",
+    "cusip": "00449L102",
+    "figi": "BBG00ZXX35P1",
+    "isin": "US00449L1026"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US00449L1026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "698.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACHL"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "698.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "698.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Achilles Therapeutics plc",
+  "primary_symbol": "698.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Achilles Therapeutics Plc, a clinical stage immuno-oncology biopharmaceutical company, develops precision T cell therapies to treat various types of solid tumors. The company's lead product candidates include CHIRON, which is in Phase I/IIa clinical trial for use in the treatment of advanced non-small cell lung cancer; and THETIS, a product candidate in Phase I/IIa clinical trial for use in the treatment of metastatic or recurrent melanoma. It is also developing products for use in the treatment of head and neck squamous cell carcinoma, renal cell carcinoma, triple negative breast cancer, and bladder cancer. The company was founded in 2016 and is headquartered in London, the United Kingdom.",
+  "website": "http://www.achillestx.com"
+}

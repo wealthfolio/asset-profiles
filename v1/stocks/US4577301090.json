@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00209SZJ7",
+    "cusip": "457730109",
+    "figi": "BBG00KK0J207",
+    "isin": "US4577301090"
+  },
+  "industry": "Health Care Technology",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "US4577301090",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "INSP"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "INSP.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "INSP.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US4577301090.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Inspire Medical Systems, Inc.",
+  "primary_symbol": "INSP",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Inspire Medical Systems, Inc., a medical technology company, focuses on the development and commercialization of minimally invasive solutions for patients with obstructive sleep apnea (OSA) in the United States and Europe. It offers Inspire system, a neurostimulation technology that provides a safe and effective treatment for moderate to severe OSA. The company also develops a novel, a closed-loop solution that continuously monitors a patient's breathing and delivers mild hypoglossal nerve stimulation to maintain an open airway. Inspire Medical Systems, Inc. was incorporated in 2007 and is headquartered in Golden Valley, Minnesota.",
+  "website": "http://www.inspiresleep.com"
+}

@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000PXJB68",
+    "cusip": "13100M509",
+    "figi": "BBG000PXJBS4",
+    "isin": "US13100M5094"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US13100M5094",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CALX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CXA.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CXA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CXA.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "Calix, Inc.",
+  "primary_symbol": "CALX",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Calix, Inc., together with its subsidiaries, provides cloud and software platforms, and systems and services required to deliver the unified access network in the United States, the Middle East, Canada, Europe, the Caribbean, and internationally. The company's cloud and software platforms, and systems and services enable communication service providers (CSPs) to provide a range of services, such as basic voice and data, and advanced broadband services. Its premises systems allow CSPs to master the complexity of the smart and connected homes and offer services to differentiate through the delivery of a subscriber experience. The company offers Calix Cloud, an analytics platform that leverages network data and subscriber behavioral data to deliver analytics and intelligence to communications professionals through role specific dashboards; and Calix Marketing Cloud for CSP marketing teams, as well as Calix Support Cloud for CSP customer support teams. It also provides Experience eXtensible Operating System, a carrier class premises operating system and software platform that supports residential, business, and mobile subscribers; and Access eXtensible Operating System, a software platform built for the specific needs of the access network. The company offers its products through its direct sales force and resellers. Calix, Inc. was founded in 1999 and is headquartered in San Jose, California.",
+  "website": "http://www.calix.com"
+}

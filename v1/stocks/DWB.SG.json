@@ -1,0 +1,27 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DWB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Dinkelacker AG",
+  "primary_symbol": "DWB.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Dinkelacker AG rents real estate properties in Germany. Its property portfolio includes office, retail, catering, and residential properties. The company is based in Stuttgart, Germany. Dinkelacker AG is a subsidiary of Sedlmayr Grund und Immobilien AG.",
+  "website": "http://www.dinkelacker-ag.de"
+}

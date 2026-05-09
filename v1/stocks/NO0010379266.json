@@ -1,0 +1,68 @@
+{
+  "country": "Norway",
+  "country_code": "NO",
+  "identifiers": {
+    "composite_figi": "BBG000CLC498",
+    "figi": "BBG000CLD8D3",
+    "isin": "NO0010379266"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "NO0010379266",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CJ1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CJ1.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CJ1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CJ1.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CJ1.SG"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "NOR.AX"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NOR.OL"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "NORO.OL"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "NORWEGIAN ENERGY CO.",
+  "primary_symbol": "CJ1.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Norwegian Energy Company ASA, an oil and gas company, focuses on the exploration, development, and production of hydrocarbon resources in Norway, Denmark, and the United Kingdom. Its asset portfolio includes 4 production hubs and 11 producing fields on the Danish Continental Shelf. As of December 31, 2019, the company had proven and probable reserves of 209 million barrels of oil equivalent. Norwegian Energy Company ASA was founded in 2005 and is headquartered in Oslo, Norway.",
+  "website": "http://www.noreco.com"
+}

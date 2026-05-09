@@ -1,0 +1,59 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000J8V8R0",
+    "cusip": "65339F101",
+    "figi": "BBG000J8WFV8",
+    "isin": "US65339F1012"
+  },
+  "industry": "Media",
+  "industry_group": "Utilities",
+  "isin": "US65339F1012",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FP3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FP3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FP3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FP3.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NEE.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NEE.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "NEXTERA ENERGY INC.DL-,01",
+  "primary_symbol": "FP3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Utilities",
+  "summary": "NextEra Energy, Inc. is a clean energy company with a focus on electricity generation and transmission. The company operates through its subsidiaries, Florida Power & Light Company and NextEra Energy Resources. NextEra Energy is headquartered in Juno Beach, Florida.",
+  "website": "http://www.nineforbrands.com.au"
+}

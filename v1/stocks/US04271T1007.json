@@ -1,0 +1,32 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "04271T100",
+    "isin": "US04271T1007"
+  },
+  "industry": "Technology Hardware, Storage & Peripherals",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US04271T1007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ARRY"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Array Technologies, Inc.",
+  "primary_symbol": "ARRY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Array Technologies, Inc. manufactures and supplies solar tracking systems and related products for customers in the United States and internationally. Its products include DuraTrack HZ v3, a single-axis solar tracking system; and SmarTrack, a machine learning software that is used to identify the optimal position for a solar array in real time to increase energy production. The company was founded in 1989 and is based in Albuquerque, New Mexico.",
+  "website": "http://arraytechinc.com"
+}

@@ -1,0 +1,54 @@
+{
+  "country": "Israel",
+  "country_code": "IL",
+  "identifiers": {
+    "composite_figi": "BBG00H3P5SY9",
+    "cusip": "345523104",
+    "figi": "BBG00H3P5T40",
+    "isin": "US3455231049"
+  },
+  "industry": "Auto Components",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "US3455231049",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FZA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1FZA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRSX"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FRSX.TA"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1FZA.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FORESIGHT AUT.SP.ADR IS 1",
+  "primary_symbol": "1FZA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Foresight Autonomous Holdings Ltd. is a technology company that develops and commercializes advanced driver-assistance systems (ADAS) and autonomous driving solutions. The company's technology uses stereoscopic vision to provide enhanced object detection and obstacle avoidance capabilities. Foresight Autonomous Holdings is headquartered in Ness Ziona, Israel.",
+  "website": "http://www.foresightauto.com"
+}

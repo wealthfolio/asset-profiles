@@ -1,0 +1,62 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "cusip": "904678406",
+    "isin": "US9046784065"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US9046784065",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNCFF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "UNCRY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CRIN.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CRIN.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CRIP.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CRIP.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XWBO",
+      "symbol": "UCG.VI"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "UniCredit S.p.A.",
+  "primary_symbol": "UNCFF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "UniCredit S.p.A. operates as a commercial bank. The company operates through Commercial Banking Italy, Commercial Banking Germany, Commercial Banking Austria, Corporate & Investment Banking, and Central Eastern Europe segments. It offers retail, corporate, and private banking services; investment services; leasing and factoring services; transactional, investment, and credit products and services; insurance solutions; and structured financing, hedging, and treasury solutions. The company also provides equity and debt capital market, corporate finance and advisory, syndication, and leverage buy-out services; and project and commodity, real estate, structured trade and export, and acquisition finance services, as well as wealth management services. In addition, it is involved in the structuring of products, such as FX, rates, equities, and credit products; and provision of cash management, e-banking, supply chain finance, global securities, and mobile banking services, as well as trade finance products. The company operates in Italy, Other European countries, America, Asia, and internationally. The company was formerly known as Unicredito Italiano S.p.A and changed its name to UniCredit S.p.A. UniCredit S.p.A. was founded in 1870 and is headquartered in Milan, Italy.",
+  "website": "http://www.unicreditgroup.eu"
+}

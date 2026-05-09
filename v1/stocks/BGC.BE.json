@@ -1,0 +1,22 @@
+{
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGC.BE"
+    }
+  ],
+  "name": "BANK OF GREECE NA.EO 5,60",
+  "primary_symbol": "BGC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "The Bank of Greece is the central bank of Greece, responsible for issuing currency, supervising credit institutions, and acting as the government's banker. Headquartered in Athens, it also participates in the Eurosystem."
+}

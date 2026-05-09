@@ -1,0 +1,41 @@
+{
+  "country": "Thailand",
+  "country_code": "TH",
+  "identifiers": {
+    "isin": "GB00BNHSJN34"
+  },
+  "industry": "Professional Services",
+  "industry_group": "Commercial & Professional Services",
+  "isin": "GB00BNHSJN34",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "QLT.BK"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "QLT.JO"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "QLT.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Qualitech Public Company Limited",
+  "primary_symbol": "QLT.BK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Qualitech Public Company Limited provides technical services testing, and inspection and certification services for operation safety of industry equipment, pressure vessel, industrial boiler, piping, and steel structures in Thailand and internationally. It offers safety engineering service, non-destructive testing, destructive testing, mechanical and metallurgical testing, inspection and certification, plant inspection, and tank cleaning services, as well as consulting services for engineering safety. It serves oil and gas, metal manufacture/importer, fabrication and construction, power generation, and tank and terminal industries. The company was founded in 1991 and is headquartered in Rayong, Thailand.",
+  "website": "http://www.qualitechplc.com"
+}

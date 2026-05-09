@@ -1,0 +1,35 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000FPDZD1",
+    "figi": "BBG000FPG3Z5",
+    "isin": "CA3039011026"
+  },
+  "isin": "CA3039011026",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FFX.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FFX.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FFX.SG"
+    }
+  ],
+  "name": "FAIRFAX FINL HLDGS SV",
+  "primary_symbol": "FFX.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

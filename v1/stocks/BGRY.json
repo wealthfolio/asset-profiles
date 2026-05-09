@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BGRY"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Berkshire Grey Inc. Class A Common Stock",
+  "primary_symbol": "BGRY",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Berkshire Grey Inc. is a robotics and AI-powered solutions company that automates supply chain processes. They design, develop, and integrate robotic systems for e-commerce fulfillment, store replenishment, and parcel sortation. The company is headquartered in Bedford, Massachusetts."
+}

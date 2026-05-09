@@ -1,0 +1,73 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG00PG35ZL4",
+    "figi": "BBG00PG35ZS7",
+    "isin": "JE00BJ1F3079"
+  },
+  "industry": "Distributors",
+  "industry_group": "Retailing",
+  "isin": "JE00BJ1F3079",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "485.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "485B.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMCCF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "AMCR"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "485.F"
+    },
+    {
+      "currency": "BRL",
+      "exchange_mic": "BVMF",
+      "symbol": "A1CR34.SA"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "AMC.AX"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "AXZA.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "JE00BJ1F3079.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Amcor plc",
+  "primary_symbol": "485.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "Amcor plc develops, manufactures, and sells various packaging products for food, beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries worldwide. It operates through two segments, Flexibles and Rigid Packaging. The company provides flexible packaging products, rigid packaging containers, specialty cartons, and closures. The company is headquartered in Z√É¬ºrich, Switzerland.",
+  "website": "http://www.amcor.com"
+}

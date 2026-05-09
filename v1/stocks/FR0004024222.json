@@ -1,0 +1,46 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "isin": "FR0004024222"
+  },
+  "industry": "Household Products",
+  "industry_group": "Household & Personal Products",
+  "isin": "FR0004024222",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0IUJ.IL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "I8P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "I8P.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "ITP.PA"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "INTERPARFUMS SA INTERPARFUMS OR",
+  "primary_symbol": "0IUJ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Inter Parfums SA is a French company that creates, manufactures and distributes perfumes and cosmetics under license for various brands. The company has licensing agreements with brands like Montblanc, Jimmy Choo, and Coach. Inter Parfums SA is headquartered in Paris, France.",
+  "website": "http://www.interparfums.fr"
+}

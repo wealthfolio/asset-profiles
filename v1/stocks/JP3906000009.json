@@ -1,0 +1,53 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000BYSCF9",
+    "figi": "BBG000BYSGD2",
+    "isin": "JP3906000009"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Capital Goods",
+  "isin": "JP3906000009",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEA.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MEA.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MEA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MEA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MINEBEA MITSUMI INC.",
+  "primary_symbol": "MEA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Minebea Mitsumi Inc. is a global precision components manufacturer, producing a wide range of products including miniature ball bearings, electronics devices, and automotive components. The company serves various industries, including aerospace, automotive, and healthcare. Minebea Mitsumi is headquartered in Tokyo, Japan.",
+  "website": "http://www.mcgrath.com.au"
+}

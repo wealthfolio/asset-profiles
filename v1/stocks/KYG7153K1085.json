@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000GWYLT6",
+    "isin": "KYG7153K1085"
+  },
+  "isin": "KYG7153K1085",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "KYG7153K1085.SG"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "KYG7153K1085.SW"
+    }
+  ],
+  "name": "POLARCUS LTD",
+  "primary_symbol": "KYG7153K1085.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

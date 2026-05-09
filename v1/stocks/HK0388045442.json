@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000CT12H8",
+    "figi": "BBG000CT14L9",
+    "isin": "HK0388045442"
+  },
+  "industry_group": "Banks",
+  "isin": "HK0388045442",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HK2C.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "HK2C.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "HK2C.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "HK2C.SG"
+    }
+  ],
+  "name": "HONGKONG EXCH. (BL 100)",
+  "primary_symbol": "HK2C.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Hong Kong Exchanges and Clearing Limited (HKEX) operates the Hong Kong stock and futures exchanges. It provides trading, clearing, and settlement services, and is a listed company itself. HKEX is headquartered in Hong Kong."
+}

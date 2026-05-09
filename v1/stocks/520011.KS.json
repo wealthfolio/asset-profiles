@@ -1,0 +1,22 @@
+{
+  "industry_group": "Energy",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "KRW",
+      "exchange_mic": "XKRX",
+      "symbol": "520011.KS"
+    }
+  ],
+  "name": "MiraeAsset Inverse Crude Future",
+  "primary_symbol": "520011.KS",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "MiraeAsset Inverse Crude Future is an Exchange Traded Note (ETN) managed by Mirae Asset Daewoo Co., Ltd, providing inverse exposure to crude oil futures. This ETN is designed to increase in value when crude oil futures decline. It is listed on the Korea Exchange."
+}

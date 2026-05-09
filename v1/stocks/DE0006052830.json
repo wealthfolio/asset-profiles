@@ -1,0 +1,58 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BTSQG8",
+    "figi": "BBG000BTSTP2",
+    "isin": "DE0006052830"
+  },
+  "industry": "Commercial Services & Supplies",
+  "industry_group": "Capital Goods",
+  "isin": "DE0006052830",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBH3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBH3.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MBH3.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "MBH3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "MBH3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "MBH3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MASCH.BERT.HER. O.N. VZO",
+  "primary_symbol": "MBH3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Maschinenfabrik Berthold Hermle AG is a German machine tool manufacturer specializing in high-precision milling machines and machining centers. The company's products are used in a wide range of industries including automotive, aerospace, medical technology, and tool and mold making. Hermle AG is headquartered in Gosheim, Germany.",
+  "website": "http://www.hermle.de"
+}

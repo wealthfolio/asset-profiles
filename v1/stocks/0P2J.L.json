@@ -1,0 +1,26 @@
+{
+  "country": "Belgium",
+  "country_code": "BE",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0P2J.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Ascencio SCA",
+  "primary_symbol": "0P2J.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Ascencio is based in Gosselies, Belgium.",
+  "website": "http://www.ascencio.be"
+}

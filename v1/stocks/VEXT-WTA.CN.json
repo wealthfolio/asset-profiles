@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "VEXT-WTA.CN"
+    }
+  ],
+  "name": "VextScienceWts",
+  "primary_symbol": "VEXT-WTA.CN",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "summary": "VextScienceWts is a warrant associated with Vext Science. A warrant gives the holder the right to purchase shares of Vext Science at a predetermined price within a specific timeframe. The company focuses on cannabis-related products."
+}

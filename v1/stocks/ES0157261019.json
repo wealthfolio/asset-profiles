@@ -1,0 +1,63 @@
+{
+  "country": "Spain",
+  "country_code": "ES",
+  "identifiers": {
+    "composite_figi": "BBG000RL1HQ6",
+    "figi": "BBG000RL1KS7",
+    "isin": "ES0157261019"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "ES0157261019",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "41L.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "LABFF"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ILL.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "41L.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "41L.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMAD",
+      "symbol": "ROVI.MC"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "ROVIN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "LABORATORIOS FARMACEUT.",
+  "primary_symbol": "41L.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "LABORATORIOS FARMACEUTICOS ROVI, S.A. is a Spanish pharmaceutical company engaged in the research, development, manufacturing, and marketing of pharmaceutical products, including specialty pharmaceuticals and heparin products. The company operates internationally, selling its products in various markets. Its headquarters are located in Madrid, Spain.",
+  "website": "http://www.rovi.es"
+}

@@ -1,0 +1,47 @@
+{
+  "country": "Malaysia",
+  "country_code": "MY",
+  "identifiers": {
+    "cusip": "28531P103",
+    "isin": "US28531P1030"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US28531P1030",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "43E.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "43E.MU"
+    },
+    {
+      "currency": "SGD",
+      "exchange_mic": "XSES",
+      "symbol": "43E.SI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US28531P1030.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "ELECTROCORE INC. DL-,001",
+  "primary_symbol": "43E.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "ELECTROCORE, INC. is a bioelectronic medicine company focused on developing non-invasive vagus nerve stimulation (nVNS) therapies. The company's gammaCore device is approved for the treatment of certain types of headaches and other conditions. Its headquarters are located in Basking Ridge, New Jersey.",
+  "website": "http://www.angkaalam.com"
+}

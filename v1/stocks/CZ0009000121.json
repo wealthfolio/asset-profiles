@@ -1,0 +1,43 @@
+{
+  "country": "Czechia",
+  "country_code": "CZ",
+  "identifiers": {
+    "composite_figi": "BBG00BJL5MM0",
+    "figi": "BBG00BJL5MT3",
+    "isin": "CZ0009000121"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CZ0009000121",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "48K.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "48K.SG"
+    },
+    {
+      "currency": "CZK",
+      "exchange_mic": "XPRA",
+      "symbol": "KOFOL.PR"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "KOFOLA CESKOSLOVE. KC 50",
+  "primary_symbol": "48K.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Kofola ČeskoSlovensko a.s. is a producer and distributor of non-alcoholic beverages in Central and Eastern Europe. Their product portfolio includes Kofola, a popular cola-flavored drink, as well as other soft drinks and mineral waters. Kofola ČeskoSlovensko a.s. is headquartered in Krnov, Czech Republic.",
+  "website": "http://www.kofola.cz/en"
+}

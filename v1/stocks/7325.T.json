@@ -1,0 +1,27 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "industry": "Insurance",
+  "industry_group": "Insurance",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "7325.T"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "IRRC Corporation",
+  "primary_symbol": "7325.T",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "IRRC Corporation engages in life insurance agency business in Japan. The company offers products through directly operated shops; and provides insurance sales support services. IRRC Corporation was founded in 1995 and is headquartered in Tokyo, Japan.",
+  "website": "http://www.irrc.co.jp"
+}

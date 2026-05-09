@@ -1,0 +1,26 @@
+{
+  "country": "Hong Kong",
+  "country_code": "HK",
+  "industry": "Capital Markets",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "WSL.L"
+    }
+  ],
+  "name": "Worldsec Limited",
+  "primary_symbol": "WSL.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Worldsec Limited, a closed-ended investment company, invests in small to medium sized trading companies in the Greater China and South East Asian regions. The company was founded in 1991 and is based in Sheung Wan, Hong Kong.",
+  "website": "http://www.worldsec.com"
+}

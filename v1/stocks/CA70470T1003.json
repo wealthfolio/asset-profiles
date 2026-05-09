@@ -1,0 +1,41 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "isin": "CA70470T1003"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "CA70470T1003",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PKB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "PKB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PKB.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "PARK U.BELLHEIMER AG O.N.",
+  "primary_symbol": "PKB.DU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Park U. Bellheimer AG is a German-based company that operates in the beverage industry. It produces and markets a range of alcoholic and non-alcoholic beverages, including beer, mineral water, and soft drinks. The company is headquartered in Bad Kreuznach, Germany.",
+  "website": "http://www.park-bellheimer.de"
+}

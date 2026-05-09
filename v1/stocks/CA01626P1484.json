@@ -1,0 +1,51 @@
+{
+  "identifiers": {
+    "isin": "CA01626P1484"
+  },
+  "industry_group": "Materials",
+  "isin": "CA01626P1484",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATD.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATD.HA"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATD.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ATD.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ATD.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ATD.SG"
+    }
+  ],
+  "name": "ALLEGHENY TECHNOL. DL-,01",
+  "primary_symbol": "ATD.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Allegheny Technologies Incorporated (ATI) is a global manufacturer of specialty materials and components, primarily serving the aerospace, defense, and energy markets. The company produces high-performance alloys and materials such as titanium, nickel, and specialty metals, and provides precision forgings and castings. ATI is headquartered in Pittsburgh, Pennsylvania."
+}

@@ -1,0 +1,53 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "composite_figi": "BBG00WH3Y8V5",
+    "figi": "BBG00WH3Y934",
+    "isin": "IT0005241192"
+  },
+  "industry": "Textiles, Apparel & Luxury Goods",
+  "industry_group": "Materials",
+  "isin": "IT0005241192",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "6W7.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0ROH.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "6W7.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "ECNL.MI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IT0005241192.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AQUAFIL S.P.A.",
+  "primary_symbol": "6W7.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Aquafil S.p.A. is an Italian company engaged in the production of polyamide 6 (PA6), a synthetic polymer used in the production of textile floorings and technical applications, including automotive and apparel. The company is known for its ECONYL regeneration system, which transforms nylon waste into new products. Aquafil is headquartered in Arco, Italy.",
+  "website": "http://www.aquafil.com"
+}

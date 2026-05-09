@@ -1,0 +1,44 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000D1Y3P1",
+    "cusip": "346375108",
+    "figi": "BBG000D1ZG62",
+    "isin": "US3463751087"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US3463751087",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FORM"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "FMF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FMF.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "FormFactor, Inc.",
+  "primary_symbol": "FORM",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "FormFactor, Inc. designs, manufactures, and sells probe cards, analytical probes, probe stations, metrology systems, thermal systems, and cryogenic systems to semiconductor companies and scientific institutions. It operates in two segments, Probe Cards and Systems. The company offers probe cards to test various semiconductor device types, including systems on a chip products, mobile application processors, microprocessors, microcontrollers, and graphic processors, as well as radio frequency, analog, mixed signal, image sensor, electro-optical, dynamic random access memory, NAND flash memory, and NOR flash memory devices; and analytical probes, which are used for a range of applications, including device characterization, electrical simulation model development, failure analysis, and prototype design debugging for universities, research institutions, semiconductor integrated device manufacturers, semiconductor foundries, and fabless semiconductor companies. It also provides probing systems for semiconductor design engineers to capture and analyse accurate data; surface metrology systems for the development, production, and quality control of semiconductor products; thermal subsystems consisting of thermal chucks and other test systems used in probe stations; and precision cryogenic instruments. In addition, the company offers on-site probe card maintenance and service training, seminars, and telephone support services. The company markets and sells its products through direct sales force, manufacturers' representatives, and distributors in the United States, Taiwan, South Korea, China, Japan, Europe, the Asia-Pacific, and internationally. FormFactor, Inc. was incorporated in 1993 and is headquartered in Livermore, California.",
+  "website": "http://www.formfactor.com"
+}

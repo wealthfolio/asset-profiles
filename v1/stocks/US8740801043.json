@@ -1,0 +1,74 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG0017ZZ7H0",
+    "cusip": "874080104",
+    "figi": "BBG0017ZZ7P1",
+    "isin": "US8740801043"
+  },
+  "industry": "Household Products",
+  "industry_group": "Media & Entertainment",
+  "isin": "US8740801043",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IZZ.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "IZZ.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TAL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "TALN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "IZZ.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "IZZ.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "IZZ.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "TAL.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "TALN.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "TAL EDUCATION GR.ADR A1/3",
+  "primary_symbol": "IZZ.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "TAL Education Group is a Chinese education company providing after-school tutoring services for primary and secondary school students. The company offers courses in various subjects including mathematics, physics, chemistry, and English. TAL Education Group is headquartered in Beijing, China.",
+  "website": "http://www.100tal.com"
+}

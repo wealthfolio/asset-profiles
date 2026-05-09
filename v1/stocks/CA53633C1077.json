@@ -1,0 +1,35 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG00GV0Y7Q8",
+    "figi": "BBG00GV0Y7X0",
+    "isin": "CA53633C1077"
+  },
+  "isin": "CA53633C1077",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4T5.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "4T5.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CA53633C1077.SG"
+    }
+  ],
+  "name": "LIQUID AVATAR TECHNO.INC.",
+  "primary_symbol": "4T5.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}

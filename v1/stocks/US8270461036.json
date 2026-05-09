@@ -1,0 +1,47 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "cusip": "827046103",
+    "isin": "US8270461036"
+  },
+  "industry": "Semiconductors & Semiconductor Equipment",
+  "industry_group": "Semiconductors & Semiconductor Equipment",
+  "isin": "US8270461036",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SILXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SILXY"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "RW4.F"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "SLX.AX"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Silex Systems Limited",
+  "primary_symbol": "SILXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Silex Systems Limited researches, develops, commercializes, and licenses SILEX laser uranium enrichment technology in Australia. The company also develops cREO technology for the integration of various compound semiconductor devices with silicon wafer-based production techniques. Silex Systems Limited was founded in 1988 and is based in Sydney, Australia.",
+  "website": "http://www.silex.com.au"
+}

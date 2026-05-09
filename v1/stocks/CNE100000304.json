@@ -1,0 +1,43 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000Q4NC55",
+    "figi": "BBG000Q4NG74",
+    "isin": "CNE100000304"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "CNE100000304",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEU.BE"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "DEU.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "DEU.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "DONGFANG ELECTRIC-H- YC 1",
+  "primary_symbol": "DEU.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "Dongfang Electric Corporation Limited manufactures and sells power generation equipment.",
+  "website": "http://www.dec-ltd.cn"
+}

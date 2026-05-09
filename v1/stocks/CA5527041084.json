@@ -1,0 +1,48 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG0014JSDW7",
+    "figi": "BBG0014JSF25",
+    "isin": "CA5527041084"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Energy",
+  "isin": "CA5527041084",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ME7.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MEGEF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ME7.F"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSE",
+      "symbol": "MEG.TO"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "MEG Energy Corp.",
+  "primary_symbol": "ME7.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "MEG Energy Corp., an energy company, focuses on sustainable in situ thermal oil production in the southern Athabasca region of Alberta, Canada. The company owns a 100% interest in approximately 450 square miles of mineral leases. It is developing oil recovery projects that utilize steam-assisted gravity drainage extraction methods to improve the recovery of oil, as well as lower carbon emissions. The company transports and sells thermal oil to refiners in North America and internationally. It primarily engages in sustainable in situ thermal oil production at its Christina Lake Project. The company was incorporated in 1999 and is headquartered in Calgary, Canada.",
+  "website": "http://www.megenergy.com"
+}

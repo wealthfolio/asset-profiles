@@ -1,0 +1,63 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG0067QY0Q5",
+    "figi": "BBG0067QY0Y6",
+    "isin": "FR0011742329"
+  },
+  "industry": "Machinery",
+  "industry_group": "Capital Goods",
+  "isin": "FR0011742329",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M6P.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "M6P.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0QTF.L"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "M6P.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "M6P.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "M6P.SG"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MCPHY.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MCPHY ENERGY S.A. EO 0,12",
+  "primary_symbol": "M6P.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "McPhy Energy S.A. is a France-based company specializing in the design, manufacture, and integration of hydrogen equipment. They offer electrolysis and refueling solutions for various sectors, including industry, mobility, and energy. McPhy Energy is headquartered in La Motte-Fanjas, France and operates with a business model focused on providing sustainable hydrogen technologies to support the energy transition",
+  "website": "http://mcphy.com"
+}

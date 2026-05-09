@@ -1,0 +1,51 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA37960T1066"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Health Care Equipment & Services",
+  "isin": "CA37960T1066",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FUAPF"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "2FA.F"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "APP.BK"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "APP.CN"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "APP.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Global Cannabis Applications Corp.",
+  "primary_symbol": "FUAPF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Global Cannabis Applications Corp. designs, develops, markets, and acquires data technologies and applications for the medical cannabis industry. The company offers Citizen Green platform, a medical cannabis data solution. It uses various technologies, such as mobile applications, artificial intelligence, regulatory, smart databases, blockchain, and digital reward tokens to qualify candidates for clinical studies. The company was formerly known as Fundamental Applications Corp. Global Cannabis Applications Corp. was founded in 2014 and is headquartered in Vancouver, Canada.",
+  "website": "http://cannappscorp.com"
+}

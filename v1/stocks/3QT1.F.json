@@ -1,0 +1,31 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00WS6RLR0",
+    "figi": "BBG00WS6RLS9"
+  },
+  "industry": "Media",
+  "industry_group": "Media & Entertainment",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "3QT1.F"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "CuriosityStream Inc.",
+  "primary_symbol": "3QT1.F",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "CuriosityStream Inc. operates as a factual streaming service and media company. The company provides premium video programming services in various categories of factual entertainment, including science, history, society, nature, lifestyle, and technology through subscription video on-demand (SVoD) platforms, as well as through bundled content licenses for SVoD and linear offerings, partner bulk sales, brand partnerships, and content sales. As of December 31, 2020, it had approximately 15 million total paying subscribers, including direct subscribers, partner direct subscribers, and bundled MVPD subscribers. The company was founded in 2015 and is headquartered in Silver Spring, Maryland.",
+  "website": "http://www.curiositystream.com"
+}

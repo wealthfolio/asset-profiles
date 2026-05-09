@@ -1,0 +1,67 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "374396406",
+    "isin": "US3743964062"
+  },
+  "industry": "Chemicals",
+  "industry_group": "Materials",
+  "isin": "US3743964062",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "GEVO"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZGV3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ZGV3.MU"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0A41.L"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "GEVO.MX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ZGV3.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "ZGV3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ZGV3.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Gevo, Inc.",
+  "primary_symbol": "GEVO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Gevo, Inc. operates as a renewable fuels company. The company commercializes gasoline, jet fuel, and diesel fuel to achieve zero carbon emissions, and reduce greenhouse gas emissions with sustainable alternatives. Its products also include renewable biodiesel, isooctane, isobutanol, sustainable aviation fuel, isobutylene, ethanol, and animal feed. The company was formerly known as Methanotech, Inc. and changed its name to Gevo, Inc. in March 2006. Gevo, Inc. was founded in 2005 and is headquartered in Englewood, Colorado.",
+  "website": "http://www.gevo.com"
+}

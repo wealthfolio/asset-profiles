@@ -1,0 +1,56 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "isin": "CA98143W1014"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA98143W1014",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WCEXF"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WCF.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WCF.MU"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XCNQ",
+      "symbol": "PUMP.CN"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "WCF.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "WCF.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "World Class Extractions Inc.",
+  "primary_symbol": "WCEXF",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "World Class Extractions Inc., through its subsidiaries, designs, manufactures, and supplies extraction and processing equipment and solutions for cannabis and hemp oil production in Canada. It also designs and develops consumption devices such as disposable vaporizer cartridges, pens, and related materials primarily for cannabis extracts; and provides scientific services. The company was formerly known as CBD Med Research Corp. World Class Extractions Inc. is headquartered in Burnaby, Canada.",
+  "website": "http://www.worldclassextractions.com"
+}

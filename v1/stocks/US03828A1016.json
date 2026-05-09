@@ -1,0 +1,49 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00P5FXDV6",
+    "cusip": "03828A101",
+    "figi": "BBG00P5FXF14",
+    "isin": "US03828A1016"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US03828A1016",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2UV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "2UV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "APLT"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US03828A1016.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "APPLIED THERAPEUTDL-,0001",
+  "primary_symbol": "2UV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Applied Therapeutics, Inc. is a clinical-stage biopharmaceutical company developing a pipeline of novel drug candidates for unmet medical needs in rare and orphan diseases. The company is focused on diseases of the central nervous system. Applied Therapeutics is headquartered in New York, New York.",
+  "website": "http://www.appliedtherapeutics.com"
+}

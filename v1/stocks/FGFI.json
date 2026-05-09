@@ -1,0 +1,26 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FGFI"
+    }
+  ],
+  "name": "First Greenwich Financial, Inc.",
+  "primary_symbol": "FGFI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "First Greenwich Financial, Inc. operates as the bank holding company for The First Bank of Greenwich that provides various banking products and services to individuals and small-to-medium sized businesses. The company is based in Cos Cob, Connecticut.",
+  "website": "http://www.greenwichfirst.com"
+}

@@ -1,0 +1,48 @@
+{
+  "country": "Sweden",
+  "country_code": "SE",
+  "identifiers": {
+    "composite_figi": "BBG00ZHCXYQ8",
+    "figi": "BBG00ZHCXYX0",
+    "isin": "SE0015382072"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "SE0015382072",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9RP.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9RP.F"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "LPGO.ST"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SE0015382072.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "LIPIGON PHARMA. AB",
+  "primary_symbol": "9RP.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Lipigon Pharmaceuticals AB is a Swedish pharmaceutical company focused on developing therapies for lipid-related diseases. Their business model involves research and development of novel drug candidates, primarily targeting metabolic disorders and related conditions. Lipigon Pharma is based in Umeå, Sweden.",
+  "website": "http://www.lipigon.se"
+}

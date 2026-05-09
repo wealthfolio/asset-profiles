@@ -1,0 +1,58 @@
+{
+  "country": "Canada",
+  "country_code": "CA",
+  "identifiers": {
+    "composite_figi": "BBG000BVNDC1",
+    "figi": "BBG000BVNKC5",
+    "isin": "CA04016E2024"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "CA04016E2024",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OAY3.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OAY3.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PNXLF"
+    },
+    {
+      "currency": "CAD",
+      "exchange_mic": "XTSX",
+      "symbol": "LIT.V"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "OAY3.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "OAY3.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ARGENTINA LITHIUM+ENERGY",
+  "primary_symbol": "OAY3.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Argentina Lithium & Energy Corp. is a resource exploration company focused on acquiring and developing lithium projects in Argentina. The company explores for lithium in brine deposits located in Argentina's lithium triangle. The headquarters is located in Vancouver, Canada.",
+  "website": "http://www.argentinalithium.com"
+}

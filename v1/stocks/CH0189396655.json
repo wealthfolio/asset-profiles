@@ -1,0 +1,38 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "composite_figi": "BBG000F49Z16",
+    "figi": "BBG006M6ZYT4",
+    "isin": "CH0189396655"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "CH0189396655",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "GLKBN.SW"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "GLR.L"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Glarner Kantonalbank",
+  "primary_symbol": "GLKBN.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Glarner Kantonalbank provides various banking products and services for private and corporate customers primarily in the Canton of Glarus and neighboring economic area. It offers mortgage and savings, finance/loans, credit, investment and asset management, trade, online products, cards, and safe boxes, as well as e-banking and mobile banking services. The company was founded in 1884 and is based in Glarus, Switzerland.",
+  "website": "http://www.glkb.ch"
+}

@@ -1,0 +1,79 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG00KDZ2849",
+    "cusip": "108621103",
+    "figi": "BBG00KDZ2894",
+    "isin": "US1086211034"
+  },
+  "industry": "Banks",
+  "industry_group": "Banks",
+  "isin": "US1086211034",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "1WA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BWB"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BWB.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BWB.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "BWB.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "1WA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "BWB.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "BWB.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "BWB.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "BWB.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "BRIDGEWATER BANC.  DL-,01",
+  "primary_symbol": "1WA.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "BRIDGEWATER BANC. DL-,01 is likely referring to Bridgewater Bancshares, Inc., a bank holding company. They provide a range of commercial and retail banking services through Bridgewater Bank. Bridgewater Bancshares operates primarily in the Minneapolis-St. Paul metropolitan area.",
+  "website": "http://www.bridgewaterbankmn.com"
+}

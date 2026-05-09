@@ -1,0 +1,33 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG00MPW1109",
+    "figi": "BBG00MPW1118",
+    "isin": "KYG622681008"
+  },
+  "industry": "Diversified Telecommunication Services",
+  "industry_group": "Telecommunication Services",
+  "isin": "KYG622681008",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1860.HK"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Mobvista Inc.",
+  "primary_symbol": "1860.HK",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Mobvista Inc. provides mobile advertising and mobile analytics services to the app developers worldwide. The company offers user acquisition and monetization services. Mobvista Inc. was founded in 2013 and is headquartered in Guangzhou, the People's Republic of China.",
+  "website": "http://www.mobvista.com"
+}

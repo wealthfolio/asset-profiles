@@ -1,0 +1,49 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000L2BDY3",
+    "figi": "BBG000L2CLW6",
+    "isin": "ZAE000015889"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "ZAE000015889",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNW.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NNW.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NPN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "NNW.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "NNW.SG"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "NASPERS LTD.  N RC-,02",
+  "primary_symbol": "NNW.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Naspers Limited is a multinational internet and media group. The company operates and invests in various internet platforms, including online classifieds, payments, food delivery, and social networking. Naspers is headquartered in Cape Town, South Africa."
+}

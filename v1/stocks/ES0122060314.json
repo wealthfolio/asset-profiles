@@ -1,0 +1,58 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG000BJ9TG5",
+    "figi": "BBG000BJ9WD1",
+    "isin": "ES0122060314"
+  },
+  "industry": "IT Services",
+  "industry_group": "Capital Goods",
+  "isin": "ES0122060314",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCC.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCC.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "FCCN"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "FCC.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "FCC.SG"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "FCCN.L"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "FOMENT.CON.CONTR.INH.EO 1",
+  "primary_symbol": "FCC.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FOMENT.CON.CONTR.INH.EO 1 is Fomento de Construcciones y Contratas, S.A. (FCC), a Spanish infrastructure and services company. The company operates in construction, water, environmental services, and energy sectors. It is headquartered in Barcelona, Spain.",
+  "website": "http://www.spectralcapital.com"
+}

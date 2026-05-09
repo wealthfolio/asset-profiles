@@ -1,0 +1,31 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG00KG3YHV2",
+    "figi": "BBG00KG3YHW1"
+  },
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "DEQ.TI"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Deutsche EuroShop AG",
+  "primary_symbol": "DEQ.TI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate",
+  "summary": "Deutsche EuroShop AG is a German-based international real estate investment company headquartered in Hamburg. It is the largest German investor in shopping centers, and the country's only publicly traded company to do so exclusively. At the end of 2010 the firm held investments in 18 properties, of which 14 were in Germany, two in Poland and one each in Austria and Hungary.",
+  "website": "http://www.deutsche-euroshop.de"
+}

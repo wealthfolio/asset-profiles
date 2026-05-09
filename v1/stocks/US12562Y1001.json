@@ -1,0 +1,29 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG008LP0XH2",
+    "cusip": "12562Y100",
+    "figi": "BBG008LP0XM6",
+    "isin": "US12562Y1001"
+  },
+  "industry_group": "Commercial & Professional Services",
+  "isin": "US12562Y1001",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "2CKA.SG"
+    }
+  ],
+  "name": "CK Hutchison Holdings Ltd. Reg.",
+  "primary_symbol": "2CKA.SG",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "CK Hutchison Holdings Limited is a multinational conglomerate with diverse business interests. The company operates in sectors including ports and related services, retail, infrastructure, energy, and telecommunications. CK Hutchison Holdings is headquartered in Hong Kong."
+}

@@ -1,0 +1,46 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "identifiers": {
+    "isin": "CH0406705126"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Technology Hardware & Equipment",
+  "isin": "CH0406705126",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0SE5.L"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "SENS.L"
+    },
+    {
+      "currency": "SEK",
+      "exchange_mic": "XSTO",
+      "symbol": "SENS.ST"
+    },
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "SENS.SW"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "Sensirion Holding AG",
+  "primary_symbol": "0SE5.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "Sensirion Holding AG, together with its subsidiaries, engages in the development, production, sale, and servicing of sensor systems, modules, and components. The company offers gas and liquid flow, differential pressure, and environmental sensors for the measurement of humidity and temperature, volatile organic compounds, carbon dioxide, and particulate matter. It serves automotive, medical, industrial, and consumer markets in Switzerland, Germany, the United States, Australia, China, South Korea, and internationally. Sensirion Holding AG was incorporated in 1998 and is headquartered in St√É¬§fa, Switzerland.",
+  "website": "http://www.sensirion.com"
+}

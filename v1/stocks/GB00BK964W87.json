@@ -1,0 +1,35 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "identifiers": {
+    "isin": "GB00BK964W87"
+  },
+  "industry": "Pharmaceuticals",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "GB00BK964W87",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "CBX.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "GB00BK964W87.SG"
+    }
+  ],
+  "name": "Cellular Goods PLC",
+  "primary_symbol": "CBX.L",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Cellular Goods PLC manufactures and sells biosynthetic cannabinoids-based consumer products in the United Kingdom. The company provides cannabinoid solutions for skin, movement, and daily living. It offers its products through retailers; direct to consumers through its website; and online. The company was formerly known as Leaf Studios PLC and changed its name to Cellular Goods PLC in September 2020. Cellular Goods PLC was incorporated in 2018 and is based in London, United Kingdom.",
+  "website": "http://www.cellulargoods.co"
+}

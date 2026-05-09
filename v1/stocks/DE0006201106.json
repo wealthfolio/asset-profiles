@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BBWNJ6",
+    "figi": "BBG000BBWR98",
+    "isin": "DE0006201106"
+  },
+  "industry": "Communications Equipment",
+  "industry_group": "Capital Goods",
+  "isin": "DE0006201106",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CEA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CEA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "CEA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "CEA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "CEA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "CEA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "CEA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "FRIWO AG O.N.",
+  "primary_symbol": "CEA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "FRIWO AG is a German company specializing in the development and production of technologically advanced power supply units, charging solutions, and e-drive systems. The company's products are used in a variety of applications, including power tools, medical devices, and e-mobility. FRIWO AG is headquartered in Ostbevern, Germany.",
+  "website": "http://www.friwo.com"
+}

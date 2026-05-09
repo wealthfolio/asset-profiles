@@ -1,0 +1,78 @@
+{
+  "country": "China",
+  "country_code": "CN",
+  "identifiers": {
+    "composite_figi": "BBG000BP9V30",
+    "figi": "BBG000BP9Z31",
+    "isin": "CNE1000004Q8"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Energy",
+  "isin": "CNE1000004Q8",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YZCA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YZCA.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YZCAY"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "YZCHF"
+    },
+    {
+      "currency": "HKD",
+      "exchange_mic": "XHKG",
+      "symbol": "1171.HK"
+    },
+    {
+      "currency": "MYR",
+      "exchange_mic": "XKLS",
+      "symbol": "1171.KL"
+    },
+    {
+      "currency": "CNY",
+      "exchange_mic": "XSHG",
+      "symbol": "600188.SS"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YZC.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "YZCA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "YZCA.SG"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "YANZHOU COAL MNG  H YC 1",
+  "primary_symbol": "YZCA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Energy",
+  "summary": "Yanzhou Coal Mining Company Limited is a large-scale coal producer in China. The company is engaged in the exploration, mining, processing, and sale of coal products. Yanzhou Coal Mining Company Limited is based in China.",
+  "website": "http://www.yanzhoucoal.com.cn"
+}

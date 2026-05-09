@@ -1,0 +1,42 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "696389204",
+    "isin": "US6963892046"
+  },
+  "industry": "Biotechnology",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "isin": "US6963892046",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PALI"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7NS2.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "7NSA.F"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Palisade Bio, Inc.",
+  "primary_symbol": "PALI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Health Care",
+  "summary": "Leading BioSciences, Inc. develops therapeutics to improve human health through therapeutic protection of the gastrointestinal mucosal barrier. The company was founded in 2005 and is based in Carlsbad, California.",
+  "website": "http://leadingbiosciences.com"
+}

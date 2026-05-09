@@ -1,0 +1,41 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "isin": "FR0007075494"
+  },
+  "industry": "Metals & Mining",
+  "industry_group": "Materials",
+  "isin": "FR0007075494",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "MGT.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "MGT.AX"
+    },
+    {
+      "currency": "THB",
+      "exchange_mic": "XBKK",
+      "symbol": "MGT.BK"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "MAGNETIC RES NL",
+  "primary_symbol": "MGT.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Magnetite Mines Limited explores for and develops mineral properties in South Australia. Its flagship project include the Razorback Iron project comprising the Razorback Ridge and Iron Peak prospects located in Adelaide, South Australia, as well as the Ironback Hill deposit situated in South Australia. The company was formerly known as Royal Resources Limited and changed its name to Magnetite Mines Limited in December 2015. Magnetite Mines Limited was incorporated in 2004 and is headquartered in Wayville, Australia.",
+  "website": "http://www.magnetitemines.com"
+}

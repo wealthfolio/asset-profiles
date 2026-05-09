@@ -1,0 +1,43 @@
+{
+  "identifiers": {
+    "composite_figi": "BBG000BPZR76",
+    "figi": "BBG000BPZTW4",
+    "isin": "FR0000130577"
+  },
+  "industry_group": "Media & Entertainment",
+  "isin": "FR0000130577",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PU4.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PU4.MU"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "PU4.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "PUB.SG"
+    }
+  ],
+  "name": "PUBLICIS GRP INH. EO 0,40",
+  "primary_symbol": "PU4.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Communications",
+  "summary": "Publicis Groupe S.A. is a global advertising and public relations company. The company offers a range of services, including digital transformation, creative and media services, and healthcare communications. Publicis Groupe is headquartered in Paris, France."
+}

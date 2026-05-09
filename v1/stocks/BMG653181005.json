@@ -1,0 +1,48 @@
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "identifiers": {
+    "composite_figi": "BBG000BM9CJ2",
+    "figi": "BBG000BM9H01",
+    "isin": "BMG653181005"
+  },
+  "industry": "Health Care Providers & Services",
+  "industry_group": "Materials",
+  "isin": "BMG653181005",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N3Y.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "N3Y.MU"
+    },
+    {
+      "currency": "JPY",
+      "exchange_mic": "XTKS",
+      "symbol": "2689.T"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "N3Y.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "NINE DRAG.PAP.HLDGS HD-10",
+  "primary_symbol": "N3Y.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "NINE DRAG.PAP.HLDGS HD-10 is a paper manufacturing company producing a range of paper products, including packaging paper, printing paper, and pulp. The company operates primarily in China and other Asian markets, catering to diverse customer needs in the paper industry. The company is based in Hong Kong.",
+  "website": "http://www.olba.co.jp"
+}

@@ -1,0 +1,31 @@
+{
+  "country": "Italy",
+  "country_code": "IT",
+  "identifiers": {
+    "isin": "IT0005422792"
+  },
+  "industry": "Specialty Retail",
+  "industry_group": "Retailing",
+  "isin": "IT0005422792",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "EUR",
+      "exchange_mic": "XMIL",
+      "symbol": "TD.MI"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "TrenDevice S.p.A.",
+  "primary_symbol": "TD.MI",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Discretionary",
+  "summary": "TrenDevice S.p.A. engages in buying and selling smartphones, tablets, and other hi-tech devices in Italy. It offers refurbished smartphones or tablets. The company was founded in 2013 and is headquartered in Manocalzati, Italy.",
+  "website": "http://www.trendevice.com"
+}

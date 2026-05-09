@@ -1,0 +1,37 @@
+{
+  "country": "France",
+  "country_code": "FR",
+  "identifiers": {
+    "composite_figi": "BBG000PGW634",
+    "isin": "FR0000030074"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "FR0000030074",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "CHF",
+      "exchange_mic": "XSWX",
+      "symbol": "FR0000030074.SW"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XPAR",
+      "symbol": "MALT.PA"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "MALTERIES FRANCO-BELGES",
+  "primary_symbol": "FR0000030074.SW",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Malteries Franco-Belges Soci√É¬©t√É¬© Anonyme produces and sells malt primarily for brewers in France and internationally. It also trades in barley. The company is based in Nogent-sur-Seine, France. Malteries Franco-Belges Soci√É¬©t√É¬© Anonyme is a subsidiary of Malteries Soufflet SAS.",
+  "website": "http://www.malteriesfrancobelges.fr"
+}

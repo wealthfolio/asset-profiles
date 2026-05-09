@@ -1,0 +1,64 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "composite_figi": "BBG0108LB0C7",
+    "cusip": "90364P105",
+    "figi": "BBG0108LB0K8",
+    "isin": "US90364P1057"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "US90364P1057",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9UV.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "9UV.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "PATH"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "9UV.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "9UV.F"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "PATH.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US90364P1057.SG"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "UiPath Inc.",
+  "primary_symbol": "9UV.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "UiPath Inc. provides an end-to-end automation platform that offers a range of robotic process automation (RPA) solutions primarily in the United States, Romania, and Japan. It develops UiPath Studio, a platform designed for RPA developers looking to build complex process automations with built-in governance capabilities, such as robust debugging tools, application programming interface automation, wizards to automate desktop or web applications, leverage custom code, and to integrate machine learning models into production workflows. The company also offers UiPath Robots, which emulates human behavior to execute the processes built in UiPath Studio; and UiPath Orchestrator that tracks and logs robot activity, along with what people do in tandem to maintain strict compliance and governance through dashboards and visualization tools. In addition, it provides maintenance and support for its software, as well as professional services, such as training and implementation services to facilitate the adoption of its platform. UiPath Inc. was founded in 2005 and is headquartered in New York, New York.",
+  "website": "http://www.uipath.com"
+}

@@ -1,0 +1,63 @@
+{
+  "country": "Germany",
+  "country_code": "DE",
+  "identifiers": {
+    "composite_figi": "BBG000BPPPB6",
+    "figi": "BBG000BPPS20",
+    "isin": "DE0007229007"
+  },
+  "industry": "Beverages",
+  "industry_group": "Food, Beverage & Tobacco",
+  "isin": "DE0007229007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWA.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWA.HM"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SWA.MU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XETR",
+      "symbol": "SWA.DE"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "SWA.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "SWA.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "SWA.SG"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "SCHLOSS WACHENHEIM AG O.N",
+  "primary_symbol": "SWA.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Consumer Staples",
+  "summary": "Schloss Wachenheim AG is a German producer of sparkling wine, wine-based beverages, and non-alcoholic beverages. The company's business model encompasses the production, marketing, and distribution of a wide range of beverages, with a focus on sparkling wine brands, headquartered in Wachenheim, Germany. Schloss Wachenheim AG sells its products both domestically and internationally.",
+  "website": "http://www.schloss-wachenheim.com"
+}

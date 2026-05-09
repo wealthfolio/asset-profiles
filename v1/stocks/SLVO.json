@@ -1,0 +1,26 @@
+{
+  "country": "Switzerland",
+  "country_code": "CH",
+  "industry": "Diversified Financial Services",
+  "industry_group": "Diversified Financials",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "SLVO"
+    }
+  ],
+  "market_cap_band": "Micro Cap",
+  "name": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21 2033",
+  "primary_symbol": "SLVO",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Financials",
+  "summary": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21 2033 is an exchange-traded note providing exposure to a covered call strategy on silver prices. The ETN seeks to generate income from the premiums received from writing call options on silver. The notes are issued by Credit Suisse."
+}

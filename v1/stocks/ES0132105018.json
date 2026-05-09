@@ -1,0 +1,51 @@
+{
+  "identifiers": {
+    "isin": "ES0132105018"
+  },
+  "industry_group": "Materials",
+  "isin": "ES0132105018",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "0OIQ.IL"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACE1.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACE1.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "ACX.HM"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "ACE1.DU"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "ACE1.SG"
+    }
+  ],
+  "name": "ACERINOX SA ACERINOX ORD SHS",
+  "primary_symbol": "0OIQ.IL",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "ACERINOX SA is a Spanish stainless steel manufacturer, producing flat and long stainless steel products. The company serves various industries, including automotive, construction, and food processing. Its headquarters are located in Madrid, Spain."
+}

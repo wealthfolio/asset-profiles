@@ -1,0 +1,57 @@
+{
+  "country": "United States",
+  "country_code": "US",
+  "identifiers": {
+    "cusip": "923454102",
+    "isin": "US9234541020"
+  },
+  "industry": "Industrial Conglomerates",
+  "industry_group": "Materials",
+  "isin": "US9234541020",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "288.MU"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "VRTV"
+    },
+    {
+      "currency": "GBP",
+      "exchange_mic": "XLON",
+      "symbol": "0LP2.L"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "288.F"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "US9234541020.SG"
+    },
+    {
+      "currency": "MXN",
+      "exchange_mic": "XMEX",
+      "symbol": "VRTV.MX"
+    }
+  ],
+  "market_cap_band": "Mid Cap",
+  "name": "VERITIV CORP.  DL-,01",
+  "primary_symbol": "288.MU",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Materials",
+  "summary": "Veritiv Corporation is a business-to-business distributor of printing papers, packaging, facility solutions, and publishing supplies. The company provides a range of products and services to customers in various industries. Veritiv is headquartered in Atlanta, Georgia.",
+  "website": "http://www.veritivcorp.com"
+}

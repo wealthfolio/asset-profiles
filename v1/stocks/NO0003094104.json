@@ -1,0 +1,63 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000C3SKL1",
+    "figi": "BBG000C3SNW3",
+    "isin": "NO0003094104"
+  },
+  "industry": "Capital Markets",
+  "industry_group": "Transportation",
+  "isin": "NO0003094104",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "NS6.BE"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "BEL.AX"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XBOM",
+      "symbol": "BEL.BO"
+    },
+    {
+      "currency": "ZAR",
+      "exchange_mic": "XJSE",
+      "symbol": "BEL.JO"
+    },
+    {
+      "currency": "INR",
+      "exchange_mic": "XNSE",
+      "symbol": "BEL.NS"
+    },
+    {
+      "currency": "NOK",
+      "exchange_mic": "XOSL",
+      "symbol": "BELCO.OL"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XFRA",
+      "symbol": "NS6.F"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "BELSHIPS ASA  NK 2",
+  "primary_symbol": "NS6.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "BELSHIPS ASA NK 2 is a Norwegian shipping company specializing in the transportation of heavy lift and project cargo. The company operates a fleet of specialized vessels designed for transporting large and heavy items. Belships ASA is headquartered in Oslo, Norway.",
+  "website": "http://www.bel.com.au"
+}

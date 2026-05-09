@@ -1,0 +1,41 @@
+{
+  "country": "Indonesia",
+  "country_code": "ID",
+  "identifiers": {
+    "isin": "ID1000106701"
+  },
+  "industry": "Oil, Gas & Consumable Fuels",
+  "industry_group": "Transportation",
+  "isin": "ID1000106701",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "RK6A.BE"
+    },
+    {
+      "currency": "IDR",
+      "exchange_mic": "XIDX",
+      "symbol": "AKRA.JK"
+    },
+    {
+      "currency": "EUR",
+      "exchange_mic": "XSTU",
+      "symbol": "RK6A.SG"
+    }
+  ],
+  "market_cap_band": "Small Cap",
+  "name": "AKR CORPORINDO TBK RP 100",
+  "primary_symbol": "RK6A.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Industrials",
+  "summary": "PT AKR Corporindo Tbk is an Indonesian company involved in logistics and supply chain solutions, particularly in the distribution of petroleum and basic chemicals. The company also provides warehousing and transportation services. AKR Corporindo aims to be a leading integrated supply chain provider in Indonesia.",
+  "website": "http://www.akr.co.id"
+}

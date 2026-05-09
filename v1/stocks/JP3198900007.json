@@ -1,0 +1,48 @@
+{
+  "country": "Australia",
+  "country_code": "AU",
+  "identifiers": {
+    "composite_figi": "BBG000KP9C14",
+    "figi": "BBG000KPBJ52",
+    "isin": "JP3198900007"
+  },
+  "industry": "Software",
+  "industry_group": "Software & Services",
+  "isin": "JP3198900007",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OLL.BE"
+    },
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "OLL.MU"
+    },
+    {
+      "currency": "AUD",
+      "exchange_mic": "XASX",
+      "symbol": "OLL.AX"
+    },
+    {
+      "currency": "AED",
+      "exchange_mic": "DIFX",
+      "symbol": "OLL.DU"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "ORIENTAL LAND CO.",
+  "primary_symbol": "OLL.BE",
+  "provenance": {
+    "fetched_at": "2026-05-09T21:49:07Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Information Technology",
+  "summary": "OpenLearning Limited, together with its subsidiaries, provides OpenLearning platform to education providers for delivery of online education courses. The company offers cloud-hosted social learning platform for delivering short courses blended learning and online degrees; and learning design services. It also engages in the promotion and sale of educational courses through a global marketplace. The company was incorporated in 2019 and is based in Surry Hills, Australia.",
+  "website": "http://www.openlearning.com"
+}
