@@ -128,6 +128,23 @@ def _index_stocks(stocks: Iterable[dict]) -> tuple[dict, dict]:
     return by_isin, by_symbol
 
 
+def _synthetic_override(ticker: str) -> bool:
+    """True if `manual_overrides/{ticker}.json` declares `_synthetic: true`.
+
+    Synthetic records bypass the EDGAR/issuer-scraper fetch entirely; the
+    override file alone supplies weights, holdings, and identifiers. Used
+    for commodity ETFs (GLD, SLV) whose underlying isn't a security and
+    whose upstream filings are degenerate.
+    """
+    path = OVERRIDES_DIR / f"{ticker}.json"
+    if not path.exists():
+        return False
+    try:
+        return bool(json.loads(path.read_text(encoding="utf-8")).get("_synthetic"))
+    except (json.JSONDecodeError, OSError):
+        return False
+
+
 def build_etfs(
     universe: list[dict],
     fd_etfs_meta: dict[str, dict],
@@ -152,30 +169,40 @@ def build_etfs(
         source_label = source_url = license_label = None
         holdings = None
 
-        try:
-            if cik:
-                holdings = edgar.fetch_latest_nport(cik)
-                source_label = "SEC EDGAR N-PORT"
-                source_url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}"
-                license_label = "public domain"
-        except (edgar.NotFoundError, edgar.NotUSDomiciledError) as e:
-            log.info("EDGAR miss for %s: %s; falling back to issuer scraper", ticker, e)
-            holdings = None
-        except Exception as e:
-            log.warning("EDGAR error for %s: %s", ticker, e)
-
-        if holdings is None:
+        if _synthetic_override(ticker):
+            log.info("synthetic override for %s; skipping fetch", ticker)
+            holdings = {"as_of_date": None, "total_value": None, "holdings": []}
+            source_label = "manual override"
+            source_url = (
+                "https://github.com/wealthfolio/asset-profiles/blob/main/"
+                f"manual_overrides/{ticker}.json"
+            )
+            license_label = "manual"
+        else:
             try:
-                issuer = entry.get("issuer") or meta_extra.get("issuer")
-                holdings = issuer_scraper.fetch_issuer_holdings(ticker, issuer)
-                source_label = f"Issuer holdings ({issuer or 'unknown'})"
-                source_url = issuer_scraper.source_url_for(ticker, issuer)
-                license_label = "issuer ToS (attributed, non-commercial)"
+                if cik:
+                    holdings = edgar.fetch_latest_nport(cik)
+                    source_label = "SEC EDGAR N-PORT"
+                    source_url = f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}"
+                    license_label = "public domain"
+            except (edgar.NotFoundError, edgar.NotUSDomiciledError) as e:
+                log.info("EDGAR miss for %s: %s; falling back to issuer scraper", ticker, e)
+                holdings = None
             except Exception as e:
-                msg = f"{type(e).__name__}: {e}"
-                log.error("ETF %s failed: %s", ticker, msg)
-                errors.append((ticker, msg))
-                continue
+                log.warning("EDGAR error for %s: %s", ticker, e)
+
+            if holdings is None:
+                try:
+                    issuer = entry.get("issuer") or meta_extra.get("issuer")
+                    holdings = issuer_scraper.fetch_issuer_holdings(ticker, issuer)
+                    source_label = f"Issuer holdings ({issuer or 'unknown'})"
+                    source_url = issuer_scraper.source_url_for(ticker, issuer)
+                    license_label = "issuer ToS (attributed, non-commercial)"
+                except Exception as e:
+                    msg = f"{type(e).__name__}: {e}"
+                    log.error("ETF %s failed: %s", ticker, msg)
+                    errors.append((ticker, msg))
+                    continue
 
         try:
             record = normalize.normalize_etf(

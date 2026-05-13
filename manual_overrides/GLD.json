@@ -1,0 +1,23 @@
+{
+  "_note": "Commodity ETF — holds physical gold bullion (London vault custody), not securities. No N-PORT and the issuer scraper's holdings file is degenerate (one line: 'Gold Bullion'), so we synthesize the record. _synthetic: true tells build.py to skip the fetch entirely.",
+  "_synthetic": true,
+  "isin": "US78463V1070",
+  "name": "SPDR Gold Shares",
+  "issuer": "SSGA",
+  "category_group": "Commodity",
+  "category": "Precious Metals",
+  "identifiers": {
+    "isin": "US78463V1070"
+  },
+  "asset_class_weights": [
+    { "asset_class": "Commodity", "weight": 1.0 }
+  ],
+  "country_weights": [
+    { "country": "United Kingdom", "country_code": "GB", "weight": 1.0 }
+  ],
+  "sector_weights": [],
+  "top_holdings": [
+    { "name": "Physical Gold Bullion", "weight": 1.0 }
+  ],
+  "holdings_count": 1
+}

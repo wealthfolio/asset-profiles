@@ -332,7 +332,7 @@ def normalize_etf(
         "isin":   h.get("isin"),
         "cusip":  h.get("cusip"),
         "name":   h.get("name"),
-        "weight": h.get("weight"),
+        "weight": _clamp_unit(h.get("weight")),
     }) for h in top_holdings]
 
     record = {
@@ -407,6 +407,13 @@ def _enrich_holding(
     return enriched
 
 
+# Buckets below this fraction of the positive total are dropped as noise.
+# Covers float drift in N-PORT filings (e.g. cash residuals at 7e-5) and the
+# short-leg notionals of inverse/leveraged funds, which would otherwise
+# produce out-of-range negative weights that the schema rejects.
+_WEIGHT_NOISE = 1e-4
+
+
 def _aggregate_weights(holdings: list[dict], key: str) -> list[dict]:
     """Sum `weight` per `key` value, then renormalize to sum to 1.0.
 
@@ -420,7 +427,8 @@ def _aggregate_weights(holdings: list[dict], key: str) -> list[dict]:
         w = h.get("weight")
         if val and w is not None:
             totals[val] += float(w)
-    return _renormalized(totals, key)
+    cleaned = _clean_buckets(totals)
+    return [{key: k, "weight": w} for k, w in cleaned]
 
 
 def _aggregate_country_weights(holdings: list[dict]) -> list[dict]:
@@ -432,27 +440,41 @@ def _aggregate_country_weights(holdings: list[dict]) -> list[dict]:
         w = h.get("weight")
         if country and w is not None:
             totals[(country, code)] += float(w)
-    total = sum(totals.values())
-    if total <= 0:
-        return []
-    out = [
-        _strip_empty({
-            "country": c,
-            "country_code": code,
-            "weight": round(w / total, 6),
-        })
-        for (c, code), w in totals.items()
+    cleaned = _clean_buckets(totals)
+    return [
+        _strip_empty({"country": c, "country_code": code, "weight": w})
+        for (c, code), w in cleaned
     ]
-    out.sort(key=lambda d: d["weight"], reverse=True)
-    return out
 
 
-def _renormalized(totals: dict[str, float], key: str) -> list[dict]:
-    total = sum(totals.values())
-    if total <= 0:
+def _clamp_unit(w) -> Optional[float]:
+    if w is None:
+        return None
+    try:
+        x = float(w)
+    except (TypeError, ValueError):
+        return None
+    if x < 0:
+        return 0.0
+    return round(min(x, 1.0), 6)
+
+
+def _clean_buckets(totals):
+    """Drop negative/noise buckets, renormalize survivors to sum to 1.0.
+
+    Returns a list of (key, weight) pairs sorted by descending weight, each
+    weight clamped to (0, 1].
+    """
+    pos_total = sum(v for v in totals.values() if v > 0)
+    if pos_total <= 0:
         return []
-    out = [{key: k, "weight": round(v / total, 6)} for k, v in totals.items()]
-    out.sort(key=lambda d: d["weight"], reverse=True)
+    threshold = _WEIGHT_NOISE * pos_total
+    survivors = [(k, v) for k, v in totals.items() if v >= threshold]
+    keepers_sum = sum(v for _, v in survivors)
+    if keepers_sum <= 0:
+        return []
+    out = [(k, min(round(v / keepers_sum, 6), 1.0)) for k, v in survivors]
+    out.sort(key=lambda kv: kv[1], reverse=True)
     return out
 
 
@@ -471,6 +493,7 @@ def apply_overrides(record: dict, overrides_dir: Path) -> dict:
         log.warning("invalid override %s: %s", path, e)
         return record
     patch.pop("_note", None)  # documentation, not data
+    patch.pop("_synthetic", None)  # build-pipeline marker, not data
     merged = _deep_merge(record, patch)
     log.info("applied override %s.json", key)
     return merged

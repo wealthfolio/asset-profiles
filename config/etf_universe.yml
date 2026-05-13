@@ -15,10 +15,10 @@ etfs:
     name: "SPDR S&P 500 ETF Trust"
     issuer: SSGA
     cik: "0000884394"
-  - ticker: DIA
-    name: "SPDR Dow Jones Industrial Average ETF Trust"
-    issuer: SSGA
-    cik: "0001029850"
+  # DIA: EDGAR has no NPORT-P for CIK 0001029850 and etf-scraper 0.1.2
+  #      crashes on the SSGA file (`Expected file path name or file-like
+  #      object, got <class 'bytes'>`). Reintroduce when the library
+  #      ships a fix or we write a direct SSGA scraper.
   - ticker: XLF
     name: "Financial Select Sector SPDR Fund"
     issuer: SSGA
@@ -60,19 +60,19 @@ etfs:
   - ticker: VEA
     name: "Vanguard FTSE Developed Markets ETF"
     issuer: Vanguard
-    cik: "0001000275"
+    cik: "0000857489"  # Vanguard International Equity Index Funds
   - ticker: VWO
     name: "Vanguard FTSE Emerging Markets ETF"
     issuer: Vanguard
-    cik: "0001000275"
+    cik: "0000857489"
   - ticker: VXUS
     name: "Vanguard Total International Stock ETF"
     issuer: Vanguard
-    cik: "0001000275"
+    cik: "0000857489"
   - ticker: BND
     name: "Vanguard Total Bond Market ETF"
     issuer: Vanguard
-    cik: "0000846909"
+    cik: "0000794105"  # Vanguard Bond Index Funds
   - ticker: VTV
     name: "Vanguard Value ETF"
     issuer: Vanguard
@@ -217,10 +217,9 @@ etfs:
     name: "iShares Semiconductor ETF"
     issuer: iShares
     cik: "0001100663"
-  - ticker: SMH
-    name: "VanEck Semiconductor ETF"
-    issuer: VanEck
-    cik: "0000868368"
+  # SMH (VanEck): no issuer scraper available — etf-scraper supports
+  #      iShares / Vanguard / SSGA / Invesco only. Reintroduce when a
+  #      VanEck scraper or direct EDGAR path lands.
   - ticker: XBI
     name: "SPDR S&P Biotech ETF"
     issuer: SSGA
@@ -234,47 +233,17 @@ etfs:
     issuer: iShares
     cik: "0001100663"
 
-  # ---- Non-US (issuer scraper fallback) -------------------------------
-
-  # UCITS (Ireland-domiciled, traded on LSE/Xetra/etc.)
-  - ticker: CSPX
-    name: "iShares Core S&P 500 UCITS ETF (Acc)"
-    issuer: iShares
-  - ticker: IWDA
-    name: "iShares Core MSCI World UCITS ETF (Acc)"
-    issuer: iShares
-  - ticker: EIMI
-    name: "iShares Core MSCI EM IMI UCITS ETF (Acc)"
-    issuer: iShares
-  - ticker: VWRL
-    name: "Vanguard FTSE All-World UCITS ETF (Dist)"
-    issuer: Vanguard
-  - ticker: VWCE
-    name: "Vanguard FTSE All-World UCITS ETF (Acc)"
-    issuer: Vanguard
-  - ticker: AGGH
-    name: "iShares Core Global Aggregate Bond UCITS ETF"
-    issuer: iShares
-  - ticker: SXR8
-    name: "iShares Core S&P 500 UCITS ETF (Acc) — Xetra"
-    issuer: iShares
-  - ticker: VHYL
-    name: "Vanguard FTSE All-World High Dividend Yield UCITS"
-    issuer: Vanguard
-
-  # Canadian (TSX)
-  - ticker: XIC.TO
-    name: "iShares Core S&P/TSX Capped Composite Index ETF"
-    issuer: iShares
-  - ticker: VFV.TO
-    name: "Vanguard S&P 500 Index ETF (CAD-hedged)"
-    issuer: Vanguard
-  - ticker: ZSP.TO
-    name: "BMO S&P 500 Index ETF"
-    issuer: BMO
-  - ticker: XEQT.TO
-    name: "iShares Core Equity ETF Portfolio"
-    issuer: iShares
-  - ticker: VEQT.TO
-    name: "Vanguard All-Equity ETF Portfolio"
-    issuer: Vanguard
+  # ---- Non-US (deferred) ----------------------------------------------
+  #
+  # UCITS (Ireland-domiciled, traded on LSE/Xetra) and TSX-listed funds
+  # were removed from the universe in 2026-05 because etf-scraper 0.1.2
+  # keys off US ticker symbols and returns "No listings found for
+  # ticker X" for foreign tickers like CSPX/IWDA/VWCE/XIC.TO/etc.
+  #
+  # To re-enable, we'd need either:
+  #   (a) a foreign-domicile scraper (issuer-direct CSV per ticker), or
+  #   (b) a Morningstar / Refinitiv data feed.
+  #
+  # Tickers parked for reintroduction:
+  #   UCITS: CSPX, IWDA, EIMI, VWRL, VWCE, AGGH, SXR8, VHYL
+  #   TSX:   XIC.TO, VFV.TO, ZSP.TO (BMO), XEQT.TO, VEQT.TO
