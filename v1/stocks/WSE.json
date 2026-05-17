@@ -1,0 +1,25 @@
+{
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "industry": "Real Estate Management & Development",
+  "industry_group": "Real Estate",
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WSE"
+    }
+  ],
+  "market_cap_band": "Large Cap",
+  "name": "Wise Group plc Class A Ordinary Shares",
+  "primary_symbol": "WSE",
+  "provenance": {
+    "fetched_at": "2026-05-17T08:09:19Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0",
+  "sector": "Real Estate"
+}

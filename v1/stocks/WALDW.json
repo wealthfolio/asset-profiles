@@ -1,0 +1,20 @@
+{
+  "kind": "stock",
+  "listings": [
+    {
+      "currency": "USD",
+      "exchange_mic": "XNYS",
+      "symbol": "WALDW"
+    }
+  ],
+  "market_cap_band": "Nano Cap",
+  "name": "Waldencast plc",
+  "primary_symbol": "WALDW",
+  "provenance": {
+    "fetched_at": "2026-05-17T08:09:19Z",
+    "license": "MIT",
+    "source": "FinanceDatabase",
+    "source_url": "https://github.com/JerBouma/FinanceDatabase"
+  },
+  "schema_version": "1.0.0"
+}
